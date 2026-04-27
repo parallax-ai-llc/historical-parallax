@@ -5,7 +5,7 @@ birth: "1950-12-01"
 death: "Unknown"
 nationality: "Guatemala"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Foto_oficial_de_Presidente_Otto_Molina_Perez_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Otto_P%C3%A9rez_Molina"
 lastUpdated: "2026-02-26"

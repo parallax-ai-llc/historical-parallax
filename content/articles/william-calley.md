@@ -5,7 +5,7 @@ birth: "1943-06-08"
 death: "Unknown"
 nationality: "United States"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/William_Calley_Jr.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Calley"
 lastUpdated: "2026-02-26"

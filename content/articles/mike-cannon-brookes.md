@@ -5,7 +5,7 @@ birth: "1979-11-22"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mike_Cannon-Brookes_Australian_businessman.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mike_Cannon-Brookes"
 lastUpdated: "2026-02-21"

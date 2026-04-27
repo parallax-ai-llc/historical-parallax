@@ -5,7 +5,7 @@ birth: "1947-05-06"
 death: "Unknown"
 nationality: "American"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Ronald_L_Rivest_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronald_Rivest"
 lastUpdated: "2026-02-26"

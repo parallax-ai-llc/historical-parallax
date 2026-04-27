@@ -5,7 +5,7 @@ birth: "1859-11-11"
 death: "1938-07-16"
 nationality: "United States"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Samuel-Insull-Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Insull"
 lastUpdated: "2026-02-26"

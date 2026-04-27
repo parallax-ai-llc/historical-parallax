@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "France"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/13_November_2015_Paris_attacks_-_montage.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paris_November_2015_Attacks"
 lastUpdated: "2026-02-26"

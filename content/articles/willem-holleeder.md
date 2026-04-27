@@ -5,7 +5,7 @@ birth: "1958-05-29"
 death: "Unknown"
 nationality: "Netherlands"
 occupation: ["Crime Boss", "Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Willem_Holleeder_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Willem_Holleeder"
 lastUpdated: "2026-02-26"

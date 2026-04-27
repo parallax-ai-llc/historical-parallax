@@ -5,7 +5,7 @@ birth: "1966-01-01"
 death: "Unknown"
 nationality: "Moldova"
 occupation: ["Oligarch"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vlad_Plahotniuc_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Plahotniuc"
 lastUpdated: "2026-02-26"

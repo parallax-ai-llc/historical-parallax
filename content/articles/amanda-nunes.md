@@ -5,7 +5,7 @@ birth: "1988-05-30"
 death: "Unknown"
 nationality: "Brazilian"
 occupation: ["Athlete", "MMA Fighter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ceremonial_weigh_ins_-_Amanda_Nunes_vs_Julianna_Pe%C3%B1a_UFC_269_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amanda_Nunes"
 lastUpdated: "2026-02-26"

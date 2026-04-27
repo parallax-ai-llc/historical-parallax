@@ -5,7 +5,7 @@ birth: "0053-06-01"
 death: "0053-06-01"
 nationality: "Parthia"
 occupation: ["Historical Event", "Battle", "Ancient War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Battle_of_Carrhae_%28Caesar%CB%90_A_History_Of_The_Art_Of_War_Among_The_Romans_Down_To_The_End%2C_vol._II%2C_1892%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Carrhae"
 lastUpdated: "2026-02-21"

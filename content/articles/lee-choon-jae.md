@@ -5,7 +5,7 @@ birth: "1963-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Leechoonjae.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Choon-jae"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1986-01-01"
 death: "Unknown"
 nationality: "Colombian-British"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/OscarMurilloPortrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oscar_Murillo"
 lastUpdated: "2026-02-21"

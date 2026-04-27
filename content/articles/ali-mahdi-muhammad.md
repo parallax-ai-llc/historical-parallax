@@ -5,7 +5,7 @@ birth: "1939-01-01"
 death: "2014-12-07"
 nationality: "Somalia"
 occupation: ["Warlord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/%D0%90%D0%BB%D0%B8_%D0%9C%D0%B0%D1%85%D0%B4%D0%B8_%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%B5%D0%B4_08_%282020%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Mahdi_Muhammad"
 lastUpdated: "2026-02-26"

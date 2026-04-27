@@ -5,7 +5,7 @@ birth: "1741-10-30"
 death: "1807-11-05"
 nationality: "Swiss"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/c1/Portrait_of_Angelica_Kauffman_%281764%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Angelica_Kauffman"
 lastUpdated: "2026-02-21"

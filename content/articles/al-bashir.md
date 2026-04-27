@@ -5,7 +5,7 @@ birth: "1944-01-01"
 death: "Unknown"
 nationality: "Sudan"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Omar_al-Bashir%2C_12th_AU_Summit_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Bashir"
 lastUpdated: "2026-02-26"

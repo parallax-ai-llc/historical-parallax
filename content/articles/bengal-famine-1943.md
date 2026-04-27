@@ -5,6 +5,7 @@ location: "Bengal Province, British India (modern-day Bangladesh and West Bengal
 keyFigures: ["Winston Churchill", "Leopold Amery", "Lord Linlithgow", "Archibald Wavell", "Fredrick Burrows"]
 casualties: "2.1 to 3.8 million deaths"
 outcome: "Devastating loss of life, Fuel for Indian Independence, Bengal Famine Inquiry Commission (1945)"
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dead_or_dying_children_on_a_Calcutta_street_%28the_Statesman_22_August_1943%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bengal_famine_of_1943"
 lastUpdated: "2025-12-23"

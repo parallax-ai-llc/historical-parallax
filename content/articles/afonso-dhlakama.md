@@ -5,7 +5,7 @@ birth: "1953-01-01"
 death: "2018-05-03"
 nationality: "Mozambique"
 occupation: ["Warlord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Afonso_Dhlakama.jpg/3840px-Afonso_Dhlakama.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Afonso_Dhlakama"
 lastUpdated: "2026-02-26"

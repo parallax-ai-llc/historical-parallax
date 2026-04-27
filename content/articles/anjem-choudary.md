@@ -5,7 +5,7 @@ birth: "1967-01-18"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Anjem_Choudary_hires.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anjem_Choudary"
 lastUpdated: "2026-02-26"

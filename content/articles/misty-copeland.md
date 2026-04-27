@@ -3,6 +3,7 @@ name: "Misty Copeland"
 birth: "1982-09-10"
 nationality: "American"
 occupation: ["Ballet Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Life_In_Motion_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Misty_Copeland"
 lastUpdated: "2026-03-12"

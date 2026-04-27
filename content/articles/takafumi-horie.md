@@ -5,7 +5,7 @@ birth: "1972-10-29"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Horie_Takafumi_20211030.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takafumi_Horie"
 lastUpdated: "2026-02-26"

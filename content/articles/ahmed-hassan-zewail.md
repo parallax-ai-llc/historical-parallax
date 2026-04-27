@@ -5,7 +5,7 @@ birth: "1946-02-26"
 death: "2016-08-02"
 nationality: "Egyptian-American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ahmed_Zewail_HD2009_Othmer_Gold_Medal_portrait.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmed_Hassan_Zewail"
 lastUpdated: "2026-02-26"

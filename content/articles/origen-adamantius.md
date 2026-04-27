@@ -5,7 +5,7 @@ birth: "0185-01-01"
 death: "0253-01-01"
 nationality: "Egyptian"
 occupation: ["Theologian", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Origen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Origen_Adamantius"
 lastUpdated: "2026-02-21"

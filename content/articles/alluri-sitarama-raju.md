@@ -5,7 +5,7 @@ birth: "1897-07-04"
 death: "1924-05-07"
 nationality: "India"
 occupation: ["Historical Criminal", "Rebel"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Alluri_Sita_Rama_Raju_statue.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alluri_Sitarama_Raju"
 lastUpdated: "2026-02-26"

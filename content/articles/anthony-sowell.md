@@ -5,7 +5,7 @@ birth: "1959-08-19"
 death: "2021-02-08"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/ad/Anthony_E._Sowell.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anthony_Sowell"
 lastUpdated: "2026-02-21"

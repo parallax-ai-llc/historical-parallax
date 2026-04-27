@@ -5,7 +5,7 @@ birth: "1953-09-02"
 death: "2001-09-09"
 nationality: "Afghanistan"
 occupation: ["Warlord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Ahmad_Shah_Massoud_EP_2001_%285%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmad_Shah_Massoud"
 lastUpdated: "2026-02-26"

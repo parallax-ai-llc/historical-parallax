@@ -5,7 +5,7 @@ birth: "1967-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/%EC%9D%B4%EC%83%81%EB%AF%BC_%EA%B4%91%EA%B3%A0%EC%B4%AC%EC%98%81_%ED%98%84%EC%9E%A5_21s.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Sang-min"
 lastUpdated: "2026-02-26"

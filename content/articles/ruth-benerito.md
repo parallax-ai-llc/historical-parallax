@@ -5,7 +5,7 @@ birth: "1916-01-12"
 death: "2013-10-05"
 nationality: "American"
 occupation: ["Chemist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Ruth_R._Benerito.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ruth_Benerito"
 lastUpdated: "2026-02-21"

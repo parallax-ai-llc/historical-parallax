@@ -5,7 +5,7 @@ birth: "1972-01-01"
 death: "Unknown"
 nationality: "China"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/X-ray_of_infant_respiratory_distress_syndrome_%28IRDS%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Weijing"
 lastUpdated: "2026-02-26"

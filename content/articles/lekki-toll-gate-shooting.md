@@ -5,7 +5,7 @@ birth: "2020-10-20"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Lekki-toll-gate-lagos.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lekki_Toll_Gate_Shooting"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1996-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corporate Criminals"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Between_the_Door_and_the_Street%2C_Suzanne_Lacy%2C_Installation_at_the_Brooklyn_Museum.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sackler_Family"
 lastUpdated: "2026-02-26"

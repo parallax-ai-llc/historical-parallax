@@ -5,7 +5,7 @@ birth: "1965-02-25"
 death: "Unknown"
 nationality: "French"
 occupation: ["Ballet Dancer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Sylvie_Guillem_%26_Russell_Maliphan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sylvie_Guillem"
 lastUpdated: "2026-02-21"

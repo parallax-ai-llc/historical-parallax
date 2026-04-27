@@ -5,7 +5,7 @@ birth: "1883-12-03"
 death: "1945-09-15"
 nationality: "Austrian"
 occupation: ["Composer", "Conductor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Anton_Webern_in_Stettin%2C_October_1912.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anton_Webern"
 lastUpdated: "2026-02-21"

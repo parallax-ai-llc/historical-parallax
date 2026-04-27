@@ -5,7 +5,7 @@ birth: "2018-11-14"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corporate Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Samsung_headquarters.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samsung_BioLogics_Accounting_Fraud"
 lastUpdated: "2026-02-26"

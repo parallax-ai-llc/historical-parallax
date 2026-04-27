@@ -5,7 +5,7 @@ birth: "1946-01-01"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Polymer chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Swaminathan_Sivaram_-_Kolkata_2011-08-02_4634.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swaminathan_Sivaram"
 lastUpdated: "2026-02-21"

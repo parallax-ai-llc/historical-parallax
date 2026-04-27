@@ -5,7 +5,7 @@ birth: "1989-11-08"
 death: "Unknown"
 nationality: "American"
 occupation: ["Singer", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/KendrickSZASPurs230725-19_-_54683179509_%28cropped%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/SZA"
 lastUpdated: "2026-02-21"

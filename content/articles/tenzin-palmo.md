@@ -5,7 +5,7 @@ birth: "1943-06-11"
 death: "N/A"
 nationality: "British"
 occupation: ["Nun", "Author", "Teacher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Jetsunma_Tenzin_Palmo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tenzin_Palmo"
 lastUpdated: "2026-02-21"

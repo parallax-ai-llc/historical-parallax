@@ -5,7 +5,7 @@ birth: "1954-02-20"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Kidnapping Victim", "Bank Robber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Patti_Hearst1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patty_Hearst"
 lastUpdated: "2026-02-26"

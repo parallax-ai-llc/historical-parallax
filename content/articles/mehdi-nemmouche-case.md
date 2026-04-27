@@ -5,7 +5,7 @@ birth: "2014-05-24"
 death: "Unknown"
 nationality: "Belgium"
 occupation: ["Terror Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Bruxelles_rue_des_Minimes_21.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mehdi_Nemmouche_Case"
 lastUpdated: "2026-02-26"

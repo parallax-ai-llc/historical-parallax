@@ -3,6 +3,7 @@ name: "Takao Doi"
 birth: "1954-09-18"
 nationality: "Japanese"
 occupation: ["Astronaut", "Aerospace Engineer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Doi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takao_Doi"
 lastUpdated: "2026-03-12"

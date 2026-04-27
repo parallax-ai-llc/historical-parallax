@@ -5,7 +5,7 @@ birth: "1822-03-16"
 death: "1899-05-25"
 nationality: "French"
 occupation: ["Painter", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Rosa_Bonheur_agee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rosa_Bonheur"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1901-12-05"
 death: "1976-02-01"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Werner_Heisenberg_Portrait_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Werner_Karl_Heisenberg"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1967-03-06"
 death: "living"
 nationality: "German"
 occupation: ["Physician", "Immunologist", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Ozlem_Tureci_v1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ozlem_Tureci"
 lastUpdated: "2026-02-21"

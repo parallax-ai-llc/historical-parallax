@@ -5,7 +5,7 @@ birth: "1952-08-25"
 death: "2021-06-21"
 nationality: "German"
 occupation: ["Entrepreneur", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Wobben.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aloys_Wobben"
 lastUpdated: "2026-02-21"

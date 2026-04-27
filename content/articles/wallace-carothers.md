@@ -5,7 +5,7 @@ birth: "1896-04-27"
 death: "1937-04-29"
 nationality: "American"
 occupation: ["Chemist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Wallace_Carothers%2C_in_the_lab.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wallace_Carothers"
 lastUpdated: "2026-02-21"

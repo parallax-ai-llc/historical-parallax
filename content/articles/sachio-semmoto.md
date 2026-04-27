@@ -5,7 +5,7 @@ birth: "1942-03-30"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Entrepreneur", "Telecom"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/36._St.Gallen_Symposium-Sachio_Semmoto-HSGN_028-01835.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sachio_Semmoto"
 lastUpdated: "2026-02-21"

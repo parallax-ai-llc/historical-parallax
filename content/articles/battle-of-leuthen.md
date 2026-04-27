@@ -5,7 +5,7 @@ birth: "1757-12-05"
 death: "1757-12-05"
 nationality: "Prussia"
 occupation: ["Historical Event", "Battle", "Seven Years War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Battle_of_Leuthen_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Leuthen"
 lastUpdated: "2026-02-21"

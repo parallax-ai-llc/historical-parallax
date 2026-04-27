@@ -5,7 +5,7 @@ birth: "1967-01-27"
 death: "1967-01-27"
 nationality: "Global"
 occupation: ["Historical Event", "Treaty", "International Law"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Outer_Space_Treaty_parties.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Outer_Space_Treaty"
 lastUpdated: "2026-02-21"

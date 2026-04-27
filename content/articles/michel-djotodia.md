@@ -5,7 +5,7 @@ birth: "1949-01-01"
 death: "Unknown"
 nationality: "Central African Republic"
 occupation: ["Warlord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Michel_Djotodia_in_2020.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michel_Djotodia"
 lastUpdated: "2026-02-26"

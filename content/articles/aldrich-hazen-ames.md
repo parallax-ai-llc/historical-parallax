@@ -5,7 +5,7 @@ birth: "1941-06-26"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Aldrich_Ames_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aldrich_Hazen_Ames"
 lastUpdated: "2026-02-26"

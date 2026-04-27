@@ -5,7 +5,7 @@ birth: "-385-01-01"
 death: "-336-01-01"
 nationality: "Ancient Greece"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pausanius_assassinates_Philip_during_the_procession_into_the_theatre_by_Andre_Castaigne_%281898-1899%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pausanias_of_Orestis"
 lastUpdated: "2026-02-26"

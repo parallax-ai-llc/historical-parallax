@@ -5,7 +5,7 @@ birth: "1917-08-15"
 death: "1980-03-24"
 nationality: "Salvadoran"
 occupation: ["Archbishop", "Theologian", "Martyr"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Monse%C3%B1or_Romero_%28colour%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oscar_Romero"
 lastUpdated: "2026-02-21"

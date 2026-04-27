@@ -5,7 +5,7 @@ birth: "1877-01-18"
 death: "1961-11-30"
 nationality: "United States"
 occupation: ["Corporate Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Sam_Zemurray%2C_1934.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Zemurray"
 lastUpdated: "2026-02-26"

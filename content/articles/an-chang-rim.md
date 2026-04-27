@@ -5,7 +5,7 @@ birth: "1994-06-15"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Medalist", "Judoka"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Anchangrim.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/An_Chang-rim"
 lastUpdated: "2026-02-26"

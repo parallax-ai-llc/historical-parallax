@@ -5,7 +5,7 @@ birth: "1897-07-20"
 death: "1996-08-01"
 nationality: "Polish-Swiss"
 occupation: ["Chemist", "Nobel laureate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Thadeus_Reichstein_ETH-Bib_Portr_10137.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tadeus_Reichstein"
 lastUpdated: "2026-02-21"

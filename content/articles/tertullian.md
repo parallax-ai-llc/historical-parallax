@@ -5,7 +5,7 @@ birth: "0155-01-01"
 death: "0220-01-01"
 nationality: "Roman-Carthaginian"
 occupation: ["Theologian", "Church Father", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Tertullian2.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tertullian"
 lastUpdated: "2026-02-21"

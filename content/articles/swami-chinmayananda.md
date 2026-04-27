@@ -5,7 +5,7 @@ birth: "1916-05-08"
 death: "1993-08-03"
 nationality: "Indian"
 occupation: ["Monk", "Teacher", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sourire_coul_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swami_Chinmayananda"
 lastUpdated: "2026-02-21"

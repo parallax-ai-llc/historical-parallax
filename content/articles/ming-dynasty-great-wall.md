@@ -5,7 +5,7 @@ birth: "1368-01-01"
 death: "1644-04-25"
 nationality: "China"
 occupation: ["Historical Event", "Empire", "Chinese History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Great_Wall_at_Mutianyu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ming_Dynasty_Great_Wall"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1931-11-15"
 death: "2020-08-24"
 nationality: "Congo-Brazzaville"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Visit_of_Pascal_Lissouba%2C_President_of_Congo%2C_to_the_EC_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pascal_Lissouba"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1989-10-08"
 death: "Unknown"
 nationality: "Canada"
 occupation: ["Terrorist", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Quebec_Islamic_Cultural_Centre.jpg/3840px-Quebec_Islamic_Cultural_Centre.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexandre_Bissonnette"
 lastUpdated: "2026-02-26"

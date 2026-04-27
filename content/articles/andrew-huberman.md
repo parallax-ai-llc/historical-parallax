@@ -3,6 +3,7 @@ name: "Andrew Huberman"
 birth: "1975-09-26"
 nationality: "American"
 occupation: ["Neuroscientist", "Podcaster"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Andrew_D._Huberman%2C_Ph.D..jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrew_Huberman"
 lastUpdated: "2026-03-12"

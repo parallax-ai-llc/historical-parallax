@@ -5,7 +5,7 @@ birth: "1985-08-30"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Leisel_Jones_at_the_Queen%27s_Baton_Relay%2C_Sydney%2C_Australia%2C_2018-02-03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leisel_Jones"
 lastUpdated: "2026-02-26"

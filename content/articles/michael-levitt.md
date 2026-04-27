@@ -5,7 +5,7 @@ birth: "1947-05-09"
 death: "Unknown"
 nationality: "South African-American-British-Israeli"
 occupation: ["Biophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/DIMG_7539_%2811253383215%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Levitt"
 lastUpdated: "2026-02-26"

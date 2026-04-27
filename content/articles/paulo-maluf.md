@@ -5,7 +5,7 @@ birth: "1931-09-09"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Paulo_Maluf_em_setembro_de_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paulo_Maluf"
 lastUpdated: "2026-02-26"

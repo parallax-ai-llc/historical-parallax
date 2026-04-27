@@ -5,7 +5,7 @@ birth: "1938-11-24"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Basketball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Oscar_Robertson_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oscar_Robertson"
 lastUpdated: "2026-02-26"

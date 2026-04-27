@@ -5,7 +5,7 @@ birth: "1899-01-30"
 death: "1972-08-11"
 nationality: "South African-American"
 occupation: ["Virologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Max_Theiler_nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Max_Theiler"
 lastUpdated: "2026-02-21"

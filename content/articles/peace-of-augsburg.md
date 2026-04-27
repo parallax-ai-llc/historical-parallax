@@ -5,7 +5,7 @@ birth: "1555-09-25"
 death: "1555-09-25"
 nationality: "Holy Roman Empire"
 occupation: ["Historical Event", "Treaty", "Religious Settlement"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Druck_Augsburger_Reichsfrieden.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Peace_of_Augsburg"
 lastUpdated: "2026-02-21"

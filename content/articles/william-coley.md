@@ -5,7 +5,7 @@ birth: "1862-01-12"
 death: "1936-04-16"
 nationality: "American"
 occupation: ["Surgeon", "Cancer Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/William_Coley_1892.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Coley"
 lastUpdated: "2026-02-26"

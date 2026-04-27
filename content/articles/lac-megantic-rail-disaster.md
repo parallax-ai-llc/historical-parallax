@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Canada"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lac_megantic_burning.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lac-Megantic_Rail_Disaster"
 lastUpdated: "2026-02-26"

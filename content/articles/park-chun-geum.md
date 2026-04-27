@@ -5,7 +5,7 @@ birth: "1891-04-17"
 death: "1973-03-31"
 nationality: "Korea"
 occupation: ["Politician", "Gangster", "Businessman", "Member of Japanese Imperial Diet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Portrait_of_Park_Choon-Geum.jpg"
 socialLinks:
   wikipedia: "https://ko.wikipedia.org/wiki/박춘금"
 lastUpdated: "2025-12-31"

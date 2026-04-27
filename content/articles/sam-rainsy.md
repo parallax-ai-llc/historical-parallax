@@ -5,7 +5,7 @@ birth: "1949-03-10"
 death: "Unknown"
 nationality: "Cambodia"
 occupation: ["Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Sam_Rainsy.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Rainsy"
 lastUpdated: "2026-02-26"

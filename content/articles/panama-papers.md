@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Panama"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Countries_implicated_in_the_Panama_Papers.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Panama_Papers"
 lastUpdated: "2026-02-26"

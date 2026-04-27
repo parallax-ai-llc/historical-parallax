@@ -5,7 +5,7 @@ birth: "1888-11-07"
 death: "1970-11-21"
 nationality: "Indian"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sir_CV_Raman.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/C._V._Raman"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1945-07-03"
 death: "Unknown"
 nationality: "Israeli"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Saharon_Shelah.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saharon_Shelah"
 lastUpdated: "2026-02-21"

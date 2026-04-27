@@ -5,7 +5,7 @@ birth: "1973-06-29"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/OB-Chan-Ho-Park20110924.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Chan-ho"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1725-01-01"
 death: "1770-06-15"
 nationality: "Japanese"
 occupation: ["Printmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Harunobu_2_Pers.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Suzuki_Harunobu"
 lastUpdated: "2026-02-21"

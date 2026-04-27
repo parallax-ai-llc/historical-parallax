@@ -5,7 +5,7 @@ birth: "1266-01-01"
 death: "1316-01-04"
 nationality: "India"
 occupation: ["Historical Criminal", "Conqueror"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Execution_of_Jalal-al-Din_Firuzshah_II_%28r1290-96%29%2C_Jami_al-Tawarikh_%28Alauddin_Khalji_detail%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alauddin_Khalji"
 lastUpdated: "2026-02-26"

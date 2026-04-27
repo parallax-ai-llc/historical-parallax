@@ -5,7 +5,7 @@ birth: "1552-08-24"
 death: "1614-08-11"
 nationality: "Italian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lavinia-Fontana-Autoritratto-in-studio-1579-Firenze-Uffizi_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lavinia_Fontana"
 lastUpdated: "2026-02-21"

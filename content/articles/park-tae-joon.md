@@ -5,7 +5,7 @@ birth: "1927-09-29"
 death: "2011-12-13"
 nationality: "Korean"
 occupation: ["Military officer", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Taejoon_Park_-_Paris_Olympics_2024_%282%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Tae-joon"
 lastUpdated: "2026-02-21"

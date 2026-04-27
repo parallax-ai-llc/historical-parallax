@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Prison Gang Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Billy_the_Kid_tintype%2C_Fort_Sumner%2C_1879-80-Edit2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_George_Bonney"
 lastUpdated: "2026-02-26"

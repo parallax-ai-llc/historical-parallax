@@ -5,7 +5,7 @@ birth: "1945-11-07"
 death: "N/A"
 nationality: "Tibetan"
 occupation: ["Buddhist Leader", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sakya_Trizin_Ngawang_Kunga_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sakya_Trizin"
 lastUpdated: "2026-02-21"

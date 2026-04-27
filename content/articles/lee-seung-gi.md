@@ -5,7 +5,7 @@ birth: "1905-07-10"
 death: "1996-02-04"
 nationality: "Korean"
 occupation: ["Chemist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/LeeSeungGi4.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Seung-gi"
 lastUpdated: "2026-02-21"

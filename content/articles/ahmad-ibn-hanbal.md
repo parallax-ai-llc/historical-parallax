@@ -5,7 +5,7 @@ birth: "0780-11-01"
 death: "0855-07-31"
 nationality: "Iraqi"
 occupation: ["Jurist", "Hadith Scholar", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Chester_Beatty_T_414_fol_130r_ibn_%E1%B8%A4anbal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmad_ibn_Hanbal"
 lastUpdated: "2026-02-21"

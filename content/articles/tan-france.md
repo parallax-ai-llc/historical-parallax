@@ -3,6 +3,7 @@ name: "Tan France"
 birth: "1983-04-20"
 nationality: "British-American"
 occupation: ["Television Personality", "Fashion Designer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Tan_France%2C_2018-06_on_MTV_International.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tan_France"
 lastUpdated: "2026-03-12"

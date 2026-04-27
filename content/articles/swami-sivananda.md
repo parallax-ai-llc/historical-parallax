@@ -5,7 +5,7 @@ birth: "1887-09-08"
 death: "1963-07-14"
 nationality: "Indian"
 occupation: ["Yogi", "Author", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Swami_Shivananda_Liebe.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swami_Sivananda"
 lastUpdated: "2026-02-21"

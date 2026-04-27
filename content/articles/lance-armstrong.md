@@ -5,7 +5,7 @@ birth: "1971-09-18"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Cyclist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Lance_Armstrong_%28Tour_Down_Under_2009%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lance_Armstrong"
 lastUpdated: "2026-02-26"

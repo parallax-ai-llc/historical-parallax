@@ -5,7 +5,7 @@ birth: "1964-01-01"
 death: "1973-01-01"
 nationality: "Laos"
 occupation: ["War Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Laos%2C_administrative_divisions_%28districts%29_2015.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Laos_Bombing"
 lastUpdated: "2026-02-26"

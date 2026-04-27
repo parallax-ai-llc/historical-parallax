@@ -5,7 +5,7 @@ birth: "1967-09-06"
 death: "Unknown"
 nationality: "Bosnia and Herzegovina"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/LUKIC_Milan_copy.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milan_Luki%C4%87"
 lastUpdated: "2026-02-26"

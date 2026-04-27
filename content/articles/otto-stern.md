@@ -5,7 +5,7 @@ birth: "1888-02-17"
 death: "1969-08-17"
 nationality: "German-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Otto_Stern.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Otto_Stern"
 lastUpdated: "2026-02-21"

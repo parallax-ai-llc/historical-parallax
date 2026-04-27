@@ -5,7 +5,7 @@ birth: "1916-11-04"
 death: "2002-04-27"
 nationality: "American"
 occupation: ["Inventor", "Businesswoman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Ruth_Handler_1961_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ruth_Handler"
 lastUpdated: "2026-02-21"

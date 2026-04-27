@@ -3,6 +3,7 @@ name: "Wanda Sykes"
 birth: "1964-03-07"
 nationality: "American"
 occupation: ["Comedian", "Actress", "Writer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Wanda_Sykes_2010_GLAAD_Media_Awards.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wanda_Sykes"
 lastUpdated: "2026-03-12"

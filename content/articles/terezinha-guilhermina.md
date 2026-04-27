@@ -5,7 +5,7 @@ birth: "1978-11-03"
 death: "Unknown"
 nationality: "Brazilian"
 occupation: ["Athlete", "Paralympic Champion", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Meeting_d%27Athl%C3%A9tisme_Paralympique_de_Paris_-_Terezinha_Guilhermina_03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terezinha_Guilhermina"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1912-05-27"
 death: "2002-05-23"
 nationality: "American"
 occupation: ["Athlete", "Golfer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sam_Snead_-_DPLA_-_d59b42eaed0414d60e380647d33d0992.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Snead"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1988-01-01"
 death: "Unknown"
 nationality: "Haiti"
 occupation: ["Gang Leader", "Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Vitel%27Homme_Innocent.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vitel'Homme_Innocent"
 lastUpdated: "2026-02-26"

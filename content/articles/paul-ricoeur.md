@@ -5,7 +5,7 @@ birth: "1913-02-27"
 death: "2005-05-20"
 nationality: "French"
 occupation: ["Philosopher", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Paul_Ricoeur_Balzan.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Ricoeur"
 lastUpdated: "2026-02-21"

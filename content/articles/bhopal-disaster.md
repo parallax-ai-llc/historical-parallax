@@ -5,7 +5,7 @@ birth: "1944-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Environmental Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Union_Carbide_pesticide_factory%2C_Bhopal%2C_India%2C_1985.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bhopal_disaster"
 lastUpdated: "2026-02-26"

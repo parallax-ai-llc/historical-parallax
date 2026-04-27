@@ -5,7 +5,7 @@ birth: "1952-11-02"
 death: "Unknown"
 nationality: "American"
 occupation: ["Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Breaking_Benjamin_2-14-15.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Larry_Fink_duplicate"
 lastUpdated: "2026-02-26"

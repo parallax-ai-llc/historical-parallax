@@ -5,7 +5,7 @@ birth: "1904-02-08"
 death: "1904-02-08"
 nationality: "Japan"
 occupation: ["Historical Event", "War", "Japanese History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/RUSSOJAPANESEWARIMAGE.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russo-Japanese_War_Begins"
 lastUpdated: "2026-02-21"

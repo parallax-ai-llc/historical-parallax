@@ -5,7 +5,7 @@ birth: "1932-03-04"
 death: "2008-11-09"
 nationality: "South African"
 occupation: ["Singer", "Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Miriam_makeba_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miriam_Makeba"
 lastUpdated: "2026-02-21"

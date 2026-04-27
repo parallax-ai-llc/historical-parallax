@@ -3,6 +3,7 @@ name: "Kris Jenner"
 birth: "1955-11-05"
 nationality: "American"
 occupation: ["Reality TV Star", "Manager", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kris_Jenner_by_Gage_Skidmore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kris_Jenner"
 lastUpdated: "2026-03-12"

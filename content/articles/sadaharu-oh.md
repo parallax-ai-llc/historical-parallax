@@ -5,7 +5,7 @@ birth: "1940-05-20"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sadaharu_Oh_2026.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sadaharu_Oh"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1955-10-12"
 death: "Unknown"
 nationality: "Croatia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Ante-Gotovina-05082015-roberta-f.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ante_Gotovina"
 lastUpdated: "2026-02-26"

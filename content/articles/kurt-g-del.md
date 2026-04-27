@@ -5,7 +5,7 @@ birth: "1906-04-28"
 death: "1978-01-14"
 nationality: "Austrian-American"
 occupation: ["Mathematician", "Logician", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Kurt_g%C3%B6del.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kurt_G%C3%B6del"
 lastUpdated: "2026-02-21"

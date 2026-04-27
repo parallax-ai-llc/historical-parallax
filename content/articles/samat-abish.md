@@ -5,7 +5,7 @@ birth: "1965-01-01"
 death: "Unknown"
 nationality: "Kazakhstan"
 occupation: ["Security Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/2022_Kazakh_Presidential_Election_Results_Map_-_Vote_Share.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samat_Abish"
 lastUpdated: "2026-02-26"

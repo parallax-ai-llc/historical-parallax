@@ -4,6 +4,7 @@ birth: "1876-12-29"
 death: "1973-10-22"
 nationality: "Spanish"
 occupation: ["Cellist", "Conductor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Pablocasals_%28cropped_3x4%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pablo_Casals"
 lastUpdated: "2026-03-12"

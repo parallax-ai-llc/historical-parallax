@@ -5,7 +5,7 @@ birth: "1940-05-17"
 death: "Unknown"
 nationality: "American"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Alan_Kay_and_the_prototype_of_the_Dynabook_%283009206205%29.jpg/3840px-Alan_Kay_and_the_prototype_of_the_Dynabook_%283009206205%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alan_Kay"
 lastUpdated: "2026-02-21"

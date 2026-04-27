@@ -5,7 +5,7 @@ birth: "1945-05-20"
 death: "Unknown"
 nationality: "Austrian"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Anton_Zeilinger%2C_2019_%2849085194786%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anton_Zeilinger"
 lastUpdated: "2026-02-21"

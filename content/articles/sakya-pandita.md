@@ -5,7 +5,7 @@ birth: "1182-01-01"
 death: "1251-01-01"
 nationality: "Tibetan"
 occupation: ["Scholar", "Diplomat"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/MET_2006_285.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sakya_Pandita"
 lastUpdated: "2026-02-21"

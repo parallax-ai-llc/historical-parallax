@@ -5,7 +5,7 @@ birth: "1376-01-01"
 death: "1451-01-01"
 nationality: "Korean"
 occupation: ["Pharmacologist", "Herbalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Lee_Chun-hee_in_Dec_2018.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Cheon"
 lastUpdated: "2026-02-21"

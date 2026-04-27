@@ -5,7 +5,7 @@ birth: "1842-12-30"
 death: "1910-02-24"
 nationality: "Turkish"
 occupation: ["Painter", "Museum Director", "Archaeologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Osman_Hamdi_Bey.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Osman_Hamdi_Bey"
 lastUpdated: "2026-02-21"

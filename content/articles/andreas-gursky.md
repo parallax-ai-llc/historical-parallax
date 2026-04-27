@@ -5,7 +5,7 @@ birth: "1955-01-15"
 death: "Unknown"
 nationality: "German"
 occupation: ["Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Gursky-andreas-010313-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andreas_Gursky"
 lastUpdated: "2026-02-21"

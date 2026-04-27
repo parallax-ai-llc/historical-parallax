@@ -5,7 +5,7 @@ birth: "1895-06-17"
 death: "1983-08-10"
 nationality: "Swedish"
 occupation: ["Entrepreneur", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Rausing384_147506a.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ruben_Rausing"
 lastUpdated: "2026-02-21"

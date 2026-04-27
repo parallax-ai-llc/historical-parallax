@@ -5,7 +5,7 @@ birth: "1911-10-14"
 death: "1990-10-13"
 nationality: "Vietnam"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Le_Duc_Tho_at_Orly_Field_1972_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Le_Duc_Tho"
 lastUpdated: "2026-02-26"

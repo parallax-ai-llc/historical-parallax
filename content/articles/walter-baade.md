@@ -5,7 +5,7 @@ birth: "1893-03-24"
 death: "1960-06-25"
 nationality: "German-American"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Walter-Baade_Astronom.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_Baade"
 lastUpdated: "2026-02-21"

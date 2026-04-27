@@ -5,7 +5,7 @@ birth: "2017-11-05"
 death: "Unknown"
 nationality: "International"
 occupation: ["Financial Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Countries_implicated_in_the_Paradise_Papers.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paradise_Papers"
 lastUpdated: "2026-02-26"

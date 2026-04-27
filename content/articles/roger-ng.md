@@ -5,7 +5,7 @@ birth: "1972-01-01"
 death: "Unknown"
 nationality: "Malaysia"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Nigel_Ng%2C_2020-11-14_A_%28crop_2x3%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roger_Ng"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Pakistan"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/N656PA_Boeing_747-121%2C_Miami_International%2C_1983.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pan_Am_Flight_73_Hijacking"
 lastUpdated: "2026-02-26"

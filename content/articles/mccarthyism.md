@@ -5,7 +5,7 @@ birth: "1950-02-09"
 death: "1954-12-02"
 nationality: "United States"
 occupation: ["Political Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anticommunist_Literature_1950s.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/McCarthyism"
 lastUpdated: "2026-02-26"

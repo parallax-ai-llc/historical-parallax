@@ -5,7 +5,7 @@ birth: "1968-01-13"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Andy_Jassy.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andy_Jassy"
 lastUpdated: "2026-02-21"

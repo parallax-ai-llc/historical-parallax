@@ -5,7 +5,7 @@ birth: "1939-05-31"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Kidnapping Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Terry_Waite.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terry_Waite"
 lastUpdated: "2026-02-26"

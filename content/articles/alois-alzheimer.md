@@ -5,7 +5,7 @@ birth: "1864-06-14"
 death: "1915-12-19"
 nationality: "German"
 occupation: ["Psychiatrist", "Neuropathologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Alois_Alzheimer_002.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alois_Alzheimer"
 lastUpdated: "2026-02-21"

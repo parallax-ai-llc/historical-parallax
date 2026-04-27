@@ -5,7 +5,7 @@ birth: "1868-10-24"
 death: "1969-09-08"
 nationality: "French"
 occupation: ["Explorer", "Writer", "Buddhist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Alexandra_David-Neels.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexandra_David-N%C3%A9el"
 lastUpdated: "2026-02-26"

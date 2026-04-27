@@ -5,7 +5,7 @@ birth: "1925-12-11"
 death: "2019-04-13"
 nationality: "American"
 occupation: ["Neuroscientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Paul_Greengard.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Greengard"
 lastUpdated: "2026-02-26"

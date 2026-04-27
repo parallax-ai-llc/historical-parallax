@@ -5,7 +5,7 @@ birth: "1808-01-01"
 death: "1887-01-01"
 nationality: "Tibetan"
 occupation: ["Buddhist Master", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Patrul_Rinpoche.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrul_Rinpoche"
 lastUpdated: "2026-02-21"

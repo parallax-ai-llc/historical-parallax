@@ -5,7 +5,7 @@ birth: "1945-07-30"
 death: "Unknown"
 nationality: "French"
 occupation: ["Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Patrick_Modiano_6_dec_2014_-_22.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Modiano"
 lastUpdated: "2026-02-21"

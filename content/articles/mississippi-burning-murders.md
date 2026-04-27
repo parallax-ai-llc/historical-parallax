@@ -5,7 +5,7 @@ birth: "1964-06-21"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Chaney%2C_Goodman%2C_Schwerner_station_wagon%2C_1964.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mississippi_Burning_Murders"
 lastUpdated: "2026-02-26"

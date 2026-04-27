@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nyamata_Memorial_Site_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rwandan_Genocide"
 lastUpdated: "2026-02-26"

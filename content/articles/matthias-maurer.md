@@ -5,7 +5,7 @@ birth: "1970-03-18"
 death: "living"
 nationality: "German"
 occupation: ["Astronaut", "Materials Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Matthias_Maurer%2C_official_portrait_%282020%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Matthias_Maurer"
 lastUpdated: "2026-02-21"

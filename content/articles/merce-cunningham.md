@@ -5,7 +5,7 @@ birth: "1919-04-16"
 death: "2009-07-26"
 nationality: "American"
 occupation: ["Dancer", "Choreographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Merce_Cunningham_1961.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Merce_Cunningham"
 lastUpdated: "2026-02-21"

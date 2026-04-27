@@ -4,6 +4,7 @@ birth: "1925-10-13"
 death: "1966-08-03"
 nationality: "American"
 occupation: ["Comedian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Lenny_Bruce_1961.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lenny_Bruce"
 lastUpdated: "2026-03-12"

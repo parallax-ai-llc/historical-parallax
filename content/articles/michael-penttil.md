@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "Unknown"
 nationality: "Finland"
 occupation: ["Biker Gang Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Michael_Penttil%C3%A4.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Penttil%C3%A4"
 lastUpdated: "2026-02-26"

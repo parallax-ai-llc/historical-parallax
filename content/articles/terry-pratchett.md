@@ -3,6 +3,7 @@ name: "Terry Pratchett"
 birth: "1948-04-28"
 nationality: "British"
 occupation: ["Author", "Novelist", "Satirist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/10.12.12TerryPratchettByLuigiNovi1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terry_Pratchett"
 lastUpdated: "2026-03-12"

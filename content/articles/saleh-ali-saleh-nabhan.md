@@ -5,7 +5,7 @@ birth: "1979-01-01"
 death: "2009-09-14"
 nationality: "Kenya"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Saleh_Ali_Saleh_Nabhan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saleh_Ali_Saleh_Nabhan"
 lastUpdated: "2026-02-26"

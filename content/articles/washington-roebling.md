@@ -5,7 +5,7 @@ birth: "1837-05-26"
 death: "1926-07-21"
 nationality: "American"
 occupation: ["Civil Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/WashingtonAugustusRoebling.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Washington_Roebling"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1808-06-20"
 death: "1888-12-31"
 nationality: "German Jewish"
 occupation: ["Rabbi", "Author", "Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Samson_Raphael_Hirsch_%28FL12173324%29.crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samson_Raphael_Hirsch"
 lastUpdated: "2026-02-21"

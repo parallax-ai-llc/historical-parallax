@@ -3,6 +3,7 @@ name: "Sainkho Namtchylak"
 birth: "1957-12-01"
 nationality: "Russian"
 occupation: ["Singer", "Composer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Schamrock_Festival_2014_39.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sainkho_Namtchylak"
 lastUpdated: "2026-03-12"

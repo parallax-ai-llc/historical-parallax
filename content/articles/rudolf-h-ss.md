@@ -5,7 +5,7 @@ birth: "1901-11-25"
 death: "1947-04-16"
 nationality: "Germany"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Rudolf_Hoess%2C_Auschwitz._Album_H%C3%B6cker_%28cropped%29%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudolf_H%C3%B6ss"
 lastUpdated: "2026-02-26"

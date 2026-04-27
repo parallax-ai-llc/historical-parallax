@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "Unknown"
 nationality: "Sudan"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/1b/Ali_Kushayb.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Muhammad_Ali_Abd-Al-Rahman"
 lastUpdated: "2026-02-26"

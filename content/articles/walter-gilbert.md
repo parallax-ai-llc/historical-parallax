@@ -5,7 +5,7 @@ birth: "1932-03-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist", "Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Walter_Gilbert_HD2008_portrait.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_Gilbert"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "The Undertaker"
 birth: "1965-03-24"
 nationality: "American"
 occupation: ["Professional Wrestler"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Undertaker_US_Marine_Visit_2019_%28cropped%292.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/The_Undertaker"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "2015-09-01"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Environmental Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal"
 lastUpdated: "2026-02-26"

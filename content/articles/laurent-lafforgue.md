@@ -5,7 +5,7 @@ birth: "1966-11-06"
 death: "Unknown"
 nationality: "French"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Laurent_Lafforgue.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Laurent_Lafforgue"
 lastUpdated: "2026-02-21"

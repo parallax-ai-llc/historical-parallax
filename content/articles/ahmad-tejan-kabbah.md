@@ -5,7 +5,7 @@ birth: "1932-02-16"
 death: "2014-03-13"
 nationality: "Sierra Leone"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ahmad_Tejan_Kabbah_2002.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmad_Tejan_Kabbah"
 lastUpdated: "2026-02-26"

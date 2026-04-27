@@ -5,7 +5,7 @@ birth: "0618-06-18"
 death: "0907-06-01"
 nationality: "China"
 occupation: ["Historical Event", "Empire", "Chinese History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tang_Dynasty_Golden_Age"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1946-01-08"
 death: "N/A (Imprisoned)"
 nationality: "Mexico"
 occupation: ["Drug Lord", "Cartel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mugshot_miguel_%C3%A1ngel_f%C3%A9lix_gallardo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miguel_Angel_Felix_Gallardo"
 lastUpdated: "2026-02-21"

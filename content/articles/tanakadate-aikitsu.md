@@ -5,7 +5,7 @@ birth: "1856-10-16"
 death: "1952-05-21"
 nationality: "Japanese"
 occupation: ["Physicist", "Geophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Aikitsu_Tanakadate.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tanakadate_Aikitsu"
 lastUpdated: "2026-02-21"

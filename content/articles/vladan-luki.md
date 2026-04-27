@@ -5,7 +5,7 @@ birth: "1987-01-01"
 death: "Unknown"
 nationality: "Serbia"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Vladan_Lukic.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladan_Luki%C4%87"
 lastUpdated: "2026-02-26"

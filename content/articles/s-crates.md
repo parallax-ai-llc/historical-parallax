@@ -5,7 +5,7 @@ birth: "1954-02-19"
 death: "2011-12-04"
 nationality: "Brazilian"
 occupation: ["Athlete", "Football Player", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Socrates87660.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S%C3%B3crates"
 lastUpdated: "2026-02-26"

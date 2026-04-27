@@ -5,7 +5,7 @@ birth: "1945-06-06"
 death: "2008-11-10"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/0e/Shawcrossarthur.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arthur_Shawcross"
 lastUpdated: "2026-02-21"

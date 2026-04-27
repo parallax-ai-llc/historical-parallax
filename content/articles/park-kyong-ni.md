@@ -5,7 +5,7 @@ birth: "1926-10-28"
 death: "2008-05-05"
 nationality: "Korean"
 occupation: ["Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Park_Kyung-ni.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Kyong-ni"
 lastUpdated: "2026-02-21"

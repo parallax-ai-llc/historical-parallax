@@ -5,7 +5,7 @@ birth: "1941-12-07"
 death: "1941-12-07"
 nationality: "United States"
 occupation: ["Historical Event", "Battle", "World War II"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pearl_Harbor_Attack_Dec_7"
 lastUpdated: "2026-02-21"

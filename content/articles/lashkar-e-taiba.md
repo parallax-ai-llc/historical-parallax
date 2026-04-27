@@ -5,7 +5,7 @@ birth: "1987-01-01"
 death: "Unknown"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Lashkar-e-Taiba.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lashkar-e-Taiba"
 lastUpdated: "2026-02-26"

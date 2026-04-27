@@ -3,6 +3,7 @@ name: "Mikhail Tal"
 birth: "1936-11-09"
 nationality: "Latvian"
 occupation: ["Chess Player"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mikhail_Tal_1962.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Tal"
 lastUpdated: "2026-03-12"

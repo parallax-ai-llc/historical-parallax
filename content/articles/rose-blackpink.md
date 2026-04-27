@@ -3,6 +3,7 @@ name: "Rosé (BLACKPINK)"
 birth: "1997-02-11"
 nationality: "New Zealander (Australian-raised)"
 occupation: ["Singer", "Dancer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Blackpink_Ros%C3%A9_Rimowa_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)"
 lastUpdated: "2026-03-11"

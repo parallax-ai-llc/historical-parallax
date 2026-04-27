@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Belgium"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Antwerpen_Hoveniersstraat.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antwerp_Diamond_Heist"
 lastUpdated: "2026-02-26"

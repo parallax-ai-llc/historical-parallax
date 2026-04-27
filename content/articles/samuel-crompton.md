@@ -5,7 +5,7 @@ birth: "1753-12-03"
 death: "1827-06-26"
 nationality: "English"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Samuel_Crompton_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Crompton"
 lastUpdated: "2026-02-21"

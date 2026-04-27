@@ -5,7 +5,7 @@ birth: "1936-09-02"
 death: "2016-03-21"
 nationality: "Hungarian-American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Intel_Inside_%283607903903%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrew_Grove"
 lastUpdated: "2026-02-21"

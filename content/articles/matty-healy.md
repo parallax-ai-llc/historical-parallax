@@ -3,6 +3,7 @@ name: "Matty Healy"
 birth: "1989-04-08"
 nationality: "British"
 occupation: ["Singer", "Songwriter", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Glasto2025-89_-_54645728944_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Matty_Healy"
 lastUpdated: "2026-03-12"

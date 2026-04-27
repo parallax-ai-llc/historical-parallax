@@ -4,6 +4,7 @@ birth: "1901-07-22"
 death: "1975-03-30"
 nationality: "American"
 occupation: ["Aviator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Pancho_Barnes%2C_1931.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pancho_Barnes"
 lastUpdated: "2026-03-12"

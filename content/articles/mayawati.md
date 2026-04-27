@@ -5,7 +5,7 @@ birth: "1956-01-15"
 death: "Unknown"
 nationality: "India"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Mayawati_in_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mayawati"
 lastUpdated: "2026-02-26"

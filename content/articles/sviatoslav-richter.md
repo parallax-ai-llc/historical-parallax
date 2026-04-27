@@ -5,7 +5,7 @@ birth: "1915-03-20"
 death: "1997-08-01"
 nationality: "Russian"
 occupation: ["Pianist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/RICHTER_Sviatoslav_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sviatoslav_Richter"
 lastUpdated: "2026-02-21"

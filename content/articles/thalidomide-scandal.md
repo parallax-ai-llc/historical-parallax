@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Corporate Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Thalidomide_effects.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thalidomide_Scandal"
 lastUpdated: "2026-02-26"

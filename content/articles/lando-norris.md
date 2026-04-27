@@ -3,6 +3,7 @@ name: "Lando Norris"
 birth: "1999-11-13"
 nationality: "British"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lando_Norris"
 lastUpdated: "2026-03-12"

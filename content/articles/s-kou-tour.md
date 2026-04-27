@@ -5,7 +5,7 @@ birth: "1922-01-09"
 death: "1984-03-26"
 nationality: "Guinea"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ahmed_Seko%C3%BA_in_1962_at_White_House_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S%C3%A9kou_Tour%C3%A9"
 lastUpdated: "2026-02-26"

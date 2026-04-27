@@ -5,7 +5,7 @@ birth: "1982-07-29"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Sex Trafficker", "Cult Member"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Allison_Mack_%282018_crop%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Allison_Mack"
 lastUpdated: "2026-02-26"

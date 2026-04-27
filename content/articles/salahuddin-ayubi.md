@@ -5,7 +5,7 @@ birth: "1137-01-01"
 death: "1193-03-04"
 nationality: "Kurdistan"
 occupation: ["Historical Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/ISN_00015_Zia_Ul_Shaq.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salahuddin_Ayubi"
 lastUpdated: "2026-02-26"

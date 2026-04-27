@@ -5,7 +5,7 @@ birth: "1864-11-22"
 death: "1929-09-29"
 nationality: "Japanese"
 occupation: ["Military leader", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Tanaka_Giichi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tanaka_Giichi"
 lastUpdated: "2026-02-26"

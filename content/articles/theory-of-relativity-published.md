@@ -5,7 +5,7 @@ birth: "1905-06-30"
 death: "1905-06-30"
 nationality: "Switzerland"
 occupation: ["Historical Event", "Science", "Physics"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/BBH_gravitational_lensing_of_gw150914.webm"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theory_of_Relativity_Published"
 lastUpdated: "2026-02-21"

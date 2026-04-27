@@ -5,7 +5,7 @@ birth: "1962-07-20"
 death: "2015-12-19"
 nationality: "Lebanon"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Samir_kuntar_in_shiraz_3-2.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kuntar_Samir"
 lastUpdated: "2026-02-21"

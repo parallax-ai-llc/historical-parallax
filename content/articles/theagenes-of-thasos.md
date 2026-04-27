@@ -5,7 +5,7 @@ birth: "0505-01-01"
 death: "0435-01-01"
 nationality: "Greek"
 occupation: ["Athlete", "Boxer", "Ancient Olympic Champion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Boxer_of_Quirinal_%28Mys_from_Taranto%29_-_Lateral_View.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theagenes_of_Thasos"
 lastUpdated: "2026-02-26"

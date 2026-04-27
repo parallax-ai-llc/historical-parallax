@@ -5,7 +5,7 @@ birth: "1977-01-01"
 death: "2016-08-30"
 nationality: "Syria"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/ce/Abu_Mohammed_al-Adnani.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Mohammed_al-Adnani"
 lastUpdated: "2026-02-26"

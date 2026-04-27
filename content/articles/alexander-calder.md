@@ -5,7 +5,7 @@ birth: "1898-07-22"
 death: "1976-11-11"
 nationality: "American"
 occupation: ["Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Alexander_Calder_1947_-_Photo_by_Carl_Van_Vechten.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Calder"
 lastUpdated: "2026-02-21"

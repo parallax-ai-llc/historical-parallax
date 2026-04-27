@@ -5,7 +5,7 @@ birth: "1940-08-26"
 death: "1983-07-16"
 nationality: "Burundi"
 occupation: ["War Criminal", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Michel_Micombero_%281966%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michel_Micombero"
 lastUpdated: "2026-02-26"

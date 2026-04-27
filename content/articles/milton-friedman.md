@@ -4,6 +4,7 @@ birth: "1912-07-31"
 death: "2006-11-16"
 nationality: "American"
 occupation: ["Economist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Portrait_of_Milton_Friedman_%284x5_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milton_Friedman"
 lastUpdated: "2026-03-12"

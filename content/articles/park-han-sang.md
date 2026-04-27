@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/190805_%ED%95%9C%EC%83%81%EC%A7%84.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Han-sang"
 lastUpdated: "2026-02-26"

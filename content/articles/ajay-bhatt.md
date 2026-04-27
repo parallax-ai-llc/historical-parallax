@@ -5,7 +5,7 @@ birth: "1963-01-01"
 death: "living"
 nationality: "Indian-American"
 occupation: ["Computer Architect", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ajay_Bhatt_at_Intel_ISEF.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ajay_Bhatt"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1879-12-18"
 death: "1940-06-29"
 nationality: "Swiss-German"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Paul_Klee_by_Hugo_Erfurth%2C_1922.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Klee"
 lastUpdated: "2026-02-21"

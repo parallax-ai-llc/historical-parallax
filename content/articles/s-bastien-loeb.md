@@ -5,7 +5,7 @@ birth: "1974-02-26"
 death: "Unknown"
 nationality: "French"
 occupation: ["Athlete", "Rally Driver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Sebastien_Loeb_2014_WTCC_Race_of_Japan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S%C3%A9bastien_Loeb"
 lastUpdated: "2026-02-26"

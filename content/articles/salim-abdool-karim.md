@@ -5,7 +5,7 @@ birth: "1960-02-08"
 death: "Unknown"
 nationality: "South African"
 occupation: ["Epidemiologist", "HIV researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Slim_portrait_2020.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salim_Abdool_Karim"
 lastUpdated: "2026-02-21"

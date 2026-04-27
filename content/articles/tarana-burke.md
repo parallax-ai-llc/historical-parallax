@@ -3,6 +3,7 @@ name: "Tarana Burke"
 birth: "1973-09-12"
 nationality: "American"
 occupation: ["Activist", "MeToo Founder", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/en/2/29/Tarana_Burke_%28activist%29_at_July_2024_event_hosted_by_Paid_Leave_For_All_and_Glamour_Magazine.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tarana_Burke"
 lastUpdated: "2026-03-12"

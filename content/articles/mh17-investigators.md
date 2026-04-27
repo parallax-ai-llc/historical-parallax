@@ -5,7 +5,7 @@ birth: "2014-07-17"
 death: "Unknown"
 nationality: "Netherlands"
 occupation: ["Investigation"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Boeing_777-2H6ER_9M-MRD_Malaysian_%286658105143%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/MH17_Investigators"
 lastUpdated: "2026-02-26"

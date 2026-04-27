@@ -5,7 +5,7 @@ birth: "1890-02-17"
 death: "1962-07-29"
 nationality: "British"
 occupation: ["Statistician", "Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Youngronaldfisher2.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronald_Fisher"
 lastUpdated: "2026-02-21"

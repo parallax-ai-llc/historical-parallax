@@ -5,7 +5,7 @@ birth: "2016-04-03"
 death: "Unknown"
 nationality: "International"
 occupation: ["Tax Evasion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Countries_implicated_in_the_Panama_Papers.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Panama_Papers_Revelations"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Biomedical scientist", "Cancer researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Park_Jin-joo_in_April_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Se-joo"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1954-05-17"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Organized Crime", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vladislav_Reznik.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladislav_Reznik"
 lastUpdated: "2026-02-26"

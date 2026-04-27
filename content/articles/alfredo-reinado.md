@@ -5,7 +5,7 @@ birth: "1968-01-01"
 death: "2008-02-11"
 nationality: "East Timor"
 occupation: ["Rebel"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/88/Reinhado.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfredo_Reinado"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1945-03-10"
 death: "Unknown"
 nationality: "Mauritius"
 occupation: ["Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Paul_Berenger%2C_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_B%C3%A9renger"
 lastUpdated: "2026-02-26"

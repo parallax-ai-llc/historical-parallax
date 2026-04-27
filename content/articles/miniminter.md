@@ -3,6 +3,7 @@ name: "Miniminter"
 birth: "1992-09-07"
 nationality: "British"
 occupation: ["YouTuber", "Content Creator", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Miniminter_in_June_2024_at_Soccer_Aid_2024_charity_match.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miniminter"
 lastUpdated: "2026-03-12"

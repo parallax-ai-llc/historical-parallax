@@ -5,7 +5,7 @@ birth: "1938-09-03"
 death: "2024-10-02"
 nationality: "Japanese"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ryoji_Noyori_20021212.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryoji_Noyori"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1829-04-26"
 death: "1894-02-06"
 nationality: "Austrian"
 occupation: ["Surgeon", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Theodor-Billroth-crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theodor_Billroth"
 lastUpdated: "2026-02-21"

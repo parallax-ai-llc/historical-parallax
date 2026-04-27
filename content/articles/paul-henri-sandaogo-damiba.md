@@ -5,7 +5,7 @@ birth: "1981-01-01"
 death: "Unknown"
 nationality: "Burkina Faso"
 occupation: ["Coup Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Le_lieutenant-colonel_Paul_Henri_Sandaogo_Damiba%2C_Ouagadougou_le_27_janvier_2022_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul-Henri_Sandaogo_Damiba"
 lastUpdated: "2026-02-26"

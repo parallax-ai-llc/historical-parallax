@@ -5,7 +5,7 @@ birth: "1910-01-01"
 death: "1953-01-01"
 nationality: "Algeria"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Mohamed_Sa%C3%AFl_%28d%C3%A9tail%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sail_Mohamed"
 lastUpdated: "2026-02-26"

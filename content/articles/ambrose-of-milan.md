@@ -5,7 +5,7 @@ birth: "0339-01-01"
 death: "0397-01-01"
 nationality: "Roman"
 occupation: ["Bishop", "Theologian", "Church Father"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ambrose_of_Milan"
 lastUpdated: "2026-02-21"

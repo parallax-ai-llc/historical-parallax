@@ -5,7 +5,7 @@ birth: "1904-01-12"
 death: "1989-01-10"
 nationality: "Korean-French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Lee_Ungno_Museum_Logo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Ungno"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1989-07-02"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Alex_Morgan_May19.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alex_Morgan"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Target_logo_%281968%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Target_Data_Breach"
 lastUpdated: "2026-02-26"

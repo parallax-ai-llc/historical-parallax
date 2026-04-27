@@ -5,7 +5,7 @@ birth: "1937-02-19"
 death: "2022-03-11"
 nationality: "Zambia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Rupiah_Banda.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rupiah_Banda"
 lastUpdated: "2026-02-26"

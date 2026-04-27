@@ -5,7 +5,7 @@ birth: "1932-12-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Virologist", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/%EC%9D%B4%ED%98%B8%EC%99%95_%EB%B0%95%EC%82%AC.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Ho-wang"
 lastUpdated: "2026-02-21"

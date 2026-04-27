@@ -5,7 +5,7 @@ birth: "1953-11-01"
 death: "Unknown"
 nationality: "China"
 occupation: ["Corrupt Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Meng_Hongwei.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meng_Hongwei"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1881-10-01"
 death: "1956-09-28"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/William_E._Boeing.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Boeing"
 lastUpdated: "2026-02-21"

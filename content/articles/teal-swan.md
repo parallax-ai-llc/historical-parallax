@@ -5,7 +5,7 @@ birth: "1984-06-16"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Teal_Swan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Teal_Swan"
 lastUpdated: "2026-02-26"

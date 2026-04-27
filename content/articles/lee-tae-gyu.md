@@ -5,7 +5,7 @@ birth: "1902-10-26"
 death: "1992-10-26"
 nationality: "Korean"
 occupation: ["Chemist", "Physical chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bong_Tae-gyu_in_2020.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Tae-gyu"
 lastUpdated: "2026-02-21"

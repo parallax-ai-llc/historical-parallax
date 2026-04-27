@@ -5,7 +5,7 @@ birth: "1854-11-03"
 death: "1922-07-22"
 nationality: "Japanese-American"
 occupation: ["Chemist", "Pharmacologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jokichi_Takamine.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takamine_Jokichi"
 lastUpdated: "2026-02-21"

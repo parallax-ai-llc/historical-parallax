@@ -5,7 +5,7 @@ birth: "1891-01-26"
 death: "1976-04-05"
 nationality: "American-Canadian"
 occupation: ["Neurosurgeon", "Neuroscientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Wilder_Graves_Penfield.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wilder_Penfield"
 lastUpdated: "2026-02-26"

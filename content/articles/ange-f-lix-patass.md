@@ -5,7 +5,7 @@ birth: "1937-01-25"
 death: "2011-04-05"
 nationality: "Central African Republic"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ange-F%C3%A9lix_Patass%C3%A9_%28cropped%29_in_2001.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ange-F%C3%A9lix_Patass%C3%A9"
 lastUpdated: "2026-02-26"

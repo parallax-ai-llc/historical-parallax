@@ -5,7 +5,7 @@ birth: "2000-01-01"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["Authoritarian Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Paul_Kagame_2024_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Kagame_Repression"
 lastUpdated: "2026-02-26"

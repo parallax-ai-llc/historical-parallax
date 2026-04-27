@@ -5,7 +5,7 @@ birth: "1928-03-18"
 death: "Unknown"
 nationality: "Swedish"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Carleson_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lennart_Carleson"
 lastUpdated: "2026-02-21"

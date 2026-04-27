@@ -5,7 +5,7 @@ birth: "1942-11-04"
 death: "2019-05-30"
 nationality: "American"
 occupation: ["Ophthalmologist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Patriciabath.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patricia_Bath"
 lastUpdated: "2026-02-21"

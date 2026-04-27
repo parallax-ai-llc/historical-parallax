@@ -5,7 +5,7 @@ birth: "1867-02-14"
 death: "1930-10-30"
 nationality: "Japanese"
 occupation: ["Entrepreneur", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sakichi_Toyoda.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sakichi_Toyoda"
 lastUpdated: "2026-02-21"

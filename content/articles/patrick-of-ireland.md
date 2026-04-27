@@ -5,7 +5,7 @@ birth: "0385-01-01"
 death: "0461-03-17"
 nationality: "Romano-British"
 occupation: ["Bishop", "Missionary", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Saint_Patrick_Catholic_Church_%28Junction_City%2C_Ohio%29_-_stained_glass%2C_Saint_Patrick_-_detail.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_of_Ireland"
 lastUpdated: "2026-02-21"

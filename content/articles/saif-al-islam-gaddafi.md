@@ -5,7 +5,7 @@ birth: "1972-06-25"
 death: "Unknown"
 nationality: "Libya"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Saif_al-Islam_Gaddafi_2021.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saif_al-Islam_Gaddafi"
 lastUpdated: "2026-02-26"

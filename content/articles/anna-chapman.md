@@ -5,7 +5,7 @@ birth: "1982-02-23"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Anna_Chapman_02_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anna_Chapman"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1961-09-18"
 death: "Unknown"
 nationality: "Uganda"
 occupation: ["War Criminal", "Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ugandan_districts_affected_by_Lords_Resistance_Army.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Kony"
 lastUpdated: "2026-02-26"

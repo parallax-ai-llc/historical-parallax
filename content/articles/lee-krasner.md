@@ -5,7 +5,7 @@ birth: "1908-10-27"
 death: "1984-06-19"
 nationality: "American"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Lee_Krasner%2C_artist%2C_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Krasner"
 lastUpdated: "2026-02-21"

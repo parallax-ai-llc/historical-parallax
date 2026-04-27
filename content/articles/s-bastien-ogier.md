@@ -5,7 +5,7 @@ birth: "1983-12-17"
 death: "Unknown"
 nationality: "French"
 occupation: ["Athlete", "Rally Driver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/2023_Central_European_Rally_-_Ogier_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S%C3%A9bastien_Ogier"
 lastUpdated: "2026-02-26"

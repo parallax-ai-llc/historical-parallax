@@ -5,7 +5,7 @@ birth: "1886-04-06"
 death: "1946-04-19"
 nationality: "American"
 occupation: ["Neurosurgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Walter_Dandy%2C_ca._1915.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_Dandy"
 lastUpdated: "2026-02-21"

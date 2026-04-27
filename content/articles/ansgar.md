@@ -5,7 +5,7 @@ birth: "0801-09-08"
 death: "0865-02-03"
 nationality: "Frankish"
 occupation: ["Archbishop", "Missionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Bendixen_Ansgar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ansgar"
 lastUpdated: "2026-02-21"

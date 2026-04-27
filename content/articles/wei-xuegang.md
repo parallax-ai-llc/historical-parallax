@@ -5,7 +5,7 @@ birth: "1946-01-01"
 death: "Unknown"
 nationality: "Myanmar"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wei_Hsueh-Kang.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wei_Xuegang"
 lastUpdated: "2026-02-21"

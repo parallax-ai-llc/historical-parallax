@@ -5,7 +5,7 @@ birth: "1908-06-16"
 death: "1963-12-08"
 nationality: "Thailand"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Sarit_Thanarat.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thanarat_Sarit"
 lastUpdated: "2026-02-26"

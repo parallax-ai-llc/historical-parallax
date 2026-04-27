@@ -5,7 +5,7 @@ birth: "1967-04-10"
 death: "Unknown"
 nationality: "India"
 occupation: ["Criminal Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_Member_of_Parliament_%28Lok_Sabha%29%2C_Shri_Rajesh_Ranjan_%28Pappu_Yadav%29_meeting_the_Union_Minister_for_Railways%2C_Shri_Suresh_Prabhakar_Prabhu%2C_in_New_Delhi_on_March_22%2C_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pappu_Yadav"
 lastUpdated: "2026-02-26"

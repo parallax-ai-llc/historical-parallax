@@ -5,7 +5,7 @@ birth: "1956-09-13"
 death: "Unknown"
 nationality: "Monegasque-French"
 occupation: ["Entrepreneur", "Chef"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Alain_Ducasse.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alain_Ducasse"
 lastUpdated: "2026-02-21"

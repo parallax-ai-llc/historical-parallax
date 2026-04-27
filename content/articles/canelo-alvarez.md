@@ -3,6 +3,7 @@ name: "Canelo Álvarez"
 birth: "1990-07-18"
 nationality: "Mexican"
 occupation: ["Boxer", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Sa%C3%BAl_%C3%81lvarez.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez"
 lastUpdated: "2026-03-12"

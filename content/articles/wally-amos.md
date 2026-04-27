@@ -5,7 +5,7 @@ birth: "1936-07-01"
 death: "2024-08-13"
 nationality: "American"
 occupation: ["Entrepreneur", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wally_Amos_2007_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wally_Amos"
 lastUpdated: "2026-02-21"

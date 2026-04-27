@@ -5,7 +5,7 @@ birth: "1972-03-17"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mia_Hamm_corner_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mia_Hamm"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1938-01-01"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Official_portrait_of_Kunio_Hatoyama_2008.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kunio_Hatoyama"
 lastUpdated: "2026-02-26"

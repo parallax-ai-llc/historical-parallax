@@ -5,7 +5,7 @@ birth: "1932-11-02"
 death: "2006-08-28"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Melvin_Schwartz.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Melvin_Schwartz"
 lastUpdated: "2026-02-21"

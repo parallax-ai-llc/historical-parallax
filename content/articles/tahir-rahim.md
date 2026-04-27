@@ -5,7 +5,7 @@ birth: "1952-06-01"
 death: "Unknown"
 nationality: "Indonesian"
 occupation: ["Entrepreneur", "Banker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Aga_Khan_Key.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tahir_Rahim"
 lastUpdated: "2026-02-21"

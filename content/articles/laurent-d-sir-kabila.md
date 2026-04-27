@@ -5,7 +5,7 @@ birth: "1939-01-27"
 death: "2001-01-16"
 nationality: "Democratic Republic of the Congo"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Visit_of_Laurent_D%C3%A9sir%C3%A9_Kabila%2C_President_of_the_Democratic_Republic_of_Congo%2C_to_the_EC_%28cropped2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila"
 lastUpdated: "2026-02-26"

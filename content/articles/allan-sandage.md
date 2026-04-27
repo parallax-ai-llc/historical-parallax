@@ -5,7 +5,7 @@ birth: "1926-06-18"
 death: "2010-11-13"
 nationality: "American"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Allan_Sandage.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Allan_Sandage"
 lastUpdated: "2026-02-21"

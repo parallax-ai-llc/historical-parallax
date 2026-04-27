@@ -5,7 +5,7 @@ birth: "1949-09-25"
 death: "Unknown"
 nationality: "Spanish"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pedro_Almod%C3%B3var-69720_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedro_Almodovar"
 lastUpdated: "2026-02-21"

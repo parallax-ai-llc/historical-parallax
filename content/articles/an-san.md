@@ -5,7 +5,7 @@ birth: "2000-02-25"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Archer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/AnSanMarieClaireKorea2021.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/An_San"
 lastUpdated: "2026-02-26"

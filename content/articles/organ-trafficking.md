@@ -5,7 +5,7 @@ birth: "1990-01-01"
 death: "Unknown"
 nationality: "International"
 occupation: ["Ongoing Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Organ_trade_legality_by_country.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Organ_Trafficking"
 lastUpdated: "2026-02-26"

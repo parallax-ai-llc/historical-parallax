@@ -3,6 +3,7 @@ name: "Sally Mann"
 birth: "1951-05-01"
 nationality: "American"
 occupation: ["Photographer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sally_Mann.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sally_Mann"
 lastUpdated: "2026-03-12"

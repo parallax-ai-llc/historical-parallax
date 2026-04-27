@@ -5,7 +5,7 @@ birth: "1995-05-10"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Missy_Franklin_National_Character_and_Leadership_Symposium_2024_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Missy_Franklin"
 lastUpdated: "2026-02-26"

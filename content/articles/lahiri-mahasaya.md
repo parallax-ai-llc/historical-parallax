@@ -5,7 +5,7 @@ birth: "1828-09-30"
 death: "1895-09-26"
 nationality: "Indian"
 occupation: ["Yogi", "Teacher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lahiri_Mahasaya.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lahiri_Mahasaya"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1956-08-04"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Meg_Whitman%2C_U.S._Ambassador.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meg_Whitman"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rotherham_town_centre%2C_May_2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rotherham_Child_Abuse_Scandal"
 lastUpdated: "2026-02-26"

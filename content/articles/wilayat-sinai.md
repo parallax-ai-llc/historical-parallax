@@ -5,7 +5,7 @@ birth: "2014-11-10"
 death: "Unknown"
 nationality: "Egypt"
 occupation: ["Terrorist Organization"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Islamic_State_%E2%80%93_Sinai_Province.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wilayat_Sinai"
 lastUpdated: "2026-02-26"

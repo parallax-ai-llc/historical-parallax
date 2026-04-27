@@ -3,6 +3,7 @@ name: "Rosalia"
 birth: "1992-09-25"
 nationality: "Spanish"
 occupation: ["Singer", "Songwriter", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/2023-11-16_Gala_de_los_Latin_Grammy%2C_27_%28cropped%2902_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rosal%C3%ADa"
 lastUpdated: "2026-03-12"

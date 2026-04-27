@@ -5,7 +5,7 @@ birth: "1969-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Insurrectionist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Aquilino_Gonell_5187688.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kyle_Fitzsimons"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "2010-08-23"
 nationality: "Philippines"
 occupation: ["Hostage Taker", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/2010_Manila_hostage_crisis_bus.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rolando_Mendoza"
 lastUpdated: "2026-02-26"

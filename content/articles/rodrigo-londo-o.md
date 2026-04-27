@@ -5,7 +5,7 @@ birth: "1959-09-22"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Timochenko-GoraHerria.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rodrigo_Londo%C3%B1o"
 lastUpdated: "2026-02-26"

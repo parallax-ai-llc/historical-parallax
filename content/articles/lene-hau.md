@@ -5,7 +5,7 @@ birth: "1959-11-13"
 death: "living"
 nationality: "Danish"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Professor_Lene_Hau_in_her_laboratory_at_Harvard.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lene_Hau"
 lastUpdated: "2026-02-21"

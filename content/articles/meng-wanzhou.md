@@ -5,7 +5,7 @@ birth: "1972-02-13"
 death: "Unknown"
 nationality: "China"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/%E5%AD%9F%E6%99%9A%E8%88%9F_Meng_Wanzhou_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meng_Wanzhou"
 lastUpdated: "2026-02-26"

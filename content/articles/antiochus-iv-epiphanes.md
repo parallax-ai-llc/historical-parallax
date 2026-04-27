@@ -5,7 +5,7 @@ birth: "-215-01-01"
 death: "-164-01-01"
 nationality: "Seleucid Empire"
 occupation: ["Persecutor", "Tyrant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Antiochus_IV_Epiphanes_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes"
 lastUpdated: "2026-02-26"

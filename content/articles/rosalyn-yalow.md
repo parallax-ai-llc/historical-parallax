@@ -5,7 +5,7 @@ birth: "1921-07-19"
 death: "2011-05-30"
 nationality: "American"
 occupation: ["Physicist", "Medical Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Rosalyn_Yalow.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rosalyn_Yalow"
 lastUpdated: "2026-02-21"

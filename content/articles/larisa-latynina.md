@@ -5,7 +5,7 @@ birth: "1934-12-27"
 death: "Unknown"
 nationality: "Soviet/Ukrainian"
 occupation: ["Athlete", "Olympic Champion", "Gymnast"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Larisa_Latynina%2C_2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Larisa_Latynina"
 lastUpdated: "2026-02-26"

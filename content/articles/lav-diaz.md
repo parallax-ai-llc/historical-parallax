@@ -5,7 +5,7 @@ birth: "1958-12-30"
 death: "Unknown"
 nationality: "Filipino"
 occupation: ["Film Director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lav_Diaz-7798.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lav_Diaz"
 lastUpdated: "2026-02-21"

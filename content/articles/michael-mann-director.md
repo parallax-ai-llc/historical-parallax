@@ -3,6 +3,7 @@ name: "Michael Mann"
 birth: "1943-02-05"
 nationality: "American"
 occupation: ["Film Director", "Screenwriter", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Michael_Mann_in_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Mann_(filmmaker)"
 lastUpdated: "2026-03-12"

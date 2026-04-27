@@ -5,7 +5,7 @@ birth: "1864-09-17"
 death: "1933-04-29"
 nationality: "Sri Lankan"
 occupation: ["Buddhist Revivalist", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Dharmapala_color.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anagarika_Dharmapala"
 lastUpdated: "2026-02-21"

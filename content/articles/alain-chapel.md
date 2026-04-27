@@ -3,6 +3,7 @@ name: "Alain Chapel"
 birth: "1937-12-30"
 nationality: "French"
 occupation: ["Chef", "Restaurateur", "Culinary Pioneer"]
+image: "https://upload.wikimedia.org/wikipedia/en/9/9c/Alain_Chapel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alain_Chapel"
 lastUpdated: "2026-03-12"

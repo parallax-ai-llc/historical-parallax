@@ -5,7 +5,7 @@ birth: "1898-05-16"
 death: "1980-03-18"
 nationality: "Polish"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/c7/Tamara_de_Lempicka%2C_Autoportrait_%28Tamara_in_a_Green_Bugatti%29.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tamara_de_Lempicka"
 lastUpdated: "2026-02-21"

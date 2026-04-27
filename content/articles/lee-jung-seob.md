@@ -5,7 +5,7 @@ birth: "1916-09-10"
 death: "1956-09-06"
 nationality: "Korean"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/%EA%B9%80%EC%9B%94%EC%9A%A9%EA%B3%BC_%EC%98%A4%EC%82%B0%EA%B3%A0%EB%B3%B4_%EB%8F%99%EC%B0%BD_%EC%9D%B4%EC%A4%91%EC%84%AD.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Jung-seob"
 lastUpdated: "2026-02-21"

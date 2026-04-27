@@ -5,7 +5,7 @@ birth: "1919-11-10"
 death: "2013-12-23"
 nationality: "Russian"
 occupation: ["Inventor", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Kalashnikov_Mikhail_%281%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Kalashnikov"
 lastUpdated: "2026-02-21"

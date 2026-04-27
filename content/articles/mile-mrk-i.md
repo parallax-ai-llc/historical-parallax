@@ -5,7 +5,7 @@ birth: "1947-07-20"
 death: "2015-08-16"
 nationality: "Serbia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Accused_Mile_Mrk%C5%A1i%C4%87.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mile_Mrk%C5%A1i%C4%87"
 lastUpdated: "2026-02-26"

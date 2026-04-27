@@ -5,7 +5,7 @@ birth: "1968-01-01"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Controversial Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/%C4%B0%C3%A7i%C5%9Fleri_Bakan%C4%B1_Ali_Yerlikaya.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Yerlikaya"
 lastUpdated: "2026-02-26"

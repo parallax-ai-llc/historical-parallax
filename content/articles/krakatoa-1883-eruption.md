@@ -5,7 +5,7 @@ birth: "1883-08-27"
 death: "1883-08-27"
 nationality: "Indonesia"
 occupation: ["Historical Event", "Disaster", "Volcanic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/De_uitbarsting_van_de_Krakatau%2C_KITLV_5888.tiff"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Krakatoa_1883_Eruption"
 lastUpdated: "2026-02-21"

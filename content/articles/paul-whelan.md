@@ -5,7 +5,7 @@ birth: "1970-06-08"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Political Prisoner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Paul_Whelan_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Whelan"
 lastUpdated: "2026-02-26"

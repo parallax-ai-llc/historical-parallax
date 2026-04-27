@@ -5,7 +5,7 @@ birth: "1925-12-28"
 death: "2005-10-10"
 nationality: "Uganda"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/President_John_F._Kennedy_with_Prime_Minister_Milton_Obote_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milton_Obote"
 lastUpdated: "2026-02-26"

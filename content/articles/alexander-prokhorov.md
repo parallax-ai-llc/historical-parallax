@@ -5,7 +5,7 @@ birth: "1916-07-11"
 death: "2002-01-08"
 nationality: "Soviet"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Aleksandr_Prokhorov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Prokhorov"
 lastUpdated: "2026-02-21"

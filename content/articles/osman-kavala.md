@@ -5,7 +5,7 @@ birth: "1957-10-02"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Political Prisoner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Osman_Kavala_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Osman_Kavala"
 lastUpdated: "2026-02-26"

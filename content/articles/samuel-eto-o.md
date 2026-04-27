@@ -5,7 +5,7 @@ birth: "1981-03-10"
 death: "Unknown"
 nationality: "Cameroonian"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Samuel_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Eto'o"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: Al Gore
 birth: "1948-03-31"
 nationality: American
 occupation: ["Former Vice President", "Environmental Activist", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al_Gore"
 lastUpdated: "2025-12-22"

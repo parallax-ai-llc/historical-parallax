@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Ukraine"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Boeing_777-2H6ER_9M-MRD_Malaysian_%286658105143%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/MH17_Shootdown"
 lastUpdated: "2026-02-26"

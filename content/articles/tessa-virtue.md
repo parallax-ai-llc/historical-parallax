@@ -5,7 +5,7 @@ birth: "1989-05-17"
 death: "Unknown"
 nationality: "Canadian"
 occupation: ["Athlete", "Olympic Champion", "Ice Dancer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/2018_Olympics_-_Tessa_Virtue_-_PC_-_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tessa_Virtue"
 lastUpdated: "2026-02-26"

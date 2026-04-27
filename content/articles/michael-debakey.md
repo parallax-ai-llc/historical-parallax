@@ -5,7 +5,7 @@ birth: "1908-09-07"
 death: "2008-07-11"
 nationality: "American"
 occupation: ["Cardiovascular Surgeon", "Medical Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Michael_E._DeBakey.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_DeBakey"
 lastUpdated: "2026-02-21"

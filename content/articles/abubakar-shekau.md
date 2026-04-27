@@ -5,7 +5,7 @@ birth: "1969-01-01"
 death: "2021-05-19"
 nationality: "Nigeria"
 occupation: ["Terrorist", "Boko Haram Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/cc/Abubakar_Shekau%2C_Rewards_for_Justice.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abubakar_Shekau"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "2012-08-23"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Sports Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lance_Armstrong%2C_Tour_de_France_2009_n2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lance_Armstrong_Doping"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1935-07-06"
 death: "N/A"
 nationality: "Tibetan"
 occupation: ["Buddhist Leader", "Nobel Laureate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Dalai_Lama_in_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tendzin_Gyatso"
 lastUpdated: "2026-02-21"

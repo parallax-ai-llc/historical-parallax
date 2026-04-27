@@ -5,7 +5,7 @@ birth: "1887-05-25"
 death: "1968-09-23"
 nationality: "Italian"
 occupation: ["Friar", "Mystic", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Padre_Pio_portraitFXD.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Padre_Pio"
 lastUpdated: "2026-02-21"

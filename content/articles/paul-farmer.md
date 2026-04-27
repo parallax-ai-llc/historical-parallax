@@ -5,7 +5,7 @@ birth: "1959-10-26"
 death: "2022-02-21"
 nationality: "American"
 occupation: ["Physician", "Anthropologist", "Public Health Advocate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Paul_Farmer_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Farmer"
 lastUpdated: "2026-02-21"

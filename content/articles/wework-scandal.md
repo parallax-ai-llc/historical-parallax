@@ -5,7 +5,7 @@ birth: "2019-08-14"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corporate Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/WeWork_Scandal"
 lastUpdated: "2026-02-26"

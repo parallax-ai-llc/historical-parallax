@@ -5,7 +5,7 @@ birth: "1757-11-28"
 death: "1827-08-12"
 nationality: "British"
 occupation: ["Painter", "Poet", "Printmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/William_Blake_by_Thomas_Phillips.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Blake"
 lastUpdated: "2026-02-21"

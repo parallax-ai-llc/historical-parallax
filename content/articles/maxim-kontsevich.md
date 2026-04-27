@@ -5,7 +5,7 @@ birth: "1964-08-25"
 death: "Unknown"
 nationality: "Russian-French"
 occupation: ["Mathematician", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Maxim_Kontsevich_1994_%28headshot%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maxim_Kontsevich"
 lastUpdated: "2026-02-21"

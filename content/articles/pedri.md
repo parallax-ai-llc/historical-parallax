@@ -3,6 +3,7 @@ name: "Pedri"
 birth: "2002-11-25"
 nationality: "Spanish"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Pedri.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedri"
 lastUpdated: "2026-03-12"

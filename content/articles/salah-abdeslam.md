@@ -5,7 +5,7 @@ birth: "1989-09-15"
 death: "N/A (Imprisoned)"
 nationality: "Belgium / France"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Salah_Abdeslam_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salah_Abdeslam"
 lastUpdated: "2026-02-21"

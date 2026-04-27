@@ -5,7 +5,7 @@ birth: "1932-07-20"
 death: "2006-01-29"
 nationality: "Korean-American"
 occupation: ["Artist", "Technology pioneer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Nam_June_Paik_signature.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paik_Nam-June"
 lastUpdated: "2026-02-21"

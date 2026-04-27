@@ -5,7 +5,7 @@ birth: "1942-06-01"
 death: "1943-10-25"
 nationality: "Japan"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thailand-Burma_Railway"
 lastUpdated: "2026-02-26"

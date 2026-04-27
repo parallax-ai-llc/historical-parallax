@@ -5,7 +5,7 @@ birth: "1929-01-30"
 death: "2021-04-01"
 nationality: "Japanese"
 occupation: ["Engineer", "Nobel laureate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Isamu_Akasaki_201111.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akasaki_Isamu"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1926-07-04"
 death: "2014-07-07"
 nationality: "Argentine/Spanish"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Di_Stefano_1959.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfredo_Di_St%C3%A9fano"
 lastUpdated: "2026-02-26"

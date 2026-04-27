@@ -5,7 +5,7 @@ birth: "1988-01-01"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Lee_So-hyuk_in_October_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Sang-hyuk"
 lastUpdated: "2026-02-26"

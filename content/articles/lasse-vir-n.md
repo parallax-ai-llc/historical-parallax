@@ -5,7 +5,7 @@ birth: "1949-07-22"
 death: "Unknown"
 nationality: "Finnish"
 occupation: ["Athlete", "Olympic Champion", "Long-Distance Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lasse_Vir%C3%A9n_c1974.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lasse_Vir%C3%A9n"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1977-09-05"
 death: "1977-09-05"
 nationality: "United States"
 occupation: ["Historical Event", "Discovery", "Space Exploration"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Voyager_1_Launch"
 lastUpdated: "2026-02-21"

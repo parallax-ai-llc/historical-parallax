@@ -5,7 +5,7 @@ birth: "1992-03-06"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Fraudster", "Cryptocurrency Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sam_Bankman-Fried_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Bankman-Fried"
 lastUpdated: "2026-02-21"

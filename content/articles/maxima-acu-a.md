@@ -5,7 +5,7 @@ birth: "1971-01-01"
 death: "Unknown"
 nationality: "Peru"
 occupation: ["Environmental Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/M%C3%A1xima_Acu%C3%B1a%2C_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maxima_Acu%C3%B1a"
 lastUpdated: "2026-02-26"

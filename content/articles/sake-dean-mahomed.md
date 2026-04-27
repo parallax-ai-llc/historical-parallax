@@ -5,7 +5,7 @@ birth: "1759-01-01"
 death: "1851-02-24"
 nationality: "Indian"
 occupation: ["Surgeon", "Entrepreneur", "Medical innovator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Sake_Dean_Mahomed.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sake_Dean_Mahomed"
 lastUpdated: "2026-02-21"

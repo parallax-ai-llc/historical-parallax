@@ -5,7 +5,7 @@ birth: "1942-07-26"
 death: "Unknown"
 nationality: "Slovakia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vladimir_Meciar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Me%C4%8Diar"
 lastUpdated: "2026-02-26"

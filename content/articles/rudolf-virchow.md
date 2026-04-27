@@ -5,7 +5,7 @@ birth: "1821-10-13"
 death: "1902-09-05"
 nationality: "German"
 occupation: ["Physician", "Pathologist", "Anthropologist", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rudolf_Virchow_NLM3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudolf_Virchow"
 lastUpdated: "2026-02-21"

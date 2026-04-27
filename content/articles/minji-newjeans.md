@@ -3,6 +3,7 @@ name: "Minji (NewJeans)"
 birth: "2004-05-07"
 nationality: "South Korean"
 occupation: ["Singer", "Dancer", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Minji_Olens_2024_FW_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Minji_(singer)"
 lastUpdated: "2026-03-11"

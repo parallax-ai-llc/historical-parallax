@@ -5,7 +5,7 @@ birth: "1938-03-17"
 death: "1993-01-06"
 nationality: "Russian-Austrian"
 occupation: ["Ballet Dancer", "Choreographer", "Director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nureyev_9_Allan_Warren.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudolf_Nureyev"
 lastUpdated: "2026-02-21"

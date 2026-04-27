@@ -5,7 +5,7 @@ birth: "1939-12-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Golfer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Lee_Trevino.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Trevino"
 lastUpdated: "2026-02-26"

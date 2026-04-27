@@ -5,7 +5,7 @@ birth: "1985-10-24"
 death: "Unknown"
 nationality: "English"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Wayne_Rooney_%2850121495731%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wayne_Rooney"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1944-01-01"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["Genocidaire"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nyamata_Memorial_Site_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Laurent_Semanza"
 lastUpdated: "2026-02-26"

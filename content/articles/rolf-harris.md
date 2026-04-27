@@ -5,7 +5,7 @@ birth: "1930-03-30"
 death: "2023-05-10"
 nationality: "Australia"
 occupation: ["Entertainer", "Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Rolf_Harris.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rolf_Harris"
 lastUpdated: "2026-02-26"

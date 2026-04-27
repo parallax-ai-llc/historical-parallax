@@ -5,7 +5,7 @@ birth: "1977-04-26"
 death: "living"
 nationality: "Italian"
 occupation: ["Astronaut", "Pilot", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Samantha_Cristoforetti_official_portrait_in_an_EMU_spacesuit.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samantha_Cristoforetti"
 lastUpdated: "2026-02-21"

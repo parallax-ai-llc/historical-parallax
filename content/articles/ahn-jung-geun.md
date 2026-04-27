@@ -5,7 +5,7 @@ birth: "1879-09-02"
 death: "1910-03-26"
 nationality: "Korea"
 occupation: ["Assassin", "Independence Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/An_Jung-geun.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahn_Jung-geun"
 lastUpdated: "2026-02-26"

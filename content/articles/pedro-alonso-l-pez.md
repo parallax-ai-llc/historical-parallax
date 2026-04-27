@@ -5,7 +5,7 @@ birth: "1948-10-08"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mario_Vargas_Llosa_LCCN2020733847_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedro_Alonso_L%C3%B3pez"
 lastUpdated: "2026-02-26"

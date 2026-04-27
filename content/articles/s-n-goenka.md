@@ -5,7 +5,7 @@ birth: "1924-01-30"
 death: "2013-09-29"
 nationality: "Burmese-Indian"
 occupation: ["Meditation Teacher", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/The_Kalyanmitra_Satyanarayan_Goenka_who_brought_Vipassana_Meditation_technique_to_India_after_2500_years_is_seen_with_his_wife_while_speaking_at_a_talk_on_%22Values_in_Education_-_Good_Governance_through_Vipassana_Meditation%22_in.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S._N._Goenka"
 lastUpdated: "2026-02-21"

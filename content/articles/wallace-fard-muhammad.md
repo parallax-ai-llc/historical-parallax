@@ -5,7 +5,7 @@ birth: "1893-02-25"
 death: "Unknown"
 nationality: "American"
 occupation: ["Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Wallace_Fard_Muhammad.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wallace_Fard_Muhammad"
 lastUpdated: "2026-02-21"

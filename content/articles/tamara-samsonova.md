@@ -5,7 +5,7 @@ birth: "1947-02-05"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tamara_Samsonova_Frunze_District_Court_St._Petersburg_2015_6.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tamara_Samsonova"
 lastUpdated: "2026-02-26"

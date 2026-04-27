@@ -3,6 +3,7 @@ name: "KSI"
 birth: "1993-06-19"
 nationality: "British"
 occupation: ["YouTuber", "Boxer", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/KSI_in_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/KSI"
 lastUpdated: "2026-03-11"

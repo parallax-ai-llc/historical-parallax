@@ -5,7 +5,7 @@ birth: "1949-04-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Paul_Manafort_at_2016_RNC.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Manafort"
 lastUpdated: "2026-02-26"

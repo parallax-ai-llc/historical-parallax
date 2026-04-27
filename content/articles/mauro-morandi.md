@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Peru"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Spiaggia_rosa.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mauro_Morandi"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1774-01-01"
 death: "1890-10-17"
 nationality: "Bengali"
 occupation: ["Mystic", "Poet", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Fakir_Lalon_Shah.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lalon_Shah"
 lastUpdated: "2026-02-21"

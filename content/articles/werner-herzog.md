@@ -5,7 +5,7 @@ birth: "1942-09-05"
 death: "Unknown"
 nationality: "German"
 occupation: ["Film Director", "Screenwriter", "Actor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Werner_Herzog_Venice_Film_Festival_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Werner_Herzog"
 lastUpdated: "2026-02-26"

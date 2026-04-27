@@ -5,7 +5,7 @@ birth: "2009-05-23"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Roh_Moo-hyun_presidential_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roh_Moo-hyun_Suicide"
 lastUpdated: "2026-02-26"

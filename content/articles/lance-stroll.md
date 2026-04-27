@@ -3,6 +3,7 @@ name: "Lance Stroll"
 birth: "1998-10-29"
 nationality: "Canadian"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/2025_Japan_GP_-_Aston_Martin_-_Lance_Stroll_-_Fanzone_Stage_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lance_Stroll"
 lastUpdated: "2026-03-12"

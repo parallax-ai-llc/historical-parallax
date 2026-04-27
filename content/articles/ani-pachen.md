@@ -5,7 +5,7 @@ birth: "1933-01-01"
 death: "2002-02-02"
 nationality: "Tibetan"
 occupation: ["Nun", "Resistance Fighter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ani_Pachen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ani_Pachen"
 lastUpdated: "2026-02-21"

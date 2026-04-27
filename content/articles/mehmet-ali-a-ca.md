@@ -5,7 +5,7 @@ birth: "1958-01-09"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mehmet_Ali_A%C4%9Fca_02_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mehmet_Ali_A%C4%9Fca"
 lastUpdated: "2026-02-26"

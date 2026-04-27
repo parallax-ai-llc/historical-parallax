@@ -5,7 +5,7 @@ birth: "1906-08-26"
 death: "1993-03-03"
 nationality: "Polish-American"
 occupation: ["Virologist", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Albert_Sabin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Albert_Sabin"
 lastUpdated: "2026-02-21"

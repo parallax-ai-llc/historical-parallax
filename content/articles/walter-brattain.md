@@ -5,7 +5,7 @@ birth: "1902-02-10"
 death: "1987-10-13"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Brattain.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_Brattain"
 lastUpdated: "2026-02-21"

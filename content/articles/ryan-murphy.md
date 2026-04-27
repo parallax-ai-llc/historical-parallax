@@ -3,6 +3,7 @@ name: "Ryan Murphy"
 birth: "1965-11-09"
 nationality: "American"
 occupation: ["Television Producer", "Screenwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ryan_Murphy_at_PaleyFest_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryan_Murphy_(writer)"
 lastUpdated: "2026-03-12"

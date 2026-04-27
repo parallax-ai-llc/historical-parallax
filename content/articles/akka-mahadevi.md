@@ -5,7 +5,7 @@ birth: "1130-01-01"
 death: "1160-01-01"
 nationality: "Indian"
 occupation: ["Poet", "Mystic", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/48/%E0%B2%85%E0%B2%95%E0%B3%8D%E0%B2%95_%E0%B2%AE%E0%B2%B9%E0%B2%BE%E0%B2%A6%E0%B3%87%E0%B2%B5%E0%B2%BF.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akka_Mahadevi"
 lastUpdated: "2026-02-21"

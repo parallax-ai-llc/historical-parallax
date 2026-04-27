@@ -5,7 +5,7 @@ birth: "1957-07-23"
 death: "2004-11-02"
 nationality: "Netherlands"
 occupation: ["Murder Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/TheoVanGogh.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theo_van_Gogh"
 lastUpdated: "2026-02-26"

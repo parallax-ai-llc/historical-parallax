@@ -5,7 +5,7 @@ birth: "1952-02-12"
 death: "Unknown"
 nationality: "Malaysian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Vincent_Tan_Chee_Yioun.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tan_Sri_Vincent_Tan"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1861-02-25"
 death: "1925-03-30"
 nationality: "Austrian"
 occupation: ["Philosopher", "Esotericist", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Steiner_um_1905.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudolf_Steiner"
 lastUpdated: "2026-02-21"

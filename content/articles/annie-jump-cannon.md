@@ -5,7 +5,7 @@ birth: "1863-12-11"
 death: "1941-04-13"
 nationality: "American"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Annie_Jump_Cannon_1922_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Annie_Jump_Cannon"
 lastUpdated: "2026-02-21"

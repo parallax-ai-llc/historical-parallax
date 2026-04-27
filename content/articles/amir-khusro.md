@@ -5,7 +5,7 @@ birth: "1253-01-01"
 death: "1325-10-01"
 nationality: "Indian"
 occupation: ["Poet", "Musician", "Sufi"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Amir_Khusro.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amir_Khusro"
 lastUpdated: "2026-02-21"

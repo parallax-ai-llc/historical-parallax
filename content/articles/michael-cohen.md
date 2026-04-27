@@ -5,7 +5,7 @@ birth: "1966-08-25"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Michael_Cohen_at_%22The_Apprentice%22_in_NYC_03_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Cohen"
 lastUpdated: "2026-02-26"

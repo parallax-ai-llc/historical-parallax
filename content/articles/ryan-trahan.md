@@ -3,6 +3,7 @@ name: "Ryan Trahan"
 birth: "1998-10-07"
 nationality: "American"
 occupation: ["YouTuber", "Content Creator", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/RyanTrahan_Interview.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryan_Trahan"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "0590-01-01"
 death: "0651-08-31"
 nationality: "Irish"
 occupation: ["Bishop", "Missionary", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Saint_Aidan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aidan_of_Lindisfarne"
 lastUpdated: "2026-02-21"

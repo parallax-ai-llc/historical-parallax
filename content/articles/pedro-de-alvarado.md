@@ -5,7 +5,7 @@ birth: "1485-01-01"
 death: "1541-07-04"
 nationality: "Spain"
 occupation: ["Colonial Criminal", "Conquistador"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pedro_de_Alvarado_%28Tom%C3%A1s_Povedano%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedro_de_Alvarado"
 lastUpdated: "2026-02-26"

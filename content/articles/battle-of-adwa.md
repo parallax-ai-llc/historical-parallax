@@ -5,7 +5,7 @@ birth: "1896-03-01"
 death: "1896-03-01"
 nationality: "Ethiopia"
 occupation: ["Historical Event", "Battle", "Colonial War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Adoua_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Adwa"
 lastUpdated: "2026-02-21"

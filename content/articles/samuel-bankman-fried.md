@@ -5,7 +5,7 @@ birth: "1992-03-06"
 death: "Unknown"
 nationality: "Bahamas"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sam_Bankman-Fried_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Bankman-Fried"
 lastUpdated: "2026-02-26"

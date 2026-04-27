@@ -5,7 +5,7 @@ birth: "1974-01-24"
 death: "Unknown"
 nationality: "Malian"
 occupation: ["Singer", "Guitarist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rokia_Traor%C3%A9_singing.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rokia_Traore"
 lastUpdated: "2026-02-21"

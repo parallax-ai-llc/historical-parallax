@@ -5,7 +5,7 @@ birth: "1962-08-07"
 death: "Unknown"
 nationality: "France"
 occupation: ["Urban Climber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Alain_Robert_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alain_Robert"
 lastUpdated: "2026-02-26"

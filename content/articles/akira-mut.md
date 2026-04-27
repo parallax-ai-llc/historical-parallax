@@ -5,7 +5,7 @@ birth: "1892-12-15"
 death: "1948-12-23"
 nationality: "Japan"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/MutouAkira_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akira_Mut%C5%8D"
 lastUpdated: "2026-02-26"

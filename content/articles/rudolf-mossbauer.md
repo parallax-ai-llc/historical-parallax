@@ -5,7 +5,7 @@ birth: "1929-01-31"
 death: "2011-09-14"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Mossbauer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudolf_Mossbauer"
 lastUpdated: "2026-02-26"

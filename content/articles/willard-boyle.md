@@ -5,7 +5,7 @@ birth: "1924-08-19"
 death: "2011-05-07"
 nationality: "Canadian"
 occupation: ["Physicist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nobel_Prize_2009-Press_Conference_KVA-23.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Willard_Boyle"
 lastUpdated: "2026-02-26"

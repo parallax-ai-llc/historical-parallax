@@ -5,7 +5,7 @@ birth: "1951-04-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Michael_Freedman_2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Freedman"
 lastUpdated: "2026-02-21"

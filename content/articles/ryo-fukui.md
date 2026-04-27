@@ -5,7 +5,7 @@ birth: "1948-06-01"
 death: "2016-03-15"
 nationality: "Japanese"
 occupation: ["Pianist", "Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ryo_Fukui.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryo_Fukui"
 lastUpdated: "2026-02-21"

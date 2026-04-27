@@ -3,6 +3,7 @@ name: "Midori Gotō"
 birth: "1971-10-25"
 nationality: "Japanese-American"
 occupation: ["Violinist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Midori_2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Midori_(violinist)"
 lastUpdated: "2026-03-12"

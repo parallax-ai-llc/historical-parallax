@@ -5,7 +5,7 @@ birth: "1958-05-27"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Wayne_Williams.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wayne_Williams"
 lastUpdated: "2026-02-21"

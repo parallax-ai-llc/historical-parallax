@@ -5,7 +5,7 @@ birth: "1886-07-31"
 death: "1931-09-10"
 nationality: "Italy / United States"
 occupation: ["Crime Boss", "Mafioso"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Salvatore_Maranzano_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salvatore_Maranzano"
 lastUpdated: "2026-02-21"

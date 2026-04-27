@@ -5,7 +5,7 @@ birth: "1899-05-04"
 death: "1995-07-18"
 nationality: "Japan"
 occupation: ["Fascist", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/RyoichiSasakawa_face.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryoichi_Sasakawa"
 lastUpdated: "2026-02-21"

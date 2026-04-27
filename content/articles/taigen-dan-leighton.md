@@ -5,7 +5,7 @@ birth: "1950-01-01"
 death: "N/A"
 nationality: "American"
 occupation: ["Zen Priest", "Scholar", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Taigen_Dan_Leighton_2.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Taigen_Dan_Leighton"
 lastUpdated: "2026-02-21"

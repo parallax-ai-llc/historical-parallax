@@ -5,7 +5,7 @@ birth: "1897-03-14"
 death: "1971-09-05"
 nationality: "Chinese"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Pan_Tianshou.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pan_Tianshou"
 lastUpdated: "2026-02-21"

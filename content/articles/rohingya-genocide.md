@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Myanmar"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Aerial_view_of_a_burned_Rohingya_village_in_Rakhine_state%2C_Myanmar_-_September_2017.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rohingya_Genocide"
 lastUpdated: "2026-02-26"

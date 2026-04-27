@@ -5,7 +5,7 @@ birth: "1940-07-09"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Space scientist", "Astrophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/K._Kasturirangan_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Krishnaswamy_Kasturirangan"
 lastUpdated: "2026-02-21"

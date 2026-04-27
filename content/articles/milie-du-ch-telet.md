@@ -5,7 +5,7 @@ birth: "1706-12-17"
 death: "1749-09-10"
 nationality: "French"
 occupation: ["Mathematician", "Physicist", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Emilie_Chatelet_portrait_by_Latour.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet"
 lastUpdated: "2026-02-21"

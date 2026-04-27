@@ -5,7 +5,7 @@ birth: "1877-04-05"
 death: "1916-11-10"
 nationality: "American"
 occupation: ["Geneticist", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Walter_sutton.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_Sutton"
 lastUpdated: "2026-02-21"

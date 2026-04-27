@@ -5,7 +5,7 @@ birth: "1970-01-01"
 death: "Unknown"
 nationality: "Fiji"
 occupation: ["Drug Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Official_portrait_of_Terry_Jermy_MP_crop_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maxine_Burrell"
 lastUpdated: "2026-02-26"

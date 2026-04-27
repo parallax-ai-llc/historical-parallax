@@ -4,6 +4,7 @@ birth: "1864-01-01"
 death: "1946-07-13"
 nationality: "American"
 occupation: ["Photographer", "Art Promoter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Stieglitz_1907c_autochrome_self-portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfred_Stieglitz"
 lastUpdated: "2026-03-12"

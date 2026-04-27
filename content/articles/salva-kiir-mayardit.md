@@ -5,7 +5,7 @@ birth: "1951-09-13"
 death: "Unknown"
 nationality: "South Sudan"
 occupation: ["Corrupt Politician", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Salva_Kiir_Mayardit_South_Sudan_2015_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salva_Kiir_Mayardit"
 lastUpdated: "2026-02-26"

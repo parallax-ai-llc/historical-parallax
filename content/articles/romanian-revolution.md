@@ -5,7 +5,7 @@ birth: "1989-12-16"
 death: "1989-12-25"
 nationality: "Romania"
 occupation: ["Historical Event", "Revolution", "Political"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Revolutia_Bucuresti_1989_000.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Romanian_Revolution"
 lastUpdated: "2026-02-21"

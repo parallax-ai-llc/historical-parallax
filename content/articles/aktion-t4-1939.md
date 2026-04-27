@@ -5,6 +5,7 @@ location: "Nazi Germany (Hartheim, Hadamar, etc.)"
 keyFigures: ["Philipp Bouhler", "Karl Brandt", "Bishop Clemens von Galen"]
 casualties: "70,000+ (Official T4), 200,000-300,000 total euthanasia victims"
 outcome: "Prototyping of gas chambers for the Holocaust, Halting after Church protests"
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Erlass_von_Hitler_-_N%C3%BCrnberger_Dokument_PS-630_-_datiert_1._September_1939.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aktion_T4"
 lastUpdated: "2025-12-23"

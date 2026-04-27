@@ -5,7 +5,7 @@ birth: "1528-01-01"
 death: "1588-04-19"
 nationality: "Italian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paolo_Veronese%2C_avtoportret.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paolo_Veronese"
 lastUpdated: "2026-02-21"

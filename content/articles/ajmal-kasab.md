@@ -5,7 +5,7 @@ birth: "1987-07-13"
 death: "2012-11-21"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/ce/Mohammed_Ajmal_Kasab.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ajmal_Kasab"
 lastUpdated: "2026-02-26"

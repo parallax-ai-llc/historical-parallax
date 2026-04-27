@@ -5,7 +5,7 @@ birth: "1916-05-16"
 death: "1916-05-16"
 nationality: "Middle East"
 occupation: ["Historical Event", "Treaty", "Secret Agreement"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/MPK1-426_Sykes_Picot_Agreement_Map_signed_8_May_1916.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sykes-Picot_Agreement"
 lastUpdated: "2026-02-21"

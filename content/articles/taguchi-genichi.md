@@ -5,7 +5,7 @@ birth: "1924-01-01"
 death: "2012-06-02"
 nationality: "Japanese"
 occupation: ["Engineer", "Statistician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Genichi_Taguchi.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Taguchi_Genichi"
 lastUpdated: "2026-02-21"

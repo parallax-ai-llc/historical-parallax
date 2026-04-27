@@ -5,6 +5,7 @@ location: "Pearl Harbor, Oahu, Hawaii"
 conflict: "World War II"
 belligerents: ["United States", "Empire of Japan"]
 outcome: "Japanese tactical victory; U.S. entry into WWII"
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"
 lastUpdated: "2025-12-22"

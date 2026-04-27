@@ -4,6 +4,7 @@ birth: "1915-05-15"
 death: "2009-12-13"
 nationality: "American"
 occupation: ["Economist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Paul_A._Samuelson%2C_economist%2C_edited.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Samuelson"
 lastUpdated: "2026-03-12"

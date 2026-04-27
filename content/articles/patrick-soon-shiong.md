@@ -5,7 +5,7 @@ birth: "1952-07-29"
 death: "Unknown"
 nationality: "South African-American"
 occupation: ["Entrepreneur", "Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Dr_Patrick_Soon-Shiong_%2814212355607%29_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Soon-Shiong"
 lastUpdated: "2026-02-21"

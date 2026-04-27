@@ -5,7 +5,7 @@ birth: "1914-12-22"
 death: "2002-08-19"
 nationality: "Indian-American"
 occupation: ["Yoga Master", "Guru", "Interfaith Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Swami_Satchidananda_in_Yogaville_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swami_Satchidananda"
 lastUpdated: "2026-02-21"

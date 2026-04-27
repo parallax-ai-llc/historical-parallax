@@ -5,7 +5,7 @@ birth: "1888-01-20"
 death: "1949-12-06"
 nationality: "American"
 occupation: ["Singer", "Guitarist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Leadbelly_with_Accordeon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lead_Belly"
 lastUpdated: "2026-02-21"

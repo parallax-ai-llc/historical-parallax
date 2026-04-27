@@ -5,7 +5,7 @@ birth: "1962-11-01"
 death: "1989-05-06"
 nationality: "United States / Cuba / Mexico"
 occupation: ["Serial Killer", "Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/d/de/Serial_Killer_%26_Cult_Leader_Adolfo_Constanzo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adolfo_Constanzo"
 lastUpdated: "2026-02-21"

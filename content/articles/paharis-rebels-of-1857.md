@@ -5,7 +5,7 @@ birth: "1830-01-01"
 death: "1858-01-01"
 nationality: "India"
 occupation: ["Historical Criminal", "Rebel"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Photograph_of_Maharaja_Narinder_Singh_%28alt._spelt_as_%27Narendra_Singh%27%29_of_Patiala_State_with_attendants%2C_by_Jean_Baptiste_Oscar_Malitte%2C_ca.1860.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paharis_Rebels_of_1857"
 lastUpdated: "2026-02-26"

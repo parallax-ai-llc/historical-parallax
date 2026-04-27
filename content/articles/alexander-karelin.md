@@ -5,7 +5,7 @@ birth: "1967-09-19"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Athlete", "Olympic Champion", "Wrestler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Aleksandr_Karelin_WCG-2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Karelin"
 lastUpdated: "2026-02-26"

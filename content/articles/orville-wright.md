@@ -5,7 +5,7 @@ birth: "1871-08-19"
 death: "1948-01-30"
 nationality: "American"
 occupation: ["Aviation Pioneer", "Inventor", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Orville_Wright_1905-crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Orville_Wright"
 lastUpdated: "2026-02-21"

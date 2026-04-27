@@ -5,7 +5,7 @@ birth: "1472-10-31"
 death: "1529-01-09"
 nationality: "Chinese"
 occupation: ["Philosopher", "Military Leader", "Confucian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/%E7%8E%8B%E5%AE%88%E4%BB%81.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Yangming"
 lastUpdated: "2026-02-21"

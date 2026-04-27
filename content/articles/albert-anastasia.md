@@ -5,7 +5,7 @@ birth: "1902-09-26"
 death: "1957-10-25"
 nationality: "Italy / United States"
 occupation: ["Crime Boss", "Mafioso"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/AlbertAnastasia1950s.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Albert_Anastasia"
 lastUpdated: "2026-02-26"

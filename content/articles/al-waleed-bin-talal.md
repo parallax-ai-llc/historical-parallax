@@ -5,7 +5,7 @@ birth: "1955-03-07"
 death: "Unknown"
 nationality: "Saudi Arabian"
 occupation: ["Entrepreneur", "Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Al_Waleed_bin_Talal_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Waleed_bin_Talal"
 lastUpdated: "2026-02-21"

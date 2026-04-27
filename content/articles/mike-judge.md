@@ -3,6 +3,7 @@ name: "Mike Judge"
 birth: "1962-10-17"
 nationality: "American"
 occupation: ["Television Producer", "Animator", "Comedian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mike_Judge_by_Gage_Skidmore_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mike_Judge"
 lastUpdated: "2026-03-12"

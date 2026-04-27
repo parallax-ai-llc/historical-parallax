@@ -5,7 +5,7 @@ birth: "2015-09-18"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Corporate Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Volkswagen_Dieselgate"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1431-11-01"
 death: "1476-12-01"
 nationality: "Romania"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vlad_the_Impaler"
 lastUpdated: "2026-02-21"

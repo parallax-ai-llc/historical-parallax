@@ -5,7 +5,7 @@ birth: "0709-01-01"
 death: "0788-01-01"
 nationality: "Chinese"
 occupation: ["Chan Master"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/%E8%87%A8%E6%BF%9F%E5%AE%97%E9%AB%98%E5%83%A7%E9%A0%82%E7%9B%B8%E5%9C%96_04%28%E5%B1%80%E9%83%A8%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mazu_Daoyi"
 lastUpdated: "2026-02-21"

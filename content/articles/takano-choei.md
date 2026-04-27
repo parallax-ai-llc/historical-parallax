@@ -5,7 +5,7 @@ birth: "1804-06-12"
 death: "1850-12-03"
 nationality: "Japanese"
 occupation: ["Physician", "Scholar", "Rangaku scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Takano_Choei.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takano_Choei"
 lastUpdated: "2026-02-21"

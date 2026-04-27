@@ -5,7 +5,7 @@ birth: "1951-10-16"
 death: "Unknown"
 nationality: "Hong Kong Chinese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Rimsky_Yuen_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kwok_family_representative%3A_Thomas_Kwok"
 lastUpdated: "2026-02-21"

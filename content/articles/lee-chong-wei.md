@@ -5,7 +5,7 @@ birth: "1982-10-21"
 death: "Unknown"
 nationality: "Malaysian"
 occupation: ["Athlete", "Badminton Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lee_Chong_Wei%2C_SEA_Games_2017_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Chong_Wei"
 lastUpdated: "2026-02-21"

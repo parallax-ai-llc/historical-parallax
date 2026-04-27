@@ -5,7 +5,7 @@ birth: "1947-08-29"
 death: "living"
 nationality: "American"
 occupation: ["Animal Scientist", "Inventor", "Autism Advocate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/TempleGrandin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Temple_Grandin"
 lastUpdated: "2026-02-21"

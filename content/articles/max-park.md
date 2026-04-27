@@ -5,7 +5,7 @@ birth: "2002-04-17"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Speedcuber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Max_Park_WR_Average.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Max_Park"
 lastUpdated: "2026-02-26"

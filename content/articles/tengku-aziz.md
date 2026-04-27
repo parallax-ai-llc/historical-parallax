@@ -5,7 +5,7 @@ birth: "1963-01-01"
 death: "Unknown"
 nationality: "Malaysia"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Tengku_Zafrul_2022_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tengku_Aziz"
 lastUpdated: "2026-02-26"

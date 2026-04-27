@@ -5,7 +5,7 @@ birth: "1906-05-06"
 death: "1998-08-06"
 nationality: "French"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Andr%C3%A9_Weil%2C_1968_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andr%C3%A9_Weil"
 lastUpdated: "2026-02-21"

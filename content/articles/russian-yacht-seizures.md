@@ -5,7 +5,7 @@ birth: "2022-03-01"
 death: "Unknown"
 nationality: "International"
 occupation: ["Law Enforcement Action"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Nord_IMO_9853785_S_Hamburg_19-09-2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russian_Yacht_Seizures"
 lastUpdated: "2026-02-26"

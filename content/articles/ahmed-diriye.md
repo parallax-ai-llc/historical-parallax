@@ -5,7 +5,7 @@ birth: "1980-01-01"
 death: "Unknown"
 nationality: "Somalia"
 occupation: ["Terrorist Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ahmad_Umar_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmed_Diriye"
 lastUpdated: "2026-02-26"

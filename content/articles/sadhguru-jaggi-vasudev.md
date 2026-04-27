@@ -5,7 +5,7 @@ birth: "1957-09-03"
 death: "N/A"
 nationality: "Indian"
 occupation: ["Yogi", "Author", "Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Sadhguru-Jaggi-Vasudev.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sadhguru_Jaggi_Vasudev"
 lastUpdated: "2026-02-21"

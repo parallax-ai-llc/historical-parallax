@@ -5,7 +5,7 @@ birth: "1979-10-26"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Park_Chung-hee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Chung-hee_Assassination"
 lastUpdated: "2026-02-26"

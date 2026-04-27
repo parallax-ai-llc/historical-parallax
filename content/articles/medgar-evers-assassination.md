@@ -5,7 +5,7 @@ birth: "1963-06-12"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Medgar_Evers_press_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Medgar_Evers_Assassination"
 lastUpdated: "2026-02-26"

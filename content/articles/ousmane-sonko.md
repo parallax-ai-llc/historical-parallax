@@ -5,7 +5,7 @@ birth: "1974-07-15"
 death: "Unknown"
 nationality: "Senegal"
 occupation: ["Controversial Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ousmane_Sonko_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ousmane_Sonko"
 lastUpdated: "2026-02-26"

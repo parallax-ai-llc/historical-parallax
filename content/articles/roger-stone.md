@@ -5,7 +5,7 @@ birth: "1952-08-27"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Political Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Roger_Stone_%2854671195403%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roger_Stone"
 lastUpdated: "2026-02-26"

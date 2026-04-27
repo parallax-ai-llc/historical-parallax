@@ -5,7 +5,7 @@ birth: "1600-01-01"
 death: "1661-03-29"
 nationality: "Scottish"
 occupation: ["Theologian", "Pastor", "Political Theorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Samuel_Rutherford_St._Andrews.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Rutherford"
 lastUpdated: "2026-02-21"

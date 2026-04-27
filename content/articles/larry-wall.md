@@ -5,7 +5,7 @@ birth: "1954-09-27"
 death: "Unknown"
 nationality: "American"
 occupation: ["Computer Scientist", "Linguist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Larry_Wall_YAPC_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Larry_Wall"
 lastUpdated: "2026-02-21"

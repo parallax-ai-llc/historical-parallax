@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Sage", "Author", "Compiler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sculpture_of_Vyasa.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vyasa"
 lastUpdated: "2026-02-21"

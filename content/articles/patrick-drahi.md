@@ -5,7 +5,7 @@ birth: "1963-06-12"
 death: "Unknown"
 nationality: "French-Israeli-Portuguese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Patrick_Drahi%2C_plus_grand_m%C3%A9c%C3%A8ne_priv%C3%A9e_de_L%27Ecole_polytechnique_Cr%C3%A9dit_photographique_-_%C2%A9_%C3%89cole_polytechnique_-_J.Barande_%2819143423121%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Drahi"
 lastUpdated: "2026-02-21"

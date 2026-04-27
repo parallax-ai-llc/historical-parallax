@@ -5,7 +5,7 @@ birth: "1908-12-04"
 death: "1997-05-22"
 nationality: "American"
 occupation: ["Bacteriologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alfred_Hershey.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfred_Hershey"
 lastUpdated: "2026-02-26"

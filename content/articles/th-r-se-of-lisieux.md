@@ -5,7 +5,7 @@ birth: "1873-01-02"
 death: "1897-09-30"
 nationality: "French"
 occupation: ["Nun", "Mystic", "Doctor of the Church"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux"
 lastUpdated: "2026-02-21"

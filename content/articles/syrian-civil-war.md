@@ -5,7 +5,7 @@ birth: "2011-03-15"
 death: "Unknown"
 nationality: "Syria"
 occupation: ["Criminal Conflict"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Syrian_Civil_War"
 lastUpdated: "2026-02-26"

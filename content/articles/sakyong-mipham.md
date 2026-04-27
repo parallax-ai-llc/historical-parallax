@@ -5,7 +5,7 @@ birth: "1962-11-08"
 death: "N/A"
 nationality: "Tibetan-American"
 occupation: ["Buddhist Leader", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sakyong%2C_book_signing.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sakyong_Mipham"
 lastUpdated: "2026-02-21"

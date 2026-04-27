@@ -3,6 +3,7 @@ name: "Mika Hakkinen"
 birth: "1968-09-28"
 nationality: "Finnish"
 occupation: ["Racing Driver", "F1 World Champion", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mika_H%C3%A4kkinen_Champions_for_Charity_2016-07-27.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen"
 lastUpdated: "2026-03-12"

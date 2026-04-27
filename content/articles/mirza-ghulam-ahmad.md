@@ -5,7 +5,7 @@ birth: "1835-02-13"
 death: "1908-05-26"
 nationality: "Indian"
 occupation: ["Religious Leader", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mirza_Ghulam_Ahmad_%28c._1897%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mirza_Ghulam_Ahmad"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1910-11-20"
 death: "1920-05-21"
 nationality: "Mexico"
 occupation: ["Historical Event", "Revolution", "Political"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Decena_tr%C3%A1gica.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mexican_Revolution"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Svetlana Savitskaya"
 birth: "1948-08-08"
 nationality: "Soviet"
 occupation: ["Cosmonaut", "Test Pilot"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Svetlana_Savitskaya%2C_7_December_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Svetlana_Savitskaya"
 lastUpdated: "2026-03-12"

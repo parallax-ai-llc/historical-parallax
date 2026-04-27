@@ -5,7 +5,7 @@ birth: "1992-09-03"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Athlete", "Olympic Medalist", "Wrestler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sakshi_Malik_in_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sakshi_Malik"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1776-08-09"
 death: "1856-07-09"
 nationality: "Italian"
 occupation: ["Chemist", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Amadeo_Avogadro.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amedeo_Avogadro"
 lastUpdated: "2026-02-21"

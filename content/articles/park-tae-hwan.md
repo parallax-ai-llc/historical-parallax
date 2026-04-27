@@ -5,7 +5,7 @@ birth: "1989-09-27"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/400_meter_freestyle_%286404091897%29_Park.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Tae-hwan"
 lastUpdated: "2026-02-26"

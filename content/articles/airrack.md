@@ -3,6 +3,7 @@ name: "Airrack"
 birth: "1997-08-19"
 nationality: "American"
 occupation: ["YouTuber", "Content Creator", "Filmmaker"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Airrack_in_2021.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Airrack"
 lastUpdated: "2026-03-12"

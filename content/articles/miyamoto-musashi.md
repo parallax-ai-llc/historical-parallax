@@ -5,7 +5,7 @@ birth: "1584-01-01"
 death: "1645-06-13"
 nationality: "Japanese"
 occupation: ["Swordsman", "Philosopher", "Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Miyamoto_Musashi_Self-Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miyamoto_Musashi"
 lastUpdated: "2026-02-26"

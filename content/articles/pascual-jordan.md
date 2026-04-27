@@ -5,7 +5,7 @@ birth: "1902-10-18"
 death: "1980-07-31"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pascual_Jordan_1920s.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pascual_Jordan"
 lastUpdated: "2026-02-26"

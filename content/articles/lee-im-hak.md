@@ -5,7 +5,7 @@ birth: "1922-04-10"
 death: "2005-06-22"
 nationality: "Korean"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Lee_Hak-joo_2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Im-hak"
 lastUpdated: "2026-02-21"

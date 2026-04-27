@@ -5,7 +5,7 @@ birth: "1397-01-01"
 death: "1475-12-10"
 nationality: "Italian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cinq_ma%C3%AEtres_de_la_Renaissance_florentine_-_Uccello_%28Louvre%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paolo_Uccello"
 lastUpdated: "2026-02-21"

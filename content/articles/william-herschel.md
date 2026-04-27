@@ -5,7 +5,7 @@ birth: "1738-11-15"
 death: "1822-08-25"
 nationality: "German-British"
 occupation: ["Astronomer", "Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/William_Herschel01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Herschel"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "2001-02-17"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Badminton Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Hangzhou_AsianGames_Team_Korea_05_%28An_Se-young%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/An_Se-young"
 lastUpdated: "2026-02-26"

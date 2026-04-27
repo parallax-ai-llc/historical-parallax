@@ -5,7 +5,7 @@ birth: "1930-06-27"
 death: "2019-07-09"
 nationality: "American"
 occupation: ["Entrepreneur", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/RossPerotColor.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ross_Perot"
 lastUpdated: "2026-02-21"

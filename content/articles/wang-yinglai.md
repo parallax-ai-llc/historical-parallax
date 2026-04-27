@@ -5,7 +5,7 @@ birth: "1907-06-05"
 death: "2001-05-05"
 nationality: "Chinese"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wang_Yinglai.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Yinglai"
 lastUpdated: "2026-02-21"

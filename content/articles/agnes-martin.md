@@ -5,7 +5,7 @@ birth: "1912-03-22"
 death: "2004-12-16"
 nationality: "Canadian-American"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/3a/Agnes_Martin_1954.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Agnes_Martin"
 lastUpdated: "2026-02-21"

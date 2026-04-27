@@ -5,7 +5,7 @@ birth: "1949-12-01"
 death: "1993-12-02"
 nationality: "Colombia"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Pablo_Escobar_Mug_%28cropped%29%28b%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pablo_Escobar_Gaviria"
 lastUpdated: "2026-02-26"

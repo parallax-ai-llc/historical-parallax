@@ -5,7 +5,7 @@ birth: "1903-11-03"
 death: "1975-04-10"
 nationality: "American"
 occupation: ["Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Walker_Evans_1937-02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walker_Evans"
 lastUpdated: "2026-02-21"

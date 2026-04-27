@@ -5,7 +5,7 @@ birth: "2015-10-03"
 death: "Unknown"
 nationality: "Afghanistan"
 occupation: ["War Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Kunduz_MSF_Trauma_Center_-_location_map_-_01.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kunduz_Hospital_Strike"
 lastUpdated: "2026-02-26"

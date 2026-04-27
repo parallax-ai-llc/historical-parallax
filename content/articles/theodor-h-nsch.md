@@ -5,7 +5,7 @@ birth: "1941-10-30"
 death: "Unknown"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Theodor_Haensch.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theodor_H%C3%A4nsch"
 lastUpdated: "2026-02-26"

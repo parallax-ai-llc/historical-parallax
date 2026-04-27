@@ -5,7 +5,7 @@ birth: "1915-03-04"
 death: "2013-08-10"
 nationality: "Hungary"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Csat%C3%A1ry_L%C3%A1szl%C3%B3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Laszlo_Csatary"
 lastUpdated: "2026-02-26"

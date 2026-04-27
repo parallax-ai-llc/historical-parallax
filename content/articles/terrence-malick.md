@@ -5,7 +5,7 @@ birth: "1943-11-30"
 death: "Unknown"
 nationality: "American"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Terrence_Malick%2C_1993.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terrence_Malick"
 lastUpdated: "2026-02-21"

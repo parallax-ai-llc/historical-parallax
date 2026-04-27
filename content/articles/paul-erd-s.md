@@ -5,7 +5,7 @@ birth: "1913-03-26"
 death: "1996-09-20"
 nationality: "Hungarian"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Erdos_budapest_fall_1992_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Erd%C5%91s"
 lastUpdated: "2026-02-21"

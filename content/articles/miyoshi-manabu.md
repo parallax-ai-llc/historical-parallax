@@ -5,7 +5,7 @@ birth: "1862-01-04"
 death: "1939-02-11"
 nationality: "Japanese"
 occupation: ["Botanist", "Plant physiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Miyoshi_Manabu_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miyoshi_Manabu"
 lastUpdated: "2026-02-21"

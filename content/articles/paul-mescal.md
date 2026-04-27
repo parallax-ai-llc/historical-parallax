@@ -3,6 +3,7 @@ name: "Paul Mescal"
 birth: "1996-02-02"
 nationality: "Irish"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Paul_Mescal_at_the_Toronto_International_Film_Festival_in_2025_2_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Mescal"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1997-10-02"
 death: "Unknown"
 nationality: "Ukrainian"
 occupation: ["Esports Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Oleksandr_s1mple_Kostyliev.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/s1mple"
 lastUpdated: "2026-02-26"

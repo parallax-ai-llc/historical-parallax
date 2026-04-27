@@ -3,6 +3,7 @@ name: "Roger Waters"
 birth: "1943-09-06"
 nationality: "British"
 occupation: ["Musician", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Roger_Waters_Newport_Folk_Festival_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roger_Waters"
 lastUpdated: "2026-03-12"

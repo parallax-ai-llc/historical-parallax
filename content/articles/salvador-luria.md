@@ -5,7 +5,7 @@ birth: "1912-08-13"
 death: "1991-02-06"
 nationality: "Italian-American"
 occupation: ["Microbiologist", "Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Salvador_E._Luria_ca.1969.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salvador_Luria"
 lastUpdated: "2026-02-21"

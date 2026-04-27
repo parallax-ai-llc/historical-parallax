@@ -5,7 +5,7 @@ birth: "1949-02-07"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Tadashi_Yanai%2C_in_Japan_on_May_23%2C_2022_%281%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tadashi_Yanai"
 lastUpdated: "2026-02-21"

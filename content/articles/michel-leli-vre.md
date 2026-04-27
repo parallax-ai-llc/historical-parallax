@@ -5,7 +5,7 @@ birth: "1971-01-26"
 death: "Unknown"
 nationality: "Belgium"
 occupation: ["Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pencil_sketch_of_Marc_Dutroux.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michel_Leli%C3%A8vre"
 lastUpdated: "2026-02-26"

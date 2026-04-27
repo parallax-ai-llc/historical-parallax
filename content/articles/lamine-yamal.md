@@ -3,6 +3,7 @@ name: "Lamine Yamal"
 birth: "2007-07-16"
 nationality: "Spanish (Moroccan-Equatoguinean descent)"
 occupation: ["Footballer", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lamine_Yamal_in_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lamine_Yamal"
 lastUpdated: "2026-03-11"

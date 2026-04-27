@@ -5,7 +5,7 @@ birth: "1953-10-01"
 death: "N/A"
 nationality: "Pakistani"
 occupation: ["Preacher", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Maulana_Tariq_Jamil.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maulana_Tariq_Jameel"
 lastUpdated: "2026-02-21"

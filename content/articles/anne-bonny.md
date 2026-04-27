@@ -5,7 +5,7 @@ birth: "1697-03-08"
 death: "1721 (disputed)"
 nationality: "Ireland"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ann_Bonny%2C_Cole_1724.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anne_Bonny"
 lastUpdated: "2026-02-21"

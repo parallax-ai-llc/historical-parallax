@@ -4,6 +4,7 @@ birth: "1879-07-05"
 death: "1959-08-16"
 nationality: "Polish"
 occupation: ["Harpsichordist", "Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Landowska_we_lwowie.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wanda_Landowska"
 lastUpdated: "2026-03-12"

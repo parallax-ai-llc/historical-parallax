@@ -5,7 +5,7 @@ birth: "1932-10-21"
 death: "2017-11-19"
 nationality: "Nigeria"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Alex_Ekwueme_DF-SC-83-01329_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alex_Ekwueme"
 lastUpdated: "2026-02-26"

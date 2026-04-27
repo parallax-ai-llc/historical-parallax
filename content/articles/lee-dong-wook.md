@@ -3,6 +3,7 @@ name: "Lee Dong-wook"
 birth: "1981-11-06"
 nationality: "South Korean"
 occupation: ["Actor", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lee_Dong-wook_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Dong-wook"
 lastUpdated: "2026-03-12"

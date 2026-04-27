@@ -5,7 +5,7 @@ birth: "1514-12-31"
 death: "1564-10-15"
 nationality: "Flemish"
 occupation: ["Physician", "Anatomist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Man_dressed_in_Black_by_Calcar_%28Hermitage%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andreas_Vesalius"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1871-01-07"
 death: "1956-02-03"
 nationality: "French"
 occupation: ["Mathematician", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Emile_Borel-1932.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/%C3%89mile_Borel"
 lastUpdated: "2026-02-21"

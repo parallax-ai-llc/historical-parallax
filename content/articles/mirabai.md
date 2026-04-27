@@ -5,7 +5,7 @@ birth: "1498-01-01"
 death: "1546-01-01"
 nationality: "Indian"
 occupation: ["Poet", "Saint", "Mystic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kangra_painting_of_Mirabai%2C_the_female_Bhakti_saint.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mirabai"
 lastUpdated: "2026-02-21"

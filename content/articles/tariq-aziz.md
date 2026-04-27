@@ -5,7 +5,7 @@ birth: "1936-04-28"
 death: "2015-06-05"
 nationality: "Iraq"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Vladimir_Putin_with_Tariq_Aziz-1_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tariq_Aziz"
 lastUpdated: "2026-02-26"

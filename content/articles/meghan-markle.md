@@ -3,6 +3,7 @@ name: "Meghan Markle"
 birth: "1981-08-04"
 nationality: "American"
 occupation: ["Duchess of Sussex", "Actress", "Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meghan,_Duchess_of_Sussex"
 lastUpdated: "2026-03-12"

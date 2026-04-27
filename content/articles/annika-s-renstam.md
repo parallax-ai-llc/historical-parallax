@@ -5,7 +5,7 @@ birth: "1970-10-09"
 death: "Unknown"
 nationality: "Swedish"
 occupation: ["Athlete", "Golfer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/2008_LPGA_Championship_-_Annika_Sorenstam_tee_shot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Annika_S%C3%B6renstam"
 lastUpdated: "2026-02-21"

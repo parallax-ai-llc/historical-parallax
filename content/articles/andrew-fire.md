@@ -5,7 +5,7 @@ birth: "1959-04-27"
 death: "Unknown"
 nationality: "American"
 occupation: ["Biologist", "Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Andrew_Fire%2C_Stanford_University.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrew_Fire"
 lastUpdated: "2026-02-21"

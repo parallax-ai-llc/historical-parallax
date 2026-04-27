@@ -5,7 +5,7 @@ birth: "1968-01-30"
 death: "1968-03-28"
 nationality: "Vietnam"
 occupation: ["Historical Event", "Battle", "Vietnam War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Tet_Offensive_map.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tet_Offensive"
 lastUpdated: "2026-02-21"

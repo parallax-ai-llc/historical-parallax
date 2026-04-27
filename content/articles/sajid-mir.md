@@ -5,7 +5,7 @@ birth: "1971-01-01"
 death: "Unknown"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Image_of_the_terrorist_Sajid_Mir.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sajid_Mir"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1927-12-31"
 death: "1993-11-09"
 nationality: "Indian"
 occupation: ["Yoga Master", "Peace Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Swami_Vishnudevananda_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swami_Vishnudevananda"
 lastUpdated: "2026-02-21"

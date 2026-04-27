@@ -5,7 +5,7 @@ birth: "1889-02-11"
 death: "1889-02-11"
 nationality: "Japan"
 occupation: ["Historical Event", "Political", "Japanese History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Meiji-Constitution-Empire-of-Japan.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meiji_Constitution"
 lastUpdated: "2026-02-21"

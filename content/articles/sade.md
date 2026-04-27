@@ -3,6 +3,7 @@ name: "Sade"
 birth: "1959-01-16"
 nationality: "British"
 occupation: ["Singer", "Songwriter", "Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sade_Adu_1_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sade_(singer)"
 lastUpdated: "2026-03-12"

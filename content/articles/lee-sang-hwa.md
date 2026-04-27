@@ -5,7 +5,7 @@ birth: "1989-01-25"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Korea_Lee_Sanghwa_Gold_Medal_Ceremony_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Sang-hwa"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1971-01-01"
 death: "Unknown"
 nationality: "Lebanon"
 occupation: ["Counter-Terrorism"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ali_Soufan%2C_official_portrait%2C_Homeland_Security_Council.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Soufan"
 lastUpdated: "2026-02-26"

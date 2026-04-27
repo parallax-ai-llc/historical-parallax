@@ -5,7 +5,7 @@ birth: "2011-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corporate Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b8/Reckitt_logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oxy_Reckitt_Benckiser_Humidifier_Scandal"
 lastUpdated: "2026-02-26"

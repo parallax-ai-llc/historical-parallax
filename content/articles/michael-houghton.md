@@ -5,7 +5,7 @@ birth: "1949-01-01"
 death: "Unknown"
 nationality: "British"
 occupation: ["Virologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Houghton"
 lastUpdated: "2026-02-21"

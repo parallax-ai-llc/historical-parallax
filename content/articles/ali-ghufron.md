@@ -5,7 +5,7 @@ birth: "1960-02-02"
 death: "2008-11-09"
 nationality: "Indonesia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/7/7a/Ali_Ghufron.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Ghufron"
 lastUpdated: "2026-02-26"

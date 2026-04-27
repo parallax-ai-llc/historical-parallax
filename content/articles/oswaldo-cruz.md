@@ -5,7 +5,7 @@ birth: "1872-08-05"
 death: "1917-02-11"
 nationality: "Brazilian"
 occupation: ["Physician", "Epidemiologist", "Bacteriologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Oswaldo_cruz.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oswaldo_Cruz"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "0970-01-01"
 death: "1020-01-01"
 nationality: "Norse"
 occupation: ["Explorer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Leif_Erikson_Statue%2C_Duluth_%2815290644106%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leif_Erikson"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1954-06-17"
 death: "2023-03-05"
 nationality: "Brazil"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Pedrinho_Matador%2C_1991%2C_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedrinho_Matador"
 lastUpdated: "2026-02-26"

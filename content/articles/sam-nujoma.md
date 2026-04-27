@@ -5,7 +5,7 @@ birth: "1929-05-12"
 death: "Unknown"
 nationality: "Namibia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Sam_Nujoma_%282004%29_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Nujoma"
 lastUpdated: "2026-02-26"

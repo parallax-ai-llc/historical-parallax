@@ -5,7 +5,7 @@ birth: "1952-03-27"
 death: "Unknown"
 nationality: "Kazakhstan"
 occupation: ["Corrupt Politician", "Fugitive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Akezhan_Kazhegeldin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akezhan_Kazhegeldin"
 lastUpdated: "2026-02-26"

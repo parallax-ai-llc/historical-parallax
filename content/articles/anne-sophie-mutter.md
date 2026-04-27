@@ -3,6 +3,7 @@ name: "Anne-Sophie Mutter"
 birth: "1963-06-29"
 nationality: "German"
 occupation: ["Violinist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Anne-Sophie_Mutter_B10-13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anne-Sophie_Mutter"
 lastUpdated: "2026-03-12"

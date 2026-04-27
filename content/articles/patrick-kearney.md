@@ -5,7 +5,7 @@ birth: "1939-09-24"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Patrick_Kearney_mug.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Kearney"
 lastUpdated: "2026-02-26"

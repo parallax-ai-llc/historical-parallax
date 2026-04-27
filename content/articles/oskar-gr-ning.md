@@ -5,7 +5,7 @@ birth: "1921-06-10"
 death: "2018-03-09"
 nationality: "Germany"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Oskar_Gr%C3%B6ning_SS-Rottenf%C3%BChrer.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oskar_Gr%C3%B6ning"
 lastUpdated: "2026-02-26"

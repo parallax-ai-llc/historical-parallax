@@ -5,7 +5,7 @@ birth: "1921-01-09"
 death: "2025-01-04"
 nationality: "Hungarian"
 occupation: ["Gymnast"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Keleti_%C3%81gnes_2021_RTG_2950_%28crop%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Agnes_Keleti"
 lastUpdated: "2026-02-26"

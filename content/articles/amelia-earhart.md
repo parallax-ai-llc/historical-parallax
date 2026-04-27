@@ -3,6 +3,7 @@ name: "Amelia Earhart"
 birth: "1897-07-24"
 nationality: "American"
 occupation: ["Aviator", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amelia_Earhart"
 lastUpdated: "2026-03-12"

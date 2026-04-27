@@ -5,7 +5,7 @@ birth: "2023-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Political Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/President_Lee_Jae-myung_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Jae-myung_Legal_Troubles"
 lastUpdated: "2026-02-26"

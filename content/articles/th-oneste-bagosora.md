@@ -5,7 +5,7 @@ birth: "1941-08-16"
 death: "2021-09-25"
 nationality: "Rwanda"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nyamata_Memorial_Site_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Th%C3%A9oneste_Bagosora"
 lastUpdated: "2026-02-26"

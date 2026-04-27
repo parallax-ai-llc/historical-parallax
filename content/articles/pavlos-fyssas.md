@@ -5,7 +5,7 @@ birth: "1979-09-01"
 death: "2013-09-17"
 nationality: "Greece"
 occupation: ["Murder Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82_%CE%A6%CF%8D%CF%83%CF%83%CE%B1%CF%82_2011_%28cropped%29.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pavlos_Fyssas"
 lastUpdated: "2026-02-26"

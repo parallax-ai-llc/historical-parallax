@@ -5,7 +5,7 @@ birth: "1945-03-12"
 death: "N/A"
 nationality: "United States"
 occupation: ["Mafioso", "Hitman", "Informant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sammy_Gravano_%28arrest_photo_-_1990%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sammy_Gravano"
 lastUpdated: "2026-02-21"

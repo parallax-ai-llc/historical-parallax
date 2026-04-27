@@ -4,6 +4,7 @@ birth: "1432-03-30"
 death: "1481-05-03"
 nationality: "Ottoman"
 occupation: ["Military Leader", "Sultan"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mehmed_the_Conqueror"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1879-03-08"
 death: "1968-07-28"
 nationality: "German"
 occupation: ["Chemist", "Nuclear Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Otto_Hahn_1970.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Otto_Hahn"
 lastUpdated: "2026-02-21"

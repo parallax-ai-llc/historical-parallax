@@ -5,7 +5,7 @@ birth: "1879-05-28"
 death: "1958-12-12"
 nationality: "Serbian"
 occupation: ["Mathematician", "Astronomer", "Climatologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Milutin_Milankovi%C4%87_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milutin_Milankovic"
 lastUpdated: "2026-02-21"

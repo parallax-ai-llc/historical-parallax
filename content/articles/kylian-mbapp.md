@@ -5,7 +5,7 @@ birth: "1998-12-20"
 death: "Unknown"
 nationality: "French"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Picture_with_Mbapp%C3%A9_%28cropped_and_rotated%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9"
 lastUpdated: "2026-02-26"

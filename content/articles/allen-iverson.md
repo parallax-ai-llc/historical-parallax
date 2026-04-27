@@ -5,7 +5,7 @@ birth: "1975-06-07"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Basketball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Allen_Iverson_headshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Allen_Iverson"
 lastUpdated: "2026-02-26"

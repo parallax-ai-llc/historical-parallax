@@ -5,7 +5,7 @@ birth: "1940-09-07"
 death: "1983-01-10"
 nationality: "United States"
 occupation: ["Mafioso", "Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Roy_Demeo_1981_FBI_mugshot_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roy_DeMeo"
 lastUpdated: "2026-02-21"

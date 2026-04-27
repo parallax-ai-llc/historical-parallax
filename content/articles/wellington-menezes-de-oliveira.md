@@ -5,7 +5,7 @@ birth: "1983-02-11"
 death: "2011-04-07"
 nationality: "Brazil"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Escola_Tasso_da_Silveira.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wellington_Menezes_de_Oliveira"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1846-12-01"
 death: "1923-06-27"
 nationality: "Burmese"
 occupation: ["Monk", "Scholar", "Meditation Master"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Ledi_Sayadaw_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ledi_Sayadaw"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1850-12-30"
 death: "1913-07-31"
 nationality: "British"
 occupation: ["Seismologist", "Geologist", "Mining engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Prof_John_Milne%2C_1913.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milne_John"
 lastUpdated: "2026-02-21"

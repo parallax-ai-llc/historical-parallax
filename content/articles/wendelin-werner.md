@@ -5,7 +5,7 @@ birth: "1968-09-23"
 death: "Unknown"
 nationality: "French-German"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Wendelin_Werner.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wendelin_Werner"
 lastUpdated: "2026-02-21"

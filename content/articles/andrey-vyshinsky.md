@@ -5,7 +5,7 @@ birth: "1883-12-10"
 death: "1954-11-22"
 nationality: "Soviet Union"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/RIAN_archive_7781_Vyshinsky.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrey_Vyshinsky"
 lastUpdated: "2026-02-26"

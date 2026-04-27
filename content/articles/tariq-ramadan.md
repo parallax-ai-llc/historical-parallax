@@ -5,7 +5,7 @@ birth: "1962-08-26"
 death: "N/A"
 nationality: "Swiss-Egyptian"
 occupation: ["Scholar", "Author", "Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tariq_Ramadan%2C_2017_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tariq_Ramadan"
 lastUpdated: "2026-02-21"

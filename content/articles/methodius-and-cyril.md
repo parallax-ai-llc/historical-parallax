@@ -5,7 +5,7 @@ birth: "0815-01-01"
 death: "0885-04-06"
 nationality: "Byzantine"
 occupation: ["Missionaries", "Linguists", "Saints"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Sv_Kiril_Metodij_Zahari_Zograf_Trojanski_mon_1848.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Methodius_and_Cyril"
 lastUpdated: "2026-02-21"

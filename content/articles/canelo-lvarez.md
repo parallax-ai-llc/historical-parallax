@@ -5,7 +5,7 @@ birth: "1990-07-18"
 death: "Unknown"
 nationality: "Mexican"
 occupation: ["Athlete", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Sa%C3%BAl_%C3%81lvarez.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez"
 lastUpdated: "2026-02-26"

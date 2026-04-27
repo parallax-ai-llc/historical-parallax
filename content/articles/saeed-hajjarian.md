@@ -5,7 +5,7 @@ birth: "1954-03-08"
 death: "Unknown"
 nationality: "Iran"
 occupation: ["Assassination Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Saeed_Hajjarian_1394.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saeed_Hajjarian"
 lastUpdated: "2026-02-26"

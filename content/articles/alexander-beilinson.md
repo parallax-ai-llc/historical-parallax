@@ -5,7 +5,7 @@ birth: "1957-06-13"
 death: "Unknown"
 nationality: "Russian-American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Alexander_Beilinson_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Beilinson"
 lastUpdated: "2026-02-26"

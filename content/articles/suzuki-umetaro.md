@@ -5,7 +5,7 @@ birth: "1874-04-07"
 death: "1943-09-20"
 nationality: "Japanese"
 occupation: ["Chemist", "Agricultural chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Umetarosuzuki-pre1943.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Suzuki_Umetaro"
 lastUpdated: "2026-02-21"

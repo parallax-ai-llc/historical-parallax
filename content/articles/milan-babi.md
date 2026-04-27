@@ -5,7 +5,7 @@ birth: "1956-02-26"
 death: "2006-03-06"
 nationality: "Croatia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Milan_Babi%C4%87_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milan_Babi%C4%87"
 lastUpdated: "2026-02-26"

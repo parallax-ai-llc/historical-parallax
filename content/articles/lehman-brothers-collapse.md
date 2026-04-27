@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Lehman_Brothers_Times_Square_by_David_Shankbone.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lehman_Brothers_Collapse"
 lastUpdated: "2026-02-26"

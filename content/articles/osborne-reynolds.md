@@ -5,7 +5,7 @@ birth: "1842-08-23"
 death: "1912-02-21"
 nationality: "Irish-British"
 occupation: ["Engineer", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/OsborneReynolds.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Osborne_Reynolds"
 lastUpdated: "2026-02-21"

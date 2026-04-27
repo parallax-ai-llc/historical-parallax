@@ -5,7 +5,7 @@ birth: "1952-12-20"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/South_Korean_Prime_Minister_Lee_-_2017_%2836235112603%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Nak-yon"
 lastUpdated: "2026-02-26"

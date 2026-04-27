@@ -5,7 +5,7 @@ birth: "1841-11-03"
 death: "1913-09-04"
 nationality: "Japanese"
 occupation: ["Politician", "Environmental Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tanaka_Shozo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tanaka_Shozo"
 lastUpdated: "2026-02-26"

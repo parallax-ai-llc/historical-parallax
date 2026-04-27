@@ -5,7 +5,7 @@ birth: "0580-01-01"
 death: "0662-01-01"
 nationality: "Byzantine"
 occupation: ["Monk", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Athonite_Fresco_Icon_of_Saint_Maximos_the_Confessor_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maximus_the_Confessor"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1943-12-23"
 death: "Unknown"
 nationality: "Russian-French"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Mikhael_Gromov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Gromov"
 lastUpdated: "2026-02-21"

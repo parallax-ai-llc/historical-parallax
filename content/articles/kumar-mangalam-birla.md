@@ -5,7 +5,7 @@ birth: "1967-06-14"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Kumar_Mangalam_Birla.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kumar_Mangalam_Birla"
 lastUpdated: "2026-02-21"

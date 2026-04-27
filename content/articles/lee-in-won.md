@@ -5,7 +5,7 @@ birth: "1943-06-01"
 death: "2019-11-20"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/%EC%9D%B4%EC%A2%85%EC%9B%90_Lee_Jong-won_-_Incheon_Airport_Departure_on_March_2%2C_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_In-won"
 lastUpdated: "2026-02-21"

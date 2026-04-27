@@ -5,7 +5,7 @@ birth: "1947-03-14"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/William_Jefferson%2C_official_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Jefferson_Cash"
 lastUpdated: "2026-02-21"

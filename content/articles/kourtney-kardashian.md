@@ -3,6 +3,7 @@ name: "Kourtney Kardashian"
 birth: "1979-04-18"
 nationality: "American"
 occupation: ["Reality TV Star", "Entrepreneur", "Media Personality"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Kourtney_Kardashian_for_GQ_-_4.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kourtney_Kardashian"
 lastUpdated: "2026-03-12"

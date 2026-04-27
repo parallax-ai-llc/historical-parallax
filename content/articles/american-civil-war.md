@@ -5,7 +5,7 @@ birth: "1861-04-12"
 death: "1865-04-09"
 nationality: "United States"
 occupation: ["Historical Event", "War", "Modern War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/American_Civil_War"
 lastUpdated: "2026-02-21"

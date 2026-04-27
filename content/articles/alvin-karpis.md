@@ -5,7 +5,7 @@ birth: "1907-08-10"
 death: "1979-08-26"
 nationality: "Canada / United States"
 occupation: ["Bank Robber", "Public Enemy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Alvin_Karpis.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alvin_Karpis"
 lastUpdated: "2026-02-26"

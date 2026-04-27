@@ -3,6 +3,7 @@ name: "Miyuki Sawashiro"
 birth: "1985-06-02"
 nationality: "Japanese"
 occupation: ["Voice Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Miyukichi%28Miyuki_Sawashiro%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miyuki_Sawashiro"
 lastUpdated: "2026-03-12"

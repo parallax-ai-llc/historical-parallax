@@ -5,7 +5,7 @@ birth: "1928-08-27"
 death: "2018-10-19"
 nationality: "Japanese-American"
 occupation: ["Organic Chemist", "Marine Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Osamu_Shimomura-press_conference_Dec_06th%2C_2008-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Osamu_Shimomura"
 lastUpdated: "2026-02-21"

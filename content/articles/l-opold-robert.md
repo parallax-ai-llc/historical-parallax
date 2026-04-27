@@ -5,7 +5,7 @@ birth: "1865-01-01"
 death: "1903-01-01"
 nationality: "Switzerland"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/L%C3%A9opold_Robert.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/L%C3%A9opold_Robert"
 lastUpdated: "2026-02-26"

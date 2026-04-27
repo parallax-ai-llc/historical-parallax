@@ -5,7 +5,7 @@ birth: "1986-10-23"
 death: "living"
 nationality: "Slovak-American"
 occupation: ["Computer Scientist", "AI Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Andrej_Karpathy%2C_OpenAI.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrej_Karpathy"
 lastUpdated: "2026-02-21"

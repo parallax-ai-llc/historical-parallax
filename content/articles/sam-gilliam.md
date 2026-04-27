@@ -5,7 +5,7 @@ birth: "1933-11-30"
 death: "2022-06-25"
 nationality: "American"
 occupation: ["Painter", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Sam_Gilliam_Art_in_Embassies_Medals_2015.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Gilliam"
 lastUpdated: "2026-02-21"

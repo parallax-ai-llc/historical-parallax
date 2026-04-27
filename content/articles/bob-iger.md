@@ -5,7 +5,7 @@ birth: "1951-02-10"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Media Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/2022_Bob_Iger_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bob_Iger"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1956-03-26"
 death: "2020-07-09"
 nationality: "Korean"
 occupation: ["Lawyer", "Civil rights activist", "Mayor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Seoul_Kimchi_Making_Sharing_Festival_03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Won-soon"
 lastUpdated: "2026-02-21"

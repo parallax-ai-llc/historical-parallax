@@ -3,6 +3,7 @@ name: Roelof Botha
 birth: "1973-09-20"
 nationality: South African, American
 occupation: ["Venture Capitalist", "Sequoia Capital Partner"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Roelof_Botha_TechCrunch_Disrupt_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roelof_Botha"
 lastUpdated: "2025-12-22"

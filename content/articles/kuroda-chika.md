@@ -5,7 +5,7 @@ birth: "1884-03-24"
 death: "1968-11-08"
 nationality: "Japanese"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Kuroda_Chika.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kuroda_Chika"
 lastUpdated: "2026-02-21"

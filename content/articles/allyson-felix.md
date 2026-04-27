@@ -5,7 +5,7 @@ birth: "1985-11-18"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/AllysonFelixRio2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Allyson_Felix"
 lastUpdated: "2026-02-26"

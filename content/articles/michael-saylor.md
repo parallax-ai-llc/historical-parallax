@@ -5,7 +5,7 @@ birth: "1965-02-04"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Michael_Saylor_2022.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Saylor"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "0949-01-01"
 death: "1022-01-01"
 nationality: "Byzantine"
 occupation: ["Monk", "Mystic", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Simeon_novyj.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Symeon_the_New_Theologian"
 lastUpdated: "2026-02-21"

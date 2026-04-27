@@ -4,6 +4,7 @@ birth: "1935-02-27"
 death: "2020-02-09"
 nationality: "Italian"
 occupation: ["Opera Singer", "Soprano"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mirella_Freni_1970.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mirella_Freni"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1933-11-23"
 death: "1977-06-18"
 nationality: "Iranian"
 occupation: ["Sociologist", "Philosopher", "Revolutionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Dr_Ali_Shariati.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Shariati"
 lastUpdated: "2026-02-21"

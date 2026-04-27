@@ -5,7 +5,7 @@ birth: "1960-01-13"
 death: "N/A"
 nationality: "British"
 occupation: ["Spiritual Teacher", "Author", "Potter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Rupert_Spira.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rupert_Spira"
 lastUpdated: "2026-02-21"

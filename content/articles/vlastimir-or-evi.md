@@ -5,7 +5,7 @@ birth: "1948-05-10"
 death: "Unknown"
 nationality: "Serbia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vlastimir_%C4%90or%C4%91evi%C4%87.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vlastimir_%C4%90or%C4%91evi%C4%87"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "India"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/ca/Sikh_man_surrounded_1984_pogroms.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/1984_Anti-Sikh_Riots"
 lastUpdated: "2026-02-26"

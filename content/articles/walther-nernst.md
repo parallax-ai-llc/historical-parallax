@@ -5,7 +5,7 @@ birth: "1864-06-25"
 death: "1941-11-18"
 nationality: "German"
 occupation: ["Chemist", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Walther_Nernst_1900s.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walther_Nernst"
 lastUpdated: "2026-02-21"

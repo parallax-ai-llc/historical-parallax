@@ -5,7 +5,7 @@ birth: "1960-05-10"
 death: "Unknown"
 nationality: "Jamaican/Slovenian"
 occupation: ["Athlete", "Olympic Medalist", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Ottey.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Merlene_Ottey"
 lastUpdated: "2026-02-26"

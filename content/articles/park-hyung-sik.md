@@ -3,6 +3,7 @@ name: "Park Hyung-sik"
 birth: "1991-11-16"
 nationality: "South Korean"
 occupation: ["Actor", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/20230425_Park_Hyung-sik_%EB%B0%95%ED%98%95%EC%8B%9D.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Hyung-sik"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1933-01-31"
 death: "1982-11-01"
 nationality: "Japanese-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/J.J._Sakurai.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sakurai_Jun_John"
 lastUpdated: "2026-02-21"

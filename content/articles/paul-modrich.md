@@ -5,7 +5,7 @@ birth: "1946-06-13"
 death: "Unknown"
 nationality: "American"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Paul_L._Modrich_0116.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Modrich"
 lastUpdated: "2026-02-26"

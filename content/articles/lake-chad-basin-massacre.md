@@ -5,7 +5,7 @@ birth: "2015-01-03"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lake_Chad_Basin_Massacre"
 lastUpdated: "2026-02-26"

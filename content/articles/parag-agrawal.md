@@ -5,7 +5,7 @@ birth: "1984-05-21"
 death: "Unknown"
 nationality: "Indian-American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/ParagAgrawal.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Parag_Agrawal"
 lastUpdated: "2026-02-21"

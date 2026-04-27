@@ -5,7 +5,7 @@ birth: "1962-12-04"
 death: "2006-11-23"
 nationality: "Russia"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/97/AlexanderLitvinenkoHospital.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Litvinenko_assassination"
 lastUpdated: "2026-02-26"

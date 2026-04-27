@@ -5,7 +5,7 @@ birth: "1855-12-18"
 death: "1940-10-06"
 nationality: "Brazilian"
 occupation: ["Physician", "Epidemiologist", "Entomologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Adolfo-Lutz.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adolfo_Lutz"
 lastUpdated: "2026-02-21"

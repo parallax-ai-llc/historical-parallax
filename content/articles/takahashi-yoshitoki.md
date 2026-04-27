@@ -5,7 +5,7 @@ birth: "1764-01-01"
 death: "1804-02-16"
 nationality: "Japanese"
 occupation: ["Astronomer", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Grave_of_Takahashi_Yoshitoki_%28Genkuji_Taito%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takahashi_Yoshitoki"
 lastUpdated: "2026-02-21"

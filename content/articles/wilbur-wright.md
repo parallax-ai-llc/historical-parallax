@@ -5,7 +5,7 @@ birth: "1867-04-16"
 death: "1912-05-30"
 nationality: "American"
 occupation: ["Aviation Pioneer", "Inventor", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Orville_Wright_1905-crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wilbur_Wright"
 lastUpdated: "2026-02-21"

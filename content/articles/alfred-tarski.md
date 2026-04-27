@@ -5,7 +5,7 @@ birth: "1901-01-14"
 death: "1983-10-26"
 nationality: "Polish-American"
 occupation: ["Mathematician", "Logician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Alfred_Tarski_1968_%28as-is%2C_cropped%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfred_Tarski"
 lastUpdated: "2026-02-21"

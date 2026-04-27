@@ -5,7 +5,7 @@ birth: "1207-09-30"
 death: "1273-12-17"
 nationality: "Persian-Anatolian"
 occupation: ["Poet", "Sufi Master", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mawlana_Jalaluddin_Balkhi"
 lastUpdated: "2026-02-21"

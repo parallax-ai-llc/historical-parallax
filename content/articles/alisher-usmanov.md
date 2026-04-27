@@ -5,7 +5,7 @@ birth: "1953-09-09"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Sanctioned Oligarch"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Alisher_Usmanov_podium_2013_Fencing_WCH_SMS-IN_t204812.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alisher_Usmanov"
 lastUpdated: "2026-02-26"

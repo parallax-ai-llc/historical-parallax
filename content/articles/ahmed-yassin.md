@@ -5,7 +5,7 @@ birth: "1937-01-01"
 death: "2004-03-22"
 nationality: "Palestine"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Military_trial_of_Ahmed_Yassin%2C_March_1990_I_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmed_Yassin"
 lastUpdated: "2026-02-26"

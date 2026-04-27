@@ -5,7 +5,7 @@ birth: "1968-01-01"
 death: "Unknown"
 nationality: "Jamaica"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Patrick_Roberts.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Roberts"
 lastUpdated: "2026-02-26"

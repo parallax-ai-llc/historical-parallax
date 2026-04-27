@@ -5,7 +5,7 @@ birth: "1984-03-27"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Cybercriminal", "Dark Web Operator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ross_Ulbricht_by_Gage_Skidmore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ross_Ulbricht"
 lastUpdated: "2026-02-21"

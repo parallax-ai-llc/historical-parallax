@@ -5,7 +5,7 @@ birth: "1962-12-01"
 death: "2006-11-23"
 nationality: "Russia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/99/AlexanderLitvinenko.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Litvinenko"
 lastUpdated: "2026-02-26"

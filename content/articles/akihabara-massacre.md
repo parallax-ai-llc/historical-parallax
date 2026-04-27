@@ -5,7 +5,7 @@ birth: "2008-06-08"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Akihabara_massacre_02.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akihabara_Massacre"
 lastUpdated: "2026-02-26"

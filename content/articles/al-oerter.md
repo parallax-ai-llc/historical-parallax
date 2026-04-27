@@ -5,7 +5,7 @@ birth: "1936-09-19"
 death: "2007-10-01"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Discus Thrower"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Al_Oerter_1960.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al_Oerter"
 lastUpdated: "2026-02-26"

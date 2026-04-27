@@ -5,7 +5,7 @@ birth: "1961-02-12"
 death: "Unknown"
 nationality: "Haiti"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Michel_Martelly_on_April_20%2C_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michel_Martelly"
 lastUpdated: "2026-02-26"

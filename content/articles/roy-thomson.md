@@ -5,7 +5,7 @@ birth: "1894-06-05"
 death: "1976-08-04"
 nationality: "Canadian-British"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Roy_Thomson_Cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roy_Thomson"
 lastUpdated: "2026-02-21"

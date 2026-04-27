@@ -5,7 +5,7 @@ birth: "1936-01-27"
 death: "living"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Samuel_Ting_1977_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Ting"
 lastUpdated: "2026-02-21"

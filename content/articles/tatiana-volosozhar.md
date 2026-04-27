@@ -5,7 +5,7 @@ birth: "1986-05-22"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Athlete", "Olympic Champion", "Figure Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%92%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B6%D0%B0%D1%80.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tatiana_Volosozhar"
 lastUpdated: "2026-02-26"

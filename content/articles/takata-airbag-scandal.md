@@ -5,7 +5,7 @@ birth: "2013-01-01"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Corporate Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Takata_%28Unternehmen%29_logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takata_Airbag_Scandal"
 lastUpdated: "2026-02-26"

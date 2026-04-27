@@ -5,7 +5,7 @@ birth: "-0200-01-01"
 death: "-0150-01-01"
 nationality: "Indian"
 occupation: ["Philosopher", "Sage"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Pata%C3%B1jali11.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patanjali"
 lastUpdated: "2026-02-26"

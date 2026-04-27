@@ -5,7 +5,7 @@ birth: "1984-12-05"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Lee_Rigby_Manchester_tribute.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Adebolajo"
 lastUpdated: "2026-02-26"

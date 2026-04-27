@@ -5,7 +5,7 @@ birth: "2010-01-01"
 death: "Unknown"
 nationality: "International"
 occupation: ["Ongoing Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/US_timeline._Opioid_deaths.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Synthetic_Drug_Crisis"
 lastUpdated: "2026-02-26"

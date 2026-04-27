@@ -5,7 +5,7 @@ birth: "1796-06-01"
 death: "1832-08-24"
 nationality: "French"
 occupation: ["Physicist", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Sadi_Carnot.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sadi_Carnot"
 lastUpdated: "2026-02-26"

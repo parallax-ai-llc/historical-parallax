@@ -5,7 +5,7 @@ birth: "1987-10-17"
 death: "2015-11-13"
 nationality: "France"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Islamic_State_flag.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samy_Amimour"
 lastUpdated: "2026-02-26"

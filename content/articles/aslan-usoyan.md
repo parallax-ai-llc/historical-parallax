@@ -5,7 +5,7 @@ birth: "1937-01-27"
 death: "2013-01-16"
 nationality: "Georgia / Russia"
 occupation: ["Crime Boss", "Vor v Zakone"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/04/Aslan_Usoyan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aslan_Usoyan"
 lastUpdated: "2026-02-21"

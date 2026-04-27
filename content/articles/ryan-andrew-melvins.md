@@ -5,7 +5,7 @@ birth: "1980-01-01"
 death: "Unknown"
 nationality: "Australia"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Drew_Gooden_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryan_Andrew_Melvins"
 lastUpdated: "2026-02-26"

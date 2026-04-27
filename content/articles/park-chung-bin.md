@@ -5,7 +5,7 @@ birth: "1891-08-09"
 death: "1943-06-01"
 nationality: "Korean"
 occupation: ["Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/250206_Chung_Su_Bin_%28%EC%A0%95%EC%88%98%EB%B9%88%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Chung-bin"
 lastUpdated: "2026-02-21"

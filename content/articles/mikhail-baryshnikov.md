@@ -5,7 +5,7 @@ birth: "1948-01-27"
 death: "Unknown"
 nationality: "Latvian-American"
 occupation: ["Ballet Dancer", "Choreographer", "Actor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mikhail_Baryshnikov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Baryshnikov"
 lastUpdated: "2026-02-21"

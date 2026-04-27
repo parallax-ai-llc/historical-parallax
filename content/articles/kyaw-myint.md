@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "Unknown"
 nationality: "Myanmar"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Myint_Swe_-_02_%2813-12-2018%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kyaw_Myint"
 lastUpdated: "2026-02-26"

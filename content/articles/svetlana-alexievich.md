@@ -5,7 +5,7 @@ birth: "1948-05-31"
 death: "Unknown"
 nationality: "Belarusian"
 occupation: ["Writer", "Journalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Svetlana_Alexievich_asv2024-01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Svetlana_Alexievich"
 lastUpdated: "2026-02-21"

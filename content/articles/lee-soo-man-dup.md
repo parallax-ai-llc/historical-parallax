@@ -5,7 +5,7 @@ birth: "1952-06-18"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/President_Lee_Jae-myung_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Soo-man_dup"
 lastUpdated: "2026-02-26"

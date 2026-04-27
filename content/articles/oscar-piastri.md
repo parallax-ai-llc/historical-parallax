@@ -3,6 +3,7 @@ name: "Oscar Piastri"
 birth: "2001-04-06"
 nationality: "Australian"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oscar_Piastri"
 lastUpdated: "2026-03-12"

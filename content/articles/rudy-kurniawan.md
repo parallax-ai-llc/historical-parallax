@@ -5,7 +5,7 @@ birth: "1976-12-22"
 death: "Unknown"
 nationality: "Indonesia"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Rudy_Kurniawan_4-7-21_ICE.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudy_Kurniawan"
 lastUpdated: "2026-02-26"

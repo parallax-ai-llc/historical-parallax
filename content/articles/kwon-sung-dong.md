@@ -5,7 +5,7 @@ birth: "1938-08-10"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/151001_%EC%84%B1%EB%8F%99%EC%9D%BC.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kwon_Sung-dong"
 lastUpdated: "2026-02-21"

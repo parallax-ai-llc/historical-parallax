@@ -5,7 +5,7 @@ birth: "1866-09-01"
 death: "1899-07-16"
 nationality: "France"
 occupation: ["Colonial Criminal", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Paul_Voulet.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Voulet"
 lastUpdated: "2026-02-26"

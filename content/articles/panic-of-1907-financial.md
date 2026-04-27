@@ -5,7 +5,7 @@ birth: "1907-10-01"
 death: "1907-11-30"
 nationality: "United States"
 occupation: ["Historical Event", "Economic Crisis", "Financial"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/1907_Panic_crop.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Panic_of_1907_Financial"
 lastUpdated: "2026-02-21"

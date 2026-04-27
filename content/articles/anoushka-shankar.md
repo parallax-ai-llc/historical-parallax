@@ -5,7 +5,7 @@ birth: "1981-06-09"
 death: "Unknown"
 nationality: "Indian-British"
 occupation: ["Sitarist", "Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Anoushka_Shankar_-3623.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anoushka_Shankar"
 lastUpdated: "2026-02-21"

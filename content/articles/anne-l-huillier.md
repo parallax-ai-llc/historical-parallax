@@ -5,7 +5,7 @@ birth: "1958-08-16"
 death: "Unknown"
 nationality: "French-Swedish"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Anne_LHuiller_01.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anne_L'Huillier"
 lastUpdated: "2026-02-21"

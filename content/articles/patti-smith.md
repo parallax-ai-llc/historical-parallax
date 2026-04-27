@@ -5,7 +5,7 @@ birth: "1946-12-30"
 death: "Unknown"
 nationality: "American"
 occupation: ["Singer", "Songwriter", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Patti_Smith_at_the_81st_Venice_International_Film_Festival_in_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patti_Smith"
 lastUpdated: "2026-02-21"

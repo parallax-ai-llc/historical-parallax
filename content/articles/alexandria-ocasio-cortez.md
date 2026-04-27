@@ -3,6 +3,7 @@ name: "Alexandria Ocasio-Cortez"
 birth: "1989-10-13"
 nationality: "American"
 occupation: ["Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Alexandria_Ocasio-Cortez_Official_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez"
 lastUpdated: "2026-03-12"

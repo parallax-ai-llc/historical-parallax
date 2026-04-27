@@ -5,7 +5,7 @@ birth: "1899-08-26"
 death: "1991-06-24"
 nationality: "Mexican"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Rufino_Tamayo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rufino_Tamayo"
 lastUpdated: "2026-02-21"

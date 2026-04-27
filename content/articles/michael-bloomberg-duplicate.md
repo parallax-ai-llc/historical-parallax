@@ -5,7 +5,7 @@ birth: "1942-02-14"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Mike_Bloomberg_2020_presidential_campaign_logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Bloomberg_duplicate"
 lastUpdated: "2026-02-26"

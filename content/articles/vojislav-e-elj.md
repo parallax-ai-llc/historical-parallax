@@ -5,7 +5,7 @@ birth: "1954-03-11"
 death: "Unknown"
 nationality: "Serbia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Vojislav_%C5%A0e%C5%A1elj_2020.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vojislav_%C5%A0e%C5%A1elj"
 lastUpdated: "2026-02-21"

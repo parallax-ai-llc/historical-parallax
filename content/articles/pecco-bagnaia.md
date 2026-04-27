@@ -3,6 +3,7 @@ name: "Pecco Bagnaia"
 birth: "1997-01-14"
 nationality: "Italian"
 occupation: ["Racing Driver", "MotoGP Champion", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Francesco_%27Pecco%27_Bagnaia_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Francesco_Bagnaia"
 lastUpdated: "2026-03-12"

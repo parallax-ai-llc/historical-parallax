@@ -5,7 +5,7 @@ birth: "1965-05-03"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mikhail_Prokhorov_IF_09-2013_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Prokhorov"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1969-07-26"
 death: "Unknown"
 nationality: "British"
 occupation: ["Athlete", "Paralympic Champion", "Wheelchair Racer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Official_portrait_of_Baroness_Grey-Thompson_crop_2%2C_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tanni_Grey-Thompson"
 lastUpdated: "2026-02-26"

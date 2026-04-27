@@ -5,7 +5,7 @@ birth: "2010-01-01"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Criminal Activity"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Municipios_michoacanos_productores_de_aguacate_en_2004.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mexican_Avocado_Cartel"
 lastUpdated: "2026-02-26"

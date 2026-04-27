@@ -5,7 +5,7 @@ birth: "2003-01-03"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Controversial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Kyle_Rittenhouse_by_Gage_Skidmore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kyle_Rittenhouse"
 lastUpdated: "2026-02-26"

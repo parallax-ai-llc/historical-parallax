@@ -5,7 +5,7 @@ birth: "2003-06-20"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Mass Murderer", "White Supremacist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tops_supermarket%2C_Jefferson_Avenue%2C_Buffalo%2C_New_York_-_20220220_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2022_Buffalo_shooting"
 lastUpdated: "2026-02-26"

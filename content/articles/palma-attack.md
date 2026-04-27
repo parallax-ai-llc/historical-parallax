@@ -5,7 +5,7 @@ birth: "2021-03-24"
 death: "Unknown"
 nationality: "Mozambique"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Torched_building_in_Palma.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Palma_Attack"
 lastUpdated: "2026-02-26"

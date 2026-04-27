@@ -5,7 +5,7 @@ birth: "1946-07-04"
 death: "N/A"
 nationality: "United States"
 occupation: ["Financier", "Securities Fraud"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Announcement_of_Recipient_of_%2425%2C000_Milken_National_Educator_Award_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Milken"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1975-05-26"
 death: "Unknown"
 nationality: "American"
 occupation: ["Singer", "Rapper", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lauryn_Hill_Kongsberg_Jazzfestival_2019_%28221758%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lauryn_Hill"
 lastUpdated: "2026-02-21"

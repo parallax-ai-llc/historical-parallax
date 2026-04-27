@@ -5,7 +5,7 @@ birth: "1910-10-13"
 death: "1997-09-06"
 nationality: "Indian"
 occupation: ["Sage", "Teacher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Papaji_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Papaji"
 lastUpdated: "2026-02-21"

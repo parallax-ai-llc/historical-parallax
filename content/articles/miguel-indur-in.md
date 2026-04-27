@@ -5,7 +5,7 @@ birth: "1964-07-16"
 death: "Unknown"
 nationality: "Spanish"
 occupation: ["Athlete", "Olympic Champion", "Cyclist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Miguel_Indurain_en_la_Vuelta_a_Castilla_y_Le%C3%B3n_2009_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miguel_Indur%C3%A1in"
 lastUpdated: "2026-02-26"

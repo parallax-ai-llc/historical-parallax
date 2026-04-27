@@ -5,7 +5,7 @@ birth: "1973-01-01"
 death: "Unknown"
 nationality: "Canada"
 occupation: ["Hostage Diplomacy Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Michael-Spavor-2010_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Spavor"
 lastUpdated: "2026-02-26"

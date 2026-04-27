@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Parkland_Shooting.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Parkland_Shooting"
 lastUpdated: "2026-02-26"

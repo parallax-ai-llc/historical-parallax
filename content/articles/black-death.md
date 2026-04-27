@@ -5,7 +5,7 @@ birth: "1347-10-01"
 death: "1353-01-01"
 nationality: "Europe"
 occupation: ["Historical Event", "Disaster", "Pandemic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/1280px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Black_Death"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Lautaro Martínez"
 birth: "1997-08-22"
 nationality: "Argentine"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lautaro_Martinez_ARGENTINA_VS_VENEZUELA_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lautaro_Mart%C3%ADnez"
 lastUpdated: "2026-03-12"

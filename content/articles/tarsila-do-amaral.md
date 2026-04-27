@@ -5,7 +5,7 @@ birth: "1886-09-01"
 death: "1973-01-17"
 nationality: "Brazilian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tarsila_do_Amaral%2C_ca._1925.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tarsila_do_Amaral"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1936-03-28"
 death: "Unknown"
 nationality: "Spanish"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Coat_of_Arms_of_Amancio_Ortega.svg/960px-Coat_of_Arms_of_Amancio_Ortega.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amancio_Ortega"
 lastUpdated: "2026-02-21"

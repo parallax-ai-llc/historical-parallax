@@ -5,7 +5,7 @@ birth: "1959-10-29"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Samuel_Israel_III.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Israel_III"
 lastUpdated: "2026-02-26"

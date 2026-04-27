@@ -5,7 +5,7 @@ birth: "1862-09-17"
 death: "1862-09-17"
 nationality: "United States"
 occupation: ["Historical Event", "Battle", "American Civil War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/3840px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Antietam"
 lastUpdated: "2026-02-21"

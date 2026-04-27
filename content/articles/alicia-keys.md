@@ -3,6 +3,7 @@ name: "Alicia Keys"
 birth: "1981-01-25"
 nationality: "American"
 occupation: ["Musician", "Singer", "Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Alicia_Keys_%282025%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alicia_Keys"
 lastUpdated: "2026-03-12"

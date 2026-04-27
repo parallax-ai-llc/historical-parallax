@@ -5,7 +5,7 @@ birth: "1945-04-12"
 death: "2006-05-22"
 nationality: "Korean"
 occupation: ["Physician", "Public Health Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dr_Lee_Jong-wook.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Jong-wook"
 lastUpdated: "2026-02-21"

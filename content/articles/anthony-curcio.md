@@ -5,7 +5,7 @@ birth: "1974-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Bank Robber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Anthony_Curcio_speaking_to_college_football_players.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anthony_Curcio"
 lastUpdated: "2026-02-26"

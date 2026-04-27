@@ -5,7 +5,7 @@ birth: "1956-12-12"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ali_Modu_Sherrff_crop_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Modu_Sheriff"
 lastUpdated: "2026-02-26"

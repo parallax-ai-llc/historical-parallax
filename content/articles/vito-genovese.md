@@ -5,7 +5,7 @@ birth: "1897-11-27"
 death: "1969-02-14"
 nationality: "Italy / United States"
 occupation: ["Crime Boss", "Mafioso"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vito_Genovese_NYWTS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vito_Genovese"
 lastUpdated: "2026-02-21"

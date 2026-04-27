@@ -3,6 +3,7 @@ name: "Russell Brand"
 birth: "1975-06-04"
 nationality: "British"
 occupation: ["Comedian", "Actor", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Russell_Brand_in_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russell_Brand"
 lastUpdated: "2026-03-12"

@@ -3,6 +3,7 @@ name: "Taylor Tomlinson"
 birth: "1993-11-04"
 nationality: "American"
 occupation: ["Stand-up Comedian", "Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Taylor_Tomlinson_on_The_Blocks_Podcast.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Taylor_Tomlinson"
 lastUpdated: "2026-03-12"

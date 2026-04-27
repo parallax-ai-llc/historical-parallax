@@ -5,7 +5,7 @@ birth: "1962-02-01"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["Genocide Perpetrator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nyamata_Memorial_Site_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ladislas_Ntaganzwa"
 lastUpdated: "2026-02-26"

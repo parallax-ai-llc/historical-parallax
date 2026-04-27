@@ -5,7 +5,7 @@ birth: "1923-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rosewood_Florida_rc12408.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rosewood_Massacre"
 lastUpdated: "2026-02-26"

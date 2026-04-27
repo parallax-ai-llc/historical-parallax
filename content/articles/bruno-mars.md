@@ -3,6 +3,7 @@ name: "Bruno Mars"
 birth: "1985-10-08"
 nationality: "American"
 occupation: ["Singer", "Songwriter", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bruno_Mars"
 lastUpdated: "2026-03-12"

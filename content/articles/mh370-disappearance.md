@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Malaysia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/11/MAS_plane.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/MH370_Disappearance"
 lastUpdated: "2026-02-26"

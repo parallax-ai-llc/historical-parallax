@@ -5,7 +5,7 @@ birth: "0853-01-01"
 death: "0944-01-01"
 nationality: "Samarqandi"
 occupation: ["Theologian", "Jurist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Imammaturidi_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Maturidi"
 lastUpdated: "2026-02-21"

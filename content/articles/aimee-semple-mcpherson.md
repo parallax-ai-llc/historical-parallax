@@ -5,7 +5,7 @@ birth: "1890-10-09"
 death: "1944-09-27"
 nationality: "Canadian-American"
 occupation: ["Evangelist", "Pastor", "Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/ff/LAPL_ASM_1911_00024641.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aimee_Semple_McPherson"
 lastUpdated: "2026-02-21"

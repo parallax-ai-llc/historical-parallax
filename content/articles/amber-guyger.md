@@ -5,7 +5,7 @@ birth: "1988-08-28"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Police Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/South_Side_Flats_-_Dallas_Texas_-_June_2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amber_Guyger"
 lastUpdated: "2026-02-26"

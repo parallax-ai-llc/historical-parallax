@@ -5,7 +5,7 @@ birth: "2019-07-18"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kyoto_animation_arson_attack_1_20190721.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kyoto_Animation_Arson_Attack"
 lastUpdated: "2026-02-26"

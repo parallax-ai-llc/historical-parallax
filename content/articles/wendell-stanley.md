@@ -5,7 +5,7 @@ birth: "1904-08-16"
 death: "1971-06-15"
 nationality: "American"
 occupation: ["Biochemist", "Virologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Wendell_Meredith_Stanley.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wendell_Stanley"
 lastUpdated: "2026-02-26"

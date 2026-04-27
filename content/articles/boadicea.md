@@ -4,6 +4,7 @@ birth: "c. 30 CE"
 death: "c. 61 CE"
 nationality: "British (Iceni)"
 occupation: ["Queen", "Military Leader", "Rebel"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Queen_Boudica_by_John_Opie.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Boudica"
 lastUpdated: "2025-12-22"

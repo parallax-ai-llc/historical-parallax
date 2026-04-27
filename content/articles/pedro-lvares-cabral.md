@@ -5,7 +5,7 @@ birth: "1467-01-01"
 death: "1520-01-01"
 nationality: "Portuguese"
 occupation: ["Explorer", "Navigator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pedro_%C3%81lvares_Cabral.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral"
 lastUpdated: "2026-02-26"

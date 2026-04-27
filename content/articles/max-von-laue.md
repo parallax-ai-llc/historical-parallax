@@ -5,7 +5,7 @@ birth: "1879-10-09"
 death: "1960-04-24"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Max_von_Laue_1914.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Max_von_Laue"
 lastUpdated: "2026-02-21"

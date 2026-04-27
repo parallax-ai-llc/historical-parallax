@@ -5,7 +5,7 @@ birth: "1948-01-01"
 death: "N/A (Imprisoned)"
 nationality: "Mexico"
 occupation: ["Drug Lord", "Sinaloa Cartel"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/ISMAEL_ZAMBADA_GARCIA.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ismael_Zambada_Garc%C3%ADa"
 lastUpdated: "2026-02-26"

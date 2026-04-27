@@ -5,7 +5,7 @@ birth: "1971-12-21"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Money Launderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Alex_Saab_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alex_Saab"
 lastUpdated: "2026-02-26"

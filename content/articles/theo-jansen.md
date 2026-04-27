@@ -5,7 +5,7 @@ birth: "1948-03-14"
 death: "Unknown"
 nationality: "Dutch"
 occupation: ["Sculptor", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Jansen_Theo_Hannover.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theo_Jansen"
 lastUpdated: "2026-02-21"

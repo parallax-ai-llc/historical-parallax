@@ -5,7 +5,7 @@ birth: "1901-07-07"
 death: "1974-11-13"
 nationality: "Italian"
 occupation: ["Film Director", "Actor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/S_Kragujevic%2C_Vittorio_De_Sica%2C_1959.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vittorio_De_Sica"
 lastUpdated: "2026-02-21"

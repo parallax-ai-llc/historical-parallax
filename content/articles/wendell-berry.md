@@ -5,7 +5,7 @@ birth: "1934-08-05"
 death: "N/A"
 nationality: "American"
 occupation: ["Author", "Farmer", "Environmental Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/A_New_Harvest%2C_with_Wendell_Berry%2C_Henry_County%2C_KY%2C_2011_-_photograph_by_Guy_Mendes_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wendell_Berry"
 lastUpdated: "2026-02-21"

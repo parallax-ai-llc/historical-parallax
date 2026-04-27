@@ -5,7 +5,7 @@ birth: "1954-01-29"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Secalbright.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oprah_duplicate"
 lastUpdated: "2026-02-26"

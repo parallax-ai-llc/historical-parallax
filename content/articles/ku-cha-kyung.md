@@ -5,7 +5,7 @@ birth: "1925-02-20"
 death: "2019-12-14"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cha_Eun-woo%2C_March_31%2C_2025.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ku_Cha-kyung"
 lastUpdated: "2026-02-21"

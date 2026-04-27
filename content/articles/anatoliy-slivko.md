@@ -5,7 +5,7 @@ birth: "1938-12-28"
 death: "1989-09-16"
 nationality: "Soviet Union"
 occupation: ["Serial Killer", "Pedophile"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/12/Anatoly_Slivko.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anatoly_Slivko"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1978-05-20"
 death: "Unknown"
 nationality: "Central African Republic"
 occupation: ["Militia Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Maxime_Mokom.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maxime_Mokom"
 lastUpdated: "2026-02-26"

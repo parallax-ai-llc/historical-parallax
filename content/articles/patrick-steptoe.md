@@ -5,7 +5,7 @@ birth: "1913-06-09"
 death: "1988-03-21"
 nationality: "English"
 occupation: ["Obstetrician", "Gynecologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Patrick_Steptoe_First_Greek_IVF_child.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Steptoe"
 lastUpdated: "2026-02-21"

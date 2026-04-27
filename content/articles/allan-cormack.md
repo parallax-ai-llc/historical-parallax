@@ -5,7 +5,7 @@ birth: "1924-02-23"
 death: "1998-05-07"
 nationality: "South African-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/34._Tagung_1984_Mediziner%3B_Verabschiedung_H.-H._Kunckel%2C_Allen_Cormack_-_W134Nr.123006_-_Willy_Pragher_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Allan_Cormack"
 lastUpdated: "2026-02-21"

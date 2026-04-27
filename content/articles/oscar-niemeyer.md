@@ -5,7 +5,7 @@ birth: "1907-12-15"
 death: "2012-12-05"
 nationality: "Brazilian"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Oscar_Niemeyer_1968b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
 lastUpdated: "2026-02-21"

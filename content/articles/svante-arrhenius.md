@@ -5,7 +5,7 @@ birth: "1859-02-19"
 death: "1927-10-02"
 nationality: "Swedish"
 occupation: ["Chemist", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arrhenius2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Svante_Arrhenius"
 lastUpdated: "2026-02-21"

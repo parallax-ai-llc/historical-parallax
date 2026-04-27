@@ -5,7 +5,7 @@ birth: "1952-04-17"
 death: "2000-01-15"
 nationality: "Serbia"
 occupation: ["Warlord", "Crime Boss", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a3/%C5%BDeljko_Ra%C5%BEnatovi%C4%87.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arkan"
 lastUpdated: "2026-02-21"

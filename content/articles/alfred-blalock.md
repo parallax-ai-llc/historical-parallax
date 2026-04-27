@@ -5,7 +5,7 @@ birth: "1899-04-05"
 death: "1964-09-15"
 nationality: "American"
 occupation: ["Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a6/Alfredblalock.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfred_Blalock"
 lastUpdated: "2026-02-21"

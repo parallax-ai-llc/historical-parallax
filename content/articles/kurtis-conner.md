@@ -3,6 +3,7 @@ name: "Kurtis Conner"
 birth: "1994-05-04"
 nationality: "Canadian"
 occupation: ["YouTuber", "Comedian", "Content Creator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kurtis_Conner_2022_%28cropped%29_6.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kurtis_Conner"
 lastUpdated: "2026-03-12"

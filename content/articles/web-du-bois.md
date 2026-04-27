@@ -4,6 +4,7 @@ birth: "1868-02-23"
 death: "1963-08-27"
 nationality: "American"
 occupation: ["Sociologist", "Historian", "Civil Rights Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%283x4%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
 lastUpdated: "2026-03-12"

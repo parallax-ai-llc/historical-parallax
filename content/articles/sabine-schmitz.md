@@ -3,6 +3,7 @@ name: "Sabine Schmitz"
 birth: "1969-05-14"
 nationality: "German"
 occupation: ["Racing Driver", "TV Presenter", "Nurburgring Queen"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Sabine_Schmitz_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sabine_Schmitz"
 lastUpdated: "2026-03-12"

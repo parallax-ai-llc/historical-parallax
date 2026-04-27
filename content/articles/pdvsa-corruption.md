@@ -5,7 +5,7 @@ birth: "2014-01-01"
 death: "Unknown"
 nationality: "Venezuela"
 occupation: ["State Corruption"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Edificio_PDVSA_5_de_Julio.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/PDVSA_Corruption"
 lastUpdated: "2026-02-26"

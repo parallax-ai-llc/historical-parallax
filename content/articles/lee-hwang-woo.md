@@ -5,7 +5,7 @@ birth: "1920-01-21"
 death: "2011-11-14"
 nationality: "Korean"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Hwang_Woo-seul-hye_in_December_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Hwang-woo"
 lastUpdated: "2026-02-21"

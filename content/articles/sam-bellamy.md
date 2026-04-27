@@ -5,7 +5,7 @@ birth: "1689-02-23"
 death: "1717-04-26"
 nationality: "England"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Samuel_Bellamy%2C_Wreck_of_the_Whydah%2C_from_the_Pirates_of_the_Spanish_Main_series_%28N19%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835027.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Bellamy"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1732-01-01"
 death: "1798-11-25"
 nationality: "Japanese"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rakan_by_It%C5%8D_Jakuch%C5%AB9.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ajima_Naonobu"
 lastUpdated: "2026-02-21"

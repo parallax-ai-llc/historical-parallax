@@ -5,7 +5,7 @@ birth: "1791-04-27"
 death: "1872-04-02"
 nationality: "American"
 occupation: ["Inventor", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Samuel_Morse_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Morse"
 lastUpdated: "2026-02-21"

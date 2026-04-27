@@ -5,7 +5,7 @@ birth: "1929-05-01"
 death: "Unknown"
 nationality: "Argentina"
 occupation: ["Torturer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Miguel_Etchecolatz.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miguel_Etchecolatz"
 lastUpdated: "2026-02-26"

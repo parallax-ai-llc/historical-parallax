@@ -5,7 +5,7 @@ birth: "1873-08-26"
 death: "1961-06-30"
 nationality: "American"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Lee_De_Forest.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_De_Forest"
 lastUpdated: "2026-02-21"

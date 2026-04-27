@@ -5,7 +5,7 @@ birth: "1897-04-21"
 death: "1963-05-12"
 nationality: "American"
 occupation: ["Pastor", "Author", "Mystic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b7/A_W_Tozer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/A._W._Tozer"
 lastUpdated: "2026-02-21"

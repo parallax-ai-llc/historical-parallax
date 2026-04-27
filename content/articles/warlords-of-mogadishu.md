@@ -5,7 +5,7 @@ birth: "1991-01-01"
 death: "Unknown"
 nationality: "Somalia"
 occupation: ["Criminal Phenomenon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Black_Hawk_Down_Super64_over_Mogadishu_coast.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Warlords_of_Mogadishu"
 lastUpdated: "2026-02-26"

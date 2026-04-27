@@ -5,7 +5,7 @@ birth: "1942-06-05"
 death: "N/A"
 nationality: "Equatorial Guinea"
 occupation: ["Dictator", "Kleptocrat"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/2026_Teodoro_Obiang_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Teodoro_Obiang_Nguema_Mbasogo"
 lastUpdated: "2026-02-21"

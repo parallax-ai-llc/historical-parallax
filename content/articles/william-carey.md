@@ -5,7 +5,7 @@ birth: "1761-08-17"
 death: "1834-06-09"
 nationality: "English"
 occupation: ["Missionary", "Translator", "Linguist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/William_Carey.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Carey"
 lastUpdated: "2026-02-21"

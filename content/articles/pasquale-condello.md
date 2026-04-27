@@ -5,7 +5,7 @@ birth: "1950-04-30"
 death: "Unknown"
 nationality: "Italy"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/6c/Condelloyoung.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pasquale_Condello"
 lastUpdated: "2026-02-26"

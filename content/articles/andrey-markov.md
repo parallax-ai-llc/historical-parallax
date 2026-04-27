@@ -5,7 +5,7 @@ birth: "1856-06-14"
 death: "1922-07-20"
 nationality: "Russian"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Andrei_Markov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrey_Markov"
 lastUpdated: "2026-02-21"

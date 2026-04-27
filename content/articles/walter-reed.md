@@ -5,7 +5,7 @@ birth: "1851-09-13"
 death: "1902-11-22"
 nationality: "American"
 occupation: ["Physician", "Bacteriologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/WalterReed.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_Reed"
 lastUpdated: "2026-02-21"

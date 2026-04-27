@@ -5,7 +5,7 @@ birth: "1970-02-07"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Mike_Grimm.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Grimm"
 lastUpdated: "2026-02-26"

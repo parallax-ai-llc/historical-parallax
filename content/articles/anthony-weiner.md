@@ -5,7 +5,7 @@ birth: "1964-09-04"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Anthony_Weiner_2025a.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anthony_Weiner"
 lastUpdated: "2026-02-26"

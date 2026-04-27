@@ -5,7 +5,7 @@ birth: "1948-12-01"
 death: "2013-12-12"
 nationality: "Bangladesh"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/16/Abdul_Mollah.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdul_Quader_Mollah"
 lastUpdated: "2026-02-26"

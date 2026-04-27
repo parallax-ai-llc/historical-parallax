@@ -5,7 +5,7 @@ birth: "1913-10-27"
 death: "1998-08-18"
 nationality: "Czech"
 occupation: ["Chemist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Prof._Ing._RTDr._Otto_Wichterle.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Otto_Wichterle"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1916-02-21"
 death: "1916-12-18"
 nationality: "France"
 occupation: ["Historical Event", "Battle", "World War I"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Battle_of_Verdun_map.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Verdun"
 lastUpdated: "2026-02-21"

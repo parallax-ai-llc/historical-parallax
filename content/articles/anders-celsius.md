@@ -5,7 +5,7 @@ birth: "1701-11-27"
 death: "1744-04-25"
 nationality: "Swedish"
 occupation: ["Astronomer", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Headshot_of_Anders_Celsius.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anders_Celsius"
 lastUpdated: "2026-02-21"

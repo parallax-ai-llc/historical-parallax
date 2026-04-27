@@ -5,7 +5,7 @@ birth: "1841-08-25"
 death: "1917-07-27"
 nationality: "Swiss"
 occupation: ["Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Emil_Theodor_Kocher_%28slight_3x4_crop%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theodor_Kocher"
 lastUpdated: "2026-02-21"

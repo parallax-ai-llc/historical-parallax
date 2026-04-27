@@ -5,7 +5,7 @@ birth: "1946-12-24"
 death: "Unknown"
 nationality: "Chinese-American"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Andrew_Yao_P1130016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrew_Yao"
 lastUpdated: "2026-02-26"

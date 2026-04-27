@@ -5,7 +5,7 @@ birth: "1885-02-03"
 death: "1962-04-29"
 nationality: "Japanese"
 occupation: ["Mathematician", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Tanabe_Hajime.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tanabe_Hajime"
 lastUpdated: "2026-02-21"

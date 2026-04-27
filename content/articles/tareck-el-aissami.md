@@ -5,7 +5,7 @@ birth: "1974-11-12"
 death: "Unknown"
 nationality: "Venezuela"
 occupation: ["Drug Lord", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tareck_El_Aissami_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tareck_El_Aissami"
 lastUpdated: "2026-02-26"

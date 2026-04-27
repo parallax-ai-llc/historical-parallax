@@ -5,7 +5,7 @@ birth: "1971-07-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Rapper", "Singer", "Producer", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Missy_Elliot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Missy_Elliott"
 lastUpdated: "2026-02-21"

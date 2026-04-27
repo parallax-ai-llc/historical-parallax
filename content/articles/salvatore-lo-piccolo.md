@@ -5,7 +5,7 @@ birth: "1942-05-24"
 death: "N/A (Imprisoned)"
 nationality: "Italy"
 occupation: ["Mafia Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/93/Salvatore_LoPiccolo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salvatore_Lo_Piccolo"
 lastUpdated: "2026-02-26"

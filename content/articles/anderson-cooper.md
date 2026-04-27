@@ -3,6 +3,7 @@ name: "Anderson Cooper"
 birth: "1967-06-03"
 nationality: "American"
 occupation: ["Journalist", "Television Anchor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Anderson_Cooper_%2844675408934%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anderson_Cooper"
 lastUpdated: "2026-03-12"

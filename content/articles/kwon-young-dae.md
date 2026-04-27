@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Biomedical engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kim-Young-dae_for_Marie_Claire_Korea_on_171222.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kwon_Young-dae"
 lastUpdated: "2026-02-21"

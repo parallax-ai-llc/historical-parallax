@@ -3,6 +3,7 @@ name: "TenZ"
 birth: "2001-05-05"
 nationality: "Canadian"
 occupation: ["Esports Player", "Streamer", "Content Creator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/SEN_TENZ_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/TenZ"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1929-04-22"
 death: "2019-01-11"
 nationality: "British-Lebanese"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Michael_Francis_Atiyah.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Atiyah"
 lastUpdated: "2026-02-21"

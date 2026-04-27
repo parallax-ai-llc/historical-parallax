@@ -5,7 +5,7 @@ birth: "1718-01-01"
 death: "1720-05-01"
 nationality: "France"
 occupation: ["Historical Event", "Economic Crisis", "Financial"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Armoiries_de_la_Compagnie_des_Indes_Orientales.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mississippi_Bubble_France"
 lastUpdated: "2026-02-21"

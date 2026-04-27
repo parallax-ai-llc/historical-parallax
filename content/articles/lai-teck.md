@@ -5,7 +5,7 @@ birth: "1901-01-01"
 death: "1947-06-01"
 nationality: "Vietnam"
 occupation: ["Spy", "Traitor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lai_Teck.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lai_Teck"
 lastUpdated: "2026-02-26"

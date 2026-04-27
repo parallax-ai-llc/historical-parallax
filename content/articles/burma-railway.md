@@ -5,7 +5,7 @@ birth: "1942-09-01"
 death: "1943-10-17"
 nationality: "Thailand"
 occupation: ["War Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG/3840px-Bridge_on_the_River_Kwai_-_tourist_plaza.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Burma_Railway"
 lastUpdated: "2026-02-26"

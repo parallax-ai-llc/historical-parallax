@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "Unknown"
 nationality: "Canada"
 occupation: ["Hostage Diplomacy Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Michael_Kovrig.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Kovrig"
 lastUpdated: "2026-02-26"

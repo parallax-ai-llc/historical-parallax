@@ -5,7 +5,7 @@ birth: "1994-05-25"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Gymnast"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Raisman_Rio_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aly_Raisman"
 lastUpdated: "2026-02-26"

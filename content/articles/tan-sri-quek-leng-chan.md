@@ -5,7 +5,7 @@ birth: "1941-01-01"
 death: "Unknown"
 nationality: "Malaysian"
 occupation: ["Entrepreneur", "Banker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tan_Sri_Quek_%28Kwek%3F%29_Leng_Chan_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tan_Sri_Quek_Leng_Chan"
 lastUpdated: "2026-02-21"

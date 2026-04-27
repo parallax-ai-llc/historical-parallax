@@ -5,7 +5,7 @@ birth: "1775-01-01"
 death: "1836-11-01"
 nationality: "Shawnee (American)"
 occupation: ["Prophet", "Religious Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ten-sq%C3%BAat-a-way.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tenskwatawa"
 lastUpdated: "2026-02-21"

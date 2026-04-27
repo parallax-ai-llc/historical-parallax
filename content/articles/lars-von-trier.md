@@ -5,7 +5,7 @@ birth: "1956-04-30"
 death: "Unknown"
 nationality: "Danish"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lars_von_Trier2026_IMG_0152_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lars_von_Trier"
 lastUpdated: "2026-02-21"

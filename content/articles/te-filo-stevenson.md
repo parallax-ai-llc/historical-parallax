@@ -5,7 +5,7 @@ birth: "1952-03-29"
 death: "2012-06-11"
 nationality: "Cuban"
 occupation: ["Athlete", "Olympic Champion", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bundesarchiv_Bild_183-1985-1004-023%2C_Teofilo_Stevenson_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Te%C3%B3filo_Stevenson"
 lastUpdated: "2026-02-26"

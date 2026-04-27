@@ -5,7 +5,7 @@ birth: "1960-08-10"
 death: "2013-09-03"
 nationality: "United States"
 occupation: ["Kidnapper", "Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Kidnapping_Victims.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ariel_Castro_kidnappings"
 lastUpdated: "2026-02-26"

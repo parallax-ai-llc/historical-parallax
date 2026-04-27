@@ -5,7 +5,7 @@ birth: "2015-02-08"
 death: "Unknown"
 nationality: "Switzerland"
 occupation: ["Tax Evasion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Swissleaks_-_the_map_of_the_bank_accounts.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swiss_Leaks"
 lastUpdated: "2026-02-26"

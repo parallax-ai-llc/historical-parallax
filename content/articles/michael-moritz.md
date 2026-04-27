@@ -5,7 +5,7 @@ birth: "1954-09-12"
 death: "Unknown"
 nationality: "Welsh-American"
 occupation: ["Venture Capitalist", "Journalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Michael_Moritz_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Moritz"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1972-12-24"
 death: "N/A (Imprisoned)"
 nationality: "Zimbabwe / South Africa"
 occupation: ["Cybercriminal", "Drug Lord", "Arms Dealer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Paul_Le_Roux_being_escorted_by_DEA_agents_2_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Le_Roux"
 lastUpdated: "2026-02-21"

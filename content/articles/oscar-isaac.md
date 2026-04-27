@@ -3,6 +3,7 @@ name: "Oscar Isaac"
 birth: "1979-03-09"
 nationality: "Guatemalan-American"
 occupation: ["Actor", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Oscar_Isaac_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oscar_Isaac"
 lastUpdated: "2026-03-12"

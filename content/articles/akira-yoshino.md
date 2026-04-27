@@ -5,7 +5,7 @@ birth: "1948-01-30"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Chemist", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Akira_Yoshino_20170920_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akira_Yoshino"
 lastUpdated: "2026-02-21"

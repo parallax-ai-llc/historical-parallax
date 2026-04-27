@@ -4,6 +4,7 @@ birth: "1920-12-21"
 death: "2019-10-17"
 nationality: "Cuban"
 occupation: ["Ballet Dancer", "Choreographer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Alicia_Alonso_1955.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alicia_Alonso"
 lastUpdated: "2026-03-12"

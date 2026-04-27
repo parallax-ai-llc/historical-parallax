@@ -5,7 +5,7 @@ birth: "1933-04-23"
 death: "2011-06-25"
 nationality: "American"
 occupation: ["Computer Scientist", "Mathematician", "Rocket Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Annie_Easley.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Annie_Easley"
 lastUpdated: "2026-02-21"

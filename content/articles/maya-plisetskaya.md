@@ -4,6 +4,7 @@ birth: "1925-11-20"
 death: "2015-05-02"
 nationality: "Russian"
 occupation: ["Ballet Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/%D0%9C%D0%B0%D0%B9%D1%8F_%D0%9F%D0%BB%D0%B8%D1%81%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_-_%D0%A2%D0%B8%D1%85%D0%BE%D0%BD%D0%BE%D0%B2_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_-_Tikhonov_Nikita-_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_-2005_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maya_Plisetskaya"
 lastUpdated: "2026-03-12"

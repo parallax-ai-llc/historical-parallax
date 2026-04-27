@@ -5,7 +5,7 @@ birth: "1435-01-01"
 death: "1488-10-10"
 nationality: "Italian"
 occupation: ["Sculptor", "Painter", "Goldsmith"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Andrea_del_Castagno%2C_portrait_de_Verrocchio%2C_vers_1470.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrea_del_Verrocchio"
 lastUpdated: "2026-02-21"

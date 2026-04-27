@@ -3,6 +3,7 @@ name: "Tarkan"
 birth: "1972-10-17"
 nationality: "Turkish"
 occupation: ["Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Tarkan_%289%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tarkan"
 lastUpdated: "2026-03-12"

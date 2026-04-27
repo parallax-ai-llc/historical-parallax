@@ -5,7 +5,7 @@ birth: "1928-03-28"
 death: "2014-11-13"
 nationality: "German-French"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Alexander_Grothendieck_-_face.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Grothendieck"
 lastUpdated: "2026-02-21"

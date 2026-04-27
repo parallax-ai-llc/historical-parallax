@@ -5,7 +5,7 @@ birth: "1931-02-24"
 death: "1995-05-15"
 nationality: "Japanese-American"
 occupation: ["Zen Master"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Taizan_Maezumi_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Taizan_Maezumi"
 lastUpdated: "2026-02-21"

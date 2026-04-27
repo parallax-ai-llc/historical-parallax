@@ -5,7 +5,7 @@ birth: "1954-09-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Investor", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Paul_Tudor_Jones_2006.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Tudor_Jones"
 lastUpdated: "2026-02-21"

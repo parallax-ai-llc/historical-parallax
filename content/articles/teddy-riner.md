@@ -5,7 +5,7 @@ birth: "1989-04-07"
 death: "Unknown"
 nationality: "French"
 occupation: ["Athlete", "Olympic Champion", "Judoka"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Teddy_Riner_Cannes_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Teddy_Riner"
 lastUpdated: "2026-02-26"

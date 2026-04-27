@@ -5,7 +5,7 @@ birth: "1949-01-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Terry_Winters_%28NYC_2001%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terry_Winters"
 lastUpdated: "2026-02-21"

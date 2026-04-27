@@ -5,7 +5,7 @@ birth: "1524-06-01"
 death: "1525-05-15"
 nationality: "Holy Roman Empire"
 occupation: ["Historical Event", "Revolution", "Rebellion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Karte_bauernkrieg3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Peasants_War_Germany"
 lastUpdated: "2026-02-21"

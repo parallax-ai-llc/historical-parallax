@@ -5,7 +5,7 @@ birth: "1959-08-01"
 death: "2006-06-27"
 nationality: "Mexico"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/%C3%81ngel_Res%C3%A9ndiz.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Angel_Maturino_Resendiz"
 lastUpdated: "2026-02-26"

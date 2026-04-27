@@ -5,7 +5,7 @@ birth: "1919-01-01"
 death: "2005-01-01"
 nationality: "Japanese"
 occupation: ["Psychiatrist", "Brain researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/251101_Mount_Tsurugata_Kurashiki_Okayama_pref_Japan02s3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tange_Senichi"
 lastUpdated: "2026-02-21"

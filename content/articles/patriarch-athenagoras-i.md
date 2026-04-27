@@ -5,7 +5,7 @@ birth: "1886-03-25"
 death: "1972-07-07"
 nationality: "Greek-Turkish"
 occupation: ["Patriarch", "Religious Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Archbishop_Athenagoras_1936.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patriarch_Athenagoras_I"
 lastUpdated: "2026-02-21"

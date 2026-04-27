@@ -4,7 +4,7 @@ name: "Lee Jae-in"
 birth: "1959-08-24"
 nationality: "Korea"
 occupation: ["Sociologist", "Politician", "Public Official", "Academic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Lee_Jae-in_%28%EC%9D%B4%EC%9E%AC%EC%9D%B8%29_in_February_2024.png"
 socialLinks:
   wikipedia: ""
 lastUpdated: "2025-12-31"

@@ -5,7 +5,7 @@ birth: "1990-03-29"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Wanted_Poster%2C_Ovidio_Guzm%C3%A1n_L%C3%B3pez_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ovidio_Guzm%C3%A1n_L%C3%B3pez"
 lastUpdated: "2026-02-26"

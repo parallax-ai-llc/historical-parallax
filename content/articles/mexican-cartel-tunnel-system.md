@@ -5,7 +5,7 @@ birth: "1990-01-01"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Criminal Infrastructure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Cartel_De_Sinaloa.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mexican_Cartel_Tunnel_System"
 lastUpdated: "2026-02-26"

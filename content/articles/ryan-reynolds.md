@@ -3,6 +3,7 @@ name: "Ryan Reynolds"
 birth: "1976-10-23"
 nationality: "Canadian-American"
 occupation: ["Actor", "Entrepreneur", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryan_Reynolds"
 lastUpdated: "2026-03-12"

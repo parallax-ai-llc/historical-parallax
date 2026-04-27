@@ -5,7 +5,7 @@ birth: "1929-03-23"
 death: "2018-03-03"
 nationality: "British"
 occupation: ["Athlete", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Roger_Bannister_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roger_Bannister"
 lastUpdated: "2026-02-26"

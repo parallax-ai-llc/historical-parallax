@@ -5,7 +5,7 @@ birth: "1963-11-29"
 death: "Unknown"
 nationality: "India"
 occupation: ["Corrupt Sports Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Modi_at_IPL_Players_Auction.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lalit_Modi"
 lastUpdated: "2026-02-26"

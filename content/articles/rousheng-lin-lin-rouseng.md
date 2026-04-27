@@ -5,7 +5,7 @@ birth: "1939-05-27"
 death: "2015-11-28"
 nationality: "Taiwan"
 occupation: ["Publisher", "Businessman", "Politician", "Real Estate Developer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/%E6%9E%97%E6%A6%AE%E4%B8%89%E5%A7%94%E5%93%A1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lin_Rong-San"
 lastUpdated: "2026-01-08"

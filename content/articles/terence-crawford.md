@@ -5,7 +5,7 @@ birth: "1987-09-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Terence_Crawford_during_a_podcast_in_2023.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terence_Crawford"
 lastUpdated: "2026-02-26"

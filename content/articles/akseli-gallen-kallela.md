@@ -5,7 +5,7 @@ birth: "1865-04-26"
 death: "1931-03-07"
 nationality: "Finnish"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Akseli_Gallen-Kallela.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akseli_Gallen-Kallela"
 lastUpdated: "2026-02-21"

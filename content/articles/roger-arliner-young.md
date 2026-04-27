@@ -5,7 +5,7 @@ birth: "1899-01-01"
 death: "1964-11-09"
 nationality: "American"
 occupation: ["Zoologist", "Marine Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Roger_Arliner_Young.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roger_Arliner_Young"
 lastUpdated: "2026-02-21"

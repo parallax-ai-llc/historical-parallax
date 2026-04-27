@@ -5,7 +5,7 @@ birth: "1914-02-21"
 death: "1965-05-06"
 nationality: "Korean"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/%EB%B0%95%EC%88%98%EA%B7%BC_%ED%99%94%EB%B0%B1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Soo-keun"
 lastUpdated: "2026-02-21"

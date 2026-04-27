@@ -5,7 +5,7 @@ birth: "1889-07-14"
 death: "1959-12-28"
 nationality: "Croatia"
 occupation: ["Dictator", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ante_Paveli%C4%87_StAF_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ante_Paveli%C4%87"
 lastUpdated: "2026-02-21"

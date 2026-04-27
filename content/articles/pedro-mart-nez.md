@@ -5,7 +5,7 @@ birth: "1971-10-25"
 death: "Unknown"
 nationality: "Dominican"
 occupation: ["Athlete", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pedro%27s_return.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedro_Mart%C3%ADnez"
 lastUpdated: "2026-02-26"

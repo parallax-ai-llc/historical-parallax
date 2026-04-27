@@ -5,7 +5,7 @@ birth: "1993-09-13"
 death: "1993-09-13"
 nationality: "United States"
 occupation: ["Historical Event", "Treaty", "Peace Agreement"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oslo_Accords"
 lastUpdated: "2026-02-21"

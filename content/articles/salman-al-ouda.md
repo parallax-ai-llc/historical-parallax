@@ -5,7 +5,7 @@ birth: "1956-12-13"
 death: "Unknown"
 nationality: "Saudi Arabia"
 occupation: ["Political Prisoner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Salman_al-Ouda_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salman_al-Ouda"
 lastUpdated: "2026-02-26"

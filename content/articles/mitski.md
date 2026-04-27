@@ -3,6 +3,7 @@ name: "Mitski"
 birth: "1990-09-27"
 nationality: "American (Japanese-born)"
 occupation: ["Singer", "Songwriter", "Multi-instrumentalist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/MitskiUnionChap111023_%2813_of_30%29_%2853252051563%29_%28cropped%29_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mitski"
 lastUpdated: "2026-03-12"

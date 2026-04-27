@@ -5,7 +5,7 @@ birth: "1983-09-14"
 death: "2011-07-23"
 nationality: "British"
 occupation: ["Singer", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Amy_Winehouse_f4962007_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amy_Winehouse"
 lastUpdated: "2026-02-21"

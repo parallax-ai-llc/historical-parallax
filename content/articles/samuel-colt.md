@@ -5,7 +5,7 @@ birth: "1814-07-19"
 death: "1862-01-10"
 nationality: "American"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Samuel_Colt_engraving_by_John_Chester_Buttre%2C_c1855.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Colt"
 lastUpdated: "2026-02-26"

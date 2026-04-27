@@ -5,7 +5,7 @@ birth: "1972-01-01"
 death: "Unknown"
 nationality: "Ecuador"
 occupation: ["Environmental Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pablo_Fajardo%2C_The_Green_Interview.webm"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pablo_Fajardo"
 lastUpdated: "2026-02-26"

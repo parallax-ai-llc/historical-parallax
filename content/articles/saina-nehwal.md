@@ -5,7 +5,7 @@ birth: "1990-03-17"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Athlete", "Badminton Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Saina_Nehwal_in_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saina_Nehwal"
 lastUpdated: "2026-02-26"

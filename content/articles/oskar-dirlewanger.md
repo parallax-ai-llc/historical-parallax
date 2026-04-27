@@ -5,7 +5,7 @@ birth: "1895-09-26"
 death: "1945-06-07"
 nationality: "Germany"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Bundesarchiv_Bild_183-S73495%2C_Oskar_Dirlewanger.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oskar_Dirlewanger"
 lastUpdated: "2026-02-26"

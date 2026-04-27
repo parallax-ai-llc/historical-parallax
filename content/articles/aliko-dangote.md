@@ -5,7 +5,7 @@ birth: "1957-04-10"
 death: "Unknown"
 nationality: "Nigerian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Al_Shabani_at_the_acquisition_of_Dangote_Cement_by_ICD_in_2014_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aliko_Dangote"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1970-10-08"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/2024_Korea_Grand_Sale_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Boo-jin"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1260-01-01"
 death: "1328-01-01"
 nationality: "German"
 occupation: ["Theologian", "Philosopher", "Mystic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Meister_Eckhart_base_copie.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meister_Eckhart"
 lastUpdated: "2026-02-21"

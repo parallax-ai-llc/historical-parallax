@@ -5,7 +5,7 @@ birth: "1950-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Nuclear engineer", "Reactor designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Jung_Kook_of_BTS%2C_February_12%2C_2026_%281%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_In-kook"
 lastUpdated: "2026-02-21"

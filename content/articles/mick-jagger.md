@@ -3,6 +3,7 @@ name: "Mick Jagger"
 birth: "1943-07-26"
 nationality: "British"
 occupation: ["Musician", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/RStonesHydePark030722_%2849_of_125%29_%2852193656268%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mick_Jagger"
 lastUpdated: "2026-03-12"

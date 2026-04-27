@@ -5,7 +5,7 @@ birth: "1633-01-01"
 death: "1721-01-01"
 nationality: "Chinese"
 occupation: ["Mathematician", "Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chinese_rocket.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mei_Wending"
 lastUpdated: "2026-02-21"

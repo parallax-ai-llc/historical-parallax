@@ -5,7 +5,7 @@ birth: "1935-09-13"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Yoshihiko_Miyauchi_2008.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miyauchi_Yoshihiko"
 lastUpdated: "2026-02-21"

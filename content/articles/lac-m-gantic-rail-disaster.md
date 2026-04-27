@@ -5,7 +5,7 @@ birth: "2013-07-06"
 death: "Unknown"
 nationality: "Canada"
 occupation: ["Environmental Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lac_megantic_burning.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lac-M%C3%A9gantic_rail_disaster"
 lastUpdated: "2026-02-26"

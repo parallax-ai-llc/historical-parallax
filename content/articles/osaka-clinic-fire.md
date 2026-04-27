@@ -5,7 +5,7 @@ birth: "2021-12-17"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/2021_Osaka_building_fire_1_20211219.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Osaka_Clinic_Fire"
 lastUpdated: "2026-02-26"

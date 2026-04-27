@@ -5,7 +5,7 @@ birth: "1920-02-07"
 death: "1990-03-24"
 nationality: "Chinese-American"
 occupation: ["Computer engineer", "Inventor", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/An_Wang_in_1979.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_An"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Will Wright"
 birth: "1960-01-20"
 nationality: "American"
 occupation: ["Game Designer", "Programmer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Will_Wright_-_Game_Developers_Conference_2010_%282%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Will_Wright_(game_designer)"
 lastUpdated: "2026-03-12"

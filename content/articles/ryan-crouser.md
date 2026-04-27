@@ -5,7 +5,7 @@ birth: "1992-12-18"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Shot Putter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Ryan_Crouser_2019_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryan_Crouser"
 lastUpdated: "2026-02-26"

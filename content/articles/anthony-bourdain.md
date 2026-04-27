@@ -3,6 +3,7 @@ name: "Anthony Bourdain"
 birth: "1956-06-25"
 nationality: "American"
 occupation: ["Chef", "Author", "TV Personality"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Anthony_Bourdain_Peabody_2014b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anthony_Bourdain"
 lastUpdated: "2026-03-11"

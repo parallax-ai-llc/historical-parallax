@@ -5,7 +5,7 @@ birth: "1831-06-13"
 death: "1879-11-05"
 nationality: "British"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Maxwell%27s_demon.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maxwell's_demon"
 lastUpdated: "2026-02-26"

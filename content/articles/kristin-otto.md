@@ -5,7 +5,7 @@ birth: "1966-02-07"
 death: "Unknown"
 nationality: "German"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kristin_Otto_1986.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kristin_Otto"
 lastUpdated: "2026-02-26"

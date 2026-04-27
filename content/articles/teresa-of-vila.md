@@ -5,7 +5,7 @@ birth: "1515-03-28"
 death: "1582-10-15"
 nationality: "Spanish"
 occupation: ["Nun", "Mystic", "Theologian", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
 lastUpdated: "2026-02-21"

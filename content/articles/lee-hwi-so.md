@@ -5,7 +5,7 @@ birth: "1935-02-01"
 death: "1977-06-01"
 nationality: "Korean-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/160217_%EC%9D%B4%EB%8F%99%ED%9C%98.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Hwi-so"
 lastUpdated: "2026-02-26"

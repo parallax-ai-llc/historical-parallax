@@ -5,7 +5,7 @@ birth: "1947-03-05"
 death: "1996-09-15"
 nationality: "United States"
 occupation: ["Serial Killer", "Arsonist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ottis_Toole.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ottis_Toole"
 lastUpdated: "2026-02-26"

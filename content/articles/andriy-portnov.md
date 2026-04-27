@@ -5,7 +5,7 @@ birth: "1973-09-28"
 death: "Unknown"
 nationality: "Ukraine"
 occupation: ["Controversial Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Andriy_Portnov_politician.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andriy_Portnov"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1950-12-21"
 death: "living"
 nationality: "Chinese-Canadian"
 occupation: ["Geneticist", "Molecular Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Professor_Lap-Chee_Tsui.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lap-Chee_Tsui"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1888-06-16"
 death: "1925-09-16"
 nationality: "Russian"
 occupation: ["Mathematician", "Physicist", "Cosmologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Aleksandr_Fridman.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Friedmann"
 lastUpdated: "2026-02-21"

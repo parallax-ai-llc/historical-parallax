@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "International"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Map_of_the_European_Migrant_Crisis_2015.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mediterranean_Migrant_Crisis"
 lastUpdated: "2026-02-26"

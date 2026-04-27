@@ -5,7 +5,7 @@ birth: "1898-02-03"
 death: "1976-05-11"
 nationality: "Finnish"
 occupation: ["Architect", "Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Alvar_Aalto1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alvar_Aalto"
 lastUpdated: "2026-02-21"

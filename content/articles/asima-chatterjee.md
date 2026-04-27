@@ -5,7 +5,7 @@ birth: "1917-09-23"
 death: "2006-11-22"
 nationality: "Indian"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/7/7d/Asima_Chatterjee_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asima_Chatterjee"
 lastUpdated: "2026-02-21"

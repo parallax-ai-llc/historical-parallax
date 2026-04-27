@@ -5,7 +5,7 @@ birth: "1904-08-29"
 death: "1979-06-01"
 nationality: "German"
 occupation: ["Physician", "Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Werner_Forssmann_nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Werner_Forssmann"
 lastUpdated: "2026-02-21"

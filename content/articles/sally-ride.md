@@ -5,7 +5,7 @@ birth: "1951-05-26"
 death: "2012-07-23"
 nationality: "American"
 occupation: ["Astronaut", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sally_Ride_%281984%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sally_Ride"
 lastUpdated: "2026-02-21"

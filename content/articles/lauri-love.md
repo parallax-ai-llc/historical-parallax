@@ -5,7 +5,7 @@ birth: "1985-02-12"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lauri_Love%2C_2023_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lauri_Love"
 lastUpdated: "2026-02-26"

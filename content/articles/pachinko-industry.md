@@ -5,7 +5,7 @@ birth: "1930-01-01"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Gray Market Industry"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pachinko_machine_5.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pachinko_Industry"
 lastUpdated: "2026-02-26"

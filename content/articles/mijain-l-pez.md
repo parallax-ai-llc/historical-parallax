@@ -5,7 +5,7 @@ birth: "1982-08-20"
 death: "Unknown"
 nationality: "Cuban"
 occupation: ["Athlete", "Olympic Champion", "Wrestler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Mija%C3%ADn_L%C3%B3pez_at_the_2024_Summer_Olympics_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mijain_L%C3%B3pez"
 lastUpdated: "2026-02-21"

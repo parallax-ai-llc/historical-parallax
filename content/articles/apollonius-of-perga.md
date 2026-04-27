@@ -5,7 +5,7 @@ birth: "0262-01-01"
 death: "0190-01-01"
 nationality: "Greek"
 occupation: ["Mathematician", "Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Apollonii_Pergei_Opera_1537_detail.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Apollonius_of_Perga"
 lastUpdated: "2026-02-26"

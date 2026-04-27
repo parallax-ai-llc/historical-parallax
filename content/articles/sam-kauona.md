@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Papua New Guinea"
 occupation: ["Rebel Commander"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bvdistricts.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Kauona"
 lastUpdated: "2026-02-26"

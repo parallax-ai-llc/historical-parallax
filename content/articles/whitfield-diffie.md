@@ -5,7 +5,7 @@ birth: "1944-06-05"
 death: "Unknown"
 nationality: "American"
 occupation: ["Computer Scientist", "Cryptographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Whitfield_Diffie_Royal_Society.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Whitfield_Diffie"
 lastUpdated: "2026-02-26"

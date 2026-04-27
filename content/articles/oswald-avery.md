@@ -5,7 +5,7 @@ birth: "1877-10-21"
 death: "1955-02-20"
 nationality: "Canadian-American"
 occupation: ["Physician", "Molecular Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Oswald_T._Avery_portrait_1937.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oswald_Avery"
 lastUpdated: "2026-02-21"

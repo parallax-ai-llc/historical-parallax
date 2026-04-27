@@ -5,7 +5,7 @@ birth: "1904-02-08"
 death: "1905-09-05"
 nationality: "East Asia"
 occupation: ["Historical Event", "War", "Modern War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/RUSSOJAPANESEWARIMAGE.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russo-Japanese_War"
 lastUpdated: "2026-02-21"

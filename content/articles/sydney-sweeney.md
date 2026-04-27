@@ -3,6 +3,7 @@ name: "Sydney Sweeney"
 birth: "1997-09-12"
 nationality: "American"
 occupation: ["Actress", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_%28cropped%2C_rotated%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sydney_Sweeney"
 lastUpdated: "2026-03-12"

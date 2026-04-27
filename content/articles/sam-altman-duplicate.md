@@ -5,7 +5,7 @@ birth: "1985-04-22"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pete_Hegseth_Official_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Altman_duplicate"
 lastUpdated: "2026-02-26"

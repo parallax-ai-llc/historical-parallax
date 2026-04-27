@@ -5,7 +5,7 @@ birth: "1860-01-01"
 death: "1924-01-01"
 nationality: "Belgium"
 occupation: ["Colonial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/LeonRom.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/L%C3%A9on_Rom"
 lastUpdated: "2026-02-26"

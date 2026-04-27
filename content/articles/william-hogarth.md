@@ -5,7 +5,7 @@ birth: "1697-11-10"
 death: "1764-10-26"
 nationality: "British"
 occupation: ["Painter", "Engraver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_Painter_and_His_Pug_by_William_Hogarth.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Hogarth"
 lastUpdated: "2026-02-21"

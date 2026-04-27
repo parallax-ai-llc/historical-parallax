@@ -5,7 +5,7 @@ birth: "1942-08-07"
 death: "1943-02-09"
 nationality: "Solomon Islands"
 occupation: ["Historical Event", "Battle", "World War II"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Marines_rest_in_the_field_on_Guadalcanal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Guadalcanal"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1950-11-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Russell_Alan_Hulse.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russell_Hulse"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1897-06-13"
 death: "1973-10-02"
 nationality: "Finnish"
 occupation: ["Athlete", "Olympic Champion", "Long-Distance Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paavo_Nurmi"
 lastUpdated: "2026-02-26"

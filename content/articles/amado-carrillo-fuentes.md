@@ -5,7 +5,7 @@ birth: "1956-12-17"
 death: "1997-07-04"
 nationality: "Mexico"
 occupation: ["Drug Lord", "Cartel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e8/Amado_Carrillo_Fuentes.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amado_Carrillo_Fuentes"
 lastUpdated: "2026-02-21"

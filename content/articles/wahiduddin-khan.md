@@ -5,7 +5,7 @@ birth: "1925-01-01"
 death: "2021-04-21"
 nationality: "Indian"
 occupation: ["Scholar", "Author", "Peace Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Maulanawahiduddin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wahiduddin_Khan"
 lastUpdated: "2026-02-21"

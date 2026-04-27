@@ -5,7 +5,7 @@ birth: "1971-08-16"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Wrestler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rulon_Gardner_Athens_2004e.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rulon_Gardner"
 lastUpdated: "2026-02-26"

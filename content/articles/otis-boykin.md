@@ -5,7 +5,7 @@ birth: "1920-08-29"
 death: "1982-03-26"
 nationality: "American"
 occupation: ["Inventor", "Electrical Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Otis_F._Boykin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Otis_Boykin"
 lastUpdated: "2026-02-21"

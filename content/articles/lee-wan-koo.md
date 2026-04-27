@@ -5,7 +5,7 @@ birth: "1950-06-02"
 death: "2015-04-09"
 nationality: "South Korea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/%EC%9D%B4%EC%99%84%EA%B5%AC_%EC%A0%84_%EC%B4%9D%EB%A6%AC.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Wan-koo"
 lastUpdated: "2026-02-26"

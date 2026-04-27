@@ -5,7 +5,7 @@ birth: "1977-09-28"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Golfer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/2009_LPGA_Championship_-_Se-ri_Pak_%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Se-ri"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1962-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Battery scientist", "Materials engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Yunho_in_June_2025.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Jeong-ho"
 lastUpdated: "2026-02-21"

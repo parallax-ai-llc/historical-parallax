@@ -5,7 +5,7 @@ birth: "1884-10-25"
 death: "1958-01-27"
 nationality: "Japanese"
 occupation: ["Geophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Motonori_Matuyama.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Matuyama_Motonori"
 lastUpdated: "2026-02-21"

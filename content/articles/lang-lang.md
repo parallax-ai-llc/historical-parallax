@@ -5,7 +5,7 @@ birth: "1982-06-14"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Pianist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lang_Lang_-_World_Economic_Forum_Annual_Meeting_2010_Davos_cropped_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lang_Lang"
 lastUpdated: "2026-02-21"

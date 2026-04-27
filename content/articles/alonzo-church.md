@@ -5,7 +5,7 @@ birth: "1903-06-14"
 death: "1995-08-11"
 nationality: "American"
 occupation: ["Mathematician", "Logician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a6/Alonzo_Church.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alonzo_Church"
 lastUpdated: "2026-02-21"

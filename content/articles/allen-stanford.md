@@ -5,7 +5,7 @@ birth: "1950-03-24"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Fraudster", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Allen_Stanford_mug_shot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Allen_Stanford"
 lastUpdated: "2026-02-26"

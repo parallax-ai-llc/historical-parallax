@@ -5,7 +5,7 @@ birth: "1992-08-22"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Corruption Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/HK_Truck_Tail_board_of_Transport_Communication_SAGAWA_1_a.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sagawa_Express_Scandal"
 lastUpdated: "2026-02-26"

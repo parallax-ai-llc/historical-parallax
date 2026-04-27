@@ -5,7 +5,7 @@ birth: "1803-01-01"
 death: "1828-08-11"
 nationality: "England"
 occupation: ["Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/RedBarn.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Corder"
 lastUpdated: "2026-02-26"

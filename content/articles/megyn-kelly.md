@@ -3,6 +3,7 @@ name: "Megyn Kelly"
 birth: "1970-11-18"
 nationality: "American"
 occupation: ["Journalist", "Television Host"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Megyn_Kelly_%2854670579634%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Megyn_Kelly"
 lastUpdated: "2026-03-12"

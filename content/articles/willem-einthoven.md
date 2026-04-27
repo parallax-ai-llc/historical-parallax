@@ -5,7 +5,7 @@ birth: "1860-05-21"
 death: "1927-09-29"
 nationality: "Dutch"
 occupation: ["Physician", "Physiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Willem_Einthoven.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Willem_Einthoven"
 lastUpdated: "2026-02-21"

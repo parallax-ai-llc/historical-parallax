@@ -5,7 +5,7 @@ birth: "1871-03-18"
 death: "1871-05-28"
 nationality: "France"
 occupation: ["Historical Event", "Revolution", "Political"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Barricade18March1871_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paris_Commune"
 lastUpdated: "2026-02-21"

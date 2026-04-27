@@ -5,7 +5,7 @@ birth: "1965-12-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Climatologist", "Geophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Michael_Mann_in_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Mann"
 lastUpdated: "2026-02-21"

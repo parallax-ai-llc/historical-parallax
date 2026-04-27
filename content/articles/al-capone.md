@@ -5,7 +5,7 @@ birth: "1899-01-17"
 death: "1947-01-25"
 nationality: "United States / Italy"
 occupation: ["Gangster", "Crime Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Al_Capone_in_1930.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al_Capone"
 lastUpdated: "2026-02-26"

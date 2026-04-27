@@ -5,7 +5,7 @@ birth: "1861-10-04"
 death: "1918-07-25"
 nationality: "American"
 occupation: ["Theologian", "Pastor", "Social Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Walter_Rauschenbusch.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_Rauschenbusch"
 lastUpdated: "2026-02-21"

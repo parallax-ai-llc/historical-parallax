@@ -5,7 +5,7 @@ birth: "1757-11-01"
 death: "1822-10-13"
 nationality: "Italian"
 occupation: ["Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Antonio_Canova_Selfportrait_1792.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antonio_Canova"
 lastUpdated: "2026-02-21"

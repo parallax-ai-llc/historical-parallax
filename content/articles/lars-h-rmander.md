@@ -5,7 +5,7 @@ birth: "1931-01-24"
 death: "2012-11-25"
 nationality: "Swedish"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lars_H%C3%B6rmander.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lars_H%C3%B6rmander"
 lastUpdated: "2026-02-21"

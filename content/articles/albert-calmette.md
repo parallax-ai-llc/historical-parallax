@@ -5,7 +5,7 @@ birth: "1863-07-12"
 death: "1933-10-29"
 nationality: "French"
 occupation: ["Physician", "Bacteriologist", "Immunologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Albert_Calmette_1930.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Albert_Calmette"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1961-12-01"
 death: "Unknown"
 nationality: "Israeli-American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Safra_Catz_Oracle_CloudWorld_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Safra_Catz"
 lastUpdated: "2026-02-21"

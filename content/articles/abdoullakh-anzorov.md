@@ -5,7 +5,7 @@ birth: "2002-03-12"
 death: "2020-10-16"
 nationality: "Russia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/0a/SamuelPaty.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdoullakh_Anzorov"
 lastUpdated: "2026-02-26"

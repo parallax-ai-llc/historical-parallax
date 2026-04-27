@@ -3,6 +3,7 @@ name: "Salt Bae"
 birth: "1983-08-09"
 nationality: "Turkish"
 occupation: ["Chef", "Restaurateur", "Internet Personality"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Salt_Bae.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salt_Bae"
 lastUpdated: "2026-03-11"

@@ -5,7 +5,7 @@ birth: "1976-07-28"
 death: "1976-07-28"
 nationality: "China"
 occupation: ["Historical Event", "Disaster", "Natural Disaster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Tangshan_earthquake.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tangshan_Earthquake_1976"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1947-01-24"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist", "Science Communicator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Michio_Kaku_at_Miami_University_in_2020_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michio_Kaku"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1804-04-05"
 death: "1881-06-23"
 nationality: "German"
 occupation: ["Botanist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/PSM_V22_D156_Matthias_Jacob_Schleiden.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Matthias_Schleiden"
 lastUpdated: "2026-02-21"

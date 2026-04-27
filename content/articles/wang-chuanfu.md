@@ -5,7 +5,7 @@ birth: "1966-02-15"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Wang_Chuanfu_IAA_2023_1X7A0154_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Chuanfu"
 lastUpdated: "2026-02-21"

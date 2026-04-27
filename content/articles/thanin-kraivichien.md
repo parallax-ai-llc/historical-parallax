@@ -5,7 +5,7 @@ birth: "1927-04-23"
 death: "Unknown"
 nationality: "Thailand"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Tanin2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thanin_Kraivichien"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "Paris Hilton"
 birth: "1981-02-17"
 nationality: "American"
 occupation: ["Reality TV Star", "DJ", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Paris_Hilton_at_WWD_Style_Awards_2026_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paris_Hilton"
 lastUpdated: "2026-03-12"

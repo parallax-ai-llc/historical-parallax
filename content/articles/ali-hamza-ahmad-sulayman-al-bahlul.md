@@ -5,7 +5,7 @@ birth: "1970-01-01"
 death: "Unknown"
 nationality: "Yemen"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/ISN_00039%2C_Ali_Hamza_Ismail.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Hamza_Ahmad_Sulayman_al-Bahlul"
 lastUpdated: "2026-02-26"

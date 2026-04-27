@@ -5,7 +5,7 @@ birth: "1988-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Crypto Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tornado_cash_logo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roman_Storm"
 lastUpdated: "2026-02-26"

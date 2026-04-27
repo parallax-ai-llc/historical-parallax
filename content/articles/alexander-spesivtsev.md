@@ -5,7 +5,7 @@ birth: "1970-03-01"
 death: "N/A (Institutionalized)"
 nationality: "Russia"
 occupation: ["Serial Killer", "Cannibal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/1b/Saschaspesiwtsew.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Spesivtsev"
 lastUpdated: "2026-02-26"

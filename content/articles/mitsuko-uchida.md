@@ -5,7 +5,7 @@ birth: "1948-12-20"
 death: "Unknown"
 nationality: "Japanese-British"
 occupation: ["Pianist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/%D7%94%D7%AA%D7%96%D7%9E%D7%95%D7%A8%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99%D7%AA_%D7%9E%D7%90%D7%94%D7%9C%D7%A8_%D7%91%D7%9C%D7%95%D7%A7%D7%A1%D7%9E%D7%91%D7%95%D7%A8%D7%92.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mitsuko_Uchida"
 lastUpdated: "2026-02-21"

@@ -4,6 +4,7 @@ birth: "1949-01-17"
 death: "1984-05-16"
 nationality: "American"
 occupation: ["Comedian", "Actor", "Performance Artist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Andy_Kaufman_1979.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andy_Kaufman"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1896-02-01"
 death: "1956-09-29"
 nationality: "Nicaragua"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Anastasio_Somoza_Garc%C3%ADa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anastasio_Somoza_Garc%C3%ADa"
 lastUpdated: "2026-02-26"

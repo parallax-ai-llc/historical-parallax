@@ -3,6 +3,7 @@ name: "ana"
 birth: "1999-06-29"
 nationality: "Australian"
 occupation: ["Esports Player", "Dota 2 Pro", "Carry"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ana_The_International_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ana_(gamer)"
 lastUpdated: "2026-03-11"

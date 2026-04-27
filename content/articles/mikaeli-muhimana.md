@@ -5,7 +5,7 @@ birth: "1963-01-01"
 death: "2012-06-17"
 nationality: "Rwanda"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nyamata_Memorial_Site_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikaeli_Muhimana"
 lastUpdated: "2026-02-26"

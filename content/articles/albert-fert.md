@@ -5,7 +5,7 @@ birth: "1938-03-07"
 death: "Unknown"
 nationality: "French"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Albert_Fert_large.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Albert_Fert"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1873-01-31"
 death: "1950-06-29"
 nationality: "German"
 occupation: ["Inventor", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Melitta_Bentz.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Melitta_Bentz"
 lastUpdated: "2026-02-21"

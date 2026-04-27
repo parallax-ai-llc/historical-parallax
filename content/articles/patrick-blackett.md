@@ -5,7 +5,7 @@ birth: "1897-11-18"
 death: "1974-07-13"
 nationality: "British"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Blackett.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Blackett"
 lastUpdated: "2026-02-21"

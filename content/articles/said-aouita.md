@@ -5,7 +5,7 @@ birth: "1959-11-02"
 death: "Unknown"
 nationality: "Moroccan"
 occupation: ["Athlete", "Olympic Champion", "Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Said_Aouita.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Said_Aouita"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1880-01-18"
 death: "1933-09-25"
 nationality: "Austrian-Dutch"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Paul_Ehrenfest.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Ehrenfest"
 lastUpdated: "2026-02-21"

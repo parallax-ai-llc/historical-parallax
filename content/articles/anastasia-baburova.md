@@ -5,7 +5,7 @@ birth: "1983-11-30"
 death: "2009-01-19"
 nationality: "Russia"
 occupation: ["Assassination Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/6b/Anastasia_Baburova.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anastasia_Baburova"
 lastUpdated: "2026-02-26"

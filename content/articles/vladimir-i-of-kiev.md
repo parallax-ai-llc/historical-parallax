@@ -5,7 +5,7 @@ birth: "0958-01-01"
 death: "1015-07-15"
 nationality: "Kievan Rus"
 occupation: ["Grand Prince", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Coin_of_Vladimir_the_Great.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladimir_I_of_Kiev"
 lastUpdated: "2026-02-21"

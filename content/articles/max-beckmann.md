@@ -5,7 +5,7 @@ birth: "1884-02-12"
 death: "1950-12-27"
 nationality: "German"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/8a/Max_Beckmann%2C_photograph_by_Hans_M%C3%B6ller%2C1922.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Max_Beckmann"
 lastUpdated: "2026-02-21"

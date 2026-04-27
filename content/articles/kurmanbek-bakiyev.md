@@ -5,7 +5,7 @@ birth: "1949-08-01"
 death: "Unknown"
 nationality: "Kyrgyzstan"
 occupation: ["Dictator", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/President_of_Kyrgyzstan%2C_Kurmanbek_Bakiyev_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kurmanbek_Bakiyev"
 lastUpdated: "2026-02-26"

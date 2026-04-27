@@ -5,7 +5,7 @@ birth: "1100-01-01"
 death: "1165-01-01"
 nationality: "Arab-Sicilian"
 occupation: ["Geographer", "Cartographer", "Botanist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Estatua_de_Al-Idrisi_bajo_el_baluarte_de_los_Mallorquines%2C_Ceuta_%285%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Idrisi"
 lastUpdated: "2026-02-21"

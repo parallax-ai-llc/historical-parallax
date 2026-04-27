@@ -5,7 +5,7 @@ birth: "1857-05-13"
 death: "1932-09-16"
 nationality: "British-Indian"
 occupation: ["Physician", "Parasitologist", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Ronald_Ross.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronald_Ross"
 lastUpdated: "2026-02-21"

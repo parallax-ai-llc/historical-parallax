@@ -5,7 +5,7 @@ birth: "1894-01-08"
 death: "1941-08-14"
 nationality: "Polish"
 occupation: ["Friar", "Priest", "Martyr"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Parroquia_San_Jos%C3%A9_y_Maximiliano_Kolbe%2C_Montevideo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maximiliano_Kolbe"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1942-01-27"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Immunologist", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tasuku_Honjo_201311.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tasuku_Honjo"
 lastUpdated: "2026-02-21"

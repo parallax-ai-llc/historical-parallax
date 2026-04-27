@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Map_of_Ireland%27s_capitals.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/The_Troubles"
 lastUpdated: "2026-02-26"

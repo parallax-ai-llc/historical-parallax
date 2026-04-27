@@ -5,7 +5,7 @@ birth: "1992-02-13"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Medalist", "Taekwondo"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lee_Dae-Hoon_London2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Dae-hoon"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "Paul Krugman"
 birth: "1953-02-28"
 nationality: "American"
 occupation: ["Economist", "Columnist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/P20230814AS-0367_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Krugman"
 lastUpdated: "2026-03-12"

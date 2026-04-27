@@ -5,7 +5,7 @@ birth: "1905-01-22"
 death: "1905-10-30"
 nationality: "Russia"
 occupation: ["Historical Event", "Revolution", "Political"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bloody_Sunday_in_1905_by_Wojciech_Kossak.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russian_Revolution_of_1905"
 lastUpdated: "2026-02-21"

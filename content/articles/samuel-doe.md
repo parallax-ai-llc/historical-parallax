@@ -5,7 +5,7 @@ birth: "1951-05-06"
 death: "1990-09-09"
 nationality: "Liberia"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Samuel_Kanyon_Doe_-_Liberian.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Doe"
 lastUpdated: "2026-02-26"

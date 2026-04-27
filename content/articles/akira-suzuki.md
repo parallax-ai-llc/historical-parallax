@@ -5,7 +5,7 @@ birth: "1930-09-12"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nobel_Prize_2010-Press_Conference_KVA-DSC_7383.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akira_Suzuki"
 lastUpdated: "2026-02-21"

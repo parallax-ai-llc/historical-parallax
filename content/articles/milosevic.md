@@ -5,7 +5,7 @@ birth: "1941-08-20"
 death: "2006-03-11"
 nationality: "Serbia"
 occupation: ["War Criminal", "Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Stevan_Kragujevi%C4%87%2C_Slobodan_Milo%C5%A1evi%C4%87%2C_portret_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milosevic"
 lastUpdated: "2026-02-26"

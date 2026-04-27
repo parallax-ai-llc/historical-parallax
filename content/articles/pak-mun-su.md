@@ -5,7 +5,7 @@ birth: "1691-01-01"
 death: "1756-01-01"
 nationality: "Korean"
 occupation: ["Government official", "Investigator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Emblem_of_North_Korea.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pak_Mun-su"
 lastUpdated: "2026-02-21"

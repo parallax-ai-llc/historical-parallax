@@ -5,7 +5,7 @@ birth: "0801-01-01"
 death: "0873-01-01"
 nationality: "Arab-Iraqi"
 occupation: ["Philosopher", "Mathematician", "Physician", "Polymath"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stamp_IQ_1962_6f.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Kindi"
 lastUpdated: "2026-02-21"

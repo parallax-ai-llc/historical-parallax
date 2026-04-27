@@ -5,7 +5,7 @@ birth: "1975-04-14"
 death: "Unknown"
 nationality: "Brazilian"
 occupation: ["Athlete", "MMA Fighter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Anderson_Silva.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anderson_Silva"
 lastUpdated: "2026-02-26"

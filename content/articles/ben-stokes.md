@@ -5,7 +5,7 @@ birth: "1991-06-04"
 death: "Unknown"
 nationality: "English/New Zealander"
 occupation: ["Athlete", "Cricket Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/3_14_Captain_Ben_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ben_Stokes"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1982-02-27"
 death: "2015-01-09"
 nationality: "France"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/6f/Amedy_Coulibaly.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amedy_Coulibaly"
 lastUpdated: "2026-02-26"

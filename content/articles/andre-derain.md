@@ -5,7 +5,7 @@ birth: "1880-06-10"
 death: "1954-09-08"
 nationality: "French"
 occupation: ["Painter", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Andr%C3%A9_Derain%2C_circa_1903.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andre_Derain"
 lastUpdated: "2026-02-21"

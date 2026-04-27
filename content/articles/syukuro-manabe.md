@@ -5,7 +5,7 @@ birth: "1931-09-21"
 death: "Unknown"
 nationality: "Japanese-American"
 occupation: ["Meteorologist", "Climatologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Crafoord_Prize_EM1B0732_%2842329290061%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Syukuro_Manabe"
 lastUpdated: "2026-02-21"

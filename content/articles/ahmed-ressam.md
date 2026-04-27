@@ -5,7 +5,7 @@ birth: "1967-05-19"
 death: "Unknown"
 nationality: "Algeria"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Ahmed_Ressam.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmed_Ressam"
 lastUpdated: "2026-02-26"

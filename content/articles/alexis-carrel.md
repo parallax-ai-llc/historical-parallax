@@ -5,7 +5,7 @@ birth: "1873-06-28"
 death: "1944-11-05"
 nationality: "French"
 occupation: ["Surgeon", "Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alexis_Carrel_02.jpg/3840px-Alexis_Carrel_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexis_Carrel"
 lastUpdated: "2026-02-21"

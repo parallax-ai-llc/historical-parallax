@@ -5,7 +5,7 @@ birth: "1946-08-29"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Long Jumper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/1992_Bob_Beamon.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bob_Beamon"
 lastUpdated: "2026-02-26"

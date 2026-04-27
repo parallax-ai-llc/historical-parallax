@@ -5,7 +5,7 @@ birth: "1997-11-02"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Tennis Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Kwon_RG22_%2821%29_%2852144070731%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kwon_Soon-woo"
 lastUpdated: "2026-02-26"

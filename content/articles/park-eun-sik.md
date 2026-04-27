@@ -5,7 +5,7 @@ birth: "1859-09-30"
 death: "1925-11-01"
 nationality: "Korean"
 occupation: ["Historian", "Independence leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/%EB%B0%95%EC%9D%80%EC%8B%9D.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Eun-sik"
 lastUpdated: "2026-02-21"

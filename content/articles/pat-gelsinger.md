@@ -5,7 +5,7 @@ birth: "1961-04-05"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Pat_Gelsinger_December_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pat_Gelsinger"
 lastUpdated: "2026-02-21"

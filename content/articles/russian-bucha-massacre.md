@@ -5,7 +5,7 @@ birth: "2022-02-27"
 death: "Unknown"
 nationality: "Ukraine"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/The_city_of_Bucha_after_liberation_from_the_Russians_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russian_Bucha_Massacre"
 lastUpdated: "2026-02-26"

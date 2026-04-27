@@ -5,7 +5,7 @@ birth: "1957-02-28"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ana_Montes.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ana_Montes"
 lastUpdated: "2026-02-26"

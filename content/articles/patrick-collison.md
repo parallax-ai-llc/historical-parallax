@@ -5,7 +5,7 @@ birth: "1988-09-09"
 death: "Unknown"
 nationality: "Irish"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Patrick_Collison_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Collison"
 lastUpdated: "2026-02-21"

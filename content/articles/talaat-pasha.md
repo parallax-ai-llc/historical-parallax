@@ -5,7 +5,7 @@ birth: "1874-09-01"
 death: "1921-03-15"
 nationality: "Ottoman Empire"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mehmed_talat.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Talaat_Pasha"
 lastUpdated: "2026-02-26"

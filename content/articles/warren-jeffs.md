@@ -5,7 +5,7 @@ birth: "1955-12-03"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Cult Leader", "Child Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Warren_Steed_Jeffs_%28FBI%29.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Warren_Jeffs"
 lastUpdated: "2026-02-26"

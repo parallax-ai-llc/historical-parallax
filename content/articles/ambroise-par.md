@@ -5,7 +5,7 @@ birth: "1510-01-01"
 death: "1590-12-20"
 nationality: "French"
 occupation: ["Surgeon", "Anatomist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ambroise_Par%C3%A9.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ambroise_Par%C3%A9"
 lastUpdated: "2026-02-21"

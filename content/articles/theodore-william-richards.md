@@ -5,7 +5,7 @@ birth: "1868-01-31"
 death: "1928-04-02"
 nationality: "American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Theodore_william_richards.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theodore_William_Richards"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1840-01-01"
 death: "1884-12-02"
 nationality: "Tanzania"
 occupation: ["Warlord", "Slave Trader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Map_of_Unyamwezi_c_1880s.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mirambo"
 lastUpdated: "2026-02-26"

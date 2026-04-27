@@ -5,7 +5,7 @@ birth: "1963-01-01"
 death: "Unknown"
 nationality: "Pakistan"
 occupation: ["Terrorist Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Lashkar-e-Jhangvi.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lashkar-e-Jhangvi_Leaders"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1949-05-10"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Entrepreneur", "Fashion Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Miuccia_Prada_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miuccia_Prada"
 lastUpdated: "2026-02-21"

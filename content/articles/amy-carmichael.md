@@ -5,7 +5,7 @@ birth: "1867-12-16"
 death: "1951-01-18"
 nationality: "Irish"
 occupation: ["Missionary", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Amy_Carmichael_with_children2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amy_Carmichael"
 lastUpdated: "2026-02-21"

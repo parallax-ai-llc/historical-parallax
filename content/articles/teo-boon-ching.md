@@ -5,7 +5,7 @@ birth: "1965-01-01"
 death: "Unknown"
 nationality: "Malaysia"
 occupation: ["Wildlife Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Teo_Nie_Ching_%282019%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Teo_Boon_Ching"
 lastUpdated: "2026-02-26"

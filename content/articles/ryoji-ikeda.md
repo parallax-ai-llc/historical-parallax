@@ -3,6 +3,7 @@ name: "Ryoji Ikeda"
 birth: "1966-02-18"
 nationality: "Japanese"
 occupation: ["Electronic Musician", "Visual Artist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Ryoji_Ikeda_-_Spectra.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryoji_Ikeda"
 lastUpdated: "2026-03-12"

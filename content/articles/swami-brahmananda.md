@@ -5,7 +5,7 @@ birth: "1863-01-21"
 death: "1922-04-10"
 nationality: "Indian"
 occupation: ["Monk", "Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Alambazar_Math_1896.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swami_Brahmananda"
 lastUpdated: "2026-02-21"

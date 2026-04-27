@@ -5,7 +5,7 @@ birth: "1978-08-24"
 death: "Unknown"
 nationality: "Thai"
 occupation: ["Entrepreneur", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Thanathorn_Juangroongruangkit_-_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thanathorn_Juangroongruangkit"
 lastUpdated: "2026-02-21"

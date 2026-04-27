@@ -5,7 +5,7 @@ birth: "1887-10-06"
 death: "1965-08-27"
 nationality: "Swiss-French"
 occupation: ["Architect", "Urban Planner", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Le_Corbusier_%281964%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Le_Corbusier"
 lastUpdated: "2026-02-21"

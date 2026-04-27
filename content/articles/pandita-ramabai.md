@@ -5,7 +5,7 @@ birth: "1858-04-23"
 death: "1922-04-05"
 nationality: "Indian"
 occupation: ["Scholar", "Social Reformer", "Missionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Pandita_Ramabai_Sarasvati_1858-1922_front-page-portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pandita_Ramabai"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Krystian Zimerman"
 birth: "1956-12-05"
 nationality: "Polish"
 occupation: ["Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Krystian_Zimerman_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Krystian_Zimerman"
 lastUpdated: "2026-03-12"

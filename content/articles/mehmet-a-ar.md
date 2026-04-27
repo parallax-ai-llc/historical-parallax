@@ -5,7 +5,7 @@ birth: "1951-05-18"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mehmet_Aghar_in_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mehmet_A%C4%9Far"
 lastUpdated: "2026-02-26"

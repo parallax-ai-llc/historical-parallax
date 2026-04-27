@@ -5,7 +5,7 @@ birth: "1952-11-02"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Larry_Fink_with_Valdis_Dombrovskis_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Larry_Fink"
 lastUpdated: "2026-02-21"

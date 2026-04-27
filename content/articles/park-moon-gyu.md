@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Materials scientist", "Nanotechnologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Park_Gyu-young_%EB%B0%95%EA%B7%9C%EC%98%81_in_September_2023.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Moon-gyu"
 lastUpdated: "2026-02-21"

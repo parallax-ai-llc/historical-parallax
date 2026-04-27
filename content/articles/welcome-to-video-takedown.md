@@ -5,7 +5,7 @@ birth: "2019-10-16"
 death: "Unknown"
 nationality: "International"
 occupation: ["Criminal Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Welcome_to_Video.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Welcome_to_Video_Takedown"
 lastUpdated: "2026-02-26"

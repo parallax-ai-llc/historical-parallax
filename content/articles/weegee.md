@@ -4,6 +4,7 @@ birth: "1899-06-12"
 death: "1968-12-26"
 nationality: "American"
 occupation: ["Photographer", "Photojournalist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Weegee_-_Arthur_Fellig_-_1945.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Weegee"
 lastUpdated: "2026-03-12"

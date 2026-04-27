@@ -5,7 +5,7 @@ birth: "1941-06-27"
 death: "1996-03-13"
 nationality: "Polish"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Krzysztof_Kie%C5%9Blowski_Portrait_1994.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Krzysztof_Kieslowski"
 lastUpdated: "2026-02-21"

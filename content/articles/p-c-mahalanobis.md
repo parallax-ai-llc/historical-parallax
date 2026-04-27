@@ -5,7 +5,7 @@ birth: "1893-06-29"
 death: "1972-06-28"
 nationality: "Indian"
 occupation: ["Statistician", "Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Portrait_of_Prasanta_Chandra_Mahalanobis.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/P._C._Mahalanobis"
 lastUpdated: "2026-02-21"

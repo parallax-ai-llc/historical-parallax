@@ -5,7 +5,7 @@ birth: "1813-05-05"
 death: "1855-11-11"
 nationality: "Danish"
 occupation: ["Philosopher", "Theologian", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard"
 lastUpdated: "2026-02-21"

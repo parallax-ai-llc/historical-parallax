@@ -4,6 +4,7 @@ birth: "1927-01-01"
 death: "2007-11-22"
 nationality: "French"
 occupation: ["Dancer", "Choreographer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Maurice_B%C3%A9jart_%281988%29_by_Erling_Mandelmann_-_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maurice_B%C3%A9jart"
 lastUpdated: "2026-03-12"

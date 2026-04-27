@@ -5,7 +5,7 @@ birth: "1938-11-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ted_Turner_at_the_LBJ_Foundation_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ted_Turner"
 lastUpdated: "2026-02-21"

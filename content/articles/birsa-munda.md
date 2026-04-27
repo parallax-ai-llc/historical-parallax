@@ -5,7 +5,7 @@ birth: "1875-11-15"
 death: "1900-06-09"
 nationality: "India"
 occupation: ["Historical Criminal", "Rebel"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Birsa_Munda%2C_photograph_in_Roy_%281912-72%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Birsa_Munda"
 lastUpdated: "2026-02-26"

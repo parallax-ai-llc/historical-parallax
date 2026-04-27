@@ -5,7 +5,7 @@ birth: "1912-01-01"
 death: "2003-01-01"
 nationality: "Japanese"
 occupation: ["Geochemist", "Oceanographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kinki_Proportional_Block.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miyake_Setsuya"
 lastUpdated: "2026-02-21"

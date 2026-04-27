@@ -5,7 +5,7 @@ birth: "1977-10-20"
 death: "Unknown"
 nationality: "Kyrgyzstan"
 occupation: ["Corrupt Oligarch", "Fugitive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Maxim_Bakijev.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maxim_Bakiyev"
 lastUpdated: "2026-02-26"

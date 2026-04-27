@@ -5,7 +5,7 @@ birth: "1928-02-29"
 death: "Unknown"
 nationality: "Hong Kong Chinese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/LEE_Shau_Kee.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Shau-kee"
 lastUpdated: "2026-02-21"

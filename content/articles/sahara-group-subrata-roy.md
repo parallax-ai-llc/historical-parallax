@@ -5,7 +5,7 @@ birth: "1948-06-10"
 death: "2023-11-14"
 nationality: "India"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Subroto_Roy_at_Esha_Deol%27s_wedding_reception_02_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sahara_Group_Subrata_Roy"
 lastUpdated: "2026-02-26"

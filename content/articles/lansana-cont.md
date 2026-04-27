@@ -5,7 +5,7 @@ birth: "1934-01-01"
 death: "2008-12-22"
 nationality: "Guinea"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lansana_Cont%C3%A9_at_White_House_1988.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lansana_Cont%C3%A9"
 lastUpdated: "2026-02-21"

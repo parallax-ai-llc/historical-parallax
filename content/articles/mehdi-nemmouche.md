@@ -5,7 +5,7 @@ birth: "1985-01-17"
 death: "N/A (Imprisoned)"
 nationality: "France"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Bruxelles_rue_des_Minimes_21.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jewish_Museum_of_Belgium_shooting"
 lastUpdated: "2026-02-26"

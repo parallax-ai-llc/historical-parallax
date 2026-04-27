@@ -5,7 +5,7 @@ birth: "1168-01-01"
 death: "1241-01-01"
 nationality: "Korean"
 occupation: ["Scholar", "Writer", "Government official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lee_Bo-young_in_March_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Gyu-bo"
 lastUpdated: "2026-02-21"

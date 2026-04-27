@@ -5,7 +5,7 @@ birth: "1964-01-01"
 death: "Unknown"
 nationality: "Libya"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ahmed_Abu_Khattala_2014_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmed_Abu_Khattala"
 lastUpdated: "2026-02-26"

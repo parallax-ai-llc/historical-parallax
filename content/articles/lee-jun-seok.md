@@ -5,7 +5,7 @@ birth: "1959-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Negligent Captain"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lee_Jun-seok.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Jun-seok"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1941-11-30"
 death: "2010-01-25"
 nationality: "Iraq"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Detail_Ali_Hassan_al-Majid.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Hassan_al-Majid"
 lastUpdated: "2026-02-26"

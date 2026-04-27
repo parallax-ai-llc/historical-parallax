@@ -5,7 +5,7 @@ birth: "1937-01-01"
 death: "1987-04-24"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Pablo_Acosta_Mugshot_1974.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pablo_Acosta_Villarreal"
 lastUpdated: "2026-02-21"

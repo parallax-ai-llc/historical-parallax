@@ -5,7 +5,7 @@ birth: "1955-04-20"
 death: "Unknown"
 nationality: "Swedish"
 occupation: ["Geneticist", "Nobel laureate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Professor_Svante_Paabo_ForMemRS_%28cropped%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Svante_Paabo"
 lastUpdated: "2026-02-21"

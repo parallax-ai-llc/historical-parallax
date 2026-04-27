@@ -5,7 +5,7 @@ birth: "1918-01-24"
 death: "2009-12-15"
 nationality: "American"
 occupation: ["Evangelist", "Religious Leader", "Televangelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Young_Brown%2C_Jack_Moore%2C_William_Branham%2C_Oral_Roberts%2C_Gordon_Lindsay_Kansas_City_1948_%28cropped_-_Oral_Roberts%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oral_Roberts"
 lastUpdated: "2026-02-21"

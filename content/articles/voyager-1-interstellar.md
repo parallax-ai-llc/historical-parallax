@@ -5,7 +5,7 @@ birth: "1977-09-05"
 death: "2012-08-25"
 nationality: "United States"
 occupation: ["Historical Event", "Discovery", "Space"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_Sounds_of_Earth_-_GPN-2000-001976.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Voyager_1_Interstellar"
 lastUpdated: "2026-02-21"

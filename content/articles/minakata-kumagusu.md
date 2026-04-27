@@ -5,7 +5,7 @@ birth: "1867-04-22"
 death: "1941-12-29"
 nationality: "Japanese"
 occupation: ["Naturalist", "Ethnologist", "Mycologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Minakata_Kumagusu.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Minakata_Kumagusu"
 lastUpdated: "2026-02-21"

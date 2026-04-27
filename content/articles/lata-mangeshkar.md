@@ -3,6 +3,7 @@ name: "Lata Mangeshkar"
 birth: "1929-09-28"
 nationality: "Indian"
 occupation: ["Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lata-Mangeshkar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lata_Mangeshkar"
 lastUpdated: "2026-03-12"

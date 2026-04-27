@@ -5,7 +5,7 @@ birth: "1959-04-26"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Akhmed_Zakayev_%282018%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akhmed_Zakayev"
 lastUpdated: "2026-02-26"

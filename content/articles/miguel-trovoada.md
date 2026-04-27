@@ -5,7 +5,7 @@ birth: "1936-07-17"
 death: "Unknown"
 nationality: "São Tomé and Príncipe"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Miguel_Trovoada_in_1995.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miguel_Trovoada"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "AJ Styles"
 birth: "1977-06-02"
 nationality: "American"
 occupation: ["Professional Wrestler"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/AJ_Styles_RR24_%281%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/AJ_Styles"
 lastUpdated: "2026-03-12"

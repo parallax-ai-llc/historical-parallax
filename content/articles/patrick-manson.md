@@ -5,7 +5,7 @@ birth: "1844-10-03"
 death: "1922-04-09"
 nationality: "Scottish"
 occupation: ["Physician", "Parasitologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Patrick_Manson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Manson"
 lastUpdated: "2026-02-21"

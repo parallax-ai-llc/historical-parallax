@@ -5,7 +5,7 @@ birth: "1944-12-16"
 death: "1945-01-25"
 nationality: "Europe"
 occupation: ["Historical Event", "Battle", "World War II"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/117th_Infantry_North_Carolina_NG_at_St._Vith_1945.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_the_Bulge"
 lastUpdated: "2026-02-21"

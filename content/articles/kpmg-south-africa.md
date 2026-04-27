@@ -5,7 +5,7 @@ birth: "2017-09-15"
 death: "Unknown"
 nationality: "South Africa"
 occupation: ["Corporate Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/KPMG_blue_logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/KPMG_South_Africa"
 lastUpdated: "2026-02-26"

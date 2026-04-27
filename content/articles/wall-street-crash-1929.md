@@ -5,7 +5,7 @@ birth: "1929-10-24"
 death: "1929-10-29"
 nationality: "United States"
 occupation: ["Historical Event", "Economic Crisis", "Financial"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wall_Street_Crash_1929"
 lastUpdated: "2026-02-21"

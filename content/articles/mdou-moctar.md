@@ -5,7 +5,7 @@ birth: "1986-01-01"
 death: "Unknown"
 nationality: "Nigerien"
 occupation: ["Guitarist", "Singer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mdou_Moctar_%2815609545012%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mdou_Moctar"
 lastUpdated: "2026-02-21"

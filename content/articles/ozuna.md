@@ -3,6 +3,7 @@ name: "Ozuna"
 birth: "1992-03-13"
 nationality: "Puerto Rican"
 occupation: ["Musician", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ozuna-2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ozuna_(singer)"
 lastUpdated: "2026-03-12"

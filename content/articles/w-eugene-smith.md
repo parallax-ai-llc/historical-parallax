@@ -4,6 +4,7 @@ birth: "1918-12-30"
 death: "1978-10-15"
 nationality: "American"
 occupation: ["Photographer", "Photojournalist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Consuelo_Kanaga_%28American%2C_1894-1978%29._W._Eugene_Smith_and_Aileen%2C_1974_%28borderless%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/W._Eugene_Smith"
 lastUpdated: "2026-03-12"

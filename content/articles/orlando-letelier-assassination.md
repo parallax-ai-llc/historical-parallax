@@ -5,7 +5,7 @@ birth: "1932-04-13"
 death: "1976-09-21"
 nationality: "Chile"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Orlando_Letelier%2C_Washingron_DC%2C_1976_%28de_Marcelo_Montecino%29_%284x5_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Orlando_Letelier_assassination"
 lastUpdated: "2026-02-26"

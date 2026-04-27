@@ -5,7 +5,7 @@ birth: "1959-02-09"
 death: "Unknown"
 nationality: "Gabon"
 occupation: ["Dictator", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/President_Bongo_Ondimba_%2852054341321%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Bongo_Ondimba"
 lastUpdated: "2026-02-26"

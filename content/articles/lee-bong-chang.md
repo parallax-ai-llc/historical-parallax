@@ -5,7 +5,7 @@ birth: "1900-08-10"
 death: "1932-10-10"
 nationality: "Korean"
 occupation: ["Independence activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/%EC%9D%B4%EB%B4%89%EC%B0%BD.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Bong-chang"
 lastUpdated: "2026-02-21"

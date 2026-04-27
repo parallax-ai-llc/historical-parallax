@@ -5,7 +5,7 @@ birth: "1882-01-21"
 death: "1937-12-08"
 nationality: "Russian"
 occupation: ["Priest", "Philosopher", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Pavel_Florensky.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pavel_Florensky"
 lastUpdated: "2026-02-21"

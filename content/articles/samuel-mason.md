@@ -5,7 +5,7 @@ birth: "1739-01-01"
 death: "1803-07-01"
 nationality: "United States"
 occupation: ["Pirate", "Highway Robber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/5d/Samuel_Mason_Spawn_Of_Evil_Inside_Book_Cover_Illustrations.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Mason"
 lastUpdated: "2026-02-26"

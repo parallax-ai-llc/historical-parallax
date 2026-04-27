@@ -5,7 +5,7 @@ birth: "1971-09-18"
 death: "Unknown"
 nationality: "Russian-Austrian"
 occupation: ["Soprano", "Opera Singer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Anna_Netrebko_-_Romy_2013_a.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anna_Netrebko"
 lastUpdated: "2026-02-21"

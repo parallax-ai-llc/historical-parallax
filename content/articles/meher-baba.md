@@ -5,7 +5,7 @@ birth: "1894-02-25"
 death: "1969-01-31"
 nationality: "Indian"
 occupation: ["Spiritual Master", "Mystic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Meher_Baba_1945.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meher_Baba"
 lastUpdated: "2026-02-21"

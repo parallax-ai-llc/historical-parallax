@@ -5,7 +5,7 @@ birth: "1953-01-23"
 death: "Unknown"
 nationality: "Ukraine"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/%D0%9D%D0%94%D0%A3_3_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE_%D0%86%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pavlo_Lazarenko"
 lastUpdated: "2026-02-26"

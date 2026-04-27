@@ -5,7 +5,7 @@ birth: "1852-09-23"
 death: "1922-09-07"
 nationality: "American"
 occupation: ["Surgeon", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/William_Stewart_Halsted.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Halsted"
 lastUpdated: "2026-02-26"

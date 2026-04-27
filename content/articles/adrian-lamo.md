@@ -5,7 +5,7 @@ birth: "1981-02-20"
 death: "2018-03-14"
 nationality: "United States"
 occupation: ["Hacker", "Informant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Adrian_Lamo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adrian_Lamo"
 lastUpdated: "2026-02-26"

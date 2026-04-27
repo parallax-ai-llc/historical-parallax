@@ -5,7 +5,7 @@ birth: "1963-01-04"
 death: "Unknown"
 nationality: "Norwegian"
 occupation: ["Neuroscientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/May-Britt_Moser_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/May-Britt_Moser"
 lastUpdated: "2026-02-26"

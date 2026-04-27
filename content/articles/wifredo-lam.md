@@ -5,7 +5,7 @@ birth: "1902-12-08"
 death: "1982-09-11"
 nationality: "Cuban"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Wilfredo_Lam.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wifredo_Lam"
 lastUpdated: "2026-02-21"

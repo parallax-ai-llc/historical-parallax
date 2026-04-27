@@ -5,7 +5,7 @@ birth: "1930-11-11"
 death: "2017-02-20"
 nationality: "American"
 occupation: ["Physicist", "Electrical Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Barack_Obama_greets_Burton_Richter_and_Mildred_Dresselhaus_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mildred_Dresselhaus"
 lastUpdated: "2026-02-21"

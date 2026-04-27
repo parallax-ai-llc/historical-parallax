@@ -5,7 +5,7 @@ birth: "1496-01-01"
 death: "1561-01-31"
 nationality: "Dutch"
 occupation: ["Pastor", "Reformer", "Religious Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/MennoSimons.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Menno_Simons"
 lastUpdated: "2026-02-21"

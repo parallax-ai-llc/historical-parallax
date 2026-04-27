@@ -5,7 +5,7 @@ birth: "1877-04-24"
 death: "1878-03-03"
 nationality: "Ottoman Empire"
 occupation: ["Historical Event", "War", "Modern War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/MixCollage-15-Jan-2024-08-56-PM-4371.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russo-Turkish_War_1877"
 lastUpdated: "2026-02-21"

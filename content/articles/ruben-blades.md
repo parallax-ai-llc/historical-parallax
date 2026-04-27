@@ -3,6 +3,7 @@ name: "Rubén Blades"
 birth: "1948-07-16"
 nationality: "Panamanian"
 occupation: ["Singer", "Songwriter", "Actor", "Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Ruben_Blades_%2848403756251%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rub%C3%A9n_Blades"
 lastUpdated: "2026-03-12"

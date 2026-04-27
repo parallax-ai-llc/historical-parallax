@@ -5,7 +5,7 @@ birth: "2016-07-26"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Tsukui_Yamayuri_En_2021-11-11.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sagamihara_Stabbings"
 lastUpdated: "2026-02-26"

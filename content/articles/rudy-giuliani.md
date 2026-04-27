@@ -5,7 +5,7 @@ birth: "1944-05-28"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Disbarred Lawyer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rudy_Giuliani_%2849279859833%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudy_Giuliani"
 lastUpdated: "2026-02-26"

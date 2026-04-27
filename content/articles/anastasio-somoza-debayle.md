@@ -5,7 +5,7 @@ birth: "1925-12-05"
 death: "1980-09-17"
 nationality: "Nicaragua"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/1975_Press_Photo_Nicaragua_President_Anastasio_Somoza_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anastasio_Somoza_Debayle"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "2017-08-25"
 death: "Unknown"
 nationality: "Bangladesh"
 occupation: ["Ongoing Crisis"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rohingya_Refugee_Crisis"
 lastUpdated: "2026-02-26"

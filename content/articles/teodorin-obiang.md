@@ -5,7 +5,7 @@ birth: "1969-06-25"
 death: "Unknown"
 nationality: "Equatorial Guinea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Teodoro_Nguema_Obiang_Mangue_20250718_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Teodorin_Obiang"
 lastUpdated: "2026-02-26"

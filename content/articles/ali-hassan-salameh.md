@@ -5,7 +5,7 @@ birth: "1940-01-01"
 death: "1979-01-22"
 nationality: "Palestine"
 occupation: ["Terrorist", "Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a0/AliHassanSalameh.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Hassan_Salameh"
 lastUpdated: "2026-02-26"

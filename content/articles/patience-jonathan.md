@@ -5,7 +5,7 @@ birth: "1957-10-25"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Patience_Jonathan_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patience_Jonathan"
 lastUpdated: "2026-02-26"

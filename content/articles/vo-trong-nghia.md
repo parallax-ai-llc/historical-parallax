@@ -5,7 +5,7 @@ birth: "1976-01-01"
 death: "Unknown"
 nationality: "Vietnamese"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vo_Trong_Nghia_20141210_Braunschweig_768p.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vo_Trong_Nghia"
 lastUpdated: "2026-02-21"

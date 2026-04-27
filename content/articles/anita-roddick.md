@@ -5,7 +5,7 @@ birth: "1942-10-23"
 death: "2007-09-10"
 nationality: "British"
 occupation: ["Entrepreneur", "Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/c4/Anita_Roddick.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anita_Roddick"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "0040-01-01"
 death: "0090-01-01"
 nationality: "Roman-Greek"
 occupation: ["Physician", "Pharmacologist", "Botanist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Dioscorides_Vienna_%28detail%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedanius_Dioscorides"
 lastUpdated: "2026-02-26"

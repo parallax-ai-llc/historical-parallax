@@ -5,7 +5,7 @@ birth: "1927-01-01"
 death: "1978-03-28"
 nationality: "Palestine"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wadie_Addad2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wadie_Haddad"
 lastUpdated: "2026-02-21"

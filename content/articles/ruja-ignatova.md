@@ -5,7 +5,7 @@ birth: "1980-05-30"
 death: "Unknown"
 nationality: "Bulgaria"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ruja_Ignatova_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ruja_Ignatova"
 lastUpdated: "2026-02-26"

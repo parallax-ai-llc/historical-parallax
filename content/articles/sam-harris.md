@@ -3,6 +3,7 @@ name: "Sam Harris"
 birth: "1967-04-09"
 nationality: "American"
 occupation: ["Author", "Neuroscientist", "Podcaster"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Sam_Harris_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Harris"
 lastUpdated: "2026-03-12"

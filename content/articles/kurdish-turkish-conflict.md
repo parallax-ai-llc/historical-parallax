@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Sabiha_Gokcen_and_her_colleagues_in_front_of_Breguet_19.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kurdish-Turkish_Conflict"
 lastUpdated: "2026-02-26"

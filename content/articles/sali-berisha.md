@@ -5,7 +5,7 @@ birth: "1944-10-15"
 death: "Unknown"
 nationality: "Albania"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Sali_Berisha_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sali_Berisha"
 lastUpdated: "2026-02-26"

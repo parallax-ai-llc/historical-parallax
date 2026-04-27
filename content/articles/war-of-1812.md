@@ -5,7 +5,7 @@ birth: "1812-06-18"
 death: "1815-02-17"
 nationality: "North America"
 occupation: ["Historical Event", "War", "Modern War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/War_of_1812_Montage.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/War_of_1812"
 lastUpdated: "2026-02-21"

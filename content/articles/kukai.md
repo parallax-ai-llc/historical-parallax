@@ -5,7 +5,7 @@ birth: "0774-07-27"
 death: "0835-04-22"
 nationality: "Japanese"
 occupation: ["Monk", "Scholar", "Calligrapher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Eight_Patriarchs_of_the_Shingon_Sect_of_Buddhism_Kukai_Cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kukai"
 lastUpdated: "2026-02-21"

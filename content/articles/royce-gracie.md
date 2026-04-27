@@ -5,7 +5,7 @@ birth: "1966-12-12"
 death: "Unknown"
 nationality: "Brazilian"
 occupation: ["Athlete", "MMA Fighter", "Martial Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Royce_Gracie_Photo_Pose_4975753_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Royce_Gracie"
 lastUpdated: "2026-02-26"

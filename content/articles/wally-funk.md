@@ -5,7 +5,7 @@ birth: "1939-02-01"
 death: "living"
 nationality: "American"
 occupation: ["Aviator", "Astronaut"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Wally_Funk_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wally_Funk"
 lastUpdated: "2026-02-21"

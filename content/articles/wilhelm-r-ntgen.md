@@ -5,7 +5,7 @@ birth: "1845-03-27"
 death: "1923-02-10"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen"
 lastUpdated: "2026-02-21"

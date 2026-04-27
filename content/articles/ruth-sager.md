@@ -5,7 +5,7 @@ birth: "1918-02-07"
 death: "1997-03-29"
 nationality: "American"
 occupation: ["Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Ruth_Sager_yearbook.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ruth_Sager"
 lastUpdated: "2026-02-21"

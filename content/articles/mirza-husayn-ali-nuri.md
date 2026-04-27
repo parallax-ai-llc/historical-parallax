@@ -5,7 +5,7 @@ birth: "1817-11-12"
 death: "1892-05-29"
 nationality: "Persian"
 occupation: ["Religious Founder", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bah%C3%A1%27u%27ll%C3%A1h_%28M%C3%ADrz%C3%A1_%E1%B8%A4usayn-%60Al%C3%AD_N%C3%BAr%C3%AD%29_in_1868.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mirza_Husayn_Ali_Nuri"
 lastUpdated: "2026-02-21"

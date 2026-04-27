@@ -5,7 +5,7 @@ birth: "1957-03-14"
 death: "Unknown"
 nationality: "Bosnia and Herzegovina"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Vujadin_Popovi%C4%87.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vujadin_Popovic"
 lastUpdated: "2026-02-21"

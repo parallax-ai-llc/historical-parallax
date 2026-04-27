@@ -5,7 +5,7 @@ birth: "1954-01-01"
 death: "Unknown"
 nationality: "Sudan"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/1b/Ali_Kushayb.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Kushayb"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1892-11-16"
 death: "1978-06-12"
 nationality: "Chinese"
 occupation: ["Historian", "Archaeologist", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Guo_Moruo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kuo_Moruo"
 lastUpdated: "2026-02-21"

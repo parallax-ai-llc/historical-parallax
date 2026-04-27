@@ -5,7 +5,7 @@ birth: "1949-01-01"
 death: "N/A"
 nationality: "American"
 occupation: ["Monk", "Scholar", "Translator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ajaan_Goeff_Dhamma_Talk_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thanissaro_Bhikkhu"
 lastUpdated: "2026-02-21"

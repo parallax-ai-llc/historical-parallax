@@ -5,7 +5,7 @@ birth: "1960-09-21"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Sculptor", "Installation Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Museum_Boijmans_Van_Beuningen_2009-02-15_-_interior_-_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maurizio_Cattelan"
 lastUpdated: "2026-02-21"

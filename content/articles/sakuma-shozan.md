@@ -5,7 +5,7 @@ birth: "1811-03-22"
 death: "1864-08-12"
 nationality: "Japanese"
 occupation: ["Scholar", "Technologist", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/SakumaShozan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sakuma_Shozan"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1986-07-13"
 death: "2015-12-02"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Syed_Rizwan_Farook.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tashfeen_Malik"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1954-07-25"
 death: "1999-11-01"
 nationality: "American"
 occupation: ["Athlete", "American Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/1986_Jeno%27s_Pizza_-_12_-_Walter_Payton_%28Walter_Payton_crop%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_Payton"
 lastUpdated: "2026-02-21"

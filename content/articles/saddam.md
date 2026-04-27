@@ -5,7 +5,7 @@ birth: "1937-04-28"
 death: "2006-12-30"
 nationality: "Iraq"
 occupation: ["Dictator", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Saddam_Hussein_1979.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saddam"
 lastUpdated: "2026-02-26"

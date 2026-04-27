@@ -5,7 +5,7 @@ birth: "1939-10-18"
 death: "1963-11-24"
 nationality: "United States"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lee_Harvey_Oswald_1963.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald"
 lastUpdated: "2026-02-21"

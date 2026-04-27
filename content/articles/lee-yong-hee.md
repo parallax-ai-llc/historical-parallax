@@ -5,7 +5,7 @@ birth: "1963-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Nanotechnologist", "Graphene researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lee_Kun-Hee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Yong-hee"
 lastUpdated: "2026-02-21"

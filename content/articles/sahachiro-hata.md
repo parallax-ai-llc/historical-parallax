@@ -5,7 +5,7 @@ birth: "1873-03-23"
 death: "1938-11-22"
 nationality: "Japanese"
 occupation: ["Bacteriologist", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sahachiro_Hata.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sahachiro_Hata"
 lastUpdated: "2026-02-21"

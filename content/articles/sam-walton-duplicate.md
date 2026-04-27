@@ -5,7 +5,7 @@ birth: "1918-03-29"
 death: "1992-04-05"
 nationality: "American"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Travis_Walton_2019_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Walton_duplicate"
 lastUpdated: "2026-02-26"

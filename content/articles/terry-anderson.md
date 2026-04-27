@@ -5,7 +5,7 @@ birth: "1947-10-27"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Kidnapping Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Terry_Anderson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terry_Anderson"
 lastUpdated: "2026-02-26"

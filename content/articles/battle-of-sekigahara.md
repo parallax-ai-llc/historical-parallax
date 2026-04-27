@@ -5,7 +5,7 @@ birth: "1600-10-21"
 death: "1600-10-21"
 nationality: "Japan"
 occupation: ["Historical Event", "Battle", "Japanese History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sekigaharascreen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Sekigahara"
 lastUpdated: "2026-02-21"

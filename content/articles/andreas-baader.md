@@ -5,7 +5,7 @@ birth: "1943-05-06"
 death: "1977-10-18"
 nationality: "Germany"
 occupation: ["Terrorist", "Revolutionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/6c/Andreas_Baader.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andreas_Baader"
 lastUpdated: "2026-02-26"

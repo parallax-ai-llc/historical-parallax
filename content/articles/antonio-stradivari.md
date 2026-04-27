@@ -5,7 +5,7 @@ birth: "1644-01-01"
 death: "1737-12-18"
 nationality: "Italian"
 occupation: ["Luthier", "Instrument Maker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Copy_of_portrait_possibly_depicting_Antonio_Stradivari_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antonio_Stradivari"
 lastUpdated: "2026-02-21"

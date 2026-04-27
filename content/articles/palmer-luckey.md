@@ -5,7 +5,7 @@ birth: "1992-09-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/CES_2026_-_Palmer_Luckey_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Palmer_Luckey"
 lastUpdated: "2026-02-21"

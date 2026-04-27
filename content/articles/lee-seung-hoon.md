@@ -5,7 +5,7 @@ birth: "1988-03-06"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/180819_%EC%9D%B4%EC%8A%B9%ED%9B%88_EVERYWHERE_TOUR_IN_SEOUL_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Seung-hoon"
 lastUpdated: "2026-02-26"

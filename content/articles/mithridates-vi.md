@@ -5,7 +5,7 @@ birth: "-134-01-01"
 death: "-63-01-01"
 nationality: "Pontus"
 occupation: ["Mass Murderer", "Tyrant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mithridates_VI"
 lastUpdated: "2026-02-26"

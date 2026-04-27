@@ -5,7 +5,7 @@ birth: "0555-01-01"
 death: "0500-01-01"
 nationality: "Greek"
 occupation: ["Athlete", "Wrestler", "Ancient Olympic Champion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Suv%C3%A9e%2C_Joseph-Benoit_-_Milo_of_Croton.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milo_of_Croton"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1954-12-02"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Sambo_Dasuki%2C_National_Security_Adviser_to_President_Goodluck_Jonathan%2C_Nigeria_%2816160741168%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sambo_Dasuki"
 lastUpdated: "2026-02-26"

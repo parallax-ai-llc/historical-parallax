@@ -5,7 +5,7 @@ birth: "1848-05-23"
 death: "1896-08-10"
 nationality: "German"
 occupation: ["Aviation Pioneer", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Otto-lilienthal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Otto_Lilienthal"
 lastUpdated: "2026-02-21"

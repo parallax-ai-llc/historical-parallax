@@ -3,6 +3,7 @@ name: "Akira Toriyama"
 birth: "1955-04-05"
 nationality: "Japanese"
 occupation: ["Manga Artist", "Character Designer"]
+image: "https://upload.wikimedia.org/wikipedia/en/1/15/Akira_Toriyama_in_1982.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akira_Toriyama"
 lastUpdated: "2026-03-12"

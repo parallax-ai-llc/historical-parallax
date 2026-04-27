@@ -5,7 +5,7 @@ birth: "1929-08-08"
 death: "2013-12-18"
 nationality: "United Kingdom"
 occupation: ["Bank Robber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Ronnie_Biggs_Buckingham_Constabulary_mugshot_1960s.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronnie_Biggs"
 lastUpdated: "2026-02-21"

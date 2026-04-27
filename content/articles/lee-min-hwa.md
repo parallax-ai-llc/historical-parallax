@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Entrepreneur", "Technology commercialization expert"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/LEEDUKHWA3_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Min-hwa"
 lastUpdated: "2026-02-21"

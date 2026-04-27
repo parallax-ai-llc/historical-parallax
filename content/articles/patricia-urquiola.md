@@ -5,7 +5,7 @@ birth: "1961-01-09"
 death: "Unknown"
 nationality: "Spanish-Italian"
 occupation: ["Designer", "Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/PATRICIA_URQUIOLA_05_040_%28cropped%29.tif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patricia_Urquiola"
 lastUpdated: "2026-02-21"

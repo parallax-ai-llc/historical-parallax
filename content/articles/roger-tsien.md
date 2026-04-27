@@ -5,7 +5,7 @@ birth: "1952-02-01"
 death: "2016-08-24"
 nationality: "American"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Roger_Tsien-press_conference_Dec_07th%2C_2008-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roger_Tsien"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1248-01-01"
 death: "1309-01-04"
 nationality: "Italian"
 occupation: ["Mystic", "Franciscan Tertiary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Angela_of_Foligno_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Angela_of_Foligno"
 lastUpdated: "2026-02-21"

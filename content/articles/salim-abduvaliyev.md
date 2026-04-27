@@ -5,7 +5,7 @@ birth: "1956-01-01"
 death: "Unknown"
 nationality: "Uzbekistan"
 occupation: ["Crime Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Salim_Abduvaliev.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salim_Abduvaliyev"
 lastUpdated: "2026-02-26"

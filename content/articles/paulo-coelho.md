@@ -5,7 +5,7 @@ birth: "1947-08-24"
 death: "N/A"
 nationality: "Brazilian"
 occupation: ["Author", "Spiritual Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Paulo_Coelho%2C_June_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paulo_Coelho"
 lastUpdated: "2026-02-21"

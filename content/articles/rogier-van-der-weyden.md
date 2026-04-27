@@ -5,7 +5,7 @@ birth: "1400-01-01"
 death: "1464-06-18"
 nationality: "Flemish"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Rogier_Lamp_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rogier_van_der_Weyden"
 lastUpdated: "2026-02-21"

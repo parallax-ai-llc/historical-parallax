@@ -5,7 +5,7 @@ birth: "1979-01-19"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Athlete", "Olympic Champion", "Gymnast"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Svetlana_Khorkina_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Svetlana_Khorkina"
 lastUpdated: "2026-02-26"

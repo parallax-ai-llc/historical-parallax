@@ -5,7 +5,7 @@ birth: "1960-06-11"
 death: "Unknown"
 nationality: "Belgian"
 occupation: ["Dancer", "Choreographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anne_Teresa_De_Keersmaeker_2016.jpg/3840px-Anne_Teresa_De_Keersmaeker_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anne_Teresa_De_Keersmaeker"
 lastUpdated: "2026-02-21"

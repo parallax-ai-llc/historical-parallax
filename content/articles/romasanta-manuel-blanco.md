@@ -5,7 +5,7 @@ birth: "1809-11-18"
 death: "1863-12-14"
 nationality: "Spain"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Manuel_Blanco_Romasanta.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Romasanta_Manuel_Blanco"
 lastUpdated: "2026-02-26"

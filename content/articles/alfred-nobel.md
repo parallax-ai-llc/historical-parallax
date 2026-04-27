@@ -5,7 +5,7 @@ birth: "1833-10-21"
 death: "1896-12-10"
 nationality: "Swedish"
 occupation: ["Chemist", "Engineer", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Alfred_Nobel3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfred_Nobel"
 lastUpdated: "2026-02-21"

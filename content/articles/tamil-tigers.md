@@ -5,7 +5,7 @@ birth: "1976-01-01"
 death: "Unknown"
 nationality: "Sri Lanka"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tamil_Eelam_Flag.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tamil_Tigers"
 lastUpdated: "2026-02-26"

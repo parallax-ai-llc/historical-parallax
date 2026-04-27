@@ -5,7 +5,7 @@ birth: "1963-08-16"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Child Sex Abuser", "Doctor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Larry_Nassar_2018_Voice_of_America.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Larry_Nassar"
 lastUpdated: "2026-02-21"

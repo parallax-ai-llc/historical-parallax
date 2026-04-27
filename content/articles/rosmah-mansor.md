@@ -5,7 +5,7 @@ birth: "1951-12-10"
 death: "Unknown"
 nationality: "Malaysia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Rosmah_Mansor_at_the_2017_Sea_Games_Badminton_Final.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rosmah_Mansor"
 lastUpdated: "2026-02-26"

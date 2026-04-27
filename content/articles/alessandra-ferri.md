@@ -3,6 +3,7 @@ name: "Alessandra Ferri"
 birth: "1963-05-06"
 nationality: "Italian"
 occupation: ["Ballet Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Mikhail_Baryshnikov_and_Alessandra_Ferri.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alessandra_Ferri"
 lastUpdated: "2026-03-12"

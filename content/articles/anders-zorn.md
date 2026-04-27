@@ -5,7 +5,7 @@ birth: "1860-02-18"
 death: "1920-08-22"
 nationality: "Swedish"
 occupation: ["Painter", "Etcher", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Anders_Zorn_1908.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anders_Zorn"
 lastUpdated: "2026-02-21"

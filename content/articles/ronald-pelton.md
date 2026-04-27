@@ -5,7 +5,7 @@ birth: "1941-11-27"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Ronald_Pelton.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronald_Pelton"
 lastUpdated: "2026-02-26"

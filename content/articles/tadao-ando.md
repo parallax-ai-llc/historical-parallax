@@ -5,7 +5,7 @@ birth: "1941-09-13"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Tadao_Ando_2004_%284x5_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tadao_Ando"
 lastUpdated: "2026-02-21"

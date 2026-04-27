@@ -5,7 +5,7 @@ birth: "1907-04-14"
 death: "1971-04-21"
 nationality: "Haiti"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fran%C3%A7ois_Duvalier_Presidential_Portrait_%281957%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Papa_Doc"
 lastUpdated: "2026-02-26"

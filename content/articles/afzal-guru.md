@@ -5,7 +5,7 @@ birth: "1969-06-30"
 death: "2013-02-09"
 nationality: "India"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/8c/Afzal_Guru.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Afzal_Guru"
 lastUpdated: "2026-02-26"

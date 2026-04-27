@@ -3,6 +3,7 @@ name: "Lee Jong-suk"
 birth: "1989-09-14"
 nationality: "South Korean"
 occupation: ["Actor", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/240725_Lee_Jong-suk.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Jong-suk"
 lastUpdated: "2026-03-12"

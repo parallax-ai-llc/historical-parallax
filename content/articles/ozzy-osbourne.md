@@ -3,6 +3,7 @@ name: "Ozzy Osbourne"
 birth: "1948-12-03"
 nationality: "British"
 occupation: ["Musician", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ozzy_Osbourne_in_1970_%28medium-sized_crop%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ozzy_Osbourne"
 lastUpdated: "2026-03-12"

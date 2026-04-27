@@ -5,7 +5,7 @@ birth: "1873-01-01"
 death: "1903-02-03"
 nationality: "United Kingdom"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Amelia_Sach_and_Annie_Walters_1903.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amelia_Sach_and_Annie_Walters"
 lastUpdated: "2026-02-26"

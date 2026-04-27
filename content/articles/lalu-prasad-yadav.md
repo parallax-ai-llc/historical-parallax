@@ -5,7 +5,7 @@ birth: "1948-06-11"
 death: "Unknown"
 nationality: "India"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/The_Union_Minister_for_Railways%2C_Shri_Lalu_Prasad_addressing_the_Media_to_announce_a_policy_matter_in_New_Delhi_on_September_12%2C_2004.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1920-09-23"
 death: "2013-10-07"
 nationality: "Iraqi-Israeli Jewish"
 occupation: ["Rabbi", "Chief Rabbi", "Legal Authority"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Harav_Ovadia_Yosef.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ovadia_Yosef"
 lastUpdated: "2026-02-21"

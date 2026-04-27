@@ -5,7 +5,7 @@ birth: "1946-02-15"
 death: "N/A"
 nationality: "French-Tibetan"
 occupation: ["Monk", "Author", "Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Portrait_de_Matthieu_Ricard.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Matthieu_Ricard"
 lastUpdated: "2026-02-21"

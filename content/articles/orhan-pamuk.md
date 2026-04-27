@@ -5,7 +5,7 @@ birth: "1952-06-07"
 death: "Unknown"
 nationality: "Turkish"
 occupation: ["Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Orhan_Pamuk_2009_Shankbone.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Orhan_Pamuk"
 lastUpdated: "2026-02-21"

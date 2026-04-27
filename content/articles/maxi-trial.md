@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Italy"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/MaxiprocessoPalermo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maxi_Trial"
 lastUpdated: "2026-02-26"

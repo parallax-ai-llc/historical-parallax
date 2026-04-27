@@ -5,7 +5,7 @@ birth: "1995-03-13"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Alpine Skier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mikaela_Shiffrin_%28Portrait%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikaela_Shiffrin"
 lastUpdated: "2026-02-26"

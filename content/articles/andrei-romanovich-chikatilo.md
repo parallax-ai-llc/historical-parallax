@@ -5,7 +5,7 @@ birth: "1936-10-16"
 death: "1994-02-14"
 nationality: "Soviet Union"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/59/Chikatilo-mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrei_Chikatilo"
 lastUpdated: "2026-02-26"

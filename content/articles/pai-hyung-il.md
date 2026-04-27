@@ -5,7 +5,7 @@ birth: "1930-01-01"
 death: "2015-01-01"
 nationality: "Korean"
 occupation: ["Mechanical engineer", "Automotive engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/History_of_Korea-108_BC.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pai_Hyung_Il"
 lastUpdated: "2026-02-21"

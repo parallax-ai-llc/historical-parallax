@@ -5,7 +5,7 @@ birth: "1972-07-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Sports Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Michael_Rubin_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Rubin"
 lastUpdated: "2026-02-21"

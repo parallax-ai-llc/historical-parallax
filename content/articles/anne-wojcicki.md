@@ -5,7 +5,7 @@ birth: "1973-07-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Anne_Wojcicki_%2836938473750%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anne_Wojcicki"
 lastUpdated: "2026-02-21"

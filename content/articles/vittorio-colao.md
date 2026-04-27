@@ -5,7 +5,7 @@ birth: "1961-10-03"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Entrepreneur", "Telecom Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Vittorio_Colao_2015_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vittorio_Colao"
 lastUpdated: "2026-02-21"

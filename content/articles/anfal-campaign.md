@@ -5,7 +5,7 @@ birth: "1986-01-01"
 death: "1989-01-01"
 nationality: "Iraq"
 occupation: ["Genocide"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Iraqi_Kurdistan_in_Iraq_%28disputed_hatched%29.svg/1280px-Iraqi_Kurdistan_in_Iraq_%28disputed_hatched%29.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anfal_Campaign"
 lastUpdated: "2026-02-26"

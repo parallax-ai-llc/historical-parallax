@@ -5,7 +5,7 @@ birth: "1944-04-09"
 death: "N/A"
 nationality: "Palestine"
 occupation: ["Terrorist", "Hijacker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Leila_Khaled_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leila_Khaled"
 lastUpdated: "2026-02-21"

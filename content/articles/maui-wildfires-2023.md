@@ -5,7 +5,7 @@ birth: "2023-08-08"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Negligence"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Coast_Guard_Station_Maui_-_7964748.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maui_Wildfires_2023"
 lastUpdated: "2026-02-26"

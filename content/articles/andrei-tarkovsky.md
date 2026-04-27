@@ -5,7 +5,7 @@ birth: "1932-04-04"
 death: "1986-12-29"
 nationality: "Russian"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrei_Tarkovsky"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1979-02-18"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Wang_Xing_in_2009.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Xing"
 lastUpdated: "2026-02-21"

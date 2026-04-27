@@ -5,7 +5,7 @@ birth: "1962-07-05"
 death: "2008-11-09"
 nationality: "Indonesia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/d/d5/Amrozi_bin_Nurhasyim.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amrozi_bin_Nurhasyim"
 lastUpdated: "2026-02-26"

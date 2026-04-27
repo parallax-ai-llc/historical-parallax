@@ -5,7 +5,7 @@ birth: "1586-04-20"
 death: "1617-08-24"
 nationality: "Peruvian"
 occupation: ["Mystic", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Sta_Rosa_de_Lima_por_Claudio_Coello.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rose_of_Lima"
 lastUpdated: "2026-02-21"

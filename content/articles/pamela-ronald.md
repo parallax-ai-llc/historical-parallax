@@ -5,7 +5,7 @@ birth: "1961-01-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Plant pathologist", "Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/March_for_Science_San_Francisco_20170422-4376.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pamela_Ronald"
 lastUpdated: "2026-02-21"

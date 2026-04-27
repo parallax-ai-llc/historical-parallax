@@ -5,7 +5,7 @@ birth: "1755-04-10"
 death: "1843-07-02"
 nationality: "German"
 occupation: ["Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Samuel_Hahnemann_Daguerreotype_1840s.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Hahnemann"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1960-09-11"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Engineer", "Nobel laureate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hiroshi_Amano_20141211.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amano_Hiroshi"
 lastUpdated: "2026-02-21"

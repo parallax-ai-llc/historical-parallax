@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/BP_Texas_City_Explosion_Aftermath.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Texas_City_Refinery_Explosion"
 lastUpdated: "2026-02-26"

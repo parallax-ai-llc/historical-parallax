@@ -5,7 +5,7 @@ birth: "1991-10-19"
 death: "2017-07-12"
 nationality: "Canada"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alphabaylogin.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexandre_Cazes"
 lastUpdated: "2026-02-26"

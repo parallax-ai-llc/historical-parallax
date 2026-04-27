@@ -5,7 +5,7 @@ birth: "1945-05-31"
 death: "Unknown"
 nationality: "Côte d'Ivoire"
 occupation: ["War Criminal", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Laurent_Gbagbo_%282008%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Laurent_Gbagbo"
 lastUpdated: "2026-02-21"

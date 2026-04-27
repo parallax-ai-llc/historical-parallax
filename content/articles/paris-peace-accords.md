@@ -5,7 +5,7 @@ birth: "1973-01-27"
 death: "1973-01-27"
 nationality: "France"
 occupation: ["Historical Event", "Treaty", "Peace Agreement"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vietnam_Peace_Treaty_1973.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paris_Peace_Accords"
 lastUpdated: "2026-02-21"

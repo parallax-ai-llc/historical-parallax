@@ -5,7 +5,7 @@ birth: "1987-12-18"
 death: "2015-03-24"
 nationality: "Germany"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/320_GERMANWINGS_D-AIPX_147_09_06_14_BCN_RIP.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andreas_Lubitz"
 lastUpdated: "2026-02-26"

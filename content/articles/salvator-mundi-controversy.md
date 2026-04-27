@@ -5,7 +5,7 @@ birth: "2017-11-15"
 death: "Unknown"
 nationality: "International"
 occupation: ["Art Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Christie%27s_King_Street.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salvator_Mundi_Controversy"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1970-10-11"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Medalist", "Marathon Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/%EC%A0%9C3%ED%9A%8C_%EB%B0%8F_%EC%A0%9C8%ED%9A%8C_%EC%BD%94%EC%B9%B4-%EC%BD%9C%EB%9D%BC_%EC%B2%B4%EC%9C%A1%EB%8C%80%EC%83%81_%EC%B5%9C%EC%9A%B0%EC%88%98%EC%84%A0%EC%88%98%EC%83%81_%EC%88%98%EC%83%81%EC%9E%90_%EC%9D%B4%EB%B4%89%EC%A3%BC.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Bong-ju"
 lastUpdated: "2026-02-26"

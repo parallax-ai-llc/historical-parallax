@@ -5,7 +5,7 @@ birth: "1927-01-01"
 death: "2014-11-19"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Song_Joong-ki_at_Style_Icon_Asia_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Joong-keun"
 lastUpdated: "2026-02-21"

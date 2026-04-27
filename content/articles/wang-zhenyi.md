@@ -5,7 +5,7 @@ birth: "1768-01-01"
 death: "1797-01-01"
 nationality: "Chinese"
 occupation: ["Astronomer", "Mathematician", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/%E7%8E%8B%E6%8C%AF%E4%B9%89_%28%E5%8C%BB%E5%AD%A6%E5%AE%B6%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Zhenyi"
 lastUpdated: "2026-02-21"

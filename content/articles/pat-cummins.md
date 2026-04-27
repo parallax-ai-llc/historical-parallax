@@ -3,6 +3,7 @@ name: "Pat Cummins"
 birth: "1993-05-08"
 nationality: "Australian"
 occupation: ["Cricketer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Pat_Cummins_fielding_Ashes_2021_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pat_Cummins"
 lastUpdated: "2026-03-12"

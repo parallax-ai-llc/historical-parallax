@@ -5,7 +5,7 @@ birth: "1960-12-02"
 death: "Unknown"
 nationality: "Danish"
 occupation: ["Computer Scientist", "Software Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Anders_Hejlsberg.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anders_Hejlsberg"
 lastUpdated: "2026-02-21"

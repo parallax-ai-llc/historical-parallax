@@ -5,7 +5,7 @@ birth: "1992-07-15"
 death: "Unknown"
 nationality: "South African"
 occupation: ["Athlete", "Olympic Champion", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Wayde_van_Niekerk_080817_London_2017ceopped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wayde_van_Niekerk"
 lastUpdated: "2026-02-26"

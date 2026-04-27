@@ -5,7 +5,7 @@ birth: "1848-08-03"
 death: "1920-03-31"
 nationality: "Germany"
 occupation: ["Genocidaire"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Lothar_von_Trotha.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adrian_Dietrich_Lothar_von_Trotha"
 lastUpdated: "2026-02-26"

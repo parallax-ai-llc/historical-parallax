@@ -5,7 +5,7 @@ birth: "1954-01-29"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Robin_Thicke_September_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oprah_Winfrey_duplicate"
 lastUpdated: "2026-02-26"

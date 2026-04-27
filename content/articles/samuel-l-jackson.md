@@ -3,6 +3,7 @@ name: "Samuel L. Jackson"
 birth: "1948-12-21"
 nationality: "American"
 occupation: ["Actor", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/SamuelLJackson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_L._Jackson"
 lastUpdated: "2026-03-12"

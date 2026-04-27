@@ -5,7 +5,7 @@ birth: "1948-11-04"
 death: "2020-11-10"
 nationality: "Mali"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Amadou_Toure_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amadou_Toumani_Tour%C3%A9"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1987-02-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Medalist", "MMA Fighter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Rousey_HOF_2018_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronda_Rousey"
 lastUpdated: "2026-02-26"

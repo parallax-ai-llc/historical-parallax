@@ -5,7 +5,7 @@ birth: "1966-06-04"
 death: "2017-09-30"
 nationality: "Russian-American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/VladimirVoevodsky.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Voevodsky"
 lastUpdated: "2026-02-21"

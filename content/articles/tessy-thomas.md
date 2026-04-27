@@ -5,7 +5,7 @@ birth: "1963-04-01"
 death: "living"
 nationality: "Indian"
 occupation: ["Aerospace Engineer", "Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Tessy_thomas.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tessy_Thomas"
 lastUpdated: "2026-02-21"

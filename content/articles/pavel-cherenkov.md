@@ -5,7 +5,7 @@ birth: "1904-07-28"
 death: "1990-01-06"
 nationality: "Soviet"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cerenkov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pavel_Cherenkov"
 lastUpdated: "2026-02-21"

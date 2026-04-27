@@ -5,7 +5,7 @@ birth: "1962-01-01"
 death: "2023-04-15"
 nationality: "India"
 occupation: ["Organized Crime", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/2e/Atiq_Ahmed.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Atiq_Ahmad"
 lastUpdated: "2026-02-26"

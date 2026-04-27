@@ -3,6 +3,7 @@ name: "Andrea Kimi Antonelli"
 birth: "2006-08-25"
 nationality: "Italian"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrea_Kimi_Antonelli"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1980-01-27"
 death: "living"
 nationality: "Chinese"
 occupation: ["Astronaut", "Pilot"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Wang_Yaping_in_2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Yaping"
 lastUpdated: "2026-02-21"

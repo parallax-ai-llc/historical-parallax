@@ -5,7 +5,7 @@ birth: "1970-01-01"
 death: "2002-02-08"
 nationality: "Algeria"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/f8/Gialogo-1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antar_Zouabri"
 lastUpdated: "2026-02-26"

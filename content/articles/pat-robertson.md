@@ -5,7 +5,7 @@ birth: "1930-03-22"
 death: "2023-06-08"
 nationality: "American"
 occupation: ["Televangelist", "Media Executive", "Political Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pat_Robertson_Paparazzo_Photography.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pat_Robertson"
 lastUpdated: "2026-02-21"

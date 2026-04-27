@@ -5,7 +5,7 @@ birth: "1913-01-30"
 death: "1941-12-05"
 nationality: "Indian-Hungarian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Amrita_Sher-Gil_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amrita_Sher-Gil"
 lastUpdated: "2026-02-21"

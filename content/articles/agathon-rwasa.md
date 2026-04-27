@@ -5,7 +5,7 @@ birth: "1964-01-01"
 death: "Unknown"
 nationality: "Burundi"
 occupation: ["Rebel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Agathon_Rwasa.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Agathon_Rwasa"
 lastUpdated: "2026-02-26"

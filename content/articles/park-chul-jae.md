@@ -5,7 +5,7 @@ birth: "1930-01-01"
 death: "2008-01-01"
 nationality: "Korean"
 occupation: ["Physicist", "Nuclear scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Park_Chul-min.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Chul-jae"
 lastUpdated: "2026-02-21"

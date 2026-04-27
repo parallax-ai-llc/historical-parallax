@@ -5,7 +5,7 @@ birth: "1876-03-10"
 death: "1876-03-10"
 nationality: "United States"
 occupation: ["Historical Event", "Discovery", "Technology"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefono_di_Meucci_-_Museo_scienza_tecnologia_Milano_02148-02147_dia.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Telephone_Invention"
 lastUpdated: "2026-02-21"

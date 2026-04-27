@@ -5,7 +5,7 @@ birth: "1972-07-01"
 death: "Unknown"
 nationality: "Mexican"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tatiana_Bilbao.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tatiana_Bilbao"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1963-10-20"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Propagandist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/VS_Solovyov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Solovyov"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1950-06-14"
 death: "N/A"
 nationality: "Welsh"
 occupation: ["Archbishop", "Theologian", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Rowan_Williams_-001b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rowan_Williams"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1976-12-02"
 death: "Unknown"
 nationality: "Hong Kong Chinese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lawrence_Ho%2C_2007%2C_Horasis.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lawrence_Ho"
 lastUpdated: "2026-02-21"

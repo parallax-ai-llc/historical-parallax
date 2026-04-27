@@ -5,7 +5,7 @@ birth: "1910-10-23"
 death: "1937-04-17"
 nationality: "Korean"
 occupation: ["Writer", "Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Leesang.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Sang"
 lastUpdated: "2026-02-21"

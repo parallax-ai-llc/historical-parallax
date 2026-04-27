@@ -5,7 +5,7 @@ birth: "1882-03-14"
 death: "1969-10-21"
 nationality: "Polish"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Wac%C5%82aw_Sierpi%C5%84ski.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski"
 lastUpdated: "2026-02-21"

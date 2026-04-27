@@ -5,7 +5,7 @@ birth: "1929-09-03"
 death: "2018-10-30"
 nationality: "United States"
 occupation: ["Crime Boss", "FBI Informant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Whitey_Bulger_US_Marshals_Service_Mug1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Whitey_Bulger"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1879-04-26"
 death: "1959-02-15"
 nationality: "British"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Owen_Richardson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Owen_Richardson"
 lastUpdated: "2026-02-26"

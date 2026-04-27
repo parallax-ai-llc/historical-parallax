@@ -3,6 +3,7 @@ name: "Ladysmith Black Mambazo"
 birth: "1960-01-01"
 nationality: "South African"
 occupation: ["Musical Group", "Choral Singers"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ladysmith_Black_Mambazo_in_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ladysmith_Black_Mambazo"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1970-06-08"
 death: "N/A"
 nationality: "United States"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kwame-2006_%281%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kwame_Kilpatrick"
 lastUpdated: "2026-02-21"

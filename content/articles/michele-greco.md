@@ -5,7 +5,7 @@ birth: "1924-05-06"
 death: "2008-02-13"
 nationality: "Italy"
 occupation: ["Mafia Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/cc/Michele_Greco.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michele_Greco"
 lastUpdated: "2026-02-21"

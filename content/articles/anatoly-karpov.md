@@ -3,6 +3,7 @@ name: "Anatoly Karpov"
 birth: "1951-05-23"
 nationality: "Russian"
 occupation: ["Chess Player", "Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anatoly_Karpov_2017_april.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anatoly_Karpov"
 lastUpdated: "2026-03-12"

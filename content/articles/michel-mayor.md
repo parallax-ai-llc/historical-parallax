@@ -5,7 +5,7 @@ birth: "1942-01-12"
 death: "Unknown"
 nationality: "Swiss"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Michel_Mayor%2C_2012_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michel_Mayor"
 lastUpdated: "2026-02-26"

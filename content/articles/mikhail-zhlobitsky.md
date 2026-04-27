@@ -5,7 +5,7 @@ birth: "2001-01-01"
 death: "2018-10-31"
 nationality: "Russia"
 occupation: ["Suicide Bomber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_de_la_FAI.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Zhlobitsky"
 lastUpdated: "2026-02-26"

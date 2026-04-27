@@ -5,7 +5,7 @@ birth: "1207-01-01"
 death: "1282-01-01"
 nationality: "German"
 occupation: ["Mystic", "Poet", "Beguine"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Merazhofen_Pfarrkirche_Chorgest%C3%BChl_links_Mechthild.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mechthild_of_Magdeburg"
 lastUpdated: "2026-02-21"

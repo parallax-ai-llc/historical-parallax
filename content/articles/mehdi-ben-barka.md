@@ -5,7 +5,7 @@ birth: "1920-01-01"
 death: "1965-10-29"
 nationality: "Morocco"
 occupation: ["Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mehdi_Ben_Barka_Anefo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mehdi_Ben_Barka"
 lastUpdated: "2026-02-26"

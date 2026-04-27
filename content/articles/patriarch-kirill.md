@@ -5,7 +5,7 @@ birth: "1946-11-20"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Controversial Religious Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Patriarch_Kirill_in_Baku_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patriarch_Kirill"
 lastUpdated: "2026-02-26"

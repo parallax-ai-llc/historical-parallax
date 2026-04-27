@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "Unknown"
 nationality: "Hong Kong"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Choylifut_Hong_Ying_Katwijk.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lam_Buk_Yin"
 lastUpdated: "2026-02-26"

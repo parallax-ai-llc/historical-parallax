@@ -5,7 +5,7 @@ birth: "1935-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Lee_Jae-yong_in_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Yong-sung_Samsung"
 lastUpdated: "2026-02-26"

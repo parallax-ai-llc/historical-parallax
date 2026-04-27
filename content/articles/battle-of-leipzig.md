@@ -5,7 +5,7 @@ birth: "1813-10-16"
 death: "1813-10-19"
 nationality: "Europe"
 occupation: ["Historical Event", "Battle", "Napoleonic War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/MoshkovVI_SrazhLeypcigomGRM.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Leipzig"
 lastUpdated: "2026-02-21"

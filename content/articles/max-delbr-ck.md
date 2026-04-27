@@ -5,7 +5,7 @@ birth: "1906-09-04"
 death: "1981-03-09"
 nationality: "German-American"
 occupation: ["Biophysicist", "Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Maxdelbr%C3%BCck-cr.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Max_Delbr%C3%BCck"
 lastUpdated: "2026-02-21"

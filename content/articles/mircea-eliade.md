@@ -5,7 +5,7 @@ birth: "1907-03-13"
 death: "1986-04-22"
 nationality: "Romanian-American"
 occupation: ["Historian of Religion", "Author", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Mircea_Eliade_young.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mircea_Eliade"
 lastUpdated: "2026-02-21"

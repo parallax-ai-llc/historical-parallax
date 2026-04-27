@@ -5,7 +5,7 @@ birth: "1946-03-10"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Pianist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Kun-Woo_Paik.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kun-woo_Paik"
 lastUpdated: "2026-02-21"

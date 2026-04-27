@@ -5,7 +5,7 @@ birth: "2021-12-01"
 death: "2022-09-01"
 nationality: "United Kingdom"
 occupation: ["Cybercriminal Group"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/LAPSUS%24.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lapsus%24"
 lastUpdated: "2026-02-26"

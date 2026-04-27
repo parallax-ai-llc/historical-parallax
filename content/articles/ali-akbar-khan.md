@@ -5,7 +5,7 @@ birth: "1922-04-14"
 death: "2009-06-18"
 nationality: "Indian"
 occupation: ["Musician", "Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ali_Akbar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Akbar_Khan"
 lastUpdated: "2026-02-21"

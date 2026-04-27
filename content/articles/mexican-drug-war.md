@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fuerza_del_Estado_Michoac%C3%A1n.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mexican_Drug_War"
 lastUpdated: "2026-02-26"

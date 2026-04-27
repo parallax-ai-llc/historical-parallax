@@ -5,7 +5,7 @@ birth: "1929-03-22"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Painter", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Yayoi_Kusama_wax_model_at_Louis_Vitton.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kusama_Yayoi"
 lastUpdated: "2026-02-21"

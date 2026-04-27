@@ -5,7 +5,7 @@ birth: "0173-01-01"
 death: "0238-05-10"
 nationality: "Roman Empire"
 occupation: ["Historical Criminal", "Tyrant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Maximinus_Thrax_Musei_Capitolini_MC473.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maximinus_Thrax"
 lastUpdated: "2026-02-26"

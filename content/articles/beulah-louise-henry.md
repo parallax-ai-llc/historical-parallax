@@ -5,7 +5,7 @@ birth: "1887-09-28"
 death: "1973-02-01"
 nationality: "American"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%22Lady_Edison%22_with_latest_invention-_an_air_baby_doll_that_can_be_bathed._Miss_Beulah_Louise_Henry%2C_of_North_Carolina_and_a_direct_descendent_of_Patrick_Henry%2C_is_often_called_the_%22Lady_LCCN2016888541.jpg/3840px-thumbnail.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Beulah_Louise_Henry"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1956-07-16"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mitchell_Rales_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mitchell_Rales"
 lastUpdated: "2026-02-21"

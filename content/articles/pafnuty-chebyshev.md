@@ -5,7 +5,7 @@ birth: "1821-05-16"
 death: "1894-12-08"
 nationality: "Russian"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pafnuty_Lvovich_Chebyshev.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pafnuty_Chebyshev"
 lastUpdated: "2026-02-21"

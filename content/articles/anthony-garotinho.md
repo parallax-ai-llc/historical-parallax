@@ -5,7 +5,7 @@ birth: "1960-10-28"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Deputado_Anthony_Garotinho_entrevistado_em_2011_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anthony_Garotinho"
 lastUpdated: "2026-02-26"

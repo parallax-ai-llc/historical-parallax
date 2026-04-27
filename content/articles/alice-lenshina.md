@@ -5,7 +5,7 @@ birth: "1920-01-01"
 death: "1978-12-07"
 nationality: "Zambian"
 occupation: ["Prophet", "Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/d/da/Alice_Lenshina_1964.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alice_Lenshina"
 lastUpdated: "2026-02-21"

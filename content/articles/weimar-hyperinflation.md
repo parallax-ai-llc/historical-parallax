@@ -5,7 +5,7 @@ birth: "1921-01-01"
 death: "1923-11-15"
 nationality: "Germany"
 occupation: ["Historical Event", "Economic Crisis", "Financial"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Bundesarchiv_Bild_183-R1215-506%2C_Berlin%2C_Reichsbank%2C_Geldauflieferungsstelle.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Weimar_Hyperinflation"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1953-03-27"
 death: "Unknown"
 nationality: "Singaporean"
 occupation: ["Entrepreneur", "Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Ho_Ching_in_August_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Temasek_CEO_Ho_Ching"
 lastUpdated: "2026-02-21"

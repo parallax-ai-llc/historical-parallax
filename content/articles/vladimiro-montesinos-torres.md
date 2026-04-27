@@ -5,7 +5,7 @@ birth: "1945-05-20"
 death: "Unknown"
 nationality: "Peru"
 occupation: ["Spy Chief"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Militar_Vladimiro_Montesinos.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladimiro_Montesinos_Torres"
 lastUpdated: "2026-02-26"

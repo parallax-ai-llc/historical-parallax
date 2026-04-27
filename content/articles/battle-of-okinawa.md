@@ -5,7 +5,7 @@ birth: "1945-04-01"
 death: "1945-06-22"
 nationality: "Japan"
 occupation: ["Historical Event", "Battle", "World War II"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ww2_158.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Okinawa"
 lastUpdated: "2026-02-21"

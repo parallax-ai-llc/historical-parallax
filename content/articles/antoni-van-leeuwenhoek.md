@@ -5,7 +5,7 @@ birth: "1632-10-24"
 death: "1723-08-26"
 nationality: "Dutch"
 occupation: ["Microscopist", "Microbiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antoni_van_Leeuwenhoek"
 lastUpdated: "2026-02-21"

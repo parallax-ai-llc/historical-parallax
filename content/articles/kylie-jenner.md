@@ -5,7 +5,7 @@ birth: "1997-08-10"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Media Personality"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kylie_Jenner1_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kylie_Jenner"
 lastUpdated: "2026-02-21"

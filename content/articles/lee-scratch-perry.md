@@ -4,6 +4,7 @@ birth: "1936-03-20"
 death: "2021-08-29"
 nationality: "Jamaican"
 occupation: ["Music Producer", "Singer", "DJ"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Lee_Scratch_Perry_2016_%289_von_13%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_%22Scratch%22_Perry"
 lastUpdated: "2026-03-12"

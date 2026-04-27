@@ -5,7 +5,7 @@ birth: "1913-09-04"
 death: "1976-07-29"
 nationality: "United States"
 occupation: ["Gangster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Mickey_Cohen_at_his_arraignment_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mickey_Cohen"
 lastUpdated: "2026-02-21"

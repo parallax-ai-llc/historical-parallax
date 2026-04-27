@@ -5,7 +5,7 @@ birth: "1916-01-01"
 death: "2001-01-01"
 nationality: "Korean"
 occupation: ["Virologist", "Public health scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lee_Geung-young_from_acrofan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Chun-yeong"
 lastUpdated: "2026-02-21"

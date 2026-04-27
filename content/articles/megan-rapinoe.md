@@ -5,7 +5,7 @@ birth: "1985-07-05"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Megan_Rapinoe_%2848675274817%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Megan_Rapinoe"
 lastUpdated: "2026-02-26"

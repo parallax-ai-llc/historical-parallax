@@ -5,7 +5,7 @@ birth: "1987-05-13"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/M_Perkins.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Melanie_Perkins"
 lastUpdated: "2026-02-21"

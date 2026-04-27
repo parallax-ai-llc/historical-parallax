@@ -5,7 +5,7 @@ birth: "1954-11-01"
 death: "1962-03-19"
 nationality: "Algeria"
 occupation: ["Colonial Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Algerian_war_collage_wikipedia.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Algerian_War"
 lastUpdated: "2026-02-26"

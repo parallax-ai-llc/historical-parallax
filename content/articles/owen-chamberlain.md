@@ -5,7 +5,7 @@ birth: "1920-07-10"
 death: "2006-02-28"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Owen_Chamberlain.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Owen_Chamberlain"
 lastUpdated: "2026-02-26"

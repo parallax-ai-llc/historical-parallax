@@ -5,7 +5,7 @@ birth: "1953-08-22"
 death: "2019-06-02"
 nationality: "Germany"
 occupation: ["Assassination Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Bild_Dr._Walter_L%C3%BCbcke.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_L%C3%BCbcke"
 lastUpdated: "2026-02-26"

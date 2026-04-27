@@ -5,7 +5,7 @@ birth: "1908-12-11"
 death: "1946-09-13"
 nationality: "Austria"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Amon_goeth_1946_%28cropped%29%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amon_G%C3%B6th"
 lastUpdated: "2026-02-26"

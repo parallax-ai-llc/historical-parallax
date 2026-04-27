@@ -5,7 +5,7 @@ birth: "1891-03-11"
 death: "1976-02-22"
 nationality: "Hungarian-British"
 occupation: ["Chemist", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Michael_Polanyi.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Polanyi"
 lastUpdated: "2026-02-21"

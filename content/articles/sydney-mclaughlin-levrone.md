@@ -5,7 +5,7 @@ birth: "1999-08-07"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Hurdler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Sydney_McLaughlin_Oregon_2022%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sydney_McLaughlin-Levrone"
 lastUpdated: "2026-02-26"

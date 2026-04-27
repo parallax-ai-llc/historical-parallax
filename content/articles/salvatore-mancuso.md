@@ -5,7 +5,7 @@ birth: "1964-08-08"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Paramilitary Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/MancusoDEA.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salvatore_Mancuso"
 lastUpdated: "2026-02-26"

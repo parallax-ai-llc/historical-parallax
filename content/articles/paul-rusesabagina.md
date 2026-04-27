@@ -5,7 +5,7 @@ birth: "1954-06-15"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["Political Prisoner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Paul_Rusesabagina.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Rusesabagina"
 lastUpdated: "2026-02-26"

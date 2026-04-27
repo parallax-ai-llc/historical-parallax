@@ -5,7 +5,7 @@ birth: "1928-05-22"
 death: "2019-09-11"
 nationality: "American"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/T._Boone_Pickens_discusses_the_impact_of_shale_natural_gas_on_the_American_economy_at_the_Hudson_Institute_on_6_April_2016_-_25_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/T._Boone_Pickens"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1966-11-19"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Hitman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/La_Quica.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/La_Quica"
 lastUpdated: "2026-02-26"

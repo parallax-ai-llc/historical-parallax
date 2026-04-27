@@ -5,7 +5,7 @@ birth: "1938-12-09"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Military Leader", "Corrupt Businessman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/TY-Danjuma2.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theophilus_Yakubu_Danjuma"
 lastUpdated: "2026-02-26"

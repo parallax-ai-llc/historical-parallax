@@ -5,7 +5,7 @@ birth: "1949-09-07"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Carlos_Lehder.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lehder_Carlos"
 lastUpdated: "2026-02-26"

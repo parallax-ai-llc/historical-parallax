@@ -5,7 +5,7 @@ birth: "1967-02-14"
 death: "Unknown"
 nationality: "Iran"
 occupation: ["Torturer", "Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Saeed_Mortazavi01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saeed_Mortazavi"
 lastUpdated: "2026-02-26"

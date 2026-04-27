@@ -5,7 +5,7 @@ birth: "1953-01-01"
 death: "Unknown"
 nationality: "Sweden"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jack_Vreeswijk_-_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lars-Erik_Dyvik"
 lastUpdated: "2026-02-26"

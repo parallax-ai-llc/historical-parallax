@@ -3,6 +3,7 @@ name: "Anthony Fauci"
 birth: "1940-12-24"
 nationality: "American"
 occupation: ["Immunologist", "Physician", "Public Health Official"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Anthony_Fauci_in_2023_02_%28cropped%29.jpg/3840px-Anthony_Fauci_in_2023_02_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anthony_Fauci"
 lastUpdated: "2026-03-12"

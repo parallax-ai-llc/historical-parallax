@@ -5,7 +5,7 @@ birth: "1809-01-01"
 death: "1891-12-31"
 nationality: "Nigerian-British"
 occupation: ["Linguist", "Bishop", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bishop_Samuel_Ajayi_Crowther_1867.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Ajayi_Crowther"
 lastUpdated: "2026-02-21"

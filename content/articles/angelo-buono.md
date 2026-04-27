@@ -5,7 +5,7 @@ birth: "1934-10-05"
 death: "2002-09-21"
 nationality: "United States"
 occupation: ["Serial Killer", "Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Angelo_Buono.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Angelo_Buono_Jr."
 lastUpdated: "2026-02-26"

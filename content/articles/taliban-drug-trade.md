@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Afghanistan"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/USMC-120418-M-7721G-041.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Taliban_Drug_Trade"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1980-05-18"
 death: "1980-05-27"
 nationality: "South Korea"
 occupation: ["Historical Event", "Revolution", "Democratic Movement"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Gwangju5.18FriedhofFotos.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/May_18_Gwangju_Uprising"
 lastUpdated: "2026-02-21"

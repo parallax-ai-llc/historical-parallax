@@ -5,7 +5,7 @@ birth: "1985-10-10"
 death: "2021-01-06"
 nationality: "United States"
 occupation: ["Insurrectionist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/4e/Ashli_Babbitt.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ashli_Babbitt"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "Maxim Vengerov"
 birth: "1974-08-20"
 nationality: "Israeli-Russian"
 occupation: ["Violinist", "Conductor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Vengerovfestival.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maxim_Vengerov"
 lastUpdated: "2026-03-12"

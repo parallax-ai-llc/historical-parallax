@@ -5,7 +5,7 @@ birth: "1952-01-17"
 death: "2023-03-28"
 nationality: "Japanese"
 occupation: ["Composer", "Musician", "Producer", "Actor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ryuichi_Sakamoto_side.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryuichi_Sakamoto"
 lastUpdated: "2026-02-21"

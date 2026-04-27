@@ -5,7 +5,7 @@ birth: "1982-05-22"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Medalist", "Short Track Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/ApoloOhno.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Apolo_Anton_Ohno"
 lastUpdated: "2026-02-26"

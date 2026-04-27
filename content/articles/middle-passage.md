@@ -5,7 +5,7 @@ birth: "1500-01-01"
 death: "1866-01-01"
 nationality: "International"
 occupation: ["Historical Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Brookes_slave_ship%2C_British_Library_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Middle_Passage"
 lastUpdated: "2026-02-26"

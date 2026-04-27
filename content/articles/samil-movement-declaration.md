@@ -5,7 +5,7 @@ birth: "1919-03-01"
 death: "1919-03-01"
 nationality: "Korea"
 occupation: ["Historical Event", "Independence", "Korean History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/L%E2%80%99Ind%C3%A9pendance_de_la_Cor%C3%A9e_et_la_Paix-02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samil_Movement_Declaration"
 lastUpdated: "2026-02-21"

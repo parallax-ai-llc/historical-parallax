@@ -3,6 +3,7 @@ name: "Ali Wong"
 birth: "1982-04-19"
 nationality: "American"
 occupation: ["Comedian", "Actress", "Writer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ali_Wong_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ali_Wong"
 lastUpdated: "2026-03-12"

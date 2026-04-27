@@ -5,7 +5,7 @@ birth: "1991-01-23"
 death: "N/A"
 nationality: "Russia / Germany / United States"
 occupation: ["Con Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/AnnaDelvey-byPhilipRomano.jpg/3840px-AnnaDelvey-byPhilipRomano.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anna_Sorokin"
 lastUpdated: "2026-02-26"

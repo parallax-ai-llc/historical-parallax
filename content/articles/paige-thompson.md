@@ -5,7 +5,7 @@ birth: "1986-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/CapitalOneHQ_body.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paige_Thompson"
 lastUpdated: "2026-02-26"

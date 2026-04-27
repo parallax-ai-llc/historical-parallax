@@ -5,7 +5,7 @@ birth: "1916-09-23"
 death: "1978-05-09"
 nationality: "Italy"
 occupation: ["Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Aldo_Moro_br.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aldo_Moro_kidnapping"
 lastUpdated: "2026-02-26"

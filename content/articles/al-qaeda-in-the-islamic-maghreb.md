@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Algeria"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Islamic_State_flag.svg/1280px-Islamic_State_flag.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Islamic_Maghreb"
 lastUpdated: "2026-02-26"

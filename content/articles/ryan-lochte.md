@@ -5,7 +5,7 @@ birth: "1984-08-03"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Ryan_Lochte_before_race_%2842052324064%29_%28cropped%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryan_Lochte"
 lastUpdated: "2026-02-26"

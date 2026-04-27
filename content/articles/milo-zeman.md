@@ -5,7 +5,7 @@ birth: "1944-09-28"
 death: "Unknown"
 nationality: "Czech Republic"
 occupation: ["Controversial Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Milo%C5%A1_Zeman_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milo%C5%A1_Zeman"
 lastUpdated: "2026-02-26"

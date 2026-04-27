@@ -5,7 +5,7 @@ birth: "1711-10-29"
 death: "1778-02-20"
 nationality: "Italian"
 occupation: ["Physicist", "Academician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Carlo_Vandi_-_Ritratto_di_Laura_Bassi_-_Museo_Europeo_degli_Studenti.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Laura_Bassi"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1966-06-03"
 death: "Unknown"
 nationality: "Pakistani"
 occupation: ["Athlete", "Cricket Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Wasim-akram-gesf-2018-7878.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wasim_Akram"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "Ryan Higa"
 birth: "1990-06-06"
 nationality: "American"
 occupation: ["YouTuber", "Comedian", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ryan_Higa_by_Gage_Skidmore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryan_Higa"
 lastUpdated: "2026-03-11"

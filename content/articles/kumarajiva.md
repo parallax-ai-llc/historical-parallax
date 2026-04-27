@@ -5,7 +5,7 @@ birth: "0344-01-01"
 death: "0413-01-01"
 nationality: "Kuchean-Indian"
 occupation: ["Translator", "Monk", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Kumarajiva_at_Kizil_Caves%2C_Kuqa_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kumarajiva"
 lastUpdated: "2026-02-21"

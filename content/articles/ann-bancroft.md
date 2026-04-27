@@ -5,7 +5,7 @@ birth: "1955-09-29"
 death: "Unknown"
 nationality: "American"
 occupation: ["Explorer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/AnnBancroft2006-02-06.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ann_Bancroft"
 lastUpdated: "2026-02-26"

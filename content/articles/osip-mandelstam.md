@@ -5,7 +5,7 @@ birth: "1891-01-15"
 death: "1938-12-27"
 nationality: "Russian"
 occupation: ["Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Mandelshtam17.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Osip_Mandelstam"
 lastUpdated: "2026-02-26"

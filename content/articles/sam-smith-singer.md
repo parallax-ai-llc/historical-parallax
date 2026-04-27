@@ -3,6 +3,7 @@ name: "Sam Smith"
 birth: "1992-05-19"
 nationality: "British"
 occupation: ["Singer", "Songwriter", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/SamSmith-byPhilipRomano.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Smith"
 lastUpdated: "2026-03-12"

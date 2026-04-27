@@ -5,7 +5,7 @@ birth: "1949-01-01"
 death: "Unknown"
 nationality: "Uzbekistan"
 occupation: ["Mafia"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Alimzhan_Tokhtakhunov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alimzhan_Tokhtakhounov"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1966-01-01"
 death: "Unknown"
 nationality: "Cameroonian"
 occupation: ["Sculptor", "Installation Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/17/SUD_Salon_Urbain_de_Douala_2010_-_07.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pascale_Marthine_Tayou"
 lastUpdated: "2026-02-21"

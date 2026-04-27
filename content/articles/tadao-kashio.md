@@ -5,7 +5,7 @@ birth: "1917-11-26"
 death: "1993-03-03"
 nationality: "Japanese"
 occupation: ["Entrepreneur", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Casio_HQ2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tadao_Kashio"
 lastUpdated: "2026-02-21"

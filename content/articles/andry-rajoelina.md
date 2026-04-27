@@ -5,7 +5,7 @@ birth: "1974-05-30"
 death: "Unknown"
 nationality: "Madagascar"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Andry_Rajoelina_on_April_28%2C_2024_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andry_Rajoelina"
 lastUpdated: "2026-02-26"

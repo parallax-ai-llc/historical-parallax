@@ -5,7 +5,7 @@ birth: "1986-04-23"
 death: "Unknown"
 nationality: "Dutch"
 occupation: ["Athlete", "Olympic Champion", "Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Sven_Kramer_%282009-01-11%29_crop-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sven_Kramer"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1927-07-11"
 death: "2007-05-05"
 nationality: "American"
 occupation: ["Physicist", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Maiman_with_the_first_laser.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theodore_Maiman"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1962-01-28"
 death: "Unknown"
 nationality: "South African"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Patrice_Motsepe.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrice_Motsepe"
 lastUpdated: "2026-02-21"

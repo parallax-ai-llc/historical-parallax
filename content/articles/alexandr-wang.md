@@ -5,7 +5,7 @@ birth: "1997-01-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alexandr_Wang%2C_Chief_A.I._Officer%2C_Meta.jpg/3840px-Alexandr_Wang%2C_Chief_A.I._Officer%2C_Meta.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexandr_Wang"
 lastUpdated: "2026-02-21"

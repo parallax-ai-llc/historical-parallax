@@ -5,7 +5,7 @@ birth: "1959-03-09"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Takaaki_Kajita_cropped_1_Takaaki_Kajita_202010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takaaki_Kajita"
 lastUpdated: "2026-02-21"

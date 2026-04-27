@@ -5,7 +5,7 @@ birth: "1948-12-10"
 death: "2004-03-08"
 nationality: "Palestine"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/83/Abu_Abbas_pic.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Abbas"
 lastUpdated: "2026-02-26"

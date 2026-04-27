@@ -5,7 +5,7 @@ birth: "1978-01-01"
 death: "Unknown"
 nationality: "India"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/SIP-logo_eng_new-%28rgb%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sahara_Group"
 lastUpdated: "2026-02-26"

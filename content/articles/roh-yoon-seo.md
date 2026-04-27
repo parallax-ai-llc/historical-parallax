@@ -3,6 +3,7 @@ name: "Roh Yoon-seo"
 birth: "2000-08-08"
 nationality: "South Korean"
 occupation: ["Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Noh_Yoon-seo_%EB%85%B8%EC%9C%A4%EC%84%9C_in_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roh_Yoon-seo"
 lastUpdated: "2026-03-12"

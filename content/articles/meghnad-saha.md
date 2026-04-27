@@ -5,7 +5,7 @@ birth: "1893-10-06"
 death: "1956-02-16"
 nationality: "Indian"
 occupation: ["Astrophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Dr-Meghnad-Saha.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meghnad_Saha"
 lastUpdated: "2026-02-21"

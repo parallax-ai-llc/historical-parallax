@@ -5,7 +5,7 @@ birth: "1929-02-11"
 death: "1929-02-11"
 nationality: "Italy"
 occupation: ["Historical Event", "Treaty", "Church-State"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Group_of_Vatican_and_Italian_government_notables_posing_at_the_Lateran_Palace_before_the_signing_of_the_treaty.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lateran_Treaty"
 lastUpdated: "2026-02-21"

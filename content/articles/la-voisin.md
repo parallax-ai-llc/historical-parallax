@@ -5,7 +5,7 @@ birth: "1640-01-01"
 death: "1680-02-22"
 nationality: "France"
 occupation: ["Serial Killer", "Historical Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Catherine_Deshayes_%28Monvoisin%2C_dite_%C2%ABLa_Voisin%C2%BB%29_1680.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/La_Voisin"
 lastUpdated: "2026-02-26"

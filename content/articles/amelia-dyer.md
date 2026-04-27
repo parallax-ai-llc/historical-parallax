@@ -5,7 +5,7 @@ birth: "1837-01-01"
 death: "1896-06-10"
 nationality: "United Kingdom"
 occupation: ["Serial Killer", "Baby Farmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Amelia_dyer1893.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amelia_Dyer"
 lastUpdated: "2026-02-21"

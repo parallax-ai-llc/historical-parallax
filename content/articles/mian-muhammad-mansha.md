@@ -5,7 +5,7 @@ birth: "1947-01-01"
 death: "Unknown"
 nationality: "Pakistani"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mian_Muhammad_Mansha.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mian_Muhammad_Mansha"
 lastUpdated: "2026-02-21"

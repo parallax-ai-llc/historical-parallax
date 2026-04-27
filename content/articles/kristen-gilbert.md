@@ -5,7 +5,7 @@ birth: "1967-11-13"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Serial Killer", "Nurse"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Kristen_Gilbert_mug_shot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kristen_Gilbert"
 lastUpdated: "2026-02-21"

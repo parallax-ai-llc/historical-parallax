@@ -5,7 +5,7 @@ birth: "1951-01-01"
 death: "N/A"
 nationality: "United Kingdom / Northern Ireland"
 occupation: ["Terrorist", "IRA Member"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Patrick_Magee_-_Brighton_Bomber.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Patrick_Magee_(Irish_republican)"
 lastUpdated: "2026-02-21"

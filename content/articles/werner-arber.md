@@ -5,7 +5,7 @@ birth: "1929-06-03"
 death: "Unknown"
 nationality: "Swiss"
 occupation: ["Microbiologist", "Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Werber_Arber_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Werner_Arber"
 lastUpdated: "2026-02-21"

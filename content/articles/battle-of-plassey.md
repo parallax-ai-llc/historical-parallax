@@ -5,7 +5,7 @@ birth: "1757-06-23"
 death: "1757-06-23"
 nationality: "India"
 occupation: ["Historical Event", "Battle", "Colonial War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Plassey"
 lastUpdated: "2026-02-21"

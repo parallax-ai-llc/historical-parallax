@@ -3,6 +3,7 @@ name: "Mick Schumacher"
 birth: "1999-03-22"
 nationality: "German"
 occupation: ["Racing Driver", "F1 Reserve Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mick_Schumacher_2024_WEC_Fuji.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mick_Schumacher"
 lastUpdated: "2026-03-12"

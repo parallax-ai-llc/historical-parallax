@@ -5,7 +5,7 @@ birth: "1992-11-03"
 death: "N/A (Imprisoned)"
 nationality: "Canada"
 occupation: ["Mass Murderer", "Incel Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/2018_Toronto_van_attack.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Toronto_van_attack"
 lastUpdated: "2026-02-26"

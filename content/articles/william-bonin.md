@@ -5,7 +5,7 @@ birth: "1947-01-08"
 death: "1996-02-23"
 nationality: "United States"
 occupation: ["Serial Killer", "Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bill_Bonin%27s_Feb._4%2C_1980_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Bonin"
 lastUpdated: "2026-02-21"

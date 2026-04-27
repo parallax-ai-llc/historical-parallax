@@ -5,7 +5,7 @@ birth: "1967-12-21"
 death: "Unknown"
 nationality: "Georgia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%A1%D0%B0%D0%B0%D0%BA%D0%B0%D1%88%D0%B2%D0%B8%D0%BB%D0%B8_%2804-10-2021%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikheil_Saakashvili"
 lastUpdated: "2026-02-26"

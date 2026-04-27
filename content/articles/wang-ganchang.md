@@ -5,7 +5,7 @@ birth: "1907-05-28"
 death: "1998-12-10"
 nationality: "Chinese"
 occupation: ["Nuclear Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wang_Ganchang_early_1950s.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Ganchang"
 lastUpdated: "2026-02-21"

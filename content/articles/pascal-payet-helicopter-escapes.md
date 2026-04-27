@@ -5,7 +5,7 @@ birth: "2001-10-12"
 death: "Unknown"
 nationality: "France"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Mountjoy_Prison.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pascal_Payet_Helicopter_Escapes"
 lastUpdated: "2026-02-26"

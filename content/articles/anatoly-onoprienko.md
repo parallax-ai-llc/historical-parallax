@@ -5,7 +5,7 @@ birth: "1959-07-25"
 death: "2013-08-27"
 nationality: "Ukraine"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/6e/Anatoly_Onoprienko_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anatoly_Onoprienko"
 lastUpdated: "2026-02-21"

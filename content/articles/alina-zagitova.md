@@ -5,7 +5,7 @@ birth: "2002-05-18"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Athlete", "Olympic Champion", "Figure Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alina_Zagitova%2C_Team_Tutberidze_Show.png/3840px-Alina_Zagitova%2C_Team_Tutberidze_Show.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alina_Zagitova"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1989-10-15"
 death: "Unknown"
 nationality: "British"
 occupation: ["Athlete", "Olympic Champion", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Anthony_Joshua_2017.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anthony_Joshua"
 lastUpdated: "2026-02-26"

@@ -4,6 +4,7 @@ birth: "1953-12-08"
 death: "1992-04-10"
 nationality: "American"
 occupation: ["Comedian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sam_Kinison.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Kinison"
 lastUpdated: "2026-03-12"

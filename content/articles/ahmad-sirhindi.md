@@ -5,7 +5,7 @@ birth: "1564-06-26"
 death: "1624-12-10"
 nationality: "Indian"
 occupation: ["Scholar", "Sufi", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Ahmad_Sirhindi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmad_Sirhindi"
 lastUpdated: "2026-02-21"

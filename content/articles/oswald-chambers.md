@@ -5,7 +5,7 @@ birth: "1874-07-24"
 death: "1917-11-15"
 nationality: "Scottish"
 occupation: ["Preacher", "Author", "Chaplain"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/OswaldChambers.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oswald_Chambers"
 lastUpdated: "2026-02-21"

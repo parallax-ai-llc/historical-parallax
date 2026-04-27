@@ -5,7 +5,7 @@ birth: "1951-02-02"
 death: "Unknown"
 nationality: "Papua New Guinea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Paias_Wingti_in_Hagen_02_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paias_Wingti"
 lastUpdated: "2026-02-26"

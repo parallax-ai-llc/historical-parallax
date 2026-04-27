@@ -5,7 +5,7 @@ birth: "1963-11-14"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Real Estate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Pan_Shiyi_20171206.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pan_Shiyi"
 lastUpdated: "2026-02-21"

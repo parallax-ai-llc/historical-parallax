@@ -5,7 +5,7 @@ birth: "1926-03-25"
 death: "2003-10-16"
 nationality: "Hungarian"
 occupation: ["Athlete", "Olympic Champion", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bundesarchiv_Bild_183-34311-0002%2C_Laslo_Papp.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Papp"
 lastUpdated: "2026-02-26"

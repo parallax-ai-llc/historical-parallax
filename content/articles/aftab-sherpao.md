@@ -5,7 +5,7 @@ birth: "1944-05-10"
 death: "Unknown"
 nationality: "Pakistan"
 occupation: ["Survived Assassination"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Aftab_Ahmad_Sherpao.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aftab_Sherpao"
 lastUpdated: "2026-02-26"

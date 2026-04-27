@@ -5,7 +5,7 @@ birth: "0717-01-01"
 death: "0762-01-01"
 nationality: "Indian"
 occupation: ["Tantric Master", "Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Guru_Rinpoche_in_mist_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Padmasambhava"
 lastUpdated: "2026-02-21"

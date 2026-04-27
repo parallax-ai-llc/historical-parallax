@@ -5,7 +5,7 @@ birth: "1891-09-22"
 death: "1978-02-24"
 nationality: "American"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Portrait_of_a_Lady_%28Alma_Thomas%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alma_Woodsey_Thomas"
 lastUpdated: "2026-02-26"

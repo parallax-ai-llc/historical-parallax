@@ -5,7 +5,7 @@ birth: "1884-07-12"
 death: "1920-01-24"
 nationality: "Italian"
 occupation: ["Artist", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Amedeo_Modigliani_in_his_studio.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amedeo_Modigliani"
 lastUpdated: "2026-02-26"

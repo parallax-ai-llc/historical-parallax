@@ -5,7 +5,7 @@ birth: "2015-10-31"
 death: "Unknown"
 nationality: "Egypt"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Metrojet_9268_tail_section_wreckage.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Metrojet_Flight_9268"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1976-09-18"
 death: "Unknown"
 nationality: "Brazilian"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronaldo_Naz%C3%A1rio"
 lastUpdated: "2026-02-26"

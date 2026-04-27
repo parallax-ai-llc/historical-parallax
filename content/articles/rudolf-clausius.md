@@ -5,7 +5,7 @@ birth: "1822-01-02"
 death: "1888-08-24"
 nationality: "German"
 occupation: ["Physicist", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rudolf_Clausius_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudolf_Clausius"
 lastUpdated: "2026-02-21"

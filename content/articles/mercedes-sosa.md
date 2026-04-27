@@ -3,6 +3,7 @@ name: "Mercedes Sosa"
 birth: "1935-07-09"
 nationality: "Argentine"
 occupation: ["Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mercedes_Sosa%2C_by_Annemarie_Heinrich.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mercedes_Sosa"
 lastUpdated: "2026-03-12"

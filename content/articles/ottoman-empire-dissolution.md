@@ -5,7 +5,7 @@ birth: "1922-11-01"
 death: "1922-11-01"
 nationality: "Turkey"
 occupation: ["Historical Event", "Empire", "Modern History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Territorial_changes_of_the_Ottoman_Empire_1912_corrected.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ottoman_Empire_Dissolution"
 lastUpdated: "2026-02-21"

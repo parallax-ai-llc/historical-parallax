@@ -5,7 +5,7 @@ birth: "1963-03-14"
 death: "living"
 nationality: "Spanish"
 occupation: ["Astronaut", "Aeronautical Engineer", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pedro_Duque_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedro_Duque"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1493-11-11"
 death: "1541-09-24"
 nationality: "Swiss-German"
 occupation: ["Physician", "Alchemist", "Toxicologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Aureolus_Theophrastus_Bombastus_von_Hohenheim_%28Paracelsus%29._Wellcome_V0004455.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paracelsus"
 lastUpdated: "2026-02-21"

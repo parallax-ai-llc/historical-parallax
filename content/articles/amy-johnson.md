@@ -4,6 +4,7 @@ birth: "1903-07-01"
 death: "1941-01-05"
 nationality: "British"
 occupation: ["Aviator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Amy_Johnson_%28Our_Generation%2C_1938%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amy_Johnson"
 lastUpdated: "2026-03-12"

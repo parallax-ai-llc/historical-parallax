@@ -5,7 +5,7 @@ birth: "1987-07-08"
 death: "Unknown"
 nationality: "Bulgarian-American"
 occupation: ["Entrepreneur", "Fintech"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Portrait_of_Vlad_Tenev.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vlad_Tenev"
 lastUpdated: "2026-02-21"

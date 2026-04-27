@@ -5,7 +5,7 @@ birth: "1902-12-16"
 death: "1920-09-28"
 nationality: "Korean"
 occupation: ["Independence activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ryu_Gwan-sun.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryu_Gwansun"
 lastUpdated: "2026-02-21"

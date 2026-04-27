@@ -5,7 +5,7 @@ birth: "1879-03-26"
 death: "1965-09-22"
 nationality: "Swiss-American"
 occupation: ["Civil Engineer", "Bridge Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ammann%2C_Othmar_Hermann_%281879-1965%29_in_1932.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Othmar_Ammann"
 lastUpdated: "2026-02-21"

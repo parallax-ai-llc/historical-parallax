@@ -5,7 +5,7 @@ birth: "1965-09-02"
 death: "Unknown"
 nationality: "British/Canadian"
 occupation: ["Athlete", "Olympic Champion", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lenox_Lewis_2010_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lennox_Lewis"
 lastUpdated: "2026-02-21"

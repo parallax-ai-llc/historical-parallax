@@ -5,7 +5,7 @@ birth: "1853-09-02"
 death: "1932-04-04"
 nationality: "German"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Wilhelm_Ostwald_by_Nicola_Perscheid.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wilhelm_Ostwald"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1943-12-24"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lee_Myung_Hee_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Myung-hee"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1957-08-18"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Composer", "Conductor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Tan_Dun.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tan_Dun"
 lastUpdated: "2026-02-21"

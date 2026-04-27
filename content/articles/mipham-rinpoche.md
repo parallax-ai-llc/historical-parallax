@@ -5,7 +5,7 @@ birth: "1846-01-01"
 death: "1912-01-01"
 nationality: "Tibetan"
 occupation: ["Philosopher", "Scholar", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/MiphamNew.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mipham_Rinpoche"
 lastUpdated: "2026-02-21"

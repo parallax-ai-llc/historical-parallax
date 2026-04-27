@@ -5,7 +5,7 @@ birth: "1949-08-25"
 death: "Unknown"
 nationality: "Malian"
 occupation: ["Singer", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Salif_Keita.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salif_Keita"
 lastUpdated: "2026-02-21"

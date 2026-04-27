@@ -5,7 +5,7 @@ birth: "1969-10-22"
 death: "Unknown"
 nationality: "UAE"
 occupation: ["Political Prisoner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ahmed_Mansoor_Al_Shehhi_EFF.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmed_Mansoor"
 lastUpdated: "2026-02-26"

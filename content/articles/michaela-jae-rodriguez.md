@@ -3,6 +3,7 @@ name: "Michaela Jaé Rodriguez"
 birth: "1991-01-07"
 nationality: "American"
 occupation: ["Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Mj_Rodriguez_Christmas_Lives_Within_You_2020.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michaela_Ja%C3%A9_Rodriguez"
 lastUpdated: "2026-03-12"

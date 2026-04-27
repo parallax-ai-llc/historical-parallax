@@ -5,7 +5,7 @@ birth: "1972-01-01"
 death: "Unknown"
 nationality: "China"
 occupation: ["Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Hui_man.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tang_Hui"
 lastUpdated: "2026-02-26"

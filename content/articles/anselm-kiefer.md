@@ -5,7 +5,7 @@ birth: "1945-03-08"
 death: "Unknown"
 nationality: "German"
 occupation: ["Painter", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/cc/%27Grane%27_by_Anselm_Kiefer._Woodcut_with_paint_and_collage_on_paper_mounted_on_linin%2C_Museum_of_Modern_Art_%28New_York_City%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anselm_Kiefer"
 lastUpdated: "2026-02-21"

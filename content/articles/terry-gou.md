@@ -5,7 +5,7 @@ birth: "1950-10-08"
 death: "Unknown"
 nationality: "Taiwanese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/TerryGou_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terry_Gou"
 lastUpdated: "2026-02-21"

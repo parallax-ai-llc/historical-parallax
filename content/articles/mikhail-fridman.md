@@ -5,7 +5,7 @@ birth: "1964-04-21"
 death: "Unknown"
 nationality: "Ukrainian-Russian"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mikhail_Fridman%2C_Petr_Aven_and_Lord_Browne_at_the_L1_Energy_launch_New_York_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Fridman"
 lastUpdated: "2026-02-21"

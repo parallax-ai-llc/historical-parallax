@@ -5,7 +5,7 @@ birth: "1921-09-13"
 death: "1983-12-13"
 nationality: "Russian-American"
 occupation: ["Priest", "Theologian", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Alexander_Schmemann.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexander_Schmemann"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1961-01-03"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/2021_Vladimir_Potanin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Potanin"
 lastUpdated: "2026-02-21"

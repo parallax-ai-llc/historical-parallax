@@ -5,7 +5,7 @@ birth: "1903-09-25"
 death: "1979-09-22"
 nationality: "Pakistani"
 occupation: ["Theologian", "Political Activist", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/84/Abul_A%27la_Maududi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abul_A'la_Maududi"
 lastUpdated: "2026-02-21"

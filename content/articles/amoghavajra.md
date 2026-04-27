@@ -5,7 +5,7 @@ birth: "0705-01-01"
 death: "0774-01-01"
 nationality: "Indian-Chinese"
 occupation: ["Monk", "Translator", "Tantric Master"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Portrait_of_Amoghavajra%2C_14_century%2C_National_Museum%2C_Tokyo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amoghavajra"
 lastUpdated: "2026-02-21"

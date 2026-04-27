@@ -4,6 +4,7 @@ name: "Park Sang-byung"
 birth: "1960s"
 nationality: "South Korea"
 occupation: ["Political Commentator", "University Professor", "Political Scientist", "Civic Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Park_Byung-eun_2021.jpg"
 socialLinks:
   wikipedia: ""
 lastUpdated: "2025-12-31"

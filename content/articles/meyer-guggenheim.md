@@ -5,7 +5,7 @@ birth: "1828-02-01"
 death: "1905-03-15"
 nationality: "Swiss-American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Meyer_Guggenheim.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meyer_Guggenheim"
 lastUpdated: "2026-02-21"

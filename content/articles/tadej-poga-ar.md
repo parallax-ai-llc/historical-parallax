@@ -5,7 +5,7 @@ birth: "1998-09-21"
 death: "Unknown"
 nationality: "Slovenian"
 occupation: ["Athlete", "Cyclist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/2022_Tour_of_Slovenia_%28Stage_3%2C_Tadej_Poga%C4%8Dar_celebrating_victory_on_Celje_Castle_v2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tadej_Poga%C4%8Dar"
 lastUpdated: "2026-02-26"

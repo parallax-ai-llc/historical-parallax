@@ -5,7 +5,7 @@ birth: "1976-07-21"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Athlete", "Olympic Champion", "Triple Jumper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0_2013_Volgograd.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tatyana_Lebedeva"
 lastUpdated: "2026-02-26"

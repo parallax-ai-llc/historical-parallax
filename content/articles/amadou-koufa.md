@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "Unknown"
 nationality: "Mali"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Amadou_Koffa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amadou_Koufa"
 lastUpdated: "2026-02-26"

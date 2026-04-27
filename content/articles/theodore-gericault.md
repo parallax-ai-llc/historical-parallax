@@ -5,7 +5,7 @@ birth: "1791-09-26"
 death: "1824-01-26"
 nationality: "French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theodore_Gericault"
 lastUpdated: "2026-02-21"

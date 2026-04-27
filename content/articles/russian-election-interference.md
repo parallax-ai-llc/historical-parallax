@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Intelligence_Community_Assessment_-_Assessing_Russian_Activities_and_Intentions_in_Recent_US_Elections.pdf"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russian_Election_Interference"
 lastUpdated: "2026-02-26"

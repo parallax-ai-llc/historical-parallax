@@ -5,7 +5,7 @@ birth: "1980-07-30"
 death: "Unknown"
 nationality: "Thai"
 occupation: ["Athlete", "Muay Thai Fighter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/SaenchaiSorKingstar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saenchai"
 lastUpdated: "2026-02-26"

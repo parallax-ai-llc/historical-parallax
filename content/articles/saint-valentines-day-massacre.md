@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/St_Valentine%27s_Day_Massacre_-_view_from_above.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saint_Valentines_Day_Massacre"
 lastUpdated: "2026-02-26"

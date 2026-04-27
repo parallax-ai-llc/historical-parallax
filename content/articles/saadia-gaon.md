@@ -5,7 +5,7 @@ birth: "0882-01-01"
 death: "0942-05-16"
 nationality: "Egyptian Jewish"
 occupation: ["Rabbi", "Philosopher", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Guide_for_the_Perplexed_by_Maimonides.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saadia_Gaon"
 lastUpdated: "2026-02-21"

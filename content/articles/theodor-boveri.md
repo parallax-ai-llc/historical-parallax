@@ -5,7 +5,7 @@ birth: "1862-10-12"
 death: "1915-10-15"
 nationality: "German"
 occupation: ["Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Theodor_Boveri_high_res-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theodor_Boveri"
 lastUpdated: "2026-02-21"

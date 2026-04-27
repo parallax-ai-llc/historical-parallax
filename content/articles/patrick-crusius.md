@@ -5,7 +5,7 @@ birth: "1998-07-27"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Mass Murderer", "White Supremacist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Patrick_Crusius_exiting_a_Walmart_in_El_Paso%2C_Texas_after_murdering_23_shoppers.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2019_El_Paso_shooting"
 lastUpdated: "2026-02-26"

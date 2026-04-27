@@ -5,7 +5,7 @@ birth: "1961-01-01"
 death: "1996-01-01"
 nationality: "South Korea"
 occupation: ["Historical Event", "Economic", "Korean History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/GDP_history_Since_1950_~_2016.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miracle_on_the_Han_River"
 lastUpdated: "2026-02-21"

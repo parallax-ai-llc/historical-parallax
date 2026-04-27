@@ -5,7 +5,7 @@ birth: "1910-08-30"
 death: "1973-12-07"
 nationality: "French-Indian"
 occupation: ["Monk", "Mystic", "Pioneer of Hindu-Christian Dialogue"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Swami_Abhishiktananda.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swami_Abhishiktananda"
 lastUpdated: "2026-02-21"

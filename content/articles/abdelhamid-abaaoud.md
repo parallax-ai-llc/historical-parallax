@@ -5,7 +5,7 @@ birth: "1987-04-08"
 death: "2015-11-18"
 nationality: "Belgium / Morocco"
 occupation: ["Terrorist", "ISIS Operative"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/88/Abdelhamid_Abaaoud.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdelhamid_Abaaoud"
 lastUpdated: "2026-02-26"

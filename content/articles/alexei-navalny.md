@@ -5,7 +5,7 @@ birth: "1976-06-04"
 death: "2024-02-16"
 nationality: "Russia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Alexey_Navalny_2018_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexei_Navalny"
 lastUpdated: "2026-02-26"

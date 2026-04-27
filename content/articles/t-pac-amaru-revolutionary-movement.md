@@ -5,7 +5,7 @@ birth: "1984-01-01"
 death: "Unknown"
 nationality: "Peru"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_MRTA.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/T%C3%BApac_Amaru_Revolutionary_Movement"
 lastUpdated: "2026-02-26"

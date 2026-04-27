@@ -5,7 +5,7 @@ birth: "1963-09-25"
 death: "Unknown"
 nationality: "France"
 occupation: ["Robber", "Escape Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Pascal_payet._BWjpg.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pascal_Payet"
 lastUpdated: "2026-02-26"

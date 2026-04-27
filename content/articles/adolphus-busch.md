@@ -5,7 +5,7 @@ birth: "1839-07-10"
 death: "1913-10-10"
 nationality: "German-American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Adolphus_busch2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adolphus_Busch"
 lastUpdated: "2026-02-21"

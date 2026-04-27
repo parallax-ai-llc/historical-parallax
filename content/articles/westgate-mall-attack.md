@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Kenya"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Smoke_above_Westgate_mall.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Westgate_Mall_Attack"
 lastUpdated: "2026-02-26"

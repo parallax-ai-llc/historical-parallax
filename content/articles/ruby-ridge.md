@@ -5,7 +5,7 @@ birth: "1992-08-21"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/VickiWeaverLastPhoto1992.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ruby_Ridge"
 lastUpdated: "2026-02-26"

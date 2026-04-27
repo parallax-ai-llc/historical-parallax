@@ -5,7 +5,7 @@ birth: "1876-04-04"
 death: "1958-10-11"
 nationality: "French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Derain_et_Vlaminck_en_1942.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maurice_de_Vlaminck"
 lastUpdated: "2026-02-21"

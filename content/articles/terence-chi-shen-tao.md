@@ -5,7 +5,7 @@ birth: "1975-07-17"
 death: "Unknown"
 nationality: "Australian-American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Terence_Tao%2C_PCAST_Member_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terence_Chi-Shen_Tao"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1945-08-19"
 death: "Unknown"
 nationality: "German"
 occupation: ["Musician", "Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Kraftwerk_1975_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kraftwerk"
 lastUpdated: "2026-02-21"

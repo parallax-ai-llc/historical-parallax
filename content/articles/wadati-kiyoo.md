@@ -5,7 +5,7 @@ birth: "1902-09-08"
 death: "1995-01-05"
 nationality: "Japanese"
 occupation: ["Seismologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Benioff_zone_earthquake_focus.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wadati_Kiyoo"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1924-04-02"
 death: "2002-11-19"
 nationality: "Italy"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ciancimino.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vito_Ciancimino"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "2016-09-08"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Financial Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Wells_Fargo_Logo_%282020%29.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wells_Fargo_Fake_Accounts"
 lastUpdated: "2026-02-26"

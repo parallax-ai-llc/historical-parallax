@@ -5,7 +5,7 @@ birth: "1775-04-19"
 death: "1783-09-03"
 nationality: "United States"
 occupation: ["Historical Event", "Revolution", "Independence"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/American_Revolution"
 lastUpdated: "2026-02-21"

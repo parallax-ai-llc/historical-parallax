@@ -5,7 +5,7 @@ birth: "1947-08-15"
 death: "1947-08-15"
 nationality: "India"
 occupation: ["Historical Event", "Empire", "Decolonization"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Brit_IndianEmpireReligions3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Partition_of_India"
 lastUpdated: "2026-02-21"

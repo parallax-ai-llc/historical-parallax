@@ -5,7 +5,7 @@ birth: "1210-01-01"
 death: "1291-12-09"
 nationality: "Persian"
 occupation: ["Poet", "Moralist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Saadi_by_Hossein_Behzad_%28Inverted%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saadi_Shirazi"
 lastUpdated: "2026-02-21"

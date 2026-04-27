@@ -3,6 +3,7 @@ name: "Theo Von"
 birth: "1980-03-19"
 nationality: "American"
 occupation: ["Stand-up Comedian", "Podcaster"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Theo_Von_Edited_James_Tamim.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theo_Von"
 lastUpdated: "2026-03-12"

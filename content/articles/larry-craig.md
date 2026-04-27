@@ -5,7 +5,7 @@ birth: "1945-07-20"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Larry_Craig_official_portrait_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Larry_Craig"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Lay Zhang"
 birth: "1991-10-07"
 nationality: "Chinese"
 occupation: ["Singer", "Actor", "Dancer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lay_at_Busan_International_Film_Festival_Opening_Ceremony_on_October_4%2C_2018_%282%29_%28derived%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lay_Zhang"
 lastUpdated: "2026-03-12"

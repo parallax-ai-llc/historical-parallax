@@ -5,7 +5,7 @@ birth: "1882-03-23"
 death: "1935-04-14"
 nationality: "German"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Emmy_Noether_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amalie_Emmy_Noether"
 lastUpdated: "2026-02-26"

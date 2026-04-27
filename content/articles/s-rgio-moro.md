@@ -5,7 +5,7 @@ birth: "1972-08-01"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Senador_da_Rep%C3%BAblica_S%C3%A9rgio_Moro.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S%C3%A9rgio_Moro"
 lastUpdated: "2026-02-26"

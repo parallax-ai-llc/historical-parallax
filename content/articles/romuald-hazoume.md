@@ -5,7 +5,7 @@ birth: "1962-01-01"
 death: "Unknown"
 nationality: "Beninese"
 occupation: ["Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/2010-08-09_Marrakech_54_Romuald_Hazum%C3%A8.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Romuald_Hazoume"
 lastUpdated: "2026-02-21"

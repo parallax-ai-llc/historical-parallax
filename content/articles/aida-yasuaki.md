@@ -5,7 +5,7 @@ birth: "1747-02-10"
 death: "1817-10-26"
 nationality: "Japanese"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Aida_Yasuaki.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aida_Yasuaki"
 lastUpdated: "2026-02-21"

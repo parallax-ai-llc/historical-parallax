@@ -5,7 +5,7 @@ birth: "1974-01-01"
 death: "Unknown"
 nationality: "Ethiopian"
 occupation: ["Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Aida_Mulune.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aida_Muluneh"
 lastUpdated: "2026-02-21"

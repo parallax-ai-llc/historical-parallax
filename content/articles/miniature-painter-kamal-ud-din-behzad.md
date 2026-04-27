@@ -5,7 +5,7 @@ birth: "1450-01-01"
 death: "1535-01-01"
 nationality: "Persian"
 occupation: ["Painter", "Miniaturist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Picture_of_the_master_Behzad_unknow_artist.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miniature_Painter_Kamal_ud-Din_Behzad"
 lastUpdated: "2026-02-21"

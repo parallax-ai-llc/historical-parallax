@@ -5,7 +5,7 @@ birth: "1940-10-03"
 death: "Unknown"
 nationality: "American"
 occupation: ["Geologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Geologist_Walter_Alvarez_at_Cretaceous%E2%80%93Paleogene_boundary_in_Gubio%2C_Italy_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walter_Alvarez"
 lastUpdated: "2026-02-21"

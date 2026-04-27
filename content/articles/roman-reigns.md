@@ -3,6 +3,7 @@ name: "Roman Reigns"
 birth: "1985-05-25"
 nationality: "American"
 occupation: ["Professional Wrestler"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Roman_Reigns_RR25_%281%29_%28headshot%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roman_Reigns"
 lastUpdated: "2026-03-12"

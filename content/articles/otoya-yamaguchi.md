@@ -5,7 +5,7 @@ birth: "1943-02-22"
 death: "1960-11-02"
 nationality: "Japan"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/9f/Tokyo_Stabbing.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Otoya_Yamaguchi"
 lastUpdated: "2026-02-26"

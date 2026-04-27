@@ -5,7 +5,7 @@ birth: "1881-10-01"
 death: "1956-09-28"
 nationality: "American"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tu4.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Boeing_duplicate"
 lastUpdated: "2026-02-26"

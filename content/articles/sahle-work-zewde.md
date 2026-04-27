@@ -5,7 +5,7 @@ birth: "1950-02-21"
 death: "Unknown"
 nationality: "Ethiopia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/%EC%82%AC%ED%9D%98%EB%A0%88%EC%9B%8C%ED%81%AC_%EC%A5%AC%EB%93%9C_%28Sahle-Work_Zewde%29_20221009.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sahle-Work_Zewde"
 lastUpdated: "2026-02-26"

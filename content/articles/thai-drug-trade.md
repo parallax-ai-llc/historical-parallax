@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Thailand"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Yaba_Tablet_%28Pill%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thai_Drug_Trade"
 lastUpdated: "2026-02-26"

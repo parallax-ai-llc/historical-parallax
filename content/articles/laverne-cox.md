@@ -3,6 +3,7 @@ name: "Laverne Cox"
 birth: "1972-05-29"
 nationality: "American"
 occupation: ["Actress", "LGBTQ Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Laverne_Cox_at_%22The_Apprentice%22_in_NYC_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Laverne_Cox"
 lastUpdated: "2026-03-12"

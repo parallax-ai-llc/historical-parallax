@@ -5,7 +5,7 @@ birth: "1899-03-29"
 death: "1953-12-23"
 nationality: "Soviet Union"
 occupation: ["Mass Murderer", "Secret Police Chief", "Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lavrentiy_Beria_portrait_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lavrenti_Beria"
 lastUpdated: "2026-02-26"

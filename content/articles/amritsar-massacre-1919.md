@@ -5,6 +5,7 @@ location: "Jallianwala Bagh, Amritsar, Punjab, British India"
 keyFigures: ["Brigadier-General Reginald Dyer", "Sir Michael O'Dwyer", "Udham Singh", "Marcella Sherwood", "Rabindranath Tagore"]
 casualties: "379-1,500+ killed (INC estimate), 1,200+ wounded"
 outcome: "Turning point of Indian Independence, Dyer forced to retire, Assassination of O'Dwyer (1940)"
+image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Jallianwala_Bagh_in_Day_light.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre"
 lastUpdated: "2025-12-23"

@@ -5,7 +5,7 @@ birth: "1916-12-15"
 death: "2004-10-05"
 nationality: "New Zealand-British"
 occupation: ["Physicist", "Molecular Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Maurice_H_F_Wilkins.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maurice_Wilkins"
 lastUpdated: "2026-02-21"

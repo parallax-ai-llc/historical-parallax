@@ -5,7 +5,7 @@ birth: "0540-01-01"
 death: "0470-01-01"
 nationality: "Indian"
 occupation: ["Buddhist Monk", "Disciple"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Head_of_the_Disciple_Ananda%2C_Hebei_province%2C_Fengfeng%2C_northern_Xiangtangshan_Cave_Temples%2C_South_Cave%2C_Northern_Qi_dynasty%2C_550-577_AD%2C_limestone_with_traces_of_pigment_-_Freer_Gallery_of_Art_-_DSC05697.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ananda"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1875-04-21"
 death: "1960-02-28"
 nationality: "Japanese"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Teiji_Takagi_photographed_by_Shigeru_Tamura.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Takagi_Teiji"
 lastUpdated: "2026-02-21"

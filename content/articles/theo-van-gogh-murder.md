@@ -5,7 +5,7 @@ birth: "2004-11-02"
 death: "Unknown"
 nationality: "Netherlands"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/TheoVanGogh.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theo_van_Gogh_Murder"
 lastUpdated: "2026-02-26"

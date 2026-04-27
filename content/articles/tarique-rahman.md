@@ -5,7 +5,7 @@ birth: "1967-11-20"
 death: "Unknown"
 nationality: "Bangladesh"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Prime_Minister_Tarique_Rahman_addressing_13th_National_Parliament%2C_Dhaka%2C_2026-03-12_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tarique_Rahman"
 lastUpdated: "2026-02-26"

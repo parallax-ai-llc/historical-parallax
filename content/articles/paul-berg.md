@@ -5,7 +5,7 @@ birth: "1926-06-30"
 death: "2023-02-15"
 nationality: "American"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Paul_Berg_in_1980.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Berg"
 lastUpdated: "2026-02-21"

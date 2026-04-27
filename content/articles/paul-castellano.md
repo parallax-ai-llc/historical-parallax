@@ -5,7 +5,7 @@ birth: "1915-06-26"
 death: "1985-12-16"
 nationality: "United States"
 occupation: ["Crime Boss", "Mafioso"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/NYPICHPDPICT000059241377_%28cropped%29_%28b%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Castellano"
 lastUpdated: "2026-02-21"

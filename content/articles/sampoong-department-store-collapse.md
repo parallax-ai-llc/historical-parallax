@@ -5,7 +5,7 @@ birth: "1995-06-29"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/2000%EB%85%84%EB%8C%80_%EC%B4%88%EB%B0%98_%EC%84%9C%EC%9A%B8%EC%86%8C%EB%B0%A9_%EC%86%8C%EB%B0%A9%EA%B3%B5%EB%AC%B4%EC%9B%90%28%EC%86%8C%EB%B0%A9%EA%B4%80%29_%ED%99%9C%EB%8F%99_%EC%82%AC%EC%A7%84_%EC%82%BC%ED%92%8D003_%28cropped_and_color_corrected%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sampoong_Department_Store_Collapse"
 lastUpdated: "2026-02-26"

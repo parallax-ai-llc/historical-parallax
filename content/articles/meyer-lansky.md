@@ -5,7 +5,7 @@ birth: "1902-07-04"
 death: "1983-01-15"
 nationality: "Belarus / United States"
 occupation: ["Crime Boss", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Meyer_Lansky_NYWTS_1_Edit_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meyer_Lansky"
 lastUpdated: "2026-02-21"

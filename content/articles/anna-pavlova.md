@@ -4,6 +4,7 @@ birth: "1881-02-12"
 death: "1931-01-23"
 nationality: "Russian"
 occupation: ["Ballet Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Anna_Pavlova_as_the_Dying_Swan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anna_Pavlova"
 lastUpdated: "2026-03-12"

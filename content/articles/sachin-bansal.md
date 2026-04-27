@@ -5,7 +5,7 @@ birth: "1981-08-05"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Sachin_Bansal_SB.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sachin_Bansal"
 lastUpdated: "2026-02-21"

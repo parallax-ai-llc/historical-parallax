@@ -5,7 +5,7 @@ birth: "1971-04-21"
 death: "2011-09-30"
 nationality: "Yemen"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Anwar_al-Awlaki_sitting_on_couch%2C_lightened_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anwar_al-Awlaki"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1953-01-01"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nyamata_Memorial_Site_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tharcisse_Muvunyi"
 lastUpdated: "2026-02-26"

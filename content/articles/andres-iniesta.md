@@ -3,6 +3,7 @@ name: "Andrés Iniesta"
 birth: "1984-05-11"
 nationality: "Spanish"
 occupation: ["Footballer", "Midfielder", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Andr%C3%A9s_Iniesta_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta"
 lastUpdated: "2026-03-12"

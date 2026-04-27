@@ -5,7 +5,7 @@ birth: "1987-06-14"
 death: "2015-12-02"
 nationality: "United States"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Syed_Rizwan_Farook.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Syed_Rizwan_Farook"
 lastUpdated: "2026-02-26"

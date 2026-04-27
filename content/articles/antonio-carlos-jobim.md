@@ -5,7 +5,7 @@ birth: "1927-01-25"
 death: "1994-12-08"
 nationality: "Brazilian"
 occupation: ["Composer", "Pianist", "Singer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ant%C3%B4nio_Carlos_Jobim_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antonio_Carlos_Jobim"
 lastUpdated: "2026-02-21"

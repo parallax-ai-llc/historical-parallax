@@ -5,7 +5,7 @@ birth: "1852-06-25"
 death: "1926-06-10"
 nationality: "Spanish"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Antoni_Gaudi_1878.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antoni_Gaudi"
 lastUpdated: "2026-02-21"

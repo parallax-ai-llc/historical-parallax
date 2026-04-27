@@ -5,7 +5,7 @@ birth: "1979-12-05"
 death: "Unknown"
 nationality: "Ukraine"
 occupation: ["Far-Right Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Andrii_Biletskyi.jpg/3840px-Andrii_Biletskyi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andriy_Biletsky"
 lastUpdated: "2026-02-26"

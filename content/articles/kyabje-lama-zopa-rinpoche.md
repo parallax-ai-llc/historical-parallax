@@ -5,7 +5,7 @@ birth: "1946-01-01"
 death: "2023-04-13"
 nationality: "Nepali"
 occupation: ["Buddhist Teacher", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/His_Holiness_and_His_Eminence_Kyabje_Ch%C3%B6den_Rinpoche.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kyabje_Lama_Zopa_Rinpoche"
 lastUpdated: "2026-02-21"

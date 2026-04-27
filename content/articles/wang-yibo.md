@@ -3,6 +3,7 @@ name: "Wang Yibo"
 birth: "1997-08-05"
 nationality: "Chinese"
 occupation: ["Actor", "Singer", "Dancer", "Motorcycle Racer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/20200111%E7%8E%8B%E4%B8%80%E5%8D%9A.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Yibo"
 lastUpdated: "2026-03-12"

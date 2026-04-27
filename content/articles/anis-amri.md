@@ -5,7 +5,7 @@ birth: "1992-12-22"
 death: "2016-12-23"
 nationality: "Tunisia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Terroranschlag-Berlin-Breitscheidplatz-2016_%282%29_%2831731061626%29_%28square_crop%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anis_Amri"
 lastUpdated: "2026-02-26"

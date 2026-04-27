@@ -3,6 +3,7 @@ name: "Andrea Dovizioso"
 birth: "1986-03-23"
 nationality: "Italian"
 occupation: ["Racing Driver", "MotoGP Rider", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Andrea_Dovizioso_talks_to_media.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrea_Dovizioso"
 lastUpdated: "2026-03-12"

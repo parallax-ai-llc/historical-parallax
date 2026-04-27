@@ -5,7 +5,7 @@ birth: "1969-03-13"
 death: "Unknown"
 nationality: "Jamaica"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Christopher_Coke.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Christopher_Coke"
 lastUpdated: "2026-02-26"

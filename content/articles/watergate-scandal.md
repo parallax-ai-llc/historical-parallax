@@ -5,7 +5,7 @@ birth: "1972-06-17"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Scandal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Watergate_complex.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Watergate_Scandal"
 lastUpdated: "2026-02-26"

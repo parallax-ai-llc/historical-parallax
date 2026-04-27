@@ -5,7 +5,7 @@ birth: "1971-10-01"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ding_Lei_-_Founder_of_NetEase_-_12_-_12_-_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Ding"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1922-02-06"
 death: "1922-02-06"
 nationality: "United States"
 occupation: ["Historical Event", "Treaty", "Arms Control"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Washington_Naval_Treaty.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Washington_Naval_Treaty"
 lastUpdated: "2026-02-21"

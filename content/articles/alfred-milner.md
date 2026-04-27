@@ -5,7 +5,7 @@ birth: "1854-03-23"
 death: "1925-05-13"
 nationality: "United Kingdom"
 occupation: ["Colonial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lord_Milner.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfred_Milner"
 lastUpdated: "2026-02-26"

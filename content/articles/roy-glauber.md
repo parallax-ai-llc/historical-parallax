@@ -5,7 +5,7 @@ birth: "1925-09-01"
 death: "2018-12-26"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Roy_Glauber.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roy_Glauber"
 lastUpdated: "2026-02-26"

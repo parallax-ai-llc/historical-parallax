@@ -5,7 +5,7 @@ birth: "1974-12-10"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Olympic Champion", "Judoka"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tadahiro_Nomura_IMG_2218r_20151220.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tadahiro_Nomura"
 lastUpdated: "2026-02-26"

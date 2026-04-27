@@ -5,7 +5,7 @@ birth: "1939-01-01"
 death: "Unknown"
 nationality: "Cambodia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Emblem_of_the_Khmer_Rouge_Tribunal.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meas_Muth"
 lastUpdated: "2026-02-26"

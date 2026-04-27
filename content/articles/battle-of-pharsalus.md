@@ -5,7 +5,7 @@ birth: "0048-08-09"
 death: "0048-08-09"
 nationality: "Greece"
 occupation: ["Historical Event", "Battle", "Roman Civil War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Battle_of_Pharsalus%2C_48_BC.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Battle_of_Pharsalus"
 lastUpdated: "2026-02-21"

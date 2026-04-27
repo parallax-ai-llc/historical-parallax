@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Steve_Sanghyun_Noh_at_the_2024_Toronto_International_Film_Festival_3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kwak_Noh-hyun"
 lastUpdated: "2026-02-26"

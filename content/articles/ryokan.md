@@ -5,7 +5,7 @@ birth: "1758-01-01"
 death: "1831-02-18"
 nationality: "Japanese"
 occupation: ["Poet", "Monk", "Hermit"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Tamatsukuri_onsen_yado02s3648.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryokan"
 lastUpdated: "2026-02-21"

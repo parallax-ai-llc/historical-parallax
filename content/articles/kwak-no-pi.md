@@ -5,7 +5,7 @@ birth: "1380-01-01"
 death: "1440-01-01"
 nationality: "Korean"
 occupation: ["Architect", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Park_Byung-eun_2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kwak_No-pi"
 lastUpdated: "2026-02-21"

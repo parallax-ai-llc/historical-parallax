@@ -5,7 +5,7 @@ birth: "1942-01-09"
 death: "2020-10-25"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Kun-hee_II"
 lastUpdated: "2026-02-26"

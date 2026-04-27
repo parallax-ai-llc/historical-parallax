@@ -3,6 +3,7 @@ name: "Michelle Obama"
 birth: "1964-01-17"
 nationality: "American"
 occupation: ["Lawyer", "Author", "Former First Lady"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Michelle_Obama_2013_official_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michelle_Obama"
 lastUpdated: "2026-03-12"

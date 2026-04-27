@@ -3,6 +3,7 @@ name: "Kyle Larson"
 birth: "1992-07-31"
 nationality: "American"
 occupation: ["Racing Driver", "NASCAR Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Kyle_Larson_Las_Vegas_2026.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kyle_Larson"
 lastUpdated: "2026-03-12"

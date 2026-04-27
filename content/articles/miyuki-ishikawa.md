@@ -5,7 +5,7 @@ birth: "1897-01-01"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Serial Killer", "Midwife"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ishikawa_miyuki_portrait.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miyuki_Ishikawa"
 lastUpdated: "2026-02-21"

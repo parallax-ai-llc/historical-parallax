@@ -5,7 +5,7 @@ birth: "1722-12-21"
 death: "1794-11-15"
 nationality: "Ukrainian-Moldavian"
 occupation: ["Monk", "Translator", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Paisius.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paisius_Velichkovsky"
 lastUpdated: "2026-02-21"

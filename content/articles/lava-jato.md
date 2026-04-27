@@ -5,7 +5,7 @@ birth: "2014-01-01"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Montagem_Lava_Jato.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lava_Jato"
 lastUpdated: "2026-02-26"

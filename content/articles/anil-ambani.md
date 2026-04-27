@@ -5,7 +5,7 @@ birth: "1959-06-04"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Anil_Ambani%2C_2012_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anil_Ambani"
 lastUpdated: "2026-02-21"

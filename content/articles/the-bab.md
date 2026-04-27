@@ -5,7 +5,7 @@ birth: "1819-10-20"
 death: "1850-07-09"
 nationality: "Persian"
 occupation: ["Religious Leader", "Prophet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Shrine_Bab_North_West.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/The_Bab"
 lastUpdated: "2026-02-21"

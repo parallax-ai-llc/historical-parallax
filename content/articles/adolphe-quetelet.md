@@ -5,7 +5,7 @@ birth: "1796-02-22"
 death: "1874-02-17"
 nationality: "Belgian"
 occupation: ["Mathematician", "Astronomer", "Statistician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Adolphe_Qu%C3%A9telet_by_Joseph-Arnold_Demannez.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adolphe_Quetelet"
 lastUpdated: "2026-02-21"

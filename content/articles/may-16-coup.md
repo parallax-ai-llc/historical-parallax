@@ -5,7 +5,7 @@ birth: "1961-05-16"
 death: "1961-05-16"
 nationality: "South Korea"
 occupation: ["Historical Event", "Coup", "Korean History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/5.16_Coup_Park_Chung-hee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/May_16_Coup"
 lastUpdated: "2026-02-21"

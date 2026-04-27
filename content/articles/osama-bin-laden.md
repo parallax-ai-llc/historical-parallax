@@ -5,7 +5,7 @@ birth: "1957-03-10"
 death: "2011-05-02"
 nationality: "Saudi Arabia"
 occupation: ["Terrorist", "Al-Qaeda Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Osama_bin_Laden_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Osama_bin_Laden"
 lastUpdated: "2026-02-21"

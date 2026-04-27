@@ -5,7 +5,7 @@ birth: "0767-01-01"
 death: "0820-01-20"
 nationality: "Palestinian-Egyptian"
 occupation: ["Jurist", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Chester_Beatty_T_414_fol_130r_al-Sh%C4%81fi%CA%BF%C4%AB.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Shafi'i"
 lastUpdated: "2026-02-21"

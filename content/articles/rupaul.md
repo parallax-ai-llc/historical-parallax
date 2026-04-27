@@ -3,6 +3,7 @@ name: "RuPaul"
 birth: "1960-11-17"
 nationality: "American"
 occupation: ["Drag Queen", "Television Host", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/2019_California_Hall_of_Fame_Ceremony_01_%28cropped2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/RuPaul"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "-800-01-01"
 death: "-750-01-01"
 nationality: "Ancient Rome"
 occupation: ["Traitor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/L._Titurius_L.f._Sabinus._denarius%2C_89_BC%2C_RRC_344-2c_%28cropped_reverse%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tarpeia"
 lastUpdated: "2026-02-26"

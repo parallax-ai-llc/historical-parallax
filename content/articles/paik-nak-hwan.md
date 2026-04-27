@@ -5,7 +5,7 @@ birth: "1928-01-01"
 death: "1999-01-01"
 nationality: "Korean"
 occupation: ["Agricultural engineer", "Irrigation scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Vietnam_North_Korea_South_Korea_Locator.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paik_Nak-hwan"
 lastUpdated: "2026-02-21"

@@ -6,7 +6,7 @@ location: "Waco, Texas, United States"
 coordinates: [-97.18, 31.55]
 category: ["Siege", "United States"]
 outcome: "86 Branch Davidians dead; 4 ATF agents killed"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mountcarmelfire04-19-93-n.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Waco_siege"
 lastUpdated: "2026-02-26"

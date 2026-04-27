@@ -5,7 +5,7 @@ birth: "1931-03-11"
 death: "Unknown"
 nationality: "Australian-American"
 occupation: ["Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Barry_Diller_Shankbone_Metropolitan_Opera_2009.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rupert_Murdoch_duplicate"
 lastUpdated: "2026-02-26"

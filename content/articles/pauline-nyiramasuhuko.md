@@ -5,7 +5,7 @@ birth: "1946-01-01"
 death: "N/A (Imprisoned)"
 nationality: "Rwanda"
 occupation: ["War Criminal", "Minister"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nyamata_Memorial_Site_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pauline_Nyiramasuhuko"
 lastUpdated: "2026-02-21"

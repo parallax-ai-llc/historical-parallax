@@ -5,7 +5,7 @@ birth: "1946-01-23"
 death: "2013-03-23"
 nationality: "Russia"
 occupation: ["Oligarch", "Exile"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Berezovsky.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Berezovsky"
 lastUpdated: "2026-02-26"

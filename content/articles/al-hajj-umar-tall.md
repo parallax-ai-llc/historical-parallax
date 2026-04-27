@@ -5,7 +5,7 @@ birth: "1794-01-01"
 death: "1864-02-12"
 nationality: "Senegalese-Malian"
 occupation: ["Sufi Leader", "Military Commander", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Hadji_Oumar%C3%BBl_Foutiyou_Tall.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Hajj_Umar_Tall"
 lastUpdated: "2026-02-21"

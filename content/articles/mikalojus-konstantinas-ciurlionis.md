@@ -5,7 +5,7 @@ birth: "1875-09-22"
 death: "1911-04-10"
 nationality: "Lithuanian"
 occupation: ["Painter", "Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_Ciurlionis"
 lastUpdated: "2026-02-21"

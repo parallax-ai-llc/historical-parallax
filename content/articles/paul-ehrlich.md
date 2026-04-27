@@ -5,7 +5,7 @@ birth: "1854-03-14"
 death: "1915-08-20"
 nationality: "German"
 occupation: ["Physician", "Immunologist", "Bacteriologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Paul_Ehrlich_1915.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Ehrlich"
 lastUpdated: "2026-02-21"

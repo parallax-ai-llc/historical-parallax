@@ -5,7 +5,7 @@ birth: "1919-08-30"
 death: "2005-04-11"
 nationality: "American"
 occupation: ["Microbiologist", "Vaccinologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hilleman-Walter-Reed.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maurice_Hilleman"
 lastUpdated: "2026-02-21"

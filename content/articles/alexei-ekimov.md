@@ -5,7 +5,7 @@ birth: "1945-02-28"
 death: "Unknown"
 nationality: "Russian-American"
 occupation: ["Physicist", "Nobel laureate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/US_Embassy_Sweden_2023_Nobel_Reception_%2853390424929%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexei_Ekimov"
 lastUpdated: "2026-02-21"

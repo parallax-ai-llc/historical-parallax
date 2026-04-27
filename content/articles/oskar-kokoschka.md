@@ -5,7 +5,7 @@ birth: "1886-03-01"
 death: "1980-02-22"
 nationality: "Austrian"
 occupation: ["Painter", "Playwright"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Oskar_Kokoschka_%281963%29_by_Erling_Mandelmann.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oskar_Kokoschka"
 lastUpdated: "2026-02-21"

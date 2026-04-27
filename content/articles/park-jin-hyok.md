@@ -5,7 +5,7 @@ birth: "1984-01-01"
 death: "Unknown"
 nationality: "North Korea"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Park_Jin_Hyok_%28Upscaled%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Jin_Hyok"
 lastUpdated: "2026-02-26"

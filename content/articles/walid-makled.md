@@ -5,7 +5,7 @@ birth: "1964-06-29"
 death: "Unknown"
 nationality: "Venezuela"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Cl%C3%ADver_Alcal%C3%A1_Cordones.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walid_Makled"
 lastUpdated: "2026-02-26"

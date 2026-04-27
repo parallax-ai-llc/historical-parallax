@@ -5,7 +5,7 @@ birth: "1933-10-30"
 death: "2008-09-09"
 nationality: "American"
 occupation: ["Religious Leader", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Warith_Deen_Mohammed_holding_Quran_in_1977.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Warith_Deen_Mohammed"
 lastUpdated: "2026-02-21"

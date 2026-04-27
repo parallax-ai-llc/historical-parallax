@@ -5,7 +5,7 @@ birth: "2018-02-14"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Parkland_Shooting.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Parkland_School_Shooting"
 lastUpdated: "2026-02-26"

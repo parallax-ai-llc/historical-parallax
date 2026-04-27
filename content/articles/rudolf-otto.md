@@ -5,7 +5,7 @@ birth: "1869-09-25"
 death: "1937-03-06"
 nationality: "German"
 occupation: ["Theologian", "Philosopher of Religion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/RudolfOtto.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudolf_Otto"
 lastUpdated: "2026-02-21"

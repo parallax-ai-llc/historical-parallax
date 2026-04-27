@@ -5,7 +5,7 @@ birth: "1976-01-01"
 death: "Unknown"
 nationality: "Brazilian"
 occupation: ["Entrepreneur", "Legal Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Ronaldo_Lemos_2020_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronaldo_Lemos"
 lastUpdated: "2026-02-26"

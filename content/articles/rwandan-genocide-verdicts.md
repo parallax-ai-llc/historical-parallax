@@ -5,7 +5,7 @@ birth: "1955-10-19"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Images_of_war_23-25_from_Gaza%2C_by_Jaber_Badwen%2C_IMG_6185.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rwandan_Genocide_Verdicts"
 lastUpdated: "2026-02-26"

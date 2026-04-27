@@ -5,7 +5,7 @@ birth: "1949-12-30"
 death: "Unknown"
 nationality: "American"
 occupation: ["Choreographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Forsythe.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Forsythe"
 lastUpdated: "2026-02-26"

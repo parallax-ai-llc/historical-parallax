@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Norway"
 occupation: ["Serial Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Terje_Eide_Recalibrate_pic2_1080px140ppi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terje_Helles%C3%B8"
 lastUpdated: "2026-02-26"

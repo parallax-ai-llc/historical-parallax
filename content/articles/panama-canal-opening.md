@@ -5,7 +5,7 @@ birth: "1914-08-15"
 death: "1914-08-15"
 nationality: "Panama"
 occupation: ["Historical Event", "Discovery", "Engineering"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Panama_Canal_Map_EN.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Panama_Canal_Opening"
 lastUpdated: "2026-02-21"

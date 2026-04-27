@@ -5,7 +5,7 @@ birth: "1966-10-24"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Oligarch"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Roman_Abramovich_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roman_Abramovich"
 lastUpdated: "2026-02-26"

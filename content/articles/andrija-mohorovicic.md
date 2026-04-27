@@ -5,7 +5,7 @@ birth: "1857-01-23"
 death: "1936-12-18"
 nationality: "Croatian"
 occupation: ["Seismologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Portrait_of_Andria_Mohorovicic.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrija_Mohorovicic"
 lastUpdated: "2026-02-26"

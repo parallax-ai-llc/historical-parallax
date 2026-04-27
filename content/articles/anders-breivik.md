@@ -5,7 +5,7 @@ birth: "1979-02-13"
 death: "N/A (Imprisoned)"
 nationality: "Norway"
 occupation: ["Terrorist", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Sketch_of_Breivik.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anders_Behring_Breivik"
 lastUpdated: "2026-02-26"

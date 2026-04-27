@@ -5,7 +5,7 @@ birth: "1815-01-10"
 death: "1894-01-06"
 nationality: "Russian"
 occupation: ["Bishop", "Theologian", "Translator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Theophan_the_Recluse.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theophan_the_Recluse"
 lastUpdated: "2026-02-21"

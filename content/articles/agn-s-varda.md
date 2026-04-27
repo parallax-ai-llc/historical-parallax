@@ -5,7 +5,7 @@ birth: "1928-05-30"
 death: "2019-03-29"
 nationality: "Belgian-French"
 occupation: ["Film Director", "Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda"
 lastUpdated: "2026-02-21"

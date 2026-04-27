@@ -5,7 +5,7 @@ birth: "1933-02-13"
 death: "Unknown"
 nationality: "Cameroon"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Paul_Biya_in_December_14th%2C_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Biya"
 lastUpdated: "2026-02-26"

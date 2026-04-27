@@ -5,7 +5,7 @@ birth: "1858-03-18"
 death: "1913-09-29"
 nationality: "German"
 occupation: ["Inventor", "Mechanical Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rudolf_Diesel2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudolf_Diesel"
 lastUpdated: "2026-02-21"

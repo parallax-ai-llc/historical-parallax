@@ -5,7 +5,7 @@ birth: "1500-01-01"
 death: "1500-01-01"
 nationality: "Chinese"
 occupation: ["Official", "Rocket Pioneer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Wan_Hu_large.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wan_Hu"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1891-10-18"
 death: "1946-07-25"
 nationality: "Chinese"
 occupation: ["Educator", "Social reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Tao_Xing-zhi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tao_Xingzhi"
 lastUpdated: "2026-02-21"

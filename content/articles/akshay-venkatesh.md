@@ -5,7 +5,7 @@ birth: "1981-11-21"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Akshay_Venkatesh_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akshay_Venkatesh"
 lastUpdated: "2026-02-21"

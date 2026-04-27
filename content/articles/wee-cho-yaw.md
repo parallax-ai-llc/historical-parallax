@@ -5,7 +5,7 @@ birth: "1929-07-02"
 death: "Unknown"
 nationality: "Singaporean"
 occupation: ["Banker", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Wee_Cho_Yaw_signature.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wee_Cho_Yaw"
 lastUpdated: "2026-02-21"

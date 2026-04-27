@@ -3,6 +3,7 @@ name: "Sabrina Carpenter"
 birth: "2000-05-11"
 nationality: "American"
 occupation: ["Singer", "Actress", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Sabrina_Carpenter_-_O2_Arena_2025_-_086_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sabrina_Carpenter"
 lastUpdated: "2026-03-11"

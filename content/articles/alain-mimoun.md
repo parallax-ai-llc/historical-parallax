@@ -5,7 +5,7 @@ birth: "1921-01-01"
 death: "2013-06-27"
 nationality: "French"
 occupation: ["Athlete", "Olympic Champion", "Marathon Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alain_Mimoun.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alain_Mimoun"
 lastUpdated: "2026-02-26"

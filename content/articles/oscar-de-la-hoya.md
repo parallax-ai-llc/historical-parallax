@@ -3,6 +3,7 @@ name: "Oscar De La Hoya"
 birth: "1973-02-04"
 nationality: "American"
 occupation: ["Boxer", "Promoter", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Oscar_de_la_Hoya_2014_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oscar_De_La_Hoya"
 lastUpdated: "2026-03-12"

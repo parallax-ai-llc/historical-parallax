@@ -5,7 +5,7 @@ birth: "1992-11-20"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Short Track Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Korea_Park_Seunghi_Gold_Sochi_ShortTrack_1000m_08.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Seung-hi"
 lastUpdated: "2026-02-26"

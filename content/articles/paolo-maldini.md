@@ -5,7 +5,7 @@ birth: "1968-06-26"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Paolo_Maldini_AC_Milan_Technical_director_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paolo_Maldini"
 lastUpdated: "2026-02-26"

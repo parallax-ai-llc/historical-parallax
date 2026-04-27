@@ -5,7 +5,7 @@ birth: "1792-01-01"
 death: "1860-01-01"
 nationality: "Ireland"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/William_Burke.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Hare"
 lastUpdated: "2026-02-26"

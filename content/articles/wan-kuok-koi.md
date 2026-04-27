@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "N/A"
 nationality: "Macau / China"
 occupation: ["Triad Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Wan_Kuok-koi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wan_Kuok-koi"
 lastUpdated: "2026-02-21"

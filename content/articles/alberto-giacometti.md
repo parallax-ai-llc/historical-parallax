@@ -5,7 +5,7 @@ birth: "1901-10-10"
 death: "1966-01-11"
 nationality: "Swiss"
 occupation: ["Sculptor", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Emmy_Andriesse_-_Alberto_Giacometti_%28Ende_1940er_PK-F-A.06801%29.jpg/3840px-Emmy_Andriesse_-_Alberto_Giacometti_%28Ende_1940er_PK-F-A.06801%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alberto_Giacometti"
 lastUpdated: "2026-02-21"

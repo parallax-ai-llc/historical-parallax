@@ -5,7 +5,7 @@ birth: "1824-02-12"
 death: "1883-10-30"
 nationality: "Indian"
 occupation: ["Religious Reformer", "Scholar", "Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Dayananda_Saraswati.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swami_Dayananda_Saraswati"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1966-05-11"
 death: "Unknown"
 nationality: "American"
 occupation: ["Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Secalbright.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Ackman_duplicate"
 lastUpdated: "2026-02-26"

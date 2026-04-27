@@ -5,7 +5,7 @@ birth: "1981-06-08"
 death: "Unknown"
 nationality: "Estonian"
 occupation: ["Entrepreneur", "Fintech"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Wise_logo_light-on-dark.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Taavet_Hinrikus"
 lastUpdated: "2026-02-21"

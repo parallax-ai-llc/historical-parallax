@@ -5,7 +5,7 @@ birth: "1862-07-02"
 death: "1942-03-12"
 nationality: "English"
 occupation: ["Physicist", "Chemist", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Wh-bragg.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Henry_Bragg"
 lastUpdated: "2026-02-21"

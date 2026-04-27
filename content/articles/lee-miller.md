@@ -4,6 +4,7 @@ birth: "1907-04-23"
 death: "1977-07-21"
 nationality: "American"
 occupation: ["Photographer", "War Correspondent", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/War_correspondents-Lee-Miller.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Miller"
 lastUpdated: "2026-03-12"

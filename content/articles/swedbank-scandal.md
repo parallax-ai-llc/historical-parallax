@@ -5,7 +5,7 @@ birth: "2019-02-20"
 death: "Unknown"
 nationality: "Sweden"
 occupation: ["Corporate Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Cirkus%C3%A4ngen_6_September_2014_05.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swedbank_Scandal"
 lastUpdated: "2026-02-26"

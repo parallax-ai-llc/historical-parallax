@@ -5,7 +5,7 @@ birth: "1792-01-01"
 death: "1829-01-28"
 nationality: "Ireland"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/William_Burke.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Burke"
 lastUpdated: "2026-02-26"

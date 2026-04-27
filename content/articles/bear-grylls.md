@@ -5,7 +5,7 @@ birth: "1974-06-07"
 death: "Unknown"
 nationality: "British"
 occupation: ["Explorer", "Television Presenter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Coventry_Scouts_groups_have_a_visit_from_Bear_Grylls.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bear_Grylls"
 lastUpdated: "2026-02-26"

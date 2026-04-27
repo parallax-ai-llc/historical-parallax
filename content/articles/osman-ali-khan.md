@@ -5,7 +5,7 @@ birth: "1886-04-06"
 death: "1967-02-24"
 nationality: "Indian"
 occupation: ["Ruler", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Usman_Ali_Khan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Osman_Ali_Khan"
 lastUpdated: "2026-02-21"

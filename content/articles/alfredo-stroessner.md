@@ -5,7 +5,7 @@ birth: "1912-11-03"
 death: "2006-08-16"
 nationality: "Paraguay"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Alfredo_Stroessner_at_desk_%28cropped%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfredo_Stroessner"
 lastUpdated: "2026-02-21"

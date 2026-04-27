@@ -5,7 +5,7 @@ birth: "1938-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Paper scientist", "Pulp and paper researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Jung_Il-woo_in_May_2021.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Woo-il"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1966-10-24"
 death: "Unknown"
 nationality: "Russian-Israeli"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Lord_Sumption_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roman_Abramovich_duplicate"
 lastUpdated: "2026-02-26"

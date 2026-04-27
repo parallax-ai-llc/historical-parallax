@@ -5,7 +5,7 @@ birth: "1982-02-26"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834157928%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Seibel"
 lastUpdated: "2026-02-21"

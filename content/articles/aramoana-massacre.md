@@ -5,7 +5,7 @@ birth: "1990-11-13"
 death: "Unknown"
 nationality: "New Zealand"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/7/75/Aramoana_massacre_ODT_STG_Gray_crib.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aramoana_Massacre"
 lastUpdated: "2026-02-26"

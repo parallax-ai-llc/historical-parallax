@@ -5,7 +5,7 @@ birth: "1968-12-28"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Astronaut"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Akihiko_Hoshide%2C_official_portrait_%282020%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akihiko_Hoshide"
 lastUpdated: "2026-02-26"

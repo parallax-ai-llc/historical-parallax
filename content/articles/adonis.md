@@ -5,7 +5,7 @@ birth: "1930-01-01"
 death: "Unknown"
 nationality: "Syrian"
 occupation: ["Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Cupid_with_Venus_and_Adonis%2C_fresco_in_Pompeii.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adonis"
 lastUpdated: "2026-02-21"

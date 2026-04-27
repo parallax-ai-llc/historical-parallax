@@ -3,6 +3,7 @@ name: "Paul Thomas Anderson"
 birth: "1970-06-26"
 nationality: "American"
 occupation: ["Film Director", "Screenwriter", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Paul_Thomas_Anderson_in_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Thomas_Anderson"
 lastUpdated: "2026-03-12"

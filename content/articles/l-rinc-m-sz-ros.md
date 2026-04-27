@@ -5,7 +5,7 @@ birth: "1966-04-19"
 death: "Unknown"
 nationality: "Hungary"
 occupation: ["Corrupt Oligarch"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/FeHoVa_2024_%2813%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/L%C5%91rinc_M%C3%A9sz%C3%A1ros"
 lastUpdated: "2026-02-26"

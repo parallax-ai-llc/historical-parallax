@@ -5,7 +5,7 @@ birth: "1903-10-01"
 death: "1989-11-05"
 nationality: "Russian-American"
 occupation: ["Pianist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/HorowitzBain.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vladimir_Horowitz"
 lastUpdated: "2026-02-21"

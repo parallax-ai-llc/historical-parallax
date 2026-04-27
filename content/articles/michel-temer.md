@@ -5,7 +5,7 @@ birth: "1940-09-23"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Michel_Temer_%28foto_oficial%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michel_Temer"
 lastUpdated: "2026-02-26"

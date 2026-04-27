@@ -5,7 +5,7 @@ birth: "2004-05-16"
 death: "2022-05-24"
 nationality: "United States"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ramos_entering_Robb_Elementary.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robb_Elementary_School_shooting"
 lastUpdated: "2026-02-26"

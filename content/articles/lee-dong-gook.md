@@ -5,7 +5,7 @@ birth: "1979-04-29"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/%EC%9D%B4%EB%8F%99%EA%B5%AD_2020%EB%85%84.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Dong-gook"
 lastUpdated: "2026-02-26"

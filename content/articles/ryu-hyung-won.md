@@ -5,7 +5,7 @@ birth: "1622-02-21"
 death: "1673"
 nationality: "Korea"
 occupation: ["Confucian Scholar", "Social Reformer", "Philosopher", "Political Theorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/One_page_of_Yu_Hyungwon%27s_Bangyesoorok.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yu_Hyeongwon"
 lastUpdated: "2025-12-31"

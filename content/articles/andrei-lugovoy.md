@@ -5,7 +5,7 @@ birth: "1966-09-19"
 death: "N/A"
 nationality: "Russia"
 occupation: ["Assassin", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Andrey_Lugovoy_2019.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrei_Lugovoy"
 lastUpdated: "2026-02-26"

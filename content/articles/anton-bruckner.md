@@ -5,7 +5,7 @@ birth: "1824-09-04"
 death: "1896-10-11"
 nationality: "Austrian"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anton_Bruckner.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anton_Bruckner"
 lastUpdated: "2026-02-21"

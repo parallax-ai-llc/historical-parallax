@@ -5,7 +5,7 @@ birth: "1948-03-26"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Violinist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Kyung-wha_Chung_at_SSO_%2820151005224117%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kyung-wha_Chung"
 lastUpdated: "2026-02-21"

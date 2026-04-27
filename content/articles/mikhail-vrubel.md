@@ -5,7 +5,7 @@ birth: "1856-03-17"
 death: "1910-04-14"
 nationality: "Russian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Vrubel_1900.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Vrubel"
 lastUpdated: "2026-02-21"

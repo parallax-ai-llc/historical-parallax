@@ -5,7 +5,7 @@ birth: "1936-06-24"
 death: "Unknown"
 nationality: "Korean-Japanese"
 occupation: ["Artist", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Lee_Ufan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Ufan"
 lastUpdated: "2026-02-21"

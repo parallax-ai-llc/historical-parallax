@@ -5,7 +5,7 @@ birth: "1868-01-03"
 death: "1868-01-03"
 nationality: "Japan"
 occupation: ["Historical Event", "Empire", "Japanese History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Emperor_Meiji_by_Takahashi_Yuichi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Meiji_Restoration_Japan"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1737-01-01"
 death: "1815-01-01"
 nationality: "Algerian"
 occupation: ["Sufi Master", "Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Ain_Madhi_-_panoramio.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmad_al-Tijani"
 lastUpdated: "2026-02-21"

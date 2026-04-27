@@ -5,7 +5,7 @@ birth: "1901-12-05"
 death: "1966-12-15"
 nationality: "American"
 occupation: ["Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Walt_Disney_Animation_Studios_logo.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Walt_Disney_duplicate"
 lastUpdated: "2026-02-26"

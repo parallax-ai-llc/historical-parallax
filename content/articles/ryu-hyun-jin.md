@@ -5,7 +5,7 @@ birth: "1987-03-25"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ryu_Hyun-jin_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryu_Hyun-jin"
 lastUpdated: "2026-02-26"

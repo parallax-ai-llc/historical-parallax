@@ -5,7 +5,7 @@ birth: "1884-12-30"
 death: "1948-12-23"
 nationality: "Japan"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hideki_Tojo_Portrait_1941_%283x4_cropped%29%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/T%C5%8Dj%C5%8D_Hideki"
 lastUpdated: "2026-02-26"

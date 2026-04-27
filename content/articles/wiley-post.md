@@ -4,6 +4,7 @@ birth: "1898-11-22"
 death: "1935-08-15"
 nationality: "American"
 occupation: ["Aviator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Wiley_Post_cph.3b33667.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wiley_Post"
 lastUpdated: "2026-03-12"

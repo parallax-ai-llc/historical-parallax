@@ -4,6 +4,7 @@ birth: "1942-01-05"
 death: "2024-03-23"
 nationality: "Italian"
 occupation: ["Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Maurizio_Pollini01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maurizio_Pollini"
 lastUpdated: "2026-03-12"

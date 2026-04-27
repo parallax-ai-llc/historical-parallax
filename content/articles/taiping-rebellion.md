@@ -5,7 +5,7 @@ birth: "1850-12-01"
 death: "1864-08-01"
 nationality: "China"
 occupation: ["Historical Event", "War", "Rebellion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Regaining_the_Provincial_City_Anqing2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Taiping_Rebellion"
 lastUpdated: "2026-02-21"

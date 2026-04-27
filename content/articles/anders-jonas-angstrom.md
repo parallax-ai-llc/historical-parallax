@@ -5,7 +5,7 @@ birth: "1814-08-13"
 death: "1874-06-21"
 nationality: "Swedish"
 occupation: ["Physicist", "Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Anders_Jonas_%C3%85ngstr%C3%B6m_full_body.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anders_Jonas_Angstrom"
 lastUpdated: "2026-02-26"

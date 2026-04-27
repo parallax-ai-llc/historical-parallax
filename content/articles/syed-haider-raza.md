@@ -5,7 +5,7 @@ birth: "1922-02-22"
 death: "2016-07-23"
 nationality: "Indian-French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Sayed_Haider_Raza_%281995%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Syed_Haider_Raza"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1970-07-16"
 death: "Unknown"
 nationality: "Thai"
 occupation: ["Film Director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Apichatpong_Portrait_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Apichatpong_Weerasethakul"
 lastUpdated: "2026-02-21"

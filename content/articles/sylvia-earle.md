@@ -5,7 +5,7 @@ birth: "1935-08-30"
 death: "living"
 nationality: "American"
 occupation: ["Marine Biologist", "Oceanographer", "Explorer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sylvia_Earle_in_2026_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sylvia_Earle"
 lastUpdated: "2026-02-21"

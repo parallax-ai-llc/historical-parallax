@@ -5,7 +5,7 @@ birth: "2012-01-01"
 death: "Unknown"
 nationality: "Mali"
 occupation: ["Criminal Conflict"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_activity_area_of_the_ISGS.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sahel_Jihadist_Crisis"
 lastUpdated: "2026-02-26"

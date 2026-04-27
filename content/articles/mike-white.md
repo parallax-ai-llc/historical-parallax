@@ -3,6 +3,7 @@ name: "Mike White"
 birth: "1970-06-28"
 nationality: "American"
 occupation: ["Television Producer", "Screenwriter", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mike_White_in_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mike_White_(filmmaker)"
 lastUpdated: "2026-03-12"

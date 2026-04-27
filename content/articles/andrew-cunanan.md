@@ -5,7 +5,7 @@ birth: "1969-08-31"
 death: "1997-07-23"
 nationality: "United States"
 occupation: ["Spree Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/FBI_Photo_of_Andrew_Cunanan_%281997%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrew_Cunanan"
 lastUpdated: "2026-02-26"

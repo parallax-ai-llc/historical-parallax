@@ -5,7 +5,7 @@ birth: "1944-10-29"
 death: "Unknown"
 nationality: "Malaysian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Jeffrey_Cheah.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tan_Sri_Jeffrey_Cheah"
 lastUpdated: "2026-02-21"

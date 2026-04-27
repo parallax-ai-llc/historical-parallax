@@ -5,7 +5,7 @@ birth: "1875-01-14"
 death: "1965-09-04"
 nationality: "France"
 occupation: ["Controversial Colonial Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Bundesarchiv_Bild_183-D0116-0041-019%2C_Albert_Schweitzer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Albert_Schweitzer"
 lastUpdated: "2026-02-26"

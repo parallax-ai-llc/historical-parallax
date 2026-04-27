@@ -3,6 +3,7 @@ name: "Paddy Pimblett"
 birth: "1995-01-23"
 nationality: "British"
 occupation: ["MMA Fighter", "Athlete", "Content Creator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/UFC_Star_Paddy_The_Baddy_Pimblett_tells_his_story_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paddy_Pimblett"
 lastUpdated: "2026-03-11"

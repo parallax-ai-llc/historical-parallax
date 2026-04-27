@@ -5,7 +5,7 @@ birth: "1877-01-01"
 death: "1960-03-23"
 nationality: "Turkish"
 occupation: ["Scholar", "Theologian", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Said_Nursi_passport_photo_1918.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Said_Nursi"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1960-08-17"
 death: "Unknown"
 nationality: "Kosovo"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Agim_Ceku_2006.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Agim_%C3%87eku"
 lastUpdated: "2026-02-26"

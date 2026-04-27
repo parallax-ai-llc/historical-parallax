@@ -5,7 +5,7 @@ birth: "1931-11-29"
 death: "2019-02-18"
 nationality: "American"
 occupation: ["Geochemist", "Climatologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Wally_Broecker%2C_c._2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wallace_Broecker"
 lastUpdated: "2026-02-21"

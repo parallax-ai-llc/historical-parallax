@@ -5,7 +5,7 @@ birth: "1952-06-18"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Music Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Lee_Soo-man_in_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Soo-man"
 lastUpdated: "2026-02-21"

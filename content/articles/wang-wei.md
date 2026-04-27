@@ -5,7 +5,7 @@ birth: "1970-10-01"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Wang_Wei.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Wei"
 lastUpdated: "2026-02-21"

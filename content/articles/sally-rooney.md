@@ -3,6 +3,7 @@ name: "Sally Rooney"
 birth: "1991-02-20"
 nationality: "Irish"
 occupation: ["Author", "Novelist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Sally_Rooney_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sally_Rooney"
 lastUpdated: "2026-03-12"

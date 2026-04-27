@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Ukraine"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/2022_Russian_invasion_of_Ukraine.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russian_Invasion_of_Ukraine"
 lastUpdated: "2026-02-26"

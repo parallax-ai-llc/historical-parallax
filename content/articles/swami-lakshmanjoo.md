@@ -5,7 +5,7 @@ birth: "1907-05-09"
 death: "1991-09-27"
 nationality: "Indian"
 occupation: ["Scholar", "Mystic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Swami_Lakshman_Joo_%28741301%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swami_Lakshmanjoo"
 lastUpdated: "2026-02-21"

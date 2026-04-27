@@ -5,7 +5,7 @@ birth: "1992-01-01"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Crypto Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tornado_cash_logo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alexey_Pertsev"
 lastUpdated: "2026-02-26"

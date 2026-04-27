@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Saudi Arabia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/The_way_to_Jamarat_Bridge_3.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mecca_Stampede_2015"
 lastUpdated: "2026-02-26"

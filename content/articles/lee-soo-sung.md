@@ -5,7 +5,7 @@ birth: "1951-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Marine engineer", "Offshore technology researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lee_Soo-sung_1_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Soo-sung"
 lastUpdated: "2026-02-21"

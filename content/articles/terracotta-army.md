@@ -5,6 +5,7 @@ location: "Xi'an, Shaanxi, China"
 civilization: "Qin Dynasty"
 type: "Funerary art"
 coordinates: [109.2785, 34.3848]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/51714-Terracota-Army.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terracotta_Army"
 lastUpdated: "2025-12-22"

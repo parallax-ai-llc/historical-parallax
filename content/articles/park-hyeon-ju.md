@@ -5,7 +5,7 @@ birth: "1962-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Financial engineer", "Fintech pioneer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kim_Min-ju_at_Undercover_High_School_promotions_03.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Hyeon-ju"
 lastUpdated: "2026-02-21"

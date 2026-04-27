@@ -5,7 +5,7 @@ birth: "1952-05-20"
 death: "Unknown"
 nationality: "Cameroonian"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Milla2008cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roger_Milla"
 lastUpdated: "2026-02-26"

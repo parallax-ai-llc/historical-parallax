@@ -5,7 +5,7 @@ birth: "1970-03-11"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/%E6%BD%98%E5%BB%BA%E4%BC%9F_20230826.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pan_Jianwei"
 lastUpdated: "2026-02-26"

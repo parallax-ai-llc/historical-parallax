@@ -5,7 +5,7 @@ birth: "1971-07-01"
 death: "Unknown"
 nationality: "Egyptian"
 occupation: ["Filmmaker", "Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Wael_Shawky_Portrait.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wael_Shawky"
 lastUpdated: "2026-02-21"

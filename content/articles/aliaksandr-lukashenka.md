@@ -5,7 +5,7 @@ birth: "1954-08-30"
 death: "Unknown"
 nationality: "Belarus"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Alexander_Lukashenko_%2814-03-2025%29_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aliaksandr_Lukashenka"
 lastUpdated: "2026-02-26"

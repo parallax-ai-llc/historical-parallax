@@ -5,7 +5,7 @@ birth: "1810-12-07"
 death: "1882-01-11"
 nationality: "German"
 occupation: ["Physiologist", "Zoologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Theodor_Schwann_Litho.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theodor_Schwann"
 lastUpdated: "2026-02-21"

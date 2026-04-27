@@ -5,7 +5,7 @@ birth: "2003-01-01"
 death: "N/A"
 nationality: "Global"
 occupation: ["Hacktivist Collective"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/330px-Anonymous_emblem.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anonymous_(hacker_group)"
 lastUpdated: "2026-02-21"

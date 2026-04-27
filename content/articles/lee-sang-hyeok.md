@@ -5,7 +5,7 @@ birth: "1996-05-07"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Esports Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Faker_2020_interview.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Sang-hyeok"
 lastUpdated: "2026-02-26"

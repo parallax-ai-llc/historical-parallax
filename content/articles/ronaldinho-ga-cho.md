@@ -5,7 +5,7 @@ birth: "1980-03-21"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ronaldinho_in_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronaldinho_Ga%C3%BAcho"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1788-05-01"
 death: "1812-12-20"
 nationality: "American (Lemhi Shoshone)"
 occupation: ["Explorer", "Interpreter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Detail_Lewis_%26_Clark_at_Three_Forks.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sacagawea"
 lastUpdated: "2026-02-26"

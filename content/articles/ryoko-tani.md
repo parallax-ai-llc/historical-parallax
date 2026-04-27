@@ -5,7 +5,7 @@ birth: "1975-09-06"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Olympic Champion", "Judoka"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Ryoko_Tani.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryoko_Tani"
 lastUpdated: "2026-02-26"

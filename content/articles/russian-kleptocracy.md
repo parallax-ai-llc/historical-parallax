@@ -5,7 +5,7 @@ birth: "1990-01-01"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Systemic Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Abramovich_Chukotka_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russian_Kleptocracy"
 lastUpdated: "2026-02-26"

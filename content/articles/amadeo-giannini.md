@@ -5,7 +5,7 @@ birth: "1870-05-06"
 death: "1949-06-03"
 nationality: "American"
 occupation: ["Entrepreneur", "Banker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/M._A._P._Giannini%2C_pr%C3%A9sident_de_la_Banque_d%27Italie.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amadeo_Giannini"
 lastUpdated: "2026-02-21"

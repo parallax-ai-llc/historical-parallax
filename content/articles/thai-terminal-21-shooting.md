@@ -5,7 +5,7 @@ birth: "2020-02-08"
 death: "Unknown"
 nationality: "Thailand"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Terminal_21_Asok_Bangkok_20202021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thai_Terminal_21_Shooting"
 lastUpdated: "2026-02-26"

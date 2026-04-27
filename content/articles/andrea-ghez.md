@@ -5,7 +5,7 @@ birth: "1965-06-16"
 death: "Unknown"
 nationality: "American"
 occupation: ["Astronomer", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Andrea_Ghez.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andrea_Ghez"
 lastUpdated: "2026-02-21"

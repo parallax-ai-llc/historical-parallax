@@ -5,7 +5,7 @@ birth: "1937-05-05"
 death: "2002-08-16"
 nationality: "Palestine"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/f9/Abu_Nidal.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abu_Nidal"
 lastUpdated: "2026-02-26"

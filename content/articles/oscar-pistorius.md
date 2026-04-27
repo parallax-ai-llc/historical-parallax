@@ -5,7 +5,7 @@ birth: "1986-11-22"
 death: "N/A (Paroled)"
 nationality: "South Africa"
 occupation: ["Convicted Murderer", "Athlete"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Oscar_Pistorius_in_Warsaw_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oscar_Pistorius"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1995-05-05"
 death: "Unknown"
 nationality: "Belarus"
 occupation: ["Journalist Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%9F%D1%80%D0%BE%D1%82%D0%B0%D1%81%D0%B5%D0%B2%D0%B8%D1%87_-_01_%2814-06-2021%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roman_Protasevich"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "Wi Ha-joon"
 birth: "1990-08-05"
 nationality: "South Korean"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Wi_Ha-joon_in_October_2025.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wi_Ha-joon"
 lastUpdated: "2026-03-12"

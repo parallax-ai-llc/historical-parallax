@@ -3,6 +3,7 @@ name: "Sam Morril"
 birth: "1986-01-01"
 nationality: "American"
 occupation: ["Stand-up Comedian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Sam_Morril.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Morril"
 lastUpdated: "2026-03-12"

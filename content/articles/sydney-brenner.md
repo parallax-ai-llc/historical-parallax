@@ -5,7 +5,7 @@ birth: "1927-01-13"
 death: "2019-04-05"
 nationality: "South African-British"
 occupation: ["Biologist", "Molecular Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Sydney_Brenner_OIST_2008_%2833208371153%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sydney_Brenner"
 lastUpdated: "2026-02-21"

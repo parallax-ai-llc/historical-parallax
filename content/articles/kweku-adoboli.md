@@ -5,7 +5,7 @@ birth: "1980-05-21"
 death: "N/A"
 nationality: "Ghana / United Kingdom"
 occupation: ["Rogue Trader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/938149-kweku-adoboli_%287651034606%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kweku_Adoboli"
 lastUpdated: "2026-02-21"

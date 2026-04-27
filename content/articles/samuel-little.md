@@ -5,7 +5,7 @@ birth: "1940-06-07"
 death: "2020-12-30"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Samuel_Little.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_Little"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1905-03-19"
 death: "1981-09-01"
 nationality: "Germany"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bundesarchiv_Bild_146II-277%2C_Albert_Speer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Albert_Speer"
 lastUpdated: "2026-02-26"

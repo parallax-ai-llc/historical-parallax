@@ -5,7 +5,7 @@ birth: "1889-03-01"
 death: "1960-12-26"
 nationality: "Japanese"
 occupation: ["Philosopher", "Ethicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Tetsuro_Watsuji_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tetsuro_Watsuji"
 lastUpdated: "2026-02-21"

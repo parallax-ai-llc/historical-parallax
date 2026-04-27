@@ -5,7 +5,7 @@ birth: "1971-12-13"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Music Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Park_Jin-young_%28Founder_of_JYP_Entertainment%29_in_February_2011_from_acrofan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Jin-young"
 lastUpdated: "2026-02-21"

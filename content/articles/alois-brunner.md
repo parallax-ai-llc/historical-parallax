@@ -5,7 +5,7 @@ birth: "1912-04-08"
 death: "2001-01-01"
 nationality: "Austria"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b3/Alois_Brunner.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alois_Brunner"
 lastUpdated: "2026-02-26"

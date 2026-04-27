@@ -5,7 +5,7 @@ birth: "1864-09-01"
 death: "1916-08-03"
 nationality: "Ireland"
 occupation: ["Whistleblower"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Celebrated_spies_and_famous_mysteries_of_the_great_war_%281919%29_%2814765772825%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roger_Casement"
 lastUpdated: "2026-02-26"

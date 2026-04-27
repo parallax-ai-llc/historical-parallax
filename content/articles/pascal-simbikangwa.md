@@ -5,7 +5,7 @@ birth: "1959-10-18"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["Genocide Perpetrator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nyamata_Memorial_Site_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pascal_Simbikangwa"
 lastUpdated: "2026-02-26"

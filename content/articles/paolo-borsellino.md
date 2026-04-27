@@ -5,7 +5,7 @@ birth: "1940-01-19"
 death: "1992-07-19"
 nationality: "Italy"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/PaoloBorsellino.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paolo_Borsellino"
 lastUpdated: "2026-02-26"

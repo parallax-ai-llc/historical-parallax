@@ -5,7 +5,7 @@ birth: "1926-10-28"
 death: "2008-05-05"
 nationality: "Korean"
 occupation: ["Writer", "Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Park_Gyeong-ree_in_June_2021.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Park_Gyeong-ri"
 lastUpdated: "2026-02-21"

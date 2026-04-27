@@ -5,7 +5,7 @@ birth: "2017-10-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/View_from_the_Foundation_Room_%2824089601122%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Las_Vegas_Shooting_2017"
 lastUpdated: "2026-02-26"

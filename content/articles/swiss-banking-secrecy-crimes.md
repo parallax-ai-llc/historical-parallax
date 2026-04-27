@@ -5,7 +5,7 @@ birth: "1934-01-01"
 death: "Unknown"
 nationality: "Switzerland"
 occupation: ["Systemic Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Mont_Cervin_Palace_at_night_in_Zermatt.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swiss_Banking_Secrecy_Crimes"
 lastUpdated: "2026-02-26"

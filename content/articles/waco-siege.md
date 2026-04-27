@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mountcarmelfire04-19-93-n.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Waco_Siege"
 lastUpdated: "2026-02-26"

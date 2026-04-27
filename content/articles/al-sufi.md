@@ -5,7 +5,7 @@ birth: "0903-12-07"
 death: "0986-05-25"
 nationality: "Persian"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Al-Sufi_depicted_in_Albrecht_D%C3%BCrers_%27The_Northern_Celestial_Hemisphere%27_%281515%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Sufi"
 lastUpdated: "2026-02-21"

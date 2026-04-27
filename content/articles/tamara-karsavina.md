@@ -4,6 +4,7 @@ birth: "1885-03-10"
 death: "1978-05-26"
 nationality: "Russian-British"
 occupation: ["Ballet Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tamara_Karsavina_as_Armide_in_Pavillon_d_Armide_1911.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tamara_Karsavina"
 lastUpdated: "2026-03-12"

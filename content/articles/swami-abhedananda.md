@@ -5,7 +5,7 @@ birth: "1866-10-02"
 death: "1939-09-08"
 nationality: "Indian"
 occupation: ["Monk", "Author", "Vedantist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Vivekananda_Baranagar_1887.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Swami_Abhedananda"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1684-04-16"
 death: "1748-11-07"
 nationality: "Japan"
 occupation: ["Merchant", "Family Head", "Author", "Art Collector"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Japanese_crest_Yotumeyui.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mitsui_family"
 lastUpdated: "2026-01-08"

@@ -5,7 +5,7 @@ birth: "1963-11-23"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/S%C3%A9rgio_Cabral_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S%C3%A9rgio_Cabral"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "2019-03-15"
 death: "Unknown"
 nationality: "International"
 occupation: ["Terrorist Inspiration"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Christchurch_Mosque%2C_New_Zealand.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tarrant_Manifesto_Inspired_Attacks"
 lastUpdated: "2026-02-26"

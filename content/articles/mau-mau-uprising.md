@@ -5,7 +5,7 @@ birth: "1952-01-01"
 death: "1960-01-01"
 nationality: "Kenya"
 occupation: ["Colonial Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/KAR_Mau_Mau.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mau_Mau_Uprising"
 lastUpdated: "2026-02-26"

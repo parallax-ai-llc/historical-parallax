@@ -5,7 +5,7 @@ birth: "1963-11-04"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Wang-Shu_Taipei.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Shu"
 lastUpdated: "2026-02-21"

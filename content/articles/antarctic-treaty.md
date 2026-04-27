@@ -5,7 +5,7 @@ birth: "1959-12-01"
 death: "1959-12-01"
 nationality: "Antarctica"
 occupation: ["Historical Event", "Treaty", "International Law"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_the_Antarctic_Treaty.svg/960px-Flag_of_the_Antarctic_Treaty.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antarctic_Treaty"
 lastUpdated: "2026-02-21"

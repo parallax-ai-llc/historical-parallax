@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/La_Familia_-_la_vida_loca_2014-05-05_16-41.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/La_Familia_Michoacana"
 lastUpdated: "2026-02-26"

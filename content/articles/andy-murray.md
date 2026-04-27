@@ -3,6 +3,7 @@ name: "Andy Murray"
 birth: "1987-05-15"
 nationality: "British"
 occupation: ["Tennis Player", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Andy_Murray"
 lastUpdated: "2026-03-12"

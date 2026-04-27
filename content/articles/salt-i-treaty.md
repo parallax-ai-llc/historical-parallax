@@ -5,7 +5,7 @@ birth: "1972-05-26"
 death: "1972-05-26"
 nationality: "Soviet Union"
 occupation: ["Historical Event", "Treaty", "Arms Control"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Richard_Nixon_and_Leonid_Brezhnev_sign_ABM_treaty_and_SALT_agreement_in_Moscow.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/SALT_I_Treaty"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Iraq"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Iraqi_Kurdistan_in_Iraq_%28disputed_hatched%29.svg/1280px-Iraqi_Kurdistan_in_Iraq_%28disputed_hatched%29.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anfal_Genocide"
 lastUpdated: "2026-02-26"

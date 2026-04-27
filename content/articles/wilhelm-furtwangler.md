@@ -4,6 +4,7 @@ birth: "1886-01-25"
 death: "1954-11-30"
 nationality: "German"
 occupation: ["Conductor", "Composer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Wilhelm_Furtw%C3%A4ngler_by_Franz_L%C3%B6wy%2C_c._1912.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wilhelm_Furtw%C3%A4ngler"
 lastUpdated: "2026-03-12"

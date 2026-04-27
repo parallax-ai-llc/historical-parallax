@@ -5,7 +5,7 @@ birth: "1929-11-20"
 death: "2021-06-18"
 nationality: "Indian"
 occupation: ["Athlete", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Milkha_Singh.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milkha_Singh"
 lastUpdated: "2026-02-26"

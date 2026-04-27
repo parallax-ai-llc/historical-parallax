@@ -5,7 +5,7 @@ birth: "1780-12-21"
 death: "1850-02-25"
 nationality: "Japanese"
 occupation: ["Shinto Priest", "Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/%E9%BB%92%E4%BD%8F%E6%95%99%E6%9C%AC%E9%83%A8.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kurozumi_Munetada"
 lastUpdated: "2026-02-21"

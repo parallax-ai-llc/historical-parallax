@@ -5,7 +5,7 @@ birth: "1905-05-28"
 death: "1971-01-01"
 nationality: "Japan"
 occupation: ["Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sada_Abe_portrait.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sada_Abe"
 lastUpdated: "2026-02-26"

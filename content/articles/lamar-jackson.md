@@ -3,6 +3,7 @@ name: "Lamar Jackson"
 birth: "1997-01-07"
 nationality: "American"
 occupation: ["American Football Player", "Quarterback", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/149th_Preakness_%2853731145142%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lamar_Jackson"
 lastUpdated: "2026-03-11"

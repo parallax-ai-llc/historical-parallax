@@ -5,7 +5,7 @@ birth: "1474-01-01"
 death: "1518-01-01"
 nationality: "Ottoman Empire"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Arolsen_Klebeband_01_465_4.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oru%C3%A7_Reis"
 lastUpdated: "2026-02-26"

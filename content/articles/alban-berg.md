@@ -5,7 +5,7 @@ birth: "1885-02-09"
 death: "1935-12-24"
 nationality: "Austrian"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Alban_Berg_%281885%E2%80%931935%29_~1930_%C2%A9_Max_Fenichel_%281885%E2%80%931942%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alban_Berg"
 lastUpdated: "2026-02-21"

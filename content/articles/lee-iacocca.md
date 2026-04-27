@@ -5,7 +5,7 @@ birth: "1924-10-15"
 death: "2019-07-02"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Lee_Iacocca_1972.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Iacocca"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1519-06-24"
 death: "1605-10-13"
 nationality: "French-Swiss"
 occupation: ["Theologian", "Reformer", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Th%C3%A9odore_de_B%C3%A8ze_1577_Gen%C3%A8ve.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theodore_Beza"
 lastUpdated: "2026-02-21"

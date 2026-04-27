@@ -5,7 +5,7 @@ birth: "1923-01-01"
 death: "2007-06-09"
 nationality: "Senegalese"
 occupation: ["Film Director", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ousmane_Semb%C3%A8ne_%281987%29_by_Guenter_Prust.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ousmane_Sembene"
 lastUpdated: "2026-02-21"

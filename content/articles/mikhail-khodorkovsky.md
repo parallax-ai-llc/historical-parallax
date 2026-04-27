@@ -5,7 +5,7 @@ birth: "1963-06-26"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Oligarch"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Michail_Chodorkowski%2C_Frankfurter_Buchmesse_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mikhail_Khodorkovsky"
 lastUpdated: "2026-02-26"

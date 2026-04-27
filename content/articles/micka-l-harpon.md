@@ -5,7 +5,7 @@ birth: "1974-01-15"
 death: "2019-10-03"
 nationality: "France"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Map_of_%C3%8Ele_de_la_Cit%C3%A9_-_OpenStreetMap_2015.svg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Micka%C3%ABl_Harpon"
 lastUpdated: "2026-02-26"

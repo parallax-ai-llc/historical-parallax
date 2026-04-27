@@ -5,7 +5,7 @@ birth: "1865-03-31"
 death: "1887-02-26"
 nationality: "Indian"
 occupation: ["Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Anandibai_joshi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anandi_Gopal_Joshi"
 lastUpdated: "2026-02-21"

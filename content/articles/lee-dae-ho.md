@@ -5,7 +5,7 @@ birth: "1982-06-21"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/2017_03_27_%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC_%EB%AF%B8%EB%94%94%EC%96%B4%EB%8D%B0%EC%9D%B4_1_%2810%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Dae-ho"
 lastUpdated: "2026-02-26"

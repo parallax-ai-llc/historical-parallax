@@ -5,7 +5,7 @@ birth: "1988-01-23"
 death: "N/A (Imprisoned)"
 nationality: "Afghanistan / United States"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b5/2016_Chelsea%2C_NY_explosion.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2016_New_York_and_New_Jersey_bombings"
 lastUpdated: "2026-02-26"

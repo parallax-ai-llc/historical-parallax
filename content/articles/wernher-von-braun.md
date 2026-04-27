@@ -5,7 +5,7 @@ birth: "1912-03-23"
 death: "1977-06-16"
 nationality: "German-American"
 occupation: ["Aerospace Engineer", "Rocket Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wernher_von_Braun_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wernher_von_Braun"
 lastUpdated: "2026-02-21"

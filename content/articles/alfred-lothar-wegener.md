@@ -5,7 +5,7 @@ birth: "1880-11-01"
 death: "1930-11-02"
 nationality: "German"
 occupation: ["Meteorologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Alfred_Wegener_ca.1924-30.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfred_Lothar_Wegener"
 lastUpdated: "2026-02-26"

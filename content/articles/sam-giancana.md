@@ -5,7 +5,7 @@ birth: "1908-06-15"
 death: "1975-06-19"
 nationality: "United States"
 occupation: ["Crime Boss", "Mafioso"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Sam_Giancana.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Giancana"
 lastUpdated: "2026-02-21"

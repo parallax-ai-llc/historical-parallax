@@ -3,6 +3,7 @@ name: "Ryan Gosling"
 birth: "1980-11-12"
 nationality: "Canadian"
 occupation: ["Actor", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/GoslingBFI081223_%2822_of_30%29_%2853388157347%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ryan_Gosling"
 lastUpdated: "2026-03-12"

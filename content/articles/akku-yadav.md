@@ -5,7 +5,7 @@ birth: "1973-01-01"
 death: "2004-08-13"
 nationality: "India"
 occupation: ["Serial Killer", "Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/46/Akku_Yadav.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Akku_Yadav"
 lastUpdated: "2026-02-26"

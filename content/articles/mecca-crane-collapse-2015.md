@@ -5,7 +5,7 @@ birth: "2015-09-11"
 death: "Unknown"
 nationality: "Saudi Arabia"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/A_Million_Souls.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mecca_Crane_Collapse_2015"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1945-09-16"
 death: "Unknown"
 nationality: "India"
 occupation: ["Controversial Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/P.Chidambaram_in_a_press_conference.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/P._Chidambaram"
 lastUpdated: "2026-02-26"

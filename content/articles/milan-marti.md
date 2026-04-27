@@ -5,7 +5,7 @@ birth: "1954-11-18"
 death: "Unknown"
 nationality: "Croatia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Milan_Martic_ICTY.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milan_Marti%C4%87"
 lastUpdated: "2026-02-26"

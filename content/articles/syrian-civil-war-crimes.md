@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Syria"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Commission_of_Inquiry_on_the_Syrian_Arab_Republic_presents_its_6th_report_to_the_Human_Rights_Council_on_September_16_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Syrian_Civil_War_Crimes"
 lastUpdated: "2026-02-26"

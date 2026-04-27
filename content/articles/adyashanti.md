@@ -5,7 +5,7 @@ birth: "1962-01-01"
 death: "N/A"
 nationality: "American"
 occupation: ["Spiritual Teacher", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Adyashanti_2013-04.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Adyashanti"
 lastUpdated: "2026-02-21"

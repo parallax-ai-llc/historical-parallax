@@ -5,7 +5,7 @@ birth: "1964-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Sculptor", "Installation Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Oeuvre_de_Lee_Bul_%28Kiasma%2C_Kelsinki%29_%282755459179%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Bul"
 lastUpdated: "2026-02-21"

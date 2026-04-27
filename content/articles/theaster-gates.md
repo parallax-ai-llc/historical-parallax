@@ -5,7 +5,7 @@ birth: "1973-01-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Artist", "Urban Planner", "Potter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Unleashing_Entrepreneurial_Innovation_with_Stanford_University_Theaster_Gates.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Theaster_Gates"
 lastUpdated: "2026-02-21"

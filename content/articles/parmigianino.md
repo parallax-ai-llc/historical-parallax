@@ -5,7 +5,7 @@ birth: "1503-01-11"
 death: "1540-08-24"
 nationality: "Italian"
 occupation: ["Painter", "Printmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Parmigianino_Selfportrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Parmigianino"
 lastUpdated: "2026-02-21"

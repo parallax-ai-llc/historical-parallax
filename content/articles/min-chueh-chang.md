@@ -5,7 +5,7 @@ birth: "1908-10-10"
 death: "1991-06-05"
 nationality: "Chinese-American"
 occupation: ["Reproductive Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Min_Chueh_Chang.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Min_Chueh_Chang"
 lastUpdated: "2026-02-21"

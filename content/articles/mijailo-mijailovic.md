@@ -5,7 +5,7 @@ birth: "1978-08-06"
 death: "Unknown"
 nationality: "Sweden"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lindh_killer_image1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mijailo_Mijailovic"
 lastUpdated: "2026-02-26"

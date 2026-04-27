@@ -6,7 +6,7 @@ location: "Rwanda"
 coordinates: [29.87, -1.94]
 category: ["Genocide", "Rwanda"]
 outcome: "Approximately 800,000 killed in 100 days"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nyamata_Memorial_Site_13.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rwandan_genocide"
 lastUpdated: "2026-02-26"

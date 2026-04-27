@@ -5,7 +5,7 @@ birth: "1824-06-28"
 death: "1880-07-09"
 nationality: "French"
 occupation: ["Physician", "Anatomist", "Anthropologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Paul_broca.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Broca"
 lastUpdated: "2026-02-21"

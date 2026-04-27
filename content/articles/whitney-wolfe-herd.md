@@ -5,7 +5,7 @@ birth: "1989-07-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/TechCrunch_Disrupt_San_Francisco_2018_-_day_2_%2830647055838%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Whitney_Wolfe_Herd"
 lastUpdated: "2026-02-26"

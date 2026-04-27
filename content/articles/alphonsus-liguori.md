@@ -5,7 +5,7 @@ birth: "1696-09-27"
 death: "1787-08-01"
 nationality: "Italian"
 occupation: ["Bishop", "Theologian", "Doctor of the Church"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Liguori.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alphonsus_Liguori"
 lastUpdated: "2026-02-21"

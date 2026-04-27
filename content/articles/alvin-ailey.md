@@ -5,7 +5,7 @@ birth: "1931-01-05"
 death: "1989-12-01"
 nationality: "American"
 occupation: ["Dancer", "Choreographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Alvin_Ailey_Ellington_career.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alvin_Ailey"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Antoine Griezmann"
 birth: "1991-03-21"
 nationality: "French"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/FRA-ARG_%2810%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antoine_Griezmann"
 lastUpdated: "2026-03-12"

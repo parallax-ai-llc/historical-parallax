@@ -5,7 +5,7 @@ birth: "1891-12-02"
 death: "1969-07-25"
 nationality: "German"
 occupation: ["Painter", "Printmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Otto_Dix%2C_May_1955%2C_by_Hans-Joachim_Koch_%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Otto_Dix"
 lastUpdated: "2026-02-21"

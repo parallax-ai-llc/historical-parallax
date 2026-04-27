@@ -5,7 +5,7 @@ birth: "1929-05-06"
 death: "2007-03-27"
 nationality: "American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_Lauterbur_2003_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Paul_Lauterbur"
 lastUpdated: "2026-02-21"

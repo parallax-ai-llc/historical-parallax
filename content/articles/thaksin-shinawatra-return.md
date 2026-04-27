@@ -5,7 +5,7 @@ birth: "1949-07-26"
 death: "Unknown"
 nationality: "Thailand"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Thaksin_DOD_20050915.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thaksin_Shinawatra_Return"
 lastUpdated: "2026-02-26"

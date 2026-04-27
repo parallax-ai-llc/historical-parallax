@@ -5,7 +5,7 @@ birth: "1950-08-30"
 death: "Unknown"
 nationality: "British"
 occupation: ["Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Sir_Antony_Mark_David_Gormley_%282024%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antony_Gormley"
 lastUpdated: "2026-02-21"

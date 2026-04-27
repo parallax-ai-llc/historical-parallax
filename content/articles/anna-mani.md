@@ -5,7 +5,7 @@ birth: "1918-08-23"
 death: "2001-08-16"
 nationality: "Indian"
 occupation: ["Physicist", "Meteorologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/67/Anna_Mani.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anna_Mani"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Brian Niccol"
 birth: "1974-01-01"
 nationality: "American"
 occupation: ["Businessman", "CEO"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Brian_Niccol.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Brian_Niccol"
 lastUpdated: "2026-03-12"

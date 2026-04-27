@@ -5,7 +5,7 @@ birth: "1943-08-15"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Traqueticomiguelrodriguez.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Miguel_Rodr%C3%ADguez_Orejuela"
 lastUpdated: "2026-02-26"
