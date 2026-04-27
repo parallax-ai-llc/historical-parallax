@@ -3,6 +3,7 @@ name: "Jungkook (BTS)"
 birth: "1997-09-01"
 nationality: "South Korean"
 occupation: ["Singer", "Dancer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Jung_Kook_of_BTS%2C_February_12%2C_2026_%281%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jungkook"
 lastUpdated: "2026-03-11"

@@ -5,7 +5,7 @@ birth: "1787-03-19"
 death: "1849-12-07"
 nationality: "United States"
 occupation: ["Torturer", "Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Delphine_LaLaurie.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Delphine_LaLaurie"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1850-01-15"
 death: "1891-02-10"
 nationality: "Russian-Swedish"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sofja_Wassiljewna_Kowalewskaja_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sofia_Kovalevskaya"
 lastUpdated: "2026-02-21"

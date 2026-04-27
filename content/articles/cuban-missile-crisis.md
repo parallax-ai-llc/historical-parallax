@@ -5,7 +5,7 @@ birth: "1962-10-16"
 death: "1962-10-28"
 nationality: "Global"
 occupation: ["Historical Event", "Political", "Cold War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/PGM-19A_Jupiter_missile-02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
 lastUpdated: "2026-02-21"

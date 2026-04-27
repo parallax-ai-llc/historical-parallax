@@ -3,6 +3,7 @@ name: David Copperfield
 birth: "1956-09-16"
 nationality: American
 occupation: ["Magician", "Illusionist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/DCatAGT.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Copperfield_(illusionist)"
 lastUpdated: "2025-12-22"

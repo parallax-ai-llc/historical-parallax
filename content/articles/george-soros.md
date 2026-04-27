@@ -5,7 +5,7 @@ birth: "1930-08-12"
 death: "Unknown"
 nationality: "Hungarian-American"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/George_Soros%2C_Founder_and_Chairman_of_the_Open_Society_Foundations%2C_visits_the_EC_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/George_Soros"
 lastUpdated: "2026-02-21"

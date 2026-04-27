@@ -5,7 +5,7 @@ birth: "1896-02-02"
 death: "1980-06-18"
 nationality: "Polish"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Kazimierz_Kuratowski_Polish_scientist.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kazimierz_Kuratowski"
 lastUpdated: "2026-02-21"

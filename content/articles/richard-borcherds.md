@@ -5,7 +5,7 @@ birth: "1959-11-29"
 death: "Unknown"
 nationality: "British"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Richard_Borcherds.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Richard_Borcherds"
 lastUpdated: "2026-02-21"

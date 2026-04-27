@@ -3,6 +3,7 @@ name: "Rauw Alejandro"
 birth: "1993-01-10"
 nationality: "Puerto Rican"
 occupation: ["Singer", "Songwriter", "Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/2023-11-16_Gala_de_los_Latin_Grammy%2C_13_%28cropped%29_%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rauw_Alejandro"
 lastUpdated: "2026-03-12"

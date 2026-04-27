@@ -5,7 +5,7 @@ birth: "1992-06-15"
 death: "Unknown"
 nationality: "Egyptian"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mohamed_Salah"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1964-07-02"
 death: "1964-07-02"
 nationality: "United States"
 occupation: ["Historical Event", "Social Movement", "Civil Rights"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/960px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Civil_Rights_Act_1964"
 lastUpdated: "2026-02-21"

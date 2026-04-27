@@ -5,7 +5,7 @@ birth: "1960-06-30"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/2e/DavidHeadley.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Headley"
 lastUpdated: "2026-02-26"

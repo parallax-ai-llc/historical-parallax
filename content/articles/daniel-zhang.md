@@ -5,7 +5,7 @@ birth: "1972-01-01"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Daniel_Zhang_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Zhang"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Chris Hemsworth"
 birth: "1983-08-11"
 nationality: "Australian"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Chris_Hemsworth_-_Crime_101.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chris_Hemsworth"
 lastUpdated: "2026-03-12"

@@ -3,6 +3,7 @@ name: "Rachel Maddow"
 birth: "1973-04-01"
 nationality: "American"
 occupation: ["Journalist", "Political Commentator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/RachelMaddow-byPhilipRomano.jpg/3840px-RachelMaddow-byPhilipRomano.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rachel_Maddow"
 lastUpdated: "2026-03-12"

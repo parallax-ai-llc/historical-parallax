@@ -5,7 +5,7 @@ birth: "1941-01-01"
 death: ""
 nationality: "Indian"
 occupation: ["Businessman", "Vaccine Manufacturer", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Union_Minister_for_Finance%2C_Corporate_Affairs_and_Information_%26_Broadcasting%2C_Shri_Arun_Jaitley_felicitating_Dr._Cyrus_Poonawalla%2C_at_the_Iranshah_Udvada_Utsav%2C_in_Udvada%2C_Gujarat_on_December_27%2C_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cyrus_Poonawalla"
 lastUpdated: "2026-03-18"

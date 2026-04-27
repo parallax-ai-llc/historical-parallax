@@ -5,7 +5,7 @@ birth: "1903-02-26"
 death: "1979-05-02"
 nationality: "Italian"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Giulio_Natta_1960s.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Giulio_Natta"
 lastUpdated: "2026-02-21"

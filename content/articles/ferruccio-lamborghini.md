@@ -5,7 +5,7 @@ birth: "1916-04-28"
 death: "1993-02-20"
 nationality: "Italian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Ferruccio_Lamborghini.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ferruccio_Lamborghini"
 lastUpdated: "2026-02-21"

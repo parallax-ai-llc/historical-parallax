@@ -5,7 +5,7 @@ birth: "1986-11-16"
 death: "2016-06-12"
 nationality: "United States"
 occupation: ["Terrorist", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Omar_Mateen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Omar_Mateen"
 lastUpdated: "2026-02-21"

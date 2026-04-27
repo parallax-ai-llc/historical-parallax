@@ -5,7 +5,7 @@ birth: "1922-03-07"
 death: "2004-01-12"
 nationality: "Russian"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Ladyshenskaya.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Olga_Ladyzhenskaya"
 lastUpdated: "2026-02-21"

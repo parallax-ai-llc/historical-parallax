@@ -5,7 +5,7 @@ birth: "1988-12-17"
 death: "Unknown"
 nationality: "Kenyan"
 occupation: ["Athlete", "Olympic Champion", "Middle-Distance Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/David_Rudisha_Daegu_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Rudisha"
 lastUpdated: "2026-02-26"

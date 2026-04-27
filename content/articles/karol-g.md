@@ -3,6 +3,7 @@ name: "Karol G"
 birth: "1991-02-14"
 nationality: "Colombian"
 occupation: ["Singer", "Songwriter", "Reggaeton Artist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg/1920px-2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karol_G"
 lastUpdated: "2026-03-12"

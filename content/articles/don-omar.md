@@ -3,6 +3,7 @@ name: "Don Omar"
 birth: "1978-02-10"
 nationality: "Puerto Rican"
 occupation: ["Singer", "Reggaeton Artist", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Don_Omar_-_The_Kingdom_%28Official_Q_%26_A%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Don_Omar"
 lastUpdated: "2026-03-12"

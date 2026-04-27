@@ -5,7 +5,7 @@ birth: "1933-11-05"
 death: "2000-09-14"
 nationality: "China"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a9/Chengkejie.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheng_Kejie"
 lastUpdated: "2026-02-26"

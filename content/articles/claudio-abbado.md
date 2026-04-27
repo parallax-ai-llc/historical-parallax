@@ -4,6 +4,7 @@ birth: "1933-06-26"
 death: "2014-01-20"
 nationality: "Italian"
 occupation: ["Conductor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Claudio_Abbado_Senato.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claudio_Abbado"
 lastUpdated: "2026-03-12"

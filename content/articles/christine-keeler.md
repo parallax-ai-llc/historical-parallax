@@ -5,7 +5,7 @@ birth: "1942-02-22"
 death: "2017-12-04"
 nationality: "United Kingdom"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Christine_Keeler_%28cropped_and_adjusted%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christine_Keeler"
 lastUpdated: "2026-02-26"

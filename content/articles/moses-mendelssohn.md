@@ -5,7 +5,7 @@ birth: "1729-09-06"
 death: "1786-01-04"
 nationality: "German Jewish"
 occupation: ["Philosopher", "Scholar", "Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Moses_Mendelson_P7160073.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Moses_Mendelssohn"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "J Balvin"
 birth: "1985-05-07"
 nationality: "Colombian"
 occupation: ["Musician", "Rapper", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/J_Balvin%2C_Noisey_Meets%3B_Oct_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/J_Balvin"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1911-06-30"
 death: "2004-08-14"
 nationality: "Polish-American"
 occupation: ["Poet", "Essayist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Czeslaw_Milosz_3_ap.tif/lossy-page1-1280px-Czeslaw_Milosz_3_ap.tif.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Czeslaw_Milosz"
 lastUpdated: "2026-02-26"

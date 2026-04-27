@@ -5,7 +5,7 @@ birth: "1991-07-08"
 death: "Unknown"
 nationality: "Dutch"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Virgil_van_Dijk"
 lastUpdated: "2026-02-26"

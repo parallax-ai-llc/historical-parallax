@@ -5,7 +5,7 @@ birth: "1956-10-08"
 death: "2001-10-07"
 nationality: "Pakistan"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/39/Javed_Iqbal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Javed_Iqbal_(serial_killer)"
 lastUpdated: "2026-02-21"

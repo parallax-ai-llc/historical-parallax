@@ -3,6 +3,7 @@ name: "Justin Bieber"
 birth: "1994-03-01"
 nationality: "Canadian"
 occupation: ["Singer", "Songwriter", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Justin_Bieber_in_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Justin_Bieber"
 lastUpdated: "2026-03-12"

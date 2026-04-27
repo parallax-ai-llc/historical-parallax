@@ -5,7 +5,7 @@ birth: "1876-02-19"
 death: "1957-03-16"
 nationality: "Romanian"
 occupation: ["Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Constantin_Brancusi"
 lastUpdated: "2026-02-21"

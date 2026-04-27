@@ -3,6 +3,7 @@ name: "Jony Ive"
 birth: "1967-02-27"
 nationality: "British"
 occupation: ["Industrial Designer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Jonathan_Ive_%28OTRS%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jony_Ive"
 lastUpdated: "2026-03-12"

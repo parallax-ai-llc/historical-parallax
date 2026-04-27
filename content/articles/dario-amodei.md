@@ -5,7 +5,7 @@ birth: "1983-01-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "AI Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Dario_Amodei_at_TechCrunch_Disrupt_2023_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dario_Amodei"
 lastUpdated: "2026-02-21"

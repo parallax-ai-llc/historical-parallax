@@ -5,7 +5,7 @@ birth: "1946-01-20"
 death: "2025-01-16"
 nationality: "American"
 occupation: ["Film Director", "Screenwriter", "Painter", "Musician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/David_Lynch_%281990%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Lynch"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1948-05-14"
 death: "1948-05-14"
 nationality: "Palestine"
 occupation: ["Historical Event", "Political", "Middle East"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Arthur_Szyk_%281894-1951%29._Visual_History_of_Nations%2C_Israel_%281948%29%2C_New_Canaan%2C_CT.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Creation_of_Israel"
 lastUpdated: "2026-02-21"

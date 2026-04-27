@@ -5,7 +5,7 @@ birth: "1887-04-01"
 death: "1929-05-06"
 nationality: "Denmark"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Dagmar_Overby_politimuseet.1920.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dagmar_Overbye"
 lastUpdated: "2026-02-26"

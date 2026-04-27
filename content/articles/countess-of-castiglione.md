@@ -5,7 +5,7 @@ birth: "1837-03-22"
 death: "1899-11-28"
 nationality: "Italy"
 occupation: ["Spy", "Political Agent"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Scherzo_di_Follia_-_Pierson_Castiglione_-_1860s.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Countess_of_Castiglione"
 lastUpdated: "2026-02-26"

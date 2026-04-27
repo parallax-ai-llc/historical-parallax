@@ -5,7 +5,7 @@ birth: "1988-02-17"
 death: "Unknown"
 nationality: "Ukrainian"
 occupation: ["Athlete", "Olympic Champion", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Vasyl_Lomachenko_portrait_3%C3%974.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vasyl_Lomachenko"
 lastUpdated: "2026-02-26"

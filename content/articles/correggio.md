@@ -5,7 +5,7 @@ birth: "1489-08-01"
 death: "1534-03-05"
 nationality: "Italian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Antonio_Allegri_da_Correggio.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Correggio"
 lastUpdated: "2026-02-21"

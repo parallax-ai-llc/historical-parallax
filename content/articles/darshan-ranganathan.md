@@ -5,7 +5,7 @@ birth: "1941-06-04"
 death: "2001-06-04"
 nationality: "Indian"
 occupation: ["Organic chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/bd/Darshan_Ranganathan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Darshan_Ranganathan"
 lastUpdated: "2026-02-21"

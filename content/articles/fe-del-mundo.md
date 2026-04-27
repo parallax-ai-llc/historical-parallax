@@ -5,7 +5,7 @@ birth: "1911-11-27"
 death: "2011-08-06"
 nationality: "Filipino"
 occupation: ["Pediatrician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/67/Fe_del_Mundo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fe_del_Mundo"
 lastUpdated: "2026-02-21"

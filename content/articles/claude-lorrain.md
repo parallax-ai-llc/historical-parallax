@@ -5,7 +5,7 @@ birth: "1600-01-01"
 death: "1682-11-23"
 nationality: "French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Claude_Gell%C3%A9e%2C_dit_le_Lorrain%2C_Self-portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claude_Lorrain"
 lastUpdated: "2026-02-21"

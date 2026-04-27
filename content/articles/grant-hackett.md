@@ -5,7 +5,7 @@ birth: "1980-05-09"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Olympian_Grant_Hackett_takes_the_Pledge_%2834690236782%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Grant_Hackett"
 lastUpdated: "2026-02-26"

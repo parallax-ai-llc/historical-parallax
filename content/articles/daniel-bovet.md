@@ -5,7 +5,7 @@ birth: "1907-03-23"
 death: "1992-04-08"
 nationality: "Swiss-Italian"
 occupation: ["Pharmacologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Daniel_Bovet_nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Bovet"
 lastUpdated: "2026-02-21"

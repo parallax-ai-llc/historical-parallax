@@ -5,7 +5,7 @@ birth: "1965-08-01"
 death: "Unknown"
 nationality: "Australia"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/38/Mokbel_arrest.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tony_Mokbel"
 lastUpdated: "2026-02-26"

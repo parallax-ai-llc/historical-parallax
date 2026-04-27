@@ -5,7 +5,7 @@ birth: "1900-06-05"
 death: "1979-02-09"
 nationality: "Hungarian-British"
 occupation: ["Physicist", "Electrical Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Dennis_Gabor_1971b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dennis_Gabor"
 lastUpdated: "2026-02-21"

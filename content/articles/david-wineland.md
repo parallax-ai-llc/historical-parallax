@@ -5,7 +5,7 @@ birth: "1944-02-24"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Portrait_of_David_Wineland.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Wineland"
 lastUpdated: "2026-02-21"

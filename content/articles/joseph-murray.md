@@ -5,7 +5,7 @@ birth: "1919-04-01"
 death: "2012-11-26"
 nationality: "American"
 occupation: ["Surgeon", "Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/3a/Joseph_Murray_Nobel_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joseph_Murray"
 lastUpdated: "2026-02-21"

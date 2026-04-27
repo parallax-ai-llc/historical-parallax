@@ -5,7 +5,7 @@ birth: "1947-01-01"
 death: "2019-08-28"
 nationality: "Tibetan"
 occupation: ["Buddhist Teacher", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/SR_for_wiki_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sogyal_Rinpoche"
 lastUpdated: "2026-02-21"

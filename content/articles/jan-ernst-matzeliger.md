@@ -5,7 +5,7 @@ birth: "1852-09-15"
 death: "1889-08-24"
 nationality: "Dutch-Surinamese-American"
 occupation: ["Inventor", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Jan_ernst_matzeliger.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jan_Ernst_Matzeliger"
 lastUpdated: "2026-02-21"

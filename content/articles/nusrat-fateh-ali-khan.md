@@ -5,7 +5,7 @@ birth: "1948-10-13"
 death: "1997-08-16"
 nationality: "Pakistani"
 occupation: ["Singer", "Musician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nusrat_Fateh_Ali_Khan_%281948-1997%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nusrat_Fateh_Ali_Khan"
 lastUpdated: "2026-02-21"

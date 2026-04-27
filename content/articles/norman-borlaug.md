@@ -5,7 +5,7 @@ birth: "1914-03-25"
 death: "2009-09-12"
 nationality: "American"
 occupation: ["Agronomist", "Plant Scientist", "Humanitarian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Norman_Borlaug%2C_2004_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Norman_Borlaug"
 lastUpdated: "2026-02-21"

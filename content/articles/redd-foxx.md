@@ -4,6 +4,7 @@ birth: "1922-12-09"
 death: "1991-10-11"
 nationality: "American"
 occupation: ["Comedian", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Redd_Foxx_1966.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Redd_Foxx"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1520-01-01"
 death: "1609-09-07"
 nationality: "Czech Jewish"
 occupation: ["Rabbi", "Philosopher", "Mystic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rabbi_L%C3%B6w_Saloun.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Judah_Loew_ben_Bezalel"
 lastUpdated: "2026-02-21"

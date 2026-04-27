@@ -5,7 +5,7 @@ birth: "1960-08-01"
 death: "Unknown"
 nationality: "Iranian-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Cumrun_Vafa%2C_Harvard.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cumrun_Vafa"
 lastUpdated: "2026-02-21"

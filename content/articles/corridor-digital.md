@@ -3,6 +3,7 @@ name: "Corridor Digital"
 birth: "2010-10-28"
 nationality: "American"
 occupation: ["YouTube Group", "VFX Artists", "Filmmakers"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Corridor_Digital_Logo.svg/960px-Corridor_Digital_Logo.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Corridor_Digital"
 lastUpdated: "2026-03-12"

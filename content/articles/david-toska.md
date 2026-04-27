@@ -5,7 +5,7 @@ birth: "1974-09-30"
 death: "Unknown"
 nationality: "Norway"
 occupation: ["Bank Robber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/David_Toska2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Toska"
 lastUpdated: "2026-02-26"

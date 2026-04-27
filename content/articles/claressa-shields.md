@@ -5,7 +5,7 @@ birth: "1995-03-17"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Claressa_GWOAT_Shields.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claressa_Shields"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1828-09-09"
 death: "1910-11-20"
 nationality: "Russian"
 occupation: ["Author", "Religious Thinker", "Social Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Count_Leo_Tolstoy"
 lastUpdated: "2026-02-21"

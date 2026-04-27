@@ -5,7 +5,7 @@ birth: "1817-07-29"
 death: "1900-05-02"
 nationality: "Russian-Armenian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Aivazovsky_-_Self-portrait_1874_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ivan_Aivazovsky"
 lastUpdated: "2026-02-21"

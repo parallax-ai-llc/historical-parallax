@@ -5,7 +5,7 @@ birth: "1976-12-07"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Christian_Brueckner_by_Matthias_Scheuer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christian_Br%C3%BCckner"
 lastUpdated: "2026-02-26"

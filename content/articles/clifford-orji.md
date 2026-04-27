@@ -5,7 +5,7 @@ birth: "1960-01-01"
 death: "2012-07-01"
 nationality: "Nigeria"
 occupation: ["Serial Killer", "Cannibal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/af/Clifford_Orji_with_a_corpse_and_skulls_after_arrest%2C_1999.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clifford_Orji"
 lastUpdated: "2026-02-26"

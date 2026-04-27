@@ -5,7 +5,7 @@ birth: "1985-08-05"
 death: "2013-05-22"
 nationality: "Russia"
 occupation: ["Murder Suspect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ibrahim_Todashev_Orange_County_booking_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ibragim_Todashev"
 lastUpdated: "2026-02-26"

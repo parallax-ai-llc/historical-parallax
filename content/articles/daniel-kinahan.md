@@ -5,7 +5,7 @@ birth: "1977-05-27"
 death: "Unknown"
 nationality: "Ireland"
 occupation: ["Drug Lord", "Mafia"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Daniel-Joseph-Kinahan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Kinahan"
 lastUpdated: "2026-02-26"

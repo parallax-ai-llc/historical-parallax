@@ -5,7 +5,7 @@ birth: "1898-11-26"
 death: "1973-08-11"
 nationality: "German"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Karl_Ziegler_Nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Ziegler"
 lastUpdated: "2026-02-21"

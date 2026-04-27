@@ -5,7 +5,7 @@ birth: "0476-09-04"
 death: "0476-09-04"
 nationality: "Italy"
 occupation: ["Historical Event", "Empire", "Ancient History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Roman_Republic_Empire_map.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
 lastUpdated: "2026-02-21"

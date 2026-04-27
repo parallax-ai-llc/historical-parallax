@@ -5,7 +5,7 @@ birth: "1988-08-12"
 death: "Unknown"
 nationality: "British"
 occupation: ["Athlete", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tyson_Fury_at_Place_Bell%2C_Laval_Quebec%2C_Canada_-_Dec_16_2017_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tyson_Fury"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1958-07-30"
 death: "Unknown"
 nationality: "British"
 occupation: ["Athlete", "Olympic Champion", "Decathlete"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Daley_Thomson_2007_Laureus_day.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daley_Thompson"
 lastUpdated: "2026-02-26"

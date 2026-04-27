@@ -3,6 +3,7 @@ name: "Diana Ross"
 birth: "1944-03-26"
 nationality: "American"
 occupation: ["Musician", "Singer", "Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/DRossLongleat010722_%289_of_43%29_%2852189231585%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Diana_Ross"
 lastUpdated: "2026-03-12"

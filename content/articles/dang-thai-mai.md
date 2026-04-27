@@ -5,7 +5,7 @@ birth: "1902-12-25"
 death: "1984-09-25"
 nationality: "Vietnam"
 occupation: ["Literary Critic", "Educator", "Writer", "Marxist Theorist", "Professor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/B%C3%A1nh_Tr%C3%B4i_N%C6%B0%E1%BB%9Bc.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vietnamese_literature"
 lastUpdated: "2026-01-08"

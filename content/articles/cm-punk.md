@@ -3,6 +3,7 @@ name: "CM Punk"
 birth: "1978-10-26"
 nationality: "American"
 occupation: ["Professional Wrestler"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/CM_Punk_WWE_2024_%28close_crop%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/CM_Punk"
 lastUpdated: "2026-03-12"

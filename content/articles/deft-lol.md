@@ -3,6 +3,7 @@ name: "Deft"
 birth: "1996-10-23"
 nationality: "South Korean"
 occupation: ["Esports Player", "League of Legends Pro", "AD Carry"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Deft_interview_in_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Deft_(gamer)"
 lastUpdated: "2026-03-11"

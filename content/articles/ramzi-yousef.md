@@ -5,7 +5,7 @@ birth: "1968-04-27"
 death: "N/A (Imprisoned)"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Ramzi_Yousef_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ramzi_Yousef"
 lastUpdated: "2026-02-21"

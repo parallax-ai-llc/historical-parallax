@@ -5,7 +5,7 @@ birth: "1955-04-07"
 death: "1998-12-05"
 nationality: "Hong Kong"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/3d/Cheung_Tze-keung.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cheung_Tze-keung"
 lastUpdated: "2026-02-26"

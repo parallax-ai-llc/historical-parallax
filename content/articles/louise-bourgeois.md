@@ -5,7 +5,7 @@ birth: "1911-12-25"
 death: "2010-05-31"
 nationality: "French-American"
 occupation: ["Sculptor", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Oliver_Mark_-_Louise_Bourgeois%2C_New_York_1996.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Louise_Bourgeois"
 lastUpdated: "2026-02-21"

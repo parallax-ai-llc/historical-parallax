@@ -5,7 +5,7 @@ birth: "1956-06-23"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal Mastermind", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Choi_Soon-sil.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Soon-sil"
 lastUpdated: "2026-02-26"

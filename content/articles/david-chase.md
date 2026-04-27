@@ -3,6 +3,7 @@ name: "David Chase"
 birth: "1945-08-22"
 nationality: "American"
 occupation: ["Television Producer", "Screenwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/David_Chase_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Chase"
 lastUpdated: "2026-03-12"

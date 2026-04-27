@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Soviet Union"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Vinnycia16.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Great_Purge"
 lastUpdated: "2026-02-26"

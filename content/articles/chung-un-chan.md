@@ -5,7 +5,7 @@ birth: "1947-12-15"
 death: "living"
 nationality: "Korean"
 occupation: ["Physicist", "Academic", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/ChungUnChan%28060515%29Cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Un-chan"
 lastUpdated: "2026-02-21"

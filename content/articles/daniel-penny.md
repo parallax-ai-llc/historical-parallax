@@ -5,7 +5,7 @@ birth: "1994-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Controversial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Madison_Ave_Jordan_Neely_protest_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Penny"
 lastUpdated: "2026-02-26"

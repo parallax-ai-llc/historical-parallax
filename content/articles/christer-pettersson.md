@@ -5,7 +5,7 @@ birth: "1947-07-23"
 death: "2004-09-29"
 nationality: "Sweden"
 occupation: ["Suspected Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/5f/Christer_Pettersson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christer_Pettersson"
 lastUpdated: "2026-02-26"

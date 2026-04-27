@@ -5,7 +5,7 @@ birth: "1481-07-01"
 death: "1559-01-25"
 nationality: "Denmark"
 occupation: ["Historical Criminal", "Tyrant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lucas_Cranach_%28I%29_-_Bildnis_Christians_II.%2C_K%C3%B6nig_von_D%C3%A4nemark_%28MbK%2C_Leipzig%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christian_II_of_Denmark"
 lastUpdated: "2026-02-26"

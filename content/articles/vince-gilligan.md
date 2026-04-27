@@ -3,6 +3,7 @@ name: "Vince Gilligan"
 birth: "1967-02-10"
 nationality: "American"
 occupation: ["Television Producer", "Screenwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vince_Gilligan_at_53rd_Saturn_Awards_2026-03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vince_Gilligan"
 lastUpdated: "2026-03-12"

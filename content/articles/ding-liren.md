@@ -3,6 +3,7 @@ name: "Ding Liren"
 birth: "1992-10-24"
 nationality: "Chinese"
 occupation: ["Chess Player"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/DingLiren24a.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ding_Liren"
 lastUpdated: "2026-03-12"

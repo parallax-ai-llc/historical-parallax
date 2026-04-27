@@ -5,7 +5,7 @@ birth: "1821-10-22"
 death: "1900-08-13"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Collis_P_Huntington_by_Stephen_W_Shaw.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Collis_P._Huntington"
 lastUpdated: "2026-02-21"

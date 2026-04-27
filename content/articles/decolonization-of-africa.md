@@ -5,7 +5,7 @@ birth: "1957-03-06"
 death: "1968-01-01"
 nationality: "Africa"
 occupation: ["Historical Event", "Political", "Decolonization"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/African_nations_order_of_independence_1950-1993.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Decolonization_of_Africa"
 lastUpdated: "2026-02-21"

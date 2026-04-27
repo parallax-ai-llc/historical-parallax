@@ -5,7 +5,7 @@ birth: "1870-10-18"
 death: "1966-07-12"
 nationality: "Japanese"
 occupation: ["Scholar", "Author", "Translator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Daisetsu_Teitar%C5%8D_Suzuki_photographed_by_Shigeru_Tamura.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daisetz_Teitaro_Suzuki"
 lastUpdated: "2026-02-21"

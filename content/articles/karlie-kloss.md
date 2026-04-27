@@ -3,6 +3,7 @@ name: "Karlie Kloss"
 birth: "1992-08-03"
 nationality: "American"
 occupation: ["Fashion Model", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Karlie_Kloss_Loegering_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karlie_Kloss"
 lastUpdated: "2026-03-12"

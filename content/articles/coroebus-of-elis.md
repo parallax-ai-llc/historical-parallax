@@ -5,7 +5,7 @@ birth: "0776-01-01"
 death: "0720-01-01"
 nationality: "Greek"
 occupation: ["Athlete", "Ancient Olympic Champion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Panathenaic_amphora_Kleophrades_Louvre_F277.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Coroebus_of_Elis"
 lastUpdated: "2026-02-26"

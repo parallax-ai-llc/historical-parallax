@@ -5,7 +5,7 @@ birth: "1628-10-12"
 death: "1684-01-11"
 nationality: "Netherlands"
 occupation: ["Colonial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Portrait_of_Cornelis_Speelman_001.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelis_Speelman"
 lastUpdated: "2026-02-26"

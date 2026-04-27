@@ -5,7 +5,7 @@ birth: "1919-04-24"
 death: "2010-07-08"
 nationality: "American"
 occupation: ["Mathematician", "Statistician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/David_Blackwell_1999_%28re-scanned%2C_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Blackwell"
 lastUpdated: "2026-02-21"

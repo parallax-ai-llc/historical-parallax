@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Silk_road_Kazakhstan.svg/960px-Silk_road_Kazakhstan.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Silk_Road"
 lastUpdated: "2026-02-26"

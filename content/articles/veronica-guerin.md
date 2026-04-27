@@ -5,7 +5,7 @@ birth: "1958-07-05"
 death: "1996-06-26"
 nationality: "Ireland"
 occupation: ["Journalist", "Murder Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b2/Veronica_Guerin_real_person.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Veronica_Guerin"
 lastUpdated: "2026-02-26"

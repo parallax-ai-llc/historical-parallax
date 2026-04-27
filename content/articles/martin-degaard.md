@@ -3,6 +3,7 @@ name: "Martin Ødegaard"
 birth: "1998-12-17"
 nationality: "Norwegian"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Norway_Italy_-_June_2025_E_04.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Martin_%C3%98degaard"
 lastUpdated: "2026-03-12"

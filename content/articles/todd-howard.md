@@ -3,6 +3,7 @@ name: "Todd Howard"
 birth: "1971-04-09"
 nationality: "American"
 occupation: ["Game Designer", "Game Director", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Todd_Howard%2C_SXSW_2024_%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Todd_Howard"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "2004-11-20"
 nationality: "United States"
 occupation: ["Prison Gang Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/ea/Clayton_Fountain.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clayton_Fountain"
 lastUpdated: "2026-02-26"

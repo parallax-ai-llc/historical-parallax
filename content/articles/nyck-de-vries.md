@@ -3,6 +3,7 @@ name: "Nyck de Vries"
 birth: "1995-02-06"
 nationality: "Dutch"
 occupation: ["Racing Driver", "Formula E Champion", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/TGR_Nyck_de_Vries_240908.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nyck_de_Vries"
 lastUpdated: "2026-03-12"

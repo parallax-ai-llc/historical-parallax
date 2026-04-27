@@ -4,6 +4,7 @@ birth: "1451"
 death: "1506-05-20"
 nationality: "Genoese (Italian), Spanish service"
 occupation: ["Explorer", "Navigator", "Colonizer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/3840px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christopher_Columbus"
 lastUpdated: "2025-12-22"

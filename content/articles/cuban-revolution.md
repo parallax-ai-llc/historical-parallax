@@ -5,7 +5,7 @@ birth: "1953-07-26"
 death: "1959-01-01"
 nationality: "Cuba"
 occupation: ["Historical Event", "Revolution", "Political"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cuban_Revolution"
 lastUpdated: "2026-02-21"

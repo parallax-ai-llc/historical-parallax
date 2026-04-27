@@ -5,7 +5,7 @@ birth: "1999-04-20"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Columbine_Shooting_Security_Camera.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Columbine_Massacre"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1889-10-12"
 death: "1977-01-26"
 nationality: "German-American"
 occupation: ["Philosopher", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Dietrich_von_Hildebrand_%281889%E2%80%931977%29_%C2%A9_Max_Fenichel_%281885%E2%80%931942%29_OeNB_9802368.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dietrich_von_Hildebrand"
 lastUpdated: "2026-02-21"

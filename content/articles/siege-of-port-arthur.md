@@ -5,7 +5,7 @@ birth: "1904-08-01"
 death: "1905-01-02"
 nationality: "China"
 occupation: ["Historical Event", "Siege", "Russo-Japanese War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/RusShellJapLine1905.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siege_of_Port_Arthur"
 lastUpdated: "2026-02-21"

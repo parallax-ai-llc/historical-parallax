@@ -5,7 +5,7 @@ birth: "1955-11-04"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dr_David_Julius_by_christopher_michel_in_2022_04.jpg/3840px-Dr_David_Julius_by_christopher_michel_in_2022_04.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Julius"
 lastUpdated: "2026-02-21"

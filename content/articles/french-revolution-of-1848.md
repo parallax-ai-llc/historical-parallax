@@ -5,7 +5,7 @@ birth: "1848-02-22"
 death: "1848-06-26"
 nationality: "France"
 occupation: ["Historical Event", "Revolution", "Political"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Philippoteaux_-_Lamartine_in_front_of_the_Town_Hall_of_Paris_rejects_the_red_flag.jpg/3840px-Philippoteaux_-_Lamartine_in_front_of_the_Town_Hall_of_Paris_rejects_the_red_flag.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/French_Revolution_of_1848"
 lastUpdated: "2026-02-21"

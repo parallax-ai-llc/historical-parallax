@@ -5,7 +5,7 @@ birth: "1946-04-21"
 death: "Unknown"
 nationality: "French"
 occupation: ["Film Director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Claire_Denis_at_Berlinale_2022_Ausschnitt.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claire_Denis"
 lastUpdated: "2026-02-21"

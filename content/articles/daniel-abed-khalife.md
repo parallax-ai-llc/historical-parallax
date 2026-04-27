@@ -5,7 +5,7 @@ birth: "2001-01-01"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Escaped Prisoner", "Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Daniel_Khalife_graphics_bundle_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Abed_Khalife"
 lastUpdated: "2026-02-26"

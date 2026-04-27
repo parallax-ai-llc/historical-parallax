@@ -5,7 +5,7 @@ birth: "1943-04-26"
 death: "Unknown"
 nationality: "Swiss"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Peter_Zumthor.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Peter_Zumthor"
 lastUpdated: "2026-02-21"

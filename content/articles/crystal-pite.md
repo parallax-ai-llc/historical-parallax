@@ -5,7 +5,7 @@ birth: "1970-09-15"
 death: "Unknown"
 nationality: "Canadian"
 occupation: ["Dancer", "Choreographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Crystal_Pite.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Crystal_Pite"
 lastUpdated: "2026-02-21"

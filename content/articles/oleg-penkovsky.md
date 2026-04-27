@@ -5,7 +5,7 @@ birth: "1919-04-23"
 death: "1963-05-16"
 nationality: "Soviet Union"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Oleg_Penkovsky_CIA.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oleg_Penkovsky"
 lastUpdated: "2026-02-26"

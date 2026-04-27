@@ -5,7 +5,7 @@ birth: "1962-01-01"
 death: "2004-12-08"
 nationality: "United States"
 occupation: ["Arms Dealer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/40/Dale_Stoffel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dale_Stoffel"
 lastUpdated: "2026-02-26"

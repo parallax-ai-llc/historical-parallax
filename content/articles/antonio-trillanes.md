@@ -5,7 +5,7 @@ birth: "1971-03-06"
 death: "Unknown"
 nationality: "Philippines"
 occupation: ["Mutineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Sen._Antonio_%E2%80%9CSonny%E2%80%9D_Trillanes_IV%2C_2014_Portrait_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antonio_Trillanes"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "Ken Block"
 birth: "1967-11-21"
 nationality: "American"
 occupation: ["Rally Driver", "Stunt Driver", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ken_Block_2016-04-12_001.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ken_Block"
 lastUpdated: "2026-03-12"

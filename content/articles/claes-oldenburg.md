@@ -5,7 +5,7 @@ birth: "1929-01-28"
 death: "2022-07-18"
 nationality: "Swedish-American"
 occupation: ["Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Claes_Oldenburg_-_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claes_Oldenburg"
 lastUpdated: "2026-02-21"

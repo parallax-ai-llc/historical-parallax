@@ -5,7 +5,7 @@ birth: "1954-01-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Photographer", "Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cindy_Sherman_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cindy_Sherman"
 lastUpdated: "2026-02-21"

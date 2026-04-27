@@ -5,7 +5,7 @@ birth: "1941-02-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/David_Gross_LANL.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Gross"
 lastUpdated: "2026-02-21"

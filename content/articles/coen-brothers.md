@@ -5,7 +5,7 @@ birth: "1954-09-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Film Director", "Screenwriter", "Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Coen_brothers_Cannes_2015_2_%28CROPPED%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Coen_Brothers"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1968-09-20"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/%EC%A0%95%EC%9A%A9%EC%A7%84-%EC%8B%A0%EC%84%B8%EA%B3%84%EA%B7%B8%EB%A3%B9-%EB%B6%80%ED%9A%8C%EC%9E%A5_Chung_Yong-jin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Yong-jin"
 lastUpdated: "2026-02-21"

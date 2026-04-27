@@ -3,6 +3,7 @@ name: "James Hunt"
 birth: "1947-08-29"
 nationality: "British"
 occupation: ["Racing Driver", "F1 World Champion", "Commentator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/J._Hunt_in_1977_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Hunt"
 lastUpdated: "2026-03-12"

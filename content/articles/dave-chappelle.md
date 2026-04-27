@@ -3,6 +3,7 @@ name: "Dave Chappelle"
 birth: "1973-08-24"
 nationality: "American"
 occupation: ["Comedian", "Actor", "Writer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dave_Chappelle_at_Preamiere_of_%22Dave_Chappelle_In_Real_Life%22_%282%29_%28cropped%29.jpg/1280px-Dave_Chappelle_at_Preamiere_of_%22Dave_Chappelle_In_Real_Life%22_%282%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dave_Chappelle"
 lastUpdated: "2026-03-12"

@@ -3,6 +3,7 @@ name: "Luka Modric"
 birth: "1985-09-09"
 nationality: "Croatian"
 occupation: ["Footballer", "Midfielder", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ofrenda_de_la_Liga_y_la_Champions-57-L.Mill%C3%A1n_%2852109310843%29_%28Luka_Modri%C4%87%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1940-06-22"
 death: "2011-04-30"
 nationality: "American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/DQuillen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Quillen"
 lastUpdated: "2026-02-21"

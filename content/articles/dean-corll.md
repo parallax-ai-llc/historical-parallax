@@ -5,7 +5,7 @@ birth: "1939-12-24"
 death: "1973-08-08"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Dean_Corll_Pasadena_Lowell_Sun_August_14%2C_1973A.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dean_Corll"
 lastUpdated: "2026-02-21"

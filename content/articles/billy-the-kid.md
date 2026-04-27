@@ -5,7 +5,7 @@ birth: "1859-11-23"
 death: "1881-07-14"
 nationality: "United States"
 occupation: ["Outlaw", "Gunfighter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Billy_the_Kid_tintype%2C_Fort_Sumner%2C_1879-80-Edit2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Billy_the_Kid"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1932-04-19"
 death: "2023-09-15"
 nationality: "Colombian"
 occupation: ["Painter", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Fernando_Botero_%282018%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fernando_Botero"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1956-10-17"
 death: "Unknown"
 nationality: "American"
 occupation: ["Astronaut", "Physician", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mae_Carol_Jemison.jpg/3840px-Mae_Carol_Jemison.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mae_Jemison"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Byung-Chul Han"
 birth: "1959-01-01"
 nationality: "South Korean"
 occupation: ["Philosopher", "Cultural Theorist", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/2015_Byung-Chul_Han_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Byung-Chul_Han"
 lastUpdated: "2026-03-12"

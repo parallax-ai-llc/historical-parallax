@@ -5,7 +5,7 @@ birth: "1970-09-08"
 death: "N/A (Death Row)"
 nationality: "United States"
 occupation: ["Terrorist", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hasan_nidal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nidal_Hasan"
 lastUpdated: "2026-02-21"

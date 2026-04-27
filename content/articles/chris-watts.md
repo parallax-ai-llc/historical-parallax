@@ -5,7 +5,7 @@ birth: "1985-05-16"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/bf/Watts_family_colorado_murder.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chris_Watts"
 lastUpdated: "2026-02-26"

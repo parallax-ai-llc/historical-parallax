@@ -5,7 +5,7 @@ birth: "1982-07-13"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Shin-Soo_Choo_in_2017_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choo_Shin-soo"
 lastUpdated: "2026-02-26"

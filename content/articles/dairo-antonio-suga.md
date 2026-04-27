@@ -5,7 +5,7 @@ birth: "1971-09-15"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Dario-Antonio-Usuga-David-1.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dairo_Antonio_%C3%9Asuga"
 lastUpdated: "2026-02-26"

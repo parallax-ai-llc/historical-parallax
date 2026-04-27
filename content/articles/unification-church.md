@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/f4/Logo_of_the_Family_Federation_for_World_Peace_and_Unification.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Unification_Church"
 lastUpdated: "2026-02-26"

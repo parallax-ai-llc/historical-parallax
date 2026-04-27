@@ -5,7 +5,7 @@ birth: "1960-05-18"
 death: "1987-08-19"
 nationality: "United Kingdom"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/17/Mass_Murderer_Michael_Ryan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hungerford_massacre"
 lastUpdated: "2026-02-26"

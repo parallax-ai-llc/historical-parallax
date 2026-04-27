@@ -3,6 +3,7 @@ name: "Maaya Uchida"
 birth: "1989-12-27"
 nationality: "Japanese"
 occupation: ["Voice Actress", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Uchida_Maaya_from_%22Komada_-A_Whisky_Family-%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348309153%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maaya_Uchida"
 lastUpdated: "2026-03-12"

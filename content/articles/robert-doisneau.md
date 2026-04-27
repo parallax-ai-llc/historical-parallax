@@ -4,6 +4,7 @@ birth: "1912-04-14"
 death: "1994-04-01"
 nationality: "French"
 occupation: ["Photographer", "Street Photographer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Robert_Doisneau_photographed_by_Bracha_L._Ettinger_in_his_studio_in_Montrouge%2C_1992.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Doisneau"
 lastUpdated: "2026-03-12"

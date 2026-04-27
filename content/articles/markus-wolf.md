@@ -5,7 +5,7 @@ birth: "1923-01-19"
 death: "2006-11-09"
 nationality: "Germany"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Bundesarchiv_Bild_183-1989-1208-420%2C_Markus_Wolf.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Markus_Wolf"
 lastUpdated: "2026-02-26"

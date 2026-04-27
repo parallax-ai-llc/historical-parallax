@@ -5,7 +5,7 @@ birth: "1643-01-01"
 death: "1670-01-21"
 nationality: "France"
 occupation: ["Highwayman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Claude_Duval_%28painting%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claude_Duval"
 lastUpdated: "2026-02-26"

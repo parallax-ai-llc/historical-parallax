@@ -5,7 +5,7 @@ birth: "1867-01-01"
 death: "1922-09-10"
 nationality: "Greek"
 occupation: ["Metropolitan", "Martyr"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Chrysostomos_of_Smyrna.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chrysostomos_of_Smyrna"
 lastUpdated: "2026-02-21"

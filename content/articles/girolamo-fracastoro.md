@@ -5,7 +5,7 @@ birth: "1478-01-01"
 death: "1553-08-06"
 nationality: "Italian"
 occupation: ["Physician", "Scholar", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Titian_Girolamo_FracastoroFXD.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Girolamo_Fracastoro"
 lastUpdated: "2026-02-21"

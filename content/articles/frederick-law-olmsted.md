@@ -5,7 +5,7 @@ birth: "1822-04-26"
 death: "1903-08-28"
 nationality: "American"
 occupation: ["Landscape Architect", "Journalist", "Social Reformer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Portrait_of_Frederick_Law_Olmsted.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Frederick_Law_Olmsted"
 lastUpdated: "2026-02-21"

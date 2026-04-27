@@ -5,7 +5,7 @@ birth: "1888-05-13"
 death: "1993-02-21"
 nationality: "Danish"
 occupation: ["Seismologist", "Geophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Inge_Lehman.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Inge_Lehmann"
 lastUpdated: "2026-02-21"

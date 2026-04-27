@@ -6,7 +6,7 @@ location: "Christchurch, New Zealand"
 coordinates: [172.64, -43.53]
 category: ["Terrorism", "New Zealand"]
 outcome: "51 killed, 40 injured"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Christchurch_Mosque%2C_New_Zealand.jpg/3840px-Christchurch_Mosque%2C_New_Zealand.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christchurch_mosque_shootings"
 lastUpdated: "2026-02-26"

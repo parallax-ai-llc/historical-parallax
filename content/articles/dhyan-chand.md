@@ -5,7 +5,7 @@ birth: "1905-08-29"
 death: "1979-12-03"
 nationality: "Indian"
 occupation: ["Athlete", "Field Hockey Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Dhyan_Chand_closeup.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dhyan_Chand"
 lastUpdated: "2026-02-26"

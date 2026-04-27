@@ -5,7 +5,7 @@ birth: "1932-10-24"
 death: "2007-05-18"
 nationality: "French"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pierre-Gilles_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes"
 lastUpdated: "2026-02-26"

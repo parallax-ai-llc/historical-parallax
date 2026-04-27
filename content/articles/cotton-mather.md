@@ -5,7 +5,7 @@ birth: "1663-02-12"
 death: "1728-02-13"
 nationality: "American"
 occupation: ["Minister", "Author", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Cotton_Mather_by_Peter_Pelham.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cotton_Mather"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1737-09-09"
 death: "1798-12-04"
 nationality: "Italian"
 occupation: ["Physician", "Physicist", "Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Luigi_Galvani%2C_oil-painting.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Luigi_Galvani"
 lastUpdated: "2026-02-21"

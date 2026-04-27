@@ -5,7 +5,7 @@ birth: "1573-07-25"
 death: "1650-07-18"
 nationality: "German"
 occupation: ["Astronomer", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Scheiner_christoph.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christoph_Scheiner"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1986-10-21"
 death: "2013-04-19"
 nationality: "Russia / United States"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/fa/Tamerlan_Tsarnaev.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tamerlan_Tsarnaev"
 lastUpdated: "2026-02-21"

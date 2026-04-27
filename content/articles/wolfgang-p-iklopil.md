@@ -5,7 +5,7 @@ birth: "1962-05-14"
 death: "2006-08-23"
 nationality: "Austria"
 occupation: ["Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Natascha_Kampusch_-_Buchmesse_Wien_2019.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wolfgang_P%C5%99iklopil"
 lastUpdated: "2026-02-26"

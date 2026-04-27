@@ -5,7 +5,7 @@ birth: "1856-12-18"
 death: "1940-08-30"
 nationality: "British"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/J.J_Thomson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/J._J._Thomson"
 lastUpdated: "2026-02-21"

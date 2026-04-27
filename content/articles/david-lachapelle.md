@@ -3,6 +3,7 @@ name: "David LaChapelle"
 birth: "1963-03-11"
 nationality: "American"
 occupation: ["Photographer", "Director"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/David_LaChapelle_Rudolfinum_4.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_LaChapelle"
 lastUpdated: "2026-03-12"

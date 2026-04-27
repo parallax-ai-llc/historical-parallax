@@ -3,6 +3,7 @@ name: "Daddy Yankee"
 birth: "1977-02-03"
 nationality: "Puerto Rican"
 occupation: ["Musician", "Rapper", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Daddy_Yankee_-_The_Kingdom_%28Official_Q_%26_A%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daddy_Yankee"
 lastUpdated: "2026-03-12"

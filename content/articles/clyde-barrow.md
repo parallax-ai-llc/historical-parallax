@@ -5,7 +5,7 @@ birth: "1909-03-24"
 death: "1934-05-23"
 nationality: "United States"
 occupation: ["Outlaw", "Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Bonnie_Parker_and_Clyde_Barrow.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clyde_Barrow"
 lastUpdated: "2026-02-21"

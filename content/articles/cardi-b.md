@@ -3,6 +3,7 @@ name: "Cardi B"
 birth: "1992-10-11"
 nationality: "American"
 occupation: ["Rapper", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Cardi_B_March_2024.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cardi_B"
 lastUpdated: "2026-03-12"

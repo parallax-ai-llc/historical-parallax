@@ -5,7 +5,7 @@ birth: "-0285"
 death: "-0222"
 nationality: "Greek (Ptolemaic Egypt)"
 occupation: ["Inventor", "Engineer", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/ARAGO_Francois_Astronomie_Populaire_T1_page_0067_Fig16-17.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ctesibius"
 lastUpdated: "2026-03-18"

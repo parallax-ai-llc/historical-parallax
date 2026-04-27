@@ -3,6 +3,7 @@ name: "Florian Wirtz"
 birth: "2003-05-03"
 nationality: "German"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Florian_Wirtz_04012026_%283%29_%28extracted%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Florian_Wirtz"
 lastUpdated: "2026-03-12"

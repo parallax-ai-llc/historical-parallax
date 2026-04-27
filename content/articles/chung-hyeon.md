@@ -5,7 +5,7 @@ birth: "1996-05-19"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Tennis Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hyeon_Chung.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Hyeon"
 lastUpdated: "2026-02-26"

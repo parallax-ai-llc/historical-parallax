@@ -3,6 +3,7 @@ name: "Cornelius"
 birth: "1969-01-27"
 nationality: "Japanese"
 occupation: ["Musician", "Record Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Keigo_Oyamada_and_Ryuichi_Sakamoto_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelius_(musician)"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Zodiac-Killer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zodiac_Killer"
 lastUpdated: "2026-02-21"

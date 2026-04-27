@@ -5,7 +5,7 @@ birth: "1900-12-09"
 death: "1995-03-24"
 nationality: "British"
 occupation: ["Biochemist", "Historian of Science"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/ad/Joseph_Needham.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joseph_Needham"
 lastUpdated: "2026-02-21"

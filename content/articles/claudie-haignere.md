@@ -5,7 +5,7 @@ birth: "1957-05-13"
 death: "living"
 nationality: "French"
 occupation: ["Astronaut", "Physician", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/20140927_Femmes_de_science_-_Claudie_Haigner%C3%A9_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claudie_Haignere"
 lastUpdated: "2026-02-21"

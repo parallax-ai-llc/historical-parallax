@@ -5,7 +5,7 @@ birth: "1969-05-04"
 death: "Unknown"
 nationality: "American"
 occupation: ["Technologist", "Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/2021_-_Centre_Stage_HM3_7569_%2851652201166%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Craig_Federighi"
 lastUpdated: "2026-02-26"

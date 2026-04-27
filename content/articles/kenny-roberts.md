@@ -5,7 +5,7 @@ birth: "1951-12-31"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Motorcycle Racer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Kenny_Roberts.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenny_Roberts"
 lastUpdated: "2026-02-26"

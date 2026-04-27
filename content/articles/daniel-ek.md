@@ -5,7 +5,7 @@ birth: "1983-02-21"
 death: "Unknown"
 nationality: "Swedish"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Daniel_Ek_EC_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Ek"
 lastUpdated: "2026-02-21"

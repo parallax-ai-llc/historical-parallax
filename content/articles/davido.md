@@ -3,6 +3,7 @@ name: "Davido"
 birth: "1992-11-21"
 nationality: "Nigerian"
 occupation: ["Singer", "Songwriter", "Record Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Davido_2024_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Davido"
 lastUpdated: "2026-03-12"

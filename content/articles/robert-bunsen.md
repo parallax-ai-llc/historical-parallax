@@ -5,7 +5,7 @@ birth: "1811-03-30"
 death: "1899-08-16"
 nationality: "German"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Robert_Wilhelm_Bunsen_%28HeidICON_53016%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Bunsen"
 lastUpdated: "2026-02-21"

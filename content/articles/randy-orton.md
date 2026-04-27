@@ -3,6 +3,7 @@ name: "Randy Orton"
 birth: "1980-04-01"
 nationality: "American"
 occupation: ["Professional Wrestler"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Randy_Orton_RR24_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Randy_Orton"
 lastUpdated: "2026-03-12"

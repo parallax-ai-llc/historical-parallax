@@ -5,7 +5,7 @@ birth: "1803-04-30"
 death: "1803-04-30"
 nationality: "United States"
 occupation: ["Historical Event", "Political", "American History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Louisiana_Purchase.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Louisiana_Purchase"
 lastUpdated: "2026-02-21"

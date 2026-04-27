@@ -5,7 +5,7 @@ birth: "1009-01-01"
 death: "1072-01-01"
 nationality: "Persian-Indian"
 occupation: ["Sufi Master", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Grave_of_Sayyid_Ali_Hajveri.jpg/1920px-Grave_of_Sayyid_Ali_Hajveri.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Data_Ganj_Bakhsh"
 lastUpdated: "2026-02-21"

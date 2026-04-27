@@ -3,6 +3,7 @@ name: "Lil Uzi Vert"
 birth: "1995-07-31"
 nationality: "American"
 occupation: ["Rapper", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Lil_Uzi_Vert_%282018%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lil_Uzi_Vert"
 lastUpdated: "2026-03-12"

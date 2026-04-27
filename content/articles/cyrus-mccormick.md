@@ -5,7 +5,7 @@ birth: "1809-02-15"
 death: "1884-05-13"
 nationality: "American"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Cyrus_McCormick_engraving.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cyrus_McCormick"
 lastUpdated: "2026-02-26"

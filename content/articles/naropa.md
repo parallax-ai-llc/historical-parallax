@@ -5,7 +5,7 @@ birth: "0956-01-01"
 death: "1040-01-01"
 nationality: "Indian"
 occupation: ["Scholar", "Tantric Master"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mahasiddha_Naropa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Naropa"
 lastUpdated: "2026-02-21"

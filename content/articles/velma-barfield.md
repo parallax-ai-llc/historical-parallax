@@ -5,7 +5,7 @@ birth: "1932-10-29"
 death: "1984-11-02"
 nationality: "United States"
 occupation: ["Serial Killer", "Poisoner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e4/Velma_Bullard_Barfield_%28criminal%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Velma_Barfield"
 lastUpdated: "2026-02-26"

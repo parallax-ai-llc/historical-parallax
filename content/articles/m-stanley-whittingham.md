@@ -5,7 +5,7 @@ birth: "1941-12-22"
 death: "Unknown"
 nationality: "British-American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Stanley_Whittingham_2020_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/M._Stanley_Whittingham"
 lastUpdated: "2026-02-21"

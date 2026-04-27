@@ -5,7 +5,7 @@ birth: "1934-08-18"
 death: "1972-12-31"
 nationality: "Puerto Rican"
 occupation: ["Athlete", "Baseball Player", "Humanitarian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Roberto_Clemente.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Clemente"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1939-12-26"
 death: "2021-01-16"
 nationality: "United States"
 occupation: ["Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Phil_Spector_in_1965.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Phil_Spector"
 lastUpdated: "2026-02-26"

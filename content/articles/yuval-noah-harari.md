@@ -3,6 +3,7 @@ name: "Yuval Noah Harari"
 birth: "1976-02-24"
 nationality: "Israeli"
 occupation: ["Historian", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yuval_Noah_Harari"
 lastUpdated: "2026-03-12"

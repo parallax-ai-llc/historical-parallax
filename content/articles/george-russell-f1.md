@@ -3,6 +3,7 @@ name: "George Russell"
 birth: "1998-02-15"
 nationality: "British"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/George_Russell_(racing_driver)"
 lastUpdated: "2026-03-12"

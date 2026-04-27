@@ -5,7 +5,7 @@ birth: "1194-07-16"
 death: "1253-08-11"
 nationality: "Italian"
 occupation: ["Nun", "Religious Founder", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Simone_Martini_047.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clare_of_Assisi"
 lastUpdated: "2026-02-21"

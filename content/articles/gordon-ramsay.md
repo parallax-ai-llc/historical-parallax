@@ -5,7 +5,7 @@ birth: "1966-11-08"
 death: "Unknown"
 nationality: "British"
 occupation: ["Chef", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Ramsay_on_Muppets4_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gordon_Ramsay"
 lastUpdated: "2026-02-21"

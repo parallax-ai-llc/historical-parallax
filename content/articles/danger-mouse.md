@@ -3,6 +3,7 @@ name: "Danger Mouse"
 birth: "1977-07-29"
 nationality: "American"
 occupation: ["Music Producer", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Danger_Mouse_with_Broken_Bells_2010_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Danger_Mouse_(musician)"
 lastUpdated: "2026-03-12"

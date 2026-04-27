@@ -5,7 +5,7 @@ birth: "1983-06-06"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tributes_to_Nicola_Hughes_%26_Fiona_Bone_-_geograph.org.uk_-_3141738.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dale_Cregan"
 lastUpdated: "2026-02-26"

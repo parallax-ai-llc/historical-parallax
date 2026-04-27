@@ -5,7 +5,7 @@ birth: "1993"
 death: ""
 nationality: "French"
 occupation: ["Electronic Music Duo", "Music Producers"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Daft_Punk_in_2013_2-_centered.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daft_Punk"
 lastUpdated: "2026-03-18"

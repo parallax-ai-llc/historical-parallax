@@ -5,7 +5,7 @@ birth: "1478-05-26"
 death: "1534-09-25"
 nationality: "Italian"
 occupation: ["Pope"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/El_papa_Clemente_VII%2C_por_Sebastiano_del_Piombo.jpg/3840px-El_papa_Clemente_VII%2C_por_Sebastiano_del_Piombo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pope_Clement_VII"
 lastUpdated: "2026-02-21"

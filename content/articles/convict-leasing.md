@@ -5,7 +5,7 @@ birth: "1865-01-01"
 death: "1928-01-01"
 nationality: "United States"
 occupation: ["Historical Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_Southern_chain_gang_c1903-restore.jpg/3840px-A_Southern_chain_gang_c1903-restore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Convict_Leasing"
 lastUpdated: "2026-02-26"

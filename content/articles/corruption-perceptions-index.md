@@ -5,7 +5,7 @@ birth: "1995-01-01"
 death: "Unknown"
 nationality: "International"
 occupation: ["Reference"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Map_of_Countries_by_Corruption_Perceptions_Index_%282025%29.svg/3840px-Map_of_Countries_by_Corruption_Perceptions_Index_%282025%29.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Corruption_Perceptions_Index"
 lastUpdated: "2026-02-26"

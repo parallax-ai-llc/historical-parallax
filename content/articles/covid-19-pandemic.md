@@ -5,7 +5,7 @@ birth: "2019-12-01"
 death: "2023-05-05"
 nationality: "Global"
 occupation: ["Historical Event", "Disaster", "Pandemic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/COVID-19_Pandemic"
 lastUpdated: "2026-02-21"

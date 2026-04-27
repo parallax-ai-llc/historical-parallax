@@ -5,7 +5,7 @@ birth: "1900-01-01"
 death: "Unknown"
 nationality: "Italy"
 occupation: ["Mafia"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/ff/Pasquale_Cuntrera.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cuntrera-Caruana_Mafia_clan"
 lastUpdated: "2026-02-26"

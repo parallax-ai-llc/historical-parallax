@@ -5,7 +5,7 @@ birth: "1953-06-01"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/David_Berkowitz_Arrested_August_10_1977_Mount_Vernon_Argus.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Berkowitz"
 lastUpdated: "2026-02-21"

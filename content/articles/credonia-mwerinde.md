@@ -5,7 +5,7 @@ birth: "1952-01-01"
 death: "2000-03-17"
 nationality: "Uganda"
 occupation: ["Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/62/Ceredonia_Mwerinde.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Credonia_Mwerinde"
 lastUpdated: "2026-02-26"

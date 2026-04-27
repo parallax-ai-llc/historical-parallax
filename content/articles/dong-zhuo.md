@@ -5,7 +5,7 @@ birth: "0139-01-01"
 death: "0192-05-22"
 nationality: "China"
 occupation: ["Historical Criminal", "Tyrant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Dong_Zhuo_Qing_Dynasty_Illustration.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dong_Zhuo"
 lastUpdated: "2026-02-26"

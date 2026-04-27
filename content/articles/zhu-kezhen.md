@@ -5,7 +5,7 @@ birth: "1890-03-07"
 death: "1974-02-07"
 nationality: "Chinese"
 occupation: ["Meteorologist", "Geographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Zhu_Kezhen_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zhu_Kezhen"
 lastUpdated: "2026-02-21"

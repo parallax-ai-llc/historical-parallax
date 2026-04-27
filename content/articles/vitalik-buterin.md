@@ -5,7 +5,7 @@ birth: "1994-01-31"
 death: "Unknown"
 nationality: "Canadian-Russian"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vitalik_Buterin_TechCrunch_London_2015_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vitalik_Buterin"
 lastUpdated: "2026-02-21"

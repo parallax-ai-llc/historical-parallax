@@ -5,7 +5,7 @@ birth: "1924-05-16"
 death: "2019-08-27"
 nationality: "Gambia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Dawda_Jawara_%281979%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dawda_Jawara"
 lastUpdated: "2026-02-26"

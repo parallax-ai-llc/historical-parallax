@@ -5,7 +5,7 @@ birth: "1975-05-12"
 death: "Unknown"
 nationality: "American"
 occupation: ["Investor", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Chris_Sacca_at_Collision_2017_2017-05-02_%2833574491704%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chris_Sacca"
 lastUpdated: "2026-02-21"

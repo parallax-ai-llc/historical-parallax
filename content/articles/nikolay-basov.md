@@ -5,7 +5,7 @@ birth: "1922-12-14"
 death: "2001-07-01"
 nationality: "Soviet-Russian"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Basov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nikolay_Basov"
 lastUpdated: "2026-02-26"

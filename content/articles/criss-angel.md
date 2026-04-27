@@ -3,6 +3,7 @@ name: "Criss Angel"
 birth: "1967-12-19"
 nationality: "American"
 occupation: ["Magician", "Illusionist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Nick_Criss.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Criss_Angel"
 lastUpdated: "2026-03-12"

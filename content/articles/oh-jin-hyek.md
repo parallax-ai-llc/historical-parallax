@@ -5,7 +5,7 @@ birth: "1981-08-15"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Archer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/KOCIS_Korea_London_OhJinhyek_01_%287730608452%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oh_Jin-hyek"
 lastUpdated: "2026-02-26"

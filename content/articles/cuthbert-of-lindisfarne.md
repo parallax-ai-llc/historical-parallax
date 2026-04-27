@@ -5,7 +5,7 @@ birth: "0634-01-01"
 death: "0687-03-20"
 nationality: "Anglo-Saxon"
 occupation: ["Bishop", "Monk", "Hermit"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Cuthbert_discovers_piece_of_timber_-_Life_of_St._Cuthbert_%28late_12th_C%29%2C_f.45v_-_BL_Yates_Thompson_MS_26.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cuthbert_of_Lindisfarne"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1963-12-10"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/9c/Ashley_Taylor_Dawson_as_Darren_Osborne.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Darren_Osborne"
 lastUpdated: "2026-02-26"

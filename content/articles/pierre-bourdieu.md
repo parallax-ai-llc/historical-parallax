@@ -4,6 +4,7 @@ birth: "1930-08-01"
 death: "2002-01-23"
 nationality: "French"
 occupation: ["Sociologist", "Anthropologist", "Philosopher"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pierre_Bourdieu_%281%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pierre_Bourdieu"
 lastUpdated: "2026-03-12"

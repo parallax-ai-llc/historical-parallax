@@ -5,7 +5,7 @@ birth: "1987-01-01"
 death: "Unknown"
 nationality: "Sierra Leonean"
 occupation: ["Biomedical engineer", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/David_Moinina_Sengeh_-_2022_%2852536514763%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Sengeh"
 lastUpdated: "2026-02-21"

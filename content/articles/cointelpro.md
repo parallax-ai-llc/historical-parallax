@@ -5,7 +5,7 @@ birth: "1956-01-01"
 death: "1971-01-01"
 nationality: "United States"
 occupation: ["Government Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/COINTELPRO_-_Jean_Seberg.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/COINTELPRO"
 lastUpdated: "2026-02-26"

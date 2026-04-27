@@ -5,7 +5,7 @@ birth: "1967-02-05"
 death: "Unknown"
 nationality: "Danish-Icelandic"
 occupation: ["Sculptor", "Installation Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/%C3%93lafur_El%C3%ADasson_Internationale_Jury_Berlinale_2017_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Olafur_Eliasson"
 lastUpdated: "2026-02-21"

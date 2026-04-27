@@ -5,7 +5,7 @@ birth: "1931-04-07"
 death: "2023-06-16"
 nationality: "United States"
 occupation: ["Whistleblower"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Daniel_Ellsberg_at_1972_press_conference_%28cropped_3%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Ellsberg"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "Doja Cat"
 birth: "1995-10-21"
 nationality: "American"
 occupation: ["Rapper", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Doja_Cat_x_Amazon1.1_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Doja_Cat"
 lastUpdated: "2026-03-18"

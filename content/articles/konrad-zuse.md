@@ -5,7 +5,7 @@ birth: "1910-06-22"
 death: "1995-12-18"
 nationality: "German"
 occupation: ["Engineer", "Computer Scientist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Konrad_Zuse_%281992%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Konrad_Zuse"
 lastUpdated: "2026-02-21"

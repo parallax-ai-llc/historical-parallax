@@ -3,6 +3,7 @@ name: "David Dobrik"
 birth: "1996-07-23"
 nationality: "American (Slovak-born)"
 occupation: ["YouTuber", "Content Creator", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/DavidDobrikAMMF2019_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Dobrik"
 lastUpdated: "2026-03-11"

@@ -5,7 +5,7 @@ birth: "1934-11-21"
 death: "Unknown"
 nationality: "Lebanese"
 occupation: ["Singer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Fairuz_1971.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fairuz"
 lastUpdated: "2026-02-21"

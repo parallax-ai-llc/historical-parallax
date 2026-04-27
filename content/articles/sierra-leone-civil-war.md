@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Sierra Leone"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/MacKenzieSlcu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sierra_Leone_Civil_War"
 lastUpdated: "2026-02-26"

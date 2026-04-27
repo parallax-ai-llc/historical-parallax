@@ -5,7 +5,7 @@ birth: "1986-02-27"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Athlete", "Field Hockey Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Jagbir_%26_Sandeep_Singh.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandeep_Singh"
 lastUpdated: "2026-02-26"

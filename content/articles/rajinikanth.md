@@ -3,6 +3,7 @@ name: "Rajinikanth"
 birth: "1950-12-12"
 nationality: "Indian"
 occupation: ["Actor", "Film Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Rajinikanth_in_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rajinikanth"
 lastUpdated: "2026-03-12"

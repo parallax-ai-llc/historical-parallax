@@ -5,7 +5,7 @@ birth: "1911-05-08"
 death: "1938-08-16"
 nationality: "American"
 occupation: ["Guitarist", "Singer", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b3/Robert_Johnson.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Johnson"
 lastUpdated: "2026-02-26"

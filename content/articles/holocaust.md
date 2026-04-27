@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg/3840px-Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Holocaust"
 lastUpdated: "2026-02-26"

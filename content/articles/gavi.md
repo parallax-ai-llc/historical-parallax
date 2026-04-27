@@ -3,6 +3,7 @@ name: "Gavi"
 birth: "2004-08-05"
 nationality: "Spanish"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jugadors_pretemporada_pels_Estats_Units_%28cropped%292.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gavi_(footballer)"
 lastUpdated: "2026-03-12"

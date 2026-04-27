@@ -5,7 +5,7 @@ birth: "1978-03-08"
 death: "Unknown"
 nationality: "Netherlands"
 occupation: ["Terrorist", "Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b9/Bouyeri.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mohammed_Bouyeri"
 lastUpdated: "2026-02-26"

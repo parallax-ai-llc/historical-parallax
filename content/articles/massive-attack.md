@@ -3,6 +3,7 @@ name: "Massive Attack"
 birth: "1988-01-01"
 nationality: "British"
 occupation: ["Musical Group", "Electronic Musicians"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Massive_Attack%2C_Saint-Petersburg%2C_2010-09-26_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Massive_Attack"
 lastUpdated: "2026-03-12"

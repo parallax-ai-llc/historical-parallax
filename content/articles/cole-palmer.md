@@ -3,6 +3,7 @@ name: "Cole Palmer"
 birth: "2002-05-06"
 nationality: "English"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cole_Palmer_2025_FIFA_Club_World_Cup_Final.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cole_Palmer"
 lastUpdated: "2026-03-12"

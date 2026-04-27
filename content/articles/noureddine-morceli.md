@@ -5,7 +5,7 @@ birth: "1970-02-28"
 death: "Unknown"
 nationality: "Algerian"
 occupation: ["Athlete", "Olympic Champion", "Middle-Distance Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Morceli_athene_1997.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Noureddine_Morceli"
 lastUpdated: "2026-02-26"

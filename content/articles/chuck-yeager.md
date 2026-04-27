@@ -4,6 +4,7 @@ birth: "1923-02-13"
 death: "2020-12-07"
 nationality: "American"
 occupation: ["Test Pilot", "Air Force General"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/32/ChuckYeager.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chuck_Yeager"
 lastUpdated: "2026-03-12"

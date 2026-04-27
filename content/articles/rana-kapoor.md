@@ -5,7 +5,7 @@ birth: "1957-12-23"
 death: "Unknown"
 nationality: "India"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Rana_Kapoor%2C_CEO_of_Yes_bank%2C_at_the_World_Economic_Forum_on_India_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rana_Kapoor"
 lastUpdated: "2026-02-26"

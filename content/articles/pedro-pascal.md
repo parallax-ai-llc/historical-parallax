@@ -3,6 +3,7 @@ name: "Pedro Pascal"
 birth: "1975-04-02"
 nationality: "Chilean-American"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Pedro_Pascal_at_the_2025_Cannes_Film_Festival_04.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pedro_Pascal"
 lastUpdated: "2026-03-12"

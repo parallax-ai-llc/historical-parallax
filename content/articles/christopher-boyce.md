@@ -5,7 +5,7 @@ birth: "1953-02-16"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Christopher-Boyce-mugshot15.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christopher_Boyce"
 lastUpdated: "2026-02-26"

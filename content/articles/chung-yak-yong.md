@@ -5,7 +5,7 @@ birth: "1762-08-05"
 death: "1836-04-07"
 nationality: "South Korea"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Jeong_Yak-yong.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Yak-yong"
 lastUpdated: "2026-02-26"

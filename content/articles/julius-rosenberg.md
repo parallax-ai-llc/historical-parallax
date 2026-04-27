@@ -5,7 +5,7 @@ birth: "1918-05-12"
 death: "1953-06-19"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Julius_and_Ethel_Rosenberg_NYWTS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Julius_Rosenberg"
 lastUpdated: "2026-02-21"

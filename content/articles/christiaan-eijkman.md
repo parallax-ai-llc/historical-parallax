@@ -5,7 +5,7 @@ birth: "1858-08-11"
 death: "1930-11-05"
 nationality: "Dutch"
 occupation: ["Physician", "Pathologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Christiaan_Eijkman.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christiaan_Eijkman"
 lastUpdated: "2026-02-21"

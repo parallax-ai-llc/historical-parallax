@@ -5,7 +5,7 @@ birth: "1955-10-15"
 death: "Unknown"
 nationality: "India"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/2b/Chhota_Shakeel.PNG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chhota_Shakeel"
 lastUpdated: "2026-02-26"

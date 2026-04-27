@@ -5,7 +5,7 @@ birth: "1905-01-21"
 death: "1957-10-24"
 nationality: "French"
 occupation: ["Entrepreneur", "Fashion Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Christian_Dior_1954.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christian_Dior"
 lastUpdated: "2026-02-21"

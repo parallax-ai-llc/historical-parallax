@@ -6,7 +6,7 @@ location: "United States"
 coordinates: [-84.39, 33.75]
 category: ["Cybercrime", "United States"]
 outcome: "Major US fuel pipeline shut down by ransomware"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/2021-05-14_20_59_41_An_out-of-service_gas_pump_due_to_panic_buying_after_the_Colonial_Pipeline_cyberattack_at_the_Sunoco_gas_station_in_the_Franklin_Farm_Village_Shopping_Center_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack"
 lastUpdated: "2026-02-26"

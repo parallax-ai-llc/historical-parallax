@@ -5,7 +5,7 @@ birth: "1933-02-18"
 death: "Unknown"
 nationality: "Japanese-American"
 occupation: ["Artist", "Musician", "Filmmaker", "Peace Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/MEX_MM_CONFERENCIA_YOKO_ONO_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yoko_Ono"
 lastUpdated: "2026-02-21"

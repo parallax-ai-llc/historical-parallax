@@ -5,7 +5,7 @@ birth: "1987-05-13"
 death: "Unknown"
 nationality: "Dutch"
 occupation: ["Athlete", "Olympic Champion", "Cyclist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Marianne_Vos_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marianne_Vos"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1969-02-23"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Fashion Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DaymondJohn2023b.jpg/3840px-DaymondJohn2023b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daymond_John"
 lastUpdated: "2026-02-21"

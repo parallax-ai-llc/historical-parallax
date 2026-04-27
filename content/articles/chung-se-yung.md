@@ -5,7 +5,7 @@ birth: "1928-10-02"
 death: "2005-05-21"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/%EA%B3%A0%EC%A0%95%EC%84%B8%EC%98%81%ED%9A%8C%EC%9E%A5%EB%8B%98.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Se-yung"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1844-11-25"
 death: "1929-04-04"
 nationality: "German"
 occupation: ["Engineer", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Carl_Benz_circa_1920.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Benz"
 lastUpdated: "2026-02-21"

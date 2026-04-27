@@ -5,7 +5,7 @@ birth: "1940-05-03"
 death: "2019-08-23"
 nationality: "American"
 occupation: ["Entrepreneur", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/David_Koch_by_Gage_Skidmore.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Koch"
 lastUpdated: "2026-02-21"

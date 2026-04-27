@@ -5,7 +5,7 @@ birth: "1951-05-13"
 death: "Unknown"
 nationality: "China"
 occupation: ["Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Portrait_photo_of_Li_Hongzhi.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Hongzhi"
 lastUpdated: "2026-02-26"

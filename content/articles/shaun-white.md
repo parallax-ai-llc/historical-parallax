@@ -5,7 +5,7 @@ birth: "1986-09-03"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Snowboarder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Shaun_White_in_2018_181222-D-PB383-014_%2846423162561%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shaun_White"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1945-06-26"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/43/Dwight_York_arrested.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dwight_York"
 lastUpdated: "2026-02-26"

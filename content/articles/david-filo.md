@@ -5,7 +5,7 @@ birth: "1966-04-20"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/David_Filo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Filo"
 lastUpdated: "2026-02-21"

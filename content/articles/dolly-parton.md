@@ -3,6 +3,7 @@ name: "Dolly Parton"
 birth: "1946-01-19"
 nationality: "American"
 occupation: ["Musician", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Dolly_Parton_at_%27Blue_Smoke_World_Tour%27_in_Knoxville.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dolly_Parton"
 lastUpdated: "2026-03-12"

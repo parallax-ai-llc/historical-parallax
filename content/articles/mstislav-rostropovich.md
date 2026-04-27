@@ -4,6 +4,7 @@ birth: "1927-03-27"
 death: "2007-04-27"
 nationality: "Russian"
 occupation: ["Cellist", "Conductor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/RIAN_archive_438589_Mstislav_Rostropovich.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mstislav_Rostropovich"
 lastUpdated: "2026-03-12"

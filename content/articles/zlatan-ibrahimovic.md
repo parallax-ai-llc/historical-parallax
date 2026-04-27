@@ -3,6 +3,7 @@ name: "Zlatan Ibrahimovic"
 birth: "1981-10-03"
 nationality: "Swedish"
 occupation: ["Footballer", "Athlete", "Executive"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Zlatan_Ibrahimovi%C4%87_June_2018.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87"
 lastUpdated: "2026-03-12"

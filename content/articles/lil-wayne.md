@@ -3,6 +3,7 @@ name: "Lil Wayne"
 birth: "1982-09-27"
 nationality: "American"
 occupation: ["Rapper", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Lil_Wayne_Feb._2020.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lil_Wayne"
 lastUpdated: "2026-03-12"

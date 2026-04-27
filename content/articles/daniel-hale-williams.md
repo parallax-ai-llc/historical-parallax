@@ -5,7 +5,7 @@ birth: "1856-01-18"
 death: "1931-08-04"
 nationality: "American"
 occupation: ["Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Daniel_Hale_Williams.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Hale_Williams"
 lastUpdated: "2026-02-21"

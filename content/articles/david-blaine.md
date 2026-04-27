@@ -3,6 +3,7 @@ name: "David Blaine"
 birth: "1973-04-04"
 nationality: "American"
 occupation: ["Magician", "Illusionist", "Endurance Artist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/David_Blaine_by_David_Shankbone.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Blaine"
 lastUpdated: "2026-03-12"

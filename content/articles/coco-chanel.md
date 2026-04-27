@@ -5,7 +5,7 @@ birth: "1883-08-19"
 death: "1971-01-10"
 nationality: "French"
 occupation: ["Fashion Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Coco_Chanel_in_Los_Angeles%2C_1931_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Coco_Chanel"
 lastUpdated: "2026-02-21"

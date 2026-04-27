@@ -5,7 +5,7 @@ birth: "1938-11-08"
 death: "1976-02-13"
 nationality: "Nigeria"
 occupation: ["Military Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Murtala_Mohammed.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Murtala_Mohammed"
 lastUpdated: "2026-02-26"

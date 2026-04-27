@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "2023-01-01"
 nationality: "Haiti"
 occupation: ["Political Criminal", "Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tecumseh02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dany_Toussaint"
 lastUpdated: "2026-02-26"

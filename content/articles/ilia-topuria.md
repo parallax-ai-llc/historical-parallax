@@ -3,6 +3,7 @@ name: "Ilia Topuria"
 birth: "1997-03-21"
 nationality: "Georgian (Spanish-raised)"
 occupation: ["MMA Fighter", "Athlete", "UFC Champion"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Ilia_Topuria_at_the_Orbeliani_Palace_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ilia_Topuria"
 lastUpdated: "2026-03-11"

@@ -5,7 +5,7 @@ birth: "1968-04-23"
 death: "2001-06-11"
 nationality: "United States"
 occupation: ["Domestic Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Timothy_McVeigh_FBI_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Timothy_McVeigh"
 lastUpdated: "2026-02-21"

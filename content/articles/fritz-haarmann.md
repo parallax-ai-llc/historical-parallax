@@ -5,7 +5,7 @@ birth: "1879-10-25"
 death: "1925-04-15"
 nationality: "Germany"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Friedrich_Haarmann.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fritz_Haarmann"
 lastUpdated: "2026-02-21"

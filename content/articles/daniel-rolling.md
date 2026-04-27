@@ -5,7 +5,7 @@ birth: "1954-05-26"
 death: "2006-10-25"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Danny_Rolling.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Danny_Rolling"
 lastUpdated: "2026-02-21"

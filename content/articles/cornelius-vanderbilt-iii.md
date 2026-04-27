@@ -5,7 +5,7 @@ birth: "1873-09-05"
 death: "1942-03-01"
 nationality: "American"
 occupation: ["Socialite", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cornelius_Vanderbilt_III_%28American_engineer_and_military_officer%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_III"
 lastUpdated: "2026-02-21"

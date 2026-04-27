@@ -5,7 +5,7 @@ birth: "1917-01-25"
 death: "2003-05-28"
 nationality: "Belgian-Russian"
 occupation: ["Chemist", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ilya_Prigogine_1977c.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ilya_Prigogine"
 lastUpdated: "2026-02-21"

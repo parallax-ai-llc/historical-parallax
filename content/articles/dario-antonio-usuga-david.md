@@ -5,7 +5,7 @@ birth: "1971-09-01"
 death: "N/A (Imprisoned)"
 nationality: "Colombia"
 occupation: ["Drug Lord", "Paramilitary Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Dario-Antonio-Usuga-David-1.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dairo_Antonio_%C3%9Asuga"
 lastUpdated: "2026-02-21"

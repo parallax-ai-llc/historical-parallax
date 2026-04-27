@@ -3,6 +3,7 @@ name: "Dale Earnhardt Jr."
 birth: "1974-10-10"
 nationality: "American"
 occupation: ["Racing Driver", "NASCAR Driver", "TV Analyst"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Dale_Earnhardt_Jr.%2C_2025_Fall_Phoenix.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dale_Earnhardt_Jr."
 lastUpdated: "2026-03-12"

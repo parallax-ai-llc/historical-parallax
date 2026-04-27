@@ -5,7 +5,7 @@ birth: "1732-12-23"
 death: "1792-08-03"
 nationality: "English"
 occupation: ["Inventor", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sir_Richard_Arkwright_by_Mather_Brown_1790.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Richard_Arkwright"
 lastUpdated: "2026-02-21"

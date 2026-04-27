@@ -5,7 +5,7 @@ birth: "1906-09-22"
 death: "1967-09-01"
 nationality: "Germany"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ilse_Koch_%283x4_cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ilse_Koch"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1989-08-01"
 death: "2015-02-08"
 nationality: "France"
 occupation: ["Terrorist", "Bomb Maker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Jihad.svg/1280px-Flag_of_Jihad.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Drugeon"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1947-02-01"
 death: "Unknown"
 nationality: "Sweden"
 occupation: ["Bank Robber", "Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Clark_Olofsson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clark_Olofsson"
 lastUpdated: "2026-02-26"

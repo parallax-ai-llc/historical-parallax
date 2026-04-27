@@ -5,7 +5,7 @@ birth: "1904-11-30"
 death: "1980-06-23"
 nationality: "American"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/7/78/Clyfford_Still.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clyfford_Still"
 lastUpdated: "2026-02-21"

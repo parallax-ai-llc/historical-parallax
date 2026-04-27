@@ -5,7 +5,7 @@ birth: "1815-11-01"
 death: "1878-06-16"
 nationality: "American"
 occupation: ["Surgeon", "Pharmacist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Crawford_Long%2C_1877.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Crawford_Long"
 lastUpdated: "2026-02-21"

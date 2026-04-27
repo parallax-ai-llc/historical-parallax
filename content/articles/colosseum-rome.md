@@ -5,6 +5,7 @@ location: "Rome, Italy"
 civilization: "Roman Empire"
 type: "Amphitheater"
 coordinates: [12.4922, 41.8902]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/3840px-Colosseo_2020.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Colosseum"
 lastUpdated: "2025-12-22"

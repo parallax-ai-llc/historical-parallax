@@ -5,7 +5,7 @@ birth: "1941-06-01"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Toyo_Ito_2009.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Toyo_Ito"
 lastUpdated: "2026-02-21"

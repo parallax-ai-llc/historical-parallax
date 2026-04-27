@@ -5,7 +5,7 @@ birth: "1941-03-29"
 death: "living"
 nationality: "American"
 occupation: ["Climatologist", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/James_Hansen_profile_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Hansen"
 lastUpdated: "2026-02-21"

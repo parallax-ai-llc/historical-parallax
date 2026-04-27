@@ -5,7 +5,7 @@ birth: "1964-07-28"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Lori_Loughlin_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lori_Loughlin"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1861-03-17"
 death: "1871-01-01"
 nationality: "Italy"
 occupation: ["Historical Event", "Political", "Modern History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Episodio_delle_cinque_giornate_%28Baldassare_Verazzi%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Unification_of_Italy"
 lastUpdated: "2026-02-21"

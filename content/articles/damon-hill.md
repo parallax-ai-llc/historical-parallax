@@ -3,6 +3,7 @@ name: "Damon Hill"
 birth: "1960-09-17"
 nationality: "British"
 occupation: ["Racing Driver", "F1 World Champion", "Commentator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Damon_Hill_at_the_Atlassian_Williams_Racing_Fan_Zone_of_2026_%28028A8247%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Damon_Hill"
 lastUpdated: "2026-03-12"

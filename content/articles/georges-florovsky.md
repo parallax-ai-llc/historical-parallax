@@ -5,7 +5,7 @@ birth: "1893-08-28"
 death: "1979-08-11"
 nationality: "Russian-American"
 occupation: ["Theologian", "Historian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%A4%D0%BB%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Georges_Florovsky"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1940-02-24"
 death: "Unknown"
 nationality: "Scottish"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Denis_Law_%284x5_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Denis_Law"
 lastUpdated: "2026-02-26"

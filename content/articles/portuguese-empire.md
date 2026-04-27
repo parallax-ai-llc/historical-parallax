@@ -5,7 +5,7 @@ birth: "1415-08-21"
 death: "1999-12-20"
 nationality: "Portugal"
 occupation: ["Historical Event", "Empire", "Colonial"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Portuguese_empire_1800.svg/1280px-Portuguese_empire_1800.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Portuguese_Empire"
 lastUpdated: "2026-02-21"

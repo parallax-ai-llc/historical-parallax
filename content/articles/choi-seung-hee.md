@@ -5,7 +5,7 @@ birth: "1928-01-01"
 death: "2013-01-01"
 nationality: "Korean"
 occupation: ["Microbiologist", "Food scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Choi_Seung-hee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Seung-hee"
 lastUpdated: "2026-02-21"

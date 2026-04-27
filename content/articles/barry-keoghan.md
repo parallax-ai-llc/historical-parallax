@@ -3,6 +3,7 @@ name: "Barry Keoghan"
 birth: "1992-10-18"
 nationality: "Irish"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Barry_Keoghan_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Barry_Keoghan"
 lastUpdated: "2026-03-12"

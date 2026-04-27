@@ -5,7 +5,7 @@ birth: "1963-10-10"
 death: "2002-02-01"
 nationality: "United States"
 occupation: ["Journalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/01/Daniel_pearl_highres.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Pearl"
 lastUpdated: "2026-02-26"

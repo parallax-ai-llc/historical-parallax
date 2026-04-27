@@ -5,7 +5,7 @@ birth: "1966-08-23"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Terrorist", "Hitman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/La_Quica.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dandeny_Mu%C3%B1oz_Mosquera"
 lastUpdated: "2026-02-26"

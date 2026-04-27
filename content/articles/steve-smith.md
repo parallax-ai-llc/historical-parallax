@@ -3,6 +3,7 @@ name: "Steve Smith"
 birth: "1989-06-02"
 nationality: "Australian"
 occupation: ["Cricketer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/STEVE_SMITH_%2811705303043%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Steve_Smith_(cricketer)"
 lastUpdated: "2026-03-12"

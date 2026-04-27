@@ -4,6 +4,7 @@ birth: "1928-01-14"
 death: "1984-03-19"
 nationality: "American"
 occupation: ["Photographer", "Street Photographer"]
+image: "https://upload.wikimedia.org/wikipedia/en/f/fd/Garry_Winogrand-crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Garry_Winogrand"
 lastUpdated: "2026-03-12"

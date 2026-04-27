@@ -5,7 +5,7 @@ birth: "1937-03-08"
 death: "1994-04-06"
 nationality: "Rwanda"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Juv%C3%A9nal_Habyarimana_%281980%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Juv%C3%A9nal_Habyarimana"
 lastUpdated: "2026-02-26"

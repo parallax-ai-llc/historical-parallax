@@ -3,6 +3,7 @@ name: "Clark Gable"
 birth: "1901-02-01"
 nationality: "American"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Clark_Gable_1949.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clark_Gable"
 lastUpdated: "2026-03-12"

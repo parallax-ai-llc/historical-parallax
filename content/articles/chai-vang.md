@@ -5,7 +5,7 @@ birth: "1968-08-16"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/8e/Vang-mug.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chai_Vang"
 lastUpdated: "2026-02-26"

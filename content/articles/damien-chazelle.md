@@ -5,7 +5,7 @@ birth: "1985-01-19"
 death: ""
 nationality: "American"
 occupation: ["Film Director", "Screenwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Damien_Chazelle_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Damien_Chazelle"
 lastUpdated: "2026-03-17"

@@ -5,7 +5,7 @@ birth: "1933-04-01"
 death: "Unknown"
 nationality: "French-Algerian"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Claude_Cohen-Tannoudji_%28cropped%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claude_Cohen-Tannoudji"
 lastUpdated: "2026-02-26"

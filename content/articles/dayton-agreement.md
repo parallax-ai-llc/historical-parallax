@@ -5,7 +5,7 @@ birth: "1995-11-21"
 death: "1995-12-14"
 nationality: "Bosnia"
 occupation: ["Historical Event", "Treaty", "Peace Agreement"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/DaytonAgreement.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dayton_Agreement"
 lastUpdated: "2026-02-21"

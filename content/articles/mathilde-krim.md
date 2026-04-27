@@ -5,7 +5,7 @@ birth: "1926-07-09"
 death: "2018-01-15"
 nationality: "Italian-American"
 occupation: ["Medical Researcher", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mathilde_Krim_LOC_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mathilde_Krim"
 lastUpdated: "2026-02-21"

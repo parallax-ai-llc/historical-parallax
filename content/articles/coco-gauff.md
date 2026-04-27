@@ -3,6 +3,7 @@ name: "Coco Gauff"
 birth: "2004-03-13"
 nationality: "American"
 occupation: ["Tennis Player", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Coco_Gauff_Miami_Open.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Coco_Gauff"
 lastUpdated: "2026-03-12"

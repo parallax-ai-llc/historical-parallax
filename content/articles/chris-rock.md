@@ -3,6 +3,7 @@ name: "Chris Rock"
 birth: "1965-02-07"
 nationality: "American"
 occupation: ["Comedian", "Actor", "Director"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Chris_Rock_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chris_Rock"
 lastUpdated: "2026-03-12"

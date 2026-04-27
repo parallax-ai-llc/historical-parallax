@@ -3,6 +3,7 @@ name: "Damian Marley"
 birth: "1978-07-21"
 nationality: "Jamaican"
 occupation: ["Singer", "Rapper", "Record Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Damian_Marley_Summerjam_20150704_IMG_0166_by_Emha.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Damian_Marley"
 lastUpdated: "2026-03-12"

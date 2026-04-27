@@ -5,7 +5,7 @@ birth: "1982-10-13"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Ian_Thorpe_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ian_Thorpe"
 lastUpdated: "2026-02-26"

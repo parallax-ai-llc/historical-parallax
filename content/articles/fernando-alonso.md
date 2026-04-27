@@ -5,7 +5,7 @@ birth: "1981-07-29"
 death: "Unknown"
 nationality: "Spanish"
 occupation: ["Athlete", "Racing Driver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Alonso-68_%2824710447098%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fernando_Alonso"
 lastUpdated: "2026-02-26"

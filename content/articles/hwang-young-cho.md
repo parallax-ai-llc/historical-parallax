@@ -5,7 +5,7 @@ birth: "1970-03-22"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Marathon Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Hwang_Young-Jo_from_acrofan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hwang_Young-cho"
 lastUpdated: "2026-02-26"

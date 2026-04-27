@@ -5,7 +5,7 @@ birth: "1988-08-05"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Federica_Pellegrini_e_Luca_Marin_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Federica_Pellegrini"
 lastUpdated: "2026-02-26"

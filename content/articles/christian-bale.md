@@ -3,6 +3,7 @@ name: "Christian Bale"
 birth: "1974-01-30"
 nationality: "British"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Christian_Bale-7837.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christian_Bale"
 lastUpdated: "2026-03-12"

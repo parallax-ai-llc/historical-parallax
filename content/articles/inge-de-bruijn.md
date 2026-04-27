@@ -5,7 +5,7 @@ birth: "1973-08-24"
 death: "Unknown"
 nationality: "Netherlands"
 occupation: ["Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Inge_de_Bruijn_en_Jacco_Verhaeren_1a.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Inge_de_Bruijn"
 lastUpdated: "2026-02-26"

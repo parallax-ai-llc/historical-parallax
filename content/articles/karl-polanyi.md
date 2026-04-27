@@ -4,6 +4,7 @@ birth: "1886-10-25"
 death: "1964-04-23"
 nationality: "Hungarian"
 occupation: ["Economist", "Anthropologist", "Sociologist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pol%C3%A1nyi_K%C3%A1roly.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Polanyi"
 lastUpdated: "2026-03-12"

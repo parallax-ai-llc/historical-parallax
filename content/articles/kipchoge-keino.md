@@ -5,7 +5,7 @@ birth: "1940-01-17"
 death: "Unknown"
 nationality: "Kenyan"
 occupation: ["Athlete", "Olympic Champion", "Middle-Distance Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/14-01-10-tbh-012-kipchoge-keino.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kipchoge_Keino"
 lastUpdated: "2026-02-26"

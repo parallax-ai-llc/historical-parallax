@@ -5,7 +5,7 @@ birth: "1964-05-17"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Suspected Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Ocean_Parkway_Road_on_Long_Island_2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rex_Heuermann"
 lastUpdated: "2026-02-26"

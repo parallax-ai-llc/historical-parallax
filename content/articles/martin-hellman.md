@@ -5,7 +5,7 @@ birth: "1945-10-02"
 death: "Unknown"
 nationality: "American"
 occupation: ["Computer Scientist", "Cryptographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Martin-Hellman.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Martin_Hellman"
 lastUpdated: "2026-02-21"

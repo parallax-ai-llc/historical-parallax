@@ -5,7 +5,7 @@ birth: "1905-08-24"
 death: "1988-05-29"
 nationality: "Sierra Leone"
 occupation: ["Dictator", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Siaka_Stevens_%28I-002364%2C_cropped%2C_processing_version%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siaka_Stevens"
 lastUpdated: "2026-02-26"

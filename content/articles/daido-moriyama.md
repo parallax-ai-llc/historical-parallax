@@ -5,7 +5,7 @@ birth: "1938-10-10"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/DaidoMoriyamaBySebastianMayer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daido_Moriyama"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Christiane Amanpour"
 birth: "1958-01-12"
 nationality: "British-Iranian"
 occupation: ["Journalist", "Television Anchor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Christiane_Amanpour_June_2008_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christiane_Amanpour"
 lastUpdated: "2026-03-12"

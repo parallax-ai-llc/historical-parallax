@@ -5,7 +5,7 @@ birth: "1955-10-07"
 death: "Unknown"
 nationality: "American"
 occupation: ["Cellist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Yo-Yo_Ma_in_2018_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yo-Yo_Ma"
 lastUpdated: "2026-02-21"

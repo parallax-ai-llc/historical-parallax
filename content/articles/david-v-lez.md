@@ -5,7 +5,7 @@ birth: "1981-10-05"
 death: "Unknown"
 nationality: "Colombian-Brazilian"
 occupation: ["Entrepreneur", "Fintech"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/SAM_5134_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_V%C3%A9lez"
 lastUpdated: "2026-02-21"

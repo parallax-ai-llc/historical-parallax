@@ -5,7 +5,7 @@ birth: "1903-10-24"
 death: "1999-10-27"
 nationality: "French"
 occupation: ["Designer", "Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/bc/Charlotte-perriand-au-japon-1954-4.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charlotte_Perriand"
 lastUpdated: "2026-02-21"

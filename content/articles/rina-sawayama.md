@@ -3,6 +3,7 @@ name: "Rina Sawayama"
 birth: "1990-08-16"
 nationality: "British (Japanese-born)"
 occupation: ["Singer", "Songwriter", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/PrimaveraBarcW1Jun22_%2851_of_318%29_%2852163776528%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rina_Sawayama"
 lastUpdated: "2026-03-12"

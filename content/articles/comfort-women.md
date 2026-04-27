@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Captured_comfort_women_in_Myitkyina_on_August_14_in_1944.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Comfort_Women"
 lastUpdated: "2026-02-26"

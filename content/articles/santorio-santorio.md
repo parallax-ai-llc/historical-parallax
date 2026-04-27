@@ -5,7 +5,7 @@ birth: "1561-03-29"
 death: "1636-03-06"
 nationality: "Italian"
 occupation: ["Physician", "Physiologist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Sanctorius.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Santorio_Santorio"
 lastUpdated: "2026-02-21"

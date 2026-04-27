@@ -5,7 +5,7 @@ birth: "0543-01-01"
 death: "0615-11-23"
 nationality: "Irish"
 occupation: ["Missionary", "Abbot", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/San_Colombano.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Columban"
 lastUpdated: "2026-02-21"

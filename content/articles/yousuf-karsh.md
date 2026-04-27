@@ -4,6 +4,7 @@ birth: "1908-12-23"
 death: "2002-07-13"
 nationality: "Canadian"
 occupation: ["Photographer", "Portrait Photographer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Yousuf_Karsh_1958.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yousuf_Karsh"
 lastUpdated: "2026-03-12"

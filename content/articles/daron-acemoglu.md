@@ -3,6 +3,7 @@ name: "Daron Acemoglu"
 birth: "1967-09-03"
 nationality: "Turkish-American"
 occupation: ["Economist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Acemoglu_2016_%283x4_cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daron_Acemoglu"
 lastUpdated: "2026-03-12"

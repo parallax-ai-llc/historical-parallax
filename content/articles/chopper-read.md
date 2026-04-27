@@ -5,7 +5,7 @@ birth: "1954-11-17"
 death: "2013-10-09"
 nationality: "Australia"
 occupation: ["Criminal", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/c5/Mark-Chopper.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chopper_Read"
 lastUpdated: "2026-02-26"

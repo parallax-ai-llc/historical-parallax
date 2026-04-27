@@ -4,6 +4,7 @@ birth: "1908-09-30"
 death: "1974-10-24"
 nationality: "Soviet"
 occupation: ["Violinist", "Conductor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/David_Oistrach_1956.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Oistrakh"
 lastUpdated: "2026-03-12"

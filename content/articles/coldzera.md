@@ -3,6 +3,7 @@ name: "coldzera"
 birth: "1994-10-31"
 nationality: "Brazilian"
 occupation: ["Esports Player", "CS Pro", "Rifler"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/BLAST_Backstage_2020_Coldzera_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Coldzera"
 lastUpdated: "2026-03-26"

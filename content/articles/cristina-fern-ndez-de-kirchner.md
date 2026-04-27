@@ -5,7 +5,7 @@ birth: "1953-02-19"
 death: "Unknown"
 nationality: "Argentina"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cristina_Fern%C3%A1ndez_de_Kirchner_en_la_Apertura_de_Sesiones_Ordinarias_2022_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner"
 lastUpdated: "2026-02-26"

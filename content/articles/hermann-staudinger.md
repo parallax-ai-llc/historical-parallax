@@ -5,7 +5,7 @@ birth: "1881-03-23"
 death: "1965-09-08"
 nationality: "German"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Hermann_Staudinger.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hermann_Staudinger"
 lastUpdated: "2026-02-21"

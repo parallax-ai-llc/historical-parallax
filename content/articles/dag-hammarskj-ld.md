@@ -5,7 +5,7 @@ birth: "1905-07-29"
 death: "1961-09-18"
 nationality: "Swedish"
 occupation: ["Diplomat", "Mystic", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dag_Hammarskj%C3%B6ld.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld"
 lastUpdated: "2026-02-21"

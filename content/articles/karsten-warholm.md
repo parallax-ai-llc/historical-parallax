@@ -5,7 +5,7 @@ birth: "1996-02-28"
 death: "Unknown"
 nationality: "Norwegian"
 occupation: ["Athlete", "Olympic Champion", "Hurdler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Karsten_Warholm_at_Istanbul_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karsten_Warholm"
 lastUpdated: "2026-02-26"

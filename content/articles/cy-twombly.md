@@ -5,7 +5,7 @@ birth: "1928-04-25"
 death: "2011-07-05"
 nationality: "American"
 occupation: ["Painter", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/43/Cy_Twombly.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cy_Twombly"
 lastUpdated: "2026-02-21"

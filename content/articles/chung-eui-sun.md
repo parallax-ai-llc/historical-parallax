@@ -5,7 +5,7 @@ birth: "1970-10-18"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Automotive engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Chung_Eui-sun_%282025%29_cropped_1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Eui-sun"
 lastUpdated: "2026-02-26"

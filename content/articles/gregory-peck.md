@@ -3,6 +3,7 @@ name: "Gregory Peck"
 birth: "1916-04-05"
 nationality: "American"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Gregory_Peck_1948.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gregory_Peck"
 lastUpdated: "2026-03-12"

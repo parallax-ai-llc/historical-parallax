@@ -5,7 +5,7 @@ birth: "1984-02-21"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Paralympic Champion", "Wheelchair Tennis Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Shingo_Kunieda_%28JPN%29_Volley.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shingo_Kunieda"
 lastUpdated: "2026-02-26"

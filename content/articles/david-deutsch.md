@@ -5,7 +5,7 @@ birth: "1953-05-18"
 death: "living"
 nationality: "British-Israeli"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/David_Deutsch.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Deutsch"
 lastUpdated: "2026-02-21"

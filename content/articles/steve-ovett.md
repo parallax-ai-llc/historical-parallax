@@ -5,7 +5,7 @@ birth: "1955-10-09"
 death: "Unknown"
 nationality: "British"
 occupation: ["Athlete", "Olympic Champion", "Middle-Distance Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/SteveOvett.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Steve_Ovett"
 lastUpdated: "2026-02-26"

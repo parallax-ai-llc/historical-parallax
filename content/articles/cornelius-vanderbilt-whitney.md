@@ -5,7 +5,7 @@ birth: "1899-02-20"
 death: "1992-12-13"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/C.V._Whitney.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_Whitney"
 lastUpdated: "2026-02-21"

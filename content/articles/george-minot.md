@@ -5,7 +5,7 @@ birth: "1885-12-02"
 death: "1950-02-25"
 nationality: "American"
 occupation: ["Physician", "Medical Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/George_Minot_nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/George_Minot"
 lastUpdated: "2026-02-21"

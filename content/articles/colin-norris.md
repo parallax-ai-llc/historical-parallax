@@ -5,7 +5,7 @@ birth: "1976-02-12"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/af/Colin_Norris%2C_Scottish_nurse_convicted_of_four_murders_and_an_attempted_murder_in_2008.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Colin_Norris"
 lastUpdated: "2026-02-26"

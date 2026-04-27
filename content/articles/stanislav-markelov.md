@@ -5,7 +5,7 @@ birth: "1974-05-20"
 death: "2009-01-19"
 nationality: "Russia"
 occupation: ["Assassination Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stanislav_Markelov.1974-2009.20071113.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Stanislav_Markelov"
 lastUpdated: "2026-02-26"

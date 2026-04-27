@@ -5,7 +5,7 @@ birth: "1908-06-21"
 death: "1932-12-19"
 nationality: "Korean"
 occupation: ["Independence activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/%E5%B0%B9%E5%A5%89%E5%90%89.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yun_Bong-gil"
 lastUpdated: "2026-02-21"

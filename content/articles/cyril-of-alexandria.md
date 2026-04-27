@@ -5,7 +5,7 @@ birth: "0376-01-01"
 death: "0444-01-01"
 nationality: "Egyptian"
 occupation: ["Bishop", "Theologian", "Church Father"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Chora-Kirche_2013-03-21zh_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cyril_of_Alexandria"
 lastUpdated: "2026-02-21"

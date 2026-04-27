@@ -5,7 +5,7 @@ birth: "1943-02-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/David_Geffen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Geffen"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1764-07-05"
 death: "1836-09-03"
 nationality: "English"
 occupation: ["Athlete", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mendoza_Boxer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Mendoza"
 lastUpdated: "2026-02-26"

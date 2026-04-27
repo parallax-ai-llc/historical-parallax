@@ -5,7 +5,7 @@ birth: "1953-08-03"
 death: "Unknown"
 nationality: "South African-Dutch"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Marlene_Dumas.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marlene_Dumas"
 lastUpdated: "2026-02-21"

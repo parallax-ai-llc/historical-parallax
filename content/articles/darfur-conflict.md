@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Sudan"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/22/JEM_Fighters_Group.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Darfur_Conflict"
 lastUpdated: "2026-02-26"

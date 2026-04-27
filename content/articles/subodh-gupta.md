@@ -5,7 +5,7 @@ birth: "1964-01-01"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Sculptor", "Painter", "Installation Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Subodh_Gupta%2C_2020.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Subodh_Gupta"
 lastUpdated: "2026-02-21"

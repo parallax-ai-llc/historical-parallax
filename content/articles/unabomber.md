@@ -5,7 +5,7 @@ birth: "1942-05-22"
 death: "2023-06-10"
 nationality: "United States"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Ted_Kaczynski_2_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Unabomber"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1886-06-01"
 death: "1932-12-30"
 nationality: "South Africa"
 occupation: ["Serial Killer", "Poisoner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Daisy_de_Melker.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daisy_de_Melker"
 lastUpdated: "2026-02-26"

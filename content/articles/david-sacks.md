@@ -3,6 +3,7 @@ name: David Sacks
 birth: "1972-05-25"
 nationality: South African, American
 occupation: ["Entrepreneur", "Venture Capitalist", "Podcaster"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/David_Sacks_in_March_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_O._Sacks"
 lastUpdated: "2025-12-22"

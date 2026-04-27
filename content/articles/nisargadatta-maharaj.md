@@ -5,7 +5,7 @@ birth: "1897-04-17"
 death: "1981-09-08"
 nationality: "Indian"
 occupation: ["Sage", "Advaita Teacher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Nisargadatta_Maharaj.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nisargadatta_Maharaj"
 lastUpdated: "2026-02-21"

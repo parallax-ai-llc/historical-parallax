@@ -5,7 +5,7 @@ birth: "1930-06-10"
 death: "2013-06-02"
 nationality: "China"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/29/Chen_Xitong.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chen_Xitong"
 lastUpdated: "2026-02-26"

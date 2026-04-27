@@ -3,6 +3,7 @@ name: "Christina Koch"
 birth: "1979-01-29"
 nationality: "American"
 occupation: ["Astronaut", "Electrical Engineer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jsc2023e0016435_alt.jpg/3840px-Jsc2023e0016435_alt.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christina_Koch"
 lastUpdated: "2026-03-12"

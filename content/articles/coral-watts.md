@@ -5,7 +5,7 @@ birth: "1953-11-07"
 death: "2007-09-21"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/87/Carl_Eugene_Watts_2004.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Coral_Eugene_Watts"
 lastUpdated: "2026-02-21"

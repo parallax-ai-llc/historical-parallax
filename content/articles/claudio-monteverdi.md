@@ -5,7 +5,7 @@ birth: "1567-05-15"
 death: "1643-11-29"
 nationality: "Italian"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claudio_Monteverdi"
 lastUpdated: "2026-02-21"

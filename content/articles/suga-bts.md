@@ -3,6 +3,7 @@ name: "Suga (BTS)"
 birth: "1993-03-09"
 nationality: "South Korean"
 occupation: ["Rapper", "Producer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Suga_for_Valentino_and_Marie_Claire_Korea_06.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Suga_(rapper)"
 lastUpdated: "2026-03-11"

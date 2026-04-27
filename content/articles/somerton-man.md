@@ -5,7 +5,7 @@ birth: "1948-12-01"
 death: "Unknown"
 nationality: "Australia"
 occupation: ["Unsolved Case"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/SomertonMan2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Somerton_Man"
 lastUpdated: "2026-02-26"

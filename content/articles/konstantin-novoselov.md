@@ -5,7 +5,7 @@ birth: "1974-08-23"
 death: "Unknown"
 nationality: "Russian-British"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Konstantin_Novoselov_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Konstantin_Novoselov"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1855-01-05"
 death: "1932-07-09"
 nationality: "American"
 occupation: ["Entrepreneur", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/King_Camp_Gillette.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/King_Camp_Gillette"
 lastUpdated: "2026-02-21"

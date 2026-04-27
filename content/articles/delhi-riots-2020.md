@@ -5,7 +5,7 @@ birth: "2020-02-23"
 death: "Unknown"
 nationality: "India"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/North_East_Delhi_Riots_2020_%281%29.jpg/3840px-North_East_Delhi_Riots_2020_%281%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Delhi_Riots_2020"
 lastUpdated: "2026-02-26"

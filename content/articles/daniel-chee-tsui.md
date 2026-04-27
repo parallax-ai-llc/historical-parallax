@@ -5,7 +5,7 @@ birth: "1939-02-28"
 death: "Unknown"
 nationality: "Chinese-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Daniel_Chee_Tsui.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Chee_Tsui"
 lastUpdated: "2026-02-21"

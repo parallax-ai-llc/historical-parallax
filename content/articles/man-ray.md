@@ -5,7 +5,7 @@ birth: "1890-08-27"
 death: "1976-11-18"
 nationality: "American"
 occupation: ["Photographer", "Painter", "Filmmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Man_Ray_Paris_1934.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Man_Ray"
 lastUpdated: "2026-02-21"

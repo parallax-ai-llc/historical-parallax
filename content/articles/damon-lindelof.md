@@ -3,6 +3,7 @@ name: "Damon Lindelof"
 birth: "1973-04-24"
 nationality: "American"
 occupation: ["Television Producer", "Screenwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Damon_Lindelof_by_Gage_Skidmore_3_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Damon_Lindelof"
 lastUpdated: "2026-03-12"

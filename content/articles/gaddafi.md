@@ -5,7 +5,7 @@ birth: "1942-06-07"
 death: "2011-10-20"
 nationality: "Libya"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gaddafi"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1962-10-19"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Medalist", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Evander_Holyfield_LA_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Evander_Holyfield"
 lastUpdated: "2026-02-26"

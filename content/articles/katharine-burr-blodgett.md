@@ -5,7 +5,7 @@ birth: "1898-01-10"
 death: "1979-10-12"
 nationality: "American"
 occupation: ["Physicist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Katharine_Burr_Blodgett_%281898-1979%29%2C_demonstrating_equipment_in_lab.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katharine_Burr_Blodgett"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1588-07-21"
 death: "1588-08-12"
 nationality: "Europe"
 occupation: ["Historical Event", "Battle", "Naval Battle"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Armadaroute.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Spanish_Armada"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1969-05-28"
 death: "Unknown"
 nationality: "Iranian-American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/CEO_of_Uber_Technologies_Dara_Khosrowshahi_in_New_York_-_2019_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dara_Khosrowshahi"
 lastUpdated: "2026-02-21"

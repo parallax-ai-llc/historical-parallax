@@ -5,7 +5,7 @@ birth: "1918-11-09"
 death: "2002-06-15"
 nationality: "South Korean"
 occupation: ["Martial Artist", "Military Officer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/d/d3/Choi_Hong_Hi.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Choi_Hong-hi"
 lastUpdated: "2026-02-26"

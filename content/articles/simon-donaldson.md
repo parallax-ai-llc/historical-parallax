@@ -5,7 +5,7 @@ birth: "1957-08-20"
 death: "Unknown"
 nationality: "British"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Simon_Donaldson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Simon_Donaldson"
 lastUpdated: "2026-02-21"

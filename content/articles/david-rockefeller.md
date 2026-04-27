@@ -5,7 +5,7 @@ birth: "1915-06-12"
 death: "2017-03-20"
 nationality: "American"
 occupation: ["Banker", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/David_Rockefeller%2C_1984_%28cropped%29_%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Rockefeller"
 lastUpdated: "2026-02-21"

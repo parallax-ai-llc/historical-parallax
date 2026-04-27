@@ -3,6 +3,7 @@ name: "Demi Lovato"
 birth: "1992-08-20"
 nationality: "American"
 occupation: ["Singer", "Songwriter", "Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Demi_Lovato_Interview_Feb_2020.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Demi_Lovato"
 lastUpdated: "2026-03-12"

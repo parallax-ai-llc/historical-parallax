@@ -5,7 +5,7 @@ birth: "1994-12-30"
 death: "2019-08-04"
 nationality: "United States"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Vigil_for_the_2019_Dayton_shooting_victims_%2848464965257%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Connor_Betts"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1959-08-29"
 death: "living"
 nationality: "Canadian"
 occupation: ["Astronaut", "Pilot", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chris_Hadfield_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chris_Hadfield"
 lastUpdated: "2026-02-21"

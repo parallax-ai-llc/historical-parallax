@@ -5,7 +5,7 @@ birth: "1935-06-13"
 death: "2020-05-31"
 nationality: "Bulgarian-American"
 occupation: ["Sculptor", "Installation Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Jean-Claude_and_Christo%2C_May_2009_%284%29_%28cropped%29.jpg/1280px-Jean-Claude_and_Christo%2C_May_2009_%284%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christo"
 lastUpdated: "2026-02-21"

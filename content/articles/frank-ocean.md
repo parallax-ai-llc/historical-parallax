@@ -5,7 +5,7 @@ birth: "1987-10-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Singer", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Frank_Ocean_2022_Blonded.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Frank_Ocean"
 lastUpdated: "2026-02-26"

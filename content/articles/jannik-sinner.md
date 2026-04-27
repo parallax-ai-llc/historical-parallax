@@ -3,6 +3,7 @@ name: "Jannik Sinner"
 birth: "2001-08-16"
 nationality: "Italian"
 occupation: ["Tennis Player", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jannik_Sinner"
 lastUpdated: "2026-03-11"

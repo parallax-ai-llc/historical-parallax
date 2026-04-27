@@ -5,7 +5,7 @@ birth: "1957-07-29"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ginni_Rometty_at_the_Fortune_MPW_Summit_in_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ginni_Rometty"
 lastUpdated: "2026-02-21"

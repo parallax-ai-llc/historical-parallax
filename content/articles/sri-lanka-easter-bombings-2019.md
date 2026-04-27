@@ -6,7 +6,7 @@ location: "Multiple locations, Sri Lanka"
 coordinates: [79.86, 6.93]
 category: ["Terrorism", "Sri Lanka"]
 outcome: "269 killed, 500+ injured"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Kingsbury_Hotel.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2019_Sri_Lanka_Easter_bombings"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1906-06-28"
 death: "1972-02-20"
 nationality: "German-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Maria_Goeppert-Mayer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer"
 lastUpdated: "2026-02-26"

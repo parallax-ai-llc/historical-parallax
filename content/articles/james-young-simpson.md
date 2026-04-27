@@ -5,7 +5,7 @@ birth: "1811-06-07"
 death: "1870-05-06"
 nationality: "Scottish"
 occupation: ["Obstetrician", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Simpson_James_Young_signature_picture.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Young_Simpson"
 lastUpdated: "2026-02-21"

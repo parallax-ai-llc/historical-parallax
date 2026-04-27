@@ -5,7 +5,7 @@ birth: "1570-01-01"
 death: "1620-01-01"
 nationality: "Hungary"
 occupation: ["Bandit"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/M%C3%A1nyoki_%C3%81d%C3%A1m_selfportrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/%C3%81d%C3%A1m_M%C3%A1nyoki"
 lastUpdated: "2026-02-26"

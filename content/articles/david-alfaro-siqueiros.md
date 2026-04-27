@@ -5,7 +5,7 @@ birth: "1896-12-29"
 death: "1974-01-06"
 nationality: "Mexican"
 occupation: ["Painter", "Muralist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/David-Alfaro-Siqueiros.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Alfaro_Siqueiros"
 lastUpdated: "2026-02-21"

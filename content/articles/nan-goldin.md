@@ -5,7 +5,7 @@ birth: "1953-09-12"
 death: "Unknown"
 nationality: "American"
 occupation: ["Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nan_Goldin_Portrait.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nan_Goldin"
 lastUpdated: "2026-02-21"

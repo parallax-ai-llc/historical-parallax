@@ -3,6 +3,7 @@ name: "Christian McCaffrey"
 birth: "1996-06-07"
 nationality: "American"
 occupation: ["Athlete", "NFL Running Back"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Christian_McCaffrey_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christian_McCaffrey"
 lastUpdated: "2026-03-17"

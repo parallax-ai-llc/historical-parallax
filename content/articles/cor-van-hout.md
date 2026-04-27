@@ -5,7 +5,7 @@ birth: "1955-12-12"
 death: "2003-01-24"
 nationality: "Netherlands"
 occupation: ["Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cor_van_Hout_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cor_van_Hout"
 lastUpdated: "2026-02-26"

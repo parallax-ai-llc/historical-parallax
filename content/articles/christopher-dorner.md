@@ -5,7 +5,7 @@ birth: "1979-06-04"
 death: "2013-02-12"
 nationality: "United States"
 occupation: ["Mass Murderer", "Former Police Officer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Christopher_Dorner.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christopher_Dorner_shootings_and_manhunt"
 lastUpdated: "2026-02-26"

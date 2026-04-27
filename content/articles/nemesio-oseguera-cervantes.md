@@ -5,7 +5,7 @@ birth: "1966-02-17"
 death: "N/A (Fugitive)"
 nationality: "Mexico"
 occupation: ["Drug Lord", "Cartel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/El_Mencho_San_Francisco.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nemesio_Oseguera_Cervantes"
 lastUpdated: "2026-02-21"

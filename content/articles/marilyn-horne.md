@@ -3,6 +3,7 @@ name: "Marilyn Horne"
 birth: "1934-01-16"
 nationality: "American"
 occupation: ["Opera Singer", "Mezzo-soprano"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Marilyn_Horne_1961.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marilyn_Horne"
 lastUpdated: "2026-03-12"

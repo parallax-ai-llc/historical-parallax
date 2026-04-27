@@ -5,7 +5,7 @@ birth: "1949-12-25"
 death: "N/A"
 nationality: "Pakistan"
 occupation: ["Corrupt Politician", "Prime Minister"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/PrimeMinisterNawazSharif.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nawaz_Sharif"
 lastUpdated: "2026-02-21"

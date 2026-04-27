@@ -5,7 +5,7 @@ birth: "1926-05-08"
 death: "Unknown"
 nationality: "British"
 occupation: ["Natural Historian", "Broadcaster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/B%C3%A6rekraftsprisen_2018_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Attenborough"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1849-03-07"
 death: "1926-04-11"
 nationality: "American"
 occupation: ["Botanist", "Horticulturist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Luther_Burbank_cph.3a00184.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Luther_Burbank"
 lastUpdated: "2026-02-21"

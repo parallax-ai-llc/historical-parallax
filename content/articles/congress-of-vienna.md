@@ -5,7 +5,7 @@ birth: "1814-09-18"
 death: "1815-06-09"
 nationality: "Austria"
 occupation: ["Historical Event", "Treaty", "Diplomacy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Europe_1815_map_en.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Congress_of_Vienna"
 lastUpdated: "2026-02-21"

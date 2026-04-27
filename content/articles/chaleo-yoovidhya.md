@@ -5,7 +5,7 @@ birth: "1923-01-01"
 death: "2012-03-17"
 nationality: "Thai"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/45/Chaleo_Yoovidhya_%281923%E2%80%932012%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chaleo_Yoovidhya"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1982-06-13"
 death: "Unknown"
 nationality: "Ethiopian"
 occupation: ["Athlete", "Olympic Champion", "Long-Distance Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Kenenisabekele1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenenisa_Bekele"
 lastUpdated: "2026-02-26"

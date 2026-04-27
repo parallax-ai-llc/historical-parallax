@@ -5,7 +5,7 @@ birth: "1552-01-22"
 death: "1618-10-29"
 nationality: "English"
 occupation: ["Explorer", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sir_Walter_Raleigh"
 lastUpdated: "2026-02-26"

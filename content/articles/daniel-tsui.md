@@ -5,7 +5,7 @@ birth: "1939-02-28"
 death: "Unknown"
 nationality: "Chinese-American"
 occupation: ["Physicist", "Nobel laureate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Daniel_Chee_Tsui.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Tsui"
 lastUpdated: "2026-02-21"

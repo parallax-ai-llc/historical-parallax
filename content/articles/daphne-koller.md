@@ -5,7 +5,7 @@ birth: "1968-08-27"
 death: "living"
 nationality: "Israeli-American"
 occupation: ["Computer Scientist", "AI Researcher", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Daphne_Koller_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daphne_Koller"
 lastUpdated: "2026-02-21"

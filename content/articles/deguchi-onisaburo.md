@@ -5,7 +5,7 @@ birth: "1871-08-27"
 death: "1948-01-19"
 nationality: "Japanese"
 occupation: ["Religious Leader", "Author", "Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Onisaburo_Deguchi_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Deguchi_Onisaburo"
 lastUpdated: "2026-02-21"

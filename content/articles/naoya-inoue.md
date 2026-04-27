@@ -5,7 +5,7 @@ birth: "1993-04-10"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Naoya_Inoue_20230302suports_03.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Naoya_Inoue"
 lastUpdated: "2026-02-26"

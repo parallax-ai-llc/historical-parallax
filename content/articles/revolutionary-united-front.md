@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Sierra Leone"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Flag_of_the_Revolutionary_United_Front.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Revolutionary_United_Front"
 lastUpdated: "2026-02-26"

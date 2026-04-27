@@ -5,7 +5,7 @@ birth: "1858-07-09"
 death: "1942-12-21"
 nationality: "American"
 occupation: ["Anthropologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/FranzBoas.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Franz_Boas"
 lastUpdated: "2026-03-18"

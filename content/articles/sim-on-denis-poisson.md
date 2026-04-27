@@ -5,7 +5,7 @@ birth: "1781-06-21"
 death: "1840-04-25"
 nationality: "French"
 occupation: ["Mathematician", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sim%C3%A9onDenisPoisson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson"
 lastUpdated: "2026-02-21"

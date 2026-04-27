@@ -5,7 +5,7 @@ birth: "1960-03-07"
 death: "N/A (Imprisoned)"
 nationality: "India"
 occupation: ["Crime Boss", "Gangster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/f4/ChottaRajan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chhota_Rajan"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "John Mulaney"
 birth: "1982-08-26"
 nationality: "American"
 occupation: ["Comedian", "Writer", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/John_Mulaney_PaleyFest_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_Mulaney"
 lastUpdated: "2026-03-12"

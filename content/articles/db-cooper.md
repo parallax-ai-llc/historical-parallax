@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Bank Robber"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/CompositeB-FBI-1973.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/DB_Cooper"
 lastUpdated: "2026-02-26"

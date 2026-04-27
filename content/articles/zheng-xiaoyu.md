@@ -5,7 +5,7 @@ birth: "1944-12-01"
 death: "2007-07-10"
 nationality: "China"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e4/Zhengxiaoyu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zheng_Xiaoyu"
 lastUpdated: "2026-02-26"

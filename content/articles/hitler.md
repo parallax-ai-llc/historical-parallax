@@ -5,7 +5,7 @@ birth: "1889-04-20"
 death: "1945-04-30"
 nationality: "Austria"
 occupation: ["Dictator", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hitler"
 lastUpdated: "2026-02-26"

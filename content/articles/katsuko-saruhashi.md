@@ -5,7 +5,7 @@ birth: "1920-03-22"
 death: "2007-09-29"
 nationality: "Japanese"
 occupation: ["Geochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/08/Katsuko_Saruhashi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katsuko_Saruhashi"
 lastUpdated: "2026-02-21"

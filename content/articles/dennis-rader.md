@@ -5,7 +5,7 @@ birth: "1945-03-09"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a2/DennisRader.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dennis_Rader"
 lastUpdated: "2026-02-21"

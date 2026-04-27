@@ -5,7 +5,7 @@ birth: "1960-10-18"
 death: "Unknown"
 nationality: "American"
 occupation: ["Biologist", "Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Craig_Mello_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Craig_Mello"
 lastUpdated: "2026-02-21"

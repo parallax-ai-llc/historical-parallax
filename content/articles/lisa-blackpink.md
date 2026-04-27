@@ -3,6 +3,7 @@ name: "Lisa (BLACKPINK)"
 birth: "1997-03-27"
 nationality: "Thai"
 occupation: ["Singer", "Rapper", "Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/20240314_Lisa_Manoban_07.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lisa_(rapper)"
 lastUpdated: "2026-03-11"

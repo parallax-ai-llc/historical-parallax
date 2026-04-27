@@ -5,7 +5,7 @@ birth: "1932-12-24"
 death: "2014-07-10"
 nationality: "Japanese"
 occupation: ["Conceptual Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/37/On_Kawara_2.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/On_Kawara"
 lastUpdated: "2026-02-21"

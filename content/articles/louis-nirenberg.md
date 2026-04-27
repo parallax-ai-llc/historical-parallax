@@ -5,7 +5,7 @@ birth: "1925-02-28"
 death: "2020-01-26"
 nationality: "Canadian-American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Louis_Nirenberg.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Louis_Nirenberg"
 lastUpdated: "2026-02-21"

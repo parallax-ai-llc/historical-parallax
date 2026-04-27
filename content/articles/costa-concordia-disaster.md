@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Italy"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Collision_of_Costa_Concordia_11.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Costa_Concordia_Disaster"
 lastUpdated: "2026-02-26"

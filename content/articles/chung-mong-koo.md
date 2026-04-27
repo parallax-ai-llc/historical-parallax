@@ -5,7 +5,7 @@ birth: "1938-03-19"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corrupt Politician", "Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Mr._Chung_Mong_Koo_calls_on_the_Prime_Minister%2C_Shri_Narendra_Modi%2C_in_Seoul%2C_South_Korea_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Mong-koo"
 lastUpdated: "2026-02-26"

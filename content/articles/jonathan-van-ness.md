@@ -3,6 +3,7 @@ name: "Jonathan Van Ness"
 birth: "1987-03-28"
 nationality: "American"
 occupation: ["Television Personality", "LGBTQ Activist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Jonathan_Van_Ness%2C_2018-04.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jonathan_Van_Ness"
 lastUpdated: "2026-03-12"

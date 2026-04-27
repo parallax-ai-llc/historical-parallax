@@ -3,6 +3,7 @@ name: "Compay Segundo"
 birth: "1907-11-18"
 nationality: "Cuban"
 occupation: ["Singer", "Musician", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/CompaySegundoSayingGoodbye.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Compay_Segundo"
 lastUpdated: "2026-03-12"

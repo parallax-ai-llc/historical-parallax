@@ -5,7 +5,7 @@ birth: "1945-08-13"
 death: "2016-04-10"
 nationality: "United Kingdom"
 occupation: ["Drug Smuggler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Dennis_Howard_Marks_%282000%29.PNG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Howard_Marks"
 lastUpdated: "2026-02-21"

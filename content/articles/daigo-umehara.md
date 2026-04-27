@@ -3,6 +3,7 @@ name: "Daigo Umehara"
 birth: "1981-05-19"
 nationality: "Japanese"
 occupation: ["Esports Player", "Fighting Game Pro", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Daigo_Umehara_at_Capcom_Cup_2018_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daigo_Umehara"
 lastUpdated: "2026-03-12"

@@ -5,6 +5,7 @@ location: "Congo Free State (Modern DRC)"
 keyFigures: ["King Leopold II", "Force Publique"]
 casualties: "1 million to 15 million (Approx. half the population)"
 outcome: "First major international human rights campaign, Belgian annexation in 1908"
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/MutilatedChildrenFromCongo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State"
 lastUpdated: "2025-12-23"

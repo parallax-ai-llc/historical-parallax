@@ -5,7 +5,7 @@ birth: "1922-11-08"
 death: "2001-09-02"
 nationality: "South African"
 occupation: ["Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Heart_transplant_pioneer_Barnard_here_on_Visit_%28FL61733185%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christiaan_Barnard"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1545-04-28"
 death: "1598-12-16"
 nationality: "Korean"
 occupation: ["Admiral", "Naval engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bust_of_Yi_Sun-sin_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yi_Sun-sin"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1572-01-01"
 death: "1633-11-07"
 nationality: "Dutch"
 occupation: ["Inventor", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Drebbel_Van_Sichem_ca_1631_groot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelis_Drebbel"
 lastUpdated: "2026-02-21"

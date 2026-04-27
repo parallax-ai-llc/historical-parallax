@@ -5,6 +5,7 @@ location: "Katyn Forest, Smolensk (and Kalinin, Kharkiv)"
 keyFigures: ["Joseph Stalin", "Lavrentiy Beria", "Vasily Blokhin", "Mikhail Gorbachev"]
 casualties: "21,857 Polish POWs and prisoners"
 outcome: "Decades of Soviet blaming Nazis, 1990 Admission, 2010 Smolensk Air Disaster"
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Katyn_Massacre_-_Mass_Graves_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katyn_massacre"
 lastUpdated: "2025-12-23"

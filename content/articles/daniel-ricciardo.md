@@ -5,7 +5,7 @@ birth: "1989-07-01"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Athlete", "Racing Driver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Daniel_Ricciardo_January_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Ricciardo"
 lastUpdated: "2026-02-26"

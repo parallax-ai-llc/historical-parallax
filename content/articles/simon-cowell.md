@@ -3,6 +3,7 @@ name: "Simon Cowell"
 birth: "1959-10-07"
 nationality: "British"
 occupation: ["TV Producer", "TV Host", "Music Executive"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Simon_Cowell_in_December_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Simon_Cowell"
 lastUpdated: "2026-03-12"

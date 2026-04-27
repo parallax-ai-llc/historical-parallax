@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "N/A (Imprisoned)"
 nationality: "Russia"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/7/73/Sayenko_suprunyuck.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dnepropetrovsk_maniacs"
 lastUpdated: "2026-02-26"

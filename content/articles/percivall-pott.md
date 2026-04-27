@@ -5,7 +5,7 @@ birth: "1714-01-06"
 death: "1788-12-22"
 nationality: "English"
 occupation: ["Surgeon"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/PercivallPottb026992.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Percivall_Pott"
 lastUpdated: "2026-02-21"

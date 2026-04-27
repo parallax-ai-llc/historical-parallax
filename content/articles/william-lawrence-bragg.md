@@ -5,7 +5,7 @@ birth: "1890-03-31"
 death: "1971-07-01"
 nationality: "Australian-British"
 occupation: ["Physicist", "Crystallographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Wl-bragg.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Lawrence_Bragg"
 lastUpdated: "2026-02-21"

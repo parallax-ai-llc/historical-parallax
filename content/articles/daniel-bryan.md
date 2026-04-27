@@ -3,6 +3,7 @@ name: "Daniel Bryan"
 birth: "1981-05-22"
 nationality: "American"
 occupation: ["Professional Wrestler"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Bryan_Danielson_2022-03-23_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Bryan"
 lastUpdated: "2026-03-12"

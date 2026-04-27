@@ -5,7 +5,7 @@ birth: "1942-06-16"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Athlete", "Motorcycle Racer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Giacomo_Agostini_%281968%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Giacomo_Agostini"
 lastUpdated: "2026-02-26"

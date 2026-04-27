@@ -5,7 +5,7 @@ birth: "1867-06-28"
 death: "1936-12-10"
 nationality: "Italian"
 occupation: ["Playwright", "Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Luigi_Pirandello_1932.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Luigi_Pirandello"
 lastUpdated: "2026-02-21"

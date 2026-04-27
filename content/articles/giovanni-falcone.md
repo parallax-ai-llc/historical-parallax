@@ -5,7 +5,7 @@ birth: "1939-05-18"
 death: "1992-05-23"
 nationality: "Italy"
 occupation: ["Judge", "Anti-Mafia Prosecutor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Giovanni_Falcone%2C_1984.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Giovanni_Falcone"
 lastUpdated: "2026-02-21"

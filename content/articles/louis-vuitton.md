@@ -5,7 +5,7 @@ birth: "1821-08-04"
 death: "1892-02-27"
 nationality: "French"
 occupation: ["Entrepreneur", "Fashion Designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Boutique_Louis_Vuitton_au_101_avenue_des_Champs-Elys%C3%A9es_%C3%A0_Paris.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Louis_Vuitton"
 lastUpdated: "2026-02-21"

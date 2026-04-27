@@ -5,7 +5,7 @@ birth: "1858-11-30"
 death: "1937-11-23"
 nationality: "Indian"
 occupation: ["Physicist", "Biologist", "Biophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/56/J.C.Bose.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose"
 lastUpdated: "2026-02-21"

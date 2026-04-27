@@ -5,7 +5,7 @@ birth: "1874-05-12"
 death: "1929-02-28"
 nationality: "Austrian"
 occupation: ["Physician", "Immunologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Pirquet.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clemens_von_Pirquet"
 lastUpdated: "2026-02-21"

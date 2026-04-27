@@ -5,7 +5,7 @@ birth: "1688-08-22"
 death: "1747-06-19"
 nationality: "Persia"
 occupation: ["Conqueror", "Tyrant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Contemporary_portrait_of_Nader_Shah._Artist_unknown%2C_created_in_ca._1740_in_Iran_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nader_Shah"
 lastUpdated: "2026-02-26"

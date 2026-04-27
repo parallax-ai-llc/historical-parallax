@@ -3,6 +3,7 @@ name: "Wolf Blitzer"
 birth: "1948-03-22"
 nationality: "American"
 occupation: ["Journalist", "Television Anchor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Wolf_Blitzer_2017.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wolf_Blitzer"
 lastUpdated: "2026-03-12"

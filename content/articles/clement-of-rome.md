@@ -5,7 +5,7 @@ birth: "0035-01-01"
 death: "0099-01-01"
 nationality: "Roman"
 occupation: ["Bishop", "Church Father"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Clemens_Romanus.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clement_of_Rome"
 lastUpdated: "2026-02-26"

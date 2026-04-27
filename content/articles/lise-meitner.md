@@ -5,7 +5,7 @@ birth: "1878-11-07"
 death: "1968-10-27"
 nationality: "Austrian-Swedish"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Lise_Meitner_NatGeo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lise_Meitner"
 lastUpdated: "2026-02-21"

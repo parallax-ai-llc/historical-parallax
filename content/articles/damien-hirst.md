@@ -5,7 +5,7 @@ birth: "1965-06-07"
 death: "Unknown"
 nationality: "British"
 occupation: ["Sculptor", "Painter", "Installation Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Damien_Hirst_2_-_West_London_studio%2C_Jul_16%2C_2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Damien_Hirst"
 lastUpdated: "2026-02-21"

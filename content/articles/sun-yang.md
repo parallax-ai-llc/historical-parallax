@@ -5,7 +5,7 @@ birth: "1991-12-01"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Incheon_AsianGames_Swimming_34.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sun_Yang"
 lastUpdated: "2026-02-26"

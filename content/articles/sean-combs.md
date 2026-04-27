@@ -5,7 +5,7 @@ birth: "1969-11-04"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Sex Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Sean_Combs_Cannes_2012_%28cropped%29_4.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sean_Combs"
 lastUpdated: "2026-02-26"

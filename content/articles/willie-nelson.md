@@ -3,6 +3,7 @@ name: "Willie Nelson"
 birth: "1933-04-29"
 nationality: "American"
 occupation: ["Musician", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Willie_UK2K7_2.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Willie_Nelson"
 lastUpdated: "2026-03-12"

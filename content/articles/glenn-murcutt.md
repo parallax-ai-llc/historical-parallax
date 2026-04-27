@@ -5,7 +5,7 @@ birth: "1936-07-25"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/27-11-04_Murcutt_y_yo_022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Glenn_Murcutt"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1951-10-17"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Engineer", "Industrialist", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/CMJhyundai.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Mong-joon"
 lastUpdated: "2026-02-21"

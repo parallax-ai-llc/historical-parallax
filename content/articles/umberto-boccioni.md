@@ -5,7 +5,7 @@ birth: "1882-10-19"
 death: "1916-08-17"
 nationality: "Italian"
 occupation: ["Sculptor", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Umberto_Boccioni%2C_portrait_photograph.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Umberto_Boccioni"
 lastUpdated: "2026-02-21"

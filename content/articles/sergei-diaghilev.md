@@ -4,6 +4,7 @@ birth: "1872-03-31"
 death: "1929-08-19"
 nationality: "Russian"
 occupation: ["Ballet Impresario", "Art Critic"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dyagilev_SP.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergei_Diaghilev"
 lastUpdated: "2026-03-12"

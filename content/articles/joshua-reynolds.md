@@ -5,7 +5,7 @@ birth: "1723-07-16"
 death: "1792-02-23"
 nationality: "British"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Joshua_Reynolds_-_Self-Portrait_-_Google_Art_Project_%282315517%29.jpg/3840px-Sir_Joshua_Reynolds_-_Self-Portrait_-_Google_Art_Project_%282315517%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joshua_Reynolds"
 lastUpdated: "2026-02-21"

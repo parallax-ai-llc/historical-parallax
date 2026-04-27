@@ -5,7 +5,7 @@ birth: "1951-04-05"
 death: "living"
 nationality: "American"
 occupation: ["Inventor", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Dean_Kamen_at_MAGNET_in_Cleveland_-_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dean_Kamen"
 lastUpdated: "2026-02-21"

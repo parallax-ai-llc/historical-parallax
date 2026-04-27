@@ -5,7 +5,7 @@ birth: "1972-09-01"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Daniel_Barrera_Barrera_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Barrera_Barrera"
 lastUpdated: "2026-02-26"

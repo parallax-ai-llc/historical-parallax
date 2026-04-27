@@ -5,7 +5,7 @@ birth: "1690-01-01"
 death: "1770-01-01"
 nationality: "England"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Captain_Condent%2C_Shooting_the_Indian%2C_from_the_Pirates_of_the_Spanish_Main_series_%28N19%29_for_Allen_%26_Ginter_Cigarettes_MET_DP835009.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christopher_Condent"
 lastUpdated: "2026-02-26"

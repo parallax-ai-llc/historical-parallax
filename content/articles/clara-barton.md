@@ -4,6 +4,7 @@ birth: "1821-12-25"
 death: "1912-04-12"
 nationality: "American"
 occupation: ["Nurse", "Humanitarian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/%28Union_nurse_Clara_Barton%29_%28LOC%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clara_Barton"
 lastUpdated: "2026-03-12"

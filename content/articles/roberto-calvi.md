@@ -5,7 +5,7 @@ birth: "1920-04-13"
 death: "1982-06-17"
 nationality: "Italy"
 occupation: ["Organized Crime", "Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Roberto_Calvi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Calvi"
 lastUpdated: "2026-02-26"

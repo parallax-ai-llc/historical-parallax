@@ -5,7 +5,7 @@ birth: "1912-04-08"
 death: "1969-10-12"
 nationality: "Norwegian"
 occupation: ["Athlete", "Olympic Champion", "Figure Skater", "Actress"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Sonja_Henie_1936.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sonja_Henie"
 lastUpdated: "2026-02-26"

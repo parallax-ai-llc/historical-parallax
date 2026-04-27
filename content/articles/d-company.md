@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "India"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/D-Company_logo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/D-Company"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1969-03-13"
 death: "N/A (Imprisoned)"
 nationality: "Jamaica"
 occupation: ["Drug Lord", "Crime Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Christopher_Coke.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christopher_Coke"
 lastUpdated: "2026-02-21"

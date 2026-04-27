@@ -3,6 +3,7 @@ name: "Marcus Rashford"
 birth: "1997-10-31"
 nationality: "English"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Marcus_Rashford_in_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marcus_Rashford"
 lastUpdated: "2026-03-12"

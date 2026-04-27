@@ -5,7 +5,7 @@ birth: "1892-04-15"
 death: "1983-04-15"
 nationality: "Dutch"
 occupation: ["Author", "Evangelist", "Holocaust Survivor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/CorrieTenBoom.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Corrie_ten_Boom"
 lastUpdated: "2026-02-21"

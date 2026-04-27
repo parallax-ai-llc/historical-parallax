@@ -5,7 +5,7 @@ birth: "1942-11-15"
 death: "Unknown"
 nationality: "Argentine-Israeli"
 occupation: ["Pianist", "Conductor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Verleihung_Konrad-Adenauer-Preis_der_Stadt_K%C3%B6ln_2019_an_Daniel_Barenboim-9447.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Barenboim"
 lastUpdated: "2026-02-21"

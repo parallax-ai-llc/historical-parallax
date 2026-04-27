@@ -5,7 +5,7 @@ birth: "1923-07-27"
 death: "1994-04-26"
 nationality: "Korean/Japanese"
 occupation: ["Martial Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Masutatsu_Oyama_karate.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mas_Oyama"
 lastUpdated: "2026-02-26"

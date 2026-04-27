@@ -5,7 +5,7 @@ birth: "1917-12-20"
 death: "1992-10-27"
 nationality: "American-Brazilian-British"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/David_Bohm.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Bohm"
 lastUpdated: "2026-02-26"

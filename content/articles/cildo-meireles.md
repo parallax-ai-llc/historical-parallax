@@ -5,7 +5,7 @@ birth: "1948-02-09"
 death: "Unknown"
 nationality: "Brazilian"
 occupation: ["Sculptor", "Installation Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cildo_Meireles_davant_de_la_seva_obra_%E2%80%98Entrevendo%E2%80%99.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cildo_Meireles"
 lastUpdated: "2026-02-21"

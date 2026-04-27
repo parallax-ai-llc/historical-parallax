@@ -3,6 +3,7 @@ name: "Ricky Ponting"
 birth: "1974-12-19"
 nationality: "Australian"
 occupation: ["Cricketer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Ricky_Ponting_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ricky_Ponting"
 lastUpdated: "2026-03-12"

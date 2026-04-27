@@ -5,7 +5,7 @@ birth: "1924-09-02"
 death: "2020-02-04"
 nationality: "Kenya"
 occupation: ["Authoritarian Leader", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Daniel_arap_Moi_1979b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_arap_Moi"
 lastUpdated: "2026-02-21"

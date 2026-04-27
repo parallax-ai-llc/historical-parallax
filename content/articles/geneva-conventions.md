@@ -5,7 +5,7 @@ birth: "1949-08-12"
 death: "1949-08-12"
 nationality: "Switzerland"
 occupation: ["Historical Event", "Treaty", "International Law"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Original_Geneva_Conventions.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Geneva_Conventions"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1979-01-01"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Criminal Organization"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Comando_Vermelho_logo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Comando_Vermelho"
 lastUpdated: "2026-02-26"

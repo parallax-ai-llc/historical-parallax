@@ -3,6 +3,7 @@ name: "Darcey Bussell"
 birth: "1969-04-27"
 nationality: "British"
 occupation: ["Ballet Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Darcey_Bussell_in_2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Darcey_Bussell"
 lastUpdated: "2026-03-12"

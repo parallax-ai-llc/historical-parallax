@@ -5,7 +5,7 @@ birth: "1937-10-17"
 death: "2003-07-29"
 nationality: "Sierra Leone"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/7/73/Foday_Sankoh.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Foday_Sankoh"
 lastUpdated: "2026-02-26"

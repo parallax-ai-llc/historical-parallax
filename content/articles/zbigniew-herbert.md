@@ -5,7 +5,7 @@ birth: "1924-10-29"
 death: "1998-07-28"
 nationality: "Polish"
 occupation: ["Poet", "Essayist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Zbigniew_Herbert.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zbigniew_Herbert"
 lastUpdated: "2026-02-21"

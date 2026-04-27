@@ -5,7 +5,7 @@ birth: "1987-01-17"
 death: "Unknown"
 nationality: "Ukrainian"
 occupation: ["Athlete", "Olympic Champion", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/2022_-_Centre_Stage_EN1_4500_%2852471602047%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Oleksandr_Usyk"
 lastUpdated: "2026-02-26"

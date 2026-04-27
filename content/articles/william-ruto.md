@@ -5,7 +5,7 @@ birth: "1966-12-21"
 death: "Unknown"
 nationality: "Kenya"
 occupation: ["Corrupt Politician", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/President_Ruto_Potrait_2022_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Ruto"
 lastUpdated: "2026-02-21"

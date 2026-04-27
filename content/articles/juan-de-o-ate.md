@@ -5,7 +5,7 @@ birth: "1550-01-01"
 death: "1626-06-03"
 nationality: "Spain"
 occupation: ["Colonial Criminal", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Equestrian_statue_of_Juan_de_O%C3%B1ate.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Juan_de_O%C3%B1ate"
 lastUpdated: "2026-02-26"

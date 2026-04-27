@@ -5,7 +5,7 @@ birth: "1951-04-29"
 death: "2001-02-18"
 nationality: "American"
 occupation: ["Athlete", "Racing Driver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dale_Earnhardt_visits_Langley_AFB.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dale_Earnhardt"
 lastUpdated: "2026-02-26"

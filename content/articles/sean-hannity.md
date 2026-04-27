@@ -3,6 +3,7 @@ name: "Sean Hannity"
 birth: "1961-12-30"
 nationality: "American"
 occupation: ["Journalist", "Political Commentator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Sean_Hannity_2020.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sean_Hannity"
 lastUpdated: "2026-03-12"

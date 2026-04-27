@@ -6,7 +6,7 @@ location: "Columbine, Colorado, United States"
 coordinates: [-105.07, 39.6]
 category: ["Mass Shooting", "United States"]
 outcome: "13 killed, 24 injured; both shooters dead"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Columbine_Shooting_Security_Camera.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Columbine_High_School_massacre"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1959-08-17"
 death: "1993-04-19"
 nationality: "United States"
 occupation: ["Cult Leader", "Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/David_koresh.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Koresh"
 lastUpdated: "2026-02-26"

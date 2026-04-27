@@ -3,6 +3,7 @@ name: "Yuki Tsunoda"
 birth: "2000-05-11"
 nationality: "Japanese"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8096%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yuki_Tsunoda"
 lastUpdated: "2026-03-12"

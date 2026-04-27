@@ -3,6 +3,7 @@ name: "Ollie Watkins"
 birth: "1995-12-30"
 nationality: "English"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Manchester_United_v_Aston_Villa%2C_25_September_2021_%2817%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ollie_Watkins"
 lastUpdated: "2026-03-12"

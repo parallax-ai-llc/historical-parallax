@@ -5,7 +5,7 @@ birth: "1993-02-17"
 death: "Unknown"
 nationality: "Spanish"
 occupation: ["Athlete", "Motorcycle Racer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Marc_M%C3%A1rquez_at_Estrella_Galicia_stand_during_2025_Dutch_TT.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marc_M%C3%A1rquez"
 lastUpdated: "2026-02-26"

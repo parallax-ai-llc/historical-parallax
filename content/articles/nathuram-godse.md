@@ -5,7 +5,7 @@ birth: "1910-05-19"
 death: "1949-11-15"
 nationality: "India"
 occupation: ["Assassin", "Hindu Nationalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nathuram_godse.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nathuram_Godse"
 lastUpdated: "2026-02-21"

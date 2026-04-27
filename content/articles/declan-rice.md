@@ -3,6 +3,7 @@ name: "Declan Rice"
 birth: "1999-01-14"
 nationality: "English"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/1_declan_rice_arsenal_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Declan_Rice"
 lastUpdated: "2026-03-12"

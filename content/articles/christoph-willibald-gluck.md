@@ -5,7 +5,7 @@ birth: "1714-07-02"
 death: "1787-11-15"
 nationality: "German-Bohemian"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg/3840px-Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck"
 lastUpdated: "2026-02-21"

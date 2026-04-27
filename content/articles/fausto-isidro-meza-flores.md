@@ -5,7 +5,7 @@ birth: "1975-11-08"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg/250px-Fausto_Isidro_Meza-Flores_Top_Ten_Wanted_Poster_%28cropped%29.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fausto_Isidro_Meza_Flores"
 lastUpdated: "2026-02-26"

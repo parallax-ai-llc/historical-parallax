@@ -5,7 +5,7 @@ birth: "1970-01-06"
 death: "living"
 nationality: "Canadian"
 occupation: ["Astronaut", "Physician", "Astrophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/David_Saint-Jacques_official_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Saint-Jacques"
 lastUpdated: "2026-02-21"

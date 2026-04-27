@@ -5,7 +5,7 @@ birth: "1976-02-24"
 death: "Unknown"
 nationality: "Ukrainian-American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Jan_Koum_-_Whatsapp_-_4_Years_from_Now_%2812791516533%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jan_Koum"
 lastUpdated: "2026-02-21"

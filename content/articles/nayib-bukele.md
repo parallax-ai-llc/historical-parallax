@@ -5,7 +5,7 @@ birth: "1981-07-24"
 death: "Unknown"
 nationality: "El Salvador"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Presidente_Nayib_Bukele_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nayib_Bukele"
 lastUpdated: "2026-02-26"

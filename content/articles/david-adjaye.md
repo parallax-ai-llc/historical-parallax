@@ -5,7 +5,7 @@ birth: "1966-09-22"
 death: "Unknown"
 nationality: "Ghanaian-British"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Andrew_Quinn_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Adjaye"
 lastUpdated: "2026-02-21"

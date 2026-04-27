@@ -5,7 +5,7 @@ birth: "1964-08-26"
 death: "2017-10-16"
 nationality: "Malta"
 occupation: ["Journalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/bb/Daphne_caruana_galizia.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daphne_Caruana_Galizia"
 lastUpdated: "2026-02-26"

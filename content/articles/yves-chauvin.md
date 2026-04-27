@@ -5,7 +5,7 @@ birth: "1930-10-10"
 death: "2015-01-27"
 nationality: "French"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Nobel_Laureates_in_Chemistry_2005_on_stage_%28restored%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yves_Chauvin"
 lastUpdated: "2026-02-21"

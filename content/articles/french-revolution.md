@@ -5,7 +5,7 @@ birth: "1789-07-14"
 death: "1799-11-09"
 nationality: "France"
 occupation: ["Historical Event", "Revolution", "Political"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/3840px-Anonymous_-_Prise_de_la_Bastille.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/French_Revolution"
 lastUpdated: "2026-02-21"

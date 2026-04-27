@@ -5,7 +5,7 @@ birth: "2018-10-18"
 death: "Unknown"
 nationality: "Germany"
 occupation: ["Tax Fraud"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CumEx-Files_-_Countries_affected_by_the_fraud.svg/1280px-CumEx-Files_-_Countries_affected_by_the_fraud.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/CumEx_Files"
 lastUpdated: "2026-02-26"

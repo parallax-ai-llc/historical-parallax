@@ -3,6 +3,7 @@ name: "Dan Harmon"
 birth: "1973-01-03"
 nationality: "American"
 occupation: ["Television Producer", "Screenwriter", "Comedian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dan_Harmon_%2827931105063%29_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dan_Harmon"
 lastUpdated: "2026-03-12"

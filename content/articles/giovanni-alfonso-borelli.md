@@ -5,7 +5,7 @@ birth: "1608-01-28"
 death: "1679-12-31"
 nationality: "Italian"
 occupation: ["Physiologist", "Physicist", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Giovanni_Alfonso_Borelli.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Giovanni_Alfonso_Borelli"
 lastUpdated: "2026-02-21"

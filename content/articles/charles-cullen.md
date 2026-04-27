@@ -5,7 +5,7 @@ birth: "1960-02-22"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Serial Killer", "Nurse"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/56/Charles_Cullen_%28mug_shot%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Charles_Cullen"
 lastUpdated: "2026-02-21"

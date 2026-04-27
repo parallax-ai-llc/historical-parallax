@@ -5,7 +5,7 @@ birth: "1992-06-15"
 death: "Unknown"
 nationality: "Dutch"
 occupation: ["Athlete", "World Champion", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dafne_Schippers2_London_2017_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dafne_Schippers"
 lastUpdated: "2026-02-26"

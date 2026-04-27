@@ -5,7 +5,7 @@ birth: "1988-02-20"
 death: "N/A (Imprisoned)"
 nationality: "Uzbekistan / United States"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/2017_NYC_Truck_Attack_Home_Depot_Truck.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2017_New_York_City_truck_attack"
 lastUpdated: "2026-02-26"

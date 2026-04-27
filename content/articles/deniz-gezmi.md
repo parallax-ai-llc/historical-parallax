@@ -5,7 +5,7 @@ birth: "1947-02-27"
 death: "1972-05-06"
 nationality: "Turkey"
 occupation: ["Revolutionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Deniz_Gezmi%C5%9F_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Deniz_Gezmi%C5%9F"
 lastUpdated: "2026-02-26"

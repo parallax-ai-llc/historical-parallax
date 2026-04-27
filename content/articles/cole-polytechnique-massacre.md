@@ -5,7 +5,7 @@ birth: "1989-12-06"
 death: "Unknown"
 nationality: "Canada"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mtl_dec6_plaque.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_Massacre"
 lastUpdated: "2026-02-26"

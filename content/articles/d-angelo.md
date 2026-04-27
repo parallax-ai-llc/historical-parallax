@@ -5,7 +5,7 @@ birth: "1974-02-11"
 death: "Unknown"
 nationality: "American"
 occupation: ["Singer", "Songwriter", "Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/D%27Angelo_Pori_Jazz_2012_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/D'Angelo"
 lastUpdated: "2026-02-26"

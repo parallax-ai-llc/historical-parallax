@@ -5,7 +5,7 @@ birth: "1898-04-30"
 death: "1999-07-12"
 nationality: "American"
 occupation: ["Author", "Journalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Bundesarchiv_Bild_102-00023%2C_Cornelius_Vanderbilt_jr..jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_IV"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1898-12-27"
 death: "1960-10-12"
 nationality: "Japan"
 occupation: ["Assassination Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Inejiro_Asanuma_Salvaged_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Inejiro_Asanuma"
 lastUpdated: "2026-02-26"

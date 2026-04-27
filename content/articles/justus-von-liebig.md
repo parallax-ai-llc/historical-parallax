@@ -5,7 +5,7 @@ birth: "1803-05-12"
 death: "1873-04-18"
 nationality: "German"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Justus_von_Liebig_NIH.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Justus_von_Liebig"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1928-01-02"
 death: "2023-11-15"
 nationality: "Japanese"
 occupation: ["Buddhist Leader", "Author", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/DaisakuIkedaTokyoMay2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daisaku_Ikeda"
 lastUpdated: "2026-02-21"

@@ -4,6 +4,7 @@ birth: "1903-02-06"
 death: "1991-06-09"
 nationality: "Chilean"
 occupation: ["Pianist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Claudio_Arrau_1_Allan_Warren.jpg/3840px-Claudio_Arrau_1_Allan_Warren.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claudio_Arrau"
 lastUpdated: "2026-03-12"

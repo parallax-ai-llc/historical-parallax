@@ -5,7 +5,7 @@ birth: "1996-01-26"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/240622_%ED%99%A9%ED%9D%AC%EC%B0%AC_%ED%92%8B%EB%B3%BC_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hwang_Hee-chan"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1913-02-02"
 death: "2008-08-16"
 nationality: "Japanese"
 occupation: ["Farmer", "Philosopher", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Masanobu_Fukuoka%2C_2002_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Masanobu_Fukuoka"
 lastUpdated: "2026-02-21"

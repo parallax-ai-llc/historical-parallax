@@ -5,7 +5,7 @@ birth: "1876-11-09"
 death: "1928-05-21"
 nationality: "Japanese"
 occupation: ["Bacteriologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Noguchi_Hideyo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hideyo_Noguchi"
 lastUpdated: "2026-02-21"

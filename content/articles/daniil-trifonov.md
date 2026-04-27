@@ -3,6 +3,7 @@ name: "Daniil Trifonov"
 birth: "1991-03-05"
 nationality: "Russian"
 occupation: ["Pianist", "Composer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Daniil_Trifonov_at_Carnegie_Hall_2017_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniil_Trifonov"
 lastUpdated: "2026-03-12"

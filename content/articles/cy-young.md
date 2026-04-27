@@ -5,7 +5,7 @@ birth: "1867-03-29"
 death: "1955-11-04"
 nationality: "American"
 occupation: ["Athlete", "Baseball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Cy_Young_by_Conlon%2C_1911-crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cy_Young"
 lastUpdated: "2026-02-26"

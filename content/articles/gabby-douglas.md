@@ -5,7 +5,7 @@ birth: "1995-12-31"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Gymnast"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Gabby_Douglas_2016_Summer_Olympics_Gold_Medal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gabby_Douglas"
 lastUpdated: "2026-02-26"

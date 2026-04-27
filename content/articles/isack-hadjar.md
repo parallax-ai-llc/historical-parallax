@@ -3,6 +3,7 @@ name: "Isack Hadjar"
 birth: "2004-09-28"
 nationality: "French (Algerian descent)"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Isack_Hadjar"
 lastUpdated: "2026-03-12"

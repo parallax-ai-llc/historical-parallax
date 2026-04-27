@@ -5,7 +5,7 @@ birth: "1954-12-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Tennis Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Chris_Evert.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chris_Evert"
 lastUpdated: "2026-02-26"

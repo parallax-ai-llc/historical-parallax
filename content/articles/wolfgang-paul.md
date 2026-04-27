@@ -5,7 +5,7 @@ birth: "1913-08-10"
 death: "1993-12-07"
 nationality: "German"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/c0/Wolfgang_Paul.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wolfgang_Paul"
 lastUpdated: "2026-02-21"

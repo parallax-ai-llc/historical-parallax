@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Ethiopia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/VOA_Tigray_Children2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tigray_War"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1996-07-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corruption Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Chung_Yoo-ra.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Yoo-ra"
 lastUpdated: "2026-02-26"

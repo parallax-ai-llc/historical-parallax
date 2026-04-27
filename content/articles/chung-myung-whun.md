@@ -5,7 +5,7 @@ birth: "1953-01-22"
 death: "Unknown"
 nationality: "Korean-French"
 occupation: ["Musician", "Conductor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Concert_at_the_%E2%80%9CLa_Fenice%E2%80%9D_Theater_during_76th_anniversary_of_the_Italian_Republic_9.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Myung-whun"
 lastUpdated: "2026-02-21"

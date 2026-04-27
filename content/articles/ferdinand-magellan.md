@@ -4,6 +4,7 @@ birth: "1480"
 death: "1521-04-27"
 nationality: "Portuguese, Spanish service"
 occupation: ["Explorer", "Navigator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ferdinand_Magellan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ferdinand_Magellan"
 lastUpdated: "2025-12-22"

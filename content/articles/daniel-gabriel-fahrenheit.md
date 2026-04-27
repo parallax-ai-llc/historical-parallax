@@ -5,7 +5,7 @@ birth: "1686-05-24"
 death: "1736-09-16"
 nationality: "Polish-Dutch-German"
 occupation: ["Physicist", "Inventor", "Instrument Maker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Fahrenheit_small.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit"
 lastUpdated: "2026-02-21"

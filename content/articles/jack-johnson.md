@@ -5,7 +5,7 @@ birth: "1878-03-31"
 death: "1946-06-10"
 nationality: "American"
 occupation: ["Athlete", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jack_Johnson%2C_1915_%28edit%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jack_Johnson"
 lastUpdated: "2026-02-21"

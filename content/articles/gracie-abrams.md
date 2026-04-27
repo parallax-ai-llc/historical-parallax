@@ -3,6 +3,7 @@ name: "Gracie Abrams"
 birth: "1999-09-07"
 nationality: "American"
 occupation: ["Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gracie_Abrams_%40_El_Rey_Theatre_03_05_2022_%2852297976064%29_%28cropped%29_%283%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gracie_Abrams"
 lastUpdated: "2026-03-18"

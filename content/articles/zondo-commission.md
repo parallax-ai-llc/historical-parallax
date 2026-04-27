@@ -5,7 +5,7 @@ birth: "2018-08-20"
 death: "2022-06-22"
 nationality: "South Africa"
 occupation: ["Investigation"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/2d/Zondo_Commission_logo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zondo_Commission"
 lastUpdated: "2026-02-26"

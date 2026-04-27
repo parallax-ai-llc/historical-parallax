@@ -5,7 +5,7 @@ birth: "1942-10-20"
 death: "Unknown"
 nationality: "German"
 occupation: ["Biologist", "Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Christiane_N%C3%BCsslein-Volhard_mg_4372.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christiane_N%C3%BCsslein-Volhard"
 lastUpdated: "2026-02-21"

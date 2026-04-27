@@ -5,7 +5,7 @@ birth: "1389-09-27"
 death: "1464-08-01"
 nationality: "Italian"
 occupation: ["Banker", "Statesman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cosimo_di_Medici_%28Bronzino%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cosimo_de_Medici"
 lastUpdated: "2026-02-21"

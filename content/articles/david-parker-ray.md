@@ -5,7 +5,7 @@ birth: "1939-11-06"
 death: "2002-05-28"
 nationality: "United States"
 occupation: ["Serial Killer", "Rapist", "Torturer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/50/David_Parker_Ray.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Parker_Ray"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1944-10-18"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Banker", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Secretary_Geithner_meets_with_India%27s_business_leaders_%288077875734%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Deepak_Parekh"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1949-08-11"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/32/NBF2024-david-rubenstein_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Rubenstein"
 lastUpdated: "2026-02-21"

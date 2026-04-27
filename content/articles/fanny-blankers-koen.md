@@ -5,7 +5,7 @@ birth: "1918-04-26"
 death: "2004-01-25"
 nationality: "Dutch"
 occupation: ["Athlete", "Olympic Champion", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Olympische_dag_in_Amsterdam._Fanny_Blankers-Koen%2C_Bestanddeelnr_903-4520.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fanny_Blankers-Koen"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1957-08-05"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Architect", "Humanitarian engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Shigeru_Ban.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shigeru_Ban"
 lastUpdated: "2026-02-21"

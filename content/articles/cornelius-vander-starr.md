@@ -5,7 +5,7 @@ birth: "1892-10-15"
 death: "1968-12-20"
 nationality: "American"
 occupation: ["Entrepreneur", "Insurance Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a5/Cornelius_Vander_Starr.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelius_Vander_Starr"
 lastUpdated: "2026-02-21"

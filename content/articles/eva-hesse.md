@@ -5,7 +5,7 @@ birth: "1936-01-11"
 death: "1970-05-29"
 nationality: "American"
 occupation: ["Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/cb/Eva_Hesse_in_her_studio_in_1965._%27No_Title%27_%281966%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eva_Hesse"
 lastUpdated: "2026-02-21"

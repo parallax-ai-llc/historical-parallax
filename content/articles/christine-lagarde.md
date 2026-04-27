@@ -5,7 +5,7 @@ birth: "1956-01-01"
 death: "Unknown"
 nationality: "French"
 occupation: ["Banker", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lagarde_ECB_Portrait_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christine_Lagarde"
 lastUpdated: "2026-02-21"

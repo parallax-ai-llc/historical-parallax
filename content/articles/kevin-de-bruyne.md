@@ -5,7 +5,7 @@ birth: "1991-06-28"
 death: "Unknown"
 nationality: "Belgian"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kevin_De_Bruyne"
 lastUpdated: "2026-02-26"

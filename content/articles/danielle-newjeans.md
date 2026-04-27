@@ -3,6 +3,7 @@ name: "Danielle (NewJeans)"
 birth: "2005-04-11"
 nationality: "Australian (South Korean)"
 occupation: ["Singer", "Dancer", "Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/240910_NewJeans_Danielle.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Danielle_(singer)"
 lastUpdated: "2026-03-11"

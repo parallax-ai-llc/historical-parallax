@@ -5,7 +5,7 @@ birth: "1889-05-25"
 death: "1972-10-26"
 nationality: "Russian-American"
 occupation: ["Aviation Pioneer", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sikorsky%2C_Igor.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Igor_Sikorsky"
 lastUpdated: "2026-02-21"

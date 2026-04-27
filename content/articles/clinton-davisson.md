@@ -5,7 +5,7 @@ birth: "1881-10-22"
 death: "1958-02-01"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Clinton_Davisson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clinton_Davisson"
 lastUpdated: "2026-02-26"

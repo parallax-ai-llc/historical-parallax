@@ -4,6 +4,7 @@ birth: "1772-04-18"
 death: "1823-09-11"
 nationality: "British"
 occupation: ["Economist", "Politician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Ricardo"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1933-05-03"
 death: "2006-12-25"
 nationality: "American"
 occupation: ["Singer", "Songwriter", "Dancer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/James_Brown_1996_%28HQ%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Brown"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1928-10-30"
 death: "1999-11-16"
 nationality: "American"
 occupation: ["Microbiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/37._Tagung_1987_Mediziner_Daniel_Nathans_l%C3%A4chelnd_-_W134Nr.125411c_-_Willy_Pragher_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Nathans"
 lastUpdated: "2026-02-21"

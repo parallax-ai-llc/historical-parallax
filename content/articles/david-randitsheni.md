@@ -5,7 +5,7 @@ birth: "1972-01-01"
 death: "Unknown"
 nationality: "South Africa"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Standard_legirons_taiwan01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Randitsheni"
 lastUpdated: "2026-02-26"

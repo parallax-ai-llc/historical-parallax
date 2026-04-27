@@ -4,6 +4,7 @@ birth: "1904-06-14"
 death: "1971-08-27"
 nationality: "American"
 occupation: ["Photographer", "Photojournalist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Margaret_Bourke-White_1955.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Margaret_Bourke-White"
 lastUpdated: "2026-03-12"

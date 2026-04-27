@@ -5,7 +5,7 @@ birth: "1730-03-11"
 death: "1801-12-27"
 nationality: "Russia"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Darya_Nikolayevna_Saltykova_-_GRpergament.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daria_Nikolayevna_Saltykova"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1958-01-01"
 death: "Unknown"
 nationality: "Mali"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/89/Iyad_Ag_Ghali_photo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Iyad_ag_Ghali"
 lastUpdated: "2026-02-26"

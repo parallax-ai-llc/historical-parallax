@@ -5,7 +5,7 @@ birth: "1876-01-15"
 death: "1969-01-18"
 nationality: "Indian"
 occupation: ["Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lekhraj_Kripalani.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dada_Lekhraj"
 lastUpdated: "2026-02-21"

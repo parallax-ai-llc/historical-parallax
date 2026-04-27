@@ -3,6 +3,7 @@ name: "David Gilmour"
 birth: "1946-03-06"
 nationality: "British"
 occupation: ["Musician", "Guitarist", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/DGilmourRAH111024_%2821_of_63%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Gilmour"
 lastUpdated: "2026-03-12"

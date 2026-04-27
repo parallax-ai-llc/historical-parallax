@@ -5,7 +5,7 @@ birth: "1976-03-19"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Derek_Chauvin_Ramsey_County_Booking_Photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Derek_Chauvin"
 lastUpdated: "2026-02-26"

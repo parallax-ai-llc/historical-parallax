@@ -4,6 +4,7 @@ birth: "1902-10-26"
 death: "1986-08-03"
 nationality: "British-Kenyan"
 occupation: ["Aviator", "Author", "Horse Trainer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Beryl_Markham_1936.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Beryl_Markham"
 lastUpdated: "2026-03-12"

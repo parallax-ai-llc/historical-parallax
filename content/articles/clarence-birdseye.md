@@ -5,7 +5,7 @@ birth: "1886-12-09"
 death: "1956-10-07"
 nationality: "American"
 occupation: ["Entrepreneur", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Clarence_Birdseye_1930.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clarence_Birdseye"
 lastUpdated: "2026-02-21"

@@ -6,7 +6,7 @@ location: "Buckinghamshire, England"
 coordinates: [-0.835, 51.85]
 category: ["Crime", "United Kingdom"]
 outcome: "15 men convicted; £2.6 million stolen"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Train_Robbers%27_Bridge.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Great_Train_Robbery_(1963)"
 lastUpdated: "2026-02-26"

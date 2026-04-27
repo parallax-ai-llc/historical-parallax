@@ -5,7 +5,7 @@ birth: "1843-11-27"
 death: "1899-09-12"
 nationality: "American"
 occupation: ["Financier", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Cornelius_Vanderbilt_II_by_John_Singer_Sargent_%281856-1925%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_II"
 lastUpdated: "2026-02-21"

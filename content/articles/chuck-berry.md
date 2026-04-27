@@ -5,7 +5,7 @@ birth: "1926-10-18"
 death: "2017-03-18"
 nationality: "American"
 occupation: ["Singer", "Songwriter", "Guitarist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Chuck_Berry_1957.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chuck_Berry"
 lastUpdated: "2026-02-21"

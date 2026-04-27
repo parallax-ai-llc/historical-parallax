@@ -5,7 +5,7 @@ birth: "1936-08-20"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Chemist", "Nobel laureate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hideki_Shirakawa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hideki_Shirakawa"
 lastUpdated: "2026-02-21"

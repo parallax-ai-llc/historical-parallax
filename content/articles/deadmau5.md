@@ -5,7 +5,7 @@ birth: "1981-01-05"
 death: ""
 nationality: "Canadian"
 occupation: ["Electronic Music Producer", "DJ"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Deadmau5_Belknap_Park_2023_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Deadmau5"
 lastUpdated: "2026-03-18"

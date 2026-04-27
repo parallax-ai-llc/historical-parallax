@@ -3,6 +3,7 @@ name: "David Byrne"
 birth: "1952-05-14"
 nationality: "Scottish-American"
 occupation: ["Musician", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/David_Byrne_San_Diego.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_Byrne"
 lastUpdated: "2026-03-12"

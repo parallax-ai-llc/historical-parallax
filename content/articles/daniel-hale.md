@@ -5,7 +5,7 @@ birth: "1988-05-04"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Daniel_Everette_Hale_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Hale"
 lastUpdated: "2026-02-26"

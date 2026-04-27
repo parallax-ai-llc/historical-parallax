@@ -3,6 +3,7 @@ name: "Tyler, the Creator"
 birth: "1991-03-06"
 nationality: "American"
 occupation: ["Rapper", "Producer", "Fashion Designer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Tyler_the_Creator_%2852163761341%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tyler,_the_Creator"
 lastUpdated: "2026-03-12"

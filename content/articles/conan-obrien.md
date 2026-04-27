@@ -3,6 +3,7 @@ name: "Conan O'Brien"
 birth: "1963-04-18"
 nationality: "American"
 occupation: ["TV Host", "Comedian", "Writer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Conan_O%27Brien_at_the_2025_Sundance_Film_Festival_03_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Conan_O%27Brien"
 lastUpdated: "2026-03-12"

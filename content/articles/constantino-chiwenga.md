@@ -5,7 +5,7 @@ birth: "1956-08-25"
 death: "Unknown"
 nationality: "Zimbabwe"
 occupation: ["Coup Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE_%D0%A7%D0%B8%D0%B2%D0%B5%D0%BD%D0%B3%D0%BE_%2821-02-2024%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Constantino_Chiwenga"
 lastUpdated: "2026-02-26"

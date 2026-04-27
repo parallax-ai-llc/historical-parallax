@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "N/A"
 nationality: "Tibetan-Nepali"
 occupation: ["Buddhist Teacher", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Yongey-Mingyur-Rinpoche-in-2016.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yongey_Mingyur_Rinpoche"
 lastUpdated: "2026-02-21"

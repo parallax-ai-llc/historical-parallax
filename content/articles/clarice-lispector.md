@@ -5,7 +5,7 @@ birth: "1920-12-10"
 death: "1977-12-09"
 nationality: "Brazilian"
 occupation: ["Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Clarice_Lispector_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clarice_Lispector"
 lastUpdated: "2026-02-26"

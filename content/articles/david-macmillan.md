@@ -5,7 +5,7 @@ birth: "1968-03-16"
 death: "Unknown"
 nationality: "British-American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/David_MacMillan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/David_MacMillan"
 lastUpdated: "2026-02-21"

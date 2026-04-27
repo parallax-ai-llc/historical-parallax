@@ -5,7 +5,7 @@ birth: "1834-07-11"
 death: "1903-07-17"
 nationality: "American"
 occupation: ["Painter", "Printmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Whistler_Selbstportr%C3%A4t.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Abbott_McNeill_Whistler"
 lastUpdated: "2026-02-21"

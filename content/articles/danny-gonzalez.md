@@ -3,6 +3,7 @@ name: "Danny Gonzalez"
 birth: "1994-06-12"
 nationality: "American"
 occupation: ["YouTuber", "Singer", "Comedian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Danny_Gonzalez_-_I_Exposed_the_World%27s_Most_EVIL_Babysitter%21_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Danny_Gonzalez_(YouTuber)"
 lastUpdated: "2026-03-12"

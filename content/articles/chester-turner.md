@@ -5,7 +5,7 @@ birth: "1966-05-11"
 death: "N/A (Death Row)"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/51/ChesterDTurner.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chester_Turner"
 lastUpdated: "2026-02-21"

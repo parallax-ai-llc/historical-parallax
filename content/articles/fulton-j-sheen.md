@@ -5,7 +5,7 @@ birth: "1895-05-08"
 death: "1979-12-09"
 nationality: "American"
 occupation: ["Bishop", "Author", "Televangelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Fulton_J._Sheen_NYWTS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fulton_J._Sheen"
 lastUpdated: "2026-02-21"

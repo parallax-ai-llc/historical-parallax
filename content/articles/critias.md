@@ -5,7 +5,7 @@ birth: "-460-01-01"
 death: "-403-01-01"
 nationality: "Ancient Greece"
 occupation: ["Tyrant", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Critias_Lineage.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Critias"
 lastUpdated: "2026-02-26"

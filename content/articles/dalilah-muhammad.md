@@ -5,7 +5,7 @@ birth: "1990-02-07"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Hurdler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dalilah_Muhammad_%28USA%29_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dalilah_Muhammad"
 lastUpdated: "2026-02-26"

@@ -3,6 +3,7 @@ name: "King Felipe VI"
 birth: "1968-01-30"
 nationality: "Spanish"
 occupation: ["Monarch", "King", "Former Olympian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Presidente_Bernardo_Ar%C3%A9valo_particip%C3%B3_en_la_Organizaci%C3%B3n_de_las_Naciones_Unidas_%28ONU%29_%2854809860529%29_-_Felipe_VI.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Felipe_VI_of_Spain"
 lastUpdated: "2026-03-12"

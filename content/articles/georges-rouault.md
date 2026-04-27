@@ -5,7 +5,7 @@ birth: "1871-05-27"
 death: "1958-02-13"
 nationality: "French"
 occupation: ["Painter", "Printmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Georges_Rouault.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Georges_Rouault"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Sri Lanka"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a6/Ltte_emblem.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/LTTE"
 lastUpdated: "2026-02-26"

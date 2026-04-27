@@ -3,6 +3,7 @@ name: "Cindy Crawford"
 birth: "1966-02-20"
 nationality: "American"
 occupation: ["Fashion Model", "Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Cindy_Crawford_at_WWD_Style_Awards_2026.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cindy_Crawford"
 lastUpdated: "2026-03-12"

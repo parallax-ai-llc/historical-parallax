@@ -5,7 +5,7 @@ birth: "1952-09-10"
 death: "Unknown"
 nationality: "Nigeria"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Muhammad_Damjuma_Goje.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Danjuma_Goje"
 lastUpdated: "2026-02-26"

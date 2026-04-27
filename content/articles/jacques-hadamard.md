@@ -5,7 +5,7 @@ birth: "1865-12-08"
 death: "1963-10-17"
 nationality: "French"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hadamard2_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jacques_Hadamard"
 lastUpdated: "2026-02-21"

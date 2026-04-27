@@ -5,7 +5,7 @@ birth: "1805-07-05"
 death: "1865-04-30"
 nationality: "British"
 occupation: ["Meteorologist", "Naval Officer", "Hydrographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/RobertFitzroy_sm.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_FitzRoy"
 lastUpdated: "2026-02-21"

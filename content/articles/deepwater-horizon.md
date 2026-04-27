@@ -5,7 +5,7 @@ birth: "2010-04-20"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Environmental Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e0/Deepwater_Horizon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Deepwater_Horizon"
 lastUpdated: "2026-02-26"

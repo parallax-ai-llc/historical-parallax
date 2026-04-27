@@ -5,7 +5,7 @@ birth: "1906-02-04"
 death: "1997-01-17"
 nationality: "American"
 occupation: ["Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Clyde_W._Tombaugh.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clyde_Tombaugh"
 lastUpdated: "2026-02-21"

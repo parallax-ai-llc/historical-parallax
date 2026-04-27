@@ -3,6 +3,7 @@ name: "Colton Herta"
 birth: "2000-03-30"
 nationality: "American"
 occupation: ["Racing Driver", "IndyCar Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Colton_Herta_%282021%29.jpg/3840px-Colton_Herta_%282021%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Colton_Herta"
 lastUpdated: "2026-03-12"

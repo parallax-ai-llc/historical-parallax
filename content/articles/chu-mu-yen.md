@@ -5,7 +5,7 @@ birth: "1975-01-01"
 death: "Unknown"
 nationality: "Taiwanese"
 occupation: ["Athlete", "Olympic Champion", "Taekwondo"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/AdidasRunFor2008OlympicsInTaiwan_Mu-yen_Chu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chu_Mu-yen"
 lastUpdated: "2026-02-26"

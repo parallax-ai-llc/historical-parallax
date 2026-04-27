@@ -5,7 +5,7 @@ birth: "1935-12-26"
 death: "2005-02-05"
 nationality: "Togo"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Gnassingbe_Eyadema_detail1_DF-SC-84-10025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gnassingb%C3%A9_Eyad%C3%A9ma"
 lastUpdated: "2026-02-21"

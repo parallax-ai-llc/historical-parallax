@@ -3,6 +3,7 @@ name: "Travis Scott"
 birth: "1991-04-30"
 nationality: "American"
 occupation: ["Rapper", "Singer", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/2025-0120_Cole_Gahagan_Michael_Rubin_Travis_Scott_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Travis_Scott"
 lastUpdated: "2026-03-12"

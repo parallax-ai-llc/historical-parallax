@@ -5,7 +5,7 @@ birth: "1923-11-08"
 death: "2005-06-20"
 nationality: "American"
 occupation: ["Electrical Engineer", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Jack_Kilby_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jack_Kilby"
 lastUpdated: "2026-02-21"

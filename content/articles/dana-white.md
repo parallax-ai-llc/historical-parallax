@@ -5,7 +5,7 @@ birth: "1969-07-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Sports Executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dana_White_in_June_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dana_White"
 lastUpdated: "2026-02-21"

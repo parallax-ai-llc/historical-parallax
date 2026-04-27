@@ -5,7 +5,7 @@ birth: "-93-01-01"
 death: "-52-01-01"
 nationality: "Roman Republic"
 occupation: ["Political Criminal", "Gang Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/PClodius.imaginesillvstri00fulv_0026.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Clodius_Pulcher"
 lastUpdated: "2026-02-26"

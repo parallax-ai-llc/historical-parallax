@@ -5,7 +5,7 @@ birth: "1946-10-14"
 death: "Unknown"
 nationality: "American"
 occupation: ["Biologist", "Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Craigventer2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Craig_Venter"
 lastUpdated: "2026-02-21"

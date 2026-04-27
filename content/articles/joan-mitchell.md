@@ -5,7 +5,7 @@ birth: "1925-02-12"
 death: "1992-10-30"
 nationality: "American"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/7/76/Joan_Mitchell_in_her_V%C3%A9theuil_studio%2C_1983.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joan_Mitchell"
 lastUpdated: "2026-02-21"

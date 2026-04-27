@@ -5,7 +5,7 @@ birth: "1923-09-24"
 death: "2005-12-20"
 nationality: "Hungarian-American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Raoul_Bott_1986_%28rescanned_B%2C_headshot%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Raoul_Bott"
 lastUpdated: "2026-02-26"

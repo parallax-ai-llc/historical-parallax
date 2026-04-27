@@ -5,7 +5,7 @@ birth: "1945-02-04"
 death: "1945-02-11"
 nationality: "Soviet Union"
 occupation: ["Historical Event", "Treaty", "Diplomacy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yalta_Conference"
 lastUpdated: "2026-02-21"

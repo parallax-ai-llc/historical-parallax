@@ -3,6 +3,7 @@ name: "Coralie Fargeat"
 birth: "1976-06-14"
 nationality: "French"
 occupation: ["Film Director", "Screenwriter", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Coralie_Fargeat-2207.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Coralie_Fargeat"
 lastUpdated: "2026-03-12"

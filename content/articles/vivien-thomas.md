@@ -5,7 +5,7 @@ birth: "1910-08-29"
 death: "1985-11-26"
 nationality: "American"
 occupation: ["Surgical Technician", "Researcher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e6/Vivien_T._Thomas_%28portrait_by_Bob_Gee%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vivien_Thomas"
 lastUpdated: "2026-02-21"

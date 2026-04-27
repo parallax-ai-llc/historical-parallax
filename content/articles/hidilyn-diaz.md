@@ -5,7 +5,7 @@ birth: "1991-02-20"
 death: "Unknown"
 nationality: "Filipino"
 occupation: ["Athlete", "Olympic Champion", "Weightlifter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hidilyn_Diaz_with_her_gold_medal_2021_%281-44_screenshot%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hidilyn_Diaz"
 lastUpdated: "2026-02-26"

@@ -6,7 +6,7 @@ location: "Portland to Seattle, United States"
 coordinates: [-122.6, 45.5]
 category: ["Crime", "United States"]
 outcome: "Hijacker parachuted with $200,000; never found"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/CompositeB-FBI-1973.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/D._B._Cooper"
 lastUpdated: "2026-02-26"

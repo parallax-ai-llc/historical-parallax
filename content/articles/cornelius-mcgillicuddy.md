@@ -5,7 +5,7 @@ birth: "1862-12-22"
 death: "1956-02-08"
 nationality: "American"
 occupation: ["Baseball Manager"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Connie_Mack_Portrait_%284x5_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelius_McGillicuddy"
 lastUpdated: "2026-02-26"

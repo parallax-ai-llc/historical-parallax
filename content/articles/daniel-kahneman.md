@@ -4,6 +4,7 @@ birth: "1934-03-05"
 death: "2024-03-27"
 nationality: "Israeli-American"
 occupation: ["Psychologist", "Economist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Daniel_Kahneman_%283283955327%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Kahneman"
 lastUpdated: "2026-03-12"

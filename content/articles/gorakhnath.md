@@ -5,7 +5,7 @@ birth: "1000-01-01"
 death: "1100-01-01"
 nationality: "Indian"
 occupation: ["Yogi", "Saint", "Philosopher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Gorakshanath.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gorakhnath"
 lastUpdated: "2026-02-21"

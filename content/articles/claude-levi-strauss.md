@@ -4,6 +4,7 @@ birth: "1908-11-28"
 death: "2009-10-30"
 nationality: "French"
 occupation: ["Anthropologist", "Ethnologist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Levi-strauss_260_%28cropped2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss"
 lastUpdated: "2026-03-12"

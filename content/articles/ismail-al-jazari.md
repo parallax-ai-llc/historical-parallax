@@ -5,7 +5,7 @@ birth: "1136-01-01"
 death: "1206-01-01"
 nationality: "Arab"
 occupation: ["Engineer", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ismail_al_jazari.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ismail_al-Jazari"
 lastUpdated: "2026-02-26"

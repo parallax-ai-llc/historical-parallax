@@ -5,7 +5,7 @@ birth: "1894-01-10"
 death: "1894-12-01"
 nationality: "Korea"
 occupation: ["Historical Event", "Revolution", "Korean History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Jeon_Bong-jun.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Donghak_Peasant_Revolution"
 lastUpdated: "2026-02-21"

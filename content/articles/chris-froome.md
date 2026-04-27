@@ -5,7 +5,7 @@ birth: "1985-05-20"
 death: "Unknown"
 nationality: "British/Kenyan"
 occupation: ["Athlete", "Cyclist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Chris_Froome_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chris_Froome"
 lastUpdated: "2026-02-26"

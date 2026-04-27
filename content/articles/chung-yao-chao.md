@@ -5,7 +5,7 @@ birth: "1902-06-27"
 death: "1998-05-28"
 nationality: "Chinese"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/%E8%B6%99%E5%BF%A0%E5%A0%AF.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung-Yao_Chao"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1890-02-10"
 death: "1918-09-03"
 nationality: "Russia"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/%D0%A4%D0%B0%D0%BD%D0%BD%D0%B8_%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0_%D0%9A%D0%B0%D0%BF%D0%BB%D0%B0%D0%BD.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Fanny_Kaplan"
 lastUpdated: "2026-02-26"

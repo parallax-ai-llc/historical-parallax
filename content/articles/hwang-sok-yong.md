@@ -5,7 +5,7 @@ birth: "1943-01-04"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Hwangsokyoung2014.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hwang_Sok-yong"
 lastUpdated: "2026-02-21"

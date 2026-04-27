@@ -5,7 +5,7 @@ birth: "1959-11-13"
 death: "1996-08-02"
 nationality: "Russia"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/38/Sergey_Golovkin_%28murderer%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergey_Golovkin"
 lastUpdated: "2026-02-26"

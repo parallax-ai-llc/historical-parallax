@@ -5,7 +5,7 @@ birth: "0521-12-07"
 death: "0597-06-09"
 nationality: "Irish"
 occupation: ["Abbot", "Missionary", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Columba_at_Bridei%27s_fort.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Columba"
 lastUpdated: "2026-02-21"

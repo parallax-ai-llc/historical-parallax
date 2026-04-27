@@ -3,6 +3,7 @@ name: "Future"
 birth: "1983-11-20"
 nationality: "American"
 occupation: ["Rapper", "Singer", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Future_-_Openair_Frauenfeld_2019_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Future_(rapper)"
 lastUpdated: "2026-03-12"

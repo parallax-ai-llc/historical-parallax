@@ -5,7 +5,7 @@ birth: "1988-07-14"
 death: "Unknown"
 nationality: "Irish"
 occupation: ["Athlete", "MMA Fighter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Conor_McGregor_2025.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Conor_McGregor"
 lastUpdated: "2026-02-26"

@@ -5,7 +5,7 @@ birth: "1956-11-06"
 death: "N/A (Imprisoned)"
 nationality: "Belgium"
 occupation: ["Serial Killer", "Child Rapist", "Kidnapper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pencil_sketch_of_Marc_Dutroux.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marc_Dutroux"
 lastUpdated: "2026-02-21"

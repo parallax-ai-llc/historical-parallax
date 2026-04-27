@@ -5,7 +5,7 @@ birth: "1700-02-08"
 death: "1782-03-17"
 nationality: "Swiss"
 occupation: ["Mathematician", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Daniel_Bernoulli"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1867-10-03"
 death: "1947-01-23"
 nationality: "French"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/T%C3%AAte_de_Bonnard_%28Portrait_photograph_of_Pierre_Bonnard%29%2C_c.1899%2C_Mus%C3%A9e_d%27Orsay%2C_restaur%C3%A9e.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pierre_Bonnard"
 lastUpdated: "2026-02-21"

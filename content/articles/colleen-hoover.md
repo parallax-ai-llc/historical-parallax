@@ -3,6 +3,7 @@ name: "Colleen Hoover"
 birth: "1979-12-11"
 nationality: "American"
 occupation: ["Author", "Novelist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Colleen_Hoover_Video_Call.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Colleen_Hoover"
 lastUpdated: "2026-03-12"

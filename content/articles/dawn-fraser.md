@@ -5,7 +5,7 @@ birth: "1937-09-04"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Dawn_Fraser.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dawn_Fraser"
 lastUpdated: "2026-02-26"

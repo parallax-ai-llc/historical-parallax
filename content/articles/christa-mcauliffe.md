@@ -5,7 +5,7 @@ birth: "1948-09-02"
 death: "1986-01-28"
 nationality: "American"
 occupation: ["Teacher", "Astronaut"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/ChristaMcAuliffe_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christa_McAuliffe"
 lastUpdated: "2026-02-26"
