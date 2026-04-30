@@ -47,7 +47,7 @@ Accounts of Abubakar’s legacy tend to split between:
 
 After leaving office, he has remained a visible elder statesman figure in Nigerian public life and is sometimes referenced in peacebuilding and mediation contexts.
 
-## References
+
 
 [^1]: Wikipedia, "Abdulsalami Abubakar" - https://en.wikipedia.org/wiki/Abdulsalami_Abubakar
 
@@ -70,3 +70,6 @@ After leaving office, he has remained a visible elder statesman figure in Nigeri
 - Former heads of state in Nigeria frequently remain politically relevant as intermediaries, patrons, or elder statesmen.
 - Such figures may be asked to participate in mediation, regional diplomacy, or domestic peacebuilding initiatives.
 - Public perceptions can shift over time, with reputations reassessed in light of later political developments.
+
+
+## References

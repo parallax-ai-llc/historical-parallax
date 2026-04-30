@@ -21,7 +21,7 @@ Hook-handed radical cleric convicted of terrorism charges in the US after preach
 |------|-------|
 | 2014 | Convicted of terrorism in US |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Hamza al-Masri" - https://en.wikipedia.org/wiki/Abu_Hamza_al-Masri
 
@@ -57,3 +57,6 @@ Hook-handed radical cleric convicted of terrorism charges in the US after preach
 
 - **Finsbury Park Mosque** (context for the London period and later reforms)[^1]
 - **UK counterterrorism policy in the 2000s** (public debates on speech, incitement, and security)
+
+
+## References

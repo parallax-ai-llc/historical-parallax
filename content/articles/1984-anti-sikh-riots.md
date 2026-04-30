@@ -23,7 +23,7 @@ Organized massacre of Sikhs across India following Indira Gandhis assassination.
 | 1984 | 3,000+ Sikhs killed in Delhi |
 | 2018 | First conviction of Congress leader |
 
-## References
+
 
 [^1]: Wikipedia, "1984 Anti-Sikh Riots" - https://en.wikipedia.org/wiki/1984_Anti-Sikh_Riots
 
@@ -52,3 +52,6 @@ Public investigations and reporting often describe:
 ## Memory and commemoration
 
 The riots remain a sensitive subject in Indian public life, with ongoing discussion in politics, civil society, and diaspora communities.
+
+
+## References

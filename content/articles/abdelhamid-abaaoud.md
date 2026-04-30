@@ -40,7 +40,7 @@ Abdelhamid Abaaoud was the suspected mastermind of the November 2015 Paris attac
 - **ISIS (Islamic State)**
 - French counterterrorism police and investigating magistrates (case-linked)
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: https://en.wikipedia.org/wiki/Abdelhamid_Abaaoud
 [^3]: https://en.wikipedia.org/wiki/November_2015_Paris_attacks
@@ -66,3 +66,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

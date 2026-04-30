@@ -22,7 +22,7 @@ Former President of Senegal whose administration was marked by corruption and ne
 | 2000 | Became President of Senegal |
 | 2012 | Lost re-election amid corruption allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Abdoulaye Wade" - https://en.wikipedia.org/wiki/Abdoulaye_Wade
 
@@ -70,3 +70,6 @@ If such primary documentation is not available in the reference list, it is safe
 - Senegal politics (post-independence)
 - Presidential term limits and constitutional review
 - Governance, patronage networks, and public-works controversies
+
+
+## References

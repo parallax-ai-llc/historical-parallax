@@ -21,7 +21,7 @@ Brother of Toulouse terrorist Mohamed Merah convicted of criminal association wi
 |------|-------|
 | 2019 | Convicted of terrorist association |
 
-## References
+
 
 [^1]: Wikipedia / Toulouse and Montauban shootings (mentions subsequent convictions) - https://en.wikipedia.org/wiki/Toulouse_and_Montauban_shootings
 
@@ -57,3 +57,6 @@ Brother of Toulouse terrorist Mohamed Merah convicted of criminal association wi
 ## References (additional)
 
 [^2]: Wikipedia, "Toulouse and Montauban shootings" (case overview; notes convictions of associated individuals) - https://en.wikipedia.org/wiki/Toulouse_and_Montauban_shootings
+
+
+## References

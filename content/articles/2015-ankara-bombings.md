@@ -21,7 +21,7 @@ Two suicide bombs exploded at a peace rally in Ankara killing 109 people, the de
 |------|-------|
 | 2015 | 109 killed in twin suicide bombings |
 
-## References
+
 
 [^1]: Wikipedia, "2015 Ankara Bombings" - https://en.wikipedia.org/wiki/2015_Ankara_Bombings
 
@@ -62,3 +62,6 @@ Two suicide bombs exploded at a peace rally in Ankara killing 109 people, the de
 - Terrorism in Turkey (2010s)
 - ISIS/ISIL activity and recruitment networks in the region
 - Turkish domestic politics and security policy during the 2015 election cycle
+
+
+## References

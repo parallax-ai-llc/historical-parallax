@@ -23,7 +23,7 @@ Systematic torture and abuse of Iraqi prisoners by US military personnel at Abu 
 | 2004 | Photographs leaked |
 | 2005 | Soldiers convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Ghraib Torture" - https://en.wikipedia.org/wiki/Abu_Ghraib_Torture
 
@@ -50,3 +50,6 @@ Abu Ghraib became a defining symbol of the Iraq War for many observers and was c
 - Iraq War detention and interrogation controversies
 - Taguba Report
 - Geneva Conventions and treatment of prisoners
+
+
+## References

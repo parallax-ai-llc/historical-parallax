@@ -22,7 +22,7 @@ Leak of methyl isocyanate gas from Union Carbide's pesticide plant in Bhopal kil
 | 1984 | Gas leak killed thousands in Bhopal |
 | 2010 | Indian court convicted seven former employees |
 
-## References
+
 
 [^1]: Wikipedia, "1984 Bhopal Gas Tragedy" - https://en.wikipedia.org/wiki/1984_Bhopal_Gas_Tragedy
 
@@ -60,3 +60,6 @@ Accounts and investigations commonly point to a combination of issues rather tha
 ## Legacy
 
 The Bhopal disaster is frequently cited in industrial safety, chemical plant regulation, and corporate accountability discussions worldwide. It also influenced emergency planning practices and community-right-to-know movements related to hazardous industrial facilities.
+
+
+## References

@@ -41,7 +41,7 @@ The conviction has remained controversial, with critics questioning aspects of e
 
 In 2009, Megrahi was released from prison on compassionate grounds due to terminal illness. The decision was politically contentious, generating strong reactions among victims’ families and international officials and sparking continued controversy over accountability and justice.
 
-## References
+
 
 [^1]: Wikipedia, "Abdelbaset al-Megrahi" - https://en.wikipedia.org/wiki/Abdelbaset_al-Megrahi
 
@@ -50,3 +50,6 @@ In 2009, Megrahi was released from prison on compassionate grounds due to termin
 - Pan Am Flight 103 investigation and international counterterrorism cooperation
 - Scottish criminal procedure and the Camp Zeist court arrangement
 - Diplomatic disputes and sanctions involving Libya in the 1990s
+
+
+## References

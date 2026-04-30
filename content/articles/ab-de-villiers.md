@@ -23,7 +23,7 @@ AB de Villiers was called 'Mr. 360' for his ability to hit the ball anywhere. He
 | 2015 | Scored fastest ODI century in 31 balls |
 | 2018 | Retired from international cricket |
 
-## References
+
 
 [^1]: Wikipedia, "AB de Villiers" - https://en.wikipedia.org/wiki/AB_de_Villiers
 
@@ -53,3 +53,6 @@ The nickname reflects:
 ## Legacy
 
 De Villiers is frequently cited as an influence on later generations of batters who emphasize range, creativity, and high-tempo scoring.
+
+
+## References

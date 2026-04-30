@@ -24,7 +24,7 @@ Pakistani neuroscientist convicted of attempting to murder US soldiers and FBI a
 | 2010 | Convicted and sentenced to 86 years |
 | 2022 | Hostage-taker at Texas synagogue demanded her release |
 
-## References
+
 
 [^1]: Wikipedia, "Aafia Siddiqui" - https://en.wikipedia.org/wiki/Aafia_Siddiqui
 
@@ -49,3 +49,6 @@ Siddiqui’s imprisonment has become a prominent political issue in Pakistan and
 ## Notes
 
 Because of the politicized nature of the case, descriptions of Siddiqui in media and activist materials can be highly polarized; careful sourcing is important when summarizing claims beyond the court outcome.
+
+
+## References

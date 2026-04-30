@@ -21,7 +21,7 @@ Indian businessman behind India's largest bank fraud of $3.5 billion at ABG Ship
 |------|-------|
 | 2022 | Charged with India's largest bank fraud |
 
-## References
+
 
 [^1]: Wikipedia, "ABG Shipyard Rishi Agarwal" - https://en.wikipedia.org/wiki/ABG_Shipyard_Rishi_Agarwal
 
@@ -76,3 +76,6 @@ Because naming, roles, and procedural details vary by source and can change as p
 
 - Major Indian news outlets' explainers on the ABG Shipyard bank-fraud allegations (case background, timeline, banks involved).
 - Official releases/briefs from investigating agencies when available (charges, arrests, attachments).
+
+
+## References

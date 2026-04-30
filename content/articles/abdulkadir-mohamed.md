@@ -21,7 +21,7 @@ Swedish-Somali gang leader involved in the deadly gang conflicts in Stockholm su
 |------|-------|
 | 2019 | Major gang figure in Stockholm |
 
-## References
+
 
 [^1]: Wikipedia, "Abdulkadir Mohamed" - https://en.wikipedia.org/wiki/Abdulkadir_Mohamed
 
@@ -53,3 +53,6 @@ If more reliable reporting or official documentation becomes available, it shoul
 ## Source Note
 
 - The Wikipedia URL in the frontmatter/references may not always resolve to an active article (Wikipedia pages can be renamed, merged, or deleted). Treat it as a starting point and verify via additional sources.
+
+
+## References

@@ -22,7 +22,7 @@ Brazilian senator and former presidential candidate caught on audio asking for R
 | 2017 | Audio of bribe request leaked |
 | 2019 | Charged with corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Aécio Neves" - https://en.wikipedia.org/wiki/A%C3%A9cio_Neves
 
@@ -66,3 +66,6 @@ The summary figure “R$2 million” is usually reported in Brazilian reals (BRL
 ## Additional References
 
 [^2]: Background on the Brazilian Social Democracy Party (PSDB): https://en.wikipedia.org/wiki/Brazilian_Social_Democracy_Party
+
+
+## References

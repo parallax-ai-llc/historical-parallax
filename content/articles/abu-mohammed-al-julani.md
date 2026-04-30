@@ -24,7 +24,7 @@ Syrian militant who founded Jabhat al-Nusra (al-Qaeda's Syria branch) then rebra
 | 2024 | Led offensive that toppled Assad |
 | 2024 | Became Syria's de facto leader |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Mohammed al-Julani" - https://en.wikipedia.org/wiki/Abu_Mohammed_al-Julani
 
@@ -48,3 +48,6 @@ Syrian militant who founded Jabhat al-Nusra (al-Qaeda's Syria branch) then rebra
 - Wikipedia entry linked above (overview and citations).
 - Contemporary news reporting and court documents where available.
 - Academic or policy analyses for historical and political context.
+
+
+## References

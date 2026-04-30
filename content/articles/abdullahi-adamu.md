@@ -48,7 +48,7 @@ Former Nigerian governor of Nasarawa State convicted of misappropriating billion
 - Politics of Nigeria
 - Economic and Financial Crimes Commission (EFCC)
 
-## References
+
 
 [^1]: Wikipedia, "Abdullahi Adamu" - https://en.wikipedia.org/wiki/Abdullahi_Adamu
 
@@ -71,3 +71,6 @@ Former Nigerian governor of Nasarawa State convicted of misappropriating billion
 - Appointment of officials with reputational controversies can become a proxy debate about impunity and reform.
 - Conversely, supporters may frame such figures as experienced administrators targeted for political reasons.
 - These competing frames are common in competitive-party systems where anti-corruption rhetoric is politically salient.
+
+
+## References

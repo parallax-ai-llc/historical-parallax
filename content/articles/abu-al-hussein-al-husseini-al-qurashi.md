@@ -21,7 +21,7 @@ ISIS leader killed in a Turkish operation in Syria after brief tenure.
 |------|-------|
 | 2023 | Killed in Turkish operation |
 
-## References
+
 
 [^1]: Wikipedia, "Abu al-Hussein al-Husseini al-Qurashi" - https://en.wikipedia.org/wiki/Abu_al-Hussein_al-Husseini_al-Qurashi
 
@@ -54,3 +54,6 @@ ISIS leader killed in a Turkish operation in Syria after brief tenure.
 ## References (additional)
 
 [^2]: Wikipedia (overview and citations), see page history and referenced reporting: https://en.wikipedia.org/wiki/Abu_al-Hussein_al-Husseini_al-Qurashi
+
+
+## References

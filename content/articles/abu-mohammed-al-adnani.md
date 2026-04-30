@@ -24,7 +24,7 @@ Syrian ISIS spokesman and senior leader who called for lone-wolf attacks against
 | 2014 | Called for lone-wolf attacks in Western countries |
 | 2016 | Killed in US airstrike near al-Bab, Aleppo |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Mohammed al-Adnani" - https://en.wikipedia.org/wiki/Abu_Mohammed_al-Adnani
 ## Role in ISIS Propaganda
@@ -48,3 +48,6 @@ Al-Adnani was killed in 2016 near al-Bab in northern Syria. Different actors att
 This article is intentionally high-level and can be extended with more primary sources and date-verified details.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
+
+
+## References

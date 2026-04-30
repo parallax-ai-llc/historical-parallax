@@ -24,7 +24,7 @@ Indian gangster and hitman for Dawood Ibrahim's D-Company who was involved in th
 | 2005 | Extradited to India |
 | 2017 | Convicted; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Salem" - https://en.wikipedia.org/wiki/Abu_Salem
 
@@ -48,3 +48,6 @@ Indian gangster and hitman for Dawood Ibrahim's D-Company who was involved in th
 - Wikipedia entry linked above (overview and citations).
 - Contemporary news reporting and court documents where available.
 - Academic or policy analyses for historical and political context.
+
+
+## References

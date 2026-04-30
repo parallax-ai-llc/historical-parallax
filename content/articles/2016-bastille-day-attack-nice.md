@@ -21,7 +21,7 @@ Mohamed Lahouaiej-Bouhlel drove a 19-ton truck into Bastille Day crowds on the P
 |------|-------|
 | 2016 | 86 killed by truck attack |
 
-## References
+
 
 [^1]: Wikipedia, "2016 Bastille Day Attack Nice" - https://en.wikipedia.org/wiki/2016_Bastille_Day_Attack_Nice
 
@@ -76,3 +76,6 @@ Mohamed Lahouaiej-Bouhlel drove a 19-ton truck into Bastille Day crowds on the P
 - Vehicle-ramming attacks
 - Counterterrorism in France (2010s)
 - Public-event security planning
+
+
+## References

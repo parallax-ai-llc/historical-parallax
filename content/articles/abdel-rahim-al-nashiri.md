@@ -21,7 +21,7 @@ Al-Qaeda operative who masterminded the USS Cole bombing that killed 17 US sailo
 |------|-------|
 | 2000 | Masterminded USS Cole bombing |
 
-## References
+
 
 [^1]: Wikipedia, "Abdel Rahim al-Nashiri" - https://en.wikipedia.org/wiki/Abdel_Rahim_al-Nashiri
 
@@ -70,3 +70,6 @@ In high-level historical terms, his case is often cited as:
 - Guantánamo Bay detention camp
 - U.S. military commissions
 - Al-Qaeda
+
+
+## References

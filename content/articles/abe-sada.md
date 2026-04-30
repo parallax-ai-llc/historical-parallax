@@ -23,7 +23,7 @@ Japanese woman who murdered her lover Kichizo Ishida by strangulation during ero
 | 1936 | Arrested carrying severed body parts |
 | 1936 | Convicted; sentenced to 6 years; served 5 |
 
-## References
+
 
 [^1]: Wikipedia, "Abe Sada" - https://en.wikipedia.org/wiki/Abe_Sada
 
@@ -49,3 +49,6 @@ Abe was convicted and served a prison sentence. After her release, public intere
 ## Notes on Sources
 
 Most concise summaries rely on contemporary reporting and later retellings; the Wikipedia entry cited above aggregates these accounts.
+
+
+## References

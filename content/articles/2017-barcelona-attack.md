@@ -21,7 +21,7 @@ ISIS-inspired cell drove a van into pedestrians on Las Ramblas in Barcelona, kil
 |------|-------|
 | 2017 | 16 killed in van attack |
 
-## References
+
 
 [^1]: Wikipedia, "2017 Barcelona Attack" - https://en.wikipedia.org/wiki/2017_Barcelona_Attack
 
@@ -58,3 +58,6 @@ ISIS-inspired cell drove a van into pedestrians on Las Ramblas in Barcelona, kil
 - Disrupted plots (e.g., accidental explosions) can still culminate in rapid, improvised attacks.
 
 [^2]: Wikipedia, "2017 Barcelona attacks" - https://en.wikipedia.org/wiki/2017_Barcelona_attacks
+
+
+## References

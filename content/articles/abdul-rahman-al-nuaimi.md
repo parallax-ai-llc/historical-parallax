@@ -21,7 +21,7 @@ Qatari professor designated by the US for transferring millions to al-Qaeda affi
 |------|-------|
 | 2013 | Designated as terrorism financier |
 
-## References
+
 
 [^1]: Wikipedia, "Abdul Rahman al-Nuaimi" - https://en.wikipedia.org/wiki/Abdul_Rahman_al-Nuaimi
 
@@ -65,3 +65,6 @@ This short profile is intentionally high-level. For a compliance or investigativ
 - Terrorism financing
 - Office of Foreign Assets Control (OFAC)
 - Sanctions screening
+
+
+## References

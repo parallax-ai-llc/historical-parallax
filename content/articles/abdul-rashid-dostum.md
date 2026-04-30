@@ -24,7 +24,7 @@ Afghan warlord and vice president accused of overseeing the Dasht-i-Leili massac
 | 2014 | Became Vice President of Afghanistan |
 | 2021 | Fled to Uzbekistan as Taliban took power |
 
-## References
+
 
 [^1]: Wikipedia, "Abdul Rashid Dostum" - https://en.wikipedia.org/wiki/Abdul_Rashid_Dostum
 
@@ -60,3 +60,6 @@ Abdul Rashid Dostum (born 1954) is an Afghan political and military figure of Uz
 ## Significance
 
 Dostum is frequently referenced as an example of how wartime commanders transitioned into formal politics, illustrating the complex blend of patronage, security, and electoral dynamics in Afghanistan.
+
+
+## References

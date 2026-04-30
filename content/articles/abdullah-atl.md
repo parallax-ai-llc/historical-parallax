@@ -21,7 +21,7 @@ Turkish ultranationalist hitman whose death in a car crash exposed deep state ti
 |------|-------|
 | 1996 | Killed in Susurluk incident |
 
-## References
+
 
 [^1]: Wikipedia, "Abdullah Çatlı" - https://en.wikipedia.org/wiki/Abdullah_%C3%87atl%C4%B1
 
@@ -70,3 +70,6 @@ The details vary by source, but major themes frequently associated with Çatlı 
 - Contemporary journalism and parliamentary/official inquiries into the Susurluk scandal (for timelines and named actors)
 - Academic work on Turkey’s security state, political violence (1970s–1990s), and organized crime
 
+
+
+## References

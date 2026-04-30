@@ -23,7 +23,7 @@ Kurdish militant leader who founded the PKK and waged an insurgency against Turk
 | 1984 | Launched armed insurgency |
 | 1999 | Captured in Kenya |
 
-## References
+
 
 [^1]: Wikipedia, "Abdullah Ocalan" - https://en.wikipedia.org/wiki/Abdullah_Ocalan
 
@@ -50,3 +50,6 @@ The conflict between the PKK and the Turkish state has included cycles of insurg
 - Kurdistan Workers' Party (PKK)
 - Kurdish–Turkish conflict
 - Imrali Prison
+
+
+## References

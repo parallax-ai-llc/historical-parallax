@@ -21,7 +21,7 @@ Uzbek ISIS terrorist who killed 39 people at Istanbul's Reina nightclub on New Y
 |------|-------|
 | 2017 | Committed Istanbul nightclub massacre |
 
-## References
+
 
 [^1]: Wikipedia, "Abdulkadir Masharipov" - https://en.wikipedia.org/wiki/Abdulkadir_Masharipov
 
@@ -64,3 +64,6 @@ Uzbek ISIS terrorist who killed 39 people at Istanbul's Reina nightclub on New Y
 ## Additional References
 
 [^2]: Britannica (biographical entry, overview) - https://www.britannica.com/biography/Abdulkadir-Masharipov
+
+
+## References

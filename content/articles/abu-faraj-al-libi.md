@@ -21,7 +21,7 @@ Al-Qaeda operations chief captured in Pakistan who helped lead the hunt for bin 
 |------|-------|
 | 2005 | Captured in Pakistan |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Faraj al-Libi" - https://en.wikipedia.org/wiki/Abu_Faraj_al-Libi
 
@@ -62,3 +62,6 @@ Al-Qaeda operations chief captured in Pakistan who helped lead the hunt for bin 
 - Osama bin Laden
 - Khalid Sheikh Mohammed
 - Guantánamo Bay detention camp
+
+
+## References

@@ -24,7 +24,7 @@ Ethiopian PM and Nobel Peace Prize laureate whose government waged a devastating
 | 2022 | Ceasefire agreement signed |
 | 2023 | Estimated 600,000 dead from Tigray war |
 
-## References
+
 
 [^1]: Wikipedia, "Abiy Ahmed" - https://en.wikipedia.org/wiki/Abiy_Ahmed
 ## Early Career
@@ -48,3 +48,6 @@ Abiy’s tenure has been characterized by a sharp contrast between early interna
 ## Additional Notes
 
 This article is intentionally high-level and can be extended with more primary sources and date-verified details.
+
+
+## References

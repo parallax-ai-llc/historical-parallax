@@ -21,7 +21,7 @@ The murder of George Floyd by Minneapolis police officer Derek Chauvin sparked t
 |------|-------|
 | 2020 | Protests erupted in 2,000 cities |
 
-## References
+
 
 [^1]: Wikipedia, "2020 George Floyd Protests" - https://en.wikipedia.org/wiki/2020_George_Floyd_Protests
 
@@ -67,3 +67,6 @@ The murder of George Floyd by Minneapolis police officer Derek Chauvin sparked t
 
 [^2]: Encyclopaedia Britannica, "George Floyd" (overview and aftermath) - https://www.britannica.com/biography/George-Floyd
 [^3]: U.S. Department of Justice (press releases on Chauvin federal plea and sentencing) - https://www.justice.gov/ (search: "Derek Chauvin federal plea")
+
+
+## References

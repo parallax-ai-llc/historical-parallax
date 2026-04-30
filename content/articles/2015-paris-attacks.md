@@ -21,7 +21,7 @@ Coordinated ISIS attacks at six locations across Paris killed 130 people. Batacl
 |------|-------|
 | 2015 | 130 killed in coordinated attacks |
 
-## References
+
 
 [^1]: Wikipedia, "2015 Paris Attacks" - https://en.wikipedia.org/wiki/2015_Paris_Attacks
 
@@ -66,3 +66,6 @@ Coordinated ISIS attacks at six locations across Paris killed 130 people. Batacl
 - Bataclan theatre attack
 - Islamic State (ISIS)
 - Terrorism in France
+
+
+## References

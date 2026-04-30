@@ -24,7 +24,7 @@ Former Libyan intelligence chief convicted of crimes during the 2011 uprising an
 | 2012 | Captured in Mauritania and returned to Libya |
 | 2015 | Sentenced to death by Libyan court |
 
-## References
+
 
 [^1]: Wikipedia, "Abdullah Senussi" - https://en.wikipedia.org/wiki/Abdullah_Senussi
 
@@ -60,3 +60,6 @@ Abdullah Senussi (born 1949) is a Libyan former intelligence official who was a 
 ## Significance
 
 His case is often cited in discussions about transitional justice, accountability, and the challenges of rebuilding legal institutions amid conflict.
+
+
+## References

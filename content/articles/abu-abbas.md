@@ -23,7 +23,7 @@ Palestinian militant who masterminded the 1985 Achille Lauro hijacking. He was c
 | 2003 | Captured in Baghdad |
 | 2004 | Died in US custody |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Abbas" - https://en.wikipedia.org/wiki/Abu_Abbas
 
@@ -50,3 +50,6 @@ He was captured by U.S. forces in Iraq in 2003. In 2004 he died while in custody
 - Achille Lauro hijacking
 - Leon Klinghoffer
 - Palestine Liberation Front
+
+
+## References

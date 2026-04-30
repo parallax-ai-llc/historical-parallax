@@ -21,7 +21,7 @@ Indian cybercriminal involved in major online fraud operations.
 |------|-------|
 | 2018 | Arrested for cyber fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Abhinav Bhardwaj" - https://en.wikipedia.org/wiki/Abhinav_Bhardwaj
 
@@ -72,3 +72,6 @@ Bhardwaj is primarily notable due to:
 ## Notes on Sources
 
 - This article relies on a limited set of public references. Where possible, prefer primary court documents or official law-enforcement statements for verification.
+
+
+## References

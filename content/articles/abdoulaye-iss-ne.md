@@ -22,7 +22,7 @@ Séléka rebel commander who controlled diamond mining operations in eastern CAR
 | 2013 | Controlled diamond mines during Séléka occupation |
 | 2015 | Sanctioned by UN for human rights violations |
 
-## References
+
 
 [^1]: Wikipedia, "Abdoulaye Issène" - https://en.wikipedia.org/wiki/Abdoulaye_Iss%C3%A8ne
 
@@ -64,3 +64,6 @@ To keep this page accurate and non-speculative, confirm the following directly f
 - Central African Republic conflict (2012–2013)
 - UN Security Council sanctions regimes
 - Conflict minerals and diamond supply-chain risk
+
+
+## References

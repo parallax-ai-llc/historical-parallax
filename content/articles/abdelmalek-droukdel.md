@@ -24,7 +24,7 @@ Algerian jihadist who led al-Qaeda in the Islamic Maghreb (AQIM) for 16 years, d
 | 2013 | Fighters participated in takeover of northern Mali |
 | 2020 | Killed by French forces in Mali |
 
-## References
+
 
 [^1]: Wikipedia, "Abdelmalek Droukdel" - https://en.wikipedia.org/wiki/Abdelmalek_Droukdel
 
@@ -60,3 +60,6 @@ Abdelmalek Droukdel (1970–2020) was an Algerian militant Islamist leader best 
 ## Death and aftermath
 
 Droukdel was reported killed in 2020 during a counterterrorism operation in Mali, an event widely discussed as a significant blow to AQIM’s central leadership even as affiliated networks continued operating.
+
+
+## References

@@ -24,7 +24,7 @@ Leading Egyptian modernist painter whose surrealist-influenced works addressed E
 | 1952 | Creates works responding to the Egyptian Revolution |
 | 1965 | Dies in Cairo |
 
-## References
+
 
 [^1]: Wikipedia, "Abdel Hadi El-Gazzar" - https://en.wikipedia.org/wiki/Abdel_Hadi_El-Gazzar
 
@@ -49,3 +49,6 @@ El-Gazzar’s relatively early death contributed to a sense of an interrupted tr
 ## Notes
 
 Group affiliations and labels (such as “Art and Freedom”) are sometimes used broadly in secondary sources; individual artists’ relationships to movements and circles can be more complex than a single tag suggests.
+
+
+## References

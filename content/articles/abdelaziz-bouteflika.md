@@ -24,7 +24,7 @@ Algerian president who ruled for 20 years and attempted to run for a fifth term 
 | 2019 | Forced to resign by protests |
 | 2021 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Abdelaziz Bouteflika" - https://en.wikipedia.org/wiki/Abdelaziz_Bouteflika
 
@@ -60,3 +60,6 @@ Abdelaziz Bouteflika (1937–2021) was an Algerian politician who served as the 
 ## Legacy
 
 Bouteflika remains a debated figure in modern Algerian history, associated both with a relative stabilization after widespread violence and with persistent concerns about governance, corruption, and political openness during his time in power.
+
+
+## References

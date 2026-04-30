@@ -37,7 +37,7 @@ Abimael Guzman's criminal career came to an end through law enforcement action o
 | 1934 | Born |
 | 2021 | Career ended |
 
-## References
+
 [^1]: Encyclopedia of Criminal History.
 [^2]: International Criminal Records.
 [^3]: Court and law enforcement records.
@@ -52,3 +52,6 @@ Shining Path emerged from radical left politics in Peru and pursued a Maoist “
 
 Guzmán’s 1992 capture became a symbolic turning point, though the conflict’s social and political aftermath continued for years. Later truth-and-reconciliation efforts documented the scale of violence and the disproportionate impact on rural and Indigenous communities.
 
+
+
+## References

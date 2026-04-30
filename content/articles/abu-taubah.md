@@ -22,7 +22,7 @@ Alleged local leader of the ISIS-linked insurgency in Cabo Delgado, Mozambique. 
 | 2017 | Alleged to have led early insurgent operations in Cabo Delgado |
 | 2020 | Named as key leader of insurgent movement |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Taubah" - https://en.wikipedia.org/wiki/Abu_Taubah
 
@@ -67,3 +67,6 @@ Many militant leaders are referenced by kunyas ("Abu …" names), nicknames, or 
 
 [^2]: BBC News — Mozambique's Cabo Delgado insurgency (overview and explainers): https://www.bbc.com/news/topics/cvjp2k5r6gjt
 [^3]: UNHCR — Mozambique emergency and displacement updates (Cabo Delgado): https://www.unhcr.org/mozambique
+
+
+## References

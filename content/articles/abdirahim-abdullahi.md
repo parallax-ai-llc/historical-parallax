@@ -21,7 +21,7 @@ Kenyan-born al-Shabaab commander who led the Garissa University attack that kill
 |------|-------|
 | 2015 | Led Garissa University attack; killed |
 
-## References
+
 
 [^1]: Wikipedia, "Abdirahim Abdullahi" - https://en.wikipedia.org/wiki/Abdirahim_Abdullahi
 
@@ -55,3 +55,6 @@ Kenyan-born al-Shabaab commander who led the Garissa University attack that kill
 ## Further reading
 
 - Wikipedia entry and its cited news sources provide a starting point for chronology and public reporting.[^1]
+
+
+## References

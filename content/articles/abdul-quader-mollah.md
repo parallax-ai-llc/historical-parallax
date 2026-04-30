@@ -21,7 +21,7 @@ Bangladeshi Islamist leader executed for crimes against humanity during the 1971
 |------|-------|
 | 2013 | Executed for 1971 war crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Abdul Quader Mollah" - https://en.wikipedia.org/wiki/Abdul_Quader_Mollah
 
@@ -63,3 +63,6 @@ Bangladeshi Islamist leader executed for crimes against humanity during the 1971
 
 - Wikipedia: International Crimes Tribunal (Bangladesh) — https://en.wikipedia.org/wiki/International_Crimes_Tribunal_(Bangladesh)
 - Wikipedia: Bangladesh Liberation War — https://en.wikipedia.org/wiki/Bangladesh_Liberation_War
+
+
+## References

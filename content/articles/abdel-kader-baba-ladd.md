@@ -22,7 +22,7 @@ Chadian rebel leader who led the FPR militia in the Central African Republic res
 | 2008 | Led FPR militia attacks on villages in northern CAR |
 | 2012 | Surrendered to peacekeeping forces |
 
-## References
+
 
 [^1]: Wikipedia, "Abdel Kader Baba Laddé" - https://en.wikipedia.org/wiki/Abdel_Kader_Baba_Ladd%C3%A9
 
@@ -52,3 +52,6 @@ Chadian rebel leader who led the FPR militia in the Central African Republic res
 
 - The linked Wikipedia URL may not consistently resolve to an active article over time (renames/deletions/redirect changes can occur).
 - If additional reliable references are added later, they should be used to tighten dates, locations, and terminology while preserving the original text.
+
+
+## References

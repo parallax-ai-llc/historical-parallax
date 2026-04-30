@@ -23,7 +23,7 @@ Iraqi militia commander who was deputy head of the Popular Mobilization Forces. 
 | 2009 | Became deputy head of PMF |
 | 2020 | Killed in US drone strike alongside Soleimani |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Mahdi al-Muhandis" - https://en.wikipedia.org/wiki/Abu_Mahdi_al-Muhandis
 
@@ -51,3 +51,6 @@ He was killed in a U.S. strike near Baghdad International Airport alongside Iran
 - Kata'ib Hezbollah
 - Qasem Soleimani
 - 2020 Baghdad International Airport airstrike
+
+
+## References

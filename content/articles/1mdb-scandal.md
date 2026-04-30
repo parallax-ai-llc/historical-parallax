@@ -23,7 +23,7 @@ Malaysian sovereign wealth fund scandal where $4.5 billion was stolen. PM Najib 
 | 2015 | Scandal exposed by Wall Street Journal |
 | 2020 | Goldman Sachs paid $5B settlement |
 
-## References
+
 
 [^1]: Wikipedia, "1MDB Scandal" - https://en.wikipedia.org/wiki/1MDB_Scandal
 
@@ -54,3 +54,6 @@ The scandal became global because:
 ## Broader significance
 
 The case is often cited as an example of how sovereign-linked entities can be exploited when governance, oversight, and transparency controls are weak.
+
+
+## References

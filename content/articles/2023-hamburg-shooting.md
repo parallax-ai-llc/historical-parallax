@@ -21,7 +21,7 @@ A gunman killed 8 people including an unborn child at a Jehovah's Witnesses King
 |------|-------|
 | 2023 | 8 killed at Kingdom Hall |
 
-## References
+
 
 [^1]: Wikipedia, "2023 Hamburg Shooting" - https://en.wikipedia.org/wiki/2023_Hamburg_Shooting
 
@@ -63,3 +63,6 @@ A gunman killed 8 people including an unborn child at a Jehovah's Witnesses King
 - Outcome: Shooter died at the scene (suicide)
 
 [^2]: Wikipedia (see above) for a continuously updated overview, including dates, location details, and summarized reporting.
+
+
+## References

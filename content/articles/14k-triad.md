@@ -23,7 +23,7 @@ Major Chinese triad society founded in 1945 with an estimated 20,000 members wor
 | 1949 | Moved to Hong Kong |
 | 1990s | Dominated Macau casino underworld |
 
-## References
+
 
 [^1]: Wikipedia, "14K Triad" - https://en.wikipedia.org/wiki/14K_Triad
 
@@ -58,3 +58,6 @@ While historically linked to Hong Kong and southern China, open sources frequent
 ## Note
 
 Specific attributions to named groups can vary by jurisdiction and time period, and media reporting may blend multiple "14K"-labeled factions together.
+
+
+## References

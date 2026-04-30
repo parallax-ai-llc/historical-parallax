@@ -21,7 +21,7 @@ One of the deadliest riots in US history killed 43 people when police raided an 
 |------|-------|
 | 1967 | 43 killed in five days of violence |
 
-## References
+
 
 [^1]: Wikipedia, "1967 Detroit Riots" - https://en.wikipedia.org/wiki/1967_Detroit_Riots
 
@@ -67,3 +67,5 @@ One of the deadliest riots in US history killed 43 people when police raided an 
 ## References
 
 [^2]: National Advisory Commission on Civil Disorders (Kerner Commission), *Report of the National Advisory Commission on Civil Disorders* (1968).
+
+

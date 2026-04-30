@@ -21,7 +21,7 @@ A 22-year-old gunman killed 3 people and wounded 7 at the Field's shopping centr
 |------|-------|
 | 2022 | 3 killed in shopping centre |
 
-## References
+
 
 [^1]: Wikipedia, "2022 Copenhagen Mall Shooting" - https://en.wikipedia.org/wiki/2022_Copenhagen_Mall_Shooting
 
@@ -63,3 +63,6 @@ A 22-year-old gunman killed 3 people and wounded 7 at the Field's shopping centr
 ## Notes
 
 - This article summarizes widely reported, high-level facts; detailed findings and legal outcomes may evolve with court decisions and official statements.
+
+
+## References

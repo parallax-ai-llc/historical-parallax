@@ -23,7 +23,7 @@ Guinea-Bissauan military officer involved in making Guinea-Bissau a narco-state.
 | 2010 | Designated as drug kingpin by US |
 | 2013 | Arrested by DEA in international sting |
 
-## References
+
 
 [^1]: Wikipedia, "Abubacar Baldé" - https://en.wikipedia.org/wiki/Abubacar_Bald%C3%A9
 
@@ -50,3 +50,6 @@ The “narco-state” characterization became shorthand for concerns that traffi
 - Guinea-Bissau politics and instability
 - West Africa cocaine trafficking routes
 - U.S. Kingpin Act and related designations
+
+
+## References

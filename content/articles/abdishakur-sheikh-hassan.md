@@ -21,7 +21,7 @@ Al-Shabaab commander who orchestrated attacks in Mogadishu.
 |------|-------|
 | 2017 | Orchestrated Mogadishu attacks |
 
-## References
+
 
 [^1]: Wikipedia, "Abdishakur Sheikh Hassan" - https://en.wikipedia.org/wiki/Abdishakur_Sheikh_Hassan
 
@@ -57,3 +57,5 @@ Even when a figure is a government official (not a militant), they may be catalo
 ## References
 
 [^2]: BBC News, "Somali minister Abdi Shakur Sheikh Hassan 'killed by niece'" (10 Jun 2011) - https://www.bbc.co.uk/news/world-africa-13730603
+
+

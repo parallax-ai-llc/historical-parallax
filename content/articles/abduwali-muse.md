@@ -24,7 +24,7 @@ Somali pirate who led the hijacking of the Maersk Alabama in 2009, the first suc
 | 2010 | Convicted in US federal court |
 | 2010 | Sentenced to 33 years in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Abduwali Muse" - https://en.wikipedia.org/wiki/Abduwali_Muse
 
@@ -60,3 +60,6 @@ Abduwali Muse is a Somali national known for his role in the 2009 hijacking of t
 ## Broader context
 
 The case is commonly referenced in discussions of how legal systems handle piracy, the economics that fueled piracy off Somalia in the 2000s, and the multinational security measures adopted to protect shipping lanes.
+
+
+## References

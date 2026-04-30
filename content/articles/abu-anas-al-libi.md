@@ -21,7 +21,7 @@ Al-Qaeda operative captured by US forces in Libya for role in 1998 embassy bombi
 |------|-------|
 | 2013 | Captured in US raid in Libya |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Anas al-Libi" - https://en.wikipedia.org/wiki/Abu_Anas_al-Libi
 
@@ -63,3 +63,6 @@ Al-Qaeda operative captured by US forces in Libya for role in 1998 embassy bombi
 
 [^2]: U.S. Department of Justice (press materials / case background as reported) – related to 1998 embassy bombing indictments.
 [^3]: Contemporary news reporting on the 2013 Tripoli operation and subsequent transfer to U.S. courts.
+
+
+## References

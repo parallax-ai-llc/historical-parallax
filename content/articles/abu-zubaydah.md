@@ -24,7 +24,7 @@ Palestinian alleged al-Qaeda facilitator who was the first detainee subjected to
 | 2006 | Transferred to Guantánamo |
 | 2022 | Supreme Court ruled against releasing CIA black site details |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Zubaydah" - https://en.wikipedia.org/wiki/Abu_Zubaydah
 
@@ -48,3 +48,6 @@ Palestinian alleged al-Qaeda facilitator who was the first detainee subjected to
 - Contemporary news reporting and court documents where available.
 - Academic or policy analyses for historical and political context.
 - For contested topics, compare multiple reputable sources and primary documents when available.
+
+
+## References

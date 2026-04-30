@@ -21,7 +21,7 @@ Goldman Sachs paid $2.9 billion to settle charges of helping embezzle billions f
 |------|-------|
 | 2020 | Paid $2.9 billion settlement |
 
-## References
+
 
 [^1]: Wikipedia, "1MDB Goldman Sachs" - https://en.wikipedia.org/wiki/1MDB_Goldman_Sachs
 
@@ -58,3 +58,6 @@ It is also used as a case study for:
 - Money laundering
 - Bank compliance and risk management
 - Sovereign and government-linked debt issuance
+
+
+## References

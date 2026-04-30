@@ -46,7 +46,7 @@ This topic relies heavily on investigative reporting and court reporting; specif
 - Baybaşin family
 - Hüseyin Baybaşin
 
-## References
+
 
 [^1]: Wikipedia, "Abdullah Baybaşin" - https://en.wikipedia.org/wiki/Abdullah_Bayba%C5%9Fin
 [^2]: BBC News, "The rise and fall of a drugs empire" (profile cited by Wikipedia) - http://news.bbc.co.uk/1/hi/uk/4787088.stm
@@ -71,3 +71,6 @@ This topic relies heavily on investigative reporting and court reporting; specif
 - Organized-crime figures often become subjects of competing narratives: law-enforcement portrayals of leadership and scale versus defense claims of exaggeration.
 - Media labels such as “drug lord” or “emperor” can summarize allegations but may not map cleanly to legal findings in every jurisdiction.
 - Readers should treat descriptive claims about hierarchy and market share as source-dependent unless supported by court judgments.
+
+
+## References

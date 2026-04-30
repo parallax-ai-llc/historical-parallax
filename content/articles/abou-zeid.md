@@ -24,7 +24,7 @@ Algerian jihadist and senior AQIM commander who led forces in northern Mali and 
 | 2012 | Destroyed ancient shrines and mausoleums |
 | 2013 | Killed by French forces in the Ifoghas Mountains |
 
-## References
+
 
 [^1]: Wikipedia, "Abou Zeid" - https://en.wikipedia.org/wiki/Abou_Zeid
 ## Role in AQIM
@@ -48,3 +48,6 @@ French operations in early 2013 targeted militant strongholds in northern Mali. 
 This article is intentionally high-level and can be extended with more primary sources and date-verified details.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
+
+
+## References

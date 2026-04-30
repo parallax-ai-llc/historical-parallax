@@ -21,7 +21,7 @@ Al-Qaeda deputy leader killed by US drone strike in Pakistan.
 |------|-------|
 | 2012 | Killed by US drone strike |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Yahya al-Libi" - https://en.wikipedia.org/wiki/Abu_Yahya_al-Libi
 
@@ -55,3 +55,6 @@ Al-Qaeda deputy leader killed by US drone strike in Pakistan.
 ## Additional References
 
 [^2]: U.S. Department of Defense (statement/reporting coverage on confirmation of death), 2012 — e.g., https://www.defense.gov/ (search: "Abu Yahya al-Libi killed"), and contemporaneous reporting summarized in Wikipedia.[^1]
+
+
+## References

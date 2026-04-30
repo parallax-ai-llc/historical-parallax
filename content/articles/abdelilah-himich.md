@@ -22,7 +22,7 @@ Moroccan ISIS commander known as Abu Souleimane who was believed to have directe
 | 2015 | Allegedly directed Paris attacks from Syria |
 | 2016 | Reportedly killed in airstrike |
 
-## References
+
 
 [^1]: Wikipedia, "Abdelilah Himich" - https://en.wikipedia.org/wiki/Abdelilah_Himich
 
@@ -55,3 +55,6 @@ Moroccan ISIS commander known as Abu Souleimane who was believed to have directe
   - separating confirmed facts from attribution,
   - adding dates with citations,
   - and clarifying the basis for claims about command roles.
+
+
+## References

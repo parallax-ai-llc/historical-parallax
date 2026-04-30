@@ -21,7 +21,7 @@ ISIS suicide bombers attacked Brussels Airport and Maalbeek metro station killin
 |------|-------|
 | 2016 | 32 killed in Brussels attacks |
 
-## References
+
 
 [^1]: Wikipedia, "2016 Brussels Bombings" - https://en.wikipedia.org/wiki/2016_Brussels_Bombings
 
@@ -71,3 +71,6 @@ ISIS suicide bombers attacked Brussels Airport and Maalbeek metro station killin
 ## References (Additional)
 
 [^2]: Wikipedia (overview and citations therein), "2016 Brussels Bombings" - https://en.wikipedia.org/wiki/2016_Brussels_Bombings
+
+
+## References

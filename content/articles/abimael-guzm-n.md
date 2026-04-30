@@ -24,7 +24,7 @@ Peruvian communist revolutionary who founded and led the Shining Path (Sendero L
 | 2006 | Sentenced to life imprisonment |
 | 2021 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Abimael Guzmán" - https://en.wikipedia.org/wiki/Abimael_Guzm%C3%A1n
 ## Ideology and Organization
@@ -48,3 +48,6 @@ In historical writing on late-20th-century Latin American insurgencies, Guzmán 
 This article is intentionally high-level and can be extended with more primary sources and date-verified details.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
+
+
+## References

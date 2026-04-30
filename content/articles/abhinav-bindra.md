@@ -23,7 +23,7 @@ Abhinav Bindra won India's first individual Olympic gold medal in the 10m air ri
 | 2008 | Won Olympic gold at Beijing — India's first individual gold |
 | 2016 | Competed at Rio Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Abhinav Bindra" - https://en.wikipedia.org/wiki/Abhinav_Bindra
 
@@ -50,3 +50,6 @@ After stepping back from peak competition, Bindra has been involved in sports de
 - 10 metre air rifle
 - Sport shooting at the 2008 Summer Olympics
 - India at the Olympics
+
+
+## References

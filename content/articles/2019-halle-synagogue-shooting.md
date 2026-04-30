@@ -21,7 +21,7 @@ Neo-Nazi Stephan Balliet attempted to storm a synagogue on Yom Kippur but failed
 |------|-------|
 | 2019 | Failed synagogue attack; 2 killed |
 
-## References
+
 
 [^1]: Wikipedia, "2019 Halle Synagogue Shooting" - https://en.wikipedia.org/wiki/2019_Halle_Synagogue_Shooting
 
@@ -63,3 +63,6 @@ Neo-Nazi Stephan Balliet attempted to storm a synagogue on Yom Kippur but failed
 - Antisemitic terrorism and far-right violence in Europe
 - Online radicalization and “livestreamed” attacks
 - Security posture for places of worship and community institutions
+
+
+## References

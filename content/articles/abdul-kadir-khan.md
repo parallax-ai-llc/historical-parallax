@@ -22,7 +22,7 @@ Pakistani nuclear scientist who ran the world's largest nuclear proliferation ne
 | 1976 | Stole nuclear enrichment technology from Netherlands |
 | 2004 | Confessed to nuclear proliferation |
 
-## References
+
 
 [^1]: Wikipedia, "Abdul Kadir Khan" - https://en.wikipedia.org/wiki/Abdul_Kadir_Khan
 
@@ -77,3 +77,6 @@ Khan's legacy is polarizing: he is celebrated domestically by some as a key figu
 - Domestically, figures tied to nuclear achievements may be celebrated as protectors of national sovereignty.
 - Internationally, the same individuals may be treated primarily through the lens of arms control and sanction policy.
 - This divergence can shape how states narrate investigations, transparency, and legal responsibility.
+
+
+## References

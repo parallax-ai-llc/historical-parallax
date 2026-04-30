@@ -22,7 +22,7 @@ Post-election violence in Kenya killed over 1,100 people and displaced 600,000 a
 | 2007 | Disputed election results triggered ethnic violence |
 | 2008 | Kofi Annan mediated power-sharing agreement |
 
-## References
+
 
 [^1]: Wikipedia, "2007 Kenyan Election Violence" - https://en.wikipedia.org/wiki/2007_Kenyan_Election_Violence
 
@@ -56,3 +56,6 @@ Post-election violence in Kenya killed over 1,100 people and displaced 600,000 a
 ## References (Additional)
 
 [^2]: Wikipedia’s article compiles reporting, inquiries, and legal sources related to the violence, mediation process, and subsequent accountability efforts.
+
+
+## References

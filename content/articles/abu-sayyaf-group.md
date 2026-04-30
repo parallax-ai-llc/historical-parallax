@@ -24,7 +24,7 @@ Philippine Islamic militant group responsible for kidnappings, bombings, and pir
 | 2004 | SuperFerry 14 bombing killed 116 |
 | 2017 | Siege of Marawi |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Sayyaf Group" - https://en.wikipedia.org/wiki/Abu_Sayyaf_Group
 
@@ -48,3 +48,6 @@ Philippine Islamic militant group responsible for kidnappings, bombings, and pir
 - Contemporary news reporting and court documents where available.
 - Academic or policy analyses for historical and political context.
 - For contested topics, compare multiple reputable sources and primary documents when available.
+
+
+## References

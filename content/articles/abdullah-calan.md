@@ -24,7 +24,7 @@ Kurdish leader who founded the PKK and led its armed struggle against Turkey. Ca
 | 1999 | Captured in Kenya by Turkish intelligence |
 | 1999 | Sentenced to death; commuted to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Abdullah Öcalan" - https://en.wikipedia.org/wiki/Abdullah_%C3%96calan
 
@@ -60,3 +60,6 @@ Abdullah Öcalan (born 1948) is a Kurdish political figure and the founding lead
 ## Current status
 
 Öcalan remains a consequential and polarizing figure, viewed by different audiences through sharply divergent lenses ranging from militant leadership to political symbolism.
+
+
+## References

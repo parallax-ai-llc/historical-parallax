@@ -46,7 +46,7 @@ Head of Niger's presidential guard who led the 2023 coup overthrowing President 
 - The political crisis contributed to economic disruption, diplomatic tension, and uncertainty around international security cooperation.
 - Niger's internal politics and external partnerships continued to shift as the transition process and regional negotiations evolved.
 
-## References
+
 
 [^1]: Wikipedia, "Abdourahamane Tiani" - https://en.wikipedia.org/wiki/Abdourahamane_Tiani
 
@@ -74,3 +74,6 @@ Head of Niger's presidential guard who led the 2023 coup overthrowing President 
 
 - 2023 Nigerien coup d’état
 - ECOWAS sanctions policy
+
+
+## References

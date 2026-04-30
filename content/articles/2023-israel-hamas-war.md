@@ -21,7 +21,7 @@ Hamas attacked Israel killing 1,200 people and taking 250 hostages. Israel's mil
 |------|-------|
 | 2023 | Hamas attack; Israeli military response |
 
-## References
+
 
 [^1]: Wikipedia, "2023 Israel-Hamas War" - https://en.wikipedia.org/wiki/2023_Israel-Hamas_War
 
@@ -68,3 +68,6 @@ Hamas attacked Israel killing 1,200 people and taking 250 hostages. Israel's mil
 [^2]: International Court of Justice (ICJ) docket and orders related to South Africa v. Israel (application of the Genocide Convention) - https://www.icj-cij.org/
 [^3]: International Criminal Court (ICC) Palestine situation page - https://www.icc-cpi.int/
 [^4]: United Nations OCHA, humanitarian updates on the occupied Palestinian territory - https://www.ochaopt.org/
+
+
+## References

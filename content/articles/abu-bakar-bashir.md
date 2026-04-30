@@ -24,7 +24,7 @@ Indonesian cleric and spiritual leader of Jemaah Islamiyah who was linked to mul
 | 2011 | Convicted of funding terrorist camp; sentenced to 15 years |
 | 2021 | Released from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Bakar Bashir" - https://en.wikipedia.org/wiki/Abu_Bakar_Bashir
 ## Background
@@ -48,3 +48,6 @@ His public profile illustrates how religious authority, political activism, and 
 This article is intentionally high-level and can be extended with more primary sources and date-verified details.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
+
+
+## References

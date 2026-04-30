@@ -22,7 +22,7 @@ PM Abe's administration faced multiple scandals including Moritomo and Kake Gaku
 | 2017 | Moritomo school scandal exposed |
 | 2018 | Kake Gakuen scandal |
 
-## References
+
 
 [^1]: Wikipedia, "Abenomics Controversies" - https://en.wikipedia.org/wiki/Abenomics_Controversies
 
@@ -86,3 +86,6 @@ Across these episodes, the controversies are frequently summarized around a few 
 - The controversies fed public discussion about political ethics, administrative reform, and the role of independent watchdogs.
 - They also became part of how international audiences interpreted Japan’s domestic political stability during the Abe era.
 - In retrospective accounts, the episodes are often cited alongside other questions about executive power, media scrutiny, and institutional trust.
+
+
+## References

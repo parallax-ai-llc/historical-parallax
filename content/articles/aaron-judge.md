@@ -23,7 +23,7 @@ Aaron Judge set the American League single-season home run record with 62 in 202
 | 2022 | Hit 62 HRs, breaking AL record |
 | 2022 | Won AL MVP |
 
-## References
+
 
 [^1]: Wikipedia, "Aaron Judge" - https://en.wikipedia.org/wiki/Aaron_Judge
 
@@ -50,3 +50,6 @@ Judge is frequently described as a franchise cornerstone whose public profile ex
 - Power hitting (home runs, extra-base damage)
 - Strong throwing arm in the outfield
 - Defensive flexibility and athletic range relative to his size
+
+
+## References

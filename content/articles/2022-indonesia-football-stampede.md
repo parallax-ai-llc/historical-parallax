@@ -21,7 +21,7 @@ Police fired tear gas into a football stadium in Malang, East Java, triggering a
 |------|-------|
 | 2022 | 135 killed in stadium stampede |
 
-## References
+
 
 [^1]: Wikipedia, "2022 Indonesia Football Stampede" - https://en.wikipedia.org/wiki/2022_Indonesia_Football_Stampede
 
@@ -71,3 +71,6 @@ Police fired tear gas into a football stadium in Malang, East Java, triggering a
 - Stadium safety standards and crowd-crush prevention.
 - Policing doctrines for mass gatherings and sporting events.
 - Emergency evacuation planning for high-density venues.
+
+
+## References

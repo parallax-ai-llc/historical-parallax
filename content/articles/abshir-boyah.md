@@ -24,7 +24,7 @@ Somali pirate leader considered one of the original pirate kingpins of Puntland 
 | 2010 | Surrendered voluntarily |
 | 2014 | Convicted and sentenced to 5 years |
 
-## References
+
 
 [^1]: Wikipedia, "Abshir Boyah" - https://en.wikipedia.org/wiki/Abshir_Boyah
 ## Context: Somali Piracy
@@ -48,3 +48,6 @@ His later conviction and sentence illustrated the shift from ad hoc responses to
 This article is intentionally high-level and can be extended with more primary sources and date-verified details.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
 - Further expansion: add verified quotations, contemporaneous reporting, and scholarly assessments.
+
+
+## References

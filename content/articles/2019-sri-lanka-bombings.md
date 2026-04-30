@@ -21,7 +21,7 @@ Nine suicide bombers from NTJ attacked three churches and three luxury hotels on
 |------|-------|
 | 2019 | 269 killed in Easter Sunday bombings |
 
-## References
+
 
 [^1]: Wikipedia, "2019 Sri Lanka Bombings" - https://en.wikipedia.org/wiki/2019_Sri_Lanka_Bombings
 
@@ -53,3 +53,6 @@ Nine suicide bombers from NTJ attacked three churches and three luxury hotels on
 - **Interfaith relations:** The bombings deepened concerns about religious violence and prompted efforts toward reconciliation and community protection.[^1]
 - **Tourism and economy:** Sri Lanka's tourism sector faced a significant shock in 2019 as travelers reassessed safety, and businesses absorbed immediate losses.[^1]
 - **Commemoration:** Annual memorials and religious services have marked the anniversary, with attention to victims and survivors.[^1]
+
+
+## References

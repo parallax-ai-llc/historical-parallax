@@ -21,7 +21,7 @@ The 7.8 magnitude earthquake killed over 59,000 people. Massive corruption in Tu
 |------|-------|
 | 2023 | 59,000+ killed; building fraud exposed |
 
-## References
+
 
 [^1]: Wikipedia, "2023 Turkey-Syria Earthquake" - https://en.wikipedia.org/wiki/2023_Turkey-Syria_Earthquake
 
@@ -65,3 +65,6 @@ The 7.8 magnitude earthquake killed over 59,000 people. Massive corruption in Tu
 
 - **Building codes and inspection regimes** as a determinant of disaster outcomes
 - **Cold-weather disaster response** and the compounding risks after major structural collapses
+
+
+## References

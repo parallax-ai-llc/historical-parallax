@@ -22,7 +22,7 @@ Pakistani cleric who led the 2007 Red Mosque siege in Islamabad. Killed when com
 | 2007 | Red Mosque standoff |
 | 2007 | Killed during operation |
 
-## References
+
 
 [^1]: Wikipedia, "Abdul Rashid Ghazi" - https://en.wikipedia.org/wiki/Abdul_Rashid_Ghazi
 
@@ -80,3 +80,6 @@ Ghazi remains a controversial figure in Pakistan's modern history. Commentary ab
 - The event is frequently referenced in discussions of radicalization, retaliation cycles, and the political costs of security operations.
 - It contributed to intense polarization about how to balance counter-militancy with civil liberties and religious freedom.
 - It remains a recurring reference point in Pakistani debates over clerical influence and the boundaries of state power.
+
+
+## References

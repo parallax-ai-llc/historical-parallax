@@ -48,7 +48,7 @@ The Maina case is frequently cited in Nigerian governance discussions because it
 - **Fugitive enforcement**: challenges of locating suspects and coordinating across borders.
 - **Rule of law signaling**: whether convictions translate into deterrence.
 
-## References
+
 
 [^1]: Wikipedia, "Abdulrasheed Maina" - https://en.wikipedia.org/wiki/Abdulrasheed_Maina
 
@@ -71,3 +71,6 @@ The Maina case is frequently cited in Nigerian governance discussions because it
 - Enforcement outcomes can influence deterrence: consistent prosecution tends to matter more than maximum sentencing.
 - Public-sector integrity cases frequently expose systemic issues (record-keeping, procurement, oversight), not only individual wrongdoing.
 - Cross-border aspects of flight and return illustrate the practical importance of extradition cooperation and regional policing.
+
+
+## References

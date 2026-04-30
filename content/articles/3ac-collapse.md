@@ -22,7 +22,7 @@ Three Arrows Capital crypto hedge fund collapsed owing $3.5 billion. Founders Su
 | 2022 | Firm collapsed |
 | 2023 | Zhu arrested |
 
-## References
+
 
 [^1]: Wikipedia, "3AC Collapse" - https://en.wikipedia.org/wiki/3AC_Collapse
 
@@ -77,3 +77,6 @@ This article is a high-level summary and does not attempt to enumerate every cre
 ## Additional References
 
 [^2]: General background on Three Arrows Capital and related events (see Wikipedia and linked sources): https://en.wikipedia.org/wiki/Three_Arrows_Capital
+
+
+## References

@@ -24,7 +24,7 @@ Abdol Hossein Haeri was an Iranian physicist who made contributions to nuclear p
 | 1960 | Established physics research in Iran |
 | 1992 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Abdol Hossein Haeri" - https://en.wikipedia.org/wiki/Abdol_Hossein_Haeri
 
@@ -56,3 +56,6 @@ In Twelver Shia Islam, a **marjaʿ al-taqlid** is a jurist whom lay followers ma
 ## Public presence
 
 Haeri’s public profile has at times been discussed in connection with broader debates about the relationship between religious authority and political power in the Islamic Republic of Iran. Discussions about individual clerics can be sensitive and often rely on statements attributed to them in religious or political media sources.
+
+
+## References

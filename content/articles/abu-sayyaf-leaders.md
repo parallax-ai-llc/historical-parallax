@@ -23,7 +23,7 @@ Isnilon Hapilon became ISIS's top leader in Southeast Asia and led the 2017 sieg
 | 2017 | Led siege of Marawi City |
 | 2017 | Killed by Philippine forces during battle |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Sayyaf Leaders" - https://en.wikipedia.org/wiki/Abu_Sayyaf_Leaders
 
@@ -50,3 +50,6 @@ The five-month battle resulted in large-scale destruction, civilian displacement
 - Marawi siege
 - Islamic State (ISIS) in Southeast Asia
 - Moro conflict in Mindanao
+
+
+## References

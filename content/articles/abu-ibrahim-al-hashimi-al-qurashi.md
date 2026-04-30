@@ -21,7 +21,7 @@ ISIS leader who blew himself up during a US Special Forces raid in Syria.
 |------|-------|
 | 2022 | Killed in US Special Forces raid |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Ibrahim al-Hashimi al-Qurashi" - https://en.wikipedia.org/wiki/Abu_Ibrahim_al-Hashimi_al-Qurashi
 
@@ -59,3 +59,6 @@ ISIS leader who blew himself up during a US Special Forces raid in Syria.
 
 [^2]: The White House, remarks/statement on the 2022 Syria operation announcing the death of ISIS leader Abu Ibrahim al-Hashimi al-Qurashi.
 [^3]: Reuters reporting (Feb 2022) summarizing U.S. and local accounts of the raid and casualties.
+
+
+## References

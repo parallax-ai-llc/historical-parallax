@@ -21,7 +21,7 @@ Somali asylum seeker stabbed and killed 3 women in a department store in Würzbu
 |------|-------|
 | 2021 | 3 killed in stabbing attack |
 
-## References
+
 
 [^1]: Wikipedia, "2021 Würzburg Stabbing" - https://en.wikipedia.org/wiki/2021_W%C3%BCrzburg_Stabbing
 
@@ -70,3 +70,6 @@ Somali asylum seeker stabbed and killed 3 women in a department store in Würzbu
 ## References (Additional)
 
 [^2]: Bavarian Police / German press briefings (contemporaneous reporting; see compiled coverage linked from Wikipedia).
+
+
+## References

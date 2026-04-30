@@ -21,7 +21,7 @@ Boko Haram leader who ordered kidnapping of Chibok girls and killed himself to a
 |------|-------|
 | 2021 | Committed suicide |
 
-## References
+
 
 [^1]: Wikipedia, "Abu Shekau" - https://en.wikipedia.org/wiki/Abu_Shekau
 
@@ -65,3 +65,5 @@ Boko Haram leader who ordered kidnapping of Chibok girls and killed himself to a
 ## References
 
 - [^1] Wikipedia, "Abu Shekau" - https://en.wikipedia.org/wiki/Abu_Shekau
+
+

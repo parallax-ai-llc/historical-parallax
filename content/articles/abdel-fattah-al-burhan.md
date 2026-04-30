@@ -41,7 +41,7 @@ A central fault line in Sudan’s security landscape has been the relationship b
 
 The war has produced mass displacement, severe disruptions to basic services, and widespread humanitarian need. It has also heightened regional instability through refugee flows and cross-border security risks, while diplomatic efforts by neighboring states and international actors have struggled to secure a sustained ceasefire.
 
-## References
+
 
 [^1]: Wikipedia, "Abdel Fattah al-Burhan" - https://en.wikipedia.org/wiki/Abdel_Fattah_al-Burhan
 
@@ -50,3 +50,6 @@ The war has produced mass displacement, severe disruptions to basic services, an
 - Sudanese Armed Forces (SAF) and civil–military relations
 - Rapid Support Forces (RSF) and security-sector integration debates
 - Sudan’s 2019 revolution and the subsequent transitional period
+
+
+## References

@@ -21,7 +21,7 @@ Anders Breivik bombed government buildings in Oslo killing 8, then massacred 69 
 |------|-------|
 | 2011 | 77 killed in bombing and shooting |
 
-## References
+
 
 [^1]: Wikipedia, "2011 Norway Attacks" - https://en.wikipedia.org/wiki/2011_Norway_Attacks
 
@@ -60,3 +60,6 @@ Anders Breivik bombed government buildings in Oslo killing 8, then massacred 69 
 ## Additional References
 
 [^2]: Wikipedia, "Anders Behring Breivik" - https://en.wikipedia.org/wiki/Anders_Behring_Breivik
+
+
+## References

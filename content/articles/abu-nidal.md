@@ -37,7 +37,7 @@ Abu Nidal's criminal career came to an end through law enforcement action or oth
 | 1937 | Born |
 | 2002 | Career ended |
 
-## References
+
 [^1]: Encyclopedia of Criminal History.
 [^2]: International Criminal Records.
 [^3]: Court and law enforcement records.
@@ -52,3 +52,6 @@ The Abu Nidal Organization (ANO) operated as a splinter militant group and becam
 
 Abu Nidal died in Baghdad in 2002. Public reporting at the time described the death as a shooting that Iraqi authorities portrayed as suicide; some later accounts questioned the precise circumstances.
 
+
+
+## References

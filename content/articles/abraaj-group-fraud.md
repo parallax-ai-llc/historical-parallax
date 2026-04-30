@@ -22,7 +22,7 @@ Dubai-based Abraaj Group, the developing world's largest private equity firm, co
 | 2018 | Fraud exposed |
 | 2023 | Naqvi convicted in US |
 
-## References
+
 
 [^1]: Wikipedia, "Abraaj Group Fraud" - https://en.wikipedia.org/wiki/Abraaj_Group_Fraud
 
@@ -63,3 +63,6 @@ High-level summaries of the scandal often emphasize:
 ## Additional References
 
 [^2]: Wikipedia, "Abraaj Group" - https://en.wikipedia.org/wiki/Abraaj_Group
+
+
+## References

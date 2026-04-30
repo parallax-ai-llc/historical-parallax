@@ -24,7 +24,7 @@ Indian counterfeiter who ran the biggest stamp paper counterfeiting scam in Indi
 | 2007 | Convicted and sentenced to 30 years |
 | 2017 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Abdul Karim Telgi" - https://en.wikipedia.org/wiki/Abdul_Karim_Telgi
 
@@ -60,3 +60,6 @@ Abdul Karim Telgi (1955–2017) was an Indian figure associated with one of the 
 ## Aftermath
 
 The case is frequently cited in discussions of corruption, regulatory enforcement, and the modernization of state revenue systems tied to legal documentation.
+
+
+## References

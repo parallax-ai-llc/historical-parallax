@@ -22,7 +22,7 @@ Four suicide bombers attacked London's public transport during morning rush hour
 | 2005 | Suicide bombings killed 52 in London |
 | 2005 | Attackers identified as British-born Muslims |
 
-## References
+
 
 [^1]: Wikipedia, "2005 London Bombings" - https://en.wikipedia.org/wiki/2005_London_Bombings
 
@@ -56,3 +56,6 @@ Four suicide bombers attacked London's public transport during morning rush hour
 ## References (Additional)
 
 [^2]: UK public inquiries and official reviews are frequently cited in secondary coverage of the attacks; Wikipedia’s article links to multiple government and media sources.
+
+
+## References

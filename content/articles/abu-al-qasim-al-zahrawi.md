@@ -24,7 +24,7 @@ Abu al-Qasim al-Zahrawi, known as Albucasis in the West, was the greatest mediev
 | 1000 | Completed Al-Tasrif, his encyclopedic medical work |
 | 1013 | Died in Córdoba, Al-Andalus |
 
-## References
+
 
 [^1]: Wikipedia, "Abu al-Qasim al-Zahrawi" - https://en.wikipedia.org/wiki/Abu_al-Qasim_al-Zahrawi
 ## Contributions to Surgery and Medicine
@@ -49,3 +49,6 @@ Modern histories of medicine often treat al-Zahrawi as a pivotal figure in the s
 ## Additional Notes
 
 This article is intentionally high-level and can be extended with more primary sources and date-verified details.
+
+
+## References

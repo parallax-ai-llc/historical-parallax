@@ -24,7 +24,7 @@ Abebe Bikila was the first black African Olympic gold medalist, winning the 1960
 | 1969 | Paralyzed in car accident |
 | 1973 | Died at age 41 |
 
-## References
+
 
 [^1]: Wikipedia, "Abebe Bikila" - https://en.wikipedia.org/wiki/Abebe_Bikila
 ## Background and Context
@@ -48,3 +48,6 @@ After a serious car accident in 1969, Bikila lived with paralysis and competed i
 ## Additional Notes
 
 This article is intentionally high-level and can be extended with more primary sources and date-verified details.
+
+
+## References

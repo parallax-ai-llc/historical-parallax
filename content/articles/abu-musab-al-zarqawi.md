@@ -37,7 +37,7 @@ Abu Musab al-Zarqawi's criminal career came to an end through law enforcement ac
 | 1966 | Born |
 | 2006 | Career ended |
 
-## References
+
 [^1]: Encyclopedia of Criminal History.
 [^2]: International Criminal Records.
 [^3]: Court and law enforcement records.
@@ -52,3 +52,6 @@ Zarqawi’s organization became notorious for spectacular mass-casualty attacks 
 
 Al-Qaeda in Iraq later evolved through successive rebrandings and leadership changes into the Islamic State of Iraq and, eventually, ISIS/ISIL, making Zarqawi a key precursor figure in that organizational lineage.
 
+
+
+## References

@@ -21,7 +21,7 @@ The acquittal of police officers who beat Rodney King triggered riots that kille
 |------|-------|
 | 1992 | 63 killed in six days of riots |
 
-## References
+
 
 [^1]: Wikipedia, "1992 Los Angeles Riots" - https://en.wikipedia.org/wiki/1992_Los_Angeles_Riots
 
@@ -61,3 +61,6 @@ The acquittal of police officers who beat Rodney King triggered riots that kille
 ## Additional Reading
 
 [^2]: Britannica, "Los Angeles Riots of 1992" - https://www.britannica.com/event/Los-Angeles-riots-of-1992
+
+
+## References

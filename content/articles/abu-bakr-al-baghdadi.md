@@ -37,7 +37,7 @@ Abu Bakr al-Baghdadi's criminal career came to an end through law enforcement ac
 | 1971 | Born |
 | 2019 | Career ended |
 
-## References
+
 [^1]: Encyclopedia of Criminal History.
 [^2]: International Criminal Records.
 [^3]: Court and law enforcement records.
@@ -52,3 +52,6 @@ Baghdadi rose within the Iraqi jihadist insurgency that followed the 2003 invasi
 
 In 2014, ISIS proclaimed a caliphate from Mosul, drawing global attention and foreign fighters. A sustained international military campaign and local ground forces gradually rolled back ISIS territorial control, culminating in the group’s loss of its last significant enclave by 2019.
 
+
+
+## References
