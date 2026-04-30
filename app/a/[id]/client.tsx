@@ -6,14 +6,15 @@ import { Search, Pencil, MapIcon } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
 import { SearchDialog, SearchItem } from "@/components/search-dialog";
+import { Footer } from "@/components/footer";
 
-interface ClientInteractionsProps {
+interface ArticleLayoutClientProps {
   searchIndex: SearchItem[];
   children: React.ReactNode;
   editUrl: string;
 }
 
-export function ClientInteractions({ searchIndex, children, editUrl }: ClientInteractionsProps) {
+export function ArticleLayoutClient({ searchIndex, children, editUrl }: ArticleLayoutClientProps) {
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
 
@@ -22,24 +23,30 @@ export function ClientInteractions({ searchIndex, children, editUrl }: ClientInt
   }, []);
 
   return (
-    <>
-      <HeaderClient onSearchClick={() => setSearchOpen(true)} editUrl={editUrl} />
-      {children}
+    <div className="flex min-h-screen flex-col">
+      <ArticleHeader editUrl={editUrl} onSearchClick={() => setSearchOpen(true)} />
+
+      <main className="flex-1">{children}</main>
+
+      <div className="relative z-10 bg-background">
+        <Footer />
+      </div>
+
       {mounted && (
         <div suppressHydrationWarning>
           <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} items={searchIndex} />
         </div>
       )}
-    </>
+    </div>
   );
 }
 
-interface HeaderClientProps {
+interface ArticleHeaderProps {
   onSearchClick: () => void;
   editUrl: string;
 }
 
-function HeaderClient({ onSearchClick, editUrl }: HeaderClientProps) {
+function ArticleHeader({ onSearchClick, editUrl }: ArticleHeaderProps) {
   return (
     <header
       className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60"
@@ -57,7 +64,7 @@ function HeaderClient({ onSearchClick, editUrl }: HeaderClientProps) {
           </span>
         </Link>
 
-        <nav aria-label="Main navigation" className="flex items-center gap-2">
+        <nav aria-label="Article navigation" className="flex items-center gap-2">
           <Button
             variant="outline"
             className="hidden h-9 w-64 justify-start px-3 text-sm text-muted-foreground md:flex"
