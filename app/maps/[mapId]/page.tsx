@@ -50,7 +50,7 @@ export default async function MapPage({ params }: MapPageProps) {
     <div className="w-full">
       <div className="flex flex-col xl:flex-row gap-8">
         <div className="flex-1">
-          <div className="mb-4 px-2 md:px-0">
+          <div className="mb-4">
             <h1 className="text-3xl font-bold tracking-tight mb-2 flex items-center gap-2">
               {category.name}
             </h1>
@@ -63,7 +63,7 @@ export default async function MapPage({ params }: MapPageProps) {
           </div>
 
           <div className="xl:hidden mt-8">
-            <div className="mb-4 px-2 md:px-0">
+            <div className="mb-4">
               <h3 className="font-semibold text-lg">Timeline</h3>
               <p className="text-xs text-muted-foreground">Chronological order</p>
             </div>
