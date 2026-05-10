@@ -5,7 +5,7 @@ birth: "1958-01-01"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Graphic Designer", "Art Director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kenya_hara.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenya_Hara"
 lastUpdated: "2026-02-21"

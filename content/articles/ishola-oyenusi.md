@@ -21,7 +21,7 @@ Nigeria's most notorious armed robber publicly executed by firing squad in Lagos
 |------|-------|
 | 1971 | Publicly executed in Lagos |
 
-## References
+
 
 [^1]: Wikipedia, "Ishola Oyenusi" - https://en.wikipedia.org/wiki/Ishola_Oyenusi
 
@@ -56,3 +56,6 @@ Nigeria's most notorious armed robber publicly executed by firing squad in Lagos
 - Public executions in Nigeria
 - Lagos Bar Beach (execution site in the 20th century)
 - Armed robbery in post-civil-war Nigeria
+
+
+## References

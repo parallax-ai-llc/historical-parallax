@@ -20,7 +20,7 @@ Frank Morris and the Anglin brothers escaped from Alcatraz using fake heads, a r
 |------|-------|
 | 1962 | Three inmates escaped; never found |
 
-## References
+
 
 [^1]: Wikipedia, "Alcatraz Escape 1962" - https://en.wikipedia.org/wiki/Alcatraz_Escape_1962
 
@@ -60,3 +60,6 @@ Frank Morris and the Anglin brothers escaped from Alcatraz using fake heads, a r
 - **Primary reason for notoriety**: Extensive planning, convincing decoys, and the unresolved question of survival
 
 [^2]: Federal Bureau of Investigation (FBI), Alcatraz Escape case materials (archived/public summaries) - https://www.fbi.gov/
+
+
+## References

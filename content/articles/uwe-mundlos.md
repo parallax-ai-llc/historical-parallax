@@ -23,7 +23,7 @@ German neo-Nazi terrorist and NSU member who along with Böhnhardt carried out a
 | 2000 | Participated in serial murders of immigrants |
 | 2011 | Killed Böhnhardt and himself in murder-suicide |
 
-## References
+
 
 [^1]: Wikipedia, "Uwe Mundlos" - https://en.wikipedia.org/wiki/Uwe_Mundlos
 
@@ -49,3 +49,6 @@ German neo-Nazi terrorist and NSU member who along with Böhnhardt carried out a
 
 - The NSU case became a landmark example in Germany of sustained far-right terrorist violence.
 - It triggered broad debate about investigative bias, institutional oversight, and extremist threat assessment.
+
+
+## References

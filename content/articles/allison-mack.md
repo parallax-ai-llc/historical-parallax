@@ -22,7 +22,7 @@ Smallville actress who became a high-ranking NXIVM member and recruited women in
 | 2018 | Arrested for sex trafficking |
 | 2022 | Released from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Allison Mack" - https://en.wikipedia.org/wiki/Allison_Mack
 
@@ -58,3 +58,6 @@ Mack’s involvement is frequently cited in discussions of celebrity influence w
 
 [^2]: U.S. Department of Justice press releases and case summaries regarding NXIVM-related prosecutions (overview) - https://www.justice.gov/
 [^3]: Wikipedia, "NXIVM" (background and organizational context) - https://en.wikipedia.org/wiki/NXIVM
+
+
+## References

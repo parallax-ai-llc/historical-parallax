@@ -21,7 +21,7 @@ Duplicate — see Lakshmi Mittal.
 |------|-------|
 | 1950 | See Lakshmi Mittal entry |
 
-## References
+
 
 [^1]: Wikipedia, "Lakshmi Mittal duplicate" - https://en.wikipedia.org/wiki/Lakshmi_Mittal_duplicate
 
@@ -57,3 +57,6 @@ Key points (non-exhaustive):
 
 [^2]: Wikipedia, "Lakshmi Mittal" - https://en.wikipedia.org/wiki/Lakshmi_Mittal
 [^3]: Wikipedia, "ArcelorMittal" - https://en.wikipedia.org/wiki/ArcelorMittal
+
+
+## References

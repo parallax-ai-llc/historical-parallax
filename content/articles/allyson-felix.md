@@ -23,7 +23,7 @@ Allyson Felix is the most decorated American track and field Olympian with 11 me
 | 2012 | Won three gold at London |
 | 2022 | Retired as most decorated US track athlete |
 
-## References
+
 
 [^1]: Wikipedia, "Allyson Felix" - https://en.wikipedia.org/wiki/Allyson_Felix
 ## Background
@@ -48,3 +48,6 @@ Felix is also known for advocacy around athlete maternity protections and sponso
 
 - **Primary source**: the linked Wikipedia article in References.
 - **Article type**: short biographical overview intended for high-level context.
+
+
+## References

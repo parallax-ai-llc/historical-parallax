@@ -21,7 +21,7 @@ North Korean agents who bombed the Martyrs' Mausoleum in Rangoon, killing 21 inc
 |------|-------|
 | 1983 | Committed Rangoon bombing |
 
-## References
+
 
 [^1]: Wikipedia, "Rangoon Bombing Team" - https://en.wikipedia.org/wiki/Rangoon_Bombing_Team
 
@@ -51,3 +51,6 @@ North Korean agents who bombed the Martyrs' Mausoleum in Rangoon, killing 21 inc
 ## Additional References
 
 [^2]: Wikipedia, "Rangoon bombing" - https://en.wikipedia.org/wiki/Rangoon_bombing
+
+
+## References

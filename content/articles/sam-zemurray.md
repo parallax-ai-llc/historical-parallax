@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 1911 | Organized coup in Honduras |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Zemurray" - https://en.wikipedia.org/wiki/Sam_Zemurray
 
@@ -58,3 +58,6 @@ Zemurray's legacy is mixed:
 ## Notes on This Repository Entry
 
 This article's timeline is currently sparse. Expansion should prioritize verifiable, high-level milestones (company founding, mergers, leadership roles) and careful wording around alleged or documented political involvement.
+
+
+## References

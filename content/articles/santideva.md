@@ -5,7 +5,7 @@ birth: "0685-01-01"
 death: "0763-01-01"
 nationality: "Indian"
 occupation: ["Philosopher", "Poet", "Monk"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Shantideva.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Santideva"
 lastUpdated: "2026-02-21"

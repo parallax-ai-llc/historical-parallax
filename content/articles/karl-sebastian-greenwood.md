@@ -22,7 +22,7 @@ Co-founder of OneCoin cryptocurrency Ponzi scheme who was sentenced to 20 years 
 | 2016 | Co-founded OneCoin Ponzi scheme |
 | 2023 | Sentenced to 20 years by US court |
 
-## References
+
 
 [^1]: Wikipedia, "Karl Sebastian Greenwood" - https://en.wikipedia.org/wiki/Karl_Sebastian_Greenwood
 
@@ -56,3 +56,6 @@ Readers often look for:
 ## Impact and regulatory response
 
 Large-scale investment frauds can produce long tails of harm: dispersed victims across countries, complex restitution efforts, and secondary scams that target victims again with false “recovery” services. They also tend to accelerate scrutiny of crypto-adjacent marketing claims by regulators and consumer watchdogs.
+
+
+## References

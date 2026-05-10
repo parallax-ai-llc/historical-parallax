@@ -23,7 +23,7 @@ South Korean former interior minister who was impeached for his handling of the 
 | 2023 | Impeached by National Assembly |
 | 2024 | Constitutional Court dismissed impeachment |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Sang-min" - https://en.wikipedia.org/wiki/Lee_Sang-min
 
@@ -54,3 +54,6 @@ The episode is frequently discussed in the context of:
 - Government accountability after major disasters.
 - Institutional reforms to crowd safety and emergency coordination.
 - Public trust in disaster-prevention systems and crisis leadership.
+
+
+## References

@@ -23,7 +23,7 @@ German investigative journalist who exposed organized crime networks and corrupt
 | 2009 | Published Gangster Economy |
 | 2017 | Died of cancer |
 
-## References
+
 
 [^1]: Wikipedia, "Jürgen Roth" - https://en.wikipedia.org/wiki/J%C3%BCrgen_Roth
 
@@ -60,3 +60,6 @@ German investigative journalist who exposed organized crime networks and corrupt
 ## References (Additional)
 
 [^2]: Wikipedia, "Jürgen Roth" (biography and bibliography overview) - https://en.wikipedia.org/wiki/J%C3%BCrgen_Roth
+
+
+## References

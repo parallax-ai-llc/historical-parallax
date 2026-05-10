@@ -22,7 +22,7 @@ Belgian colonial rule over the Congo from 1908 to 1960 succeeded the Congo Free 
 | 1908 | Belgium annexed Congo Free State and created Belgian Congo |
 | 1960 | Congo gained independence after rapid decolonization |
 
-## References
+
 
 [^1]: Wikipedia, "Belgian Congo" - https://en.wikipedia.org/wiki/Belgian_Congo
 
@@ -61,3 +61,6 @@ Debates about Belgian Congo remain central to discussions of:
 - colonial violence and accountability
 - long-run economic patterns tied to resource extraction
 - the political instability that followed independence
+
+
+## References

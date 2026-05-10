@@ -23,7 +23,7 @@ Russian serial killer who murdered at least 9 homeless men in Belinsky between 2
 | 2012 | Arrested |
 | 2013 | Sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Bychkov" - https://en.wikipedia.org/wiki/Alexander_Bychkov
 
@@ -48,3 +48,6 @@ This article concerns a person primarily noted in sources for involvement in ser
 - Criminal investigation
 - Forensic evidence
 - Media coverage of crime
+
+
+## References

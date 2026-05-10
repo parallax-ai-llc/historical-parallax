@@ -23,7 +23,7 @@ Spanish pirate known for extreme cruelty. He locked crews below deck and set shi
 | 1828 | Attacked the Morning Star |
 | 1832 | Hanged in Gibraltar |
 
-## References
+
 
 [^1]: Wikipedia, "Benito de Soto" - https://en.wikipedia.org/wiki/Benito_de_Soto
 
@@ -48,3 +48,6 @@ The end of de Soto’s career is commonly summarized as:
 ## Notes on Sources
 
 For early-19th-century piracy, surviving documentation can be incomplete, sensationalized, or mediated through later writers. When expanding the narrative, it is generally safest to separate the “minimal facts” (dates, places, legal outcome) from the more dramatic details (specific methods and dialogue) unless independently corroborated.
+
+
+## References

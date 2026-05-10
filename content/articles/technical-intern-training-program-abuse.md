@@ -22,7 +22,7 @@ Japan's Technical Intern Training Program has been widely criticized as a cover 
 | 1993 | Program established |
 | 2023 | Government announced program overhaul |
 
-## References
+
 
 [^1]: Wikipedia, "Technical Intern Training Program Abuse" - https://en.wikipedia.org/wiki/Technical_Intern_Training_Program_Abuse
 
@@ -55,3 +55,6 @@ Announcements of overhauls and replacement frameworks are generally discussed in
 - Migrant labor policy in Japan
 - Labor trafficking and exploitation risks
 - Workplace health and safety enforcement
+
+
+## References

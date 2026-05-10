@@ -5,7 +5,7 @@ birth: "1972-02-21"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Singer", "Songwriter", "Producer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Seo_Taiji_on_October_20%2C_2014_%282%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seo_Taiji"
 lastUpdated: "2026-02-21"

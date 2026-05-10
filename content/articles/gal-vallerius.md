@@ -23,7 +23,7 @@ French dark web drug dealer known as OxyMonster who was a top vendor on Dream Ma
 | 2017 | Arrested at Atlanta airport by DEA |
 | 2018 | Sentenced to 20 years in federal prison |
 
-## References
+
 
 [^1]: Wikipedia, "Gal Vallerius" - https://en.wikipedia.org/wiki/Gal_Vallerius
 
@@ -48,3 +48,6 @@ He was arrested in the United States after traveling internationally, which remo
 Court reporting summarizes his outcome as a lengthy federal sentence. In the broader literature on cyber-enabled drug trafficking, such sentences are framed as an attempt to raise the perceived cost of operating as a marketplace “top vendor,” while acknowledging that demand and platform churn can keep the ecosystem resilient.
 
 A commonly repeated detail in summaries of the case is that his arrest occurred while he was traveling to participate in a beard and moustache competition, which helped make the story widely shareable in mainstream media.
+
+
+## References

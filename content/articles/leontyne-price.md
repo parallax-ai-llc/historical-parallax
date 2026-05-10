@@ -4,6 +4,7 @@ birth: "1927-02-10"
 death: "2024-10-10"
 nationality: "American"
 occupation: ["Opera Singer", "Soprano"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Leontyne_Price_%28color%29_by_Jack_Mitchell.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leontyne_Price"
 lastUpdated: "2026-03-12"

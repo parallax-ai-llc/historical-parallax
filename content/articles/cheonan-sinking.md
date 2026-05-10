@@ -21,7 +21,7 @@ North Korean submarine torpedo sank the South Korean naval corvette Cheonan kill
 |------|-------|
 | 2010 | 46 sailors killed in torpedo attack |
 
-## References
+
 
 [^1]: Wikipedia, "Cheonan Sinking" - https://en.wikipedia.org/wiki/Cheonan_Sinking
 
@@ -59,3 +59,6 @@ North Korean submarine torpedo sank the South Korean naval corvette Cheonan kill
 
 - UN Security Council, Presidential Statement on the sinking of the *Cheonan* (2010).
 - South Korea Ministry of National Defense materials summarizing the JIG investigation (2010).
+
+
+## References

@@ -24,7 +24,7 @@ Two truck bombs detonated in Mogadishu killing 587 people in the deadliest terro
 | 2017-10 (days after) | Somali government declares a period of national mourning and organizes large-scale medical and humanitarian response efforts. |
 | 2017-10 (weeks after) | Investigations and public reporting focus on suspected al-Shabaab involvement; the attack becomes a reference point in Somali counterterrorism policy debates. |
 
-## References
+
 
 [^1]: Wikipedia, "Mogadishu Truck Bombings 2017" - https://en.wikipedia.org/wiki/Mogadishu_Truck_Bombings_2017
 
@@ -55,3 +55,6 @@ No group immediately and formally claimed responsibility in the aftermath. Somal
 ## Legacy
 
 The bombings became a defining reference point in discussions about Somalia’s security situation, urban resilience, and the humanitarian toll of insurgent violence. The scale of the casualties and destruction also prompted renewed attention to victim identification, survivor support, and long-term memorialization.
+
+
+## References

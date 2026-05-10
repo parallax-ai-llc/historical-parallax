@@ -22,7 +22,7 @@ Former Ghanaian President whose administration faced corruption allegations incl
 | 2001 | Became President |
 | 2009 | Left office amid corruption allegations |
 
-## References
+
 
 [^1]: Wikipedia, "John Agyekum Kufuor" - https://en.wikipedia.org/wiki/John_Agyekum_Kufuor
 
@@ -51,3 +51,6 @@ After leaving office in 2009, Kufuor continued to appear in public life as an el
 - Ghana (Fourth Republic)
 - New Patriotic Party
 - ECOWAS
+
+
+## References

@@ -23,7 +23,7 @@ American dentist who illegally killed Cecil the lion in Zimbabwe's Hwange Nation
 | 2015 | Faced massive public backlash; business affected |
 | 2015 | Zimbabwe did not press charges |
 
-## References
+
 
 [^1]: Wikipedia, "Walter Palmer" - https://en.wikipedia.org/wiki/Walter_Palmer
 
@@ -52,3 +52,6 @@ Cecil's death became a reference point in debates about trophy hunting and wildl
 - Whether trophy hunting revenue supports conservation efforts and local communities.
 - How wildlife permits are issued and enforced near protected areas.
 - Ethical considerations around hunting animals that are habituated to humans or monitored by researchers.
+
+
+## References

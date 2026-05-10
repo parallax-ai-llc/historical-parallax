@@ -22,7 +22,7 @@ NAACP field secretary Medgar Evers was shot in the back in his driveway by white
 | 1963 | Evers assassinated |
 | 1994 | Beckwith finally convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Medgar Evers Assassination" - https://en.wikipedia.org/wiki/Medgar_Evers_Assassination
 
@@ -50,3 +50,6 @@ The case became emblematic of the era's racial violence and the long delays that
 ## Further reading
 
 For high-level overviews and primary details, the Wikipedia article is a convenient starting point; researchers often consult contemporaneous news coverage and later histories of the civil rights movement for additional context.
+
+
+## References

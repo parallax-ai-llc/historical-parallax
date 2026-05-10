@@ -5,7 +5,7 @@ birth: "1935-07-12"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Satoshi_%C5%8Cmura_5040-2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Satoshi_Omura"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Satoshi Omura is a Japanese biochemist who shared the 2015 Nobel Prize for disco
 | 1973 | Isolated avermectin-producing bacteria |
 | 2015 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Satoshi Omura" - https://en.wikipedia.org/wiki/Satoshi_Omura
 
@@ -49,3 +49,6 @@ The public-health significance of Omura’s work is often described in terms of 
 In modern biomedical research narratives, Omura is frequently cited as a prominent example of how natural products and microbial ecology can yield globally transformative medicines when paired with sustained clinical development.
 
 His Nobel recognition was shared with other researchers associated with related antiparasitic therapy discoveries.
+
+
+## References

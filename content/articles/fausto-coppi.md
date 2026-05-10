@@ -24,7 +24,7 @@ Fausto Coppi won the Tour de France twice and the Giro d'Italia five times. He w
 | 1952 | Won fifth Giro and second Tour |
 | 1960 | Died of malaria |
 
-## References
+
 
 [^1]: Wikipedia, "Fausto Coppi" - https://en.wikipedia.org/wiki/Fausto_Coppi
 
@@ -48,3 +48,6 @@ Coppi is remembered as one of cycling's foundational legends. His palmarès, tra
 
 - **Giro–Tour double:** Winning both the Giro d'Italia and Tour de France in the same year is rare and is used as a shorthand for dominance across varied terrain and race formats.
 - **Post-war cycling:** Coppi's peak years coincided with a period when cycling served as mass entertainment and national symbolism across Europe.
+
+
+## References

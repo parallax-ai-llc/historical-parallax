@@ -23,7 +23,7 @@ American boy kidnapped at age 11 by Michael Devlin and held captive for over fou
 | 2007 | Found alive in Devlin's apartment |
 | 2008 | Devlin sentenced to multiple life terms |
 
-## References
+
 
 [^1]: Wikipedia, "Shawn Hornbeck" - https://en.wikipedia.org/wiki/Shawn_Hornbeck
 
@@ -54,3 +54,6 @@ The Hornbeck case is often referenced in discussions about:
 - The importance of sustained attention to long-term missing-person cases.
 - The role of community awareness and coordinated reporting.
 - Support needs for survivors and families after recovery.
+
+
+## References

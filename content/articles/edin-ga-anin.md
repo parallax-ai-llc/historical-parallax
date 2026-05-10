@@ -23,7 +23,7 @@ Bosnian-Dutch drug lord known as Tito who ran one of Europe's largest cocaine im
 | 2022 | Named by Europol as one of Europe's most wanted |
 | 2022 | Placed on EU sanctions list |
 
-## References
+
 
 [^1]: Wikipedia, "Edin Gačanin" - https://en.wikipedia.org/wiki/Edin_Ga%C4%8Danin
 
@@ -52,3 +52,6 @@ Open sources vary in specificity about dates, locations, and proven acts. Many d
 - Port of Antwerp drug trafficking
 - Europol
 - Transnational organized crime
+
+
+## References

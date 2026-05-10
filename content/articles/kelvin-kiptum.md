@@ -5,7 +5,7 @@ birth: "1999-12-02"
 death: "2024-02-11"
 nationality: "Kenyan"
 occupation: ["Athlete", "Marathon Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kelvin_Kiptum_%28KEN%29_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kelvin_Kiptum"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Kelvin Kiptum set the marathon WR of 2:00:35 at 2023 Chicago. He died in a car a
 | 2023 | Set marathon WR of 2:00:35 |
 | 2024 | Died in car accident |
 
-## References
+
 
 [^1]: Wikipedia, "Kelvin Kiptum" - https://en.wikipedia.org/wiki/Kelvin_Kiptum
 
@@ -51,3 +51,6 @@ Kiptum’s death in a 2024 road accident prompted widespread tributes across ath
 ## Additional Reference
 
 [^2]: World Athletics (records and governance overview) - https://worldathletics.org/
+
+
+## References

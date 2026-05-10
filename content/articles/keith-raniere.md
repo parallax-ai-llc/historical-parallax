@@ -5,7 +5,7 @@ birth: "1960-08-26"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Sex Trafficker", "Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/US_v._Raniere_GovtExhibit_GX46.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Keith_Raniere"
 lastUpdated: "2026-02-21"

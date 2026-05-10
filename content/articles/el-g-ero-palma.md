@@ -22,7 +22,7 @@ Sinaloa Cartel co-founder Héctor Luis Palma Salazar known for his brutal rivalr
 | 1989 | Co-founded Sinaloa Cartel alongside El Chapo |
 | 2020 | Released from US prison and immediately rearrested in Mexico |
 
-## References
+
 
 [^1]: Wikipedia, "El Güero Palma" - https://en.wikipedia.org/wiki/El_G%C3%BCero_Palma
 
@@ -69,3 +69,6 @@ For a more rigorous dossier, typical targets include:
 ## References (Extended)
 
 - [^1] provides a consolidated biography and sources; primary legal documents are recommended when summarizing specific allegations.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1942-08-24"
 death: "Unknown"
 nationality: "American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Karen_Uhlenbeck_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karen_Uhlenbeck"
 lastUpdated: "2026-02-21"

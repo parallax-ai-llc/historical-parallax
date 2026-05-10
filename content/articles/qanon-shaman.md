@@ -21,7 +21,7 @@ Jake Angeli became the face of the Capitol riot wearing a horned fur hat, convic
 |------|-------|
 | 2021 | Convicted of obstruction (pleaded guilty; later sentenced to 41 months in prison) |
 
-## References
+
 
 [^1]: Wikipedia, "QAnon Shaman" - https://en.wikipedia.org/wiki/QAnon_Shaman
 
@@ -48,3 +48,6 @@ Jake Angeli became the face of the Capitol riot wearing a horned fur hat, convic
 ## Additional Notes
 
 - The nickname "QAnon Shaman" is a media label rather than an official title; it reflects how he was popularly identified during and after January 6.[^1]
+
+
+## References

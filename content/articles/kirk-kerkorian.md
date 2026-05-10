@@ -5,7 +5,7 @@ birth: "1917-06-06"
 death: "2015-06-15"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/2f/Kirk_Kerkorian_in_1973.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kirk_Kerkorian"
 lastUpdated: "2026-02-21"

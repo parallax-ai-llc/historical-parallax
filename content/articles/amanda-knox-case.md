@@ -22,7 +22,7 @@ American student Amanda Knox was convicted and later acquitted of the murder of 
 | 2007 | Meredith Kercher murdered |
 | 2015 | Knox definitively acquitted |
 
-## References
+
 
 [^1]: Wikipedia, "Amanda Knox Case" - https://en.wikipedia.org/wiki/Amanda_Knox_Case
 
@@ -53,3 +53,6 @@ American student Amanda Knox was convicted and later acquitted of the murder of 
 ## References (Additional)
 
 [^2]: Court reporting and appellate summaries (English-language secondary sources; details vary by jurisdiction and translation).
+
+
+## References

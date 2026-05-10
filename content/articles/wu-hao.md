@@ -26,7 +26,7 @@ Wu Hao is a Chinese-American structural biologist at Boston Children's Hospital 
 | 2012 | Joined Boston Children's Hospital |
 | 2020 | Advanced innate immunity structural biology |
 
-## References
+
 
 [^1]: Wikipedia, "Wu Hao" - https://en.wikipedia.org/wiki/Wu_Hao
 
@@ -52,3 +52,6 @@ Knowing a structure can help researchers:
 ## Institutional Context
 
 Work at major research hospitals and medical schools often connects structural discoveries to disease relevance, including inflammation and infection response, by linking molecular mechanisms to cell and organism-level phenotypes.
+
+
+## References

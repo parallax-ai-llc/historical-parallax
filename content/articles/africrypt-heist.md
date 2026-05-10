@@ -21,7 +21,7 @@ South African brothers disappeared with $3.6 billion in Bitcoin from their AfriC
 |------|-------|
 | 2021 | Disappeared with $3.6 billion |
 
-## References
+
 
 [^1]: Wikipedia, "AfriCrypt Heist" - https://en.wikipedia.org/wiki/AfriCrypt_Heist
 
@@ -60,3 +60,6 @@ The frequently quoted figure (around **$3.6B**) reflects an estimate based on BT
 - The definitive size of the loss and the exact wallets involved.
 - Whether the event was primarily fraud, mismanagement, or a genuine external compromise.
 - The ultimate recoverability of any missing assets.
+
+
+## References

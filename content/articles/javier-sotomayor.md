@@ -44,10 +44,13 @@ Sotomayor's 2.45 m mark is frequently cited as one of track and field's most ico
 
 Public accounts also note a doping suspension period late in his competitive years. Overviews typically treat this as part of the complexity of his legacy while still recognizing his competitive results and the official record status.
 
-## References
+
 
 [^1]: Wikipedia, "Javier Sotomayor" - https://en.wikipedia.org/wiki/Javier_Sotomayor
 
 ## See Also
 
 - High jump world record progression
+
+
+## References

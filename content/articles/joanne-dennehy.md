@@ -22,7 +22,7 @@ British serial killer who murdered three men and stabbed two others in a 10-day 
 | 2013 | Murdered 3 men; stabbed 2 more in 10-day spree |
 | 2014 | Convicted; given whole life order |
 
-## References
+
 
 [^1]: Wikipedia, "Joanne Dennehy" - https://en.wikipedia.org/wiki/Joanne_Dennehy
 
@@ -50,3 +50,6 @@ The Dennehy case has been used in commentary about sentencing policy, the manage
 ## Notes on Sources
 
 Most high-level summaries of the case rely on court reporting and official statements, with later accounts synthesizing trial evidence and sentencing remarks.
+
+
+## References

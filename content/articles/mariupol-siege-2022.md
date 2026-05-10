@@ -21,7 +21,7 @@ Russian forces besieged the Ukrainian city of Mariupol for 86 days, bombing a ma
 |------|-------|
 | 2022 | 86-day siege killed estimated 25,000 civilians |
 
-## References
+
 
 [^1]: Wikipedia, "Mariupol Siege 2022" - https://en.wikipedia.org/wiki/Mariupol_Siege_2022
 
@@ -62,3 +62,6 @@ Mariupol is a port city on the Sea of Azov in southeastern Ukraine. After Russia
 
 [^2]: United Nations Office of the High Commissioner for Human Rights (OHCHR), Ukraine conflict updates and civilian casualty reporting - https://www.ohchr.org/
 [^3]: International Committee of the Red Cross (ICRC), statements and operational updates related to Mariupol (2022) - https://www.icrc.org/
+
+
+## References

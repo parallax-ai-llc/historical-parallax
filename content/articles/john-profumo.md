@@ -22,7 +22,7 @@ British politician at the center of the 1963 Profumo Affair—a scandal involvin
 | 1963 | Lied to Parliament; forced to resign |
 | 1963 | Scandal contributed to fall of Macmillan government |
 
-## References
+
 
 [^1]: Wikipedia, "John Profumo" - https://en.wikipedia.org/wiki/John_Profumo
 
@@ -51,3 +51,6 @@ British politician at the center of the 1963 Profumo Affair—a scandal involvin
 
 - This article is a high-level summary based on publicly available reference material (see References).
 - Specific dates, roles, and names should be cross-checked against primary sources when used for research or publication.
+
+
+## References

@@ -22,7 +22,7 @@ Australian bushranger Andrew George Scott who staged armed holdups and bank robb
 | 1869 | Began criminal career |
 | 1880 | Hanged in Sydney |
 
-## References
+
 
 [^1]: Wikipedia, "Captain Moonlite" - https://en.wikipedia.org/wiki/Captain_Moonlite
 
@@ -49,3 +49,6 @@ Captain Moonlite has appeared in biographies, historical studies, and creative w
 ## References (Additional)
 
 [^2]: State Library of NSW / archival collections (search: "Moonlite" and "Scott, Andrew George" for manuscript material) - https://www.sl.nsw.gov.au/
+
+
+## References

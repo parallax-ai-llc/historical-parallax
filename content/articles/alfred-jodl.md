@@ -23,7 +23,7 @@ German general who served as chief of operations staff and signed the unconditio
 | 1945 | Signed German unconditional surrender |
 | 1946 | Convicted at Nuremberg; executed |
 
-## References
+
 
 [^1]: Wikipedia, "Alfred Jodl" - https://en.wikipedia.org/wiki/Alfred_Jodl
 
@@ -49,3 +49,6 @@ After the war, Jodl’s legacy became a subject of controversy in Germany, inclu
 ## References (additional)
 
 [^2]: International Military Tribunal (Nuremberg), judgment and documentary record (primary trial materials), via Wikipedia and linked sources.
+
+
+## References

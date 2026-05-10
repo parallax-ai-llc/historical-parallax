@@ -19,7 +19,7 @@ Paul Ogorzow, the 'S-Bahn Murderer,' was a Nazi Party member who murdered eight 
 |------|-------|
 | 1912 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -57,3 +57,6 @@ Paul Ogorzow, the 'S-Bahn Murderer,' was a Nazi Party member who murdered eight 
 
 ## Additional references
 - Wikipedia contributors, "Paul Ogorzow" (for a bibliography trail and cross-links). https://en.wikipedia.org/wiki/Paul_Ogorzow
+
+
+## References

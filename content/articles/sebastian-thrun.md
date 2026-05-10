@@ -5,7 +5,7 @@ birth: "1967-05-14"
 death: "living"
 nationality: "German-American"
 occupation: ["Computer Scientist", "Roboticist", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sebastian_Thrun_by_Christopher_Michel_-_6.jpg/3840px-Sebastian_Thrun_by_Christopher_Michel_-_6.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sebastian_Thrun"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "-0050-01-01"
 death: "0030-01-01"
 nationality: "Jewish"
 occupation: ["Rabbi", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Shamai.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shammai"
 lastUpdated: "2026-02-21"

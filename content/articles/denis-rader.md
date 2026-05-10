@@ -24,7 +24,7 @@ American serial killer known as 'BTK' (Bind, Torture, Kill) who murdered 10 peop
 | 1991 | Committed last known murder |
 | 2005 | Arrested; sentenced to 10 consecutive life terms |
 
-## References
+
 
 [^1]: Wikipedia, "Denis Rader" - https://en.wikipedia.org/wiki/Denis_Rader
 
@@ -52,3 +52,6 @@ American serial killer known as 'BTK' (Bind, Torture, Kill) who murdered 10 peop
 
 - The BTK case influenced books, documentaries, and broader true-crime media.
 - It is also cited in public conversations about digital forensics and operational security mistakes.
+
+
+## References

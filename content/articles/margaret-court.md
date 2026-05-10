@@ -41,7 +41,7 @@ After retiring from top-level competition, Court became involved in ministry and
 
 Beyond tennis, Court has been a subject of public debate due to her outspoken social and political views, including statements about LGBTQ+ issues. These controversies have periodically resurfaced in discussions about honors and naming within Australian tennis venues.
 
-## References
+
 
 [^1]: Wikipedia, "Margaret Court" - https://en.wikipedia.org/wiki/Margaret_Court
 
@@ -49,3 +49,6 @@ Beyond tennis, Court has been a subject of public debate due to her outspoken so
 
 - Grand Slam (tennis)
 - Open Era tennis
+
+
+## References

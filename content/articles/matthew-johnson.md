@@ -21,7 +21,7 @@ Murdered Carl Williams in Barwon Prison, receiving a reduced sentence for killin
 |------|-------|
 | 2010 | Murdered Carl Williams in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Matthew Johnson" - https://en.wikipedia.org/wiki/Matthew_Johnson
 
@@ -57,3 +57,6 @@ Murdered Carl Williams in Barwon Prison, receiving a reduced sentence for killin
 
 - This article is intentionally conservative about specific tactical details (e.g., exact method, timing, or surveillance findings) unless corroborated by reliable primary reporting.
 - For authoritative specifics, prefer court documents and contemporaneous reporting from established Australian outlets.
+
+
+## References

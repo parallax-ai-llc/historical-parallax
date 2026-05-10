@@ -21,7 +21,7 @@ Series of ethnic and religious massacres in Plateau State killing thousands over
 |------|-------|
 | 2010 | Major ethnic massacres |
 
-## References
+
 
 [^1]: Wikipedia, "Plateau State Massacres" - https://en.wikipedia.org/wiki/Plateau_State_Massacres
 
@@ -64,3 +64,6 @@ The term "Plateau State massacres" is commonly used for repeated episodes of com
 
 [^2]: Human Rights Watch reporting on communal violence in and around Jos/Plateau State (background and incident documentation) - https://www.hrw.org/
 [^3]: International Crisis Group, Nigeria conflict analysis (communal violence, governance, and security context) - https://www.crisisgroup.org/
+
+
+## References

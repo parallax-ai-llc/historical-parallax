@@ -5,7 +5,7 @@ birth: "-740-01-01"
 death: "-681-01-01"
 nationality: "Assyria"
 occupation: ["Conqueror", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sanherib-tr-4271.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sennacherib"
 lastUpdated: "2026-02-26"

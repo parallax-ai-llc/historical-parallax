@@ -22,7 +22,7 @@ Lockheed Corporation paid $3 million in bribes to Japanese PM Kakuei Tanaka to s
 | 1976 | Bribery scandal exposed |
 | 1983 | Tanaka convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Lockheed Scandal Japan" - https://en.wikipedia.org/wiki/Lockheed_Scandal_Japan
 
@@ -61,3 +61,6 @@ Lockheed Corporation paid $3 million in bribes to Japanese PM Kakuei Tanaka to s
 - High-value procurement decisions can be especially vulnerable to corruption without strong controls and disclosure.
 - Political influence can persist through factions and networks even when formal office is lost.
 - The Lockheed scandal’s longevity and prominence helped cement it as a defining corruption episode in postwar Japan.
+
+
+## References

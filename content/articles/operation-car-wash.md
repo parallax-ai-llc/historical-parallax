@@ -23,7 +23,7 @@ Massive Brazilian corruption investigation that uncovered billions in bribes pai
 | 2016 | Brazilian president impeached |
 | 2017 | Lula convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Operation Car Wash" - https://en.wikipedia.org/wiki/Operation_Car_Wash
 
@@ -51,3 +51,6 @@ This article is a brief overview of a complex, multi-year set of cases. For time
 ## Legacy
 
 Operation Car Wash is frequently cited in debates about anti-corruption strategy, prosecutorial power, and the trade-offs between aggressive enforcement and procedural safeguards.
+
+
+## References

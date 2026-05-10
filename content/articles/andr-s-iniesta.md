@@ -22,7 +22,7 @@ Andrés Iniesta scored the winning goal in the 2010 World Cup final. He won four
 | 2009 | Won treble |
 | 2010 | Scored WC-winning goal |
 
-## References
+
 
 [^1]: Wikipedia, "Andrés Iniesta" - https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta
 
@@ -51,3 +51,6 @@ After his Barcelona tenure, Iniesta continued his professional career abroad. He
 ## Further Reading
 
 The Wikipedia article linked above includes season-by-season career statistics, honors, and a fuller chronology of his club and international career.
+
+
+## References

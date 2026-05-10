@@ -5,7 +5,7 @@ birth: "1923-06-10"
 death: "1991-11-05"
 nationality: "United Kingdom"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Robert_Maxwell_1989_%283x4_cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Maxwell"
 lastUpdated: "2026-02-26"

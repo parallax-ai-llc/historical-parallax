@@ -23,7 +23,7 @@ Indian bandit and ivory smuggler who terrorized Karnataka and Tamil Nadu forests
 | 2000 | Kidnapped film star Rajkumar |
 | 2004 | Killed in police ambush |
 
-## References
+
 
 [^1]: Wikipedia, "Veerappan" - https://en.wikipedia.org/wiki/Veerappan
 
@@ -48,3 +48,6 @@ Veerappan was killed in a 2004 police operation that has been described as an am
 His life and the pursuit of him have been portrayed in books, documentaries, and films, and he remains a reference point in discussions of organized crime connected to environmental exploitation.
 
 Many numerical claims about casualties and incidents vary by source; readers should verify figures against primary reporting where possible.
+
+
+## References

@@ -43,10 +43,13 @@ The publicly available summary does not provide a full, consistently reported ac
 
 The case is often cited as an example of how mobility, informal lodging, and identity fraud can complicate multi-jurisdiction criminal investigations.
 
-## References
+
 
 [^1]: Wikipedia, "Zeng Kaigui" - https://en.wikipedia.org/wiki/Zeng_Kaigui
 
 ## Notes
 
 This article is intentionally high-level due to limited publicly accessible English-language sourcing.
+
+
+## References

@@ -21,7 +21,7 @@ Placeholder — political figure.
 |------|-------|
 | 1922 | Born in Malaysia |
 
-## References
+
 
 [^1]: Wikipedia, "Tun Hussain Onn" - https://en.wikipedia.org/wiki/Tun_Hussain_Onn
 
@@ -71,3 +71,6 @@ His public legacy is often framed around moderation, institutional governance, a
 ## References (Expanded)
 
 [^2]: Official Malaysian government and archival biographies (see Wikipedia references for leads and citations).
+
+
+## References

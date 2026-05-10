@@ -23,7 +23,7 @@ Oscar Robertson, 'The Big O,' averaged a triple-double for an entire season in 1
 | 1962 | Averaged triple-double for the season |
 | 1971 | Won NBA championship with Milwaukee |
 
-## References
+
 
 [^1]: Wikipedia, "Oscar Robertson" - https://en.wikipedia.org/wiki/Oscar_Robertson
 
@@ -57,3 +57,6 @@ Robertson is commonly listed among the greatest guards in basketball history, va
 
 - NBA history and milestones
 - NBA free agency and labor relations
+
+
+## References

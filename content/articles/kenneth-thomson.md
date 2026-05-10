@@ -5,7 +5,7 @@ birth: "1923-09-01"
 death: "2006-06-12"
 nationality: "Canadian"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e9/Kenneth_Thomson%2C_2nd_Baron_Thomson_of_Fleet.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenneth_Thomson"
 lastUpdated: "2026-02-21"

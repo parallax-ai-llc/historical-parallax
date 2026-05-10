@@ -19,7 +19,7 @@ Mehdi Nemmouche carried out the 2014 Jewish Museum of Belgium shooting in Brusse
 |------|-------|
 | 1985 | Born |\n| 2000s | Reported criminal activity and periods of imprisonment in France (as described in press and court reporting). |\n| 2012–2013 | Traveled to Syria; later described by investigators as having joined or fought alongside ISIS-affiliated forces. |\n| 2014-05 | Jewish Museum of Belgium shooting in Brussels; four victims killed. |\n| 2014-05 | Arrested in Marseille after traveling by bus from Brussels; weapons and other items were reportedly recovered. |\n| 2019 | Convicted in Belgium for the museum attack and sentenced to life imprisonment. |\n| 2022 | Convicted in France for the kidnapping and torture of journalists in Syria; received a life sentence (French proceedings related to ISIS hostage-taking). |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -51,3 +51,6 @@ This article is a high-level summary. For precise dates, charges, and evidentiar
 - Primary known case: 2014 Brussels museum shooting.
 - Courts involved: Belgium (attack) and France (hostage-taking case).
 - Status: Serving life sentences.
+
+
+## References

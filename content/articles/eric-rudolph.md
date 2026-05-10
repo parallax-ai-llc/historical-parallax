@@ -46,7 +46,7 @@ Eric Robert Rudolph carried out the 1996 Centennial Olympic Park bombing in Atla
 - **Security and emergency response**: The Olympic Park bombing is frequently cited in discussions of major-event security, perimeter control, and rapid incident response.
 - **Domestic terrorism context**: The case is commonly referenced in analyses of ideologically motivated violence in the United States, especially violence connected to anti-abortion extremism.
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: FBI and major U.S. news coverage summaries of the 1998–2003 manhunt and 2003 capture.
 [^3]: “Army of God” / manifesto-style writings attributed to Rudolph; secondary reporting summarizing stated motives.
@@ -67,3 +67,6 @@ Eric Robert Rudolph carried out the 1996 Centennial Olympic Park bombing in Atla
 - The episode is used to study domestic extremism, target selection, and how security posture changes around high-profile events.
 - It also highlights the practical challenges of manhunts in rural terrain and the resource demands placed on multi-jurisdiction investigations.
 
+
+
+## References

@@ -23,7 +23,7 @@ Italian Ndrangheta member convicted of orchestrating the 2007 Duisburg massacre 
 | 2009 | Arrested in Amsterdam |
 | 2011 | Sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Giovanni Strangio" - https://en.wikipedia.org/wiki/Giovanni_Strangio
 
@@ -53,3 +53,6 @@ Strangio was arrested outside Italy (reported as Amsterdam) and later faced pros
 
 - Reporting on the ’Ndrangheta and the Duisburg case in European media
 - Background on Calabria-based clan structures and diaspora networks
+
+
+## References

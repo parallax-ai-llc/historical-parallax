@@ -21,7 +21,7 @@ Wall Street Journal reporter imprisoned in Russia on espionage charges widely se
 |------|-------|
 | 2023 | Arrested on espionage charges in Russia |
 
-## References
+
 
 [^1]: Wikipedia, "Evan Gershkovich" - https://en.wikipedia.org/wiki/Evan_Gershkovich
 
@@ -50,3 +50,6 @@ Evan Gershkovich is an American journalist who worked for *The Wall Street Journ
 
 [^2]: The Wall Street Journal newsroom statements and coverage (case background and denial of charges) — https://www.wsj.com/
 [^3]: U.S. government public statements describing the detention (status and advocacy) — https://www.state.gov/
+
+
+## References

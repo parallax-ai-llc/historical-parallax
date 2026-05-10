@@ -22,7 +22,7 @@ SS captain who participated in the Ardeatine massacre killing 335 Italian civili
 | 1944 | Participated in Ardeatine massacre |
 | 1998 | Convicted of murder in Italy |
 
-## References
+
 
 [^1]: Wikipedia, "Erich Priebke" - https://en.wikipedia.org/wiki/Erich_Priebke
 
@@ -51,3 +51,6 @@ When his identity and role became widely public, Italian authorities pursued leg
 ## Further Reading
 
 See the massacre entry and related postwar extradition cases for additional context.
+
+
+## References

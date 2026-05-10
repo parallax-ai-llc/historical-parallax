@@ -23,7 +23,7 @@ Indonesian serial killer known as Ryan who murdered 11 people between 2006 and 2
 | 2008 | Arrested |
 | 2008 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Very Idham Henyansyah" - https://en.wikipedia.org/wiki/Very_Idham_Henyansyah
 
@@ -48,3 +48,6 @@ Coverage often emphasized the brutality of the crimes and the shock experienced 
 Readers should corroborate key facts—such as dates of birth, victim counts, and final legal status—across multiple reliable references, especially where duplicate articles exist under different spellings.
 
 This page focuses on high-level context and avoids adding details that cannot be consistently verified.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1960-03-21"
 death: "Unknown"
 nationality: "South Africa"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Sharpeville_massacre.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sharpeville_Massacre"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ South African police opened fire on peaceful anti-pass law protesters in Sharpev
 |------|-------|
 | 1960 | 69 killed by police |
 
-## References
+
 
 [^1]: Wikipedia, "Sharpeville Massacre" - https://en.wikipedia.org/wiki/Sharpeville_Massacre
 
@@ -81,3 +81,6 @@ The massacre remains a central event in South African historical memory. Commemo
 - the importance of civil and political rights protections
 
 These commemorative themes are part of why Sharpeville is referenced in discussions of human rights well beyond South Africa.
+
+
+## References

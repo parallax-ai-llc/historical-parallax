@@ -22,7 +22,7 @@ British colonial forces detained 1.5 million Kenyans in concentration camps duri
 | 1952 | Emergency declared |
 | 2013 | UK apologized and paid compensation |
 
-## References
+
 
 [^1]: Wikipedia, "Mau Mau Uprising" - https://en.wikipedia.org/wiki/Mau_Mau_Uprising
 
@@ -50,3 +50,6 @@ British colonial forces detained 1.5 million Kenyans in concentration camps duri
 
 - Decolonization
 - Kenya Emergency
+
+
+## References

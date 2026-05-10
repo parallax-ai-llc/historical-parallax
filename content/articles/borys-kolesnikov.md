@@ -22,7 +22,7 @@ Ukrainian oligarch and politician convicted of kidnapping and extortion. Used po
 | 2003 | Convicted of kidnapping |
 | 2005 | Released and entered politics |
 
-## References
+
 
 [^1]: Wikipedia, "Borys Kolesnikov" - https://en.wikipedia.org/wiki/Borys_Kolesnikov
 
@@ -58,3 +58,6 @@ Ukrainian oligarch and politician convicted of kidnapping and extortion. Used po
 - Ukrainian oligarchs
 - Party of Regions (Ukraine)
 - Corruption in Ukraine
+
+
+## References

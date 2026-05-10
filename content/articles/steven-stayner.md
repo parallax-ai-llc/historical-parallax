@@ -23,7 +23,7 @@ American boy kidnapped at age 7 by Kenneth Parnell and held for seven years befo
 | 1980 | Escaped with another kidnapped boy |
 | 1989 | Died in motorcycle accident at age 24 |
 
-## References
+
 
 [^1]: Wikipedia, "Steven Stayner" - https://en.wikipedia.org/wiki/Steven_Stayner
 
@@ -50,3 +50,6 @@ After returning home, survivors of prolonged abduction often face complex challe
 ## Notes
 
 This article is a high-level summary intended for quick reference.
+
+
+## References

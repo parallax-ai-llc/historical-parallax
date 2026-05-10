@@ -23,7 +23,7 @@ Carolina Klüft won Olympic heptathlon gold at 2004 and three World titles, neve
 | 2004 | Won Olympic gold at Athens |
 | 2007 | Won third World title |
 
-## References
+
 
 [^1]: Wikipedia, "Carolina Klüft" - https://en.wikipedia.org/wiki/Carolina_Kl%C3%BCft
 
@@ -48,3 +48,6 @@ Carolina Klüft won Olympic heptathlon gold at 2004 and three World titles, neve
 - After establishing herself in the heptathlon, she explored other events at elite level, a transition that is often challenging because the training demands differ from multi-event preparation.
 - Retrospectives frequently highlight her championship record as a benchmark for consistency rather than single-meet scoring peaks.
 - In athletics commentary, her career is sometimes used to explain how combined-event athletes balance technique work across many disciplines with injury prevention.
+
+
+## References

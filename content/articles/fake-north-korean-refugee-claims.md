@@ -21,7 +21,7 @@ Some individuals have fabricated or exaggerated their North Korean defector stor
 |------|-------|
 | 2015 | Shin Dong-hyuk story questioned |
 
-## References
+
 
 [^1]: Wikipedia, "Fake North Korean Refugee Claims" - https://en.wikipedia.org/wiki/Fake_North_Korean_Refugee_Claims
 
@@ -69,3 +69,6 @@ Fabricated or exaggerated stories can have broader consequences:
 ## Notes
 
 This topic is often discussed as an issue of *claims and verification* rather than a blanket statement about defectors as a group. Many defector accounts are treated as credible, while specific stories may be disputed, corrected, or retracted over time.
+
+
+## References

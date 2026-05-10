@@ -23,7 +23,7 @@ Hacking group of young English-speaking cybercriminals responsible for high-prof
 | 2023 | MGM Resorts attack |
 | 2024 | Members arrested |
 
-## References
+
 
 [^1]: Wikipedia, "Scattered Spider" - https://en.wikipedia.org/wiki/Scattered_Spider
 
@@ -48,3 +48,6 @@ The MGM Resorts and Caesars incidents drew attention because they affected consu
 ## Defensive Lessons
 
 Organizations frequently cite the case when emphasizing strict identity verification for help-desk workflows, phishing-resistant MFA, privileged-access monitoring, and rapid containment playbooks for identity compromise.
+
+
+## References

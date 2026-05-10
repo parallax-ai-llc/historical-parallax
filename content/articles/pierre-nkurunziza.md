@@ -23,7 +23,7 @@ Burundian president who sparked a political crisis in 2015 by running for a disp
 | 2015 | Third term bid sparked crisis and failed coup |
 | 2020 | Died suddenly; officially of cardiac arrest |
 
-## References
+
 
 [^1]: Wikipedia, "Pierre Nkurunziza" - https://en.wikipedia.org/wiki/Pierre_Nkurunziza
 
@@ -57,3 +57,6 @@ Key quantitative claims about casualties and displacement are typically drawn fr
 
 [^2]: United Nations and human-rights organization reporting on the 2015 crisis and its aftermath (figures vary across sources).
 [^3]: Regional analysis on the Arusha Accords, term limits, and post-conflict governance in Burundi.
+
+
+## References

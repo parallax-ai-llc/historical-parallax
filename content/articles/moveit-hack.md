@@ -21,7 +21,7 @@ Cl0p ransomware gang exploited a vulnerability in MOVEit file transfer software,
 |------|-------|
 | 2023 | 2,600+ organizations compromised |
 
-## References
+
 
 [^1]: Wikipedia, "MOVEit Hack" - https://en.wikipedia.org/wiki/MOVEit_Hack
 
@@ -60,3 +60,6 @@ The MOVEit Hack became a prominent example of how a single widely deployed enter
 
 [^2]: Progress (vendor) security advisories and updates related to MOVEit Transfer vulnerabilities.
 [^3]: MITRE CVE entries for CVE-2023-34362, CVE-2023-35036, and CVE-2023-35708.
+
+
+## References

@@ -21,7 +21,7 @@ Egyptian President Anwar Sadat was assassinated during a military parade by Isla
 |------|-------|
 | 1981 | Sadat assassinated at military parade |
 
-## References
+
 
 [^1]: Wikipedia, "Anwar Sadat Assassination" - https://en.wikipedia.org/wiki/Anwar_Sadat_Assassination
 
@@ -61,3 +61,6 @@ Egyptian President Anwar Sadat was assassinated during a military parade by Isla
 - Egypt–Israel peace treaty
 - Egyptian Islamic Jihad
 - Hosni Mubarak
+
+
+## References

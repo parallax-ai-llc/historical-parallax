@@ -5,7 +5,7 @@ birth: "1957-04-09"
 death: "2011-05-07"
 nationality: "Spanish"
 occupation: ["Athlete", "Golfer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Seve_Ballesteros_2006-07-19_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seve_Ballesteros"
 lastUpdated: "2026-02-26"

@@ -22,7 +22,7 @@ Former vice governor of Yunnan Province who was convicted of massive bribery and
 | 2014 | Investigated for corruption in Yunnan |
 | 2016 | Sentenced to lengthy imprisonment for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Bai Yue" - https://en.wikipedia.org/wiki/Bai_Yue
 
@@ -51,3 +51,6 @@ Bai Yue is frequently cited in coverage of Yunnan’s anti-corruption enforcemen
 ### Notes on sources
 
 Most easily accessible English-language accounts are brief and rely on official announcements and secondary summaries; details such as exact bribe amounts, specific counterparties, and the full judicial reasoning may be clearer in Chinese-language court documents and state media reporting.
+
+
+## References

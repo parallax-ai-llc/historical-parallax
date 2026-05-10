@@ -21,7 +21,7 @@ Rwandan community leader convicted of genocide for leading attacks against Tutsi
 |------|-------|
 | 2010 | Convicted of genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Yussuf Munyakazi" - https://en.wikipedia.org/wiki/Yussuf_Munyakazi
 
@@ -51,3 +51,6 @@ This article is intentionally high-level and limited to information summarized i
 
 - Rwandan genocide
 - Bisesero massacres
+
+
+## References

@@ -23,7 +23,7 @@ Mexican smuggler who ran one of the largest human and drug smuggling operations 
 | 2005 | Arrested |
 | 2007 | Convicted in US |
 
-## References
+
 
 [^1]: Wikipedia, "El Negro Durán" - https://en.wikipedia.org/wiki/El_Negro_Dur%C3%A1n
 
@@ -56,3 +56,6 @@ Cases involving large tunnel systems are frequently cited in discussions of how 
 ## References (Additional)
 
 [^2]: U.S. federal court reporting and public summaries on border tunnel and smuggling prosecutions (general context), accessed 2026-02-26.
+
+
+## References

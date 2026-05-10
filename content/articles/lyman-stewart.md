@@ -21,7 +21,7 @@ American serial arsonist who set fires in Los Angeles neighborhoods.
 |------|-------|
 | 2012 | Convicted of serial arson |
 
-## References
+
 
 [^1]: Wikipedia, "Lyman Stewart" - https://en.wikipedia.org/wiki/Lyman_Stewart
 
@@ -59,3 +59,6 @@ Stewart’s historical significance is typically framed around two themes:
 ## Suggested follow-up sources
 
 If this article is intended to be about the *arsonist* described in the opening summary, it should be re-sourced to court reporting or reputable journalism and separated from the 1840–1923 businessman.
+
+
+## References

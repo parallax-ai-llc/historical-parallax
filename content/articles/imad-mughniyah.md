@@ -23,7 +23,7 @@ Senior Hezbollah military and intelligence figure widely accused by multiple gov
 | 1990s | Linked by investigators to attacks and hostage-taking cases |
 | 2008 | Killed by a car bomb in Damascus, Syria |
 
-## References
+
 
 [^1]: Wikipedia, "Imad Mughniyah" - https://en.wikipedia.org/wiki/Imad_Mughniyah
 
@@ -56,3 +56,6 @@ The killing had symbolic and strategic effects: it elevated his status within He
 ## Legacy and strategic significance
 
 In historical summaries of Hezbollah, Mughniyah is frequently used to represent the shift from localized militia activity toward a more professionalized security and military apparatus. His legacy is also discussed in relation to deterrence dynamics, covert action escalation, and the long-running cycle of retaliation in the region.
+
+
+## References

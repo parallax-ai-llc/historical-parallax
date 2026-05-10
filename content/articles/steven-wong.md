@@ -22,7 +22,7 @@ Senior 14K Triad figure who oversaw the organization's drug trafficking operatio
 | 1990 | Led 14K drug trafficking operations in Southeast Asia |
 | 2003 | Arrested in connection with major drug trafficking network |
 
-## References
+
 
 [^1]: Wikipedia, "Steven Wong" - https://en.wikipedia.org/wiki/Steven_Wong
 
@@ -56,3 +56,6 @@ Ovett remains a reference point in discussions of:
 ## Further Reading
 
 - Wikipedia profile (overview, major results, and record notes): see reference below.
+
+
+## References

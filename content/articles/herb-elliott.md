@@ -35,7 +35,7 @@ Herb Elliott won the 1960 Olympic 1,500m gold and was never beaten over that dis
 - **Benchmark performances:** world records and championship wins create reference points that shape training and tactical expectations.
 - **National sporting history:** a flagship figure in Australia’s tradition of middle-distance running.
 
-## References
+
 
 [^1]: Wikipedia, "Herb Elliott" - https://en.wikipedia.org/wiki/Herb_Elliott
 
@@ -50,3 +50,6 @@ Herb Elliott won the 1960 Olympic 1,500m gold and was never beaten over that dis
 - 1,500 metres
 - Mile run
 - Olympic athletics
+
+
+## References

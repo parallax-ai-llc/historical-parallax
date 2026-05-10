@@ -22,7 +22,7 @@ Al-Qaeda in the Islamic Maghreb commander who directed operations in Algeria and
 | 2012 | Led AQIM operations in northern Mali |
 | 2019 | Killed by French forces |
 
-## References
+
 
 [^1]: Wikipedia, "Ould Nouini" - https://en.wikipedia.org/wiki/Ould_Nouini
 
@@ -61,3 +61,6 @@ The Algeria–Mali border region is frequently described as operationally signif
 ## Effects and limits of leadership targeting
 
 Targeted operations against senior figures can reduce short-term coordination capacity and create succession struggles. However, many analyses emphasize that armed groups may replace leaders and continue operations if funding sources, local grievances, and safe operating spaces remain.
+
+
+## References

@@ -22,7 +22,7 @@ Ethiopian military officer involved in the Derg regime's Red Terror campaign tha
 | 1977 | Participated in Red Terror campaign |
 | 2008 | Convicted of genocide by Ethiopian court |
 
-## References
+
 
 [^1]: Wikipedia, "Assefa Maru" - https://en.wikipedia.org/wiki/Assefa_Maru
 
@@ -49,3 +49,6 @@ The Derg trials are frequently referenced for their scope and for demonstrating 
 ## Notes on Sources
 
 Biographical details for individuals connected to the Derg prosecutions can be sparse or inconsistent across public sources. For high-confidence factual claims, prioritize court records, reputable historical scholarship, and major news archives alongside encyclopedic summaries.
+
+
+## References

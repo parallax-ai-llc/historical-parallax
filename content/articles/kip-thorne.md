@@ -5,7 +5,7 @@ birth: "1940-06-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kip_Thorne_by_Christopher_Michel_2022.jpg/3840px-Kip_Thorne_by_Christopher_Michel_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kip_Thorne"
 lastUpdated: "2026-02-21"

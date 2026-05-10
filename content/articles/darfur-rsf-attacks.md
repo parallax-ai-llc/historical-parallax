@@ -21,7 +21,7 @@ Rapid Support Forces carried out ethnic cleansing attacks across Darfur during S
 |------|-------|
 | 2023 | RSF committed ethnic cleansing in Darfur |
 
-## References
+
 
 [^1]: Wikipedia, "Darfur RSF Attacks" - https://en.wikipedia.org/wiki/Darfur_RSF_Attacks
 
@@ -64,3 +64,6 @@ Reporting and summaries often emphasize parts of **West Darfur** (including area
 - Sudanese civil war (2023–present)
 - Rapid Support Forces (RSF)
 - Darfur conflict
+
+
+## References

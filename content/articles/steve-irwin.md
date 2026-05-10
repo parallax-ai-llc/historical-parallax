@@ -23,7 +23,7 @@ Steve Irwin, the 'Crocodile Hunter,' was an Australian wildlife expert and conse
 | 1996 | Began 'The Crocodile Hunter' TV series |
 | 2006 | Killed by stingray while filming |
 
-## References
+
 
 [^1]: Wikipedia, "Steve Irwin" - https://en.wikipedia.org/wiki/Steve_Irwin
 
@@ -50,3 +50,6 @@ Irwin’s death during filming prompted renewed attention to risk management in 
 ## Notes
 
 This article is a high-level summary intended for quick reference.
+
+
+## References

@@ -20,7 +20,7 @@ See Hassan Nasrallah. Lebanese militant group. Duplicate entry.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Hezbollah" - https://en.wikipedia.org/wiki/Hezbollah
 
@@ -76,3 +76,6 @@ See Hassan Nasrallah. Lebanese militant group. Duplicate entry.
 [^2]: Council on Foreign Relations, "Hezbollah" backgrounder - https://www.cfr.org/backgrounder/hezbollah
 [^3]: U.S. Department of State, Foreign Terrorist Organizations (FTO) list (Hezbollah entry where applicable) - https://www.state.gov/foreign-terrorist-organizations/
 [^4]: United Nations, documentation on Lebanon/UNIFIL context (general background) - https://unifil.unmissions.org/
+
+
+## References

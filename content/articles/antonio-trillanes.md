@@ -21,7 +21,7 @@ Philippine senator who led military uprisings against President Arroyo including
 |------|-------|
 | 2003 | Led Oakwood Mutiny against government |
 
-## References
+
 
 [^1]: Wikipedia, "Antonio Trillanes" - https://en.wikipedia.org/wiki/Antonio_Trillanes
 
@@ -61,3 +61,6 @@ Philippine senator who led military uprisings against President Arroyo including
 ## Notes
 
 - Details such as specific ranks, units, and case outcomes can vary across sources; consult primary records and reputable reporting for exact legal timelines.
+
+
+## References

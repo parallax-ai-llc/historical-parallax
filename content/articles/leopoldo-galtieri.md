@@ -24,7 +24,7 @@ Argentine military dictator who launched the disastrous 1982 invasion of the Fal
 | 1982 | Resigned after Falklands defeat |
 | 2002 | Charged with human rights violations |
 
-## References
+
 
 [^1]: Wikipedia, "Leopoldo Galtieri" - https://en.wikipedia.org/wiki/Leopoldo_Galtieri
 ## Background
@@ -49,3 +49,6 @@ Galtieri’s post-presidency years were marked by legal proceedings related to t
 
 - This page is a high-level overview intended to be expanded with additional sources.
 - When adding detailed claims (dates, numbers, quotations), prefer primary documents or reputable historical scholarship.
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1985 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Altman dup2" - https://en.wikipedia.org/wiki/Sam_Altman_dup2
 
@@ -59,3 +59,6 @@ If redirects are supported in your stack, this article can later be converted in
 [^2]: Wikipedia, "Sam Altman" - https://en.wikipedia.org/wiki/Sam_Altman
 [^3]: OpenAI, "Sam Altman" (leadership/bio) - https://openai.com/about/
 
+
+
+## References

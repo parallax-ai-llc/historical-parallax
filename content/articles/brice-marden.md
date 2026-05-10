@@ -24,7 +24,7 @@ American painter whose work evolved from minimalist monochromes to sinuous calli
 | 1988 | Creates Cold Mountain series |
 | 2023 | Dies in New York |
 
-## References
+
 
 [^1]: Wikipedia, "Brice Marden" - https://en.wikipedia.org/wiki/Brice_Marden
 
@@ -53,3 +53,6 @@ Marden’s career is often described as bridging minimalism and more expressive 
 - Early monochrome and panel paintings (1960s–1970s)
 - The "Cold Mountain" works (late 1980s)
 - Later calligraphic line paintings and multi-panel compositions
+
+
+## References

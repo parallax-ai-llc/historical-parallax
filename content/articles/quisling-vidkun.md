@@ -21,7 +21,7 @@ Norwegian politician who collaborated with the Nazis and became a puppet ruler, 
 |------|-------|
 | 1940 | Became Nazi puppet ruler of Norway |
 
-## References
+
 
 [^1]: Wikipedia, "Quisling Vidkun" - https://en.wikipedia.org/wiki/Quisling_Vidkun
 
@@ -67,3 +67,6 @@ Norwegian politician who collaborated with the Nazis and became a puppet ruler, 
 ## Notes
 
 - This article focuses on high-level, widely documented facts and avoids detailed claims that would require additional sourcing beyond the reference listed above.
+
+
+## References

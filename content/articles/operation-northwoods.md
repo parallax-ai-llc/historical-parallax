@@ -21,7 +21,7 @@ Proposed Department of Defense plan to stage terrorist attacks on US soil and bl
 |------|-------|
 | 1962 | Plan proposed and rejected |
 
-## References
+
 
 [^1]: Wikipedia, "Operation Northwoods" - https://en.wikipedia.org/wiki/Operation_Northwoods
 
@@ -59,3 +59,6 @@ Publicly discussed summaries of the Northwoods concept describe a menu of *hypot
 - Bay of Pigs invasion (1961)
 - Cuban Missile Crisis (1962)
 - Declassification of Kennedy-era national security records
+
+
+## References

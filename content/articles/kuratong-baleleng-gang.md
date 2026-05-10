@@ -21,7 +21,7 @@ Philippine organized crime gang involved in bank robberies, kidnapping, and the 
 |------|-------|
 | 1995 | 11 members killed in controversial police operation |
 
-## References
+
 
 [^1]: Wikipedia, "Kuratong Baleleng Gang" - https://en.wikipedia.org/wiki/Kuratong_Baleleng_Gang
 
@@ -66,3 +66,6 @@ Sources typically characterize the group as being associated with violent and pr
 
 - Many concise biographies of groups like this one depend on a small number of secondary summaries.
 - When using this article for research, treat high-level claims as a **starting point** and corroborate with primary documents (court records, official reports) where available.
+
+
+## References

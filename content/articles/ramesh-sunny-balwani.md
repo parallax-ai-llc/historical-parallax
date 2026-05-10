@@ -22,7 +22,7 @@ Theranos COO and Elizabeth Holmes' secret boyfriend convicted of 12 counts of fr
 | 2022 | Convicted of 12 counts |
 | 2023 | Sentenced to nearly 13 years |
 
-## References
+
 
 [^1]: Wikipedia, "Ramesh Sunny Balwani" - https://en.wikipedia.org/wiki/Ramesh_Sunny_Balwani
 
@@ -50,3 +50,6 @@ The Theranos prosecutions are frequently cited as a landmark case in startup acc
 
 - **Theranos:** Blood-testing company at the center of the scandal.
 - **Elizabeth Holmes:** Founder/CEO of Theranos and co-defendant in related proceedings.
+
+
+## References

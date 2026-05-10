@@ -22,7 +22,7 @@ Former President of Zambia charged with abuse of authority and corrupt practices
 | 2008 | Became President of Zambia |
 | 2013 | Charged with corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Rupiah Banda" - https://en.wikipedia.org/wiki/Rupiah_Banda
 
@@ -50,3 +50,6 @@ Former President of Zambia charged with abuse of authority and corrupt practices
 
 - Transitioned from long diplomatic service into the presidency via vice-presidential succession.
 - His tenure is often discussed in Zambia’s modern history alongside debates about governance and accountability.
+
+
+## References

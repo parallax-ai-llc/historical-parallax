@@ -5,7 +5,7 @@ birth: "1427-11-21"
 death: "1509-01-01"
 nationality: "Chinese"
 occupation: ["Painter", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Shen_Zhou_at_age_80.Palace_Museum_Beijing.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shen_Zhou"
 lastUpdated: "2026-02-26"

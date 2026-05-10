@@ -23,7 +23,7 @@ $7 billion Ponzi scheme operated by Allen Stanford through his Antigua-based ban
 | 2009 | Stanford arrested |
 | 2012 | Sentenced to 110 years |
 
-## References
+
 
 [^1]: Wikipedia, "Stanford Financial Group Fraud" - https://en.wikipedia.org/wiki/Stanford_Financial_Group_Fraud
 
@@ -51,3 +51,6 @@ The case became a major example of the risks investors can face with opaque offs
 
 - Ponzi scheme
 - Securities fraud
+
+
+## References

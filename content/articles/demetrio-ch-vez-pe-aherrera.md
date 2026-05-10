@@ -23,7 +23,7 @@ Peruvian drug lord known as 'Vaticano' who controlled the Huallaga Valley cocain
 | 1994 | Arrested |
 | 2000 | Testimony helped expose Montesinos corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Demetrio Chávez Peñaherrera" - https://en.wikipedia.org/wiki/Demetrio_Ch%C3%A1vez_Pe%C3%B1aherrera
 
@@ -55,3 +55,6 @@ His statements and subsequent proceedings became part of broader efforts to docu
 ## Legal Proceedings and Public Significance
 
 Chávez’s case is often referenced not only as a narcotics prosecution but also as an example of how criminal investigations can intersect with political accountability when corruption allegations are substantiated in court.
+
+
+## References

@@ -3,6 +3,7 @@ name: "Roberto Bolle"
 birth: "1975-03-26"
 nationality: "Italian"
 occupation: ["Ballet Dancer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Roberto_bolle_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Bolle"
 lastUpdated: "2026-03-12"

@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2022 | Amini died; nationwide protests erupted |
 
-## References
+
 
 [^1]: Wikipedia, "Mahsa Amini Death" - https://en.wikipedia.org/wiki/Mahsa_Amini_Death
 
@@ -56,3 +56,6 @@ High-level points that are widely reported (details vary by source and remain co
 - Guidance Patrol (morality police)
 - “Woman, Life, Freedom” protests
 - Civil society, protest movements, and state response
+
+
+## References

@@ -21,7 +21,7 @@ Malaysian pangolin trafficking kingpin who operated one of the world's largest w
 |------|-------|
 | 2019 | Major pangolin trafficking operations exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Teo Boon Ching" - https://en.wikipedia.org/wiki/Teo_Boon_Ching
 
@@ -63,3 +63,6 @@ The linked Wikipedia page for this name may not always resolve or may be incompl
 
 - Pangolin trafficking
 - Illegal wildlife trade
+
+
+## References

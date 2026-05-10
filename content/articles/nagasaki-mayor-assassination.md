@@ -21,7 +21,7 @@ Nagasaki Mayor Iccho Itoh was shot dead by Yamaguchi-gumi member Tetsuya Shiroo 
 |------|-------|
 | 2007 | Mayor shot dead by yakuza member |
 
-## References
+
 
 [^1]: Wikipedia, "Nagasaki Mayor Assassination" - https://en.wikipedia.org/wiki/Nagasaki_Mayor_Assassination
 
@@ -50,3 +50,6 @@ Nagasaki Mayor Iccho Itoh was shot dead by Yamaguchi-gumi member Tetsuya Shiroo 
 - It is frequently referenced in discussions about **organized crime (yakuza)**, **security for public officials**, and the boundaries between civic life and criminal networks.[^1]
 - The assassination also became a touchstone example of how a seemingly local, non-ideological dispute can escalate into a nationally significant political-security incident.[^1]
 
+
+
+## References

@@ -22,7 +22,7 @@ Short-selling firm Hindenburg Research has exposed fraud at Nikola, Adani Group,
 | 2020 | Nikola fraud exposed |
 | 2023 | Adani report; $150 billion wiped |
 
-## References
+
 
 [^1]: Wikipedia, "Hindenburg Research Reports" - https://en.wikipedia.org/wiki/Hindenburg_Research_Reports
 
@@ -52,3 +52,6 @@ Supporters argue that adversarial research can surface risks and improve market 
 - Short selling and activist research
 - Securities regulation and disclosure
 - Corporate governance
+
+
+## References

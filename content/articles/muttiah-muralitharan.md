@@ -24,7 +24,7 @@ Muttiah Muralitharan took 800 Test wickets, the all-time record. His unique bowl
 | 2007 | Took 700th Test wicket |
 | 2010 | Retired with 800 Test wickets |
 
-## References
+
 
 [^1]: Wikipedia, "Muttiah Muralitharan" - https://en.wikipedia.org/wiki/Muttiah_Muralitharan
 
@@ -51,3 +51,6 @@ Cricket statistics depend on match format (Test vs ODI vs T20) and official reco
 
 - Laws and biomechanical review processes for bowling action assessments.
 - How pitch conditions and ball types influence spin bowling effectiveness.
+
+
+## References

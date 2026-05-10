@@ -5,7 +5,7 @@ birth: "1938-10-10"
 death: "living"
 nationality: "American"
 occupation: ["Biologist", "Inventor", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lee_Hood%2C_MD%2C_PhD%2C_President_and_Co-found_of_the_Institute_for_Systems_Biology.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leroy_Hood"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1957-02-02"
 death: "Unknown"
 nationality: "India"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/VK_Sasikala.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sasikala_Natarajan"
 lastUpdated: "2026-02-26"
@@ -43,7 +43,7 @@ Indian political figure known as 'Chinnamma' who was the close aide and companio
 - Sasikala and associated figures were central to one pole of the split, while other leaders consolidated control of the government and party apparatus.
 - Court rulings and party disciplinary actions later shaped her formal standing within party structures.
 
-## References
+
 
 [^1]: Wikipedia, "Sasikala Natarajan" - https://en.wikipedia.org/wiki/Sasikala_Natarajan
 
@@ -51,3 +51,6 @@ Indian political figure known as 'Chinnamma' who was the close aide and companio
 
 - Coverage often uses the honorific "Chinnamma" to describe her perceived standing among some AIADMK cadres.
 - Post-2016 events are frequently described through the lens of party splits, court proceedings, and leadership legitimacy disputes.
+
+
+## References

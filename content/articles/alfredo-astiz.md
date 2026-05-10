@@ -23,7 +23,7 @@ Argentine naval officer known as the 'Angel of Death' who infiltrated the Mother
 | 1977 | Kidnapped French nuns and Dagmar Hagelin |
 | 2011 | Convicted of crimes against humanity; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Alfredo Astiz" - https://en.wikipedia.org/wiki/Alfredo_Astiz
 
@@ -48,3 +48,6 @@ Astiz received a life sentence in Argentina. His case is frequently referenced i
 ## References (additional)
 
 [^2]: ESMA and Argentina’s dictatorship-era trials (overview), via Wikipedia and linked sources.
+
+
+## References

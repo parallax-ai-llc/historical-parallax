@@ -23,7 +23,7 @@ Japanese yakuza boss who led the Goto-gumi within the Yamaguchi-gumi. He secretl
 | 2001 | Received liver transplant through FBI deal |
 | 2008 | Expelled from Yamaguchi-gumi |
 
-## References
+
 
 [^1]: Wikipedia, "Tadamasa Goto" - https://en.wikipedia.org/wiki/Tadamasa_Goto
 
@@ -54,3 +54,6 @@ According to widely available accounts, Goto was later expelled from the Yamaguc
 ## Notes on Sources
 
 Much of what is publicly known about yakuza leadership figures comes from journalistic investigations and secondary summaries rather than court records that are easily accessible. Where possible, primary legal documents and contemporaneous reporting provide the most reliable detail.
+
+
+## References

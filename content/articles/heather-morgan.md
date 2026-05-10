@@ -22,7 +22,7 @@ lastUpdated: "2026-02-26"
 | 2016 | Helped launder Bitfinex hack proceeds |
 | 2022 | Arrested for money laundering conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Heather Morgan" - https://en.wikipedia.org/wiki/Heather_Morgan
 
@@ -64,3 +64,6 @@ lastUpdated: "2026-02-26"
 
 - The case is cited in debates about exchange KYC/AML controls, the role of chain-analysis firms, and whether pseudonymity meaningfully protects criminals at scale.
 - It also highlights how lifestyle and online footprints can create leads that complement purely technical tracing.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1914-09-17"
 death: "1996-03-28"
 nationality: "Japan"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Shin_Kanemaru_19920407.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shin_Kanemaru"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Japanese political kingmaker convicted of tax evasion with gold bars hidden in h
 |------|-------|
 | 1993 | Arrested with gold bars worth millions |
 
-## References
+
 
 [^1]: Wikipedia, "Shin Kanemaru" - https://en.wikipedia.org/wiki/Shin_Kanemaru
 
@@ -65,3 +65,5 @@ His name remains associated with the "money politics" era in which informal fund
 ## References
 
 [^2]: Britannica, "Shin Kanemaru" (biographical overview) - https://www.britannica.com/biography/Kanemaru-Shin
+
+

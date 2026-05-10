@@ -22,7 +22,7 @@ Sushil Kumar won Olympic wrestling medals at 2008 (bronze) and 2012 (silver), th
 | 2008 | Won Olympic bronze at Beijing |
 | 2012 | Won Olympic silver at London |
 
-## References
+
 
 [^1]: Wikipedia, "Sushil Kumar" - https://en.wikipedia.org/wiki/Sushil_Kumar
 
@@ -51,3 +51,6 @@ His career is often framed in two parts: (1) an era-defining athletic run that i
 ## Notes
 
 This entry emphasizes high-level milestones; consult primary reporting and court records for precise timelines regarding any legal proceedings.
+
+
+## References

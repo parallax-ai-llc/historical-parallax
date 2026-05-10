@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 2000-10-12 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -49,3 +49,6 @@ This event had significant impact on law enforcement practices, public policy, a
 
 ## Strategic Context
 Analysts frequently treat the bombing as an example of how asymmetric tactics can impose outsized operational and political costs.
+
+
+## References

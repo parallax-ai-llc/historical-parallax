@@ -23,7 +23,7 @@ Rwandan military officer considered the mastermind of the 1994 genocide that kil
 | 1996 | Arrested in Cameroon |
 | 2008 | Convicted by ICTR |
 
-## References
+
 
 [^1]: Wikipedia, "Theoneste Bagosora" - https://en.wikipedia.org/wiki/Theoneste_Bagosora
 
@@ -48,3 +48,6 @@ Bagosora’s case is frequently cited in discussions of command responsibility, 
 ## Notes on terminology
 
 Many summaries describe “moderate Hutu” and “Tutsi” victims together to emphasize that political opponents were also targeted. In most scholarly and legal accounts, the core characterization is the **genocide against the Tutsi**, with additional categories of killings and persecution addressed under crimes against humanity.
+
+
+## References

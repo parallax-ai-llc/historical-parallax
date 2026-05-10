@@ -22,7 +22,7 @@ Gabby Douglas became the first African American to win the Olympic all-around gy
 | 2012 | Won all-around gold at London Olympics |
 | 2012 | Won team gold |
 
-## References
+
 
 [^1]: Wikipedia, "Gabby Douglas" - https://en.wikipedia.org/wiki/Gabby_Douglas
 
@@ -54,3 +54,6 @@ Gabby Douglas became the first African American to win the Olympic all-around gy
 - U.S. women’s gymnastics at the 2012 Olympics
 - Elite training systems and athlete welfare
 - Representation milestones in Olympic sport
+
+
+## References

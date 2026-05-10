@@ -5,7 +5,7 @@ birth: "1912-01-01"
 death: "1988-05-11"
 nationality: "United Kingdom"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kim_Philby_1955.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Philby"
 lastUpdated: "2026-02-21"

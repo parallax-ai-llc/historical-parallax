@@ -5,7 +5,7 @@ birth: "1944-11-14"
 death: "N/A"
 nationality: "British"
 occupation: ["Author", "Scholar of Religion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Karen_Armstrong.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karen_Armstrong"
 lastUpdated: "2026-02-21"

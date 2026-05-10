@@ -21,7 +21,7 @@ Known as Vybz Kartel, the Jamaican dancehall star convicted of murder and senten
 |------|-------|
 | 2014 | Sentenced to life for murder |
 
-## References
+
 
 [^1]: Wikipedia, "Adidja Palmer" - https://en.wikipedia.org/wiki/Adidja_Palmer
 
@@ -60,3 +60,6 @@ He has been credited with collaborations or notable associations with acts in da
 ## Additional References
 
 [^2]: Wikipedia, "Vybz Kartel" (biographical section and legal timeline) - https://en.wikipedia.org/wiki/Adidja_Palmer
+
+
+## References

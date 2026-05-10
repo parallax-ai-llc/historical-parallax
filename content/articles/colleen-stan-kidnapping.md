@@ -21,7 +21,7 @@ See Cameron Hooker. Colleen Stan was kidnapped and held as a sex slave for 7 yea
 |------|-------|
 | 1984 | Stan escaped |
 
-## References
+
 
 [^1]: Wikipedia, "Colleen Stan kidnapping" - https://en.wikipedia.org/wiki/Colleen_Stan_kidnapping
 
@@ -69,3 +69,6 @@ See Cameron Hooker. Colleen Stan was kidnapped and held as a sex slave for 7 yea
 - **Late 1970s–1980s:** Ongoing captivity and coercion.
 - **1984:** Escape / return to safety (commonly cited milestone).
 - **Post-1984:** Investigation and prosecution follow; the case becomes widely documented.
+
+
+## References

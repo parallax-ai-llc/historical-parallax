@@ -23,7 +23,7 @@ Indian serial killer who murdered 70 people with a hammer in Jaipur, Rajasthan i
 | 1978 | Arrested by police |
 | 1979 | Executed by hanging |
 
-## References
+
 
 [^1]: Wikipedia, "Kampatimar Shankariya" - https://en.wikipedia.org/wiki/Kampatimar_Shankariya
 
@@ -50,3 +50,6 @@ The case is often referenced in discussions of crime and policing in India in th
 ## Notes
 
 Because many widely circulated accounts are brief summaries, readers looking for detail should consult contemporaneous reporting and any available court documentation.
+
+
+## References

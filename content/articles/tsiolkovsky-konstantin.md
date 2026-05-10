@@ -22,7 +22,7 @@ Konstantin Eduardovich Tsiolkovsky was a Russian scientist and schoolteacher who
 | 1857 | Born |
 | 1935 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Tsiolkovsky Konstantin" - https://en.wikipedia.org/wiki/Tsiolkovsky_Konstantin
 
@@ -51,3 +51,6 @@ Konstantin Eduardovich Tsiolkovsky was a Russian scientist and schoolteacher who
 ## Notes
 
 - In many histories of spaceflight, his role is characterized as primarily theoretical: developing equations and mission concepts that later engineers could implement.
+
+
+## References

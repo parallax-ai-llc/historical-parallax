@@ -23,7 +23,7 @@ American politician who was convicted of sexting a minor. His laptop, seized dur
 | 2016 | Investigated for sexting a minor; laptop seized |
 | 2017 | Convicted; sentenced to 21 months |
 
-## References
+
 
 [^1]: Wikipedia, "Anthony Weiner" - https://en.wikipedia.org/wiki/Anthony_Weiner
 
@@ -51,3 +51,6 @@ The seizure of Weiner’s laptop became a notable element of U.S. political hist
 ## Notes
 
 Accounts and exact procedural details are best verified against primary court records and official filings.
+
+
+## References

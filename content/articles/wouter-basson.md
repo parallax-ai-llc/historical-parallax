@@ -22,7 +22,7 @@ Known as 'Dr. Death,' headed apartheid South Africa's Project Coast chemical and
 | 1981 | Headed Project Coast |
 | 2002 | Acquitted in controversial trial |
 
-## References
+
 
 [^1]: Wikipedia, "Wouter Basson" - https://en.wikipedia.org/wiki/Wouter_Basson
 
@@ -48,3 +48,6 @@ The Basson/Project Coast episode is often used as an example of how medical and 
 It also illustrates the difficulty of prosecuting clandestine programs where documentation is limited and operations were designed to be deniable.
 In many summaries, the story is framed as part of the broader transition-justice challenges after apartheid.
 The topic remains sensitive because it intersects with victims’ rights, public trust, and institutional accountability.
+
+
+## References

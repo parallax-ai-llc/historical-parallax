@@ -5,7 +5,7 @@ birth: "1956-10-29"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Canopy_Gathering_Space_%28Kazuyo_Sejima%29_%2815137242547%29_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kazuyo_Sejima"
 lastUpdated: "2026-02-21"

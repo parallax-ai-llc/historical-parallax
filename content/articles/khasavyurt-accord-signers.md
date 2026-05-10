@@ -21,7 +21,7 @@ Signers of the Khasavyurt Accord that ended the First Chechen War.
 |------|-------|
 | 1996 | Signed Khasavyurt peace accord |
 
-## References
+
 
 [^1]: Wikipedia, "Khasavyurt Accord Signers" - https://en.wikipedia.org/wiki/Khasavyurt_Accord_Signers
 
@@ -88,3 +88,5 @@ This page is a conceptual "signers" entry rather than a single-person biography.
 ## Source note
 
 This entry summarizes widely repeated framing in open sources. If the repository requires a precise list of all participants, use primary documents or reputable historical works to avoid over- or under-attribution.
+
+## References

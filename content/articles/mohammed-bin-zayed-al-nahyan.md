@@ -21,7 +21,7 @@ UAE president who oversaw a surveillance state and military intervention in Yeme
 |------|-------|
 | 2022 | Became president of UAE |
 
-## References
+
 
 [^1]: Wikipedia, "Mohammed bin Zayed Al Nahyan" - https://en.wikipedia.org/wiki/Mohammed_bin_Zayed_Al_Nahyan
 
@@ -71,3 +71,6 @@ UAE president who oversaw a surveillance state and military intervention in Yeme
 ### Notes
 
 - This article is a high-level overview intended to contextualize public claims and widely reported themes; details and assessments vary by source and geopolitical perspective.
+
+
+## References

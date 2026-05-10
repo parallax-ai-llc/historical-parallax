@@ -24,7 +24,7 @@ Francois Jacob shared the 1965 Nobel Prize for discovering genetic regulation th
 | 1965 | Nobel Prize |
 | 2013 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Francois Jacob" - https://en.wikipedia.org/wiki/Francois_Jacob
 
@@ -51,3 +51,6 @@ These principles generalized beyond bacteria and became part of the conceptual t
 - Operon
 - Gene regulation
 - Molecular biology
+
+
+## References

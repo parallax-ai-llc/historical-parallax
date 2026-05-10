@@ -43,7 +43,7 @@ Publicly available summaries (including Wikipedia) describe:
 
 This page does not attempt to reproduce detailed allegations; it provides a navigational and contextual stub.
 
-## References
+
 
 [^1]: Wikipedia, "Teodorin Obiang" (redirects/alias) - https://en.wikipedia.org/wiki/Teodorin_Obiang
 [^2]: Wikipedia, "Teodoro Nguema Obiang Mangue" - https://en.wikipedia.org/wiki/Teodoro_Nguema_Obiang_Mangue
@@ -52,3 +52,6 @@ This page does not attempt to reproduce detailed allegations; it provides a navi
 
 - Equatorial Guinea politics
 - Kleptocracy (general concept)
+
+
+## References

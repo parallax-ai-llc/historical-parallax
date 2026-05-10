@@ -24,7 +24,7 @@ American US Senator from New Jersey who was convicted of corruption for acceptin
 | 2024 | Convicted on all 16 counts |
 | 2025 | Sentenced to 11 years |
 
-## References
+
 
 [^1]: Wikipedia, "Bob Menendez" - https://en.wikipedia.org/wiki/Bob_Menendez
 
@@ -57,3 +57,6 @@ American US Senator from New Jersey who was convicted of corruption for acceptin
 
 - His political career has drawn significant media attention, including ethics questions and legal scrutiny.
 - Debates around the allegations have often centered on gifts, lobbying influence, and standards for public officials.
+
+
+## References

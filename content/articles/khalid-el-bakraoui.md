@@ -5,7 +5,7 @@ birth: "1989-01-12"
 death: "2016-03-22"
 nationality: "Belgium"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Khalid_El_Bakraoui.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khalid_El_Bakraoui"
 lastUpdated: "2026-02-26"

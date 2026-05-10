@@ -5,7 +5,7 @@ birth: "1945-06-30"
 death: "Unknown"
 nationality: "Irish-American"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Seanscully_2.JPG/3840px-Seanscully_2.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sean_Scully"
 lastUpdated: "2026-02-21"

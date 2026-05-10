@@ -21,7 +21,7 @@ Mexico's most famous bank robber who escaped from prison multiple times.
 |------|-------|
 | 1986 | Escaped from prison for the third time |
 
-## References
+
 
 [^1]: Wikipedia, "Alfredo Ríos Galeana" - https://en.wikipedia.org/wiki/Alfredo_R%C3%ADos_Galeana
 
@@ -91,3 +91,6 @@ Alfredo Ríos Galeana is a Mexican criminal figure known in public reporting for
 - Prison administration and corruption risks.
 - How notoriety is amplified through media attention.
 - The relationship between organized crime networks and weak oversight.
+
+
+## References

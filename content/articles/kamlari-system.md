@@ -23,7 +23,7 @@ Bonded labor system in Nepal where Tharu girls as young as six were sold to weal
 | 2006 | Practice outlawed |
 | 2013 | Government freed remaining Kamlaris |
 
-## References
+
 
 [^1]: Wikipedia, "Kamlari System" - https://en.wikipedia.org/wiki/Kamlari_System
 
@@ -51,3 +51,6 @@ The system is frequently discussed within the broader context of child labor, tr
 
 [^2]: ILO (resources on child labor and forced labor) - https://www.ilo.org
 [^3]: UNICEF (resources on child protection and child labor) - https://www.unicef.org
+
+
+## References

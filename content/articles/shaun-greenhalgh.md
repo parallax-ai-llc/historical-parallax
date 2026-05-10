@@ -5,7 +5,7 @@ birth: "1961-04-05"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Forger"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Amarna_Princess.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shaun_Greenhalgh"
 lastUpdated: "2026-02-26"

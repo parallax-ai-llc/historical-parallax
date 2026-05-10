@@ -5,7 +5,7 @@ birth: "1965-11-30"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Kevin_Poulsen_2014.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kevin_Poulsen"
 lastUpdated: "2026-02-21"

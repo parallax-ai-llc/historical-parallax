@@ -22,7 +22,7 @@ Al-Shabaab attack on Garissa University College in Kenya on April 2, 2015 that k
 | 2015 | 148 killed at university |
 | 2015 | Four attackers killed |
 
-## References
+
 
 [^1]: Wikipedia, "Garissa University Attack" - https://en.wikipedia.org/wiki/Garissa_University_Attack
 
@@ -73,3 +73,6 @@ The attack is widely remembered for the scale of student casualties and for subs
 ## Media and Public Narrative
 
 As with many major attacks, initial reporting and later investigations can differ in emphasis (timeline details, preparedness, and accountability), so summaries should be cross-checked against official inquiries and reputable reporting.
+
+
+## References

@@ -21,7 +21,7 @@ Inmates rioted at Tanjung Gusta prison in North Sumatra, burning buildings and k
 |------|-------|
 | 2013 | Five killed; 200+ escaped |
 
-## References
+
 
 [^1]: Wikipedia, "Tanjung Gusta Prison Riot 2013" - https://en.wikipedia.org/wiki/Tanjung_Gusta_Prison_Riot_2013
 
@@ -52,3 +52,6 @@ Following a mass escape, authorities typically prioritize re-capture operations,
 ## Why It Matters
 
 The 2013 Tanjung Gusta Prison riot is often referenced as a case study in how **structural problems**—overcrowding, inadequate facilities, and strained resources—can turn a localized dispute into a large-scale emergency with public safety consequences.
+
+
+## References

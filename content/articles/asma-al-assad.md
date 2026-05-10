@@ -23,7 +23,7 @@ British-Syrian former first lady who is married to Bashar al-Assad. She was sanc
 | 2012 | Sanctioned by EU |
 | 2024 | Fled to Russia after Assad's fall |
 
-## References
+
 
 [^1]: Wikipedia, "Asma al-Assad" - https://en.wikipedia.org/wiki/Asma_al-Assad
 
@@ -48,3 +48,6 @@ Public reports in later years also covered health-related announcements issued b
 ## Notes on sources
 
 Coverage varies significantly by outlet and political context; readers typically compare reporting from multiple reputable international sources when assessing claims about inner-circle influence.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1942-04-15"
 death: "2006-07-05"
 nationality: "United States"
 occupation: ["Fraudster", "CEO"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ken_Lay.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenneth_Lay"
 lastUpdated: "2026-02-21"

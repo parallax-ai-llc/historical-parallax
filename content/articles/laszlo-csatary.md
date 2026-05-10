@@ -21,7 +21,7 @@ Hungarian war criminal accused of complicity in the deaths of 15,700 Jews deport
 |------|-------|
 | 2012 | Identified as most wanted Nazi war criminal |
 
-## References
+
 
 [^1]: Wikipedia, "Laszlo Csatary" - https://en.wikipedia.org/wiki/Laszlo_Csatary
 
@@ -62,3 +62,5 @@ Hungarian war criminal accused of complicity in the deaths of 15,700 Jews deport
 ## References
 
 [^2]: Simon Wiesenthal Center listings and press coverage (see Wikipedia reference for pointers to external sources)
+
+

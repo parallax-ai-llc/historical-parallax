@@ -21,7 +21,7 @@ J&J knew for decades that its baby powder contained asbestos but concealed the i
 |------|-------|
 | 2018 | Reuters investigation exposed coverup |
 
-## References
+
 
 [^1]: Wikipedia, "Johnson & Johnson Talc Scandal" - https://en.wikipedia.org/wiki/Johnson_%26_Johnson_Talc_Scandal
 
@@ -67,3 +67,6 @@ J&J knew for decades that its baby powder contained asbestos but concealed the i
 - **Mesothelioma:** Cancer often associated with asbestos exposure; frequently cited in asbestos-related product cases.
 - **Mass tort:** Litigation involving many plaintiffs with similar claims against one or more defendants.
 - **Cosmetic talc:** Talc used in consumer products; regulated differently than industrial asbestos materials.
+
+
+## References

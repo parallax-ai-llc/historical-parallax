@@ -21,7 +21,7 @@ French colonial officer who co-led the murderous Voulet-Chanoine expedition that
 |------|-------|
 | 1899 | Co-led murderous expedition across Sahel |
 
-## References
+
 
 [^1]: Wikipedia, "Julien Chanoine" - https://en.wikipedia.org/wiki/Julien_Chanoine
 
@@ -51,3 +51,6 @@ French colonial officer who co-led the murderous Voulet-Chanoine expedition that
 
 - Contemporary accounts and later histories often describe both Voulet and Chanoine as unusually ruthless even by the standards of colonial conquest.
 - Chanoine is commonly identified as the son of General Charles Chanoine, a prominent French military figure and politician.
+
+
+## References

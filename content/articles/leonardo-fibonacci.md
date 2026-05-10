@@ -5,7 +5,7 @@ birth: "1170-01-01"
 death: "1250-01-01"
 nationality: "Italian"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Leonardo_Fibonacci.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonardo_Fibonacci"
 lastUpdated: "2026-02-21"

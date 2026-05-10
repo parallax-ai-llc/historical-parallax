@@ -23,7 +23,7 @@ Civil war from 1983-2009 between the Sri Lankan government and LTTE that killed 
 | 2006 | Full-scale war resumed |
 | 2009 | LTTE defeated, Prabhakaran killed |
 
-## References
+
 
 [^1]: Wikipedia, "Sri Lankan Civil War" - https://en.wikipedia.org/wiki/Sri_Lankan_Civil_War
 
@@ -56,3 +56,6 @@ Civil war from 1983-2009 between the Sri Lankan government and LTTE that killed 
 
 - The conflict shaped Sri Lanka’s modern politics, security institutions, and diaspora communities.
 - It remains a major case study in counterinsurgency, negotiated peace processes, and post-conflict justice.
+
+
+## References

@@ -24,7 +24,7 @@ Three-time Pakistani PM disqualified from office after the Panama Papers exposed
 | 2018 | Convicted and sentenced to 7 years |
 | 2024 | Returned to Pakistan and regained power |
 
-## References
+
 
 [^1]: Wikipedia, "Nawaz Sharif Pakistan" - https://en.wikipedia.org/wiki/Nawaz_Sharif_Pakistan
 
@@ -50,3 +50,6 @@ This article provides a compressed overview and keeps to high-level framing; rea
 
 - Panama Papers (global context)
 - Pakistani constitutional politics
+
+
+## References

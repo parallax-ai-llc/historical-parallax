@@ -5,7 +5,7 @@ birth: "1941-02-09"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/62/Kermit_Gosnell.webp"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kermit_Gosnell"
 lastUpdated: "2026-02-26"
@@ -45,7 +45,7 @@ American doctor convicted of murdering three infants born alive during illegal l
 - The details presented in court contributed to lasting public shock and reputational damage to involved institutions.
 - The case remains an often-referenced example in discussions of medical malpractice, criminal accountability, and regulatory failure.
 
-## References
+
 
 [^1]: Wikipedia, "Kermit Gosnell" - https://en.wikipedia.org/wiki/Kermit_Gosnell
 
@@ -59,3 +59,6 @@ American doctor convicted of murdering three infants born alive during illegal l
 - The case is frequently cited as an example of how fragmented oversight and limited inspection capacity can allow dangerous practices to persist.
 - It is also referenced in conversations about whistleblowing, complaint handling, and the role of professional licensing bodies.
 - Because the subject matter is polarizing, careful sourcing and precise language are commonly recommended when writing about the case.
+
+
+## References

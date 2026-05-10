@@ -24,7 +24,7 @@ C.T.R. Wilson invented the cloud chamber for detecting ionizing radiation and sh
 | 1927 | Nobel Prize |
 | 1959 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Wilson" - https://en.wikipedia.org/wiki/Charles_Wilson
 
@@ -51,3 +51,6 @@ While later detectors (such as bubble chambers and electronic tracking devices) 
 ## Related Concepts
 
 Experimental visualization of particle tracks; cosmic-ray research; instrumentation as a driver of scientific discovery.
+
+
+## References

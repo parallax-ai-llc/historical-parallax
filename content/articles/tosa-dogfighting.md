@@ -22,7 +22,7 @@ Traditional Japanese dogfighting using Tosa breed dogs continues in parts of Jap
 | 1800 | Tosa dogfighting tradition |
 | 2020 | Ongoing despite opposition |
 
-## References
+
 
 [^1]: Wikipedia, "Tosa Dogfighting" - https://en.wikipedia.org/wiki/Tosa_Dogfighting
 
@@ -51,3 +51,6 @@ Traditional Japanese dogfighting using Tosa breed dogs continues in parts of Jap
 
 - Descriptions of specific venues and rule-sets can differ, because events are organized locally and may change over time.
 - When assessing claims about injury rates or enforcement, it is important to compare multiple sources (local reporting, official statements, and welfare organizations).
+
+
+## References

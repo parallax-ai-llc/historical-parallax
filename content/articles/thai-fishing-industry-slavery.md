@@ -23,7 +23,7 @@ Systematic use of forced labor in Thailands fishing industry involving trafficke
 | 2015 | EU threatened trade ban |
 | 2019 | Thailand upgraded from trafficking watch list |
 
-## References
+
 
 [^1]: Wikipedia, "Thai Fishing Industry Slavery" - https://en.wikipedia.org/wiki/Thai_Fishing_Industry_Slavery
 
@@ -51,3 +51,6 @@ The European Union’s discussions of trade measures and warnings about illegal,
 Thailand announced reforms aimed at improving oversight, including stronger inspections, registration of workers, and monitoring of vessels and landings. Enforcement included investigations into trafficking networks and labor violations.
 
 Outcomes varied by sector and time, and observers continued to debate the effectiveness and consistency of implementation.
+
+
+## References

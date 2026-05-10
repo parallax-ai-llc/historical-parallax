@@ -22,7 +22,7 @@ Mitsui Mining's cadmium pollution of the Jinzu River caused itai-itai disease af
 | 1912 | Cadmium poisoning began |
 | 1972 | Mitsui found liable |
 
-## References
+
 
 [^1]: Wikipedia, "Itai-itai Disease" - https://en.wikipedia.org/wiki/Itai-itai_Disease
 
@@ -55,3 +55,6 @@ Commonly reported features in public health summaries include:
 
 [^2]: World Health Organization (WHO) materials on cadmium and health (toxicology and exposure pathways): https://www.who.int/
 [^3]: Japanese environmental history overviews that discuss postwar pollution diseases (general context): https://en.wikipedia.org/wiki/Four_Big_Pollution_Diseases_of_Japan
+
+
+## References

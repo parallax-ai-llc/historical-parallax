@@ -40,7 +40,7 @@ Tew’s death in 1695 is reported as occurring during combat in the Indian Ocean
 
 Historically, Tew is remembered less for a long career than for his association with the early expansion of transoceanic piracy into the Indian Ocean and for the example it set for later pirate crews.
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Tew" - https://en.wikipedia.org/wiki/Thomas_Tew
 
@@ -49,3 +49,6 @@ Historically, Tew is remembered less for a long career than for his association 
 - Golden Age of Piracy
 - Indian Ocean piracy (17th–18th centuries)
 - Mughal Empire maritime trade
+
+
+## References

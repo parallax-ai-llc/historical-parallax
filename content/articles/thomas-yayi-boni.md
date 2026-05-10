@@ -42,7 +42,7 @@ Yayi Boni’s later years in office included recurring allegations of corruption
 
 After leaving office, he remained a prominent political figure, occasionally commenting on national politics and participating in opposition or mediation efforts depending on the political moment.
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Yayi Boni" - https://en.wikipedia.org/wiki/Thomas_Yayi_Boni
 
@@ -50,3 +50,6 @@ After leaving office, he remained a prominent political figure, occasionally com
 
 - ICC Services (Benin)
 - Politics of Benin
+
+
+## References

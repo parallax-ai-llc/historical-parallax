@@ -23,7 +23,7 @@ Sophisticated computer worm jointly developed by the US and Israel that sabotage
 | 2010 | Discovered by security researchers |
 | 2012 | US and Israel confirmed involvement |
 
-## References
+
 
 [^1]: Wikipedia, "Stuxnet" - https://en.wikipedia.org/wiki/Stuxnet
 
@@ -50,3 +50,6 @@ Stuxnet influenced how governments and companies thought about critical-infrastr
 ## Notes
 
 This article is a high-level summary intended for quick reference.
+
+
+## References

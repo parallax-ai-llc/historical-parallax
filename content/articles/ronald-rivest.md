@@ -23,7 +23,7 @@ Ronald Rivest co-invented the RSA cryptosystem. 2002 Turing Award.
 | 1977 | Co-invented RSA |
 | 2002 | Turing Award |
 
-## References
+
 
 [^1]: Wikipedia, "Ronald Rivest" - https://en.wikipedia.org/wiki/Ronald_Rivest
 
@@ -51,3 +51,6 @@ Ronald Rivest co-invented the RSA cryptosystem. 2002 Turing Award.
 ## Awards and Recognition
 
 - The Turing Award recognition reflects the long-term influence of the RSA line of work on both computer science and real-world security practice.
+
+
+## References

@@ -43,7 +43,7 @@ Sugar Ray Robinson is the greatest pound-for-pound boxer ever. He won the middle
 - Many later champions and trainers cite Robinson’s footage and tactical choices as a reference point for offensive and defensive fundamentals.
 - Beyond records and titles, Robinson’s influence is often measured in how boxing audiences and analysts describe greatness and skill.
 
-## References
+
 
 [^1]: Wikipedia, "Sugar Ray Robinson" - https://en.wikipedia.org/wiki/Sugar_Ray_Robinson
 
@@ -51,3 +51,6 @@ Sugar Ray Robinson is the greatest pound-for-pound boxer ever. He won the middle
 
 - Boxing pound-for-pound rankings
 - World welterweight championship
+
+
+## References

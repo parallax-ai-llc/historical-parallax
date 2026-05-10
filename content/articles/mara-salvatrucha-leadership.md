@@ -23,7 +23,7 @@ MS-13 was founded in Los Angeles by Salvadoran immigrants in the 1980s and has g
 | 2012 | Gang truce temporarily reduced homicides in El Salvador |
 | 2020 | MS-13 leadership indicted on terrorism charges |
 
-## References
+
 
 [^1]: Wikipedia, "Mara Salvatrucha Leadership" - https://en.wikipedia.org/wiki/Mara_Salvatrucha_Leadership
 
@@ -49,3 +49,6 @@ MS-13(Mara Salvatrucha)은 국제적으로 알려진 범죄 조직(갱단)입니
 ## 추가 메모
 
 - 이 문서는 요약 중심으로 작성되어 있습니다. 세부 연표·인용·1차 자료는 추후 보강이 필요할 수 있습니다.
+
+
+## References

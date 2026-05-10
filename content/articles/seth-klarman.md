@@ -5,7 +5,7 @@ birth: "1957-05-21"
 death: "Unknown"
 nationality: "American"
 occupation: ["Investor", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Seth_Klarman_at_147th_Preakness_Stakes.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seth_Klarman"
 lastUpdated: "2026-02-21"

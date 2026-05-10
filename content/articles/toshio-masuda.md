@@ -22,7 +22,7 @@ Head of the Sumiyoshi-kai, Japan's second-largest yakuza organization. Oversaw o
 | 1998 | Became Sumiyoshi-kai chairman |
 | 2014 | Stepped down from leadership |
 
-## References
+
 
 [^1]: Wikipedia, "Toshio Masuda" - https://en.wikipedia.org/wiki/Toshio_Masuda
 
@@ -49,3 +49,6 @@ Head of the Sumiyoshi-kai, Japan's second-largest yakuza organization. Oversaw o
 ## Additional references
 
 [^2]: National Police Agency (Japan), organized crime/yakuza overview pages (varies by year) - https://www.npa.go.jp/
+
+
+## References

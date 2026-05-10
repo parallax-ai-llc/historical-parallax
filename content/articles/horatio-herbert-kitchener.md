@@ -21,7 +21,7 @@ British military commander who used concentration camps in the Boer War, killing
 |------|-------|
 | 1901 | Established concentration camps killing 26,000 Boers |
 
-## References
+
 
 [^1]: Wikipedia, "Horatio Herbert Kitchener" - https://en.wikipedia.org/wiki/Horatio_Herbert_Kitchener
 
@@ -65,3 +65,6 @@ British military commander who used concentration camps in the Boer War, killing
 ## Notes
 
 - This article summarizes widely reported, high-level points; specific casualty figures and responsibility assessments vary across historians and official inquiries.
+
+
+## References

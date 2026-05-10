@@ -24,7 +24,7 @@ American mobster who was boss of the New Orleans crime family for over 30 years.
 | 1981 | Convicted in BRILAB sting; sentenced to 17 years |
 | 1993 | Died in nursing home |
 
-## References
+
 
 [^1]: Wikipedia, "Carlos Marcello" - https://en.wikipedia.org/wiki/Carlos_Marcello
 
@@ -49,3 +49,6 @@ In the late 20th century, FBI investigations, including undercover operations su
 ## Legacy
 
 Marcello is often cited as a prominent example of a regional American Mafia boss whose influence extended for decades. His story also illustrates how organized crime history can become intertwined with major national events, generating long-running debates and competing narratives.
+
+
+## References

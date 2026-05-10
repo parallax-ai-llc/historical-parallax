@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1967 | See Reid Hoffman |
 
-## References
+
 
 [^1]: Wikipedia, "Reid Hoffman duplicate" - https://en.wikipedia.org/wiki/Reid_Hoffman_duplicate
 
@@ -62,3 +62,6 @@ If the linked reference page is missing or invalid, prefer replacing it with a v
 
 [^2]: Wikipedia, "Reid Hoffman" - https://en.wikipedia.org/wiki/Reid_Hoffman
 [^3]: LinkedIn, "About LinkedIn" - https://about.linkedin.com/
+
+
+## References

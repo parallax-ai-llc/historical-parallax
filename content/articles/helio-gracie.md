@@ -35,7 +35,7 @@ Helio Gracie is the co-founder of Brazilian Jiu-Jitsu who adapted Japanese jujut
 - **Sport and pedagogy:** BJJ evolved into a global sport with belt ranks, tournaments, and a large instructional ecosystem.
 - **Cultural footprint:** the Gracie name became a recognizable brand in combat sports, especially after the rise of early MMA promotions.
 
-## References
+
 
 [^1]: Wikipedia, "Helio Gracie" - https://en.wikipedia.org/wiki/Helio_Gracie
 
@@ -50,3 +50,6 @@ Helio Gracie is the co-founder of Brazilian Jiu-Jitsu who adapted Japanese jujut
 - Brazilian Jiu-Jitsu
 - Judo
 - Mixed martial arts
+
+
+## References

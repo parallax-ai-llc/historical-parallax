@@ -22,7 +22,7 @@ Massacre of 56 West African migrants by Gambian security forces known as the 'Ju
 | 2005 | 56 West African migrants massacred by Gambian security forces |
 | 2018 | Truth Commission investigated the massacre |
 
-## References
+
 
 [^1]: Wikipedia, "Gambian Migrant Massacre 2005" - https://en.wikipedia.org/wiki/Gambian_Migrant_Massacre_2005
 
@@ -63,3 +63,6 @@ The massacre is often cited in discussions of Jammeh-era human-rights abuses, in
 ## Documentation Notes
 
 Most detailed narratives in public circulation come from later testimony and investigative reporting rather than contemporaneous official records, which is common in cases involving alleged covert security units.
+
+
+## References

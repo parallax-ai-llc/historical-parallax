@@ -21,7 +21,7 @@ Iranian diplomat involved in the kidnapping of four Iranian diplomats in Lebanon
 |------|-------|
 | 1982 | Involved in diplomatic kidnappings |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmad Motevaselian" - https://en.wikipedia.org/wiki/Ahmad_Motevaselian
 
@@ -57,3 +57,6 @@ Iranian diplomat involved in the kidnapping of four Iranian diplomats in Lebanon
 ## Notes on Data Quality
 
 - This article’s frontmatter fields (e.g., occupation, death year) reflect a minimal stub and may not match the most common biographical framing; the appended context above aims to provide a broader, source-aligned overview without removing prior text.
+
+
+## References

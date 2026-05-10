@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Arsonist", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/2003%EB%85%84_2%EC%9B%94_%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%8C%80%EA%B5%AC_%EC%A7%80%ED%95%98%EC%B2%A0_%ED%99%94%EC%9E%AC_%EC%B0%B8%EC%82%AC_%EC%97%B4%EC%B0%A8_%EB%82%B4%EB%B6%80_%EC%82%AC%EC%A7%84_Daegumetrofire02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Dae-han"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Perpetrator of the 2003 Daegu subway fire who killed 192 people by igniting cont
 | 2003 | Committed Daegu subway arson |
 | 2003 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Dae-han" - https://en.wikipedia.org/wiki/Kim_Dae-han
 
@@ -51,3 +51,6 @@ After the disaster, South Korean authorities and transit operators faced public 
 - Daegu subway fire
 - Public transport safety
 - Disaster management in South Korea
+
+
+## References

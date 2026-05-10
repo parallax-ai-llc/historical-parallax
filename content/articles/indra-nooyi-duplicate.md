@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1955 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Indra Nooyi duplicate" - https://en.wikipedia.org/wiki/Indra_Nooyi_duplicate
 
@@ -56,3 +56,6 @@ Duplicate.
 
 [^2]: Wikipedia, "Indra Nooyi" - https://en.wikipedia.org/wiki/Indra_Nooyi
 [^3]: PepsiCo, Leadership/Company information (Nooyi era) - https://www.pepsico.com/
+
+
+## References

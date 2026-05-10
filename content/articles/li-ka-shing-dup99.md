@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1928 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Li Ka-shing dup99" - https://en.wikipedia.org/wiki/Li_Ka-shing_dup99
 
@@ -69,3 +69,6 @@ Duplicate.
 [^2]: Wikipedia, "Li Ka-shing" - https://en.wikipedia.org/wiki/Li_Ka-shing
 [^3]: Wikipedia, "CK Hutchison Holdings" - https://en.wikipedia.org/wiki/CK_Hutchison_Holdings
 [^4]: Wikipedia, "CK Asset Holdings" - https://en.wikipedia.org/wiki/CK_Asset_Holdings
+
+
+## References

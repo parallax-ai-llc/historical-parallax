@@ -24,7 +24,7 @@ South Sudanese rebel leader and vice president whose rivalry with President Kiir
 | 2016 | Returned as VP, fled again after clashes |
 | 2020 | Returned as VP under new peace agreement |
 
-## References
+
 
 [^1]: Wikipedia, "Riek Machar" - https://en.wikipedia.org/wiki/Riek_Machar
 
@@ -51,3 +51,6 @@ South Sudanese rebel leader and vice president whose rivalry with President Kiir
 ## Notes
 
 - South Sudan’s civil war is often described as having both elite political roots and community-level dynamics, which complicates single-cause explanations focused only on individual leaders.
+
+
+## References

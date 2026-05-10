@@ -21,7 +21,7 @@ FBI investigation revealed systemic corruption at FIFA involving $200 million in
 |------|-------|
 | 2015 | Mass arrests of FIFA officials |
 
-## References
+
 
 [^1]: Wikipedia, "FIFA Corruption Scandal" - https://en.wikipedia.org/wiki/FIFA_Corruption_Scandal
 
@@ -55,3 +55,6 @@ High-level reporting and charging documents broadly described patterns such as:
 - FIFA governance and ethics bodies
 - World Cup bidding processes
 - Sports governance reform and compliance programs
+
+
+## References

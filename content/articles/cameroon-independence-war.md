@@ -44,7 +44,7 @@ France conducted a brutal campaign to suppress Cameroon's independence movement,
 
 - The conflict is frequently referenced in studies of **French decolonization**, **state formation in post-colonial Africa**, and the long-term effects of political violence on institutions and civil society.
 
-## References
+
 
 [^1]: Wikipedia, "Cameroon Independence War" - https://en.wikipedia.org/wiki/Cameroon_Independence_War
 
@@ -52,3 +52,6 @@ France conducted a brutal campaign to suppress Cameroon's independence movement,
 
 - Decolonization of Africa
 - Union des populations du Cameroun (UPC)
+
+
+## References

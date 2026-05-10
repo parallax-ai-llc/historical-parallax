@@ -22,7 +22,7 @@ Leader of Los Valencia cartel in Michoacán who ran a methamphetamine empire. Hi
 | 1998 | Built methamphetamine empire |
 | 2003 | Arrested |
 
-## References
+
 
 [^1]: Wikipedia, "Bernardo Barragan" - https://en.wikipedia.org/wiki/Bernardo_Barragan
 
@@ -49,3 +49,6 @@ Leadership removals sometimes fragment organizations, but they can also generate
 This period is often used by analysts to explain how localized trafficking groups in western Mexico grew into larger, more ideologically framed and territorially embedded organizations.
 
 It also illustrates how the economics of synthetic drugs—high value-to-weight and scalable production—can accelerate organizational growth and conflict.
+
+
+## References

@@ -21,7 +21,7 @@ Former Coast Guard investigator convicted of murdering Ahmaud Arbery during a ra
 |------|-------|
 | 2022 | Convicted of murder and hate crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Travis McMichael" - https://en.wikipedia.org/wiki/Travis_McMichael
 
@@ -54,3 +54,6 @@ Wikipedia’s case summary describes McMichael receiving a sentence of **life im
 ### Notes on scope and sourcing
 
 This article is intentionally limited to high-level, well-sourced facts and does not attempt to provide exhaustive trial transcripts, disputed claims, or unverified details. For a detailed narrative and citations, consult the primary reference.[^1]
+
+
+## References

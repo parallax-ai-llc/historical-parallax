@@ -22,7 +22,7 @@ Group of teenagers who hacked Microsoft, Nvidia, Samsung, and Uber through socia
 | 2022 | Hacked major tech companies |
 | 2023 | Teenage leader convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Lapsus$" - https://en.wikipedia.org/wiki/Lapsus%24
 
@@ -54,3 +54,6 @@ Security professionals often cite the Lapsus$ incidents as reminders that:
 - Identity security (authentication, recovery, and privileged access management) can be a primary breach path.
 - Human-layer defenses—training, help-desk procedures, and verification standards—are critical.
 - Rapid incident response matters because “loud” intrusions can still cause large damage quickly.
+
+
+## References

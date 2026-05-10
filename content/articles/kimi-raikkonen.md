@@ -3,6 +3,7 @@ name: "Kimi Raikkonen"
 birth: "1979-10-17"
 nationality: "Finnish"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
 lastUpdated: "2026-03-12"

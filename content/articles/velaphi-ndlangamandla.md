@@ -23,7 +23,7 @@ Swazi serial killer who murdered at least 10 women in the Manzini region of Eswa
 | 2004 | Arrested by Swazi police |
 | 2006 | Convicted and sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Velaphi Ndlangamandla" - https://en.wikipedia.org/wiki/Velaphi_Ndlangamandla
 
@@ -48,3 +48,6 @@ Coverage of serial violence in smaller countries often emphasizes public fear, c
 Because widely accessible material is limited, readers should treat specific narrative details (exact methods, precise victim counts, or timelines) as needing confirmation from primary court records or local reporting where available.
 
 This article is intentionally high-level to avoid overstating what is firmly documented in public sources.
+
+
+## References

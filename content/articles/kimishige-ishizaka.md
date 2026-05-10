@@ -5,7 +5,7 @@ birth: "1925-12-03"
 death: "2018-07-06"
 nationality: "Japanese"
 occupation: ["Immunologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Kimishige_Ishizaka_19971212.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kimishige_Ishizaka"
 lastUpdated: "2026-02-21"

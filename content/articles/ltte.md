@@ -23,7 +23,7 @@ Liberation Tigers of Tamil Eelam who waged a 26-year insurgency in Sri Lanka. Th
 | 1991 | Assassinated Indian PM Rajiv Gandhi |
 | 2009 | Militarily defeated |
 
-## References
+
 
 [^1]: Wikipedia, "LTTE" - https://en.wikipedia.org/wiki/LTTE
 
@@ -54,3 +54,6 @@ Liberation Tigers of Tamil Eelam who waged a 26-year insurgency in Sri Lanka. Th
 ## Further Reading Notes
 
 - For careful expansion, prioritize: reputable civil-war histories, human-rights documentation from multiple sides, and academic work on insurgent governance and diaspora networks.
+
+
+## References

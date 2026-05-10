@@ -21,7 +21,7 @@ Former Trump aide convicted of contempt of Congress for defying January 6 subpoe
 |------|-------|
 | 2023 | Convicted of contempt of Congress |
 
-## References
+
 
 [^1]: Wikipedia, "Peter Navarro" - https://en.wikipedia.org/wiki/Peter_Navarro
 
@@ -55,3 +55,6 @@ Former Trump aide convicted of contempt of Congress for defying January 6 subpoe
 
 - Occupation label: This site lists "Convicted Criminal" to reflect the contempt conviction, but Navarro is also widely identified as an economist and political adviser.[^1]
 - Where relevant, details such as offices held, specific policy actions, and subsequent appeals or sentencing outcomes should be verified against primary court records and contemporaneous reporting.
+
+
+## References

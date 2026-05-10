@@ -24,7 +24,7 @@ South African politician and former ANC secretary-general charged with corruptio
 | 2020 | Charged with 21 counts of corruption |
 | 2021 | Suspended from ANC |
 
-## References
+
 
 [^1]: Wikipedia, "Ace Magashule" - https://en.wikipedia.org/wiki/Ace_Magashule
 
@@ -48,3 +48,6 @@ South African politician and former ANC secretary-general charged with corruptio
 - Contemporary news reporting and court documents where available.
 - Academic or policy analyses for historical and political context.
 - For contested topics, compare multiple reputable sources and primary documents when available.
+
+
+## References

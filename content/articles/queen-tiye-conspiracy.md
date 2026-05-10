@@ -21,7 +21,7 @@ Royal conspirators including Queen Tiye who plotted the assassination of Pharaoh
 |------|-------|
 | -1155 | Executed for conspiracy to murder pharaoh |
 
-## References
+
 
 [^1]: Wikipedia, "Queen Tiye Conspiracy" - https://en.wikipedia.org/wiki/Queen_Tiye_Conspiracy
 
@@ -62,3 +62,6 @@ Royal conspirators including Queen Tiye who plotted the assassination of Pharaoh
 - Ramesside-era court politics and succession disputes
 - Ancient Egyptian legal procedures and state trials
 - Royal household factions (often discussed under "harem conspiracy" framing)
+
+
+## References

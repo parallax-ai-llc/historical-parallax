@@ -23,7 +23,7 @@ Liberian master sergeant who led a coup and became president before being captur
 | 1985 | Won fraudulent election |
 | 1990 | Captured and tortured to death on camera |
 
-## References
+
 
 [^1]: Wikipedia, "Samuel Kanyon Doe" - https://en.wikipedia.org/wiki/Samuel_Kanyon_Doe
 
@@ -49,3 +49,6 @@ The circumstances of his capture and killing became internationally notorious an
 
 Doe is commonly remembered as a pivotal figure in Liberia’s late-20th-century crisis, linking the end of one political order to the start of prolonged civil conflict.
 His tenure is used in case studies on coups, state fragility, and how exclusionary politics can accelerate cycles of retaliation.
+
+
+## References

@@ -24,7 +24,7 @@ Bangladeshi politician and son of Khaleda Zia who was convicted of corruption an
 | 2018 | Convicted of grenade attack; sentenced to life |
 | 2024 | Made acting head of BNP party |
 
-## References
+
 
 [^1]: Wikipedia, "Tarique Rahman" - https://en.wikipedia.org/wiki/Tarique_Rahman
 
@@ -52,3 +52,6 @@ Different political actors and observers dispute narratives about the motivation
 
 - Bangladesh Nationalist Party (BNP)
 - 2004 Dhaka grenade attack
+
+
+## References

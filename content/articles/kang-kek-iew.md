@@ -5,7 +5,7 @@ birth: "1942-11-17"
 death: "2020-09-02"
 nationality: "Cambodia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kang_Kek_Iew_%28Kaing_Guek_Eav_or_Duch%29_before_the_Extraordinary_Chambers_in_the_Courts_of_Cambodia_-_20091126.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kang_Kek_Iew"
 lastUpdated: "2026-02-21"

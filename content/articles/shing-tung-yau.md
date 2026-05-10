@@ -5,7 +5,7 @@ birth: "1949-04-04"
 death: "living"
 nationality: "Chinese-American"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Shing-Tung_Yau.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shing-Tung_Yau"
 lastUpdated: "2026-02-21"

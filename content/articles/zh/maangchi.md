@@ -1,67 +1,50 @@
 ---
-name: "妈奇 (Maangchi)"
-birth: 1957-07-13
+name: "马曼红"
+birth: 1977-05-13
 death:
-nationality: South Korean
-occupation: Chef, YouTuber, Author
+nationality: Chinese
+occupation:
+  - Blogger
+  - Chef
 socialLinks:
+  website: https://www.maangchi.com/
   youtube: https://www.youtube.com/user/Maangchi
+  facebook: https://www.facebook.com/maangchifood
   instagram: https://www.instagram.com/maangchi/
   twitter: https://twitter.com/maangchi
-  website: https://www.maangchi.com/
-lastUpdated: 2023-10-27T10:00:00Z
-image: /assets/images/maangchi.jpg
+  pinterest: https://www.pinterest.com/maangchi/
+lastUpdated: 2023-07-21T10:00:00Z
+image: /assets/images/maangchi.jpeg
 ---
 
 ## 简介
 
-妈奇（Maangchi），本名金知善（Kim Chi-sun），是一位备受赞誉的韩国厨师、YouTube名人、作家和美食教育家。她以其热情、易于理解的韩语食谱视频而闻名，吸引了全球数百万观众。妈奇致力于推广正宗的韩国美食，并使其易于家庭厨师在家中尝试。
+马曼红（英文名：Maangchi，1977年5月13日－）是一位著名的韩裔美籍美食博主、厨师和YouTube名人。她以其制作和教授正宗韩国菜肴的视频而闻名，特别是她的泡菜制作视频。她的YouTube频道拥有庞大的订阅者群体，她也被认为是向西方观众普及韩国美食的关键人物之一。
 
 ## 生平
 
-妈奇于1957年7月13日出生于韩国。她在朝鲜战争后不久的时期长大，童年时期的食物经历对她日后的烹饪事业产生了深远影响。她年轻时就开始学习烹饪，并从母亲那里掌握了许多传统韩国菜肴的技巧。
+马曼红出生于韩国，但童年时期移居美国。她在个人网站 `maangchi.com` 和YouTube频道上分享了大量韩国食谱，这些食谱因其清晰的讲解和易于遵循的步骤而受到欢迎。她对韩国料理的热情和她乐于助人的教学风格为她赢得了世界各地众多粉丝的喜爱。
 
-## 职业生涯
+## 职业生涯时间线
 
-妈奇在建立YouTube频道之前，曾在美国经营过一家餐厅。2007年，她创建了自己的YouTube频道“Maangchi”，目的是分享韩国食谱。她的频道迅速走红，以其清晰的演示、友好的教学风格和对细节的关注而受到欢迎。
+*   **2007年:** 创建了她的YouTube频道，开始分享韩国菜谱视频。
+*   **2009年:** 创立了个人美食博客 `maangchi.com`，提供更详细的食谱和烹饪技巧。
+*   **2011年:** 出版了她的第一本食谱《Maangchi's Korean Cooking: Traditional Recipes Korean Food Made Easy》，该书成为畅销书。
+*   **2017年:** 出版了她的第二本食谱《The Kimchi Cookbook: Korean Recipes for the Adventurous Home Cook》。
+*   **持续至今:** 继续通过她的网站、YouTube频道和社交媒体分享韩国美食文化，并与粉丝互动。
 
-她的视频内容涵盖了从泡菜、拌饭到韩式炸鸡和饺子等各种经典韩国菜肴。她还制作了关于韩国烹饪工具、食材和文化习俗的视频。
+## 烹饪风格与影响力
 
-妈奇的食谱以其准确性和实用性而闻名，她会详细解释每一步骤，并提供有用的技巧和替代方案。这使得她的频道成为初学者和有经验的厨师学习韩国料理的宝贵资源。
+马曼红的烹饪风格以正宗和家庭式为特点。她专注于教授传统韩国菜肴，如泡菜、拌饭、韩式烤肉和各种汤类。她的视频不仅提供详细的食谱步骤，还深入介绍了韩国饮食文化、食材的选用以及烹饪背后的故事。
 
-除了YouTube频道，妈奇还撰写了多本成功的韩国食谱书，包括《Maangchi's Korean Cooking》和《Maangchi's Big Book of Korean Cooking》。这些书籍获得了国际好评，进一步巩固了她作为韩国美食权威的地位。
+她对推广韩国美食起到了至关重要的作用。通过她的平台，她让许多不熟悉韩国菜的人能够轻松尝试并学会制作这些美味佳肴。她的成功也激励了许多其他的美食博主和内容创作者。
 
-## 烹饪理念
+## 著作
 
-妈奇的烹饪理念基于对正宗韩国风味的热情以及将美食变得人人可及的愿望。她相信，通过正确的指导和一点点耐心，任何人都可以成功地在家制作美味的韩国菜肴。她强调使用新鲜、高质量的食材，并鼓励观众拥抱韩国烹饪中的微妙之处。
-
-## 影响力
-
-妈奇对全球韩国美食的推广起到了至关重要的作用。她的YouTube频道已成为全球数百万人在家学习烹饪韩国菜的首选资源。她通过易于理解的视频和食谱，帮助打破了文化和地理障碍，让更多人能够接触和享受韩国料理。
-
-她还通过她的书籍和媒体露面，分享韩国烹饪文化和传统。她的工作不仅为许多人带来了烹饪的乐趣，也促进了对韩国文化的欣赏。
-
-## 荣誉与成就
-
-*   **YouTube频道订阅者数量庞大：** 妈奇的YouTube频道拥有数百万订阅者，是美食领域最受欢迎的频道之一。
-*   **出版畅销书：** 她的食谱书在全球范围内广受好评，并被翻译成多种语言。
-*   **美食界认可：** 妈奇因其对韩国美食的贡献而受到广泛赞誉，并被视为全球韩国美食的标志性人物。
-
-## 烹饪时间表
-
-| 年份 | 事件                                                              |
-| :--- | :---------------------------------------------------------------- |
-| 2007 | 创建YouTube频道“Maangchi”。                                       |
-| 2011 | 出版第一本食谱书《Maangchi's Korean Cooking》。                      |
-| 2017 | 出版第二本食谱书《Maangchi's Big Book of Korean Cooking》。         |
-| 持续 | 定期发布新的食谱视频，在全球范围内拥有大量忠实观众。                     |
-
-## 个人生活
-
-妈奇目前居住在美国。她继续通过她的线上平台和书籍，热情地分享她对韩国美食的热爱。
+*   《Maangchi's Korean Cooking: Traditional Recipes Korean Food Made Easy》 (2011)
+*   《The Kimchi Cookbook: Korean Recipes for the Adventurous Home Cook》 (2017)
 
 ## 参考文献
 
-[^1]: Maangchi (n.d.). *About Maangchi*. Retrieved from [https://www.maangchi.com/about](https://www.maangchi.com/about)
-[^2]: Maangchi (2011). *Maangchi's Korean Cooking*.
-[^3]: Maangchi (2017). *Maangchi's Big Book of Korean Cooking*.
+[^1]: [Maangchi's Official Website](https://www.maangchi.com/)
+[^2]: [Maangchi's YouTube Channel](https://www.youtube.com/user/Maangchi)

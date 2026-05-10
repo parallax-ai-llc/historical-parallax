@@ -5,7 +5,7 @@ birth: "1966-09-30"
 death: "Unknown"
 nationality: "British"
 occupation: ["Chemist", "Genomics pioneer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Shankar_Balasubramanian%2C_Herchel_Smith_Professor_of_Medicinal_Chemistry.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shankar_Balasubramanian"
 lastUpdated: "2026-02-21"

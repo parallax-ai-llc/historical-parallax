@@ -21,7 +21,7 @@ Indian gangster who allegedly ordered the murder of Punjabi rapper Sidhu Moose W
 |------|-------|
 | 2022 | Allegedly ordered Sidhu Moose Wala murder |
 
-## References
+
 
 [^1]: Wikipedia, "Goldy Brar" - https://en.wikipedia.org/wiki/Goldy_Brar
 
@@ -62,3 +62,6 @@ Indian gangster who allegedly ordered the murder of Punjabi rapper Sidhu Moose W
 - **Multi-accused cases:** Coverage of the Moose Wala killing frequently involves multiple suspects, intermediaries, and alleged shooters, with separate arrest and charge developments over time.
 - **International coordination:** Because suspects are sometimes reported to be outside India, news accounts often mention extradition, immigration status, and cross-border law-enforcement cooperation.
 - **Ongoing updates:** The public picture can change as prosecutions progress; reliable summaries typically note what is alleged vs. what is proven.
+
+
+## References

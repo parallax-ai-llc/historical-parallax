@@ -21,7 +21,7 @@ Russian deputy defense minister arrested for bribery in a high-profile corruptio
 |------|-------|
 | 2024 | Arrested for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Timur Ivanov" - https://en.wikipedia.org/wiki/Timur_Ivanov
 
@@ -58,3 +58,6 @@ Public reporting on the details of the allegations has varied by source, and off
 ## Additional References
 
 [^2]: Related reporting and timeline summaries are aggregated in the Wikipedia article and its cited sources.
+
+
+## References

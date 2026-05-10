@@ -21,7 +21,7 @@ American basketball star detained in Russia for cannabis cartridges and exchange
 |------|-------|
 | 2022 | Imprisoned then exchanged for Bout |
 
-## References
+
 
 [^1]: Wikipedia, "Brittney Griner" - https://en.wikipedia.org/wiki/Brittney_Griner
 
@@ -50,3 +50,6 @@ American basketball star detained in Russia for cannabis cartridges and exchange
 
 - U.S.–Russia relations (2022)
 - Prisoner exchange diplomacy
+
+
+## References

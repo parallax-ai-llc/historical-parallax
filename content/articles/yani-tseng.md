@@ -23,7 +23,7 @@ Yani Tseng was the youngest golfer to win five major championships at age 22 and
 | 2011 | Won fifth major at age 22 |
 | 2011 | Reached world number one |
 
-## References
+
 
 [^1]: Wikipedia, "Yani Tseng" - https://en.wikipedia.org/wiki/Yani_Tseng
 
@@ -52,3 +52,6 @@ Tseng is widely regarded as a landmark figure for golf in Taiwan, helping raise 
 ## Notes
 
 This article provides a high-level summary; detailed season-by-season results and specific major titles can be found in the linked reference.
+
+
+## References

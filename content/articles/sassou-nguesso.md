@@ -5,7 +5,7 @@ birth: "1943-11-23"
 death: "Unknown"
 nationality: "Republic of the Congo"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Denis_Sassou-Nguesso_in_January_28th%2C_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sassou_Nguesso"
 lastUpdated: "2026-02-26"

@@ -22,7 +22,7 @@ Leader of the Norte del Valle Cartel captured after a massive manhunt.
 |------|-------|
 | 2007 | Captured by Colombian authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Diego Montoya Sánchez" - https://en.wikipedia.org/wiki/Diego_Montoya_S%C3%A1nchez
 
@@ -55,3 +55,6 @@ Leader of the Norte del Valle Cartel captured after a massive manhunt.
 ## Notes on Sources
 
 - The reference linked above is a starting point; where details differ across reporting, it is safer to document only the widely repeated, high-level facts (identity, affiliation, and capture date).
+
+
+## References

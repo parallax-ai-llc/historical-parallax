@@ -21,7 +21,7 @@ South Korean serial killer convicted of multiple murders.
 |------|-------|
 | 2006 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Chung Yong-chul" - https://en.wikipedia.org/wiki/Chung_Yong-chul
 
@@ -57,3 +57,6 @@ Korean names may be rendered differently in Latin script depending on the romani
 - Serial murder
 - Crime in South Korea
 - South Korean Criminal Act
+
+
+## References

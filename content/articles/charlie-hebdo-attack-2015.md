@@ -21,7 +21,7 @@ Two brothers attacked the Charlie Hebdo magazine office in Paris killing 12, inc
 |------|-------|
 | 2015 | 12 killed at Charlie Hebdo |
 
-## References
+
 
 [^1]: Wikipedia, "Charlie Hebdo Attack 2015" - https://en.wikipedia.org/wiki/Charlie_Hebdo_Attack_2015
 
@@ -77,3 +77,6 @@ Two brothers attacked the Charlie Hebdo magazine office in Paris killing 12, inc
 
 - This page focuses on widely reported, non-technical facts and avoids detailed operational claims.
 - For a precise timeline of the wider January 2015 events (including the manhunt and related incidents), consult detailed chronologies in reputable sources in addition to the summary reference.
+
+
+## References

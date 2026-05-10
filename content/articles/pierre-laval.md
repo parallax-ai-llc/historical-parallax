@@ -21,7 +21,7 @@ Head of Vichy France government who enthusiastically collaborated with Nazi Germ
 |------|-------|
 | 1945 | Executed for treason and collaboration |
 
-## References
+
 
 [^1]: Wikipedia, "Pierre Laval" - https://en.wikipedia.org/wiki/Pierre_Laval
 
@@ -59,3 +59,6 @@ Head of Vichy France government who enthusiastically collaborated with Nazi Germ
 - Philippe Pétain
 - Vichy France
 - Holocaust in France
+
+
+## References

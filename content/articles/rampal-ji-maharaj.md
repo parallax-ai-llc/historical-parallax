@@ -24,7 +24,7 @@ Indian self-styled godman who ran an armed compound in Haryana with 15,000 follo
 | 2014 | Arrested after skeletal remains found in ashram |
 | 2017 | Convicted of murder and criminal conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Rampal Ji Maharaj" - https://en.wikipedia.org/wiki/Rampal_Ji_Maharaj
 
@@ -49,3 +49,6 @@ This entry focuses on high-level, widely reported elements (organization, stando
 For additional detail (charges, court chronology, and organization history), the Wikipedia article above aggregates reporting and citations that can be used to expand this stub with greater specificity.
 
 A future expansion could also separate organizational history from the major legal episodes for clarity.
+
+
+## References

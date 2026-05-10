@@ -23,7 +23,7 @@ Massive explosion at Beirut port on August 4, 2020 when 2,750 tonnes of ammonium
 | 2020 | 218 killed, 7,000 injured |
 | 2023 | Investigation stalled by political interference |
 
-## References
+
 
 [^1]: Wikipedia, "Beirut Explosion 2020" - https://en.wikipedia.org/wiki/Beirut_Explosion_2020
 
@@ -51,3 +51,6 @@ The explosion intensified Lebanon’s overlapping crises—economic instability,
 - Dates, counts, and interpretations can vary by source; consult references for detail.
 - The topic is commonly discussed in terms of institutions, incentives, and long-term impact.
 
+
+
+## References

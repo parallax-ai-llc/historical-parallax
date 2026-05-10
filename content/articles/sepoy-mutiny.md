@@ -5,7 +5,7 @@ birth: "1857-05-10"
 death: "1858-06-20"
 nationality: "India"
 occupation: ["Historical Event", "Revolution", "Rebellion"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Indian_Rebellion_of_1857.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sepoy_Mutiny"
 lastUpdated: "2026-02-21"

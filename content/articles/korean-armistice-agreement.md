@@ -5,7 +5,7 @@ birth: "1953-07-27"
 death: "1953-07-27"
 nationality: "Korea"
 occupation: ["Historical Event", "Treaty", "Armistice"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Korean_War_armistice_agreement_1953.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Korean_Armistice_Agreement"
 lastUpdated: "2026-02-21"

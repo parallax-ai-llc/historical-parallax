@@ -23,7 +23,7 @@ Albert Fert is a French physicist who shared the 2007 Nobel Prize in Physics for
 | 1988 | Discovered giant magnetoresistance |
 | 2007 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Albert Fert" - https://en.wikipedia.org/wiki/Albert_Fert
 
@@ -48,3 +48,6 @@ Beyond a single discovery, Fert’s career is often discussed in the context of 
 ## Notes
 
 This article keeps the description of GMR at a high level; detailed treatments involve quantum transport, thin-film fabrication, and device engineering.
+
+
+## References

@@ -23,7 +23,7 @@ Mohamed Salah won the Champions League with Liverpool in 2019 and set the Premie
 | 2018 | Set PL scoring record with 32 goals |
 | 2019 | Won Champions League with Liverpool |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Salah" - https://en.wikipedia.org/wiki/Mohamed_Salah
 
@@ -50,3 +50,6 @@ Mohamed Salah is an Egyptian professional footballer best known for his time at 
 ## See also
 
 - Liverpool FC
+
+
+## References

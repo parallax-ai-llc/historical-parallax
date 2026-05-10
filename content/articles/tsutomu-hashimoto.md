@@ -22,7 +22,7 @@ Boss of the Kodo-kai, a powerful faction within the Yamaguchi-gumi yakuza organi
 | 2005 | Became Kodo-kai leader |
 | 2015 | Central figure in Yamaguchi-gumi split |
 
-## References
+
 
 [^1]: Wikipedia, "Tsutomu Hashimoto" - https://en.wikipedia.org/wiki/Tsutomu_Hashimoto
 
@@ -48,3 +48,6 @@ Boss of the Kodo-kai, a powerful faction within the Yamaguchi-gumi yakuza organi
 
 - Reporting about yakuza leadership structures can vary by source and time period, reflecting the opacity of criminal organizations and ongoing enforcement actions.
 - Long-running factional disputes within large syndicates are frequently monitored for their potential impact on public safety.
+
+
+## References

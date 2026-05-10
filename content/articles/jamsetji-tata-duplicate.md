@@ -21,7 +21,7 @@ Duplicate — see Jamsetji Tata.
 |------|-------|
 | 1839 | See Jamsetji Tata entry |
 
-## References
+
 
 [^1]: Wikipedia, "Jamsetji Tata duplicate" - https://en.wikipedia.org/wiki/Jamsetji_Tata_duplicate
 
@@ -61,3 +61,6 @@ While detailed dates and attributions belong in the canonical entry, Jamsetji Ta
 
 - This file is intentionally brief and may omit specifics to avoid conflicting with the main Jamsetji Tata article.
 - If this duplicate is surfaced in search or navigation, it should be treated as an alias/cross-reference rather than a standalone profile.
+
+
+## References

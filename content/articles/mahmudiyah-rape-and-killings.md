@@ -21,7 +21,7 @@ US soldiers raped a 14-year-old Iraqi girl and murdered her and her family, then
 |------|-------|
 | 2006 | Rape and murder of Iraqi family |
 
-## References
+
 
 [^1]: Wikipedia, "Mahmudiyah Rape and Killings" - https://en.wikipedia.org/wiki/Mahmudiyah_Rape_and_Killings
 
@@ -63,3 +63,6 @@ US soldiers raped a 14-year-old Iraqi girl and murdered her and her family, then
 
 - Haditha massacre
 - Abu Ghraib torture and prisoner abuse
+
+
+## References

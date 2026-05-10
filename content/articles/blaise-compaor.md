@@ -24,7 +24,7 @@ Burkinabé president who seized power by assassinating his friend Thomas Sankara
 | 2014 | Overthrown in popular uprising |
 | 2022 | Convicted in absentia of Sankara's murder |
 
-## References
+
 
 [^1]: Wikipedia, "Blaise Compaoré" - https://en.wikipedia.org/wiki/Blaise_Compaor%C3%A9
 
@@ -57,3 +57,6 @@ Burkinabé president who seized power by assassinating his friend Thomas Sankara
 
 - In 2014, mass protests erupted after an attempt to change term-limit rules, and he left the country.
 - Later legal proceedings focused on accountability for the 1987 killing of Thomas Sankara.
+
+
+## References

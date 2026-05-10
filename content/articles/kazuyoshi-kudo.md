@@ -22,7 +22,7 @@ Co-founder of the Kudo-kai yakuza group in Kitakyushu known for particularly vio
 | 1990 | Led Kudo-kai operations |
 | 2014 | Kudo-kai designated as dangerous organized crime group |
 
-## References
+
 
 [^1]: Wikipedia, "Kazuyoshi Kudo" - https://en.wikipedia.org/wiki/Kazuyoshi_Kudo
 
@@ -49,3 +49,6 @@ Articles about Kudo and the Kudo-kai often emphasize community-level effects, su
 ## Additional Reference
 
 [^2]: National Police Agency of Japan (NPA) (institutional background) - https://www.npa.go.jp/
+
+
+## References

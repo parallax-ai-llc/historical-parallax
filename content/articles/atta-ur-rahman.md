@@ -23,7 +23,7 @@ Atta-ur-Rahman is a Pakistani organic chemist who has published over 1,200 resea
 | 2002 | Became chairman of Higher Education Commission |
 | 2015 | Received UNESCO Science Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Atta-ur-Rahman" - https://en.wikipedia.org/wiki/Atta-ur-Rahman
 
@@ -48,3 +48,6 @@ He has received national and international honors and has been active in scienti
 ## Broader significance
 
 His career is frequently used as a case study in how scientific leadership can influence national research ecosystems beyond individual laboratory output.
+
+
+## References

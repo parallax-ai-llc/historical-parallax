@@ -5,7 +5,7 @@ birth: "1918-10-04"
 death: "1998-01-09"
 nationality: "Japanese"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Kenichi_Fukui_nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenichi_Fukui"
 lastUpdated: "2026-02-21"

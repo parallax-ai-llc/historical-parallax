@@ -23,7 +23,7 @@ Thai-Vietnamese wildlife trafficking kingpin who ran one of the largest illegal 
 | 2018 | Arrested in Thailand |
 | 2020 | Convicted of wildlife trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Boonchai Bach" - https://en.wikipedia.org/wiki/Boonchai_Bach
 
@@ -50,3 +50,6 @@ Bach’s case is frequently referenced in reporting as an example of industrial-
 - Wildlife trafficking
 - Elephant ivory trade
 - Rhinoceros horn trade
+
+
+## References

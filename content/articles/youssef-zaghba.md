@@ -22,7 +22,7 @@ Italian-Moroccan terrorist who was one of three attackers in the June 2017 Londo
 | 2017 | Participated in London Bridge attack; killed |
 | 2017 | Shot dead by police |
 
-## References
+
 
 [^1]: Wikipedia, "Youssef Zaghba" - https://en.wikipedia.org/wiki/Youssef_Zaghba
 
@@ -49,3 +49,6 @@ Such reviews often examine the balance between civil liberties, intelligence pri
 ## Notes
 
 This article provides a brief biographical anchor to a widely covered event. For verified detail on planning, networks, and official findings, consult UK inquest materials and official counterterrorism reports.
+
+
+## References

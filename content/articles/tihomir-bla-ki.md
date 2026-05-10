@@ -23,7 +23,7 @@ Bosnian Croat military commander convicted by the ICTY for his role in attacks o
 | 2000 | Convicted of war crimes; sentenced to 45 years |
 | 2004 | Sentence reduced to 9 years on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Tihomir Blaškić" - https://en.wikipedia.org/wiki/Tihomir_Bla%C5%A1ki%C4%87
 
@@ -48,3 +48,6 @@ Discussions of the case frequently appear in broader debates about accountabilit
 - International Criminal Tribunal for the former Yugoslavia (ICTY)
 - Command responsibility in international criminal law
 - Lašva Valley conflict (1993)
+
+
+## References

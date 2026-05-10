@@ -21,7 +21,7 @@ US soldiers killed approximately 300 South Korean refugees at No Gun Ri, believi
 |------|-------|
 | 1950 | Up to 300 civilians killed by US forces |
 
-## References
+
 
 [^1]: Wikipedia, "No Gun Ri Massacre" - https://en.wikipedia.org/wiki/No_Gun_Ri_Massacre
 
@@ -57,3 +57,6 @@ US soldiers killed approximately 300 South Korean refugees at No Gun Ri, believi
 
 [^2]: Associated Press (1999), reporting on No Gun Ri and survivor accounts (see related coverage summarized in secondary sources).
 [^3]: US Army / US government investigation materials released in 2001 (summarized in the Wikipedia article linked above).
+
+
+## References

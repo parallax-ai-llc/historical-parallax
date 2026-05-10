@@ -5,7 +5,7 @@ birth: "1941-02-07"
 death: "Unknown"
 nationality: "American"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Leslie_Lamport.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leslie_Lamport"
 lastUpdated: "2026-02-21"

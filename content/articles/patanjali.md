@@ -24,7 +24,7 @@ Patanjali was an ancient Indian sage who compiled the Yoga Sutras, the foundatio
 | 170 BCE | Systematized the eight limbs of yoga |
 | 150 BCE | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Patanjali" - https://en.wikipedia.org/wiki/Patanjali
 
@@ -49,3 +49,6 @@ Patanjali is influential less as a biographical figure (the historical details a
 - Wikipedia article linked above for a detailed chronology and additional references.
 - Biographical dictionaries or subject-specific histories (physics, sport, art history, cybersecurity, or philosophy) for broader context.
 
+
+
+## References

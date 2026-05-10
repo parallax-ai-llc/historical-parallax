@@ -22,7 +22,7 @@ Japanese internet entrepreneur convicted of securities fraud at Livedoor. Once J
 | 2006 | Arrested for securities fraud |
 | 2011 | Prison sentence began |
 
-## References
+
 
 [^1]: Wikipedia, "Takafumi Horie" - https://en.wikipedia.org/wiki/Takafumi_Horie
 
@@ -50,3 +50,6 @@ After serving his sentence, Horie remained a public figure, commenting on busine
 
 - Coverage of the case is often tied to the broader “Livedoor shock” narrative in Japan’s markets and media.
 - Biographical details and timelines can vary by source; primary court reporting and contemporaneous business press are typically used for verification.
+
+
+## References

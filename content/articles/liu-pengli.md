@@ -43,10 +43,13 @@ Chinese prince and possibly history's earliest documented serial killer, who mur
 - In popular retellings, Liu Pengli is frequently referenced in lists of historical figures associated with extreme violence.
 - In academic terms, he is more safely treated as a **case study in Han political control and historiography** than as a directly comparable figure to modern serial-crime typologies.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Liu Pengli" - https://en.wikipedia.org/wiki/Liu_Pengli
 
 ## Further Reading
 
 - **Sima Qian**, _Records of the Grand Historian_ (_Shiji_) — the traditional narrative source commonly cited for Liu Pengli's case.[^1]
+
+
+## References

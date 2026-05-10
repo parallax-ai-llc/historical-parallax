@@ -23,7 +23,7 @@ Powerful Russian organized crime group based in St. Petersburg that controlled m
 | 1990s | Controlled St. Petersburg economy |
 | 2007 | Leader Barsukov arrested |
 
-## References
+
 
 [^1]: Wikipedia, "Tambovskaya Gang" - https://en.wikipedia.org/wiki/Tambovskaya_Gang
 
@@ -50,3 +50,6 @@ The story of the Tambov group is commonly used as an example of how organized cr
 ## Terminology
 
 In English-language sources, “Tambovskaya” is sometimes used as a catch-all label for allied networks operating in and around Saint Petersburg during the period. Analyses often note overlaps among groups, making precise boundaries difficult to define.
+
+
+## References

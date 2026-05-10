@@ -21,7 +21,7 @@ Senior North Korean military official who oversaw arms exports and espionage ope
 |------|-------|
 | 1995 | Became Vice Chairman of National Defence Commission |
 
-## References
+
 
 [^1]: Wikipedia, "O Kuk-ryol" - https://en.wikipedia.org/wiki/O_Kuk-ryol
 
@@ -50,3 +50,6 @@ Senior North Korean military official who oversaw arms exports and espionage ope
 
 - DPRK elite and security apparatus overviews in academic and policy literature (used to contextualize individuals whose official biographies are sparse).
 - Sanctions listings and designation notices published by sanctioning authorities (for primary-language rationale and cited entities).
+
+
+## References

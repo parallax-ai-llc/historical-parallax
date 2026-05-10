@@ -21,7 +21,7 @@ Hackers compromised Mixin Network's cloud service provider and stole approximate
 | 2023 | $200 million stolen from Mixin Network |
 | 2023 | Platform suspended withdrawals |
 
-## References
+
 
 [^1]: Wikipedia, "Mixin Network Hack" - https://en.wikipedia.org/wiki/Mixin_Network_Hack
 ## Additional Context
@@ -49,3 +49,6 @@ Hackers compromised Mixin Network's cloud service provider and stole approximate
 - This entry is a high-level summary intended for quick reference.
 - For deeper detail, consult primary documents and the linked reference.
 - Dates are recorded as reported by widely available public sources.
+
+
+## References

@@ -22,7 +22,7 @@ Former Indonesian military commander accused of human rights abuses during East 
 | 1999 | Involved in military operations during East Timor crisis |
 | 2014 | Became Chief of Staff to President Widodo |
 
-## References
+
 
 [^1]: Wikipedia, "Moeldoko" - https://en.wikipedia.org/wiki/Moeldoko
 
@@ -49,3 +49,6 @@ Criticism reported about Moeldoko tends to focus on allegations related to past 
 ## Further reading
 
 - Wikipedia overview and citations in the linked entry[^1]
+
+
+## References

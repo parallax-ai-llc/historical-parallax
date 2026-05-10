@@ -5,7 +5,7 @@ birth: "1954-04-30"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Diplomat"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Sir_Kim_Darroch.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Darroch"
 lastUpdated: "2026-02-26"

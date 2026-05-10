@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1945 | See Nicky Oppenheimer |
 
-## References
+
 
 [^1]: Wikipedia, "Nicky Oppenheimer duplicate" - https://en.wikipedia.org/wiki/Nicky_Oppenheimer_duplicate
 
@@ -66,3 +66,6 @@ If this page remains in the collection, practical ways to make it useful without
 - De Beers corporate history pages and press releases (for verifiable leadership changes)
 - Major business profiles (e.g., Financial Times, The Economist) for secondary coverage
 - South African business registries and reputable biographies for confirmation
+
+
+## References

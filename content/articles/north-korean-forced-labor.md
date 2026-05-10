@@ -23,7 +23,7 @@ North Koreas system of political prison camps (kwanliso) holding an estimated 80
 | 2014 | UN Commission found crimes against humanity |
 | 2023 | Camps still operating |
 
-## References
+
 
 [^1]: Wikipedia, "North Korean Forced Labor" - https://en.wikipedia.org/wiki/North_Korean_Forced_Labor
 
@@ -49,3 +49,6 @@ North Koreas system of political prison camps (kwanliso) holding an estimated 80
 This article is a high-level overview of widely reported allegations and findings; consult UN documents and reputable human-rights organizations for detailed sourcing.
 
 Where feasible, prefer primary UN reports over secondary summaries for claims and dates.
+
+
+## References

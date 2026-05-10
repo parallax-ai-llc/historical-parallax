@@ -22,7 +22,7 @@ Thai military dictator who abolished the constitution and ruled by decree. After
 | 1957 | Seized power in military coup |
 | 1963 | Died; posthumous investigation revealed massive corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Thanarat Sarit" - https://en.wikipedia.org/wiki/Thanarat_Sarit
 
@@ -51,3 +51,6 @@ Thai military dictator who abolished the constitution and ruled by decree. After
 ## Notes
 
 This article provides a concise overview. Scholarly histories of Thai politics provide more detail on institutional changes and the balance between development, repression, and patronage.
+
+
+## References

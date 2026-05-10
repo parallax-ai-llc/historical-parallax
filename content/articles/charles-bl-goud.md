@@ -22,7 +22,7 @@ Ivorian youth leader known as the 'Street General' who mobilized mobs to support
 | 2010 | Mobilized violent mobs during post-election crisis |
 | 2019 | Acquitted by ICC of crimes against humanity |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Blé Goudé" - https://en.wikipedia.org/wiki/Charles_Bl%C3%A9_Goud%C3%A9
 
@@ -50,3 +50,6 @@ Ivorian youth leader known as the 'Street General' who mobilized mobs to support
 
 - ICC case documents and judgments provide the most detailed public record of the allegations, evidence, and legal reasoning.
 - Contemporary news reporting from the post‑election period helps contextualize how mass mobilization and violence unfolded.
+
+
+## References

@@ -22,7 +22,7 @@ Founder and first president of the Inagawa-kai, Japan's third-largest yakuza org
 | 1949 | Founded what became Inagawa-kai |
 | 2007 | Died; organization continued under successors |
 
-## References
+
 
 [^1]: Wikipedia, "Kakuji Inagawa" - https://en.wikipedia.org/wiki/Kakuji_Inagawa
 
@@ -56,3 +56,6 @@ High-level profiles typically describe Inagawa as a consolidator: someone who he
 ## Regulation and public debate
 
 Modern Japanese anti-gang measures and social pressure campaigns have shaped how yakuza groups operate and how their leadership is discussed in public sources, especially in retrospective biographies.
+
+
+## References

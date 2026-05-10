@@ -21,7 +21,7 @@ Leader of the Dödspatrullen (Death Patrol) gang involved in multiple shootings 
 |------|-------|
 | 2018 | Led violent gang in Stockholm |
 
-## References
+
 
 [^1]: Wikipedia, "Rami Abdulrahman" - https://en.wikipedia.org/wiki/Rami_Abdulrahman
 
@@ -60,3 +60,6 @@ The following points summarize the typical descriptions found in public sources;
 ## References (Additional)
 
 - [^1] is currently the only linked source in this short profile; expand with court records or reputable reporting when available.
+
+
+## References

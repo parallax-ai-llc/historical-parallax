@@ -21,7 +21,7 @@ Commander of Jasenovac concentration camp convicted of war crimes.
 |------|-------|
 | 1999 | Convicted of Jasenovac war crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Dinko Šakić" - https://en.wikipedia.org/wiki/Dinko_%C5%A0aki%C4%87
 
@@ -48,3 +48,6 @@ Commander of Jasenovac concentration camp convicted of war crimes.
 ## Notes
 
 - This article is a high-level overview; details of charges, witness testimony, and specific counts should be verified against court records and specialized historical sources beyond the summary coverage in Wikipedia.[^1]
+
+
+## References

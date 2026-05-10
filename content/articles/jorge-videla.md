@@ -31,7 +31,7 @@ Duplicate consolidated.
 | 2013 | Died in prison. |
 
 
-## References
+
 
 [^1]: Wikipedia, "Jorge Videla" - https://en.wikipedia.org/wiki/Jorge_Videla
 
@@ -68,3 +68,6 @@ Duplicate consolidated.
 - National Reorganization Process
 - Trial of the Juntas
 - Enforced disappearance
+
+
+## References

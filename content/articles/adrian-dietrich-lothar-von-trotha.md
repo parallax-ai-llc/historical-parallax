@@ -21,7 +21,7 @@ German colonial commander responsible for the first genocide of the 20th century
 |------|-------|
 | 1904 | Ordered Herero genocide in Namibia |
 
-## References
+
 
 [^1]: Wikipedia, "Adrian Dietrich Lothar von Trotha" - https://en.wikipedia.org/wiki/Adrian_Dietrich_Lothar_von_Trotha
 
@@ -67,3 +67,6 @@ German colonial commander responsible for the first genocide of the 20th century
 
 [^2]: United Nations (Whitaker Report), *Revised and Updated Report on the Question of the Prevention and Punishment of the Crime of Genocide* (1985) — commonly cited for early international recognition discussions.
 [^3]: German Federal Foreign Office background materials on Namibia and the 1904–1908 atrocities (official statements and historical summaries).
+
+
+## References

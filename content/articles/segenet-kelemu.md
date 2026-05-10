@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "Unknown"
 nationality: "Ethiopian"
 occupation: ["Plant Pathologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Segenet_Kelemu_meeting_2010_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Segenet_Kelemu"
 lastUpdated: "2026-02-26"

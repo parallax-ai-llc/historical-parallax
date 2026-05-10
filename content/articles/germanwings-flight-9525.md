@@ -23,7 +23,7 @@ Co-pilot Andreas Lubitz deliberately crashed Germanwings Flight 9525 into the Fr
 | 2015 | 150 killed |
 | 2015 | Lubitz found to have hidden mental illness |
 
-## References
+
 
 [^1]: Wikipedia, "Germanwings Flight 9525" - https://en.wikipedia.org/wiki/Germanwings_Flight_9525
 
@@ -49,3 +49,6 @@ European discussions included whether physicians and employers had sufficient me
 
 Germanwings Flight 9525 became a widely cited example in aviation risk management of how rare, intentional actions can drive system-wide policy change.
 It also influenced research and training discussions related to resilience, peer reporting, and organizational safety culture.
+
+
+## References

@@ -23,7 +23,7 @@ Indian serial killer who murdered at least 20 taxi drivers in Delhi and UP betwe
 | 2004 | Arrested |
 | 2007 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Manoj Kumar Sinha" - https://en.wikipedia.org/wiki/Manoj_Kumar_Sinha
 
@@ -49,3 +49,6 @@ Indian serial killer who murdered at least 20 taxi drivers in Delhi and UP betwe
 
 - Counts such as "at least" reflect uncertainty and the difference between reported claims and proven charges.
 - This article is a high-level summary; see the reference for case-by-case details.
+
+
+## References

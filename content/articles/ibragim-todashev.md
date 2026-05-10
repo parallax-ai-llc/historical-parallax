@@ -21,7 +21,7 @@ Chechen-American killed by FBI while being questioned about connection to Boston
 |------|-------|
 | 2013 | Shot dead by FBI during interrogation |
 
-## References
+
 
 [^1]: Wikipedia, "Ibragim Todashev" - https://en.wikipedia.org/wiki/Ibragim_Todashev
 
@@ -61,3 +61,6 @@ Chechen-American killed by FBI while being questioned about connection to Boston
 - Boston Marathon bombing investigation (2013)
 - Use-of-force policy and post-incident review processes
 - Media narratives and uncertainty in fast-moving criminal investigations
+
+
+## References

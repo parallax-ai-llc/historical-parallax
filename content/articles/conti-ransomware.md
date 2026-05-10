@@ -24,7 +24,7 @@ Russian-based ransomware gang that attacked hundreds of organizations including 
 | 2022 | Supported Russia's invasion; internal chats leaked |
 | 2022 | Disbanded; members scattered to other groups |
 
-## References
+
 
 [^1]: Wikipedia, "Conti ransomware" - https://en.wikipedia.org/wiki/Conti_ransomware
 
@@ -50,3 +50,6 @@ Russian-based ransomware gang that attacked hundreds of organizations including 
 - **Threat type:** ransomware with extortion
 - **Peak activity (reported):** 2020–2022
 - **Notable inflection point:** 2022 internal leaks after geopolitical statements
+
+
+## References

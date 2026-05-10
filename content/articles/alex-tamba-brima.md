@@ -24,7 +24,7 @@ Sierra Leonean military officer convicted by the Special Court for Sierra Leone 
 | 2007 | Convicted of 11 counts of war crimes |
 | 2007 | Sentenced to 50 years imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Alex Tamba Brima" - https://en.wikipedia.org/wiki/Alex_Tamba_Brima
 
@@ -49,3 +49,6 @@ The AFRC-related prosecutions are often cited as landmark examples of post-confl
 - how hybrid courts can combine international standards with domestic relevance
 - the evidentiary challenges of documenting mass atrocities
 - sentencing and deterrence debates for war crimes and crimes against humanity
+
+
+## References

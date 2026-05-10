@@ -23,7 +23,7 @@ Hyundai Motor chairman convicted of embezzlement for creating a $110 million slu
 | 2007 | Convicted and sentenced to 3 years |
 | 2008 | Pardoned by president |
 
-## References
+
 
 [^1]: Wikipedia, "Chung Mong-koo" - https://en.wikipedia.org/wiki/Chung_Mong-koo
 
@@ -51,3 +51,6 @@ While the legal case involved corporate wrongdoing allegations, he is not genera
 ## See also
 
 - Hyundai Motor Group
+
+
+## References

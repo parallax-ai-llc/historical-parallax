@@ -22,7 +22,7 @@ Military dictator of Mauritania for 21 years who was overthrown while attending 
 | 1984 | Seized power in bloodless coup |
 | 2005 | Overthrown while abroad |
 
-## References
+
 
 [^1]: Wikipedia, "Maaouya Ould Sid'Ahmed Taya" - https://en.wikipedia.org/wiki/Maaouya_Ould_Sid'Ahmed_Taya
 
@@ -53,3 +53,6 @@ These notes add high-level, factual context based on widely available public sum
 ## References (additional)
 
 - The linked Wikipedia page in the frontmatter is a starting point and typically aggregates citations to other sources.
+
+
+## References

@@ -23,7 +23,7 @@ Russian private military company that committed war crimes across Africa, Syria,
 | 2022 | Fought in Ukraine, recruited prisoners |
 | 2023 | Prigozhin launched failed mutiny, later died |
 
-## References
+
 
 [^1]: Wikipedia, "Wagner Group" - https://en.wikipedia.org/wiki/Wagner_Group
 
@@ -52,3 +52,6 @@ In June 2023, Prigozhin led a short-lived armed rebellion/"march" toward Moscow 
 ### Allegations and scrutiny
 
 International bodies, journalists, and human-rights organizations have alleged that Wagner personnel were involved in serious abuses and potential war crimes in multiple theaters. Because Wagner often operated in opaque environments, attribution and documentation vary by incident and source.
+
+
+## References

@@ -24,7 +24,7 @@ Pakistani-American painter known for intimate paintings of young brown men in pr
 | 2020 | Solo exhibition at the Whitney Museum |
 | 2023 | Continues as a major emerging artist |
 
-## References
+
 
 [^1]: Wikipedia, "Salman Toor" - https://en.wikipedia.org/wiki/Salman_Toor
 
@@ -53,3 +53,6 @@ For an authoritative exhibition history and bibliography, use the linked biograp
 
 - Wikipedia (overview)
 - Reputable news and academic references
+
+
+## References

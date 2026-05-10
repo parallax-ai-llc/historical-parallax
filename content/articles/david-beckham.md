@@ -23,7 +23,7 @@ David Beckham's precision free-kicks made him globally famous. He won six Premie
 | 2003 | Joined Real Madrid |
 | 2013 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "David Beckham" - https://en.wikipedia.org/wiki/David_Beckham
 
@@ -50,3 +50,6 @@ He was a long-serving England international and is frequently remembered for the
 Beckham became a global celebrity athlete whose influence extended into fashion, advertising, and philanthropy.
 
 His post-playing career has included business and ownership roles connected to professional football, contributing to broader trends of athletes transitioning into sports entrepreneurship.
+
+
+## References

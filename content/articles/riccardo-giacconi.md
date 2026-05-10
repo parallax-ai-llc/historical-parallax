@@ -24,7 +24,7 @@ Riccardo Giacconi shared the 2002 Nobel Prize for pioneering contributions to X-
 | 2002 | Nobel Prize |
 | 2018 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Riccardo Giacconi" - https://en.wikipedia.org/wiki/Riccardo_Giacconi
 
@@ -48,3 +48,6 @@ Riccardo Giacconi shared the 2002 Nobel Prize for pioneering contributions to X-
 
 - The 2002 Nobel Prize in Physics recognized pioneering work in X-ray astronomy, reflecting how the field opened a new observational window on black holes, neutron stars, supernova remnants, and hot cosmic gas.
 - He is remembered for linking engineering, mission operations, and scientific questions in ways that made new kinds of data routinely available to the broader community.
+
+
+## References

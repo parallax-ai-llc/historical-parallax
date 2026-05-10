@@ -22,7 +22,7 @@ Russia's oligarchic system enables systematic theft of state resources. Putin an
 | 1995 | Loans-for-shares privatization |
 | 2022 | Massive sanctions imposed |
 
-## References
+
 
 [^1]: Wikipedia, "Russian Kleptocracy" - https://en.wikipedia.org/wiki/Russian_Kleptocracy
 
@@ -54,3 +54,6 @@ Russia's oligarchic system enables systematic theft of state resources. Putin an
 
 - Often used as a shorthand for the fusion of political power and wealth extraction in the post-Soviet era.
 - The concept is frequently discussed alongside oligarch networks, sanctions policy, and cross-border financial secrecy.
+
+
+## References

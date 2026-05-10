@@ -21,7 +21,7 @@ Already covered - see Soichi Noguchi. Duplicate check.
 |------|-------|
 | 1965 | Born in Yokohama |
 
-## References
+
 
 [^1]: Wikipedia, "Noguchi Soichi" - https://en.wikipedia.org/wiki/Noguchi_Soichi
 
@@ -58,3 +58,6 @@ This page is a profile for **Soichi Noguchi (野口 聡一)**. If the project al
 - STS-114
 - Soyuz (spacecraft)
 - SpaceX Crew Dragon
+
+
+## References

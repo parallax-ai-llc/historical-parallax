@@ -22,7 +22,7 @@ Colombian drug lord known as 'Valenciano' who led the Urabá drug trafficking or
 | 2007 | Led drug trafficking organization in Urabá |
 | 2011 | Arrested and extradited to the US |
 
-## References
+
 
 [^1]: Wikipedia, "Maximiliano Bonilla" - https://en.wikipedia.org/wiki/Maximiliano_Bonilla
 
@@ -49,3 +49,6 @@ Colombian drug lord known as 'Valenciano' who led the Urabá drug trafficking or
 - Colombian organized crime after the AUC demobilization
 - Extradition policy and US federal narcotics prosecutions
 - Drug trafficking routes through the Caribbean and Central America
+
+
+## References

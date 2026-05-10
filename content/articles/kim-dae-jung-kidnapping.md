@@ -22,7 +22,7 @@ Future Nobel Peace Prize winner who was kidnapped by Korean CIA agents in Tokyo 
 | 1973 | Kidnapped by KCIA in Tokyo |
 | 2000 | Won Nobel Peace Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Dae-jung Kidnapping" - https://en.wikipedia.org/wiki/Kim_Dae-jung_Kidnapping
 
@@ -49,3 +49,6 @@ The kidnapping is often cited as an emblematic case of Cold War–era authoritar
 
 - South Korea's democratization movements
 - Political kidnappings and extraterritorial operations
+
+
+## References

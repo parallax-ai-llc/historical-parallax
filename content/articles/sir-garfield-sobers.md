@@ -24,7 +24,7 @@ Garfield Sobers is considered the greatest all-rounder in cricket history. He hi
 | 1968 | Hit six sixes in an over |
 | 1974 | Retired from international cricket |
 
-## References
+
 
 [^1]: Wikipedia, "Sir Garfield Sobers" - https://en.wikipedia.org/wiki/Sir_Garfield_Sobers
 
@@ -69,3 +69,6 @@ Sobers is commonly referenced in debates about:
 - West Indies cricket team
 - Test cricket
 - Cricket all-rounder
+
+
+## References

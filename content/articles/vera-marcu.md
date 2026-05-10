@@ -21,7 +21,7 @@ Romanian serial poisoner who killed elderly people in her care.
 |------|-------|
 | 1998 | Convicted of serial poisoning |
 
-## References
+
 
 [^1]: Wikipedia, "Vera Marcu" - https://en.wikipedia.org/wiki/Vera_Marcu
 
@@ -63,3 +63,6 @@ Cases involving harm to people in care settings often prompt discussion about sa
 
 - Poisoning as a method of homicide
 - Healthcare or caregiving-related abuse and neglect
+
+
+## References

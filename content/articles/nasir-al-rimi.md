@@ -24,7 +24,7 @@ Yemeni terrorist who served as the leader of al-Qaeda in the Arabian Peninsula a
 | 2019 | Claimed Pensacola naval base attack |
 | 2020 | Killed in US counterterrorism operation in Yemen |
 
-## References
+
 
 [^1]: Wikipedia, "Nasir al-Rimi" - https://en.wikipedia.org/wiki/Nasir_al-Rimi
 
@@ -49,3 +49,6 @@ This entry provides a high-level summary of widely reported leadership role and 
 
 - al-Qaeda in the Arabian Peninsula (AQAP)
 - Counterterrorism strategy debates
+
+
+## References

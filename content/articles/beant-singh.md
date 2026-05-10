@@ -22,7 +22,7 @@ Indian bodyguard who assassinated PM Indira Gandhi on October 31, 1984 in retali
 | 1984 | Assassinated Indira Gandhi |
 | 1984 | Killed immediately after |
 
-## References
+
 
 [^1]: Wikipedia, "Beant Singh" - https://en.wikipedia.org/wiki/Beant_Singh
 
@@ -48,3 +48,6 @@ The killing of Indira Gandhi reshaped Indian politics and security practices, in
 - 1984 anti-Sikh riots and questions of accountability
 - Political violence and leadership security in India
 - Punjab insurgency and its legacy
+
+
+## References

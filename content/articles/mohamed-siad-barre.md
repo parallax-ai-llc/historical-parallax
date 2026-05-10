@@ -22,7 +22,7 @@ Somali dictator who ruled for 21 years and ordered the bombardment of Hargeisa k
 | 1969 | Seized power in military coup |
 | 1991 | Overthrown, plunging Somalia into civil war |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Siad Barre" - https://en.wikipedia.org/wiki/Mohamed_Siad_Barre
 
@@ -62,3 +62,6 @@ Somali dictator who ruled for 21 years and ordered the bombardment of Hargeisa k
 
 ### Sources
 - The reference link(s) listed above are the primary source pointer used for this short profile.
+
+
+## References

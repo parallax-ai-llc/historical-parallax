@@ -24,7 +24,7 @@ American impostor known as the Great Impostor who successfully impersonated a su
 | 1956 | Life story published as The Great Impostor |
 | 1982 | Died in California |
 
-## References
+
 
 [^1]: Wikipedia, "Ferdinand Waldo Demara" - https://en.wikipedia.org/wiki/Ferdinand_Waldo_Demara
 
@@ -52,3 +52,6 @@ Demara's life is often used as a case study in:
 
 - Identity fraud
 - Social engineering
+
+
+## References

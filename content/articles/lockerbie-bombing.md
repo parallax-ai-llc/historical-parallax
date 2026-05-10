@@ -23,7 +23,7 @@ Bombing of Pan Am Flight 103 over Lockerbie, Scotland in 1988 killing 270. Libya
 | 2001 | Megrahi convicted |
 | 2003 | Libya accepted responsibility |
 
-## References
+
 
 [^1]: Wikipedia, "Lockerbie Bombing" - https://en.wikipedia.org/wiki/Lockerbie_Bombing
 
@@ -54,3 +54,6 @@ It remains a persistent point of contention and inquiry due to the long time hor
 ## Notes
 
 This entry focuses on the high-level arc: the 1988 destruction of the aircraft, subsequent legal proceedings, and the enduring diplomatic and security consequences.
+
+
+## References

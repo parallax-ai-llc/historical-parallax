@@ -22,7 +22,7 @@ Saddam Hussein's systematic campaign against Iraqi Kurds killed 50,000-182,000 p
 | 1988 | Halabja chemical attack |
 | 1988 | Anfal campaign peak |
 
-## References
+
 
 [^1]: Wikipedia, "Anfal Campaign" - https://en.wikipedia.org/wiki/Anfal_Campaign
 
@@ -59,3 +59,6 @@ Saddam Hussein's systematic campaign against Iraqi Kurds killed 50,000-182,000 p
 ## Additional References
 
 [^2]: Human Rights Watch, *Genocide in Iraq: The Anfal Campaign Against the Kurds* - https://www.hrw.org/reports/1993/iraqanfal/
+
+
+## References

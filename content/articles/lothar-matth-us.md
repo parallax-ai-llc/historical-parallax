@@ -42,10 +42,13 @@ In 1991 he won the inaugural FIFA World Player of the Year award. He is frequent
 
 After retiring as a player, Matthäus worked as a coach and football commentator/pundit, with managerial roles in several countries. His media presence kept him prominent in German-speaking football coverage.
 
-## References
+
 
 [^1]: Wikipedia, "Lothar Matthäus" - https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us
 
 ## See also
 
 Related topics include the 1990 FIFA World Cup, the history of Bayern Munich and Inter Milan, and the evolution of the libero role in late-20th-century European football.
+
+
+## References

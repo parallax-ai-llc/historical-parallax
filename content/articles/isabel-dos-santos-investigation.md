@@ -21,7 +21,7 @@ Luanda Leaks revealed how Isabel dos Santos, once Africa's richest woman, built 
 |------|-------|
 | 2020 | Luanda Leaks published |
 
-## References
+
 
 [^1]: Wikipedia, "Isabel dos Santos Investigation" - https://en.wikipedia.org/wiki/Isabel_dos_Santos_Investigation
 
@@ -60,3 +60,6 @@ Depending on the specific story thread, overviews may reference:
 ## Additional Reading
 
 [^2]: ICIJ, "Luanda Leaks" (project overview) - https://www.icij.org/investigations/luanda-leaks/
+
+
+## References

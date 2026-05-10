@@ -5,7 +5,7 @@ birth: "1964-10-26"
 death: "1989-12-06"
 nationality: "Canada"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e9/Marclepine.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marc_L%C3%A9pine"
 lastUpdated: "2026-02-26"

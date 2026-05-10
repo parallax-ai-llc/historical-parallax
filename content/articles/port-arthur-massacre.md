@@ -22,7 +22,7 @@ Mass shooting in Port Arthur, Tasmania on April 28, 1996 killing 35 people. It w
 | 1996 | 35 killed, 23 wounded |
 | 1996 | National Firearms Agreement enacted |
 
-## References
+
 
 [^1]: Wikipedia, "Port Arthur Massacre" - https://en.wikipedia.org/wiki/Port_Arthur_Massacre
 
@@ -50,3 +50,6 @@ Port Arthur is frequently referenced in international debates about gun policy a
 ## Notes on Terminology
 
 In Australian public discussion, the massacre is sometimes discussed alongside broader questions of firearm access, public safety, and the balance between individual ownership and collective risk.
+
+
+## References

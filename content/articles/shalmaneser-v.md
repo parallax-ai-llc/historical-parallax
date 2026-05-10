@@ -5,7 +5,7 @@ birth: "-760-01-01"
 death: "-722-01-01"
 nationality: "Assyria"
 occupation: ["Conqueror"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Shalmaneser_V_crown_prince.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shalmaneser_V"
 lastUpdated: "2026-02-26"
@@ -34,7 +34,7 @@ Assyrian king who besieged and destroyed the Kingdom of Israel, deporting the te
 - Compared with other Assyrian kings, relatively few royal inscriptions are securely attributed to Shalmaneser V, which contributes to uncertainty about details of his campaigns.
 - In biblical history, the Assyrian conquest of the northern Kingdom of Israel and the subsequent deportations became associated with the idea of the "ten lost tribes," a theme that remained influential in later religious and historical writing.
 
-## References
+
 
 [^1]: Wikipedia, "Shalmaneser V" - https://en.wikipedia.org/wiki/Shalmaneser_V
 
@@ -71,3 +71,6 @@ Shalmaneser V is less well attested than several other Assyrian kings. High-leve
 - later sources (including biblical texts and later Assyrian royal accounts) shape the traditional picture
 
 As a result, modern reconstructions often focus on the likely sequence of events and institutional patterns rather than detailed year-by-year documentation.
+
+
+## References

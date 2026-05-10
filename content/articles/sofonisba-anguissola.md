@@ -24,7 +24,7 @@ Italian Renaissance painter who was the first internationally recognized female 
 | 1580 | Marries and moves to Sicily |
 | 1625 | Dies in Palermo |
 
-## References
+
 
 [^1]: Wikipedia, "Sofonisba Anguissola" - https://en.wikipedia.org/wiki/Sofonisba_Anguissola
 
@@ -49,3 +49,6 @@ After leaving Spain, she lived in Italy, including periods in Sicily and Genoa. 
 - Court portraiture and dynastic representation.
 - Informal, psychologically attentive likenesses.
 - A prominent example of women’s artistic training and professional visibility in the Renaissance.
+
+
+## References

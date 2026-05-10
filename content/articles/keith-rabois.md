@@ -3,6 +3,7 @@ name: Keith Rabois
 birth: "1969-03-17"
 nationality: American
 occupation: ["Venture Capitalist", "Entrepreneur", "Investor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Keith_Rabois_-_2011_TechCrunch_Disrupt.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Keith_Rabois"
 lastUpdated: "2025-12-22"

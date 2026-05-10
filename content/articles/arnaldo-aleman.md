@@ -23,7 +23,7 @@ Nicaraguan president who stole $100 million in public funds. Named one of ten mo
 | 2003 | Convicted |
 | 2009 | Conviction overturned |
 
-## References
+
 
 [^1]: Wikipedia, "Arnaldo Aleman" - https://en.wikipedia.org/wiki/Arnaldo_Aleman
 
@@ -50,3 +50,6 @@ This article is a concise overview; details such as specific charges, court deci
 - Governance and anti-corruption efforts in post-1990 Nicaragua.
 - Transparency International reporting on grand corruption.
 
+
+
+## References

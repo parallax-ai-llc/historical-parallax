@@ -21,7 +21,7 @@ Ali Hassan al-Majid, Saddam Hussein's cousin who ordered the Anfal campaign and 
 | 1988 | Ordered Halabja chemical attack |
 | 2010 | Executed for genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Chemical Ali" - https://en.wikipedia.org/wiki/Chemical_Ali
 ## Additional Context
@@ -50,3 +50,6 @@ Ali Hassan al-Majid, Saddam Hussein's cousin who ordered the Anfal campaign and 
 - Dates shown in the timeline are for orientation and do not substitute for a full chronology.
 - Where a "death" field is unknown, it typically indicates that a reliable public confirmation was not available in the referenced summary source at the time of compilation.
 - If this page is expanded further, adding citations to additional sources is the safest way to increase specificity without introducing errors.
+
+
+## References

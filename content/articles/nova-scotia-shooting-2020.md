@@ -21,7 +21,7 @@ Gabriel Wortman killed 22 people across Nova Scotia over 13 hours while disguise
 |------|-------|
 | 2020 | 22 killed in 13-hour rampage |
 
-## References
+
 
 [^1]: Wikipedia, "Nova Scotia Shooting 2020" - https://en.wikipedia.org/wiki/Nova_Scotia_Shooting_2020
 
@@ -54,3 +54,6 @@ Gabriel Wortman killed 22 people across Nova Scotia over 13 hours while disguise
 - Wikipedia overview: the incident timeline, victims list, and subsequent investigative developments.[^1]
 - Mass Casualty Commission (Canada): mandate, hearings, and published materials.
 
+
+
+## References

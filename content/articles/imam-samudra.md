@@ -23,7 +23,7 @@ Indonesian terrorist and field commander of Jemaah Islamiyah who planned and led
 | 2003 | Convicted of murder; sentenced to death |
 | 2008 | Executed by firing squad |
 
-## References
+
 
 [^1]: Wikipedia, "Imam Samudra" - https://en.wikipedia.org/wiki/Imam_Samudra
 
@@ -48,3 +48,6 @@ He was executed by firing squad in 2008. The executions of Bali bombing convicts
 - 2002 Bali bombings
 - Jemaah Islamiyah
 - Counterterrorism in Indonesia
+
+
+## References

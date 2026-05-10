@@ -22,7 +22,7 @@ Japanese man who murdered British teacher Lindsay Hawker and fled police for 2 y
 | 2007 | Murdered Lindsay Hawker |
 | 2009 | Captured after 2 years on the run |
 
-## References
+
 
 [^1]: Wikipedia, "Tatsuya Ichihashi" - https://en.wikipedia.org/wiki/Tatsuya_Ichihashi
 
@@ -50,3 +50,6 @@ After his arrest, the case remained prominent in public discussion and reporting
 - International criminal cases involving Japan
 - Fugitive investigations and manhunts
 - Lindsay Hawker
+
+
+## References

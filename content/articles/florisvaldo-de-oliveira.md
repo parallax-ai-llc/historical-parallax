@@ -19,7 +19,7 @@ Florisvaldo de Oliveira, known as 'Esquerdinha,' was a Brazilian death squad kil
 |------|-------|
 | 1958 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Alias and Identification
@@ -54,10 +54,6 @@ Florisvaldo de Oliveira, known as 'Esquerdinha,' was a Brazilian death squad kil
   - Dates of arrest(s), sentencing, and any subsequent appeals.
   - A documented list of attributed victims/cases vs. estimates.
 
-## References
-[^2]: Brazilian newspaper archives and police/court reporting in São Paulo state (Portuguese-language sources).
-[^3]: Academic and journalistic overviews of Brazilian “esquadrões da morte” and extrajudicial violence (contextual background).
-
 ## Overview
 
 - Florisvaldo de Oliveira, known as “Caboclo,” was a Brazilian criminal figure associated in reporting with the Primeiro Comando da Capital (PCC), one of Brazil’s most prominent prison-based criminal organizations.
@@ -71,4 +67,10 @@ Florisvaldo de Oliveira, known as 'Esquerdinha,' was a Brazilian death squad kil
 
 - The broader story is often used to discuss how prison governance and criminal markets can intertwine, affecting public security outcomes beyond prison walls.
 - It also informs debates about incarceration policy, intelligence-led policing, and the risks of organizational consolidation among criminal groups.
+
+
+
+## References
+[^2]: Brazilian newspaper archives and police/court reporting in São Paulo state (Portuguese-language sources).
+[^3]: Academic and journalistic overviews of Brazilian “esquadrões da morte” and extrajudicial violence (contextual background).
 

@@ -22,7 +22,7 @@ Nigerian President and former Lagos Governor accused of corruption and forfeitin
 | 1999 | Became Governor of Lagos |
 | 2023 | Became President amid controversy |
 
-## References
+
 
 [^1]: Wikipedia, "Bola Tinubu" - https://en.wikipedia.org/wiki/Bola_Tinubu
 
@@ -74,3 +74,6 @@ Tinubu's presidency is evaluated through the same lens, with debate over whether
 ## Public perception
 
 Tinubu's support base often highlights political experience and organizational effectiveness, while critics emphasize transparency concerns and elite bargaining. The intensity of these views reflects Nigeria's competitive, highly regionalized political environment.
+
+
+## References

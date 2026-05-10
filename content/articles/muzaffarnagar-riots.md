@@ -22,7 +22,7 @@ Communal riots between Hindus and Muslims in Muzaffarnagar, Uttar Pradesh killed
 | 2013 | Riots killed 62 and displaced 50,000 in Muzaffarnagar |
 | 2014 | Politicians charged with incitement |
 
-## References
+
 
 [^1]: Wikipedia, "Muzaffarnagar Riots" - https://en.wikipedia.org/wiki/Muzaffarnagar_Riots
 
@@ -52,3 +52,6 @@ This section adds high-level factual context to the article on **muzaffarnagar r
 ### Related topics
 - Comparable events or figures in the same region or time period.
 - Institutions, laws, or movements that shaped the topic or were shaped by it.
+
+
+## References

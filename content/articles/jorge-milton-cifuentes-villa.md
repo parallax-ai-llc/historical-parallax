@@ -40,7 +40,7 @@ Colombian drug lord who headed the Cifuentes Villa drug trafficking organization
 - Extradition transfers a suspect from one country to another to face charges, and can be triggered by an arrest abroad followed by court and diplomatic processes.
 - High-profile trafficking cases often proceed in U.S. federal courts, where defendants may face conspiracy-based indictments covering long time spans and multiple acts.
 
-## References
+
 
 [^1]: Wikipedia, "Jorge Milton Cifuentes Villa" - https://en.wikipedia.org/wiki/Jorge_Milton_Cifuentes_Villa
 
@@ -49,3 +49,6 @@ Colombian drug lord who headed the Cifuentes Villa drug trafficking organization
 - Transnational organized crime and supply-chain style trafficking networks
 - Witness cooperation in U.S. federal criminal cases
 - Extradition proceedings in international criminal law
+
+
+## References

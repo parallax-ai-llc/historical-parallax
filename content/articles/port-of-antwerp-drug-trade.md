@@ -21,7 +21,7 @@ The Port of Antwerp has become Europe's main cocaine gateway with 110 tonnes sei
 |------|-------|
 | 2022 | 110 tonnes of cocaine seized |
 
-## References
+
 
 [^1]: Wikipedia, "Port of Antwerp Drug Trade" - https://en.wikipedia.org/wiki/Port_of_Antwerp_Drug_Trade
 
@@ -73,3 +73,6 @@ The Port of Antwerp has become Europe's main cocaine gateway with 110 tonnes sei
 
 [^2]: Europol, EU Serious and Organised Crime Threat Assessment (SOCTA) — https://www.europol.europa.eu/socta
 [^3]: UNODC, World Drug Report — https://www.unodc.org/unodc/en/data-and-analysis/wdr2024.html
+
+
+## References

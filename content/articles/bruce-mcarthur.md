@@ -23,7 +23,7 @@ Canadian serial killer who murdered 8 men from Toronto's Gay Village between 201
 | 2018 | Arrested; remains found in garden planters |
 | 2019 | Pleaded guilty to 8 first-degree murders |
 
-## References
+
 
 [^1]: Wikipedia, "Bruce McArthur" - https://en.wikipedia.org/wiki/Bruce_McArthur
 
@@ -52,3 +52,6 @@ The case is often referenced in discussions about:
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

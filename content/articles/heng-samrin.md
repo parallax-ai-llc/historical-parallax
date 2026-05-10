@@ -22,7 +22,7 @@ Former Khmer Rouge division commander who later became head of state after the V
 | 1975 | Served as Khmer Rouge military commander |
 | 1979 | Became head of state of Vietnamese-installed government |
 
-## References
+
 
 [^1]: Wikipedia, "Heng Samrin" - https://en.wikipedia.org/wiki/Heng_Samrin
 
@@ -65,3 +65,6 @@ Former Khmer Rouge division commander who later became head of state after the V
 
 - Public debate about culpability for Khmer Rouge-era crimes has intersected with questions of who defected, when, and under what circumstances.
 - The existence of later tribunals and documentation initiatives has kept attention on the difficulty of separating individual responsibility from survival-driven choices inside violent systems.
+
+
+## References

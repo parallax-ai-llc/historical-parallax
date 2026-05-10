@@ -21,7 +21,7 @@ Former Haitian president sanctioned for alleged involvement in drug trafficking 
 |------|-------|
 | 2023 | Sanctioned by Canada for gang ties |
 
-## References
+
 
 [^1]: Wikipedia, "Michel Martelly" - https://en.wikipedia.org/wiki/Michel_Martelly
 
@@ -62,3 +62,6 @@ The public record commonly associates Martelly’s presidency with:
 ## Notes
 
 - This article keeps claims at a **high level** and uses **"alleged"** wording where appropriate; readers should consult primary sources (e.g., official sanctions notices and court filings) for exact allegations and dates.
+
+
+## References

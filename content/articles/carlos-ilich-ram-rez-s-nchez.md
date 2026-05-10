@@ -24,7 +24,7 @@ Venezuelan revolutionary known as Carlos the Jackal who was one of the world's m
 | 1994 | Captured in Khartoum by French intelligence |
 | 2017 | Sentenced to life for third time |
 
-## References
+
 
 [^1]: Wikipedia, "Carlos Ilich Ramírez Sánchez" - https://en.wikipedia.org/wiki/Carlos_Ilich_Ram%C3%ADrez_S%C3%A1nchez
 
@@ -49,3 +49,6 @@ In 1994 he was captured in Sudan and transferred to France. French courts later 
 His career is often used to illustrate how political violence in the 1970s and 1980s combined ideology with opportunistic alliances, and how counterterrorism shifted toward long-term investigation, international cooperation, and prosecutions.
 
 The nickname “Carlos the Jackal” became part of his public image through media coverage, reinforcing the way sensational labeling can shape the popular memory of politically motivated violence.
+
+
+## References

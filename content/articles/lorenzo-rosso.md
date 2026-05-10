@@ -23,7 +23,7 @@ Italian 'Ndrangheta member from Calabria involved in one of Europe's largest coc
 | 2016 | Arrested in major operation |
 | 2018 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Lorenzo Rosso" - https://en.wikipedia.org/wiki/Lorenzo_Rosso
 
@@ -49,3 +49,6 @@ Italian 'Ndrangheta member from Calabria involved in one of Europe's largest coc
 - Are there **publicly named investigations or trials** that clearly identify this individual, including jurisdiction and year?
 - Is there confirmed reporting on **specific trafficking routes, ports, or logistics hubs** tied to the case?
 - Are there reliable sources clarifying whether the name refers to a **single individual** versus a **name collision** across different contexts?
+
+
+## References

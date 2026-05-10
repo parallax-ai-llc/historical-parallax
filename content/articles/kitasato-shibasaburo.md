@@ -5,7 +5,7 @@ birth: "1853-01-29"
 death: "1931-06-13"
 nationality: "Japanese"
 occupation: ["Physician", "Bacteriologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Kitasato_Shibasaburo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kitasato_Shibasaburo"
 lastUpdated: "2026-02-21"

@@ -23,7 +23,7 @@ Man-made famine in Soviet Ukraine in 1932-1933 caused by Stalins forced collecti
 | 1933 | Mass starvation peaked |
 | 2006 | Ukraine recognized as genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Holodomor" - https://en.wikipedia.org/wiki/Holodomor
 
@@ -48,3 +48,6 @@ Ukraine and Ukrainian communities worldwide hold commemorations and memorial eve
 - Collectivization in the Soviet Union
 - Soviet famine of 1932–1933
 - Genocide studies
+
+
+## References

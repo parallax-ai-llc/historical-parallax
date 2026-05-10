@@ -23,7 +23,7 @@ Russian troll farm based in St. Petersburg that conducted social media interfere
 | 2016 | Interfered in US election |
 | 2018 | 13 Russians indicted by Mueller |
 
-## References
+
 
 [^1]: Wikipedia, "Internet Research Agency" - https://en.wikipedia.org/wiki/Internet_Research_Agency
 
@@ -50,3 +50,6 @@ Russian troll farm based in St. Petersburg that conducted social media interfere
 ## Additional Reading
 
 [^2]: U.S. Department of Justice, "United States v. Internet Research Agency LLC" (indictment materials) - https://www.justice.gov/
+
+
+## References

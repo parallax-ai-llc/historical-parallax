@@ -21,7 +21,7 @@ Iranian wrestler executed despite international protests for allegedly stabbing 
 |------|-------|
 | 2020 | Executed despite global outcry |
 
-## References
+
 
 [^1]: Wikipedia, "Navid Afkari" - https://en.wikipedia.org/wiki/Navid_Afkari
 
@@ -61,3 +61,6 @@ Iranian wrestler executed despite international protests for allegedly stabbing 
 
 [^2]: Amnesty International — case updates and statements on Navid Afkari (see Amnesty’s Iran-related releases).
 [^3]: World Players Association — public appeal regarding Navid Afkari (2020).
+
+
+## References

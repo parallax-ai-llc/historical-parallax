@@ -23,7 +23,7 @@ George Eastman founded Kodak and popularized photography with roll film.
 | 1888 | Introduced Kodak camera |
 | 1932 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "George Eastman" - https://en.wikipedia.org/wiki/George_Eastman
 
@@ -49,3 +49,6 @@ Eastman became one of the major American philanthropists of his era, supporting 
 His legacy is intertwined with both the democratization of photography and the later dominance of Kodak in the film industry.
 
 In the long run, his work is often discussed as a case study in how technical packaging, manufacturing scale, and distribution can matter as much as invention.
+
+
+## References

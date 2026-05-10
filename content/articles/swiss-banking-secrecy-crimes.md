@@ -22,7 +22,7 @@ Swiss banking secrecy laws have enabled tax evasion, money laundering, and hidin
 | 1934 | Banking secrecy law enacted |
 | 2017 | Automatic information exchange began |
 
-## References
+
 
 [^1]: Wikipedia, "Swiss Banking Secrecy Crimes" - https://en.wikipedia.org/wiki/Swiss_Banking_Secrecy_Crimes
 
@@ -49,3 +49,6 @@ Debates often balance privacy and financial stability against the social harm of
 - Offshore banking
 - Money laundering
 - Tax evasion
+
+
+## References

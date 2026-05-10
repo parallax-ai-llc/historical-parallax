@@ -24,7 +24,7 @@ Russian military intelligence (GRU) cyber warfare unit also known as Unit 74455.
 | 2018 | Attacked Winter Olympics opening ceremony |
 | 2020 | Six GRU officers indicted by US |
 
-## References
+
 
 [^1]: Wikipedia, "Sandworm" - https://en.wikipedia.org/wiki/Sandworm
 
@@ -50,3 +50,6 @@ Sandworm is frequently used as a canonical example in cyber conflict analysis be
 
 - GRU
 - state-sponsored cyber operations
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1969 | See Lei Jun |
 
-## References
+
 
 [^1]: Wikipedia, "Lei Jun dup3" - https://en.wikipedia.org/wiki/Lei_Jun_dup3
 
@@ -70,3 +70,6 @@ High-level themes frequently discussed in relation to Lei Jun and Xiaomi-style c
 ## References (Additional)
 
 This duplicate page does not add new primary sources beyond the Wikipedia pointer above. When expanding the canonical record, prefer primary interviews, company filings, reputable profiles, and contemporaneous reporting.
+
+
+## References

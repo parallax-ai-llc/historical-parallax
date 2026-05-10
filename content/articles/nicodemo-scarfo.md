@@ -23,7 +23,7 @@ American mobster who was boss of the Philadelphia crime family from 1981 to 1989
 | 1988 | Convicted of murder; sentenced to life |
 | 2017 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Nicodemo Scarfo" - https://en.wikipedia.org/wiki/Nicodemo_Scarfo
 
@@ -50,3 +50,6 @@ He died while in federal custody. Scarfo’s legacy is commonly framed as an exa
 ## Related Topics
 
 Philadelphia crime family; RICO prosecutions; organized crime in the United States.
+
+
+## References

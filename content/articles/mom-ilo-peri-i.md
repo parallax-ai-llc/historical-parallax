@@ -24,7 +24,7 @@ Former chief of staff of the Yugoslav Army acquitted by the ICTY on appeal. He w
 | 2011 | Convicted and sentenced to 27 years |
 | 2013 | Acquitted on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Momčilo Perišić" - https://en.wikipedia.org/wiki/Mom%C4%8Dilo_Peri%C5%A1i%C4%87
 ## Military and Political Context
@@ -55,3 +55,6 @@ Tribunal judgments and appeals decisions contain the most precise descriptions o
 
 - ICTY case law and precedents
 - Command responsibility in international law
+
+
+## References

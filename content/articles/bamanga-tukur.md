@@ -22,7 +22,7 @@ Nigerian politician and businessman accused of corruption and mismanagement. Ser
 | 2012 | Became PDP national chairman |
 | 2014 | Forced to resign amid party crisis |
 
-## References
+
 
 [^1]: Wikipedia, "Bamanga Tukur" - https://en.wikipedia.org/wiki/Bamanga_Tukur
 
@@ -53,3 +53,6 @@ His leadership period is often referenced in analyses of Nigerian party institut
 ### Sources and caution
 
 Short summaries may compress a long and contested career into a few headline controversies. For a fuller view, researchers typically compare party records, investigative journalism, and official inquiries across multiple election cycles.
+
+
+## References

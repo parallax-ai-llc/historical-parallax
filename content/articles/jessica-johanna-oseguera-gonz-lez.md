@@ -44,7 +44,7 @@ Daughter of CJNG leader El Mencho who was arrested in the US for financial deali
 - The reported sentence (30 months) is often referenced as part of broader efforts to deter facilitation networks and reduce the ability of cartels to operate through seemingly legitimate business activity.
 - The case illustrates how family ties and proximity to leadership can become relevant in financial investigations and sanctions enforcement.
 
-## References
+
 
 [^1]: Wikipedia, "Jessica Johanna Oseguera González" - https://en.wikipedia.org/wiki/Jessica_Johanna_Oseguera_Gonz%C3%A1lez
 
@@ -52,3 +52,6 @@ Daughter of CJNG leader El Mencho who was arrested in the US for financial deali
 
 - Jalisco New Generation Cartel (CJNG)
 - U.S. sanctions (OFAC) enforcement against transnational criminal organizations
+
+
+## References

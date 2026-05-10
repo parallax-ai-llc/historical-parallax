@@ -13,19 +13,19 @@ lastUpdated: "2026-02-21"
 
 ## 简介
 
-穆斯塔法·苏莱曼 (Mustafa Suleyman) 是 DeepMind 的联合创始人，现任微软人工智能 (Microsoft AI) 的首席执行官。他于 2010 年与 Demis Hassabis 和 Shane Legg 共同创立了 DeepMind。在谷歌收购 DeepMind 后，他领导了该公司的应用人工智能部门。之后，他创立了 Inflection AI 并推出了个人人工智能助手 Pi，随后加入微软，担任其消费人工智能部门的首席执行官。他的著作《即将来临的浪潮》(The Coming Wave) 探讨了人工智能和生物技术的影响。
+穆斯塔法·苏莱曼是 DeepMind 的联合创始人，也是 Microsoft AI 的首席执行官。他于 2010 年与德米斯·哈萨比斯和沙恩·莱格共同创立了 DeepMind。在谷歌收购 DeepMind 后，他领导了其应用人工智能部门。随后，他创立了 Inflection AI 并推出了个人人工智能助手 Pi，之后加入微软，担任其消费人工智能部门的首席执行官。他的著作《即将到来的浪潮》探讨了人工智能和生物技术的潜在影响。
 
 ## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
 | 1984 | 出生于英国伦敦 |
-| 2010 | 联合创立 DeepMind |
+| 2010 | 共同创立 DeepMind |
 | 2014 | 谷歌收购 DeepMind |
 | 2019 | 加入谷歌更广泛的人工智能团队 |
 | 2022 | 创立 Inflection AI；推出 Pi 人工智能助手 |
-| 2024 | 加入微软，担任微软人工智能首席执行官 |
+| 2024 | 加入微软，担任 Microsoft AI 首席执行官 |
 
-## 参考文献
+## 参考资料
 
-[^1]: 维基百科，“穆斯塔法·苏莱曼” - https://en.wikipedia.org/wiki/Mustafa_Suleyman
+[^1]: Wikipedia, "Mustafa Suleyman" - https://en.wikipedia.org/wiki/Mustafa_Suleyman

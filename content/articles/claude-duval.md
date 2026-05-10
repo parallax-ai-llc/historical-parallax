@@ -22,7 +22,7 @@ French highwayman operating in England known for his gallantry toward female vic
 | 1666 | Became highwayman |
 | 1670 | Hanged at Tyburn |
 
-## References
+
 
 [^1]: Wikipedia, "Claude Duval" - https://en.wikipedia.org/wiki/Claude_Duval
 
@@ -49,3 +49,6 @@ Claude Duval endures less as a documented criminal mastermind than as a cultural
 - "Newgate" crime literature and later romanticization of criminals
 
 Duval is frequently used as an example of how narrative framing can soften public perceptions of violent theft.
+
+
+## References

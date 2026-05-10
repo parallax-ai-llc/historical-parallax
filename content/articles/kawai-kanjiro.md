@@ -5,7 +5,7 @@ birth: "1890-08-24"
 death: "1966-11-18"
 nationality: "Japanese"
 occupation: ["Potter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Kawai_Kanjir%C5%8D_photographed_by_Shigeru_Tamura.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kawai_Kanjiro"
 lastUpdated: "2026-02-21"

@@ -22,7 +22,7 @@ Japan forced hundreds of Korean and Chinese laborers to work in deadly condition
 | 1943 | Forced laborers brought to Hashima Island |
 | 1945 | Surviving laborers freed after Japan's surrender |
 
-## References
+
 
 [^1]: Wikipedia, "Hashima Island Forced Labor" - https://en.wikipedia.org/wiki/Hashima_Island_Forced_Labor
 
@@ -48,3 +48,6 @@ Japan forced hundreds of Korean and Chinese laborers to work in deadly condition
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
+
+
+## References

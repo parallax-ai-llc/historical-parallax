@@ -23,7 +23,7 @@ South African serial killer known as the 'West End Serial Killer' who murdered a
 | 2009 | Arrested in October |
 | 2013 | Convicted and sentenced to 16 life terms plus 256 years |
 
-## References
+
 
 [^1]: Wikipedia, "Jack Mogale" - https://en.wikipedia.org/wiki/Jack_Mogale
 
@@ -49,3 +49,6 @@ The case is often cited in discussions about violence against women and the chal
 
 - Serial killer investigations in South Africa (general)
 - Criminal sentencing in South African courts (general)
+
+
+## References

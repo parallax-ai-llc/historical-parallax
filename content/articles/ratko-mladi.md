@@ -24,7 +24,7 @@ Bosnian Serb military commander convicted of genocide, war crimes, and crimes ag
 | 2011 | Arrested in Serbia after 16 years in hiding |
 | 2021 | Life sentence upheld on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Ratko Mladić" - https://en.wikipedia.org/wiki/Ratko_Mladi%C4%87
 
@@ -50,3 +50,6 @@ Wikipedia’s article provides a longer chronology of military postings, indictm
 
 - International Criminal Tribunal for the former Yugoslavia (ICTY)
 - Srebrenica massacre
+
+
+## References

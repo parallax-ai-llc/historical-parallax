@@ -21,7 +21,7 @@ Roman politician who used armed gangs for political violence and desecrated reli
 |------|-------|
 | -62 | Infiltrated rites of Bona Dea disguised as woman |
 
-## References
+
 
 [^1]: Wikipedia, "Clodius Pulcher" - https://en.wikipedia.org/wiki/Clodius_Pulcher
 
@@ -62,3 +62,6 @@ Roman politician who used armed gangs for political violence and desecrated reli
 
 - A prominent example of how religious scandal, populist legislation, and organized street violence could be leveraged as political tools in the late Republic.
 - Frequently cited in discussions of the Republic's institutional breakdown prior to the civil wars and the emergence of autocratic rule.
+
+
+## References

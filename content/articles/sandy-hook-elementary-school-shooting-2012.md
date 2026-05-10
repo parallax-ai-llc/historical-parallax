@@ -6,7 +6,7 @@ location: "Newtown, Connecticut, United States"
 coordinates: [-73.28, 41.42]
 category: ["Mass Shooting", "United States"]
 outcome: "26 killed (20 children); shooter dead"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Police_at_Sandy_Hook.PNG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting"
 lastUpdated: "2026-02-26"

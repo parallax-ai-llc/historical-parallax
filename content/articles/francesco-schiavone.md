@@ -19,7 +19,7 @@ Francesco 'Sandokan' Schiavone was the boss of the Casalesi clan of the Camorra 
 |------|-------|
 | 1953 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -77,3 +77,6 @@ Francesco 'Sandokan' Schiavone was the boss of the Casalesi clan of the Camorra 
 - It is used to illustrate modern organized-crime governance: territorial control, violence as enforcement, and the role of financial investigation in dismantling networks.
 - It also highlights the social and economic impacts of entrenched criminal organizations on local institutions and communities.
 
+
+
+## References

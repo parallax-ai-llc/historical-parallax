@@ -22,7 +22,7 @@ French-Algerian ISIS terrorist who was one of three attackers at the Bataclan th
 | 2015 | Attacked Bataclan theatre |
 | 2015 | Died detonating suicide vest |
 
-## References
+
 
 [^1]: Wikipedia, "Ismaïl Omar Mostefaï" - https://en.wikipedia.org/wiki/Isma%C3%AFl_Omar_Mostefa%C3%AF
 
@@ -54,3 +54,6 @@ French-Algerian ISIS terrorist who was one of three attackers at the Bataclan th
 - **Context:** political, social, and geographic framing.
 - **Aftermath:** investigations, reforms, and legacy.
 - **Sources:** prioritize primary documents and reputable reporting.
+
+
+## References

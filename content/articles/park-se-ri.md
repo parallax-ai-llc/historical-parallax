@@ -24,7 +24,7 @@ Park Se-ri won the LPGA Championship and US Women's Open in her rookie year (199
 | 2007 | Won 25th LPGA title |
 | 2016 | Retired from competitive golf |
 
-## References
+
 
 [^1]: Wikipedia, "Park Se-ri" - https://en.wikipedia.org/wiki/Park_Se-ri
 
@@ -49,3 +49,6 @@ Park Se-ri is widely credited with accelerating the globalization of women’s p
 - Wikipedia article linked above for a detailed chronology and additional references.
 - Biographical dictionaries or subject-specific histories (physics, sport, art history, cybersecurity, or philosophy) for broader context.
 
+
+
+## References

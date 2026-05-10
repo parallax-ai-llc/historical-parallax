@@ -3,6 +3,7 @@ name: "Robert Downey Jr."
 birth: "1965-04-04"
 nationality: "American"
 occupation: ["Actor", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Robert_Downey_Jr._2014_Comic-Con.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Downey_Jr."
 lastUpdated: "2026-03-12"

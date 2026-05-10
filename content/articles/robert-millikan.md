@@ -5,7 +5,7 @@ birth: "1868-03-22"
 death: "1953-12-19"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Millikan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Millikan"
 lastUpdated: "2026-02-21"

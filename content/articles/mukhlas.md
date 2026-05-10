@@ -23,7 +23,7 @@ Jemaah Islamiyah leader and operational commander of the 2002 Bali bombings.
 | 2003 | Death sentence |
 | 2008 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Mukhlas" - https://en.wikipedia.org/wiki/Mukhlas
 
@@ -52,3 +52,6 @@ The case is frequently cited in studies of Southeast Asian militant networks, in
 ## Additional Notes
 
 This article is intended as a concise reference. For deeper detail, consult multiple sources and primary reporting where available, and compare timelines across independent accounts.
+
+
+## References

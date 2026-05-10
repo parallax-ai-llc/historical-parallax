@@ -3,6 +3,7 @@ name: "Robin Williams"
 birth: "1951-07-21"
 nationality: "American"
 occupation: ["Comedian", "Actor", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Robin_Williams_1996_%28cropped%29_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robin_Williams"
 lastUpdated: "2026-03-12"

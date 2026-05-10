@@ -21,7 +21,7 @@ Belgian-Moroccan jihadist known as the 'Black Widow of Jihad' convicted of recru
 |------|-------|
 | 2010 | Convicted of terrorist recruitment |
 
-## References
+
 
 [^1]: Wikipedia, "Malika El Aroud" - https://en.wikipedia.org/wiki/Malika_El_Aroud
 
@@ -59,3 +59,6 @@ Belgian-Moroccan jihadist known as the 'Black Widow of Jihad' convicted of recru
 
 - This short profile intentionally stays high-level.
 - For a detailed chronology, consult primary reporting and court documents where available.
+
+
+## References

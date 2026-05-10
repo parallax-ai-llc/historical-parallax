@@ -5,7 +5,7 @@ birth: "1966-02-06"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Trafficker", "Cult Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Servando_G%C3%B3mez_Mart%C3%ADnez.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Servando_G%C3%B3mez_Mart%C3%ADnez"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Known as 'La Tuta,' leader of the Knights Templar cartel who styled himself as a
 | 2011 | Became Knights Templar leader |
 | 2015 | Captured |
 
-## References
+
 
 [^1]: Wikipedia, "Servando Gómez Martínez" - https://en.wikipedia.org/wiki/Servando_G%C3%B3mez_Mart%C3%ADnez
 
@@ -48,3 +48,6 @@ Known as 'La Tuta,' leader of the Knights Templar cartel who styled himself as a
 
 - The Knights Templar combined criminal violence with messaging that portrayed itself as a community-linked movement.
 - High-profile arrests weakened leadership structures, but did not by themselves resolve underlying security and governance issues.
+
+
+## References

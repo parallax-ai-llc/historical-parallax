@@ -22,7 +22,7 @@ Ethiopian Derg official convicted of genocide and crimes against humanity for hi
 | 1977 | Participated in Red Terror |
 | 2006 | Convicted of genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Berhan Hailu" - https://en.wikipedia.org/wiki/Berhan_Hailu
 
@@ -55,3 +55,6 @@ The Derg trials are frequently discussed in transitional-justice literature as a
 ## Notes on sources
 
 Some individual biographies from the Derg trial era are unevenly documented in English-language sources; where details are sparse, high-level context about the Derg prosecutions is often more reliably established than personal timelines.
+
+
+## References

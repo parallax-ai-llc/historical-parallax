@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1969 | See Lisa Su |
 
-## References
+
 
 [^1]: Wikipedia, "Lisa Su duplicate" - https://en.wikipedia.org/wiki/Lisa_Su_duplicate
 
@@ -51,3 +51,6 @@ The following high-level facts are commonly associated with *Lisa Su* (Advanced 
 - Confirm whether this ID should redirect to an existing “Lisa Su” article.
 - If a redirect mechanism exists in this repo, replace this content with a redirect stub while preserving attribution.
 - Ensure references point to verifiable sources (e.g., AMD investor relations, reputable business profiles, or an accurate Wikipedia page).
+
+
+## References

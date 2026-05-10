@@ -23,7 +23,7 @@ Syrian military commander and brother of Hafez al-Assad who directed the 1982 Ha
 | 1984 | Exiled after failed coup attempt |
 | 2020 | Convicted in France of embezzlement; 4-year sentence |
 
-## References
+
 
 [^1]: Wikipedia, "Rifaat al-Assad" - https://en.wikipedia.org/wiki/Rifaat_al-Assad
 
@@ -51,3 +51,6 @@ Syrian military commander and brother of Hafez al-Assad who directed the 1982 Ha
 
 - 1982 Hama events (overview): https://en.wikipedia.org/wiki/1982_Hama_massacre
 - Saraya al-Difa (Defense Companies): https://en.wikipedia.org/wiki/Defense_Companies
+
+
+## References

@@ -23,7 +23,7 @@ David Politzer shared the 2004 Nobel Prize for independently discovering asympto
 | 1973 | Discovered asymptotic freedom |
 | 2004 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "David Politzer" - https://en.wikipedia.org/wiki/David_Politzer
 
@@ -56,3 +56,6 @@ Politzer shared the **2004 Nobel Prize in Physics** with David J. Gross and Fran
 - Quantum field theory and renormalization
 - Theoretical particle physics and the Standard Model
 - Strong-interaction dynamics and scaling behavior
+
+
+## References

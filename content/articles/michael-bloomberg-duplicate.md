@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1942 | See Michael Bloomberg |
 
-## References
+
 
 [^1]: Wikipedia, "Michael Bloomberg duplicate" - https://en.wikipedia.org/wiki/Michael_Bloomberg_duplicate
 
@@ -62,3 +62,6 @@ If your system supports canonical IDs, consider:
 
 [^2]: Wikipedia, "Michael Bloomberg" — https://en.wikipedia.org/wiki/Michael_Bloomberg
 [^3]: Bloomberg L.P. (company overview) — https://en.wikipedia.org/wiki/Bloomberg_L.P.
+
+
+## References

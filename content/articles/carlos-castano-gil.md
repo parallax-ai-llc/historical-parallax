@@ -23,7 +23,7 @@ Colombian paramilitary leader who founded the AUC, Colombias largest right-wing 
 | 2001 | AUC designated terrorist group |
 | 2004 | Reportedly murdered by own brother |
 
-## References
+
 
 [^1]: Wikipedia, "Carlos Castano Gil" - https://en.wikipedia.org/wiki/Carlos_Castano_Gil
 
@@ -48,3 +48,6 @@ Colombian paramilitary leader who founded the AUC, Colombias largest right-wing 
 - The AUC’s later demobilization and the subsequent legal processes are commonly discussed as attempts to reduce paramilitary violence while addressing victims’ rights.
 - Analysts of the period often focus on how armed groups sustained themselves through extortion, territorial control, and links to narcotics trafficking.
 - The long-term impact includes displacement, trauma, and ongoing debates about truth, reparations, and political responsibility.
+
+
+## References

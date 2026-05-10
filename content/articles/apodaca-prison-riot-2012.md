@@ -21,7 +21,7 @@ Los Zetas cartel members slaughtered 44 rival Gulf Cartel inmates at Apodaca Pri
 |------|-------|
 | 2012 | 44 inmates killed by rival cartel |
 
-## References
+
 
 [^1]: Wikipedia, "Apodaca Prison Riot 2012" - https://en.wikipedia.org/wiki/Apodaca_Prison_Riot_2012
 
@@ -54,3 +54,6 @@ Los Zetas cartel members slaughtered 44 rival Gulf Cartel inmates at Apodaca Pri
 
 - Public summaries of the event vary in detail (e.g., exact sequence of events and the number of escapees), often relying on early reporting and official statements.
 - This article keeps the description factual and high-level; consult primary reporting and official documents for granular timelines.
+
+
+## References

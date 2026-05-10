@@ -22,7 +22,7 @@ Welsh pirate captain who used deception rather than force, often disguising hims
 | 1718 | Became pirate captain |
 | 1719 | Killed in ambush |
 
-## References
+
 
 [^1]: Wikipedia, "Howell Davis" - https://en.wikipedia.org/wiki/Howell_Davis
 
@@ -56,3 +56,6 @@ These approaches are often contrasted with pirates who preferred direct violence
 
 - **Golden Age of Piracy:** a period (roughly the late 1600s to early 1700s) associated with heightened piracy in the Atlantic and beyond.
 - **Príncipe:** an island off Central Africa that appears in multiple piracy-era narratives.
+
+
+## References

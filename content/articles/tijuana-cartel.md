@@ -23,7 +23,7 @@ Mexican drug cartel led by the Arellano-Felix brothers that controlled the Tijua
 | 1993 | Cardinal Posadas killed in crossfire |
 | 2008 | Weakened by arrests |
 
-## References
+
 
 [^1]: Wikipedia, "Tijuana Cartel" - https://en.wikipedia.org/wiki/Tijuana_Cartel
 
@@ -50,3 +50,6 @@ The cartel’s history is referenced in discussions of cross-border crime, corru
 ## Terminology
 
 In some sources the group is labeled by geography (“Tijuana Cartel”), while in others it is identified by key leadership figures (“Arellano Félix Organization”). The naming conventions can matter when tracking splinter groups or changes in leadership over time.
+
+
+## References

@@ -22,7 +22,7 @@ Japanese mass murderer who stabbed and killed eight children at Ikeda Elementary
 | 2001 | Attacked Ikeda Elementary School killing eight children |
 | 2004 | Executed by hanging |
 
-## References
+
 
 [^1]: Wikipedia, "Mamoru Takuma" - https://en.wikipedia.org/wiki/Mamoru_Takuma
 
@@ -53,3 +53,6 @@ The Ikeda school stabbing became a reference point in discussions about campus a
 ## Notes on sources
 
 This article is a high-level summary and relies primarily on publicly available reporting and encyclopedic sources.
+
+
+## References

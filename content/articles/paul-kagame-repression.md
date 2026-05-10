@@ -22,7 +22,7 @@ Kagame's government has assassinated or attempted to assassinate dissidents in S
 | 2010 | Opposition figures assassinated abroad |
 | 2014 | Patrick Karegeya strangled in South Africa |
 
-## References
+
 
 [^1]: Wikipedia, "Paul Kagame Repression" - https://en.wikipedia.org/wiki/Paul_Kagame_Repression
 
@@ -49,3 +49,6 @@ The topic is often polarized because Rwanda is also credited with improvements i
 ## Relevance
 
 This case is frequently cited in broader discussions of how post-conflict states balance security, reconciliation narratives, and pluralistic politics, and how international partners respond when governance success stories are paired with persistent human-rights concerns.
+
+
+## References

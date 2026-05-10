@@ -21,7 +21,7 @@ Created the U-Vistract Ponzi scheme that defrauded thousands of Papua New Guinea
 |------|-------|
 | 1999 | Ran massive U-Vistract Ponzi scheme |
 
-## References
+
 
 [^1]: Wikipedia, "Noah Musingku" - https://en.wikipedia.org/wiki/Noah_Musingku
 
@@ -54,3 +54,6 @@ Created the U-Vistract Ponzi scheme that defrauded thousands of Papua New Guinea
 ### Further reading
 
 - Wikipedia entry (overview and citations): see References.
+
+
+## References

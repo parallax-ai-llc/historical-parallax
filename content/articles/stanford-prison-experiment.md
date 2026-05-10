@@ -23,7 +23,7 @@ Controversial 1971 psychology experiment at Stanford where students assigned as 
 | 1971 | Ended early due to abuse |
 | 2018 | Methodology seriously questioned |
 
-## References
+
 
 [^1]: Wikipedia, "Stanford Prison Experiment" - https://en.wikipedia.org/wiki/Stanford_Prison_Experiment
 
@@ -51,3 +51,6 @@ Regardless of interpretation, the Stanford Prison Experiment remains a touchston
 
 - Research ethics
 - Social psychology
+
+
+## References

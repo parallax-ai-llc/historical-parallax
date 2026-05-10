@@ -5,7 +5,7 @@ birth: "1894-12-09"
 death: "1978-01-05"
 nationality: "Japanese"
 occupation: ["Potter", "Ceramicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sh%C5%8Dji_Hamada.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shoji_Hamada"
 lastUpdated: "2026-02-21"

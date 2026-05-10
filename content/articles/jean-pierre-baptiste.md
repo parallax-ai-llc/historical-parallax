@@ -21,7 +21,7 @@ Former Haitian senator convicted of cocaine trafficking to the United States.
 |------|-------|
 | 2016 | Convicted of drug trafficking in US court |
 
-## References
+
 
 [^1]: Wikipedia, "Jean-Pierre Baptiste" - https://en.wikipedia.org/wiki/Jean-Pierre_Baptiste
 
@@ -61,3 +61,6 @@ Haiti has been cited in multiple studies and reporting as a transit corridor for
 - The article currently relies on a single reference link.
 - If the linked page is unavailable or incomplete, additional corroborating sources would be required before adding biographical specifics.
 - Until additional sources are available, this page intentionally avoids adding fine-grained personal details.
+
+
+## References

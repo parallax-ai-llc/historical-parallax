@@ -23,7 +23,7 @@ Iranian serial killer known as 'The Tehran Desert Vampire' who kidnapped, sexual
 | 2005 | Arrested after a survivor identified him |
 | 2005 | Publicly executed by hanging after being flogged |
 
-## References
+
 
 [^1]: Wikipedia, "Mohammad Bijeh" - https://en.wikipedia.org/wiki/Mohammad_Bijeh
 
@@ -51,3 +51,6 @@ Iranian serial killer known as 'The Tehran Desert Vampire' who kidnapped, sexual
 
 - Capital punishment in Iran
 - High-profile criminal cases in Tehran
+
+
+## References

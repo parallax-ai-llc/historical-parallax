@@ -38,7 +38,7 @@ Sadat had become controversial in the Arab world for signing the Camp David Acco
 - **1979**: Egypt–Israel peace treaty.
 - **1981-10-06**: Assassination at the victory parade.
 
-## References
+
 - https://en.wikipedia.org/wiki/Assassination_of_Anwar_Sadat
 - https://en.wikipedia.org/wiki/Anwar_Sadat
 - https://en.wikipedia.org/wiki/Camp_David_Accords
@@ -64,3 +64,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

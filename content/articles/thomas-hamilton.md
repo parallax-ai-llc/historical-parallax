@@ -45,7 +45,7 @@ Thomas Hamilton carried out the Dunblane school massacre in Scotland on March 13
 - Official inquiry and governmental publications on Dunblane and firearms licensing in the UK provide the most authoritative synthesis of findings.
 - Reputable news archives from 1996–1997 document the public response and the legislative pathway to handgun restrictions.
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Dunblane massacre," https://en.wikipedia.org/wiki/Dunblane_massacre
 
@@ -62,3 +62,6 @@ Thomas Hamilton carried out the Dunblane school massacre in Scotland on March 13
 ## Legacy
 - Dunblane remains a defining case in UK public memory around mass violence and school safety.
 - It is also a recurring example in policy debates about how institutions should record, share, and act on risk signals communicated through complaints.
+
+
+## References

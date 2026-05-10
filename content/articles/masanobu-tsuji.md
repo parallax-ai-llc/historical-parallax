@@ -22,7 +22,7 @@ Japanese officer responsible for the Sook Ching massacre of Chinese civilians in
 | 1942 | Ordered Sook Ching massacre |
 | 1952 | Elected to Japanese parliament |
 
-## References
+
 
 [^1]: Wikipedia, "Masanobu Tsuji" - https://en.wikipedia.org/wiki/Masanobu_Tsuji
 
@@ -51,3 +51,6 @@ This transition from fugitive to public figure is part of what makes his case no
 Tsuji's story is often used to illustrate gaps between wartime responsibility and postwar accountability.
 It also shows how narratives of atrocity can persist with varying degrees of documentation.
 In contemporary discussions, he is typically framed as emblematic of the radical wing of Japan's wartime military culture.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1945-02-10"
 death: "2018-05-20"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Koo_Bon-Moo_profile.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Koo_Bon-moo"
 lastUpdated: "2026-02-21"

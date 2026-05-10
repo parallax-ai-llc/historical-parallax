@@ -21,7 +21,7 @@ Shot US Congresswoman Gabrielle Giffords in the head and killed 6 others includi
 |------|-------|
 | 2011 | Shot Giffords; killed 6 |
 
-## References
+
 
 [^1]: Wikipedia, "Jared Lee Loughner" - https://en.wikipedia.org/wiki/Jared_Lee_Loughner
 
@@ -65,3 +65,6 @@ Shot US Congresswoman Gabrielle Giffords in the head and killed 6 others includi
 ## Additional reading
 
 - Wikipedia: Jared Lee Loughner (biography, case overview, and citations).[^1]
+
+
+## References

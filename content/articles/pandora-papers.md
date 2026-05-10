@@ -22,7 +22,7 @@ lastUpdated: "2026-02-26"
 | 2021 | Documents published by ICIJ |
 | 2021 | Multiple investigations launched |
 
-## References
+
 
 [^1]: Wikipedia, "Pandora Papers" - https://en.wikipedia.org/wiki/Pandora_Papers
 
@@ -51,3 +51,6 @@ The Pandora Papers are often discussed alongside earlier offshore leaks such as 
 ## Significance
 
 Beyond individual scandals, the leak reinforced a structural point: when ownership is hard to trace, accountability becomes harder to enforce. The reporting helped frame offshore secrecy as a governance issue rather than a purely financial or technical one.
+
+
+## References

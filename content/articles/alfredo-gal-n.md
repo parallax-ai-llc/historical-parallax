@@ -23,7 +23,7 @@ Spanish serial killer known as the 'Playing Card Killer' who shot 6 people dead 
 | 2003 | Arrested |
 | 2005 | Convicted; sentenced to 142 years |
 
-## References
+
 
 [^1]: Wikipedia, "Alfredo Galán" - https://en.wikipedia.org/wiki/Alfredo_Gal%C3%A1n
 
@@ -48,3 +48,6 @@ The case drew wide attention in Spain and is often cited in discussions of seria
 ## References (additional)
 
 [^2]: Spanish criminal procedure and sentencing context (general), via Wikipedia and linked sources.
+
+
+## References

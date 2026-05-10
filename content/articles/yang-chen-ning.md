@@ -23,7 +23,7 @@ Yang Chen-Ning shared the 1957 Nobel Prize for predicting parity violation. Yang
 | 1954 | Yang-Mills theory |
 | 1957 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Yang Chen-Ning" - https://en.wikipedia.org/wiki/Yang_Chen-Ning
 
@@ -50,3 +50,6 @@ Biographical summaries commonly note Yang’s academic career in the United Stat
 ## Notes
 
 This article highlights widely recognized, high-level contributions; detailed technical history depends on the specific subfield and the evolution of terminology in modern gauge theory.
+
+
+## References

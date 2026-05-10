@@ -23,7 +23,7 @@ Rwandan military officer who commanded the Ngoma military camp during the genoci
 | 2010 | Arrested in Congo |
 | 2021 | Trial ongoing at residual mechanism |
 
-## References
+
 
 [^1]: Wikipedia, "Ildéphonse Hategekimana" - https://en.wikipedia.org/wiki/Ild%C3%A9phonse_Hategekimana
 
@@ -48,3 +48,6 @@ His prosecution is part of the broader effort to pursue accountability for the 1
 - Rwandan genocide
 - International Criminal Tribunal for Rwanda (ICTR)
 - International Residual Mechanism for Criminal Tribunals (IRMCT)
+
+
+## References

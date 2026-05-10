@@ -23,7 +23,7 @@ Italian journalist assassinated by the Camorra at age 26 for his reporting on th
 | 1985 | Murdered by Camorra hitmen in his car |
 | 1997 | Four Camorra members convicted of his murder |
 
-## References
+
 
 [^1]: Wikipedia, "Giancarlo Siani" - https://en.wikipedia.org/wiki/Giancarlo_Siani
 
@@ -49,3 +49,6 @@ Italian journalist assassinated by the Camorra at age 26 for his reporting on th
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
 
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+
+## References

@@ -24,7 +24,7 @@ Kosovar Albanian guerrilla commander who was twice acquitted of war crimes by th
 | 2012 | Acquitted again in retrial |
 | 2017 | Became prime minister of Kosovo |
 
-## References
+
 
 [^1]: Wikipedia, "Ramush Haradinaj" - https://en.wikipedia.org/wiki/Ramush_Haradinaj
 
@@ -49,3 +49,6 @@ See the Wikipedia biography for additional details on:
 - his early life and education
 - the AAK’s role in Kosovo’s post-war politics
 - the timeline of the ICTY case and retrial
+
+
+## References

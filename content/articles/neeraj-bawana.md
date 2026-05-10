@@ -21,7 +21,7 @@ Delhi gang leader running extortion and murder operations from prison.
 |------|-------|
 | 2015 | Major gang operations from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Neeraj Bawana" - https://en.wikipedia.org/wiki/Neeraj_Bawana
 
@@ -50,3 +50,6 @@ Additional commonly referenced milestones (as summarized in Wikipedia):
 ## Notes
 
 This article is a concise, high-level summary intended for historical context. Specific allegations and case details should be checked against primary court records and reputable reporting, in addition to Wikipedia.[^1]
+
+
+## References

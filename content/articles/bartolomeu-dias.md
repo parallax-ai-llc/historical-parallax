@@ -23,7 +23,7 @@ Bartolomeu Dias was the first European to sail around the southern tip of Africa
 | 1488 | Rounded the Cape of Good Hope |
 | 1500 | Died in a storm off the Cape |
 
-## References
+
 
 [^1]: Wikipedia, "Bartolomeu Dias" - https://en.wikipedia.org/wiki/Bartolomeu_Dias
 
@@ -51,3 +51,6 @@ Dias later sailed with the 1500 Portuguese fleet led by Pedro Álvares Cabral. H
 - Dates, counts, and interpretations can vary by source; consult references for detail.
 - The topic is commonly discussed in terms of institutions, incentives, and long-term impact.
 
+
+
+## References

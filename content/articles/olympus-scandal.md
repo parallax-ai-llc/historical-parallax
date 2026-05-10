@@ -23,7 +23,7 @@ Japanese camera maker Olympus concealed $1.7 billion in investment losses throug
 | 2012 | Former executives convicted |
 | 2012 | Admitted to 13 years of cover-up |
 
-## References
+
 
 [^1]: Wikipedia, "Olympus Scandal" - https://en.wikipedia.org/wiki/Olympus_Scandal
 
@@ -53,3 +53,6 @@ Japanese camera maker Olympus concealed $1.7 billion in investment losses throug
 ## Notes on Sources
 
 This page summarizes the scandal at a conceptual level. For transaction-by-transaction detail, names, and court outcomes, consult the referenced Wikipedia article and the sources it cites.
+
+
+## References

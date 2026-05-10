@@ -40,7 +40,7 @@ The Katyn massacre refers to the 1940 execution of Polish officers and other eli
 
 As with many figures tied to state violence, details of Blokhin’s career and fate have been reconstructed from a combination of archival material and later historical writing. His reputation is primarily as a functionary of repression rather than a public political leader.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Vasili Blokhin" - https://en.wikipedia.org/wiki/Vasili_Blokhin
 
@@ -48,3 +48,6 @@ As with many figures tied to state violence, details of Blokhin’s career and f
 
 - NKVD
 - Katyn massacre
+
+
+## References

@@ -21,7 +21,7 @@ Karsten Warholm set the 400m hurdles WR of 45.94s at 2021 Tokyo in one of the gr
 |------|-------|
 | 2021 | Set WR of 45.94s; won Olympic gold |
 
-## References
+
 
 [^1]: Wikipedia, "Karsten Warholm" - https://en.wikipedia.org/wiki/Karsten_Warholm
 
@@ -63,3 +63,6 @@ Karsten Warholm set the 400m hurdles WR of 45.94s at 2021 Tokyo in one of the gr
 
 - 400 metres hurdles
 - World athletics records
+
+
+## References

@@ -23,7 +23,7 @@ Unidentified serial killer who terrorized the San Francisco Bay Area from 1968-1
 | 1969 | Sent coded letters to newspapers |
 | 2020 | First cipher solved after 51 years |
 
-## References
+
 
 [^1]: Wikipedia, "Zodiac Killer Case" - https://en.wikipedia.org/wiki/Zodiac_Killer_Case
 
@@ -48,3 +48,6 @@ The Zodiac case has had lasting influence on true-crime media and popular cultur
 ## Notes
 
 Because the case spans decades of reporting and reinterpretation, key details (including the attribution of specific incidents and the authenticity of particular communications) can vary between sources.
+
+
+## References

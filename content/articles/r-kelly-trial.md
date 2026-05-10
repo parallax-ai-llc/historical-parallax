@@ -22,7 +22,7 @@ R&B singer's federal trial revealed decades of predatory behavior including runn
 | 2021 | Federal trial began |
 | 2022 | Sentenced to 30 years |
 
-## References
+
 
 [^1]: Wikipedia, "R. Kelly Trial" - https://en.wikipedia.org/wiki/R._Kelly_Trial
 
@@ -49,3 +49,6 @@ R&B singer's federal trial revealed decades of predatory behavior including runn
 - The trial became a prominent reference point in conversations about power imbalances in entertainment, victim protection, and the role of gatekeepers.
 - It is often discussed in the context of changing norms around reporting sexual abuse and institutional responses to credible allegations.
 
+
+
+## References

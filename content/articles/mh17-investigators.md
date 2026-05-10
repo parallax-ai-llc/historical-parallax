@@ -21,7 +21,7 @@ International investigation into the shoot-down of Malaysia Airlines Flight 17 o
 |------|-------|
 | 2022 | Four suspects convicted |
 
-## References
+
 
 [^1]: Wikipedia, "MH17 Investigators" - https://en.wikipedia.org/wiki/MH17_Investigators
 
@@ -59,3 +59,6 @@ International investigation into the shoot-down of Malaysia Airlines Flight 17 o
 - **Flight:** Malaysia Airlines Flight 17 (MH17)
 - **Conflict context:** War in Donbas (eastern Ukraine)
 - **Proceedings:** Dutch criminal trial related to MH17
+
+
+## References

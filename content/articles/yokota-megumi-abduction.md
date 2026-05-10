@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 1977 | Abducted at age 13 |
 
-## References
+
 
 [^1]: Wikipedia, "Yokota Megumi Abduction" - https://en.wikipedia.org/wiki/Yokota_Megumi_Abduction
 
@@ -54,3 +54,6 @@ lastUpdated: "2026-02-26"
 
 - Yokota Megumi is often cited as the most widely recognized abductee in Japan.
 - Her story is used in public education and advocacy to represent the human consequences of the abductions and the long-term effects on families.
+
+
+## References

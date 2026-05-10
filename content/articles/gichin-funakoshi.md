@@ -23,7 +23,7 @@ Gichin Funakoshi is the father of modern karate, bringing the art from Okinawa t
 | 1936 | Established the Shotokan dojo |
 | 1957 | Died in Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Gichin Funakoshi" - https://en.wikipedia.org/wiki/Gichin_Funakoshi
 
@@ -49,3 +49,6 @@ Gichin Funakoshi is the father of modern karate, bringing the art from Okinawa t
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
 
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+
+## References

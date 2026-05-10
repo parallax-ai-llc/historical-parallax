@@ -22,7 +22,7 @@ WADA investigation revealed state-sponsored doping program involving over 1,000 
 | 2015 | WADA report exposed doping program |
 | 2019 | Russia banned from international competitions |
 
-## References
+
 
 [^1]: Wikipedia, "Russian Olympic Doping Scandal" - https://en.wikipedia.org/wiki/Russian_Olympic_Doping_Scandal
 
@@ -57,3 +57,6 @@ WADA investigation revealed state-sponsored doping program involving over 1,000 
 
 - One of the most consequential modern doping controversies due to its scale and alleged institutional coordination.
 - Continues to shape how major events handle national symbols, eligibility rules, and compliance monitoring.
+
+
+## References

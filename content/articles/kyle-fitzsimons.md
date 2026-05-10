@@ -21,7 +21,7 @@ Capitol rioter who head-butted and punched police officers during the January 6 
 |------|-------|
 | 2023 | Convicted of assaulting officers |
 
-## References
+
 
 [^1]: Wikipedia, "Kyle Fitzsimons" - https://en.wikipedia.org/wiki/Kyle_Fitzsimons
 
@@ -49,3 +49,6 @@ Capitol rioter who head-butted and punched police officers during the January 6 
 
 - Court docket number, venue, and sentencing outcome (if publicly available).
 - Additional reliable references (e.g., DOJ press releases, court documents, or reputable news reporting).
+
+
+## References

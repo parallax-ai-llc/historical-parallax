@@ -23,7 +23,7 @@ Andrew Yao made foundational contributions to computational complexity. 2000 Tur
 | 2000 | Turing Award |
 | 2004 | Joined Tsinghua |
 
-## References
+
 
 [^1]: Wikipedia, "Andrew Yao" - https://en.wikipedia.org/wiki/Andrew_Yao
 
@@ -55,3 +55,6 @@ His work also helped connect abstract complexity models to practical security go
 - communication complexity
 - cryptography and secure multi-party computation
 - lower bounds for algorithms and data structures
+
+
+## References

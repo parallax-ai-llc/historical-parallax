@@ -23,7 +23,7 @@ Cambodian anti-trafficking activist who fabricated her story of being sold into 
 | 2014 | Stories exposed as fabricated |
 | 2014 | Resigned |
 
-## References
+
 
 [^1]: Wikipedia, "Somaly Mam" - https://en.wikipedia.org/wiki/Somaly_Mam
 
@@ -52,3 +52,6 @@ Cambodian anti-trafficking activist who fabricated her story of being sold into 
 
 - Somaly Mam remains a case study in how advocacy work can be undermined by false claims, even when addressing real harms.
 - The controversy prompted renewed attention to rigorous monitoring and evaluation in the NGO sector.
+
+
+## References

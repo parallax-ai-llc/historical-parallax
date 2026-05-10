@@ -23,7 +23,7 @@ Peruvian Marxist guerrilla group that carried out the 1996-1997 Japanese embassy
 | 1996 | Seized Japanese embassy; held 400+ hostages |
 | 1997 | Peruvian commandos stormed embassy; all 14 MRTA members killed |
 
-## References
+
 
 [^1]: Wikipedia, "Túpac Amaru Revolutionary Movement" - https://en.wikipedia.org/wiki/T%C3%BApac_Amaru_Revolutionary_Movement
 
@@ -58,3 +58,6 @@ MRTA declined sharply after the 1990s due to arrests, loss of capacity, and the 
 ## Notes on Terminology
 
 Labels such as “terrorist” and “guerrilla” are used differently across governments, scholars, and legal contexts. This article summarizes common descriptions found in widely available sources.
+
+
+## References

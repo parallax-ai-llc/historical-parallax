@@ -21,7 +21,7 @@ Not enough verifiable information for a quality article; removing.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Keerthi Gandepalli" - https://en.wikipedia.org/wiki/Keerthi_Gandepalli
 
@@ -58,3 +58,6 @@ Until sources are available, this page intentionally avoids speculative narrativ
 - Articles in this collection that are **source-backed** and can serve as a style reference.
 
 [^2]: Wikipedia page response for the same URL indicating “Wikipedia does not have an article with this exact name” (retrieved 2026-03-03).
+
+
+## References

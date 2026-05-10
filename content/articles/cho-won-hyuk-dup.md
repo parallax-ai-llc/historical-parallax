@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1960 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Cho Won-hyuk dup" - https://en.wikipedia.org/wiki/Cho_Won-hyuk_dup
 
@@ -64,3 +64,6 @@ When de-duplicating or upgrading this entry, confirm the following using reliabl
 
 - If a canonical article exists, keep **one** primary page and convert the other into a redirect or remove it during a deduplication pass.
 - If no canonical page exists, replace the "Duplicate" placeholders with sourced content while keeping the existing frontmatter structure intact.
+
+
+## References

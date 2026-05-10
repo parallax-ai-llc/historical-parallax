@@ -22,7 +22,7 @@ Death squad operated by Gambian President Yahya Jammeh that carried out extrajud
 | 2005 | Carried out extrajudicial killings on Jammeh's orders |
 | 2019 | TRRC documented systematic atrocities by Junglers |
 
-## References
+
 
 [^1]: Wikipedia, "Yahya Jammeh Junglers" - https://en.wikipedia.org/wiki/Yahya_Jammeh_Junglers
 
@@ -50,3 +50,6 @@ Death squad operated by Gambian President Yahya Jammeh that carried out extrajud
 
 - The strongest claims about specific incidents and perpetrators come from sworn testimony, commission records, and court proceedings.
 - Terminology varies by source; some use "Junglers" as a broad label for multiple operational units.
+
+
+## References

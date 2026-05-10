@@ -21,7 +21,7 @@ Sudanese warlord and slave trader who conquered a vast empire in Central Africa.
 |------|-------|
 | 1893 | Conquered Bornu Empire through warfare and slave raiding |
 
-## References
+
 
 [^1]: Wikipedia, "Rabih az-Zubayr" - https://en.wikipedia.org/wiki/Rabih_az-Zubayr
 
@@ -55,3 +55,6 @@ Sudanese warlord and slave trader who conquered a vast empire in Central Africa.
 
 - Kanem–Bornu Empire
 - Scramble for Africa (Central Africa)
+
+
+## References

@@ -49,7 +49,7 @@ Because no universally accepted resolution exists, discussions typically focus o
 
 This article summarizes the assassination as an event and the broad context in which it is often discussed. For verified details, prioritize primary reporting and official investigative records where available; many secondary narratives include contested claims.
 
-## References
+
 
 [^1]: Wikipedia, "Dulcie September Assassination" - https://en.wikipedia.org/wiki/Dulcie_September_Assassination
 
@@ -86,3 +86,6 @@ Because the case is widely described as unresolved in secondary summaries, recur
 - and whether any investigative leads were missed or deprioritized over time.
 
 This section is intentionally framed as questions rather than conclusions, reflecting the limits of widely available, agreed-upon public findings.[^1]
+
+
+## References

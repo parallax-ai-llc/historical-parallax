@@ -21,7 +21,7 @@ Kristin Otto won six gold at 1988 Seoul, later overshadowed by East German dopin
 |------|-------|
 | 1988 | Won six gold at Seoul Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Kristin Otto" - https://en.wikipedia.org/wiki/Kristin_Otto
 
@@ -58,3 +58,6 @@ The commonly cited list of Otto’s six gold medals at the 1988 Summer Olympics 
 - East Germany at the Olympics
 - Doping in sport (historical overview)
 - 1988 Summer Olympics (swimming)
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1950-11-30"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Gang Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/c3/Larry_Hoover.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Larry_Hoover"
 lastUpdated: "2026-02-26"

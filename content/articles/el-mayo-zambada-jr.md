@@ -22,7 +22,7 @@ Vicente Zambada Niebla, son of Sinaloa Cartel co-leader El Mayo, who became a co
 | 2009 | Arrested in Mexico City |
 | 2019 | Testified against El Chapo at his trial |
 
-## References
+
 
 [^1]: Wikipedia, "El Mayo Zambada Jr." - https://en.wikipedia.org/wiki/El_Mayo_Zambada_Jr.
 
@@ -67,3 +67,6 @@ For more rigorous documentation beyond summaries, typical primary sources includ
 ## References (Extended)
 
 - [^1] provides a consolidated public overview; primary legal documents are recommended for precise dates, charges, and procedural history.
+
+
+## References

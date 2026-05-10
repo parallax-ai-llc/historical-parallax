@@ -21,7 +21,7 @@ Highlands warlord who commanded an armed militia in tribal warfare in the Southe
 |------|-------|
 | 2006 | Led armed militia in tribal warfare |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Tari" - https://en.wikipedia.org/wiki/Thomas_Tari
 
@@ -54,3 +54,6 @@ If more detailed, locally grounded sources are added in the future (e.g., invest
 - a more precise timeline of events
 - citations distinguishing confirmed events from allegations
 - outcomes such as arrests, prosecutions, or negotiated settlements (where documented)
+
+
+## References

@@ -21,7 +21,7 @@ Senior RCMP intelligence official convicted of attempting to sell classified inf
 |------|-------|
 | 2023 | Convicted of espionage offenses |
 
-## References
+
 
 [^1]: Wikipedia, "Cameron Ortis" - https://en.wikipedia.org/wiki/Cameron_Ortis
 
@@ -52,3 +52,6 @@ Senior RCMP intelligence official convicted of attempting to sell classified inf
 - Royal Canadian Mounted Police (RCMP)
 - Counterintelligence
 - Insider threat
+
+
+## References

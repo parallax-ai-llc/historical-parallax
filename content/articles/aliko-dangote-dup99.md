@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1957 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Aliko Dangote dup99" - https://en.wikipedia.org/wiki/Aliko_Dangote_dup99
 
@@ -82,3 +82,6 @@ Use this checklist when consolidating duplicates:
 - Dangote Group
 - African industrial policy (general)
 - Conglomerates and market concentration (general)
+
+
+## References

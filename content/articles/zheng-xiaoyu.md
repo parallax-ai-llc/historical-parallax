@@ -23,7 +23,7 @@ Former head of China's State Food and Drug Administration executed for accepting
 | 2006 | Arrested for corruption |
 | 2007 | Convicted and executed for taking $850,000 in bribes |
 
-## References
+
 
 [^1]: Wikipedia, "Zheng Xiaoyu" - https://en.wikipedia.org/wiki/Zheng_Xiaoyu
 
@@ -50,3 +50,6 @@ The scandal contributed to wider concern about counterfeit and substandard medic
 
 - State Food and Drug Administration (China)
 - Pharmaceutical regulation in China
+
+
+## References

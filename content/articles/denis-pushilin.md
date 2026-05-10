@@ -21,7 +21,7 @@ Head of the Russian-backed Donetsk People's Republic involved in the conflict th
 |------|-------|
 | 2018 | Became DNR leader |
 
-## References
+
 
 [^1]: Wikipedia, "Denis Pushilin" - https://en.wikipedia.org/wiki/Denis_Pushilin
 
@@ -60,3 +60,6 @@ Head of the Russian-backed Donetsk People's Republic involved in the conflict th
 
 - Many aspects of DPR leadership structures, elections, and office titles are contested and reported differently depending on the source and jurisdiction.
 - This page summarizes widely-cited public references (primarily Wikipedia) and is not an endorsement of claims by any party.
+
+
+## References

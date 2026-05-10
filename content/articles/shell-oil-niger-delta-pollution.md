@@ -22,7 +22,7 @@ Decades of oil spills by Shell and other companies devastated the Niger Delta ec
 | 1958 | Oil production began devastating Niger Delta environment |
 | 1995 | Ken Saro-Wiwa and eight Ogoni activists executed |
 
-## References
+
 
 [^1]: Wikipedia, "Shell Oil Niger Delta Pollution" - https://en.wikipedia.org/wiki/Shell_Oil_Niger_Delta_Pollution
 
@@ -51,3 +51,6 @@ Decades of oil spills by Shell and other companies devastated the Niger Delta ec
 ## Key Point
 
 - Disputes over spill causation, responsibility, and remediation have been central to the long-running controversy.
+
+
+## References

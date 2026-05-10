@@ -21,7 +21,7 @@ Nazi doctor known as 'Dr. Death' who experimented on concentration camp prisoner
 |------|-------|
 | 1945 | Escaped justice, fled to Egypt |
 
-## References
+
 
 [^1]: Wikipedia, "Aribert Heim" - https://en.wikipedia.org/wiki/Aribert_Heim
 
@@ -49,3 +49,6 @@ Nazi doctor known as 'Dr. Death' who experimented on concentration camp prisoner
 
 - The Heim case is frequently cited as an example of the long tail of Nazi-era accountability and the difficulties of postwar prosecution across borders.[^1]
 - It also illustrates how rumors, incomplete records, and delayed documentation can shape fugitive narratives for decades.[^1]
+
+
+## References

@@ -13,9 +13,9 @@ lastUpdated: "2026-02-21"
 
 ## 概述
 
-1884-85 年的柏林会议规范了欧洲对非洲的殖民。在没有非洲代表的情况下，欧洲列强瓜分了非洲大陆，划定的边界忽略了民族和文化界限。到 1914 年，只有埃塞俄比亚和利比里亚保持独立。
+1884-85 年的柏林会议规范了欧洲对非洲的殖民。在没有非洲代表的情况下，欧洲列强瓜分了非洲大陆，划定了无视种族和文化界限的边界。到 1914 年，只有埃塞俄比亚和利比里亚保持独立。
 
-## 事件时间线
+## 职业生涯时间表
 
 | 年份 | 事件 |
 |------|-------|
@@ -28,4 +28,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: Wikipedia, "Scramble for Africa Berlin Conference" - https://en.wikipedia.org/wiki/Scramble_for_Africa_Berlin_Conference
+[^1]: 维基百科，“非洲瓜分柏林会议” - https://en.wikipedia.org/wiki/Scramble_for_Africa_Berlin_Conference

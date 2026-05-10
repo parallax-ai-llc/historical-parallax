@@ -54,7 +54,7 @@ Greek left-wing politician Grigoris Lambrakis was murdered by right-wing extremi
 - **Symbolism:** Often cited as an emblem of **state-enabled political violence**.
 - **Public memory:** Remembered through film, journalism, and historical accounts of Greece’s pre-junta era.
 
-## References
+
 
 [^1]: Wikipedia, "Grigoris Lambrakis assassination" - https://en.wikipedia.org/wiki/Grigoris_Lambrakis_assassination
 
@@ -72,3 +72,6 @@ The assassination produced widespread outrage and became a focal point for debat
 
 ## Cultural legacy
 The case has been depicted in journalism and popular culture, including works that helped shape international awareness of Greek political turmoil in the period.
+
+
+## References

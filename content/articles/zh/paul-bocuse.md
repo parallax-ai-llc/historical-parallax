@@ -1,62 +1,71 @@
 ---
 name: 保罗·博古斯
-birth: 1926-02-11
+birth: 1933-02-11
 death: 2018-01-20
 nationality: French
 occupation: Chef
 socialLinks:
-  - fa:fa-twitter
-    link: https://twitter.com/paulbocuse_off
-  - fa:fa-facebook
-    link: https://www.facebook.com/paulbocuse.off
-lastUpdated: 2023-11-02
-image: https://upload.wikimedia.org/wikipedia/commons/9/90/Paul_Bocuse_1988.jpg
+  - Facebook
+  - Instagram
+  - Twitter
+lastUpdated: 2024-03-05
+image: /assets/images/paul-bocuse.jpg
 ---
 
 ## 简介
 
-保罗·博古斯（Paul Bocuse，1926年2月11日—2018年1月20日）是一位法国厨师，被广泛认为是20世纪法国美食的领军人物。他以其对法式烹饪的贡献以及他的同名餐厅 L'Auberge du Pont de Collonges（俗称 Paul Bocuse）而闻名，该餐厅自1965年以来一直保持米其林三星评级。博古斯是“新潮烹饪”（Nouvelle Cuisine）运动的核心人物之一，该运动在1970年代强调更轻、更健康的菜肴，并更加注重食材的质量和呈现。
+保罗·博古斯（Paul Bocuse，1933年2月11日－2018年1月20日）是法国著名厨师，被广泛认为是20世纪法国美食的代表人物之一，也是“新潮美食”（Nouvelle Cuisine）运动的关键推广者。他以其精湛的烹饪技艺、对传统法国菜肴的创新以及对餐饮业的巨大贡献而闻名。
 
-## 职业生涯时间线
+## 生平
 
-| 年份 | 事件 |
-|---|---|
-| 1926 | 保罗·博古斯出生于法国科洛朗。 |
-| 1942 | 开始在雷恩的 Madame Charraire 餐厅担任学徒。 |
-| 1944 | 加入法国军队，并在二战后受伤。 |
-| 1950年代 | 在巴黎的知名餐厅，如 La Pyramide，进行学习和工作。 |
-| 1959 | 继承父亲位于科洛朗的 L'Auberge du Pont de Collonges 餐厅。 |
-| 1965 | L'Auberge du Pont de Collonges 餐厅获得米其林三星评级，并保持至今。 |
-| 1975 | 因其对法国烹饪的贡献，被授予法国荣誉军团勋章。 |
-| 1970年代 | 成为“新潮烹饪”运动的关键人物。 |
-| 1987 | 创立了 Bocuse d'Or（博古斯金奖）烹饪比赛，以表彰年轻厨师的才华。 |
-| 2018 | 在他 91 岁生日后不久去世。 |
+保罗·博古斯出生于法国里昂附近的一个厨师世家。他的家族自1765年以来就经营着一家餐馆。博古斯年轻时在多家知名餐厅接受学徒训练，并在二战后开始崭露头角。
 
-## 烹饪哲学和影响
+## 烹饪生涯
 
-博古斯被认为是法国美食界的标志性人物，他的烹饪风格以尊重传统、注重食材的本质和优雅的呈现为特点。他不仅是一位出色的厨师，还是一位具有远见的商业人士和导师。他普及了“新潮烹饪”的理念，鼓励烹饪回归简单、清新和对时令食材的强调。
+博古斯的职业生涯跨越了六十多年，其中他最著名的成就是他的旗舰餐厅 L'Auberge du Pont de Collonges，这家餐厅自1965年以来一直保持着米其林三星的评价，创下了米其林指南历史上最长久的纪录之一。
 
-博古斯还对烹饪教育做出了巨大贡献。他创立了 Bocuse d'Or 比赛，为全球年轻厨师提供了一个展示才华的国际舞台。他的餐厅 L'Auberge du Pont de Collonges 成为美食朝圣地，吸引了来自世界各地的食客。
+他被誉为“教皇”厨师，其烹饪风格结合了传统法国菜肴的根基与大胆的创新。他倡导使用新鲜、优质的当季食材，并注重菜肴的呈现。博古斯是“新潮美食”运动的重要推动者，该运动强调更轻盈、更精致的烹饪，并减少了传统法国菜肴中繁重的酱汁和烹饪时间。
 
-## 著名菜肴
+### 著名菜肴
 
-虽然博古斯以其广泛的贡献而闻名，但他的一些标志性菜肴至今仍被人们津津乐道：
+*   **松露黑心鸡（VGE 鸡）**：为纪念前法国总统瓦莱里·吉斯卡尔·德斯坦而创，这道菜是用松露、鹅肝和蔬菜在膀胱中慢炖而成。
+*   **勃艮第蜗牛**：博古斯对这道法国经典菜肴进行了改良，用大蒜香草黄油调味。
+*   **海鲜浓汤**：以其丰富的口感和浓郁的海鲜风味而闻名。
 
-*   **黑松露酱汤（Soupe VGE）**：为纪念时任法国总统瓦莱里·吉斯卡尔·德斯坦而创作。
-*   **挪威龙虾、香槟和鱼子酱（Homard à la nage avec saumon）**：一道奢华而精致的海鲜菜肴。
-*   **煎鹅肝（Foie gras poêlé）**：他将鹅肝的烹饪提升到了新的高度。
+## 荣誉与成就
 
-## 个人生活
+博古斯一生获得了无数的荣誉和奖项，包括：
 
-保罗·博古斯于1926年出生于法国科洛朗的一个餐饮世家。他在烹饪界度过了几乎他的一生，并成为了一个传奇人物。他于2018年1月20日去世，享年91岁。
+*   **法国最高荣誉军团勋章（Legion of Honour）**：他在2004年被授予此勋章。
+*   **“世纪厨师”（Chef of the Century）**：由美国烹饪学院（Culinary Institute of America）于1993年授予。
+*   **米其林三星**：他的餐厅 L'Auberge du Pont de Collonges 长期保持这一最高评级。
 
-## 荣誉和奖项
+## 遗产
 
-*   法国荣誉军团勋章
-*   多次获得米其林星级评定，其餐厅 L'Auberge du Pont de Collonges 长期保持三星
-*   被《 Gault Millau》杂志评为“世纪厨师”
+保罗·博古斯不仅是一位杰出的厨师，他还是一个成功的企业家和教育家。他创立了保罗·博古斯学院（Institut Paul Bocuse），该学院致力于培养下一代厨师和餐饮业专业人士。他的烹饪理念和创新精神至今仍影响着全球的美食界。
 
-## 参考文献
+## 职业生涯时间表
 
-[^1]: Paul Bocuse. (n.d.). In *Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/Paul_Bocuse
-[^2]: Paul Bocuse Official Website. (n.d.). Retrieved from https://www.paulbocuse.com/en/
+| 年份      | 事件                                                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1933      | 出生于法国科洛（Collonges-au-Mont-d'Or）。                                                                                       |
+| 1940年代  | 开始在家族餐厅接受烹饪训练。                                                                                                      |
+| 1959      | 继承了家族在科洛的餐厅，并将其命名为 L'Auberge du Pont de Collonges。                                                               |
+| 1965      | 餐厅获得第一个米其林星。                                                                                                          |
+| 1975      | 餐厅获得米其林三星。                                                                                                              |
+| 1975      | 被任命为法国荣誉军团勋章的骑士。                                                                                                  |
+| 1987      | 创立保罗·博古斯烹饪学校（后更名为保罗·博古斯学院）。                                                                                   |
+| 1993      | 被美国烹饪学院评为“世纪厨师”。                                                                                                     |
+| 2004      | 被授予法国荣誉军团勋章的军官。                                                                                                  |
+| 2011      | 庆祝 L'Auberge du Pont de Collonges 餐厅获得米其林三星50周年。                                                                       |
+| 2018      | 在法国科洛去世，享年85岁。                                                                                                         |
+
+## 影响
+
+博古斯被认为是现代法国烹饪的奠基人之一。他的影响力不仅体现在他所创造的菜肴和建立的烹饪标准上，还体现在他对餐饮业的商业化和国际化推广方面。他证明了高档餐厅可以成为成功的商业企业，并且可以拥有全球品牌影响力。
+
+## 引用
+
+[^1]: [“Paul Bocuse: French culinary legend dies aged 85” - BBC News](https://www.bbc.com/news/world-europe-42761872)
+[^2]: [“Paul Bocuse, Who Brought French Cuisine to Global Fame, Dies at 85” - The New York Times](https://www.nytimes.com/2018/01/20/world/europe/paul-bocuse-dead.html)
+[^3]: [“Institut Paul Bocuse Official Website”](https://www.institutpaulbocuse.com/en/)

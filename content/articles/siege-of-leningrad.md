@@ -5,7 +5,7 @@ birth: "1941-09-08"
 death: "1944-01-27"
 nationality: "Soviet Union"
 occupation: ["Historical Event", "Siege", "World War II"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Anti_aircraft_Leningrad_1941.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siege_of_Leningrad"
 lastUpdated: "2026-02-21"

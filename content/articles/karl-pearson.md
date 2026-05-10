@@ -5,7 +5,7 @@ birth: "1857-03-27"
 death: "1936-04-27"
 nationality: "English"
 occupation: ["Mathematician", "Statistician", "Biometrician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Karl_Pearson%2C_1910_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Pearson"
 lastUpdated: "2026-02-21"

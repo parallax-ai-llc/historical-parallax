@@ -21,7 +21,7 @@ Leader of the 5 Segonn gang controlling parts of Martissant in Port-au-Prince.
 |------|-------|
 | 2021 | Controlled territory in Martissant |
 
-## References
+
 
 [^1]: Wikipedia, "Ti Gabriel" - https://en.wikipedia.org/wiki/Ti_Gabriel
 
@@ -53,3 +53,6 @@ As a result, summaries frequently rely on a small number of open sources and emp
 
 - Martissant (Port-au-Prince)
 - Gangs in Haiti (overview)
+
+
+## References

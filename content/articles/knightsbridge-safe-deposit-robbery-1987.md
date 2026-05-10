@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 1987-07-12 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -48,3 +48,6 @@ Public summaries of the case emphasize the value of quick border and travel chec
 ## Industry Lessons
 In later discussions of physical security, Knightsbridge is used to illustrate layered measures such as dual-control access, robust panic alarms, controlled visitor protocols, and immediate lockdown capabilities. It also reinforced the importance of staff training for deception scenarios and the need to treat "routine" customer interactions as potential attack surfaces.
 The case remains one of London's best-known high-value robberies of the late 20th century.
+
+
+## References

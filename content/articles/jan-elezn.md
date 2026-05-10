@@ -23,7 +23,7 @@ Jan Železný holds the javelin WR of 98.48m and won three consecutive Olympic g
 | 1996 | Set WR of 98.48m; won second gold |
 | 2000 | Won third gold |
 
-## References
+
 
 [^1]: Wikipedia, "Jan Železný" - https://en.wikipedia.org/wiki/Jan_%C5%BDelezn%C3%BD
 
@@ -50,3 +50,6 @@ After retiring from top-level competition, Železný became involved in coaching
 ## Notability
 
 His 98.48 m world record is frequently highlighted as a rare example of an athletics record that has remained intact for decades.
+
+
+## References

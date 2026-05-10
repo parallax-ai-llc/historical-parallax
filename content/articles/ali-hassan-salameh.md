@@ -23,7 +23,7 @@ Palestinian intelligence chief known as the Red Prince who commanded Force 17 an
 | 1974 | Became CIA asset while heading PLO intelligence |
 | 1979 | Assassinated by Mossad car bomb in Beirut |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Hassan Salameh" - https://en.wikipedia.org/wiki/Ali_Hassan_Salameh
 
@@ -51,3 +51,6 @@ Salameh remains a notable figure because his story sits at the intersection of m
 
 - Munich massacre
 - Black September Organization
+
+
+## References

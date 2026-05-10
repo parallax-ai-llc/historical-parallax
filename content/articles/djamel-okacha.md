@@ -42,7 +42,7 @@ Okacha's death was reported as part of French counterterrorism operations in nor
 
 Profiles of militant leaders in the Sahel are often used to explain how insurgent organizations maintain continuity despite leadership losses. Analysts commonly point to factors such as decentralization, the presence of multiple armed factions, and access to financing through criminal economies.
 
-## References
+
 
 [^1]: Wikipedia, "Djamel Okacha" - https://en.wikipedia.org/wiki/Djamel_Okacha
 
@@ -50,3 +50,6 @@ Profiles of militant leaders in the Sahel are often used to explain how insurgen
 
 - Sahel insurgency
 - Al-Qaeda in the Islamic Maghreb (AQIM)
+
+
+## References

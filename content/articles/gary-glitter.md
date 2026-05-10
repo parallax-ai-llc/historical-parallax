@@ -22,7 +22,7 @@ British glam rock star convicted of child sex offenses in the UK, Vietnam, and o
 | 1999 | First arrested for child pornography |
 | 2015 | Sentenced to 16 years for child abuse |
 
-## References
+
 
 [^1]: Wikipedia, "Gary Glitter" - https://en.wikipedia.org/wiki/Gary_Glitter
 
@@ -82,3 +82,6 @@ The case is frequently referenced in debates about:
 ## Note on Coverage
 
 Reporting on abuse cases can involve graphic or sensitive details; many encyclopedic summaries deliberately keep descriptions high-level while focusing on verified legal outcomes.
+
+
+## References

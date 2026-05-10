@@ -22,7 +22,7 @@ Slobodan Praljak, the Bosnian Croat general who dramatically drank cyanide in th
 | 1993 | Ordered destruction of Stari Most bridge |
 | 2017 | Drank poison in courtroom, died hours later |
 
-## References
+
 
 [^1]: Wikipedia, "Praljak Poison" - https://en.wikipedia.org/wiki/Praljak_Poison
 
@@ -51,3 +51,6 @@ The ICTY and related institutions reviewed procedures following the incident. Th
 ## Related Topic
 
 The incident is sometimes cited alongside other high-profile courtroom disruptions as an example of how legal proceedings can become political theatre.
+
+
+## References

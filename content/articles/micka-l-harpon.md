@@ -21,7 +21,7 @@ French police employee who stabbed four colleagues to death at Paris police head
 |------|-------|
 | 2019 | Committed Paris police HQ attack |
 
-## References
+
 
 [^1]: Wikipedia, "Mickaël Harpon" - https://en.wikipedia.org/wiki/Micka%C3%ABl_Harpon
 
@@ -50,3 +50,6 @@ French police employee who stabbed four colleagues to death at Paris police head
 ## Notes
 
 This article summarizes high-level, widely reported facts and should be read alongside primary reporting and official investigative findings where available.
+
+
+## References

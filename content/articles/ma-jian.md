@@ -23,7 +23,7 @@ Former Chinese intelligence deputy minister convicted of bribery, insider tradin
 | 2015 | Arrested for corruption |
 | 2018 | Convicted and sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Ma Jian" - https://en.wikipedia.org/wiki/Ma_Jian
 
@@ -50,3 +50,6 @@ Former Chinese intelligence deputy minister convicted of bribery, insider tradin
 ## Source Notes
 - This entry is currently short and should be treated as a starting point rather than a definitive account.
 - If a cited link becomes unavailable or resolves to a placeholder page, add an archived copy and alternative reputable sources.
+
+
+## References

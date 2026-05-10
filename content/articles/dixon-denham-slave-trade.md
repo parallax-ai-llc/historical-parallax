@@ -21,7 +21,7 @@ European explorers and colonial agents participated in and facilitated the trans
 |------|-------|
 | 1500 | Atlantic slave trade accelerated |
 
-## References
+
 
 [^1]: Wikipedia, "Dixon Denham Slave Trade" - https://en.wikipedia.org/wiki/Dixon_Denham_Slave_Trade
 
@@ -80,3 +80,6 @@ The title and framing may suggest an individual-centric narrative. In many histo
 [^2]: Encyclopaedia Britannica, "Transatlantic slave trade" — https://www.britannica.com/topic/transatlantic-slave-trade
 [^3]: UNESCO, "The Slave Route" — https://en.unesco.org/themes/fostering-rights-inclusion/slave-route
 [^4]: Voyages: The Trans-Atlantic Slave Trade Database — https://www.slavevoyages.org/
+
+
+## References

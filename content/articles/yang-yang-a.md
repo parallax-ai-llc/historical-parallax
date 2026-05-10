@@ -21,7 +21,7 @@ Yang Yang (A) won China's first Winter Olympic gold medals, winning both 500m an
 |------|-------|
 | 2002 | Won 500m and 1000m gold at Salt Lake City — China's first Winter gold |
 
-## References
+
 
 [^1]: Wikipedia, "Yang Yang (A)" - https://en.wikipedia.org/wiki/Yang_Yang_(A)
 
@@ -53,3 +53,6 @@ After her top-level competitive career, Yang Yang (A) became active in sport gov
 ## Legacy
 
 Yang Yang (A) is frequently referenced as a turning point figure for Chinese winter sports: her Olympic success in 2002 is treated as a symbolic breakthrough, and her later administrative work reflects a transition from elite performance to institutional leadership in global sport.
+
+
+## References

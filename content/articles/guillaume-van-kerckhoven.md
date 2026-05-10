@@ -21,7 +21,7 @@ Belgian colonial officer who paid his soldiers per severed head during Congo Fre
 |------|-------|
 | 1891 | Paid bounties for severed heads in Congo |
 
-## References
+
 
 [^1]: Wikipedia, "Guillaume Van Kerckhoven" - https://en.wikipedia.org/wiki/Guillaume_Van_Kerckhoven
 
@@ -52,3 +52,6 @@ Belgian colonial officer who paid his soldiers per severed head during Congo Fre
 
 - Congo Free State
 - Force Publique
+
+
+## References

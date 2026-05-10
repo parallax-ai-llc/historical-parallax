@@ -22,7 +22,7 @@ Known as 'Prime Evil,' he commanded apartheid South Africa's secret death squad.
 | 1983 | Commanded Vlakplaas death squad |
 | 1996 | Sentenced to two life terms plus 212 years |
 
-## References
+
 
 [^1]: Wikipedia, "Eugene de Kock" - https://en.wikipedia.org/wiki/Eugene_de_Kock
 
@@ -51,3 +51,6 @@ De Kock’s name is often invoked in discussions about:
 - The mechanics of state repression under apartheid
 - Accountability after authoritarian or discriminatory regimes
 - How clandestine units can normalize extreme violence when oversight collapses
+
+
+## References

@@ -45,7 +45,7 @@ Faisal Shahzad attempted to detonate a car bomb in Times Square, New York on May
 | 2010-05 | Arrested and charged in U.S. federal court. |
 | 2010 | Pleaded guilty to terrorism-related charges; sentenced to life imprisonment. |
 
-## References
+
 [^1]: https://en.wikipedia.org/wiki/Faisal_Shahzad
 [^2]: U.S. Department of Justice and contemporaneous federal court reporting on the Times Square bombing attempt (2010).
 [^3]: Major-news coverage and public safety briefings following the May 1, 2010 Times Square incident.
@@ -65,3 +65,6 @@ Faisal Shahzad attempted to detonate a car bomb in Times Square, New York on May
 - Public vigilance: how civilian observations can contribute when communicated through reliable channels.
 - Risk management: assessing vulnerabilities in crowded public spaces and adapting protective measures without excessive disruption.
 
+
+
+## References

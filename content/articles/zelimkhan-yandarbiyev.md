@@ -21,7 +21,7 @@ Former Chechen president assassinated by Russian intelligence agents with a car 
 |------|-------|
 | 2004 | Assassinated by GRU in Qatar |
 
-## References
+
 
 [^1]: Wikipedia, "Zelimkhan Yandarbiyev" - https://en.wikipedia.org/wiki/Zelimkhan_Yandarbiyev
 
@@ -53,3 +53,6 @@ Former Chechen president assassinated by Russian intelligence agents with a car 
 ## Additional References
 
 [^2]: Wikipedia sections on political career and assassination in Doha - https://en.wikipedia.org/wiki/Zelimkhan_Yandarbiyev
+
+
+## References

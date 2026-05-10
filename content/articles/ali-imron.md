@@ -23,7 +23,7 @@ Indonesian Jemaah Islamiyah member who helped assemble the bomb for the 2002 Bal
 | 2003 | Arrested; cooperated with authorities |
 | 2003 | Death sentence commuted to life |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Imron" - https://en.wikipedia.org/wiki/Ali_Imron
 
@@ -49,3 +49,6 @@ Imron is frequently referenced in Indonesian counter-extremism work as an exampl
 - Counterterrorism in Indonesia
 
 - Deradicalization programs
+
+
+## References

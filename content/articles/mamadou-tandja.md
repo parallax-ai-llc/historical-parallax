@@ -22,7 +22,7 @@ President of Niger who attempted to extend his rule by dissolving parliament and
 | 1999 | Became President of Niger |
 | 2010 | Overthrown in military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Mamadou Tandja" - https://en.wikipedia.org/wiki/Mamadou_Tandja
 
@@ -60,3 +60,6 @@ Assessments of Tandja’s presidency tend to center on the tension between:
 - The institutional damage and political crisis triggered by the term-extension effort
 
 In Niger and across West Africa, his case is frequently referenced in broader debates about constitutionalism, presidential term limits, and the risks of executive overreach.
+
+
+## References

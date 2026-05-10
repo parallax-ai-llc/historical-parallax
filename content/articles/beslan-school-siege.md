@@ -23,7 +23,7 @@ lastUpdated: "2026-02-26"
 | 2004 | Russian forces stormed building |
 | 2004 | 334 killed |
 
-## References
+
 
 [^1]: Wikipedia, "Beslan School Siege" - https://en.wikipedia.org/wiki/Beslan_School_Siege
 
@@ -55,3 +55,6 @@ Many narratives include contested details about negotiations, triggers for the f
 - note when official accounts and survivor reports diverge
 
 The linked reference aggregates common timelines and citations.
+
+
+## References

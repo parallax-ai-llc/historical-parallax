@@ -5,7 +5,7 @@ birth: "1966-12-14"
 death: "Unknown"
 nationality: "Saudi Arabia"
 occupation: ["Guantanamo Detainee"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/ISN_00239%2C_Shaker_Aamer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shaker_Aamer"
 lastUpdated: "2026-02-26"
@@ -39,7 +39,7 @@ Last British resident held in Guantanamo, detained for 13 years without charge b
 
 - After returning to the UK, reporting focused on reintegration and the ongoing public discussion about accountability, evidence standards, and national-security policy.
 
-## References
+
 
 [^1]: Wikipedia, "Shaker Aamer" - https://en.wikipedia.org/wiki/Shaker_Aamer
 
@@ -77,3 +77,6 @@ Aamer’s detention and release are frequently cited in broader discussions abou
 - the human and political costs of indefinite detention
 
 These themes extend beyond any single detainee and remain central to historical analysis of the post‑9/11 era.
+
+
+## References

@@ -22,7 +22,7 @@ Former Yunnan party secretary who accepted 246 million yuan in bribes over two d
 | 2014 | Investigated and expelled from CCP |
 | 2016 | Sentenced to death with two-year reprieve |
 
-## References
+
 
 [^1]: Wikipedia, "Bai Enpei" - https://en.wikipedia.org/wiki/Bai_Enpei
 
@@ -49,3 +49,6 @@ Bai Enpei is frequently cited in summaries of China's post-2012 anti-corruption 
 ## Notes on biographical data
 
 Public summaries commonly list his birth year as **1946**; some sources provide a specific birth date. This article keeps a simplified biographical header while relying on references for detailed chronology.[^1]
+
+
+## References

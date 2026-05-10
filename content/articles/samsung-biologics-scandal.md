@@ -21,7 +21,7 @@ South Korean biotech subsidiary accused of accounting fraud to inflate Samsung's
 |------|-------|
 | 2018 | Accounting fraud allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Samsung Biologics Scandal" - https://en.wikipedia.org/wiki/Samsung_Biologics_Scandal
 
@@ -76,3 +76,6 @@ Readers trying to understand the broader context often look at:
 
 - Official regulator announcements and enforcement summaries (where available) often provide the most precise framing of allegations and outcomes.
 - Court filings and judgments, when published, can clarify what was ultimately proven or dismissed.
+
+
+## References

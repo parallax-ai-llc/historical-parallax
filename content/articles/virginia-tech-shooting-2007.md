@@ -21,7 +21,7 @@ Seung-Hui Cho murdered 32 people at Virginia Tech in the deadliest school shooti
 |------|-------|
 | 2007 | 32 killed at Virginia Tech |
 
-## References
+
 
 [^1]: Wikipedia, "Virginia Tech Shooting 2007" - https://en.wikipedia.org/wiki/Virginia_Tech_Shooting_2007
 
@@ -58,3 +58,6 @@ The shooting is frequently referenced in U.S. policy and research conversations 
 - Campus-wide emergency notification systems (including rapid text/email alerts)
 - Behavioral threat assessment teams and coordinated intervention models
 - The balance between privacy, due process, and preventative safety measures
+
+
+## References

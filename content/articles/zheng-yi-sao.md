@@ -23,7 +23,7 @@ Chinese pirate queen who commanded 1,800 ships and 80,000 sailors. Most powerful
 | 1810 | Negotiated amnesty |
 | 1844 | Died as wealthy businesswoman |
 
-## References
+
 
 [^1]: Wikipedia, "Zheng Yi Sao" - https://en.wikipedia.org/wiki/Zheng_Yi_Sao
 
@@ -52,3 +52,6 @@ Later narratives often describe her transitioning to legal business activities, 
 ## Notes
 
 The historical record mixes official reports, later histories, and folklore; spellings and biographical details can vary between sources and translations.
+
+
+## References

@@ -23,7 +23,7 @@ Israeli spy who infiltrated the highest levels of the Syrian government in the 1
 | 1964 | Became close to Syrian military leadership |
 | 1965 | Caught and publicly hanged in Damascus |
 
-## References
+
 
 [^1]: Wikipedia, "Eli Cohen" - https://en.wikipedia.org/wiki/Eli_Cohen
 
@@ -52,3 +52,6 @@ In Israel, Cohen has been memorialized as a national intelligence figure, with p
 - the strategic value and risks of human intelligence (HUMINT),
 - the difficulty of maintaining deep cover under tightening counterintelligence,
 - how espionage cases can shape public narratives long after the operational period.
+
+
+## References

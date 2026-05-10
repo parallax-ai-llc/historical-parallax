@@ -43,10 +43,13 @@ Kidnapping-for-ransom cases are often discussed in policy and security contexts 
 - Incentivize repeat offenses when ransoms are paid.
 - Require coordinated response across policing, intelligence, and judicial systems.
 
-## References
+
 
 [^1]: Wikipedia, "Toto Constantino" - https://en.wikipedia.org/wiki/Toto_Constantino
 
 ## Further Reading
 
 For broader context, see general overviews of kidnapping-for-ransom trends in the Philippines and how business communities respond to organized abduction risks.
+
+
+## References

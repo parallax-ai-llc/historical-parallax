@@ -40,7 +40,7 @@ He was arrested by Mexican authorities and became part of broader efforts to dis
 
 Cases involving named enforcers became emblematic of a violence-driven phase of Mexico’s drug war. In public debate, they are cited in discussions about how cartel “enforcement” roles function, why border regions are contested, and how arrests can reshape local power balances without necessarily ending violence.
 
-## References
+
 
 [^1]: Wikipedia, "Raydel López Uriarte" - https://en.wikipedia.org/wiki/Raydel_L%C3%B3pez_Uriarte
 
@@ -49,3 +49,6 @@ Cases involving named enforcers became emblematic of a violence-driven phase of 
 - Tijuana Cartel / Arellano Félix Organization
 - Mexican Drug War
 - Organized crime in Baja California
+
+
+## References

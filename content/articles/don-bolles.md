@@ -24,7 +24,7 @@ American investigative reporter killed by a car bomb in Phoenix, Arizona while i
 | 1976 | Died 11 days later |
 | 1977 | Collaborators convicted of his murder |
 
-## References
+
 
 [^1]: Wikipedia, "Don Bolles" - https://en.wikipedia.org/wiki/Don_Bolles
 
@@ -51,3 +51,6 @@ Bolles is frequently referenced in discussions of press freedom and the idea tha
 ## Continuing Relevance
 
 Bolles is remembered not only for the reporting he produced, but for the idea that investigative work can be made more resilient when notes, sources, and leads are structured so that a newsroom can continue the investigation if a reporter is threatened or harmed.
+
+
+## References

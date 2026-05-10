@@ -22,7 +22,7 @@ Ottoman Sultan known as 'Ibrahim the Mad' who drowned 280 members of his harem i
 | 1640 | Became Sultan |
 | 1648 | Deposed and executed |
 
-## References
+
 
 [^1]: Wikipedia, "Ibrahim I" - https://en.wikipedia.org/wiki/Ibrahim_I
 
@@ -53,3 +53,6 @@ Popular retellings often emphasize sensational stories (including claims about m
 - Murad IV
 - Kösem Sultan
 - Ottoman succession practices (Kafes)
+
+
+## References

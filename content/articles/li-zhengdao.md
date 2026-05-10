@@ -5,7 +5,7 @@ birth: "1926-11-24"
 death: "2024-08-04"
 nationality: "Chinese-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/TD_Lee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Zhengdao"
 lastUpdated: "2026-02-26"

@@ -24,7 +24,7 @@ Basque politician convicted of attempting to rebuild the banned political party 
 | 2016 | Released from prison |
 | 2018 | ECHR ruled conviction violated his rights |
 
-## References
+
 
 [^1]: Wikipedia, "Arnaldo Otegi" - https://en.wikipedia.org/wiki/Arnaldo_Otegi
 
@@ -49,3 +49,6 @@ This article's frontmatter uses short categorical descriptors. For contentious c
 - Batasuna
 - ETA and Basque politics
 - European Court of Human Rights
+
+
+## References

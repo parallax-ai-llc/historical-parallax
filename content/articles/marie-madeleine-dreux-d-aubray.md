@@ -21,7 +21,7 @@ The Marquise de Brinvilliers who tested poisons on hospital patients before murd
 |------|-------|
 | 1676 | Beheaded and burned for poisoning |
 
-## References
+
 
 [^1]: Wikipedia, "Marie-Madeleine Dreux d'Aubray" - https://en.wikipedia.org/wiki/Marie-Madeleine_Dreux_d'Aubray
 
@@ -55,3 +55,6 @@ The Marquise de Brinvilliers who tested poisons on hospital patients before murd
 - **Era**: 17th century
 - **Known for**: High-profile poisoning case; association with sensational allegations of poison experimentation; execution for poisoning.
 - **Primary modern reference used here**: Wikipedia (see References).
+
+
+## References

@@ -23,7 +23,7 @@ Palestinian militant known as the 'Master' who organized PFLP's aircraft hijacki
 | 1976 | Organized Entebbe hijacking |
 | 1978 | Died—allegedly poisoned by Mossad |
 
-## References
+
 
 [^1]: Wikipedia, "Wadi Haddad" - https://en.wikipedia.org/wiki/Wadi_Haddad
 
@@ -48,3 +48,6 @@ He died in 1978 in East Germany (then the GDR). Some sources allege that Israel'
 ### Historical significance
 
 Haddad is often discussed in studies of the evolution of international terrorism in the 1970s, when airline hijackings became a prominent tactic with global media impact.
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1949 | See Tadashi Yanai |
 
-## References
+
 
 [^1]: Wikipedia, "Yanai Tadashi duplicate" - https://en.wikipedia.org/wiki/Yanai_Tadashi_duplicate
 
@@ -58,3 +58,6 @@ In business history and contemporary reporting, Yanai is frequently cited when a
 ## Additional reference
 
 - Wikipedia, "Tadashi Yanai" (biographical overview and corporate roles): https://en.wikipedia.org/wiki/Tadashi_Yanai
+
+
+## References

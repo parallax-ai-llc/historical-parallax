@@ -21,7 +21,7 @@ Armed Islamic Group of Algeria responsible for massacres of civilians during the
 |------|-------|
 | 1997 | Committed Bentalha massacre killing 200+ |
 
-## References
+
 
 [^1]: Wikipedia, "GIA" - https://en.wikipedia.org/wiki/GIA
 
@@ -64,3 +64,6 @@ Armed Islamic Group of Algeria responsible for massacres of civilians during the
 
 [^2]: Wikipedia, "Algerian Civil War" - https://en.wikipedia.org/wiki/Algerian_Civil_War
 [^3]: Wikipedia, "Armed Islamic Group" - https://en.wikipedia.org/wiki/Armed_Islamic_Group
+
+
+## References

@@ -21,7 +21,7 @@ Nikolas Cruz killed 17 people at Marjory Stoneman Douglas High School in Parklan
 |------|-------|
 | 2018 | 17 killed at Parkland school |
 
-## References
+
 
 [^1]: Wikipedia, "Parkland School Shooting" - https://en.wikipedia.org/wiki/Parkland_School_Shooting
 
@@ -61,3 +61,6 @@ Nikolas Cruz killed 17 people at Marjory Stoneman Douglas High School in Parklan
 
 [^2]: Britannica, "Parkland shooting" - https://www.britannica.com/event/Parkland-shooting
 [^3]: March for Our Lives (organization site) - https://marchforourlives.com/
+
+
+## References

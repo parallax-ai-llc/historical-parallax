@@ -5,7 +5,7 @@ birth: "1907-08-30"
 death: "1996-01-18"
 nationality: "Argentine-Italian"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Leonor_Fini.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonor_Fini"
 lastUpdated: "2026-02-21"

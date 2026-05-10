@@ -23,7 +23,7 @@ Ongoing conflict in Darfur since 2003 between Sudanese government-backed Janjawe
 | 2004 | US declared genocide |
 | 2009 | ICC warrant for al-Bashir |
 
-## References
+
 
 [^1]: Wikipedia, "Darfur Conflict" - https://en.wikipedia.org/wiki/Darfur_Conflict
 
@@ -52,3 +52,6 @@ The ICC proceedings relating to Sudan’s leadership made Darfur a prominent cas
 ## Continuing Relevance
 
 Darfur remains a reference point for discussions about atrocity prevention, the limits of external intervention, and the long-term social and economic impacts of protracted conflict.
+
+
+## References

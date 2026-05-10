@@ -22,7 +22,7 @@ US Army sergeant who murdered 16 Afghan civilians, mostly women and children, in
 | 2012 | Murdered 16 Afghan civilians in Kandahar Province |
 | 2013 | Pleaded guilty; sentenced to life without parole |
 
-## References
+
 
 [^1]: Wikipedia, "Robert Bales" - https://en.wikipedia.org/wiki/Robert_Bales
 
@@ -56,3 +56,6 @@ The case has been cited in broader discussions about:
 
 - War crimes and the laws of armed conflict
 - Civilian protection in armed conflict
+
+
+## References

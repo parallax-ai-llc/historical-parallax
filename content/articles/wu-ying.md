@@ -22,7 +22,7 @@ Chinese businesswoman who ran a massive Ponzi scheme defrauding investors of 770
 | 2007 | Arrested for fundraising fraud of 770 million yuan |
 | 2012 | Death sentence commuted to life |
 
-## References
+
 
 [^1]: Wikipedia, "Wu Ying" - https://en.wikipedia.org/wiki/Wu_Ying
 
@@ -48,3 +48,6 @@ Wu Ying’s case is regularly referenced in discussions of financial regulation,
 It also serves as a cautionary example of how fundraising outside formal systems can escalate from business activity into criminal liability.
 In later retellings, the episode is used to illustrate tensions between market development and strict enforcement.
 The case remains notable because it combined financial crime, public opinion, and high-stakes sentencing.
+
+
+## References

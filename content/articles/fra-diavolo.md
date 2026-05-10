@@ -21,7 +21,7 @@ Italian guerrilla leader and bandit who fought against the French occupation of 
 |------|-------|
 | 1806 | Captured and hanged by French forces |
 
-## References
+
 
 [^1]: Wikipedia, "Fra Diavolo" - https://en.wikipedia.org/wiki/Fra_Diavolo
 
@@ -51,3 +51,6 @@ Italian guerrilla leader and bandit who fought against the French occupation of 
 
 - Many concise biographies rely heavily on secondary summaries; for careful historical work, prefer **archival-based studies** of southern Italian insurgency and Napoleonic occupation.
 - When comparing accounts, separate (1) **documented events** (capture, execution, official reports) from (2) **legendary embellishment** in later literature and opera.
+
+
+## References

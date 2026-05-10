@@ -24,7 +24,7 @@ Nandini Harinath is a rocket scientist at ISRO who served as deputy operations d
 | 2013 | Deputy operations director for Mars Orbiter Mission |
 | 2014 | Named one of India's outstanding women in science |
 
-## References
+
 
 [^1]: Wikipedia, "Nandini Harinath" - https://en.wikipedia.org/wiki/Nandini_Harinath
 
@@ -51,3 +51,6 @@ This article provides a short biographical snapshot. For authoritative details o
 
 - Ground-segment architecture (tracking, telemetry, and command) for deep-space missions.
 - Differences between mission design, flight dynamics, and mission operations roles.
+
+
+## References

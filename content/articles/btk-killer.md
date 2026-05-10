@@ -22,7 +22,7 @@ Dennis Rader terrorized Wichita, Kansas for decades as the BTK (Bind, Torture, K
 | 1974 | First BTK murders |
 | 2005 | Arrested via floppy disk trace |
 
-## References
+
 
 [^1]: Wikipedia, "BTK Killer" - https://en.wikipedia.org/wiki/BTK_Killer
 
@@ -54,3 +54,6 @@ Dennis Rader terrorized Wichita, Kansas for decades as the BTK (Bind, Torture, K
 - Serial homicide investigations
 - Forensic metadata and digital evidence
 - Offender communications with law enforcement
+
+
+## References

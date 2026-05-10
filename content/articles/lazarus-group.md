@@ -5,7 +5,7 @@ birth: "2007-01-01"
 death: "N/A"
 nationality: "North Korea"
 occupation: ["State-Sponsored Hackers"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Cartel_de_la_orden_de_captura_de_Park_Jin_Hyok.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lazarus_Group"
 lastUpdated: "2026-02-21"

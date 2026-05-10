@@ -19,7 +19,7 @@ Juan Fernando Hermosa Suárez, known as 'El Niño del Terror,' was an Ecuadorian
 |------|-------|
 | 1977 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background and context
@@ -51,3 +51,6 @@ Juan Fernando Hermosa Suárez, known as 'El Niño del Terror,' was an Ecuadorian
 ## Why the case is cited
 - The case is often referenced in discussions about **juvenile justice**, especially how legal systems handle serious violent crime committed by minors.
 - It is also cited in broader public debates about **recidivism**, supervision after release, and the reliability of media narratives when primary documentation is scarce.
+
+
+## References

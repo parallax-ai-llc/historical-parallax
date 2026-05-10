@@ -21,7 +21,7 @@ French serial killer known as 'Pierrot le Fou' who murdered three people includi
 |------|-------|
 | 2007 | Convicted of three murders |
 
-## References
+
 
 [^1]: Wikipedia, "Pierre Bodein" - https://en.wikipedia.org/wiki/Pierre_Bodein
 
@@ -56,3 +56,6 @@ French serial killer known as 'Pierrot le Fou' who murdered three people includi
 
 - Serial killers in France
 - French criminal justice system
+
+
+## References

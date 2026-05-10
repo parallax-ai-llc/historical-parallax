@@ -21,7 +21,7 @@ See Warren Anderson. The 1984 Bhopal gas leak at the Union Carbide plant in Indi
 |------|-------|
 | 1984 | Gas leak killed thousands in Bhopal |
 
-## References
+
 
 [^1]: Wikipedia, "Bhopal disaster" - https://en.wikipedia.org/wiki/Bhopal_disaster
 
@@ -79,3 +79,6 @@ High-level factors commonly discussed in investigations and reporting include:
 
 [^2]: Encyclopaedia Britannica, "Bhopal disaster" - https://www.britannica.com/event/Bhopal-disaster
 [^3]: Government of India settlement coverage (overview), commonly summarized in major reference sources - see Wikipedia for pointers and citations: https://en.wikipedia.org/wiki/Bhopal_disaster
+
+
+## References

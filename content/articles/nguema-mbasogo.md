@@ -22,7 +22,7 @@ President of Equatorial Guinea since 1979, one of the world's longest-ruling lea
 | 1979 | Seized power by overthrowing his uncle Francisco Macías Nguema |
 | 2004 | Foiled mercenary coup allegedly backed by Mark Thatcher |
 
-## References
+
 
 [^1]: Wikipedia, "Nguema Mbasogo" - https://en.wikipedia.org/wiki/Nguema_Mbasogo
 
@@ -49,3 +49,6 @@ Despite persistent criticism, the government has maintained diplomatic relations
 ## Succession and Elite Politics
 
 Analysts often note the prominence of presidential family members and close allies in senior government and security positions, and the resulting concerns about elite continuity and succession in a long-running personalist system.
+
+
+## References

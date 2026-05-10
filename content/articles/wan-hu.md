@@ -22,7 +22,7 @@ Wan Hu is a legendary Chinese official from the Ming Dynasty who allegedly attem
 | 1500 | Allegedly attempted rocket flight using 47 rockets strapped to a chair |
 | 1500 | Disappeared in explosion — fate unknown |
 
-## References
+
 
 [^1]: Wikipedia, "Wan Hu" - https://en.wikipedia.org/wiki/Wan_Hu
 
@@ -48,3 +48,6 @@ The story is a compact way to discuss core aerospace problems that later became 
 - Structural loads: acceleration and vibration can destroy a vehicle before it flies.
 
 In that sense, Wan Hu endures less as a biography and more as an early narrative lens on the engineering challenges of rocketry.
+
+
+## References

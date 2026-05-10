@@ -21,7 +21,7 @@ Albanian drug lord who ran cannabis trafficking from Albania to Italy and Greece
 |------|-------|
 | 2015 | Major cannabis trafficking operations |
 
-## References
+
 
 [^1]: Wikipedia, "Ergys Dashi" - https://en.wikipedia.org/wiki/Ergys_Dashi
 
@@ -74,3 +74,6 @@ If this profile is later expanded with primary documentation, useful items to lo
 - Official police or prosecutor press releases.
 - Reputable investigative reporting that cites named operations/dates.
 
+
+
+## References

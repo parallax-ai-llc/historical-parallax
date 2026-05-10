@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 2020-03-01 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -49,3 +49,6 @@ This event had significant impact on law enforcement practices, public policy, a
 
 ## Practical Lesson
 Trust relationships between vendors and customers can become an attack surface when updates and authentication are not continuously verified.
+
+
+## References

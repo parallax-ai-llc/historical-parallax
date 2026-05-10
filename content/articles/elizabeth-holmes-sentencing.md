@@ -21,7 +21,7 @@ Once the world's youngest female billionaire, Holmes was sentenced to 11.25 year
 |------|-------|
 | 2023 | Began prison sentence |
 
-## References
+
 
 [^1]: Wikipedia, "Elizabeth Holmes Sentencing" - https://en.wikipedia.org/wiki/Elizabeth_Holmes_Sentencing
 
@@ -65,3 +65,6 @@ This episode is frequently cited in discussions of:
 - Theranos (company)
 - Corporate fraud (general topic)
 - Diagnostics regulation (general topic)
+
+
+## References

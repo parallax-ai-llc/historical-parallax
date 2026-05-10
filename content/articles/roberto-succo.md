@@ -5,7 +5,7 @@ birth: "1962-04-03"
 death: "1988-05-23"
 nationality: "Italy / France"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Roberto_Succo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Succo"
 lastUpdated: "2026-02-21"

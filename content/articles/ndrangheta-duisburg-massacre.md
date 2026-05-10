@@ -21,7 +21,7 @@ Six Italians were shot dead outside a pizzeria in Duisburg, Germany in a Ndrangh
 |------|-------|
 | 2007 | 6 killed in Duisburg |
 
-## References
+
 
 [^1]: Wikipedia, "Ndrangheta Duisburg Massacre" - https://en.wikipedia.org/wiki/Ndrangheta_Duisburg_Massacre
 
@@ -65,3 +65,6 @@ Six Italians were shot dead outside a pizzeria in Duisburg, Germany in a Ndrangh
 ## Additional References
 
 [^2]: Wikipedia, "Duisburg massacre" - https://en.wikipedia.org/wiki/Duisburg_massacre
+
+
+## References

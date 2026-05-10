@@ -22,7 +22,7 @@ French revolutionary who carried out the mass execution of 1,900 people during t
 | 1793 | Ordered massacres at Lyon |
 | 1799 | Became Napoleon's Minister of Police |
 
-## References
+
 
 [^1]: Wikipedia, "Joseph Fouché" - https://en.wikipedia.org/wiki/Joseph_Fouch%C3%A9
 
@@ -49,3 +49,6 @@ French revolutionary who carried out the mass execution of 1,900 people during t
 ## Later life
 
 - After Napoleon’s fall, Fouché’s political position deteriorated and he spent his final years in exile.
+
+
+## References

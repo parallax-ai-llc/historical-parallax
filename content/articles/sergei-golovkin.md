@@ -24,7 +24,7 @@ Russian serial killer known as 'Fisher' who abducted, tortured, and murdered 11 
 | 1994 | Sentenced to death |
 | 1996 | Executed by shooting — last execution in Russia |
 
-## References
+
 
 [^1]: Wikipedia, "Sergei Golovkin" - https://en.wikipedia.org/wiki/Sergei_Golovkin
 
@@ -48,3 +48,6 @@ Russian serial killer known as 'Fisher' who abducted, tortured, and murdered 11 
 
 - Many details in popular retellings vary across reporting; high-level summaries typically converge on the core timeline (1986–1992 murders, 1992 arrest, 1994 death sentence, 1996 execution).
 - The case is sometimes referenced in broader discussions of late-Soviet criminology and the evolution of investigative methods in Russia.
+
+
+## References

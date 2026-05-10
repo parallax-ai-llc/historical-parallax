@@ -23,7 +23,7 @@ German far-left terrorist organization also known as the Red Army Faction that c
 | 1977 | German Autumn crisis |
 | 1998 | Dissolved |
 
-## References
+
 
 [^1]: Wikipedia, "Baader-Meinhof Group" - https://en.wikipedia.org/wiki/Baader-Meinhof_Group
 
@@ -52,3 +52,6 @@ The RAF announced its dissolution in 1998. The group’s history is still analyz
 - The “Baader–Meinhof” label is sometimes used loosely; many sources treat RAF as the more precise name.
 - Scholarship commonly situates the RAF alongside other European militant groups of the period for comparative study.
 - Public memory in Germany often centers on victim impact, state legitimacy, and the boundaries of protest.
+
+
+## References

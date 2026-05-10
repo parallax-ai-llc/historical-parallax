@@ -23,7 +23,7 @@ Kidnapping of 14-year-old Elizabeth Smart from her Salt Lake City home in 2002 b
 | 2003 | Found alive 9 months later |
 | 2011 | Mitchell sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Elizabeth Smart Kidnapping" - https://en.wikipedia.org/wiki/Elizabeth_Smart_Kidnapping
 
@@ -48,3 +48,6 @@ Kidnapping of 14-year-old Elizabeth Smart from her Salt Lake City home in 2002 b
 
 - The case contributed to broader public discussion about child abduction, victim support, and media attention in missing-person cases.
 - Elizabeth Smart later became a public advocate focused on child safety and victim assistance.
+
+
+## References

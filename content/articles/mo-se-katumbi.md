@@ -22,7 +22,7 @@ Congolese businessman and politician who served as Katanga governor before falli
 | 2015 | Broke with President Kabila over third term bid |
 | 2016 | Sentenced in absentia for real estate fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Moïse Katumbi" - https://en.wikipedia.org/wiki/Mo%C3%AFse_Katumbi
 
@@ -53,3 +53,6 @@ Katumbi is frequently cited in discussions of:
 ## Further reading
 
 - Wikipedia overview and citations in the linked entry[^1]
+
+
+## References

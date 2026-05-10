@@ -5,7 +5,7 @@ birth: "1959-06-14"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["Military Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Kayumba_Nyamwasa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kayumba_Nyamwasa"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Former Rwandan army chief of staff who fled to South Africa after falling out wi
 | 2010 | Survived assassination attempt in Johannesburg |
 | 2014 | Rwandan intelligence agents convicted of attempting to murder him |
 
-## References
+
 
 [^1]: Wikipedia, "Kayumba Nyamwasa" - https://en.wikipedia.org/wiki/Kayumba_Nyamwasa
 
@@ -53,3 +53,6 @@ The Nyamwasa case is often referenced in discussions of:
 ## Additional Reference
 
 [^2]: Reuters topic pages and reporting archives (background reporting) - https://www.reuters.com/
+
+
+## References

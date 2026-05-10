@@ -21,7 +21,7 @@ Ethereum developer sentenced to prison for traveling to North Korea to help evad
 |------|-------|
 | 2022 | Sentenced for helping North Korea evade sanctions |
 
-## References
+
 
 [^1]: Wikipedia, "Virgil Griffith" - https://en.wikipedia.org/wiki/Virgil_Griffith
 
@@ -57,3 +57,6 @@ The prosecution is often cited in discussions about how governments treat:
 - Cryptocurrency as both a financial tool and a geopolitical vector
 - The boundaries between academic/technical speech and regulated assistance
 - Risk management for developers who engage with sanctioned jurisdictions
+
+
+## References

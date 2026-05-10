@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1944 | See Ren Zhengfei |
 
-## References
+
 
 [^1]: Wikipedia, "Ren Zhengfei duplicate" - https://en.wikipedia.org/wiki/Ren_Zhengfei_duplicate
 
@@ -72,3 +72,6 @@ The linked Wikipedia page in the frontmatter suggests this is not a standard bio
 
 [^2]: Wikipedia, "Ren Zhengfei" - https://en.wikipedia.org/wiki/Ren_Zhengfei
 [^3]: Wikipedia, "Huawei" - https://en.wikipedia.org/wiki/Huawei
+
+
+## References

@@ -3,6 +3,7 @@ name: "Koichi Wakata"
 birth: "1963-08-01"
 nationality: "Japanese"
 occupation: ["Astronaut", "Engineer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Koichi_Wakata_Official_Portrait_%28cropped%29_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Koichi_Wakata"
 lastUpdated: "2026-03-12"

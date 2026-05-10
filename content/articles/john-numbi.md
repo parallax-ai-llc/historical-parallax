@@ -21,7 +21,7 @@ Congolese police inspector general suspected of ordering the murder of human rig
 |------|-------|
 | 2010 | Suspected of ordering activist's murder |
 
-## References
+
 
 [^1]: Wikipedia, "John Numbi" - https://en.wikipedia.org/wiki/John_Numbi
 
@@ -64,3 +64,6 @@ The following items summarize major roles commonly attributed to him in public b
 - The Chebeya–Bazanaa affair is frequently cited by human-rights groups and governance analysts as a test case for accountability within security services in the DRC.
 - Numbi’s prominence in multiple senior security roles makes him a recurring figure in narratives about civil-military relations and the politicization of police and armed forces leadership.
 - Because many claims around the case are contested and politically charged, neutral summaries often rely on court outcomes, official statements, and well-sourced investigative reporting.
+
+
+## References

@@ -43,7 +43,7 @@ The Punjab National Bank (PNB) case became one of India’s most widely reported
 - It also illustrates how high-value financial crimes can create long-running international legal processes.
 
 
-## References
+
 [^1]: Wikipedia, "Mehul Choksi PNB" - https://en.wikipedia.org/wiki/Mehul_Choksi_PNB
 
 ## Notes
@@ -51,3 +51,6 @@ The Punjab National Bank (PNB) case became one of India’s most widely reported
 - This page is intentionally high-level and focuses on widely reported context.
 - Exact figures and attributions can vary by source and methodology.
 - For primary detail, consult the references and contemporaneous reporting.
+
+
+## References

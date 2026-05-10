@@ -23,7 +23,7 @@ Dennis Rodman won five NBA championships and was the greatest rebounder in baske
 | 1996 | Won first of three titles with Chicago Bulls |
 | 1998 | Won fifth championship |
 
-## References
+
 
 [^1]: Wikipedia, "Dennis Rodman" - https://en.wikipedia.org/wiki/Dennis_Rodman
 
@@ -69,3 +69,6 @@ In the 2010s, Rodman attracted renewed attention for highly publicized visits to
 
 - Often cited as an example of how defensive impact and rebounding can be central to winning at the highest level.
 - Remembered as both a uniquely effective role player on elite teams and as one of the NBA’s most recognizable personalities.
+
+
+## References

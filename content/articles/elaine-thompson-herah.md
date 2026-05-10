@@ -22,7 +22,7 @@ Elaine Thompson-Herah won the 100m/200m double at both 2016 and 2021 Olympics. S
 | 2016 | Won 100m/200m double at Rio |
 | 2021 | Won double again at Tokyo; ran 10.54s |
 
-## References
+
 
 [^1]: Wikipedia, "Elaine Thompson-Herah" - https://en.wikipedia.org/wiki/Elaine_Thompson-Herah
 
@@ -84,3 +84,6 @@ Major championships—such as global meets and the Olympic Games—are often use
 ## Training and preparation
 
 Elite sprint programs typically emphasize technical work, strength and power development, injury management, and precise competition scheduling. Public discussions of top sprinters often highlight the team structure around the athlete, including coaching, medical staff, and training partners.
+
+
+## References

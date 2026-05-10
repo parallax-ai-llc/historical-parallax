@@ -23,7 +23,7 @@ Borromeo Enrique Henríquez, known as the leader of a major MS-13 clique, direct
 | 2015 | Indicted by US federal prosecutors |
 | 2017 | Arrested and extradited to the United States |
 
-## References
+
 
 [^1]: Wikipedia, "Borge Ring" - https://en.wikipedia.org/wiki/Borge_Ring
 
@@ -50,3 +50,6 @@ Court records and trial testimony are typically the key public sources for these
 - MS-13
 - Racketeering (RICO)
 - Extradition law
+
+
+## References

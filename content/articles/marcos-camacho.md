@@ -21,7 +21,7 @@ Leader of PCC who orchestrated simultaneous attacks across São Paulo from priso
 |------|-------|
 | 2006 | PCC attacks killed over 100 in São Paulo |
 
-## References
+
 
 [^1]: Wikipedia, "Marcos Camacho" - https://en.wikipedia.org/wiki/Marcos_Camacho
 
@@ -54,3 +54,6 @@ Leader of PCC who orchestrated simultaneous attacks across São Paulo from priso
 ## Notes
 
 - This article summarizes commonly reported, high-level claims; detailed allegations, trial records, and investigative reporting should be consulted for specifics.
+
+
+## References

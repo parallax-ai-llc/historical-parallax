@@ -22,7 +22,7 @@ German colonial forces exterminated 80% of the Herero people through a deliberat
 | 1904 | Extermination order issued |
 | 2021 | Germany acknowledged genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Herero Genocide" - https://en.wikipedia.org/wiki/Herero_Genocide
 
@@ -55,3 +55,6 @@ Germany’s 2021 acknowledgment is often framed as part of a wider European reck
 ## Why it matters
 
 The Herero and Nama genocide is frequently cited as one of the major genocides of the 20th century’s opening years and as a case study in how colonial rule, racial ideology, and military policy can combine into systematic mass atrocity.
+
+
+## References

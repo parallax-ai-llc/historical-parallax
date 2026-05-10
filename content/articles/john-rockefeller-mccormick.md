@@ -21,7 +21,7 @@ Placeholder to avoid confusion. See Cyrus McCormick.
 |------|-------|
 | 1839 | See Cyrus McCormick entry |
 
-## References
+
 
 [^1]: Wikipedia, "John Rockefeller McCormick" - https://en.wikipedia.org/wiki/John_Rockefeller_McCormick
 
@@ -65,3 +65,6 @@ Because this repository entry currently contains placeholder/possibly incorrect 
 ## Additional references
 
 [^2]: Wikipedia, "Edith Rockefeller McCormick" (includes biographical context and list of children) - https://en.wikipedia.org/wiki/Edith_Rockefeller_McCormick
+
+
+## References

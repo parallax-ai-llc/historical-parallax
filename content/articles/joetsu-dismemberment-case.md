@@ -21,7 +21,7 @@ Human remains were found scattered across multiple locations in Joetsu, Niigata.
 |------|-------|
 | 2022 | Dismembered remains found |
 
-## References
+
 
 [^1]: Wikipedia, "Joetsu Dismemberment Case" - https://en.wikipedia.org/wiki/Joetsu_Dismemberment_Case
 
@@ -54,3 +54,6 @@ Because detailed, authoritative English-language reporting is limited in the sou
 
 - Niigata Prefectural Police public information (press releases / safety bulletins)
 - Local Niigata-area news coverage (Japanese-language)
+
+
+## References

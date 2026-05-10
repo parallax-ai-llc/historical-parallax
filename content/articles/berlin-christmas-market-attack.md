@@ -22,7 +22,7 @@ Tunisian asylum seeker Anis Amri drove a hijacked truck into a Berlin Christmas 
 | 2016 | Truck attack killed 12 at Berlin Christmas market |
 | 2016 | Amri shot dead by Italian police near Milan |
 
-## References
+
 
 [^1]: Wikipedia, "Berlin Christmas Market Attack" - https://en.wikipedia.org/wiki/Berlin_Christmas_Market_Attack
 
@@ -59,3 +59,6 @@ Reporting and official reviews of the case have commonly focused on issues such 
 The Berlin Christmas market attack became one of Europe’s most prominent jihadist-inspired attacks of the mid-2010s.
 
 It is often referenced in discussions of European counterterrorism policy, asylum and deportation procedures, and the evolution of “low-tech” mass-casualty tactics.
+
+
+## References

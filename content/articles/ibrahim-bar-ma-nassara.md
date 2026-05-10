@@ -22,7 +22,7 @@ Military ruler of Niger who seized power in 1996 and rigged elections. Assassina
 | 1996 | Seized power in a military coup |
 | 1999 | Assassinated by presidential guard at Niamey airport |
 
-## References
+
 
 [^1]: Wikipedia, "Ibrahim Baré Maïnassara" - https://en.wikipedia.org/wiki/Ibrahim_Bar%C3%A9_Ma%C3%AFnassara
 
@@ -54,3 +54,6 @@ Maïnassara’s death in 1999—reported as carried out by members of his own pr
 
 - Politics of Niger
 - Military coups in West Africa
+
+
+## References

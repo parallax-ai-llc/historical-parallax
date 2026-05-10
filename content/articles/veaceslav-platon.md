@@ -45,7 +45,7 @@ Cases like the “laundromat” investigations are often used to illustrate recu
 - banks failing to identify beneficial owners and unusual transaction patterns
 - cross-border supervisory gaps that let funds move faster than enforcement
 
-## References
+
 
 [^1]: Wikipedia, "Veaceslav Platon" - https://en.wikipedia.org/wiki/Veaceslav_Platon
 
@@ -53,3 +53,6 @@ Cases like the “laundromat” investigations are often used to illustrate recu
 
 - Russian Laundromat
 - Money laundering
+
+
+## References

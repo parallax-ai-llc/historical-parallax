@@ -5,7 +5,7 @@ birth: "1817-10-17"
 death: "1898-03-27"
 nationality: "Indian"
 occupation: ["Reformer", "Educator", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Syed_Ahmad_Khan_1907.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sayyid_Ahmad_Khan"
 lastUpdated: "2026-02-21"

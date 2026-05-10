@@ -21,7 +21,7 @@ Japanese woman convicted of poisoning multiple people with thallium.
 |------|-------|
 | 2009 | Convicted of serial poisoning |
 
-## References
+
 
 [^1]: Wikipedia, "Yuko Yuzuki" - https://en.wikipedia.org/wiki/Yuko_Yuzuki
 
@@ -63,3 +63,6 @@ Serial poisoning cases tend to attract sustained attention because they:
 
 - If primary reporting or court documentation becomes available, it should be used to refine dates, counts, and procedural details.
 - Until then, this article maintains a cautious, high-level description while preserving the existing summary.
+
+
+## References

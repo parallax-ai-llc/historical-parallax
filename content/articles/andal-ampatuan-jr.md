@@ -23,7 +23,7 @@ Filipino politician convicted of masterminding the 2009 Maguindanao Massacre tha
 | 2009 | Arrested |
 | 2019 | Convicted and sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Andal Ampatuan Jr." - https://en.wikipedia.org/wiki/Andal_Ampatuan_Jr.
 
@@ -51,3 +51,6 @@ The massacre became a focal point for debates about:
 ## Notes
 
 Because the massacre involved many victims, defendants, and a lengthy court process, summaries often emphasize institutional lessons and the legal outcome rather than exhaustively listing every procedural step.
+
+
+## References

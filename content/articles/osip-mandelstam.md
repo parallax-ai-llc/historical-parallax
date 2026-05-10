@@ -24,7 +24,7 @@ Russian poet who was one of the greatest of the 20th century. His refusal to acc
 | 1934 | Arrested for an anti-Stalin poem |
 | 1938 | Dies in a transit camp near Vladivostok |
 
-## References
+
 
 [^1]: Wikipedia, "Osip Mandelstam" - https://en.wikipedia.org/wiki/Osip_Mandelstam
 
@@ -57,3 +57,6 @@ High-level, widely cited elements of his persecution include:
 - Acmeism
 - Soviet censorship and repression of writers
 - Russian modernist poetry
+
+
+## References

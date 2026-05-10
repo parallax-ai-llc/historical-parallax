@@ -23,7 +23,7 @@ Chilean general who was the first director of DINA, Pinochet's secret police. He
 | 1993 | Convicted of Letelier murder |
 | 2015 | Died in prison serving 529 years |
 
-## References
+
 
 [^1]: Wikipedia, "Manuel Contreras" - https://en.wikipedia.org/wiki/Manuel_Contreras
 
@@ -50,3 +50,6 @@ Manuel Contreras(마누엘 콘트레라스)는 칠레 피노체트 정권 시기
 ## 추가 메모
 
 - 이 문서는 요약 중심으로 작성되어 있습니다. 세부 연표·인용·1차 자료는 추후 보강이 필요할 수 있습니다.
+
+
+## References

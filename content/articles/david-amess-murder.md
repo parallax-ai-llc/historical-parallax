@@ -22,7 +22,7 @@ British Conservative MP stabbed to death during a constituency surgery by Ali Ha
 | 2021 | Stabbed to death during constituency meeting |
 | 2022 | Ali Harbi Ali sentenced to whole-life order |
 
-## References
+
 
 [^1]: Wikipedia, "David Amess Murder" - https://en.wikipedia.org/wiki/David_Amess_Murder
 
@@ -49,3 +49,6 @@ Following the attack, debate focused on:
 ## Legacy
 
 The case became a reference point in discussions about violence against politicians in the UK and Europe, and how social polarization and extremist narratives can translate into real-world harm.
+
+
+## References

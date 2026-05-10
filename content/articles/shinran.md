@@ -5,7 +5,7 @@ birth: "1173-05-21"
 death: "1263-01-16"
 nationality: "Japanese"
 occupation: ["Monk", "Theologian"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Shinran_%28Nara_National_Museum%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shinran"
 lastUpdated: "2026-02-21"

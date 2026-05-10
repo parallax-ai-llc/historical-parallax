@@ -3,6 +3,7 @@ name: "Kevin Hart"
 birth: "1979-07-06"
 nationality: "American"
 occupation: ["Comedian", "Actor", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kevin_Hart"
 lastUpdated: "2026-03-12"

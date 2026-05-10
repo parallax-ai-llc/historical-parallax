@@ -21,7 +21,7 @@ Indian edtech entrepreneur whose company Byju's collapsed amid allegations of fi
 |------|-------|
 | 2023 | Company faced insolvency amid fraud allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Byju Raveendran" - https://en.wikipedia.org/wiki/Byju_Raveendran
 
@@ -62,3 +62,6 @@ Indian edtech entrepreneur whose company Byju's collapsed amid allegations of fi
 ## Further Reading
 
 - Wikipedia overview: Byju Raveendran[^1]
+
+
+## References

@@ -21,7 +21,7 @@ South Korean serial killer who murdered five women in Gyeonggi Province.
 |------|-------|
 | 2006 | Convicted of five murders |
 
-## References
+
 
 [^1]: Wikipedia, "Park Sung-soo" - https://en.wikipedia.org/wiki/Park_Sung-soo
 
@@ -54,3 +54,6 @@ South Korean serial killer who murdered five women in Gyeonggi Province.
 
 - Serial killers in South Korea
 - Crime in Gyeonggi Province
+
+
+## References

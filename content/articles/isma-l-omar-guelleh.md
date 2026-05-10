@@ -22,7 +22,7 @@ President of Djibouti since 1999 who has maintained authoritarian control, suppr
 | 1999 | Became President of Djibouti |
 | 2021 | Won fifth term with over 98% of vote |
 
-## References
+
 
 [^1]: Wikipedia, "Ismaïl Omar Guelleh" - https://en.wikipedia.org/wiki/Isma%C3%AFl_Omar_Guelleh
 
@@ -55,3 +55,6 @@ President of Djibouti since 1999 who has maintained authoritarian control, suppr
 - **Context:** political, social, and geographic framing.
 - **Aftermath:** investigations, reforms, and legacy.
 - **Sources:** prioritize primary documents and reputable reporting.
+
+
+## References

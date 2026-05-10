@@ -21,7 +21,7 @@ Placeholder — this is a political figure, not primarily an entrepreneur.
 |------|-------|
 | 1963 | Born in Peru |
 
-## References
+
 
 [^1]: Wikipedia, "Martin Vizcarra" - https://en.wikipedia.org/wiki/Martin_Vizcarra
 
@@ -63,3 +63,6 @@ Placeholder — this is a political figure, not primarily an entrepreneur.
 ## Notes
 
 - This article is a concise biographical stub intended for historical reference; for detailed chronology and sourcing, consult the cited reference and additional primary/secondary sources.
+
+
+## References

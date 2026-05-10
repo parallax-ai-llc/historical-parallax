@@ -23,7 +23,7 @@ Xu Fu was a Chinese court sorcerer sent by Emperor Qin Shi Huang to find the eli
 | 210 BC | Led second expedition with 3,000 men and women |
 | 210 BC | Never returned to China |
 
-## References
+
 
 [^1]: Wikipedia, "Xu Fu" - https://en.wikipedia.org/wiki/Xu_Fu
 
@@ -55,3 +55,6 @@ Writings about Xu Fu tend to emphasize a few recurring themes:
 1. **Imperial patronage and anxiety**: a ruler funding extraordinary searches for longevity.
 2. **Maritime exploration**: voyages framed as both political missions and mythic journeys.
 3. **Ambiguous ending**: disappearance that enables both historical speculation and legend.
+
+
+## References

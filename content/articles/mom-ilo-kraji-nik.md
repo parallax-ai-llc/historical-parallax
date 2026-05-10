@@ -24,7 +24,7 @@ Bosnian Serb politician and close ally of Radovan Karadžić who was convicted o
 | 2006 | Convicted of crimes against humanity, sentenced to 20 years |
 | 2020 | Died after release |
 
-## References
+
 
 [^1]: Wikipedia, "Momčilo Krajišnik" - https://en.wikipedia.org/wiki/Mom%C4%8Dilo_Kraji%C5%A1nik
 ## Bosnian War Context
@@ -55,3 +55,6 @@ Because the ICTY produced extensive written judgments, court documents are gener
 
 - Republika Srpska political institutions
 - International criminal law after the 1990s
+
+
+## References

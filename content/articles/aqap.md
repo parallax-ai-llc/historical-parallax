@@ -23,7 +23,7 @@ See Anwar al-Awlaki. Al-Qaeda in the Arabian Peninsula. Duplicate entry.
 | 2010s | AQAP remains active amid Yemen’s conflict, with periods of territorial influence and sustained counterterrorism pressure. |
 | 2020s | Continued reporting of AQAP activity in Yemen alongside leadership losses and shifting operational conditions. |
 
-## References
+
 
 [^1]: Wikipedia, "AQAP" - https://en.wikipedia.org/wiki/AQAP
 
@@ -80,3 +80,6 @@ AQAP is generally described as an affiliate aligned with al-Qaeda’s broader id
 
 - Wikipedia overview and citations: see the reference link above.
 - Related biographies and topics (where relevant): al-Qaeda; Yemen conflict; key AQAP-associated figures.
+
+
+## References

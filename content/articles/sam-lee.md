@@ -21,7 +21,7 @@ Co-founder of HyperVerse crypto platform that defrauded investors of $1.3 billio
 |------|-------|
 | 2022 | HyperVerse collapsed as $1.3 billion scam |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Lee" - https://en.wikipedia.org/wiki/Sam_Lee
 
@@ -51,3 +51,6 @@ Co-founder of HyperVerse crypto platform that defrauded investors of $1.3 billio
 
 - The linked Wikipedia page may change over time and may not capture all investigative reporting or legal proceedings.
 - For deeper verification, consult regulator notices, court documents, and reputable investigative journalism on HyperVerse/HyperFund.
+
+
+## References

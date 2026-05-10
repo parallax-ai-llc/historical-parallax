@@ -22,7 +22,7 @@ Sri Lankan Islamist who led the 2019 Easter Sunday bombings that killed 269 peop
 | 2019 | Led Easter Sunday bombings; killed 269 |
 | 2019 | Died as suicide bomber at Shangri-La Hotel |
 
-## References
+
 
 [^1]: Wikipedia, "Zahran Hashim" - https://en.wikipedia.org/wiki/Zahran_Hashim
 
@@ -51,3 +51,6 @@ Major terrorist incidents in Sri Lanka have historically led to:
 ## Notes
 
 For authoritative detail, consult Sri Lankan government inquiry reports, court proceedings, and reputable investigative reporting that distinguishes confirmed facts from early claims.
+
+
+## References

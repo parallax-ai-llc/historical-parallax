@@ -22,7 +22,7 @@ Leader of Al-Shabaab who transformed the group into an Al-Qaeda affiliate and or
 | 2013 | Ordered the Westgate mall attack in Nairobi killing 67 people |
 | 2014 | Killed by US drone strike in southern Somalia |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Abdi Godane" - https://en.wikipedia.org/wiki/Mohamed_Abdi_Godane
 
@@ -53,3 +53,6 @@ Targeted killings of senior leaders are often evaluated for both immediate disru
 ## Further reading
 
 - Wikipedia overview and citations in the linked entry[^1]
+
+
+## References

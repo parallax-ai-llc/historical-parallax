@@ -22,7 +22,7 @@ Yim Wing-chun is the legendary founder of Wing Chun kung fu. According to tradit
 | c.1700s | Developed Wing Chun martial art |
 | c.1700s | Defeated a local warlord using her technique |
 
-## References
+
 
 [^1]: Wikipedia, "Yim Wing-chun" - https://en.wikipedia.org/wiki/Yim_Wing-chun
 
@@ -53,3 +53,6 @@ Yim Wing-chun is frequently cited in popular culture as:
 - An early example of a female founder figure in Chinese martial arts lore.
 - A symbol used to frame Wing Chun’s emphasis on leverage, timing, and directness.
 
+
+
+## References

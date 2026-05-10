@@ -22,7 +22,7 @@ Head of Syrian Air Force Intelligence who oversaw systematic torture and killing
 | 2011 | Oversaw mass detention and torture of civilians |
 | 2018 | German court issued arrest warrant |
 
-## References
+
 
 [^1]: Wikipedia, "Jamil Hassan" - https://en.wikipedia.org/wiki/Jamil_Hassan
 
@@ -49,3 +49,6 @@ This article summarizes widely reported allegations and legal actions at a high 
 
 - High-profile warrants can constrain international travel and signal that accountability efforts may extend beyond immediate conflict zones.
 - Such cases also contribute to the historical record by preserving testimony and documentation in formal judicial settings.
+
+
+## References

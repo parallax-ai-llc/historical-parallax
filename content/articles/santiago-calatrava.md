@@ -5,7 +5,7 @@ birth: "1951-07-28"
 death: "Unknown"
 nationality: "Spanish-Swiss"
 occupation: ["Architect", "Engineer", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Santiago_Calatrava_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Santiago_Calatrava"
 lastUpdated: "2026-02-21"

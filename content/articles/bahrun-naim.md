@@ -22,7 +22,7 @@ Indonesian ISIS coordinator who directed the January 2016 Jakarta attacks from S
 | 2016 | Coordinated Jakarta attacks from Syria |
 | 2018 | Reportedly killed in Syria |
 
-## References
+
 
 [^1]: Wikipedia, "Bahrun Naim" - https://en.wikipedia.org/wiki/Bahrun_Naim
 
@@ -48,3 +48,6 @@ Indonesian ISIS coordinator who directed the January 2016 Jakarta attacks from S
 The frontmatter death date above reflects one commonly repeated report; other open sources report that he was killed later (e.g., June 2018 in Syria).[^1]
 
 [^2]: BBC News, "Jakarta attacks: Profile of suspect Bahrun Naim" - https://www.bbc.com/news/world-asia-35316915
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1982-10-05"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Olympic Champion", "Wrestler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Saori_Yoshida_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saori_Yoshida"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Saori Yoshida won three consecutive Olympic gold medals and 13 World Championshi
 | 2012 | Won gold at London |
 | 2016 | Won silver at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Saori Yoshida" - https://en.wikipedia.org/wiki/Saori_Yoshida
 
@@ -49,3 +49,6 @@ Biographical fields like “death” may be placeholders in short-form datasets;
 ## Further reading
 
 - Wikipedia entry and its cited sources for bout-by-bout records and honors.
+
+
+## References

@@ -28,7 +28,7 @@ Duplicate consolidated.
 | 2017 | Extradited to the United States for prosecution.[^1] |
 | 2019 | Convicted in U.S. federal court and sentenced to a lengthy term of imprisonment.[^1] |
 
-## References
+
 
 [^1]: Wikipedia, "Chapo Guzmán" - https://en.wikipedia.org/wiki/Chapo_Guzm%C3%A1n
 
@@ -99,3 +99,6 @@ This article is intentionally high-level and relies on broadly cited public summ
 
 - This page keeps dates at a high level and avoids repeating detailed allegations that require primary-source verification.
 - For precise charge counts, trial venue, and sentencing terms, consult court records and reputable reporting alongside the reference link.
+
+
+## References

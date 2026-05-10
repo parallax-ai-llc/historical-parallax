@@ -42,7 +42,7 @@ High-level accounts describe Jang's removal as unusually public and rapid:
 - **Elite discipline**: It reinforced incentives for senior officials to display loyalty and avoid forming independent power bases.
 - **International perception**: The incident shaped external assessments of North Korean decision-making as opaque, high-risk, and prone to sudden internal shocks.
 
-## References
+
 
 [^1]: Wikipedia, "Jang Song-thaek" - https://en.wikipedia.org/wiki/Jang_Song-thaek
 
@@ -51,3 +51,6 @@ High-level accounts describe Jang's removal as unusually public and rapid:
 - Kim Jong-un
 - Kim Kyong-hui
 - Politics of North Korea
+
+
+## References

@@ -21,7 +21,7 @@ Real name of Ahmed Abdi Godane, al-Shabaab's most powerful leader who transforme
 | 2012 | Pledged allegiance to al-Qaeda |
 | 2014 | Killed in US airstrike |
 
-## References
+
 
 [^1]: Wikipedia, "Mukhtar Abu Zubayr" - https://en.wikipedia.org/wiki/Mukhtar_Abu_Zubayr
 
@@ -48,3 +48,6 @@ Real name of Ahmed Abdi Godane, al-Shabaab's most powerful leader who transforme
 ## Suggested follow-up
 - Look for: official reports, court documents (if any), reputable investigative journalism, and academic/think-tank overviews.
 - If multiple credible accounts disagree, summarize the competing claims and cite the best available evidence on each side.
+
+
+## References

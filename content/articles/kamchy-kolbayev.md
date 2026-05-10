@@ -21,7 +21,7 @@ Designated 'thief-in-law' and one of Central Asia's most powerful crime bosses, 
 |------|-------|
 | 2021 | Arrested after US sanctions for transnational crime |
 
-## References
+
 
 [^1]: Wikipedia, "Kamchy Kolbayev" - https://en.wikipedia.org/wiki/Kamchy_Kolbayev
 
@@ -55,3 +55,6 @@ This article’s frontmatter may lag behind later open-source updates. For examp
 [^3]: U.S. Department of the Treasury (2012-02-23), "Treasury Imposes Sanctions on Key Members of the Yakuza and Brothers' Circle Criminal Organizations".
 [^4]: U.S. Department of State (2014-05-29), "Reward for Information on Kamchybek Kolbayev's Criminal Network".
 [^5]: Radio Free Europe / Radio Liberty (2023-10-04), reporting on Kolbayev’s death during a security operation in Bishkek.
+
+
+## References

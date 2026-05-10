@@ -20,7 +20,7 @@ Metropolitan Police officer who died by suicide after responding to the January 
 |------|-------|
 | 2021 | Died by suicide after J6 |
 
-## References
+
 
 [^1]: Wikipedia, "Jeffrey Smith" - https://en.wikipedia.org/wiki/Jeffrey_Smith
 
@@ -56,3 +56,6 @@ Smith is often mentioned alongside other post-January-6 law-enforcement deaths a
 ## References (Additional)
 
 [^2]: Wikipedia, "Death of Jeffrey L. Smith" - https://en.wikipedia.org/wiki/Death_of_Jeffrey_L._Smith
+
+
+## References

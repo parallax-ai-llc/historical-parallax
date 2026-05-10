@@ -22,7 +22,7 @@ Chadian politician who served as Prime Minister under Idriss Déby. Became chair
 | 2003 | Became Prime Minister of Chad |
 | 2017 | Became AU Commission chair |
 
-## References
+
 
 [^1]: Wikipedia, "Moussa Faki Mahamat" - https://en.wikipedia.org/wiki/Moussa_Faki_Mahamat
 
@@ -51,3 +51,6 @@ His elevation to a continental role has sometimes been discussed alongside scrut
 ## Notes
 
 This article summarizes major offices and the institutional role of the AUC chair without attempting to adjudicate disputed political claims.
+
+
+## References

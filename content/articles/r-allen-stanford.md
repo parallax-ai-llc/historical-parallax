@@ -44,7 +44,7 @@ R. Allen Stanford is best known for leading a large-scale investment fraud cente
 - **Criminal outcome:** Stanford was convicted in U.S. federal court (2012).
 - **Asset recovery:** The matter involved receivership and attempts to marshal assets for restitution, though recoveries in fraud cases can be limited relative to losses.
 
-## References
+
 
 [^1]: Wikipedia, "R. Allen Stanford" - https://en.wikipedia.org/wiki/R._Allen_Stanford
 
@@ -52,3 +52,6 @@ R. Allen Stanford is best known for leading a large-scale investment fraud cente
 
 - Stanford International Bank (SIB)
 - Ponzi scheme
+
+
+## References

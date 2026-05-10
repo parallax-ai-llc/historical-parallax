@@ -23,7 +23,7 @@ Soviet pilot who defected to Japan in 1976 by flying his MiG-25 Foxbat intercept
 | 1976 | Granted asylum in the United States |
 | 1980 | Published autobiography 'Pilot Mikoyan' |
 
-## References
+
 
 [^1]: Wikipedia, "Viktor Belenko" - https://en.wikipedia.org/wiki/Viktor_Belenko
 
@@ -48,3 +48,6 @@ Belenko later lived in the United States and participated in public discussions 
 He remains a prominent example in Cold War history of how defections could produce both propaganda value and concrete technical intelligence. The event is frequently cited in aviation history as a rare instance of a front-line Soviet aircraft being made available for detailed outside inspection.
 
 Different accounts emphasize different technical takeaways; readers should compare multiple historical sources when evaluating specific capability claims.
+
+
+## References

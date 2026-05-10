@@ -23,7 +23,7 @@ One of Mexicos most violent drug cartels founded around 2010 by Nemesio El Mench
 | 2015 | Shot down military helicopter |
 | 2020s | Major fentanyl producer |
 
-## References
+
 
 [^1]: Wikipedia, "Jalisco New Generation Cartel" - https://en.wikipedia.org/wiki/Jalisco_New_Generation_Cartel
 
@@ -51,3 +51,6 @@ CJNG is frequently cited in contemporary accounts as an example of a cartel that
 
 - Mexican Drug War
 - Fentanyl trafficking
+
+
+## References

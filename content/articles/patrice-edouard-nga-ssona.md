@@ -22,7 +22,7 @@ National coordinator of Anti-Balaka militia and former football federation presi
 | 2013 | Coordinated Anti-Balaka operations against Muslim populations |
 | 2018 | Arrested in France and transferred to ICC custody |
 
-## References
+
 
 [^1]: Wikipedia, "Patrice Edouard Ngaïssona" - https://en.wikipedia.org/wiki/Patrice_Edouard_Nga%C3%AFssona
 
@@ -49,3 +49,6 @@ The case is frequently referenced in discussions of transitional justice and the
 ## Aftermath
 
 Proceedings at the ICC can take years, involving pre-trial detention, confirmation of charges, and extensive witness testimony. The process itself becomes part of the historical record of the conflict, regardless of eventual verdicts.
+
+
+## References

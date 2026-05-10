@@ -24,7 +24,7 @@ Ariel Castro kidnapped three women - Michelle Knight, Amanda Berry, and Gina DeJ
 | 2013 | Amanda Berry escaped and called 911 |
 | 2013 | Castro sentenced to life plus 1,000 years |
 
-## References
+
 
 [^1]: Wikipedia, "Cleveland Kidnapping Case" - https://en.wikipedia.org/wiki/Cleveland_Kidnapping_Case
 
@@ -50,3 +50,6 @@ Ariel Castro kidnapped three women - Michelle Knight, Amanda Berry, and Gina DeJ
 - **Duration:** approximately a decade of captivity
 - **Resolution:** escape and police rescue in 2013
 - **Legal outcome:** life sentence plus additional consecutive terms
+
+
+## References

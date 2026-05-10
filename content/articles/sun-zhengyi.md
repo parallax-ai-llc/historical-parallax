@@ -21,7 +21,7 @@ Duplicate — see Masayoshi Son.
 |------|-------|
 | 1957 | See Masayoshi Son |
 
-## References
+
 
 [^1]: Wikipedia, "Sun Zhengyi" - https://en.wikipedia.org/wiki/Sun_Zhengyi
 
@@ -54,3 +54,6 @@ When building people/organization knowledge bases from heterogeneous sources (Wi
 ## Additional References
 
 [^2]: Wikipedia, "Masayoshi Son" - https://en.wikipedia.org/wiki/Masayoshi_Son
+
+
+## References

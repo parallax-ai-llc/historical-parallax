@@ -24,7 +24,7 @@ Ugandan LRA commander convicted by the ICC of war crimes and crimes against huma
 | 2015 | Surrendered to US forces in CAR |
 | 2021 | Convicted by ICC; sentenced to 25 years |
 
-## References
+
 
 [^1]: Wikipedia, "Dominic Ongwen" - https://en.wikipedia.org/wiki/Dominic_Ongwen
 
@@ -50,3 +50,6 @@ Ongwen’s conviction is frequently cited as a milestone in international crimin
 ## See also
 
 - International Criminal Court
+
+
+## References

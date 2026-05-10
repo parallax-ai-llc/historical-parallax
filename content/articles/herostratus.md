@@ -22,7 +22,7 @@ Ancient Greek arsonist who burned down the Temple of Artemis at Ephesus, one of 
 | -356 | Set fire to Temple of Artemis at Ephesus |
 | 356 BC | Executed and memory banned by decree |
 
-## References
+
 
 [^1]: Wikipedia, "Herostratus" - https://en.wikipedia.org/wiki/Herostratus
 
@@ -49,3 +49,6 @@ The Herostratus narrative is repeatedly used to discuss:
 ## Modern parallels (careful framing)
 
 Commentators sometimes draw parallels to contemporary acts of “attention-seeking” violence or vandalism. Any one-to-one comparison is limited by differences in context, but the underlying theme—destruction as a route to recognition—remains a durable lens.
+
+
+## References

@@ -21,7 +21,7 @@ KPMG South Africa was implicated in state capture for conducting a discredited i
 |------|-------|
 | 2017 | State capture role exposed |
 
-## References
+
 
 [^1]: Wikipedia, "KPMG South Africa" - https://en.wikipedia.org/wiki/KPMG_South_Africa
 
@@ -66,3 +66,6 @@ This article summarizes widely reported, high-level allegations and outcomes; de
 ## Additional references
 
 [^2]: Wikipedia, "State capture" (South Africa context overview) - https://en.wikipedia.org/wiki/State_capture
+
+
+## References

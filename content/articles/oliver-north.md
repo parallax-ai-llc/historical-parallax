@@ -23,7 +23,7 @@ US Marine officer who orchestrated the Iran-Contra affair, secretly selling weap
 | 1989 | Convicted of three felonies |
 | 1991 | Conviction overturned |
 
-## References
+
 
 [^1]: Wikipedia, "Oliver North" - https://en.wikipedia.org/wiki/Oliver_North
 
@@ -60,3 +60,6 @@ North became a central figure because of his operational role in coordinating an
 ## Notes on Sources
 
 This article is a concise overview. For detailed chronology, names, and legal citations, consult the referenced Wikipedia article and the primary congressional and independent counsel materials it summarizes.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1985-06-14"
 death: "1985-06-14"
 nationality: "Europe"
 occupation: ["Historical Event", "Treaty", "European Integration"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Schengen_Agreement_%281985%29_signatures.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Schengen_Agreement"
 lastUpdated: "2026-02-21"

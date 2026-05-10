@@ -23,7 +23,7 @@ Coroebus of Elis was a baker and the first recorded Olympic champion, winning th
 | 776 BC | Became the first named Olympic champion |
 | 770s BC | Honored in his hometown of Elis |
 
-## References
+
 
 [^1]: Wikipedia, "Coroebus of Elis" - https://en.wikipedia.org/wiki/Coroebus_of_Elis
 
@@ -39,12 +39,14 @@ Coroebus of Elis was a baker and the first recorded Olympic champion, winning th
 - **Cultural role:** Early victors served as civic symbols; commemoration could include local honors and the preservation of names in victor lists.
 - **Limits of certainty:** Many details about Coroebus’ life are inferred from later sources rather than contemporary biographical evidence.
 
-## References
-
-[^2]: Ancient victor-list traditions and later historians who used Olympiads as a chronological framework.
-
 ## Notes on the Ancient Olympic Context
 
 - Early games featured fewer events than later periods; athletics expanded over centuries.
 - Victors could bring prestige to their polis/region, and some cities tracked champions as part of civic memory.
 - The modern Olympic movement draws inspiration from antiquity, but the institutions and cultural meanings differ substantially.
+
+
+## References
+
+[^2]: Ancient victor-list traditions and later historians who used Olympiads as a chronological framework.
+

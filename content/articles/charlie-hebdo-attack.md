@@ -21,7 +21,7 @@ Attack on Charlie Hebdo offices in Paris on January 7, 2015 killing 12 people ov
 |------|-------|
 | 2015 | 12 killed at magazine offices |
 
-## References
+
 
 [^1]: Wikipedia, "Charlie Hebdo Attack" - https://en.wikipedia.org/wiki/Charlie_Hebdo_Attack
 
@@ -83,3 +83,6 @@ Attack on Charlie Hebdo offices in Paris on January 7, 2015 killing 12 people ov
 ## Source Note
 
 This page is a high-level consolidation. For detailed day-by-day chronology, legal proceedings, and the broader January 2015 sequence, consult specialized timelines and court reporting in addition to summary references.
+
+
+## References

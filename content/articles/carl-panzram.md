@@ -21,7 +21,7 @@ American serial killer who murdered 22 people and committed thousands of burglar
 |------|-------|
 | 1930 | Executed for murdering prison guard |
 
-## References
+
 
 [^1]: Wikipedia, "Carl Panzram" - https://en.wikipedia.org/wiki/Carl_Panzram
 
@@ -61,3 +61,6 @@ American serial killer who murdered 22 people and committed thousands of burglar
 ## References (Additional)
 
 [^2]: Britannica/Wikipedia-style biographical summaries and prison-record discussions are commonly used as secondary overviews; the primary public reference for basic dates and conviction remains Wikipedia.
+
+
+## References

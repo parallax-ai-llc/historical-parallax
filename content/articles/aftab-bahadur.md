@@ -38,7 +38,7 @@ Reporting around the case has emphasized several recurring issues often raised i
 
 Following his execution in 2015, the case was frequently referenced by advocacy organizations and commentators as an example of the stakes involved in death-penalty cases where juvenile status, evidentiary reliability, and alleged mistreatment are disputed.
 
-## References
+
 
 [^1]: Wikipedia, "Aftab Bahadur" - https://en.wikipedia.org/wiki/Aftab_Bahadur
 [^2]: Amnesty International, Pakistan — death penalty and juvenile offender advocacy materials (overview) - https://www.amnesty.org/en/latest/news/
@@ -48,3 +48,6 @@ Following his execution in 2015, the case was frequently referenced by advocacy 
 - The case is commonly discussed in the context of **juvenile status documentation** and how age disputes can shape capital cases.
 - It is also referenced in broader debates about **confession evidence** and the risks of coercion.
 - International attention to the execution highlighted tensions between **domestic criminal justice practices** and **international human-rights expectations**.
+
+
+## References

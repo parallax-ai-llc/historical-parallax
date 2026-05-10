@@ -22,7 +22,7 @@ Nazi Germanys systematic murder of six million Jews and millions of others betwe
 | 1941 | Final Solution implemented |
 | 1945 | Camps liberated by Allied forces |
 
-## References
+
 
 [^1]: Wikipedia, "Holocaust" - https://en.wikipedia.org/wiki/Holocaust
 
@@ -51,3 +51,6 @@ Public memorialization includes museums, archives, survivor testimony projects, 
 - Antisemitism in Europe
 - Nuremberg trials
 - Genocide and crimes against humanity
+
+
+## References

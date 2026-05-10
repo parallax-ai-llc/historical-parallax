@@ -40,7 +40,7 @@ This incident is widely cited as one of the deadliest migrant-smuggling tragedie
 - the role of organized smuggling networks along migration routes;
 - ongoing debates about border enforcement, asylum access, and humanitarian response.
 
-## References
+
 
 [^1]: Wikipedia, "Texas Migrant Deaths" - https://en.wikipedia.org/wiki/Texas_Migrant_Deaths
 
@@ -51,3 +51,6 @@ This incident is widely cited as one of the deadliest migrant-smuggling tragedie
 - Victims: dozens of migrants who died during an attempted smuggling transport.
 - Cause context: exposure to extreme heat inside a closed trailer.
 - Aftermath: federal investigation and criminal charges tied to the smuggling network.
+
+
+## References

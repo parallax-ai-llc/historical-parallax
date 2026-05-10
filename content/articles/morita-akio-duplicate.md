@@ -69,7 +69,7 @@ Akio Morita (1921–1999) was a Japanese business leader who helped build Sony f
 - Akio Morita (canonical biography page in this repository)
 - Sony history (company background)
 
-## References
+
 
 [^1]: Wikipedia, "Morita Akio duplicate" - https://en.wikipedia.org/wiki/Morita_Akio_duplicate
 [^2]: Wikipedia, "Akio Morita" - https://en.wikipedia.org/wiki/Akio_Morita
@@ -84,3 +84,6 @@ Akio Morita (1921–1999) was a Japanese business leader who helped build Sony f
 ## Editorial note
 
 - Treat this file as a duplicate record; improvements should primarily land on the canonical Akio Morita article.
+
+
+## References

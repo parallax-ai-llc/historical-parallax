@@ -24,7 +24,7 @@ Latvian-American celebrity chef who ran New York's popular Pure Food and Wine re
 | 2016 | Arrested at Tennessee motel after ordering Domino's |
 | 2017 | Convicted of fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Sarma Melngailis Bad Vegan" - https://en.wikipedia.org/wiki/Sarma_Melngailis_Bad_Vegan
 
@@ -49,3 +49,6 @@ Short summaries sometimes compress a complex set of claims into a single narrati
 ## Further reading
 
 - Wikipedia entry and the external links/citations for court-case timelines.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1956-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Agricultural biotechnologist", "Plant molecular biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/260116_Kim_Jeong_Kwon_%28%EA%B9%80%EC%A0%95%EA%B6%8C%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Jung-kwon"
 lastUpdated: "2026-02-21"

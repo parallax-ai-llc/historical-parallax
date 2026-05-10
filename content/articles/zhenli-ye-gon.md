@@ -23,7 +23,7 @@ Chinese-Mexican businessman arrested for drug trafficking after $207 million in 
 | 2007 | Arrested in the United States |
 | 2016 | Convicted in the US of drug trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Zhenli Ye Gon" - https://en.wikipedia.org/wiki/Zhenli_Ye_Gon
 
@@ -50,3 +50,6 @@ The case has been cited in discussions of:
 ## Notes
 
 Biographical details and the framing of Ye Gon’s public claims differ across sources, and some accounts emphasize the political context in Mexico during the period of his arrest and prosecution.
+
+
+## References

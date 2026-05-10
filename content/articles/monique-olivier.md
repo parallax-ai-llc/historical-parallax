@@ -57,7 +57,7 @@ Wife of Michel Fourniret who helped him kidnap and murder young women in France.
   - admissions/confessions,
   - findings established at trial.
 
-## References
+
 
 [^1]: Wikipedia, "Monique Olivier" - https://en.wikipedia.org/wiki/Monique_Olivier
 
@@ -72,3 +72,6 @@ Wife of Michel Fourniret who helped him kidnap and murder young women in France.
 - Michel Fourniret
 - Serial homicide investigations
 - Accomplice and conspiracy law (comparative)
+
+
+## References

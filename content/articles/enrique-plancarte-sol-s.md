@@ -22,7 +22,7 @@ Co-founder of the Knights Templar cartel in Michoacán who controlled methamphet
 | 2011 | Co-founded Knights Templar cartel |
 | 2014 | Killed by Mexican marines |
 
-## References
+
 
 [^1]: Wikipedia, "Enrique Plancarte Solís" - https://en.wikipedia.org/wiki/Enrique_Plancarte_Sol%C3%ADs
 
@@ -52,3 +52,6 @@ Co-founder of the Knights Templar cartel in Michoacán who controlled methamphet
 [^2]: Wikipedia, "Knights Templar cartel" - https://en.wikipedia.org/wiki/Knights_Templar_cartel
 [^3]: Wikipedia, "La Familia Michoacana" - https://en.wikipedia.org/wiki/La_Familia_Michoacana
 [^4]: Wikipedia, "Michoacán self-defense forces" - https://en.wikipedia.org/wiki/Michoac%C3%A1n_self-defense_forces
+
+
+## References

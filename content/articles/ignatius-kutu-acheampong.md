@@ -22,7 +22,7 @@ Ghanaian military dictator who seized power and ran a corrupt government enrichi
 | 1972 | Seized power in coup |
 | 1979 | Executed by firing squad |
 
-## References
+
 
 [^1]: Wikipedia, "Ignatius Kutu Acheampong" - https://en.wikipedia.org/wiki/Ignatius_Kutu_Acheampong
 
@@ -59,3 +59,6 @@ Assessments of Acheampong's legacy vary. Some accounts stress economic hardship 
 - Jerry John Rawlings
 - Ghana coups d'état (1970s)
 - Operation Feed Yourself
+
+
+## References

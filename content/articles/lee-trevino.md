@@ -23,7 +23,7 @@ Lee Trevino won six major championships and was known for his quick wit and self
 | 1971 | Won US Open, British Open, and Canadian Open in 20 days |
 | 1975 | Struck by lightning during Western Open |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Trevino" - https://en.wikipedia.org/wiki/Lee_Trevino
 
@@ -51,3 +51,6 @@ Lee Trevino won six major championships and was known for his quick wit and self
 
 - This entry is a high-level overview intended to capture widely reported facts and commonly cited context.
 - For deeper detail, consult the linked references and specialized histories or investigative reports where relevant.
+
+
+## References

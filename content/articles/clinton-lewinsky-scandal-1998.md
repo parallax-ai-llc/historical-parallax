@@ -38,7 +38,7 @@ The impeachment became a partisan war, setting the tone for the brutal divide in
 
 ---
 
-## References
+
 
 - **The Death of American Virtue** (Ken Gormley)
 - **Impeachment: American Crime Story** (TV Series)
@@ -53,3 +53,6 @@ The impeachment became a partisan war, setting the tone for the brutal divide in
 
 Clinton was impeached by the House of Representatives on charges including perjury and obstruction of justice, but **acquitted in the Senate**, allowing him to complete his second term.
 
+
+
+## References

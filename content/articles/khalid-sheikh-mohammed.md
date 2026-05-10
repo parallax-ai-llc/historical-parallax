@@ -5,7 +5,7 @@ birth: "1965-03-01"
 death: "N/A (Imprisoned)"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Khalid_Shaikh_Mohammed_2003_after_capture_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khalid_Sheikh_Mohammed"
 lastUpdated: "2026-02-21"

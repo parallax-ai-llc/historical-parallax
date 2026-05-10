@@ -21,7 +21,7 @@ British-Canadian ISIS fighter Jack Letts stripped of British citizenship.
 |------|-------|
 | 2019 | British citizenship revoked |
 
-## References
+
 
 [^1]: Wikipedia, "Jihadi Jack" - https://en.wikipedia.org/wiki/Jihadi_Jack
 
@@ -59,3 +59,6 @@ This article is primarily notable for the intersection of:
 ## References (Additional)
 
 [^2]: Wikipedia contributors, "Jack Letts" (media nickname and case overview) - https://en.wikipedia.org/wiki/Jihadi_Jack
+
+
+## References

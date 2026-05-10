@@ -22,7 +22,7 @@ Bolivian rancher and land speculator linked to massive illegal deforestation in 
 | 2010 | Organized illegal deforestation |
 | 2019 | Amazon fires intensified; linked to land clearing operations |
 
-## References
+
 
 [^1]: Wikipedia, "Ovidio Roca Sandoval" - https://en.wikipedia.org/wiki/Ovidio_Roca_Sandoval
 
@@ -59,3 +59,6 @@ Common governance tools used to address illegal clearing include satellite-based
 ## Social and community impacts
 
 Large-scale land clearing can affect indigenous territories and local communities by increasing conflict over land, degrading water and forest resources, and changing local fire regimes. These impacts often become part of the broader controversy around agricultural expansion in the region.
+
+
+## References

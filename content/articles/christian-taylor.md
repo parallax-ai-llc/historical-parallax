@@ -23,7 +23,7 @@ Christian Taylor won Olympic triple jump gold at 2012 London and 2016 Rio and tw
 | 2012 | Won Olympic gold at London |
 | 2016 | Won second Olympic gold at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Christian Taylor" - https://en.wikipedia.org/wiki/Christian_Taylor
 
@@ -53,3 +53,6 @@ Christian Taylor won Olympic triple jump gold at 2012 London and 2016 Rio and tw
 - Controversies or critical challenges (if applicable)
 - Later years and reassessment
 - Further reading: biographies, primary documents, or governing-body records (as applicable)
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1922-07-15"
 death: "2018-10-03"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/HD.3F.001_%2811086394836%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leon_Lederman"
 lastUpdated: "2026-02-21"

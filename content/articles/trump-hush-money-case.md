@@ -21,7 +21,7 @@ Donald Trump convicted of 34 felony counts of falsifying business records to con
 |------|-------|
 | 2024 | Convicted on 34 counts |
 
-## References
+
 
 [^1]: Wikipedia, "Trump Hush Money Case" - https://en.wikipedia.org/wiki/Trump_Hush_Money_Case
 
@@ -56,3 +56,6 @@ Donald Trump convicted of 34 felony counts of falsifying business records to con
 
 - Public understanding of the case can change with appeals, further rulings, or additional reporting.
 - This article summarizes the commonly reported framing at a high level and avoids details not consistently established in public primary sources.
+
+
+## References

@@ -23,7 +23,7 @@ Austrian serial killer nurse who led a group of four nurses at Lainz General Hos
 | 1989 | Overheard boasting; investigation launched |
 | 1991 | Convicted of 15 murders, 17 attempts; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Waltraud Wagner" - https://en.wikipedia.org/wiki/Waltraud_Wagner
 
@@ -52,3 +52,6 @@ The case is frequently cited in discussions about:
 - Patient safety and the need for effective monitoring in long-term care wards.
 - Whistleblowing channels and protections for healthcare staff.
 - Hospital governance practices that can detect unusual mortality patterns earlier.
+
+
+## References

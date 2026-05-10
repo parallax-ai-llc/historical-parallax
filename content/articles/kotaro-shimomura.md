@@ -5,7 +5,7 @@ birth: "1870-01-01"
 death: "1940-01-01"
 nationality: "Japanese"
 occupation: ["Seismologist", "Geophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Kotaro_Shimomura.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kotaro_Shimomura"
 lastUpdated: "2026-02-21"

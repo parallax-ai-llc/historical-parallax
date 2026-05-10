@@ -22,7 +22,7 @@ Guerrero drug lord known as 'El Vago' who controlled heroin and opium production
 | 2010 | Controlled heroin production in Guerrero mountains |
 | 2015 | Named as one of Mexico's most wanted |
 
-## References
+
 
 [^1]: Wikipedia, "Evaristo Cruz Sánchez" - https://en.wikipedia.org/wiki/Evaristo_Cruz_S%C3%A1nchez
 
@@ -51,3 +51,6 @@ Guerrero drug lord known as 'El Vago' who controlled heroin and opium production
 ## References (Additional)
 
 [^2]: For broader background on Guerrero’s security situation, see general overviews of organized crime in Mexico and the heroin supply chain discussed in major investigative reporting.
+
+
+## References

@@ -22,7 +22,7 @@ Japanese general convicted for atrocities committed during the Burma campaign in
 | 1944 | Commanded Japanese forces in Burma |
 | 1948 | Executed as war criminal |
 
-## References
+
 
 [^1]: Wikipedia, "Heitarō Kimura" - https://en.wikipedia.org/wiki/Heitar%C5%8D_Kimura
 
@@ -65,3 +65,6 @@ Japanese general convicted for atrocities committed during the Burma campaign in
 
 - Kimura’s prosecution is often cited in teaching materials and summaries about the Tokyo Trials as an example of how responsibility was attributed to field commanders.
 - The case remains part of broader debates on the consistency of postwar justice and how tribunals balanced individual culpability against the scale of systemic violence.
+
+
+## References

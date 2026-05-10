@@ -24,7 +24,7 @@ Du Shi was a Han Dynasty Chinese government official and engineer who in 31 AD i
 | 40 | Technology spread across China |
 | 100 | Approximate date of death |
 
-## References
+
 
 [^1]: Wikipedia, "Du Shi" - https://en.wikipedia.org/wiki/Du_Shi
 
@@ -49,3 +49,6 @@ The broader significance of the device is less about one machine and more about 
 ## Legacy in the History of Technology
 
 Accounts of Du Shi’s bellows appear in discussions of the long arc of pre-modern engineering in China and the development of water-powered machinery. Even where details are debated by historians, the story functions as a canonical illustration of early mechanization in iron production.
+
+
+## References

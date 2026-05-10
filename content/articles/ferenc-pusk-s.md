@@ -23,7 +23,7 @@ Ferenc Puskás scored 84 goals in 85 internationals and led Hungary's 'Mighty Ma
 | 1960 | Scored four in European Cup final |
 | 2006 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Ferenc Puskás" - https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s
 
@@ -51,3 +51,6 @@ His name is attached to major commemorations of football achievement, including:
 ## References (additional)
 
 [^2]: FIFA, "The FIFA Puskás Award" - https://www.fifa.com/
+
+
+## References

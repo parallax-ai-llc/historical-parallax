@@ -5,7 +5,7 @@ birth: "1941-10-10"
 death: "1995-11-10"
 nationality: "Nigeria"
 occupation: ["Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/2a/Ken_Saro-Wiwa.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ken_Saro-Wiwa"
 lastUpdated: "2026-02-26"

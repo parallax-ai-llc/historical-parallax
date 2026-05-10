@@ -23,7 +23,7 @@ Major 1985-1987 federal trial that exposed a $1.65 billion heroin trafficking op
 | 1985 | Trial began, lasting 17 months |
 | 1987 | 18 convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Pizza Connection Trial" - https://en.wikipedia.org/wiki/Pizza_Connection_Trial
 
@@ -57,3 +57,6 @@ Popular summaries tend to compress many related investigations into a single sto
 
 [^2]: U.S. court reporting and appellate summaries connected to the trial (as cited by secondary sources).
 [^3]: Historical reporting on U.S.–Italy anti-Mafia cooperation and transnational narcotics investigations in the 1980s.
+
+
+## References

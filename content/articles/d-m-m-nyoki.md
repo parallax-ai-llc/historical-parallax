@@ -21,7 +21,7 @@ Hungarian bandit leader who terrorized the countryside during the Ottoman occupa
 |------|-------|
 | 1600 | Led bandit raids in Ottoman-occupied Hungary |
 
-## References
+
 
 [^1]: Wikipedia, "Ádám Mányoki" - https://en.wikipedia.org/wiki/%C3%81d%C3%A1m_M%C3%A1nyoki
 
@@ -69,3 +69,6 @@ To preserve the existing text while adding factual context, the sections below s
 - Resigned in 1753 over unpaid salary.[^1]
 - Spent money on **alchemy** during his final years (described as a period "mania" in the source).[^1]
 - Died impoverished in Dresden and was buried with help from friends.[^1]
+
+
+## References

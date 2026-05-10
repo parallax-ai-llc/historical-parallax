@@ -23,7 +23,7 @@ Alfredo Di Stéfano led Real Madrid to five consecutive European Cups (1956-1960
 | 1960 | Scored hat-trick in European Cup final |
 | 2014 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Alfredo Di Stéfano" - https://en.wikipedia.org/wiki/Alfredo_Di_St%C3%A9fano
 
@@ -50,3 +50,6 @@ After retirement he remained involved in football, including work in management/
 ## References (additional)
 
 [^2]: Real Madrid’s European Cup era and Di Stéfano’s match record summaries, via Wikipedia and linked sources.
+
+
+## References

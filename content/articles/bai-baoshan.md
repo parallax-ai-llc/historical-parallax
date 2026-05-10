@@ -23,7 +23,7 @@ Chinese spree killer who murdered 15 people and robbed military armories in Beij
 | 1998 | Arrested in September |
 | 2001 | Executed by shooting |
 
-## References
+
 
 [^1]: Wikipedia, "Bai Baoshan" - https://en.wikipedia.org/wiki/Bai_Baoshan
 
@@ -48,3 +48,6 @@ The case is often referenced as an example of intensive manhunt-style policing a
 ## Public Impact
 
 High-casualty violent crime cases in major cities such as Beijing tend to receive significant attention and can influence public discussion about policing, gun control enforcement, and the communication of risk during active investigations.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1754-07-19"
 death: "1833-01-02"
 nationality: "Russian"
 occupation: ["Monk", "Mystic", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Seraphim_of_Sarov_%28after_1903%2C_priv.coll%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seraphim_of_Sarov"
 lastUpdated: "2026-02-21"

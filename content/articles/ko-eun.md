@@ -5,7 +5,7 @@ birth: "1933-08-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Poet", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sv%C4%9Bt_knihy_2011_-_Ko_Un.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ko_Eun"
 lastUpdated: "2026-02-21"

@@ -21,7 +21,7 @@ Jihadist groups including JNIM and ISGS have killed thousands across Mali, Burki
 |------|-------|
 | 2012 | Crisis began in northern Mali |
 
-## References
+
 
 [^1]: Wikipedia, "Sahel Jihadist Crisis" - https://en.wikipedia.org/wiki/Sahel_Jihadist_Crisis
 
@@ -69,3 +69,6 @@ Jihadist groups including JNIM and ISGS have killed thousands across Mali, Burki
 ## References (Additional)
 
 [^2]: Wikipedia overview sections on actors, timeline, and international responses - https://en.wikipedia.org/wiki/Sahel_Jihadist_Crisis
+
+
+## References

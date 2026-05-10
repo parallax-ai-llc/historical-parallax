@@ -21,7 +21,7 @@ Indonesian timber baron convicted of massive illegal logging that destroyed Suma
 |------|-------|
 | 2008 | Convicted of illegal logging |
 
-## References
+
 
 [^1]: Wikipedia, "Adelin Lis" - https://en.wikipedia.org/wiki/Adelin_Lis
 
@@ -58,3 +58,6 @@ Indonesian timber baron convicted of massive illegal logging that destroyed Suma
 
 - Illegal logging in Indonesia
 - Deforestation in Indonesia
+
+
+## References

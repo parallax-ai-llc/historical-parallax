@@ -5,7 +5,7 @@ birth: "1943-01-07"
 death: "Unknown"
 nationality: "Libya"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Libyan_General_Khalifa_Haftar_in_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khalifa_Haftar"
 lastUpdated: "2026-02-26"

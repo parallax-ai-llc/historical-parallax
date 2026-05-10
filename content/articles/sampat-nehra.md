@@ -21,7 +21,7 @@ Indian gangster and associate of Lawrence Bishnoi gang involved in extortion and
 |------|-------|
 | 2018 | Arrested for criminal conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Sampat Nehra" - https://en.wikipedia.org/wiki/Sampat_Nehra
 
@@ -57,3 +57,6 @@ If additional reliable sources are added later (e.g., court orders, official pre
 
 - Use careful attribution when writing about ongoing investigations to avoid presenting allegations as settled fact.
 - For expansions, prefer primary sources (court filings, verified police press releases) over secondary summaries.
+
+
+## References

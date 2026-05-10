@@ -5,7 +5,7 @@ birth: "1919-10-06"
 death: "1995-01-02"
 nationality: "Somalia"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Official_portrait_of_Major_General_Siad_Barre.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siad_Barre"
 lastUpdated: "2026-02-26"

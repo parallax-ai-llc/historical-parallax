@@ -22,7 +22,7 @@ Ed Stafford became the first person to walk the entire length of the Amazon Rive
 | 2008 | Began walking the Amazon River |
 | 2010 | Completed Amazon walk after 860 days |
 
-## References
+
 
 [^1]: Wikipedia, "Ed Stafford" - https://en.wikipedia.org/wiki/Ed_Stafford
 
@@ -50,3 +50,6 @@ Ed Stafford became the first person to walk the entire length of the Amazon Rive
 
 - Amazon River
 - Survival television
+
+
+## References

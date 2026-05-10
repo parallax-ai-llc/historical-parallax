@@ -22,7 +22,7 @@ Deadly stampede during the Hajj pilgrimage in Mina near Mecca on September 24, 2
 | 2015 | Stampede in Mina |
 | 2015 | Over 2,400 killed |
 
-## References
+
 
 [^1]: Wikipedia, "Mecca Stampede 2015" - https://en.wikipedia.org/wiki/Mecca_Stampede_2015
 
@@ -49,3 +49,6 @@ Deadly stampede during the Hajj pilgrimage in Mina near Mecca on September 24, 2
 - Hajj crowd management and safety reforms
 - Crowd crush dynamics and mass-gathering safety
 - Mina (Saudi Arabia) and the Jamarat area
+
+
+## References

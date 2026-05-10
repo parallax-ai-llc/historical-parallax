@@ -5,7 +5,7 @@ birth: "1997-01-03"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Short Track Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Shim_Suk-Hee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shim_Suk-hee"
 lastUpdated: "2026-02-26"

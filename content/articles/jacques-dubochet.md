@@ -23,7 +23,7 @@ Jacques Dubochet is a Swiss biophysicist who shared the 2017 Nobel Prize in Chem
 | 1984 | Developed vitrification |
 | 2017 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Jacques Dubochet" - https://en.wikipedia.org/wiki/Jacques_Dubochet
 
@@ -51,3 +51,6 @@ Dubochet has also been noted for public-facing engagement and advocacy on scient
 
 - Cryo-electron microscopy
 - Structural biology
+
+
+## References

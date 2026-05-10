@@ -23,7 +23,7 @@ Chinese former railway minister convicted of taking $10.5 million in bribes and 
 | 2011 | Dismissed for corruption |
 | 2013 | Convicted; death sentence with 2-year reprieve |
 
-## References
+
 
 [^1]: Wikipedia, "Liu Zhijun" - https://en.wikipedia.org/wiki/Liu_Zhijun
 
@@ -54,3 +54,6 @@ It also remains connected in public memory to debates about safety, speed of con
 ## Notes
 
 This entry focuses on the headline arc: leadership role during HSR expansion, conviction for bribery/corruption, and a severe but suspended death sentence.
+
+
+## References

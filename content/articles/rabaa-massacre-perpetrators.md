@@ -21,7 +21,7 @@ Egyptian security forces killed over 1,000 pro-Morsi protesters in the Rabaa al-
 |------|-------|
 | 2013 | Killed 1,000+ in single-day massacre |
 
-## References
+
 
 [^1]: Wikipedia, "Rabaa Massacre Perpetrators" - https://en.wikipedia.org/wiki/Rabaa_Massacre_Perpetrators
 
@@ -55,3 +55,6 @@ Commonly cited participants include:
 - 2013 Egyptian coup d'état and subsequent protests
 
 [^2]: Human Rights Watch, "All According to Plan: The Rab'a Massacre and Mass Killings of Protesters in Egypt" (2014) - https://www.hrw.org/report/2014/08/12/all-according-plan/raba-massacre-and-mass-killings-protesters-egypt
+
+
+## References

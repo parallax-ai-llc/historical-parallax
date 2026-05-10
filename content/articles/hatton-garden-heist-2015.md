@@ -20,7 +20,7 @@ The Hatton Garden safe deposit burglary was carried out over Easter weekend 2015
 |------|-------|
 | 2015-04-02 | Event occurred |
 
-## References
+
 [^1]: Historical and journalistic sources.
 
 ## Background
@@ -58,3 +58,6 @@ The Hatton Garden safe deposit burglary was carried out over Easter weekend 2015
 - **When**: Easter weekend 2015
 - **Loss estimate**: ~£14 million (public reporting)
 - **Outcome**: Multiple convictions; partial recovery reported
+
+
+## References

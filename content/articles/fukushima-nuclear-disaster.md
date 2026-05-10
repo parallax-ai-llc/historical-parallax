@@ -23,7 +23,7 @@ Nuclear meltdown at the Fukushima Daiichi plant on March 11, 2011 triggered by e
 | 2011 | 150,000 evacuated |
 | 2023 | Treated water release began |
 
-## References
+
 
 [^1]: Wikipedia, "Fukushima Nuclear Disaster" - https://en.wikipedia.org/wiki/Fukushima_Nuclear_Disaster
 
@@ -48,3 +48,6 @@ Authorities issued evacuation orders for surrounding communities, with displacem
 ## Notes on Treated Water
 
 A major long-running issue has been the management of water used for cooling and groundwater ingress. Water treatment systems remove many radionuclides, while tritium remains difficult to separate at scale. Releases of treated water have been framed by operators and regulators as meeting discharge standards, while also drawing public concern, regional political debate, and scrutiny by environmental groups.
+
+
+## References

@@ -24,7 +24,7 @@ Owen Richardson won the 1928 Nobel Prize for discovering Richardson law of therm
 | 1928 | Nobel Prize |
 | 1959 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Owen Richardson" - https://en.wikipedia.org/wiki/Owen_Richardson
 
@@ -49,3 +49,6 @@ Richardson is best known for establishing a quantitative relationship between te
 - Wikipedia article linked above for a detailed chronology and additional references.
 - Biographical dictionaries or subject-specific histories (physics, sport, art history, cybersecurity, or philosophy) for broader context.
 
+
+
+## References

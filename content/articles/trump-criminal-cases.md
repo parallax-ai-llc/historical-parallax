@@ -22,7 +22,7 @@ Donald Trump became the first US president criminally indicted, facing 91 felony
 | 2023 | First presidential indictment |
 | 2024 | Convicted on 34 felony counts |
 
-## References
+
 
 [^1]: Wikipedia, "Trump Criminal Cases" - https://en.wikipedia.org/wiki/Trump_Criminal_Cases
 
@@ -52,3 +52,6 @@ Donald Trump became the first US president criminally indicted, facing 91 felony
 
 - “Indictment,” “arraignment,” “trial,” “conviction,” and “sentencing” are distinct procedural steps and occurred at different times across jurisdictions.
 - The number of charges and their classification (felony vs. misdemeanor) varied by case and could change due to superseding indictments and court rulings.
+
+
+## References

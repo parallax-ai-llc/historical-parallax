@@ -21,7 +21,7 @@ Duplicate — see Nathan Mayer Rothschild.
 |------|-------|
 | 1777 | See Nathan Mayer Rothschild entry |
 
-## References
+
 
 [^1]: Wikipedia, "Nathan Rothschild duplicate" - https://en.wikipedia.org/wiki/Nathan_Rothschild_duplicate
 
@@ -70,3 +70,6 @@ When maintaining the repository:
 ## Additional References
 
 [^2]: Encyclopaedia Britannica, "Nathan Mayer Rothschild" — https://www.britannica.com/biography/Nathan-Mayer-Rothschild
+
+
+## References

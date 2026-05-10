@@ -21,7 +21,7 @@ Slovak Robin Hood figure who robbed from the rich as a highway robber before bei
 |------|-------|
 | 1713 | Executed by hanging on a hook through his ribs |
 
-## References
+
 
 [^1]: Wikipedia, "Juraj Jánošík" - https://en.wikipedia.org/wiki/Juraj_J%C3%A1no%C5%A1%C3%ADk
 
@@ -63,3 +63,6 @@ While Juraj Jánošík is rooted in real events, the most famous "Robin Hood" fr
 - **Lifespan:** 1688–1713
 - **Known for:** Outlaw figure in Slovak folklore
 - **Core narrative arc:** Bandit leader → capture → execution → legend
+
+
+## References

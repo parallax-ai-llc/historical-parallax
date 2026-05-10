@@ -23,7 +23,7 @@ Raiden Tameemon was one of the greatest sumo wrestlers in history with a 254-10 
 | 1810 | Retired with 254-10 record |
 | 1810 | Never promoted to yokozuna despite dominance |
 
-## References
+
 
 [^1]: Wikipedia, "Sumo Hamanosuke" - https://en.wikipedia.org/wiki/Sumo_Hamanosuke
 
@@ -48,3 +48,6 @@ Accounts describing his dominance emphasize physical strength and an ability to 
 ### Note on Naming
 
 Sumo wrestlers may be associated with ring names (shikona) and other names across different stages of life. Sources may differ in how they present names in English-language summaries.
+
+
+## References

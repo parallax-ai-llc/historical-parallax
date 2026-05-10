@@ -24,7 +24,7 @@ Nigerian socialite known as Hushpuppi who ran a global online fraud network that
 | 2022 | Pleaded guilty to conspiracy to launder money |
 | 2022 | Sentenced to 11 years in US federal prison |
 
-## References
+
 
 [^1]: Wikipedia, "Raymond Abbas" - https://en.wikipedia.org/wiki/Raymond_Abbas
 
@@ -49,3 +49,6 @@ Reporting summarized on Wikipedia ties the criminal case to business email compr
 Wikipedia’s entry summarizes the allegations, victim profiles, and sentencing details used by U.S. prosecutors and the court.
 
 Related topics include business email compromise scams and money-laundering typologies.
+
+
+## References

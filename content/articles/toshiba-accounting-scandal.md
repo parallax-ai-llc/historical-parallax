@@ -23,7 +23,7 @@ Japanese electronics giant Toshiba overstated profits by $1.2 billion over seven
 | 2015 | CEO resigned |
 | 2017 | Toshiba sold Westinghouse |
 
-## References
+
 
 [^1]: Wikipedia, "Toshiba Accounting Scandal" - https://en.wikipedia.org/wiki/Toshiba_Accounting_Scandal
 
@@ -48,3 +48,6 @@ Japanese electronics giant Toshiba overstated profits by $1.2 billion over seven
 
 - The Toshiba case is often referenced in discussions of Japanese corporate governance reform, board independence, and the importance of robust audit functions.
 - It also serves as a cautionary example of how performance metrics and hierarchical decision-making can distort financial reporting incentives.
+
+
+## References

@@ -23,7 +23,7 @@ Criminal gang that stole £26 million in gold bullion, diamonds, and cash from t
 | 1984 | Ringleaders convicted |
 | 1990 | Multiple murders linked to gold laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Brink's-Mat Robbery Gang" - https://en.wikipedia.org/wiki/Brink's-Mat_Robbery_Gang
 
@@ -56,3 +56,6 @@ The Brink's-Mat case has remained a reference point in discussions of British or
 - Proceeds of crime
 - Money laundering
 - Gold bullion
+
+
+## References

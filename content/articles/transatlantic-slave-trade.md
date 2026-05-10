@@ -23,7 +23,7 @@ Forced transportation of 12.5 million Africans to the Americas between the 16th 
 | 1807 | Britain abolished slave trade |
 | 1865 | US abolished slavery |
 
-## References
+
 
 [^1]: Wikipedia, "Transatlantic Slave Trade" - https://en.wikipedia.org/wiki/Transatlantic_Slave_Trade
 
@@ -51,3 +51,6 @@ Forced transportation of 12.5 million Africans to the Americas between the 16th 
 ## Related Topics
 
 - Abolitionism
+
+
+## References

@@ -23,7 +23,7 @@ Tatyana Lebedeva won Olympic silver in triple jump at 2004 and 2008, plus long j
 | 2004 | Won Olympic silver at Athens |
 | 2007 | Won World titles in both events |
 
-## References
+
 
 [^1]: Wikipedia, "Tatyana Lebedeva" - https://en.wikipedia.org/wiki/Tatyana_Lebedeva
 
@@ -49,3 +49,6 @@ Lebedeva is often cited among the most decorated Russian women jumpers of her er
 After her peak competitive years, she remained a recognizable figure in Russian athletics and public life. Some sources note her involvement in sports administration and politics, reflecting a common pathway for prominent Olympic athletes in Russia.
 
 This post-competition visibility has helped keep her name associated with Russian track and field beyond her medal years.
+
+
+## References

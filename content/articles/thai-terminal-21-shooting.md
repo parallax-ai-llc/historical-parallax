@@ -21,7 +21,7 @@ Thai soldier stole weapons from his base and killed 29 people in a 17-hour shoot
 |------|-------|
 | 2020 | 29 killed in mall shooting |
 
-## References
+
 
 [^1]: Wikipedia, "Thai Terminal 21 Shooting" - https://en.wikipedia.org/wiki/Thai_Terminal_21_Shooting
 
@@ -50,3 +50,6 @@ Thai soldier stole weapons from his base and killed 29 people in a 17-hour shoot
 ## Further Reading
 
 [^2]: Reuters reporting on the Nakhon Ratchasima shooting (background and aftermath) - https://www.reuters.com/
+
+
+## References

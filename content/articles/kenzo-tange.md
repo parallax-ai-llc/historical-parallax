@@ -5,7 +5,7 @@ birth: "1913-09-04"
 death: "2005-03-22"
 nationality: "Japanese"
 occupation: ["Architect", "Urban planner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/%E4%B8%B9%E4%B8%8B%E5%81%A5%E4%B8%89%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88_ca.1953_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenzo_Tange"
 lastUpdated: "2026-02-21"

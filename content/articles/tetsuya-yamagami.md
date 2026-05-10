@@ -22,7 +22,7 @@ Japanese man who assassinated former PM Shinzo Abe on July 8, 2022, with a homem
 | 2022 | Assassinated Shinzo Abe in Nara |
 | 2024 | Trial began in Nara District Court |
 
-## References
+
 
 [^1]: Wikipedia, "Tetsuya Yamagami" - https://en.wikipedia.org/wiki/Tetsuya_Yamagami
 
@@ -53,3 +53,6 @@ Japanese man who assassinated former PM Shinzo Abe on July 8, 2022, with a homem
 ## Notes
 
 This article summarizes widely reported, high-level aspects of the case. Specific allegations and legal findings should be treated as provisional until confirmed in court records.
+
+
+## References

@@ -22,7 +22,7 @@ Campaign of mass political violence by Ethiopia's Derg military junta that kille
 | 1977 | Derg launched Red Terror campaign |
 | 1978 | Mass executions and torture reached peak |
 
-## References
+
 
 [^1]: Wikipedia, "Ethiopian Red Terror" - https://en.wikipedia.org/wiki/Ethiopian_Red_Terror
 
@@ -55,3 +55,6 @@ The Ethiopian Red Terror is often discussed in comparative studies of state repr
 - Revolutionary regimes can escalate coercion during perceived existential threats.
 - Mass violence can be decentralized through local structures and informants.
 - Long-term social trauma can persist even after political transitions.
+
+
+## References

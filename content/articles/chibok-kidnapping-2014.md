@@ -21,7 +21,7 @@ Boko Haram kidnapped 276 schoolgirls from their dormitory in Chibok, northeaster
 |------|-------|
 | 2014 | 276 girls kidnapped |
 
-## References
+
 
 [^1]: Wikipedia, "Chibok Kidnapping 2014" - https://en.wikipedia.org/wiki/Chibok_Kidnapping_2014
 
@@ -60,3 +60,6 @@ Boko Haram kidnapped 276 schoolgirls from their dormitory in Chibok, northeaster
 
 [^2]: BBC News, coverage and explainer articles on the Chibok schoolgirls kidnapping and subsequent developments (see BBC topic pages and archives).
 [^3]: Amnesty International, reports on Boko Haram abuses and the conflict in northeastern Nigeria (contextual reporting).
+
+
+## References

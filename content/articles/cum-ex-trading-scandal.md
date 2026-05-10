@@ -22,7 +22,7 @@ European banks used complex share trading around dividend dates to claim multipl
 | 2017 | Scandal exposed |
 | 2022 | First major convictions |
 
-## References
+
 
 [^1]: Wikipedia, "Cum-Ex Trading Scandal" - https://en.wikipedia.org/wiki/Cum-Ex_Trading_Scandal
 
@@ -48,3 +48,6 @@ Authorities pursued criminal cases, civil recovery efforts, and regulatory scrut
 ## Policy and Regulatory Responses
 
 Governments revised tax rules, settlement procedures, and reporting requirements to close loopholes and reduce ambiguity in share ownership and withholding documentation. The episode is commonly referenced as a case study in how financial market plumbing and legal formalities can be exploited at scale.
+
+
+## References

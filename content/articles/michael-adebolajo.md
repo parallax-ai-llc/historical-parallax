@@ -22,7 +22,7 @@ British-Nigerian Islamist who, with Michael Adebowale, murdered British soldier 
 | 2013 | Murdered Lee Rigby in Woolwich |
 | 2014 | Convicted; sentenced to whole life order |
 
-## References
+
 
 [^1]: Wikipedia, "Michael Adebolajo" - https://en.wikipedia.org/wiki/Michael_Adebolajo
 
@@ -49,3 +49,6 @@ The case has been used as an example in debates on:
 ## Notes
 
 This article is a brief high-level summary; comprehensive timelines and legal details are typically found in court reporting and official statements.
+
+
+## References

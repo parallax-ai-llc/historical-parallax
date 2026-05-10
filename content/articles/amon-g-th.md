@@ -23,7 +23,7 @@ Austrian SS officer who was the commandant of the Kraków-Płaszów concentratio
 | 1944 | Oversaw liquidation of Kraków ghetto |
 | 1946 | Convicted of war crimes and hanged in Kraków |
 
-## References
+
 
 [^1]: Wikipedia, "Amon Göth" - https://en.wikipedia.org/wiki/Amon_G%C3%B6th
 ## Early Life and SS Career
@@ -48,3 +48,6 @@ After the war, Göth was tried by Polish authorities, convicted for war crimes, 
 - **Primary source**: the linked Wikipedia article in References.
 - **Article type**: short biographical overview intended for high-level context.
 - (Additional detail preserved at high level.)
+
+
+## References

@@ -21,7 +21,7 @@ US Army Sgt. Robert Bales murdered 16 Afghan civilians including 9 children in a
 |------|-------|
 | 2012 | 16 Afghan civilians murdered |
 
-## References
+
 
 [^1]: Wikipedia, "Kandahar Massacre" - https://en.wikipedia.org/wiki/Kandahar_Massacre
 
@@ -57,3 +57,6 @@ US Army Sgt. Robert Bales murdered 16 Afghan civilians including 9 children in a
 
 - The Kandahar massacre is remembered primarily as a civilian mass killing and a major trust rupture between local communities and coalition forces.
 - It is often discussed alongside other wartime civilian-casualty incidents as evidence of the human costs of prolonged conflict.
+
+
+## References

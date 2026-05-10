@@ -3,6 +3,7 @@ name: "Satoshi Kon"
 birth: "1963-10-12"
 nationality: "Japanese"
 occupation: ["Anime Director", "Animator", "Manga Artist"]
+image: "https://upload.wikimedia.org/wikipedia/en/4/44/Cropped_Photo_of_Satoshi_Kon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Satoshi_Kon"
 lastUpdated: "2026-03-12"

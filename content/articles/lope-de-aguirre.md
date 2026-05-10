@@ -49,10 +49,13 @@ Spanish conquistador who led a murderous rebellion during an Amazon expedition, 
 - He has been portrayed as a symbol of the brutal extremes of conquest-era violence and of rebellion within the Spanish imperial project.
 - Later literature and film sometimes romanticize or mythologize him, but the core historical record is built from colonial chronicles and official reports.
 
-## References
+
 
 [^1]: Wikipedia, "Lope de Aguirre" - https://en.wikipedia.org/wiki/Lope_de_Aguirre
 
 ## Notes
 
 Accounts of exact casualty numbers and sequences differ across chronicles; this entry focuses on widely repeated high-level events.
+
+
+## References

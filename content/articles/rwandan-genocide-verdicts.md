@@ -24,7 +24,7 @@ The International Criminal Tribunal for Rwanda convicted 61 individuals for the 
 | 1998 | Akayesu first genocide conviction by international tribunal |
 | 2015 | ICTR closed |
 
-## References
+
 
 [^1]: Wikipedia, "Rwandan Genocide Verdicts" - https://en.wikipedia.org/wiki/Rwandan_Genocide_Verdicts
 
@@ -50,3 +50,6 @@ After the ICTR formally closed, residual functions (such as enforcement of sente
 ## Notes on Figures and Counting
 
 Reported death tolls and the number of convictions are commonly given as rounded figures in summaries; exact totals can vary by definition, time window, and whether later appeals or procedural outcomes are included.
+
+
+## References

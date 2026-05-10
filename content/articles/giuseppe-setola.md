@@ -19,7 +19,7 @@ Giuseppe Setola was a Camorra hitman responsible for a wave of murders in Casert
 |------|-------|
 | 1970 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -56,3 +56,6 @@ Giuseppe Setola was a Camorra hitman responsible for a wave of murders in Casert
 | 2008 | Alleged involvement in the Castel Volturno massacre (six killed) |
 | 2009 | Captured after a manhunt; taken into custody |
 | 2010s | Convicted in multiple proceedings; sentenced to life imprisonment |
+
+
+## References

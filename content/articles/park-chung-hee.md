@@ -23,7 +23,7 @@ South Korean military dictator who ruled for 18 years through authoritarianism a
 | 1972 | Declared martial law and created Yushin Constitution |
 | 1979 | Assassinated by KCIA director Kim Jae-gyu |
 
-## References
+
 
 [^1]: Wikipedia, "Park Chung-hee" - https://en.wikipedia.org/wiki/Park_Chung-hee
 
@@ -50,3 +50,6 @@ In scholarship and public debate, Park's era is often analyzed through two overl
 ## Further Reading
 
 Standard Korean political history texts and economic development histories provide fuller treatment of the Third Republic, Yushin system, and the period's institutions.
+
+
+## References

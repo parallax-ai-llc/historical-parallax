@@ -21,7 +21,7 @@ MQM party leader acquitted of inciting violence in Karachi from his London exile
 |------|-------|
 | 2022 | Acquitted of incitement charges |
 
-## References
+
 
 [^1]: Wikipedia, "Altaf Hussain" - https://en.wikipedia.org/wiki/Altaf_Hussain
 
@@ -63,3 +63,6 @@ MQM party leader acquitted of inciting violence in Karachi from his London exile
 ## Additional References
 
 [^2]: Encyclopaedia Britannica (biographical overview where available) or major Pakistani/UK press coverage for case timelines (verify against court records): https://www.britannica.com/ (search “Altaf Hussain MQM”)
+
+
+## References

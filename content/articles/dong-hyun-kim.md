@@ -23,7 +23,7 @@ Dong Hyun Kim (Im Dong-hyun) set multiple archery world records despite being le
 | 2008 | Won team gold at Beijing |
 | 2012 | Set world records at London Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Dong Hyun Kim" - https://en.wikipedia.org/wiki/Dong_Hyun_Kim
 
@@ -48,3 +48,6 @@ Beyond medals, his story is often used to illustrate the role of technique, repe
 - Archery at the Summer Olympics
 - Recurve archery
 - South Korea in international archery
+
+
+## References

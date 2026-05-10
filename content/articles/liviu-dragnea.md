@@ -21,7 +21,7 @@ Romanian political leader convicted of instigation to abuse of office and electi
 |------|-------|
 | 2019 | Convicted of corruption and jailed |
 
-## References
+
 
 [^1]: Wikipedia, "Liviu Dragnea" - https://en.wikipedia.org/wiki/Liviu_Dragnea
 
@@ -57,3 +57,6 @@ Romanian political leader convicted of instigation to abuse of office and electi
 ## Further Reading
 
 - Wikipedia overview and citations provide a starting point for dates, offices held, and case details.
+
+
+## References

@@ -22,7 +22,7 @@ ISIS-inspired terrorists drove a van down Las Ramblas in Barcelona killing 16 pe
 | 2017 | Van attack on Las Ramblas killed 16 people |
 | 2017 | Police killed five attackers in Cambrils |
 
-## References
+
 
 [^1]: Wikipedia, "Barcelona Van Attack" - https://en.wikipedia.org/wiki/Barcelona_Van_Attack
 
@@ -55,3 +55,6 @@ The case is often discussed in relation to:
 ### Source caution
 
 Early reports after terror incidents can change as investigations confirm identities, exact timelines, and organizational links. Later judicial findings and official police reports generally provide the most stable narrative.
+
+
+## References

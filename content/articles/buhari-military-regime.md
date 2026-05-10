@@ -22,7 +22,7 @@ Muhammadu Buhari's military government imprisoned journalists and politicians, i
 | 1983 | Seized power in coup |
 | 1985 | Overthrown by Babangida |
 
-## References
+
 
 [^1]: Wikipedia, "Buhari Military Regime" - https://en.wikipedia.org/wiki/Buhari_Military_Regime
 
@@ -63,3 +63,6 @@ Muhammadu Buhari's military government imprisoned journalists and politicians, i
 
 - **Competing narratives:** Some accounts emphasize anti-corruption and “discipline” goals, while others foreground **detention without trial**, limits on political participation, and constraints on press freedom.
 - **Legacy comparisons:** Buhari’s later democratic presidency often prompted retrospective comparisons, making the 1983–1985 military period a frequent reference point in Nigerian political commentary.
+
+
+## References

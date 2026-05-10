@@ -22,7 +22,7 @@ Rwandan prefect of Kibuye convicted of genocide for organizing the massacre of t
 | 1994 | Organized massacres of Tutsi refugees at Bisesero hills |
 | 2023 | Captured in South Africa after 22 years on the run |
 
-## References
+
 
 [^1]: Wikipedia, "Clément Kayishema" - https://en.wikipedia.org/wiki/Cl%C3%A9ment_Kayishema
 
@@ -48,3 +48,6 @@ The Kayishema case sits within wider efforts to document the genocide, prosecute
 - Bisesero massacres
 - Post‑conflict justice and extradition
 - Genocide documentation and survivor testimony
+
+
+## References

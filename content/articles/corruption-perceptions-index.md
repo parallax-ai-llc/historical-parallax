@@ -21,7 +21,7 @@ Transparency International's annual ranking measures perceived corruption worldw
 |------|-------|
 | 1995 | First CPI published |
 
-## References
+
 
 [^1]: Wikipedia, "Corruption Perceptions Index" - https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
 
@@ -76,3 +76,6 @@ Transparency International's annual ranking measures perceived corruption worldw
 ## References (Additional)
 
 [^2]: Transparency International, CPI landing pages and annual reports (see current year CPI publication hub) - https://www.transparency.org/en/cpi
+
+
+## References

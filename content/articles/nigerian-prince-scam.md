@@ -23,7 +23,7 @@ Advance fee fraud scheme originating from Nigeria where victims are promised lar
 | 2000s | Became worldwide phenomenon |
 | 2019 | FBI arrested 80 in major crackdown |
 
-## References
+
 
 [^1]: Wikipedia, "Nigerian Prince Scam" - https://en.wikipedia.org/wiki/Nigerian_Prince_Scam
 
@@ -55,3 +55,6 @@ Law-enforcement agencies worldwide investigate advance-fee fraud, sometimes thro
 ## Related Topics
 
 Advance-fee fraud; social engineering; phishing; business email compromise (BEC); online scams.
+
+
+## References

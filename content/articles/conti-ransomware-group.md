@@ -23,7 +23,7 @@ Russian ransomware gang that extorted hundreds of millions of dollars from hospi
 | 2021 | Attacked Irish health service |
 | 2022 | Disbanded after internal leaks |
 
-## References
+
 
 [^1]: Wikipedia, "Conti Ransomware Group" - https://en.wikipedia.org/wiki/Conti_Ransomware_Group
 
@@ -52,3 +52,5 @@ Russian ransomware gang that extorted hundreds of millions of dollars from hospi
 ## References
 
 [^2]: Government advisories and cybersecurity vendor reporting on Conti tradecraft, victims, and the 2022 leaks.
+
+

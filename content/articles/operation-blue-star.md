@@ -23,7 +23,7 @@ Indian military operation to remove Sikh militants from the Golden Temple in Amr
 | 1984 | Over 500 killed |
 | 1984 | Led to Indira Gandhi assassination |
 
-## References
+
 
 [^1]: Wikipedia, "Operation Blue Star" - https://en.wikipedia.org/wiki/Operation_Blue_Star
 
@@ -51,3 +51,6 @@ Indian military operation to remove Sikh militants from the Golden Temple in Amr
 ## Notes on Sources
 
 This article provides a concise overview. For detailed timelines, orders of battle, and competing casualty estimates, consult the referenced Wikipedia article and the sources it cites.
+
+
+## References

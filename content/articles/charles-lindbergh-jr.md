@@ -24,7 +24,7 @@ Toddler son of aviator Charles Lindbergh who was kidnapped from his crib in 1932
 | 1935 | Bruno Hauptmann convicted of kidnapping and murder |
 | 1936 | Hauptmann executed |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Lindbergh Jr." - https://en.wikipedia.org/wiki/Charles_Lindbergh_Jr.
 
@@ -51,3 +51,6 @@ Toddler son of aviator Charles Lindbergh who was kidnapped from his crib in 1932
 ## See also
 
 - Federal Kidnapping Act (1932)
+
+
+## References

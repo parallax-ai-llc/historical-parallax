@@ -41,10 +41,13 @@ Sun was detained in late 2020 alongside relatives and associates, with reporting
 
 Observers frequently framed the case as a signal about the risks faced by outspoken private business figures in China, especially when business disputes intersect with local authorities and politically sensitive advocacy.
 
-## References
+
 
 [^1]: Wikipedia, "Sun Dawu" - https://en.wikipedia.org/wiki/Sun_Dawu
 
 ## Dawu Group (Context)
 
 Public profiles of the Dawu Group often emphasize its origins in small-scale poultry and livestock operations, later scaling into a diversified “company town”-style footprint in Hebei that reportedly included employee and community services. This corporate context is frequently used to explain why Sun’s detention drew attention beyond a typical private-business dispute.
+
+
+## References

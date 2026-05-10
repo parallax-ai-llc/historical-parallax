@@ -23,7 +23,7 @@ French cult leader who co-founded the Order of the Solar Temple with Luc Jouret.
 | 1984 | Co-founded Order of the Solar Temple |
 | 1994 | Died in mass murder-suicide in Switzerland |
 
-## References
+
 
 [^1]: Wikipedia, "Joseph Di Mambro" - https://en.wikipedia.org/wiki/Joseph_Di_Mambro
 
@@ -48,3 +48,6 @@ The OTS case is frequently cited in studies of new religious movements and coerc
 - Apocalyptic or transcendence narratives used to justify extreme acts
 
 Researchers also point to the OTS as a high-profile example of how closed, leader-centered groups can escalate toward planned collective violence.
+
+
+## References

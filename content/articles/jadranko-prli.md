@@ -23,7 +23,7 @@ Bosnian Croat political leader convicted by the ICTY of crimes against humanity 
 | 2004 | Surrendered to ICTY |
 | 2017 | Convicted and sentenced to 25 years |
 
-## References
+
 
 [^1]: Wikipedia, "Jadranko Prlić" - https://en.wikipedia.org/wiki/Jadranko_Prli%C4%87
 
@@ -50,3 +50,6 @@ The case remains politically sensitive in the region and is part of the broader 
 - International Criminal Tribunal for the former Yugoslavia (ICTY)
 - Bosnian War
 - Herzeg-Bosnia
+
+
+## References

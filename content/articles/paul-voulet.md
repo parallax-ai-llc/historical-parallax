@@ -21,7 +21,7 @@ French colonial officer who committed massacres across West Africa during the Vo
 |------|-------|
 | 1899 | Led murderous expedition across West Africa |
 
-## References
+
 
 [^1]: Wikipedia, "Paul Voulet" - https://en.wikipedia.org/wiki/Paul_Voulet
 
@@ -60,3 +60,6 @@ Accounts of the expedition describe:
 
 - Primary overview: the Wikipedia article provides a starting bibliography and summary of major events.
 - Related topic: French colonial expansion toward the **Lake Chad** region and the competing missions of the period.
+
+
+## References

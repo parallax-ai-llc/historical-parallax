@@ -20,7 +20,7 @@ Duplicate.
 |------|-------|
 | 1930 | See Warren Buffett |
 
-## References
+
 
 [^1]: Wikipedia, "Warren Buffett duplicate" - https://en.wikipedia.org/wiki/Warren_Buffett_duplicate
 
@@ -56,3 +56,6 @@ For readers, the practical takeaway is that the authoritative narrative and sour
 - Berkshire Hathaway
 - Value investing
 - Duplicate / redirect pages in large knowledge bases
+
+
+## References

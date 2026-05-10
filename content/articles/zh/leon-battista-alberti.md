@@ -7,54 +7,71 @@ occupation:
   - Architect
   - Author
   - Artist
-  - Mathematician
-  - Cryptographer
   - Linguist
-  - Philosopher
+  - Cleric
+  - Cryptographer
+  - Musician
+  - Mathematician
 socialLinks:
-  - icon: fa-wikipedia-w
-    link: https://en.wikipedia.org/wiki/Leon_Battista_Alberti
-lastUpdated: 2022-03-14T15:30:00Z
-image: /images/leon-battista-alberti.jpg
+  - url: https://en.wikipedia.org/wiki/Leon_Battista_Alberti
+    icon: fa-wikipedia-w
+lastUpdated: 2023-10-27
+image: /assets/images/leon-battista-alberti.jpg
 ---
 
-## 概述
+## 摘要
 
-莱昂·巴蒂斯塔·阿尔贝蒂（Leon Battista Alberti，1404年2月18日—1472年4月25日）是一位多才多艺的意大利文艺复兴时期人物，他是著名的学者、建筑师、艺术家、数学家、密码学家、语言学家和哲学家。他被认为是“文艺复兴人文主义的典范”。
+莱昂·巴蒂斯塔·阿尔贝蒂（Leon Battista Alberti，1404年2月18日－1472年4月25日）是一位多才多艺的意大利文艺复兴时期人士，他在建筑、艺术、文学、语言学、密码学、音乐和数学等领域都做出了杰出贡献。阿尔贝蒂被誉为“文艺复兴时期人文主义的代表人物”，他不仅是一位杰出的理论家，也是一位富有创造力的实践者。
 
 ## 生平
 
-阿尔贝蒂出生于佛罗伦萨一个被流放的银行家族。他接受了良好的教育，并在博洛尼亚大学获得了教会法学位。他对艺术和建筑表现出浓厚的兴趣，并为后来的文艺复兴风格奠定了理论基础。
+阿尔贝蒂出生于佛罗伦萨一个富裕的银行家族，但由于家族政治原因，童年时期一直在意大利各地流亡。他接受了良好的教育，在博洛尼亚大学学习法律，并广泛涉猎人文科学。
 
-## 建筑贡献
+## 建筑学
 
-阿尔贝蒂在建筑领域最著名的贡献是他的著作《论建筑》（De re aedificatoria）。这本书受到了古罗马建筑师维特鲁威（Vitruvius）的影响，并对文艺复兴时期的建筑师产生了深远的影响。他在书中阐述了关于比例、对称、和谐以及古典建筑元素的原则。
+阿尔贝蒂在建筑学领域的贡献尤为突出。他撰写了《论建筑》（De re aedificatoria），这是自古罗马建筑师维特鲁威以来最重要的建筑学著作。这本书对文艺复兴时期的建筑理论和实践产生了深远影响，提出了许多关于比例、和谐、对称和秩序的原则。
 
-他参与设计的著名建筑包括：
+他设计的建筑作品包括：
 
-*   **里米尼的圣马力诺神庙（Tempio Malatestiano）**：这是他早期的一项重要设计，体现了他对古典元素的运用。
-*   **曼托瓦的圣安德肋大教堂（Basilica di Sant'Andrea）**：这座教堂的设计被认为是古典主义建筑的杰出范例。
+*   **帕拉第奥宫（Palazzo Rucellai）**：位于佛罗伦萨，是文艺复兴时期宫殿建筑的典范。
+*   **圣玛利亚·诺维拉教堂（Santa Maria Novella）**：为该教堂设计了其壮观的正面，将古典元素与宗教需求完美结合。
+*   **马拉泰斯塔教堂（Tempio Malatestiano）**：位于里米尼，是对古代罗马拱门的创新性诠释。
 
-## 艺术与写作
+## 艺术理论
 
-除了建筑，阿尔贝蒂还是一位杰出的作家和艺术家。他创作了关于绘画、雕塑和家庭生活的论文。他的著作《论绘画》（De pictura）是第一部系统阐述透视原理的论文，对文艺复兴时期的绘画发展起到了关键作用。
+阿尔贝蒂也是一位重要的艺术理论家。他的著作《论绘画》（De pictura）提出了关于透视法的原理，并将数学原理引入绘画创作，极大地推动了绘画的科学化发展。他还提出了“悲剧”（mimesis）的概念，强调艺术模仿自然的思想。
 
-## 晚年与遗产
+## 其他贡献
 
-阿尔贝蒂一生游历多地，为许多重要的赞助人服务。他于1472年在罗马去世。他的著作和思想对文艺复兴时期的艺术、建筑和人文主义思想产生了不可磨灭的影响，使他成为文艺复兴时期最重要的人物之一。
+除了建筑和艺术，阿尔贝蒂还在以下领域有所建树：
 
-## 职业时间线
+*   **语言学**：他曾尝试创建一种新的意大利语标准。
+*   **密码学**：他发明了多字母密码（Polyalphabetic cipher），这是密码学史上的一个重要里程碑。
+*   **音乐**：他是一位造诣颇深的音乐家，并写有关于音乐的论著。
+*   **哲学和文学**：他撰写了许多哲学和文学作品，探讨人文主义思想。
 
-| 年份 | 事件 |
-| :--- | :--- |
-| 1404 | 出生于佛罗伦萨 |
-| 1428 | 获得博洛尼亚大学教会法学位 |
-| 1435 | 出版《论绘画》（De pictura） |
-| 1450 | 开始设计圣马力诺神庙 |
-| 1452 | 出版《论建筑》（De re aedificatoria） |
-| 1472 | 在罗马去世 |
+## 职业生涯时间线
 
-## 参考文献
+| **年份** | **事件**                                                                                                               |
+| :------- | :--------------------------------------------------------------------------------------------------------------------- |
+| 1404     | 出生于佛罗伦萨                                                                                                         |
+| 1428     | 完成博洛尼亚大学法律学业                                                                                               |
+| 1435     | 完成《论绘画》（De pictura）                                                                                            |
+| 1436     | 担任教皇秘书，并开始进行一些建筑设计                                                                                     |
+| 1447-1450 | 设计并建造帕拉第奥宫（Palazzo Rucellai）                                                                                 |
+| 1450     | 设计圣玛利亚·诺维拉教堂（Santa Maria Novella）的正面                                                                     |
+| 1452     | 完成《论雕塑》（De statua）                                                                                             |
+| 1450s    | 开始撰写《论建筑》（De re aedificatoria）                                                                                 |
+| 1454     | 设计马拉泰斯塔教堂（Tempio Malatestiano）                                                                                |
+| 1485     | 《论建筑》（De re aedificatoria）在他去世后出版                                                                          |
+| 1472     | 在罗马去世                                                                                                             |
 
-[^1]: Encyclopaedia Britannica. Leon Battista Alberti. [https://www.britannica.com/biography/Leon-Battista-Alberti](https://www.britannica.com/biography/Leon-Battista-Alberti)
-[^2]: The Art Story. Leon Battista Alberti. [https://www.theartstory.org/artist/alberti-leon-battista/](https://www.theartstory.org/artist/alberti-leon-battista/)
+## 遗产
+
+莱昂·巴蒂斯塔·阿尔贝蒂是文艺复兴时期最杰出的人物之一。他对建筑、艺术和人文科学的贡献，塑造了后世的艺术和思想。他的著作至今仍是研究文艺复兴时期艺术和思想的重要文献。
+
+## 参考资料
+
+[^1]: Hibbard, Howard. *The Architecture of the Renaissance*. Thames & Hudson, 1990.
+[^2]: Tafuri, Manfredo. *The High Renaissance in Architecture*. Prestel, 1997.
+[^3]: Capua, Franco. *Leon Battista Alberti*. Folio, 2001.

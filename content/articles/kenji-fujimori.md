@@ -5,7 +5,7 @@ birth: "1980-06-19"
 death: "Unknown"
 nationality: "Peru"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kenji_Fujimori.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenji_Fujimori"
 lastUpdated: "2026-02-26"

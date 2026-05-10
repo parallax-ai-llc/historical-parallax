@@ -5,7 +5,7 @@ birth: "1330-01-01"
 death: "1379-01-01"
 nationality: "Chinese"
 occupation: ["Merchant", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Men_Laden_With_Tea%2C_Sichuan_Sheng%2C_China_1908_Ernest_H._Wilson_RESTORED.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shen_Wansan"
 lastUpdated: "2026-02-21"

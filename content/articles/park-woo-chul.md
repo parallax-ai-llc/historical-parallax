@@ -23,7 +23,7 @@ South Korean serial killer who murdered 9 women in the Hwaseong area in 2003-200
 | 2004 | Arrested |
 | 2005 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Park Woo-chul" - https://en.wikipedia.org/wiki/Park_Woo-chul
 
@@ -49,3 +49,6 @@ Readers may also look for:
 - Broader historical or social context for the period
 - Similar figures/events in the same domain
 - Summaries in reference works and major news archives
+
+
+## References

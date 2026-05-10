@@ -21,7 +21,7 @@ Crypto promoter charged by SEC with fraud over PulseChain and HEX tokens.
 |------|-------|
 | 2023 | Charged by SEC with crypto fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Richard Heart" - https://en.wikipedia.org/wiki/Richard_Heart
 
@@ -59,3 +59,6 @@ Crypto promoter charged by SEC with fraud over PulseChain and HEX tokens.
 
 - This article summarizes widely reported, high-level points and should not be treated as a legal finding.
 - For precise allegations, dates, and remedies sought, consult primary filings and court records.
+
+
+## References

@@ -21,7 +21,7 @@ Not enough verifiable information.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Yousef Bhatt" - https://en.wikipedia.org/wiki/Yousef_Bhatt
 
@@ -48,3 +48,6 @@ This entry is kept as a placeholder record with a minimal summary until verifiab
 
 [^2]: Wikipedia page-title check (no article under this exact title as of 2026-02-26): https://en.wikipedia.org/wiki/Yousef_Bhatt
 
+
+
+## References

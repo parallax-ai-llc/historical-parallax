@@ -22,7 +22,7 @@ Venezuelan drug lord who controlled drug trafficking through Venezuelan ports wi
 | 2008 | Controlled drug routes through Venezuelan ports |
 | 2010 | Arrested in Colombia and extradited to Venezuela |
 
-## References
+
 
 [^1]: Wikipedia, "Walid Makled" - https://en.wikipedia.org/wiki/Walid_Makled
 
@@ -51,3 +51,6 @@ High-level analyses of the case tend to emphasize three takeaways:
 - Corruption risk concentrates where officials can grant access (ports, customs, licensing).
 - Logistical control can be as valuable as armed control for organized crime.
 - Extradition and jurisdiction choices can reshape how cases unfold publicly.
+
+
+## References

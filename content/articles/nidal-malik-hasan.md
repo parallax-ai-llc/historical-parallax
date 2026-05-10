@@ -23,7 +23,7 @@ US Army psychiatrist who killed 13 people and wounded 30 in a mass shooting at F
 | 2013 | Convicted of 13 counts of premeditated murder |
 | 2013 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Nidal Malik Hasan" - https://en.wikipedia.org/wiki/Nidal_Malik_Hasan
 
@@ -50,3 +50,6 @@ Fort Hood became a reference point in U.S. discussions about insider threats, pr
 ## Related Topics
 
 Fort Hood shooting; insider threat programs; court-martial process; domestic terrorism debates.
+
+
+## References

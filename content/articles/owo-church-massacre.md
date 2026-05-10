@@ -21,7 +21,7 @@ Gunmen attacked St. Francis Catholic Church in Ondo State killing at least 40 wo
 |------|-------|
 | 2022 | 40+ killed in church attack |
 
-## References
+
 
 [^1]: Wikipedia, "Owo Church Massacre" - https://en.wikipedia.org/wiki/Owo_Church_Massacre
 
@@ -63,3 +63,6 @@ Gunmen attacked St. Francis Catholic Church in Ondo State killing at least 40 wo
 
 [^2]: BBC News, reporting on the Owo church attack and casualty updates (see BBC coverage archive).
 [^3]: Reuters, reporting on Nigeria’s response and investigation (see Reuters coverage archive).
+
+
+## References

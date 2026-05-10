@@ -38,7 +38,7 @@ James 'Jimmy the Gent' Burke was a Lucchese associate who masterminded the 1978 
 - Burke’s story influenced popular depictions of late-20th-century American organized crime.
 - He is commonly linked to the narrative adapted in **Goodfellas** (based on Nicholas Pileggi’s reporting), where he is portrayed by **Robert De Niro**.
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Further Reading
@@ -63,3 +63,6 @@ Historical narratives emphasize that the period after the heist was marked by in
 ## Cultural portrayals
 
 Burke has been portrayed or referenced in multiple books and films about U.S. organized crime, contributing to his enduring notoriety. Popular portrayals often compress events for narrative effect, so timelines and motivations can differ from the documentary record.
+
+
+## References

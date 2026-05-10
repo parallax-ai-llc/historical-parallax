@@ -45,10 +45,13 @@ In public memory, the period remains associated with fear, propaganda, and the s
 Gottwald's death shortly after Stalin's funeral became part of the historical narrative of the time, often noted for its symbolism.
 Later decades in Czechoslovakia saw reassessments of early communist rule, including criticism of repression and injustice.
 
-## References
+
 [^1]: Wikipedia, "Klement Gottwald" - https://en.wikipedia.org/wiki/Klement_Gottwald
 
 ## Further Reading
 
 - Histories of postwar Czechoslovakia and the 1948 communist takeover.
 - Studies of Stalinism and political show trials in Eastern Europe.
+
+
+## References

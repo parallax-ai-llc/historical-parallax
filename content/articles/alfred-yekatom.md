@@ -22,7 +22,7 @@ Anti-Balaka commander known as 'Rambo' who led attacks against Muslim civilians.
 | 2013 | Led Anti-Balaka forces against Muslim communities |
 | 2018 | Arrested after firing gun in parliament, surrendered to ICC |
 
-## References
+
 
 [^1]: Wikipedia, "Alfred Yekatom" - https://en.wikipedia.org/wiki/Alfred_Yekatom
 
@@ -51,3 +51,6 @@ Because the Anti-Balaka label covers multiple local commanders and shifting alli
 ## References (additional)
 
 [^2]: International Criminal Court, case information and proceedings related to Alfred Yekatom ("Rambo") - https://www.icc-cpi.int/
+
+
+## References

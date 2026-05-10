@@ -21,7 +21,7 @@ Al-Shabaab militants attacked the DusitD2 hotel complex in Nairobi killing 21 pe
 |------|-------|
 | 2019 | 21 killed in hotel complex attack |
 
-## References
+
 
 [^1]: Wikipedia, "Dusit Hotel Attack 2019" - https://en.wikipedia.org/wiki/Dusit_Hotel_Attack_2019
 
@@ -91,3 +91,6 @@ Without asserting conclusions beyond public summaries, discussions after the att
 ## External Links
 
 - Wikipedia: https://en.wikipedia.org/wiki/Dusit_Hotel_Attack_2019
+
+
+## References

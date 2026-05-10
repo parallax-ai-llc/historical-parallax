@@ -21,7 +21,7 @@ Placeholder for additional Korean tech coverage.
 |------|-------|
 | 1970 | Born in South Korea |
 
-## References
+
 
 [^1]: Wikipedia, "Su Yong Kim" - https://en.wikipedia.org/wiki/Su_Yong_Kim
 
@@ -49,3 +49,6 @@ Because "Su Yong Kim" is a common romanization pattern for multiple Korean given
 This file is intentionally conservative until a clearly attributable identity is established. Future expansions should cite sources that unambiguously refer to the same individual.
 
 Until then, avoid attributing specific companies, titles, or awards without a reliable, attributable citation.
+
+
+## References

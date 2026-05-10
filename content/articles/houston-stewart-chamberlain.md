@@ -21,7 +21,7 @@ British-German racial theorist whose writings directly influenced Nazi racial id
 |------|-------|
 | 1899 | Published The Foundations of the Nineteenth Century |
 
-## References
+
 
 [^1]: Wikipedia, "Houston Stewart Chamberlain" - https://en.wikipedia.org/wiki/Houston_Stewart_Chamberlain
 
@@ -62,3 +62,6 @@ British-German racial theorist whose writings directly influenced Nazi racial id
 ## Notes
 
 This article summarizes widely reported biographical facts and high-level themes; it does not endorse Chamberlain’s views.
+
+
+## References

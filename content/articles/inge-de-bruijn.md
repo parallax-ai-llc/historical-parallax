@@ -23,7 +23,7 @@ Dutch sprint freestyle swimmer who became one of the defining athletes of her er
 | 2000 | Breakthrough Olympic performance with multiple gold medals |
 | 2001–2004 | Continued elite results at world championships and Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Inge de Bruijn" - https://en.wikipedia.org/wiki/Inge_de_Bruijn
 
@@ -48,3 +48,6 @@ In the Netherlands, de Bruijn became a high-visibility figure for individual Oly
 ## Post-peak period and public profile
 
 After her peak competitive period, she remained a recognizable sports personality. Like many top swimmers, her legacy is shaped not only by medals but also by the way her performances influenced expectations for speed in women’s sprint events.
+
+
+## References

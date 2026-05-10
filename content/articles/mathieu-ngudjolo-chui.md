@@ -22,7 +22,7 @@ Former leader of the FNI militia in the DRC's Ituri conflict charged by the ICC 
 | 2003 | Led FNI militia forces during Ituri conflict in eastern Congo |
 | 2012 | Acquitted by the International Criminal Court of all charges |
 
-## References
+
 
 [^1]: Wikipedia, "Mathieu Ngudjolo Chui" - https://en.wikipedia.org/wiki/Mathieu_Ngudjolo_Chui
 
@@ -51,3 +51,6 @@ Post-trial, public discussion often turns to victim recognition and local reconc
 In some conflicts, accountability efforts also include domestic courts, truth commissions, or community processes.
 The Ituri cases are frequently cited in debates about the reach and limits of international criminal justice.
 They raise questions about whether prosecutions deter future abuses, or instead arrive too late to change behavior on the ground.
+
+
+## References

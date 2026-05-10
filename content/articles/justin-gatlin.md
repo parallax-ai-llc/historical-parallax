@@ -23,7 +23,7 @@ Justin Gatlin won the 2004 Olympic 100m gold and 2017 World Championship title, 
 | 2006 | Tested positive; served four-year ban |
 | 2017 | Won World Championship 100m gold at age 35 |
 
-## References
+
 
 [^1]: Wikipedia, "Justin Gatlin" - https://en.wikipedia.org/wiki/Justin_Gatlin
 
@@ -51,3 +51,6 @@ Known for powerful starts and late-race speed maintenance, Gatlin is frequently 
 ## Notes
 
 This article summarizes publicly reported career milestones and should be read alongside official results databases for detailed season-by-season performances.
+
+
+## References

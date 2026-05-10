@@ -5,7 +5,7 @@ birth: "1945-08-15"
 death: "1945-08-15"
 nationality: "Korea"
 occupation: ["Historical Event", "Independence", "Korean History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Prison_Release_of_Korean_activists.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Korean_Liberation_Day"
 lastUpdated: "2026-02-21"

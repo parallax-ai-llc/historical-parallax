@@ -23,7 +23,7 @@ Italian banker known as Gods Banker found hanging under Blackfriars Bridge in Lo
 | 1982 | Bank collapsed with $1.3B missing |
 | 1982 | Found dead under London bridge |
 
-## References
+
 
 [^1]: Wikipedia, "Roberto Calvi" - https://en.wikipedia.org/wiki/Roberto_Calvi
 
@@ -48,3 +48,6 @@ The case became intertwined with allegations involving the Mafia, the P2 Masonic
 
 The collapse contributed to wider scrutiny of Italian banking governance, cross-border supervision, and the use of offshore vehicles.
 Calvi’s death remains a widely cited example of how financial crime, political influence, and organized crime can intersect in high-profile scandals.
+
+
+## References

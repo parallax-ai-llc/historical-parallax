@@ -23,7 +23,7 @@ Data breach at credit reporting agency Equifax in 2017 that exposed personal inf
 | 2019 | Equifax paid $700 million settlement |
 | 2020 | Four Chinese military officers charged |
 
-## References
+
 
 [^1]: Wikipedia, "Equifax Data Breach" - https://en.wikipedia.org/wiki/Equifax_Data_Breach
 
@@ -49,3 +49,6 @@ The Equifax breach is commonly cited as a landmark case in:
 [^3]: Federal Trade Commission (FTC) Equifax settlement resources - https://www.ftc.gov/
 
 One recurring lesson highlighted in post-incident analysis is that **“invisible” infrastructure at data brokers** can create outsized downstream harm when security controls fail.
+
+
+## References

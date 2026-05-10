@@ -24,7 +24,7 @@ Sonja Henie won three consecutive Olympic golds (1928, 1932, 1936) and ten World
 | 1936 | Won third Olympic gold; moved to Hollywood |
 | 1969 | Died of leukemia |
 
-## References
+
 
 [^1]: Wikipedia, "Sonja Henie" - https://en.wikipedia.org/wiki/Sonja_Henie
 
@@ -49,3 +49,6 @@ Henie’s impact is visible both in the evolution of women’s figure skating an
 - Three-time Olympic champion in women’s singles (1928, 1932, 1936).
 - Ten-time World Champion, setting a standard for sustained dominance.
 - Helped shape modern presentation and the professional ice show model.
+
+
+## References

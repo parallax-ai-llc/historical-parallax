@@ -22,7 +22,7 @@ Former Séléka commander who became a government minister despite being sanctio
 | 2013 | Led Séléka forces accused of atrocities |
 | 2019 | Appointed government minister despite UN sanctions |
 
-## References
+
 
 [^1]: Wikipedia, "Hassan Bouba" - https://en.wikipedia.org/wiki/Hassan_Bouba
 
@@ -66,3 +66,6 @@ Former Séléka commander who became a government minister despite being sanctio
 
 - The use of special courts and international monitoring in CAR is frequently framed as an attempt to address impunity after repeated cycles of violence.
 - Observers debate whether incorporating armed leaders into government reduces violence in the short term or entrenches a precedent that violence is rewarded.
+
+
+## References

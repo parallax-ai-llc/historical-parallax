@@ -22,7 +22,7 @@ Filipino communist rebel leader who served as chairman of the Communist Party of
 | 1968 | Co-founded the Communist Party of the Philippines |
 | 2017 | Peace talks with government collapsed |
 
-## References
+
 
 [^1]: Wikipedia, "Sonny Parsons" - https://en.wikipedia.org/wiki/Sonny_Parsons
 
@@ -48,3 +48,6 @@ Names in biographical datasets can collide with:
 - inconsistent birth/death fields across sources.
 
 For a historical or analytical repository, resolving identity correctly is important because it affects attribution, timelines, and network relationships.
+
+
+## References

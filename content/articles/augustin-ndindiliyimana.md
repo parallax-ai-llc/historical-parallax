@@ -23,7 +23,7 @@ Rwandan gendarme chief who was convicted of crimes against humanity for failing 
 | 2011 | Convicted of crimes against humanity |
 | 2011 | Time served, released |
 
-## References
+
 
 [^1]: Wikipedia, "Augustin Ndindiliyimana" - https://en.wikipedia.org/wiki/Augustin_Ndindiliyimana
 
@@ -49,3 +49,6 @@ His case is cited in broader discussions of how international criminal law evalu
 ## Further reading (expanded)
 
 Readers may consult institutional profiles, tribunal or court records (where relevant), and high-quality reference works for cross-checked context.
+
+
+## References

@@ -11,9 +11,9 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 概述
+## 摘要
 
-1529年的围城战是奥斯曼帝国在中欧扩张的最高潮。苏莱曼的12万大军未能攻破维也纳的城墙，限制了奥斯曼帝国的扩张。
+1529年的围攻是奥斯曼帝国在中欧的最高峰。苏莱曼的12万大军未能攻破维也纳的城墙，限制了奥斯曼帝国的扩张。
 
 ## 职业生涯时间线
 
@@ -28,4 +28,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: Wikipedia, "Siege of Vienna 1529" - https://en.wikipedia.org/wiki/Siege_of_Vienna_1529
+[^1]: 维基百科，“1529年维也纳之围” - https://en.wikipedia.org/wiki/Siege_of_Vienna_1529

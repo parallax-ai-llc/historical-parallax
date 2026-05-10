@@ -21,7 +21,7 @@ Shooting at the Jewish Museum of Belgium by a French ISIS returnee killing 4.
 |------|-------|
 | 2014 | Jewish Museum shooting |
 
-## References
+
 
 [^1]: Wikipedia, "Mehdi Nemmouche Case" - https://en.wikipedia.org/wiki/Mehdi_Nemmouche_Case
 
@@ -73,3 +73,6 @@ Shooting at the Jewish Museum of Belgium by a French ISIS returnee killing 4.
 ## References (Additional)
 
 [^2]: Jewish Museum of Belgium shooting (overview) — https://en.wikipedia.org/wiki/Jewish_Museum_of_Belgium_shooting
+
+
+## References

@@ -21,7 +21,7 @@ French colonial forces suppressed a Malagasy independence uprising, killing an e
 |------|-------|
 | 1947 | French killed thousands in suppression |
 
-## References
+
 
 [^1]: Wikipedia, "Madagascar Uprising 1947" - https://en.wikipedia.org/wiki/Madagascar_Uprising_1947
 
@@ -58,3 +58,6 @@ French colonial forces suppressed a Malagasy independence uprising, killing an e
 ## Notes on Classification
 
 - This entry is categorized under **Colonial Crime** due to large-scale civilian harm and documented/claimed extrajudicial practices during repression.
+
+
+## References

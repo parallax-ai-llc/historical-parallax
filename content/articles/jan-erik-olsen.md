@@ -42,7 +42,7 @@ Olsen’s notability primarily derives from his association with the NOKAS case,
 - NOKAS robbery (overview, participants, and aftermath).[^2]
 - Norwegian organized crime and high-profile armed robberies (comparative context).[^2]
 
-## References
+
 
 [^1]: Wikipedia, "Jan Erik Olsen" - https://en.wikipedia.org/wiki/Jan_Erik_Olsen
 [^2]: Wikipedia, "NOKAS robbery" - https://en.wikipedia.org/wiki/NOKAS_robbery
@@ -50,3 +50,6 @@ Olsen’s notability primarily derives from his association with the NOKAS case,
 ## Notes
 
 This article is intentionally brief and focuses on widely reported, high-level facts. For detailed chronology, court outcomes, and participant roles, consult reliable Norwegian-language reporting and official case documentation in addition to encyclopedic summaries.
+
+
+## References

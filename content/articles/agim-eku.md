@@ -21,7 +21,7 @@ Kosovo Albanian military commander accused of war crimes during the Kosovo War.
 |------|-------|
 | 1999 | Led KLA operations accused of war crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Agim Çeku" - https://en.wikipedia.org/wiki/Agim_%C3%87eku
 
@@ -54,3 +54,6 @@ Kosovo Albanian military commander accused of war crimes during the Kosovo War.
 ## Notes
 
 This article is a concise profile. For verification, see the cited reference(s) and additional reporting sources; allegations in conflict settings are frequently disputed and may evolve as archives and legal records change.
+
+
+## References

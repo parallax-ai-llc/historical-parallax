@@ -23,7 +23,7 @@ Mary Kom is a six-time World Amateur Boxing Champion and won an Olympic bronze a
 | 2012 | Won Olympic bronze at London |
 | 2018 | Won sixth World Championship gold |
 
-## References
+
 
 [^1]: Wikipedia, "Mary Kom" - https://en.wikipedia.org/wiki/Mary_Kom
 
@@ -50,3 +50,6 @@ As a multi-time world champion, Mary Kom is commonly cited as a benchmark for su
 ## Note
 
 Many summaries highlight her as a role model for young athletes, particularly girls entering competitive boxing.
+
+
+## References

@@ -24,7 +24,7 @@ Russian noblewoman known as 'Saltychikha' who tortured and murdered at least 138
 | 1768 | Sentenced to life imprisonment |
 | 1801 | Died in prison after 33 years |
 
-## References
+
 
 [^1]: Wikipedia, "Daria Nikolayevna Saltykova" - https://en.wikipedia.org/wiki/Daria_Nikolayevna_Saltykova
 
@@ -50,3 +50,6 @@ Russian noblewoman known as 'Saltychikha' who tortured and murdered at least 138
 
 ### Related links
 - Use the Wikipedia link in `socialLinks` (if present) as a navigation hub to find additional citations.
+
+
+## References

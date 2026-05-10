@@ -24,7 +24,7 @@ Former president of Panama convicted of money laundering and sentenced to over 1
 | 2023 | Convicted of money laundering |
 | 2024 | Sought asylum in Nicaraguan embassy |
 
-## References
+
 
 [^1]: Wikipedia, "Ricardo Martinelli" - https://en.wikipedia.org/wiki/Ricardo_Martinelli
 
@@ -51,3 +51,6 @@ Former president of Panama convicted of money laundering and sentenced to over 1
 ## Notes
 
 - Reporting on the wiretapping and corruption cases includes complex procedural histories (extradition, appeals, and asylum requests), and specific outcomes can vary by case and jurisdiction.
+
+
+## References

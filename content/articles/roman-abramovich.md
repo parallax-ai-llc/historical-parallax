@@ -22,7 +22,7 @@ Russian oligarch who amassed billions during the controversial 'loans for shares
 | 1995 | Acquired Sibneft at below-market price |
 | 2022 | Sanctioned for Kremlin ties |
 
-## References
+
 
 [^1]: Wikipedia, "Roman Abramovich" - https://en.wikipedia.org/wiki/Roman_Abramovich
 
@@ -51,3 +51,6 @@ Russian oligarch who amassed billions during the controversial 'loans for shares
 
 - Known globally for linking post-Soviet oligarch wealth to Western sports ownership.
 - His profile sits at the intersection of business privatization, politics, and international sanctions policy.
+
+
+## References

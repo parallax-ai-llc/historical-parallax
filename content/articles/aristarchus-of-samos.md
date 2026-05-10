@@ -24,7 +24,7 @@ Aristarchus of Samos was an ancient Greek astronomer and mathematician who prese
 | c. 270 BC | Published 'On the Sizes and Distances of the Sun and Moon' |
 | c. 230 BC | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Aristarchus of Samos" - https://en.wikipedia.org/wiki/Aristarchus_of_Samos
 
@@ -49,3 +49,6 @@ Aristarchus is frequently remembered as an example of how theoretical re-framing
 - Heliocentrism
 - Ptolemaic system
 - Copernican Revolution
+
+
+## References

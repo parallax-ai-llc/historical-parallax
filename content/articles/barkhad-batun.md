@@ -23,7 +23,7 @@ Somali smuggler who organized dangerous sea crossings from Libya to Italy. He pa
 | 2016 | Arrested |
 | 2018 | Convicted in Italy |
 
-## References
+
 
 [^1]: Wikipedia, "Barkhad Batun" - https://en.wikipedia.org/wiki/Barkhad_Batun
 
@@ -53,3 +53,6 @@ Somali smuggler who organized dangerous sea crossings from Libya to Italy. He pa
 
 - International Organization for Migration (IOM) reporting on Mediterranean migration and deaths at sea.
 - EU and Italian policy debates on asylum, border control, and maritime rescue.
+
+
+## References

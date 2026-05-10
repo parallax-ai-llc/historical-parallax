@@ -22,7 +22,7 @@ Buddhist monk known as the 'Buddhist Bin Laden' who led the 969 movement incitin
 | 2013 | Led anti-Muslim 969 movement |
 | 2017 | His rhetoric contributed to conditions enabling Rohingya genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Wirathu" - https://en.wikipedia.org/wiki/Wirathu
 
@@ -51,3 +51,6 @@ Wirathu is often referenced in studies of modern hate propaganda: how religious 
 
 - Rohingya crisis and Myanmar’s communal conflict dynamics
 - Studies of religious nationalism and incitement
+
+
+## References

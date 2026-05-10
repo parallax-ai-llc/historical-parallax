@@ -22,7 +22,7 @@ East Area Rapist/Original Night Stalker terrorized California for 12 years. Jose
 | 1974 | Crimes began |
 | 2018 | Identified as Joseph DeAngelo |
 
-## References
+
 
 [^1]: Wikipedia, "EARONS" - https://en.wikipedia.org/wiki/EARONS
 
@@ -50,3 +50,6 @@ East Area Rapist/Original Night Stalker terrorized California for 12 years. Jose
 
 - Genetic genealogy
 - Cold case investigations
+
+
+## References

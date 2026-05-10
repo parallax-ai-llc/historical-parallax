@@ -23,7 +23,7 @@ Indonesian serial killer known as the Singing Sorcerer who murdered 12 girls in 
 | 1996 | Arrested |
 | 1997 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Siswanto" - https://en.wikipedia.org/wiki/Siswanto
 
@@ -48,3 +48,6 @@ Siswanto was arrested in the mid-1990s and later sentenced to death. The case be
 ## Legacy
 
 The case is often referenced in discussions about serial violence in Indonesia and the role of media framing in shaping public understanding of high-profile crimes.
+
+
+## References

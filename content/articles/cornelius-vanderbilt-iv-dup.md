@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1898 | See Cornelius Vanderbilt IV |
 
-## References
+
 
 [^1]: Wikipedia, "Cornelius Vanderbilt IV dup" - https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_IV_dup
 
@@ -60,3 +60,6 @@ Wikipedia link for verification.
 
 - Cornelius Vanderbilt IV (canonical entry)
 - Vanderbilt family (context for the family name and notable relatives)
+
+
+## References

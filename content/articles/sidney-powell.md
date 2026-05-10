@@ -21,7 +21,7 @@ Lawyer who pleaded guilty to election interference in Georgia for her role in at
 |------|-------|
 | 2023 | Pleaded guilty to election interference |
 
-## References
+
 
 [^1]: Wikipedia, "Sidney Powell" - https://en.wikipedia.org/wiki/Sidney_Powell
 
@@ -52,3 +52,6 @@ The episode is often referenced in discussions about:
 - election integrity and post-election litigation in the United States
 - misinformation dynamics and accountability mechanisms
 - professional ethics and discipline in legal practice
+
+
+## References

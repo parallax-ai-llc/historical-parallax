@@ -21,7 +21,7 @@ Swedish career criminal central to the 1973 Norrmalmstorg robbery that gave rise
 |------|-------|
 | 1973 | Involved in hostage crisis that coined Stockholm syndrome |
 
-## References
+
 
 [^1]: Wikipedia, "Clark Olofsson" - https://en.wikipedia.org/wiki/Clark_Olofsson
 
@@ -53,3 +53,6 @@ The 1973 Norrmalmstorg bank robbery/hostage crisis in Stockholm became internati
 ## References (Additional)
 
 [^2]: Netflix series (dramatization), *Clark* (2022) — summarized on Wikipedia under cultural depictions.[^1]
+
+
+## References

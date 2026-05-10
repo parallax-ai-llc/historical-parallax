@@ -21,7 +21,7 @@ Daughter of CJNG leader Nemesio Oseguera convicted of financial crimes related t
 |------|-------|
 | 2021 | Convicted of cartel financial crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Jessica Oseguera González" - https://en.wikipedia.org/wiki/Jessica_Oseguera_Gonz%C3%A1lez
 
@@ -66,3 +66,6 @@ This repository’s frontmatter includes a simplified birth entry. Public source
 
 [^2]: U.S. Department of Justice (press release), "Daughter of Prolific Mexican Cartel Leader Pleads Guilty..." (as linked by Wikipedia) — https://www.justice.gov/
 [^3]: U.S. Department of Justice (press release), "Daughter of Notorious Mexican Cartel Leader Sentenced..." (as linked by Wikipedia) — https://www.justice.gov/
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1967 | See Peter Thiel |
 
-## References
+
 
 [^1]: Wikipedia, "Peter Thiel duplicate" - https://en.wikipedia.org/wiki/Peter_Thiel_duplicate
 
@@ -64,3 +64,6 @@ Because this page is marked as a duplicate, references should ideally:
 - Point to the canonical biography page (not a duplicate/placeholder title).
 - Use stable URLs and, when possible, include access dates in downstream citation tooling.
 - Avoid creating new “duplicate” pages on external sites by repeating non-canonical titles.
+
+
+## References

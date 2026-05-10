@@ -22,7 +22,7 @@ Albanian organized crime groups control much of the European cocaine and cannabi
 | 1990 | Post-communist criminal networks emerged |
 | 2020 | Dominant in UK and European drug trade |
 
-## References
+
 
 [^1]: Wikipedia, "Albanian Mafia" - https://en.wikipedia.org/wiki/Albanian_Mafia
 
@@ -57,3 +57,6 @@ Public attention tends to rise alongside major seizures, trafficking investigati
 
 - Organized crime in Europe
 - Drug trafficking in Europe
+
+
+## References

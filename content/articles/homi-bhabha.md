@@ -23,7 +23,7 @@ Homi Bhabha founded TIFR and Indias nuclear program.
 | 1945 | Founded TIFR |
 | 1966 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Homi Bhabha" - https://en.wikipedia.org/wiki/Homi_Bhabha
 
@@ -48,3 +48,6 @@ In India, Bhabha is often described as a pivotal figure in post-independence sci
 - Tata Institute of Fundamental Research (TIFR)
 - Bhabha Atomic Research Centre (BARC)
 - Atomic energy policy
+
+
+## References

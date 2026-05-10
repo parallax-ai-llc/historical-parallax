@@ -22,7 +22,7 @@ British ISIS executioner whose real name was Mohammed Emwazi who appeared in vid
 | 2014 | Appeared in beheading videos of Western hostages |
 | 2015 | Killed by US drone strike in Raqqa, Syria |
 
-## References
+
 
 [^1]: Wikipedia, "Jihadi John" - https://en.wikipedia.org/wiki/Jihadi_John
 ## Identification and Media Impact
@@ -48,3 +48,6 @@ Accounts differ on the precise internal chain of command around hostage handling
 ## Further Reading (General)
 
 For deeper detail, consult multiple reputable sources (academic histories, major news outlets, and primary documents where available), and compare accounts across perspectives.
+
+
+## References

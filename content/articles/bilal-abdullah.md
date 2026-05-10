@@ -21,7 +21,7 @@ Iraqi doctor convicted of the 2007 Glasgow Airport attack and London car bombs.
 |------|-------|
 | 2008 | Convicted of terrorism |
 
-## References
+
 
 [^1]: Wikipedia, "Bilal Abdullah" - https://en.wikipedia.org/wiki/Bilal_Abdullah
 
@@ -50,3 +50,6 @@ Iraqi doctor convicted of the 2007 Glasgow Airport attack and London car bombs.
 ## Further Reading
 
 - Wikipedia: https://en.wikipedia.org/wiki/Bilal_Abdullah
+
+
+## References

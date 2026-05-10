@@ -23,7 +23,7 @@ Andrija Mohorovicic discovered the Moho discontinuity between crust and mantle.
 | 1909 | Discovered Moho discontinuity |
 | 1936 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Andrija Mohorovicic" - https://en.wikipedia.org/wiki/Andrija_Mohorovicic
 
@@ -54,3 +54,6 @@ Mohorovičić worked at observatories and contributed to both meteorology and se
 - Earth's crust
 - Earth's mantle
 - seismic waves (P-waves and S-waves)
+
+
+## References

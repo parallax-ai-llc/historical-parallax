@@ -25,7 +25,7 @@ Indian businessman convicted alongside his servant in the Nithari child serial k
 |------|-------|
 | 2006 | Convicted in Nithari serial murder case |
 
-## References
+
 
 [^1]: Wikipedia, "Moninder Singh Pandher" - https://en.wikipedia.org/wiki/Moninder_Singh_Pandher
 
@@ -68,3 +68,6 @@ Indian businessman convicted alongside his servant in the Nithari child serial k
 - Missing children investigations
 - Forensic anthropology and identification
 - Criminal justice reform (India)
+
+
+## References

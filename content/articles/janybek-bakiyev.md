@@ -21,7 +21,7 @@ Brother of Kyrgyz president who ran the state security apparatus and was accused
 |------|-------|
 | 2010 | Charged with ordering political killings |
 
-## References
+
 
 [^1]: Wikipedia, "Janybek Bakiyev" - https://en.wikipedia.org/wiki/Janybek_Bakiyev
 
@@ -55,3 +55,6 @@ Brother of Kyrgyz president who ran the state security apparatus and was accused
 
 - This article currently relies primarily on a single general reference.
 - For higher confidence, corroborate with Kyrgyz court documents, official prosecutor statements, and contemporaneous international reporting from 2010 onward.
+
+
+## References

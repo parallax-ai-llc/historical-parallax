@@ -21,7 +21,7 @@ Lord Elgin removed marble sculptures from the Parthenon in Athens, claiming Otto
 |------|-------|
 | 1801 | Marbles removed from Parthenon |
 
-## References
+
 
 [^1]: Wikipedia, "Elgin Marbles" - https://en.wikipedia.org/wiki/Elgin_Marbles
 
@@ -71,3 +71,6 @@ Lord Elgin removed marble sculptures from the Parthenon in Athens, claiming Otto
 - The sculptures date to the 5th century BCE, from the period of Periclean building projects in Athens.
 - The term "Elgin Marbles" is contested; many prefer "Parthenon Sculptures" to emphasize origin.
 - The controversy is not only about ownership, but also about interpretation, context, and the ethics of acquisition.
+
+
+## References

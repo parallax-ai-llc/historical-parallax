@@ -11,9 +11,9 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 概述
+## 简介
 
-莫娜·哈透姆（Mona Hatoum）是一位巴勒斯坦裔英国艺术家，以其大型装置艺术而闻名，她将熟悉的家居物品转化为威胁。她的作品探讨了流离失所、危险和政治身体等主题。她的作品《热点》（Hot Spot），一个发光的霓虹地球仪，是当代艺术的标志。
+莫娜·哈透姆（Mona Hatoum）是一位巴勒斯坦裔英国艺术家，以其大型装置艺术而闻名，她将熟悉的日常物品转化为威胁。她的作品探讨了流离失所、危险和政治身体等主题。她的作品《热点》（Hot Spot），一个发光的霓虹灯地球仪，是当代艺术的标志。
 
 ## 职业生涯时间线
 
@@ -28,4 +28,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: Wikipedia, "Mona Hatoum" - https://en.wikipedia.org/wiki/Mona_Hatoum
+[^1]: 维基百科，“莫娜·哈透姆” - https://en.wikipedia.org/wiki/Mona_Hatoum

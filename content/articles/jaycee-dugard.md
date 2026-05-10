@@ -23,7 +23,7 @@ American woman who was kidnapped at age 11 by Phillip and Nancy Garrido and held
 | 2009 | Discovered alive after 18 years of captivity |
 | 2011 | Phillip Garrido sentenced to 431 years in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Jaycee Dugard" - https://en.wikipedia.org/wiki/Jaycee_Dugard
 ## Overview
@@ -48,3 +48,6 @@ In 2009, Dugard was identified after contact with law enforcement connected to h
 
 ## Later life and public work
 After her recovery, Dugard wrote memoirs describing her experiences and has been associated with advocacy focused on survivors and recovery. Public discussions around her case have emphasized trauma-informed support and the long-term process of rebuilding life after captivity.
+
+
+## References

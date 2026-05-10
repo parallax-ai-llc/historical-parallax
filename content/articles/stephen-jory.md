@@ -23,7 +23,7 @@ British counterfeiter who printed £12 million in fake £20 notes from a garden 
 | 2009 | Arrested by Metropolitan Police |
 | 2010 | Convicted; sentenced to 6 years |
 
-## References
+
 
 [^1]: Wikipedia, "Stephen Jory" - https://en.wikipedia.org/wiki/Stephen_Jory
 
@@ -50,3 +50,6 @@ The case is frequently cited to illustrate how advances in printing and imaging 
 ## Notes
 
 This article is a high-level summary intended for quick reference.
+
+
+## References

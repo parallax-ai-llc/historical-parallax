@@ -24,7 +24,7 @@ South Korean former justice minister whose family was embroiled in a corruption 
 | 2020 | Wife convicted of document forgery |
 | 2024 | His party won major election victory |
 
-## References
+
 
 [^1]: Wikipedia, "Cho Kuk" - https://en.wikipedia.org/wiki/Cho_Kuk
 
@@ -49,3 +49,6 @@ The Cho Kuk controversy is frequently referenced in discussions about elite educ
 South Korean prosecution reform; political street demonstrations; admissions and credential controversies; trust in institutions and polarization dynamics.
 
 Because the episode cut across law, education, and partisan identity, it continues to be cited as a turning point in recent Korean political discourse.
+
+
+## References

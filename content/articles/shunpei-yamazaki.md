@@ -5,7 +5,7 @@ birth: "1942-01-01"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Engineer", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Engineering.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shunpei_Yamazaki"
 lastUpdated: "2026-02-21"

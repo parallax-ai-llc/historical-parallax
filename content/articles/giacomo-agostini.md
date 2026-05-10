@@ -23,7 +23,7 @@ Giacomo Agostini won 15 Grand Prix motorcycle racing World Championships, a reco
 | 1972 | Won 12th World Championship |
 | 1975 | Won 15th and final World Championship |
 
-## References
+
 
 [^1]: Wikipedia, "Giacomo Agostini" - https://en.wikipedia.org/wiki/Giacomo_Agostini
 
@@ -49,3 +49,6 @@ Giacomo Agostini won 15 Grand Prix motorcycle racing World Championships, a reco
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
 
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+
+## References

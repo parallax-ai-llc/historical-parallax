@@ -23,7 +23,7 @@ South African serial killer known as the Muldersdrift Strangler who murdered at 
 | 2006 | Arrested |
 | 2008 | Convicted and sentenced to 10 life terms |
 
-## References
+
 
 [^1]: Wikipedia, "Geoffrey Griffin" - https://en.wikipedia.org/wiki/Geoffrey_Griffin
 
@@ -49,3 +49,6 @@ Griffin was sentenced to multiple life terms. In South African court practice, m
 He is referred to as the “Muldersdrift Strangler,” a label derived from the area associated with some of the crimes. Such monikers are common in media coverage of serial cases, functioning as shorthand for geographically linked patterns, though they can also oversimplify the details of where incidents occurred and how investigations unfolded.
 
 In case summaries, the West Rand setting is often noted as a mix of urban edges and semi-rural routes that can create opportunities for predatory crimes.
+
+
+## References

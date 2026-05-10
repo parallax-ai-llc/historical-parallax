@@ -5,7 +5,7 @@ birth: "1986-01-26"
 death: "living"
 nationality: "American"
 occupation: ["Immunologist", "Viral Immunologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Kizzmekia_Corbett_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kizzmekia_Corbett"
 lastUpdated: "2026-02-21"

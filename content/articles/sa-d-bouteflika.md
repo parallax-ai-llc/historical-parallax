@@ -37,7 +37,7 @@ His arrest followed the 2019 mass protest movement (often referred to as the Hir
 
 The conviction and sentence were widely interpreted as part of the state’s response to the legitimacy crisis of the period. Supporters of the crackdown presented it as accountability; critics argued it could also function as selective justice or factional consolidation.
 
-## References
+
 
 [^1]: Wikipedia, "Saïd Bouteflika" - https://en.wikipedia.org/wiki/Sa%C3%AFd_Bouteflika
 
@@ -50,3 +50,6 @@ The conviction and sentence were widely interpreted as part of the state’s res
 ## Notes on sources
 
 Public accounts of behind-the-scenes influence can vary, and many descriptions of Saïd Bouteflika’s role are based on journalistic reporting and political analysis rather than transparent institutional records.
+
+
+## References

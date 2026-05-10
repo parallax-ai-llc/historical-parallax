@@ -41,7 +41,7 @@ The number of people killed is not settled in popular summaries, and figures rep
 
 Thiaroye is often referenced in scholarship and public memory as a case study in colonial military exploitation and postwar demobilization failures. It has also been represented in cultural works, including Ousmane Sembène’s film *Camp de Thiaroye* (1988), which helped bring wider attention to the event.
 
-## References
+
 
 [^1]: Wikipedia, "Thiaroye Massacre 1944" - https://en.wikipedia.org/wiki/Thiaroye_Massacre_1944
 
@@ -49,3 +49,6 @@ Thiaroye is often referenced in scholarship and public memory as a case study in
 
 - Tirailleurs sénégalais — French colonial infantry units recruited from West Africa.
 - Decolonization and veterans’ rights movements in French West Africa.
+
+
+## References

@@ -21,7 +21,7 @@ Hanjin Shipping, the world's seventh-largest container line, collapsed leaving 5
 |------|-------|
 | 2016 | Company filed for bankruptcy |
 
-## References
+
 
 [^1]: Wikipedia, "Hanjin Shipping Collapse" - https://en.wikipedia.org/wiki/Hanjin_Shipping_Collapse
 
@@ -64,3 +64,6 @@ Hanjin Shipping, the world's seventh-largest container line, collapsed leaving 5
 
 - South Korean corporate governance debates
 - Global container shipping overcapacity cycles
+
+
+## References

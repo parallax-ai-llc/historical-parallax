@@ -24,7 +24,7 @@ German-American criminal known as the 'Napoleon of Crime' who was the inspiratio
 | 1892 | Arrested in Belgium |
 | 1902 | Died in London |
 
-## References
+
 
 [^1]: Wikipedia, "Adam Worth" - https://en.wikipedia.org/wiki/Adam_Worth
 
@@ -48,3 +48,6 @@ German-American criminal known as the 'Napoleon of Crime' who was the inspiratio
 - Contemporary news reporting and court documents where available.
 - Academic or policy analyses for historical and political context.
 - For contested topics, compare multiple reputable sources and primary documents when available.
+
+
+## References

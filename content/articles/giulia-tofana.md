@@ -23,7 +23,7 @@ Italian poisoner who sold a slow-acting poison called Aqua Tofana to women wanti
 | 1659 | Arrested and tortured into confession |
 | 1659 | Executed in Rome along with her daughter |
 
-## References
+
 
 [^1]: Wikipedia, "Giulia Tofana" - https://en.wikipedia.org/wiki/Giulia_Tofana
 
@@ -55,3 +55,6 @@ Narratives typically describe an eventual crackdown by authorities, confessions 
 
 - Studies of crime and punishment in early-modern Rome and Naples
 - Histories of poisoning cases and forensic limitations before modern toxicology
+
+
+## References

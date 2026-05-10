@@ -21,7 +21,7 @@ Chen Shih-hsin won Taiwan's first-ever Olympic gold medal in taekwondo at the 20
 |------|-------|
 | 2004 | Won Taiwan's first Olympic gold medal at Athens |
 
-## References
+
 
 [^1]: Wikipedia, "Chen Shih-hsin" - https://en.wikipedia.org/wiki/Chen_Shih-hsin
 
@@ -56,3 +56,5 @@ Chen Shih-hsin won Taiwan's first-ever Olympic gold medal in taekwondo at the 20
 [^2]: Taipei Economic and Cultural Representative Office in the U.S., “Taekwondo team wins Taiwan's first-ever Olympic gold” - https://www.roc-taiwan.org/us_en/post/505.html
 [^3]: Taipei Times, “Tears of victory and vindication” (Aug 28, 2004) - https://www.taipeitimes.com/News/taiwan/archives/2004/08/28/2003200556
 [^4]: TaekwondoData.com, athlete profile - https://www.taekwondodata.com/shih-hsin-chen.ayg.html
+
+

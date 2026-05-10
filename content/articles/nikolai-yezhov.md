@@ -24,7 +24,7 @@ Soviet secret police chief who oversaw the Great Purge (1937-1938), the bloodies
 | 1938 | Replaced by Beria |
 | 1940 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Nikolai Yezhov" - https://en.wikipedia.org/wiki/Nikolai_Yezhov
 
@@ -49,3 +49,6 @@ The term **Yezhovshchina** is used to describe both Yezhov’s tenure and the br
 
 - Overviews of the Great Purge and NKVD structure in Soviet history surveys
 - Primary-source collections of Soviet security directives (where available)
+
+
+## References

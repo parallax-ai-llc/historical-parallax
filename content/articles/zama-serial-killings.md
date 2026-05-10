@@ -21,7 +21,7 @@ Takahiro Shiraishi lured 9 people through Twitter suicide forums, then murdered 
 |------|-------|
 | 2017 | 9 dismembered bodies found in apartment |
 
-## References
+
 
 [^1]: Wikipedia, "Zama Serial Killings" - https://en.wikipedia.org/wiki/Zama_Serial_Killings
 
@@ -75,3 +75,6 @@ The case is often cited in discussions of:
 
 - Numbers and dates are commonly summarized in secondary sources; the most authoritative record is the court’s decision and associated filings.
 - This article is written at a high level and avoids graphic details.
+
+
+## References

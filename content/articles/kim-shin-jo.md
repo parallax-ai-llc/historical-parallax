@@ -5,7 +5,7 @@ birth: "1942-01-25"
 death: "Unknown"
 nationality: "North Korea"
 occupation: ["Commando"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/94/Kim_Shin-jo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Shin-jo"
 lastUpdated: "2026-02-26"

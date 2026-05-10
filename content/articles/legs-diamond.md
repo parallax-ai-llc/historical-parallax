@@ -5,7 +5,7 @@ birth: "1897-07-10"
 death: "1931-12-18"
 nationality: "United States"
 occupation: ["Gangster", "Bootlegger"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/ae/JackDiamond.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Legs_Diamond"
 lastUpdated: "2026-02-26"
@@ -60,9 +60,12 @@ Diamond’s public image was shaped by repeated shootings he survived. Newspaper
   - period newspaper accounts,
   - and later retellings that may compress timelines or simplify rivalries.
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## See Also
 - Wikipedia: Legs Diamond
 - Prohibition in the United States
+
+
+## References

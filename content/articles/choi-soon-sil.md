@@ -23,7 +23,7 @@ South Korean woman at the center of the corruption scandal that brought down Pre
 | 2016 | Scandal exposed; massive protests erupted |
 | 2018 | Convicted of corruption; sentenced to 20 years, reduced to 18 |
 
-## References
+
 
 [^1]: Wikipedia, "Choi Soon-sil" - https://en.wikipedia.org/wiki/Choi_Soon-sil
 
@@ -53,3 +53,6 @@ South Korean woman at the center of the corruption scandal that brought down Pre
 - Controversies or critical challenges (if applicable)
 - Later years and reassessment
 - Further reading: biographies, primary documents, or governing-body records (as applicable)
+
+
+## References

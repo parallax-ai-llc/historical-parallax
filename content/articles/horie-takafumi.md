@@ -21,7 +21,7 @@ Japanese internet entrepreneur convicted of securities fraud at Livedoor in Japa
 |------|-------|
 | 2007 | Convicted of Livedoor securities fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Horie Takafumi" - https://en.wikipedia.org/wiki/Horie_Takafumi
 
@@ -63,3 +63,6 @@ After the Livedoor case, he remained visible in Japanese public life, frequently
 ## Additional Reading
 
 - Wikipedia: Horie Takafumi — https://en.wikipedia.org/wiki/Horie_Takafumi
+
+
+## References

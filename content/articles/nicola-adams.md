@@ -22,7 +22,7 @@ Nicola Adams won Olympic gold in women's flyweight boxing at both 2012 London an
 | 2012 | Won first women's Olympic boxing gold at London |
 | 2016 | Won second Olympic gold at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Nicola Adams" - https://en.wikipedia.org/wiki/Nicola_Adams
 
@@ -51,3 +51,6 @@ Adams has also been notable as a public figure beyond sport, including advocacy 
 ## Health and Retirement
 
 In later stages of her career, Adams publicly discussed concerns about eyesight and safety in the ring, and these considerations contributed to the decision to step away from competition.
+
+
+## References

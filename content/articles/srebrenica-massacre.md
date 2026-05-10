@@ -23,7 +23,7 @@ Genocide of 8,000+ Bosniak men and boys by Bosnian Serb forces in July 1995. Wor
 | 1995 | 8,000+ killed |
 | 2017 | Mladic convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Srebrenica Massacre" - https://en.wikipedia.org/wiki/Srebrenica_Massacre
 
@@ -52,3 +52,6 @@ Genocide of 8,000+ Bosniak men and boys by Bosnian Serb forces in July 1995. Wor
 
 - Annual commemorations and memorials focus on victims, survivors, and the continuing effort to locate and identify remains.
 - The massacre remains a central reference point in European post–Cold War history and in studies of ethnic cleansing and genocide prevention.
+
+
+## References

@@ -22,7 +22,7 @@ Indonesian ISIS ideologue who inspired multiple terrorist attacks in Indonesia f
 | 2016 | Inspired Jakarta attacks from prison |
 | 2018 | Sentenced to death for terrorism |
 
-## References
+
 
 [^1]: Wikipedia, "Aman Abdurrahman" - https://en.wikipedia.org/wiki/Aman_Abdurrahman
 
@@ -51,3 +51,6 @@ Indonesian ISIS ideologue who inspired multiple terrorist attacks in Indonesia f
 
 [^2]: Reuters (reporting on Indonesian court verdict and sentencing; details vary by publication and date).
 [^3]: Indonesian court coverage and publicly available counterterrorism reporting (BNPT/Densus 88 references in secondary reporting).
+
+
+## References

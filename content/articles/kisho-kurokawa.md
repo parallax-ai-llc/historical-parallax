@@ -5,7 +5,7 @@ birth: "1934-04-08"
 death: "2007-10-12"
 nationality: "Japanese"
 occupation: ["Architect", "Urban designer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/%E9%BB%92%E5%B7%9D%E7%B4%80%E7%AB%A0.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kisho_Kurokawa"
 lastUpdated: "2026-02-21"

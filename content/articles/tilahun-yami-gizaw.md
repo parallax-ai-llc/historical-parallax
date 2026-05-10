@@ -23,7 +23,7 @@ Ethiopian serial killer who murdered at least 19 women in Addis Ababa between 19
 | 2000 | Arrested after eyewitness testimony |
 | 2002 | Convicted and sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Tilahun Yami Gizaw" - https://en.wikipedia.org/wiki/Tilahun_Yami_Gizaw
 
@@ -50,3 +50,6 @@ Most widely available summaries of the case are secondary accounts and may be li
 ## See Also
 
 - Serial crime investigations
+
+
+## References

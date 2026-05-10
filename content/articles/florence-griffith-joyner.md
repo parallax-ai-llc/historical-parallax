@@ -23,7 +23,7 @@ Flo-Jo set the 100m (10.49s) and 200m (21.34s) world records that still stand. S
 | 1988 | Won three gold at Seoul Olympics |
 | 1998 | Died at age 38 |
 
-## References
+
 
 [^1]: Wikipedia, "Florence Griffith-Joyner" - https://en.wikipedia.org/wiki/Florence_Griffith-Joyner
 
@@ -52,3 +52,6 @@ In many retrospectives, Griffith-Joyner is credited with helping make track and 
 ### Record context
 
 Discussion of her 1988 100 m record also often mentions that the wind reading for the semifinal race has been disputed, even while the time remains recognized as the world record.
+
+
+## References

@@ -22,7 +22,7 @@ See earlier entry.
 | 1887 | Born |
 | 1920 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Ramanujan" - https://en.wikipedia.org/wiki/Ramanujan
 
@@ -51,3 +51,6 @@ Ramanujan's notebooks were compiled and studied for decades after his death. The
 - Deep results in **number theory** developed with minimal formal training.
 - A bridge between **intuition and proof** via collaboration with established mathematicians.
 - Ongoing relevance through identities that connect to modern work in **modular forms** and **combinatorics**.
+
+
+## References

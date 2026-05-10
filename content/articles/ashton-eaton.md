@@ -23,7 +23,7 @@ Ashton Eaton won consecutive Olympic decathlon golds (2012, 2016) and set the WR
 | 2015 | Set WR of 9,045 |
 | 2016 | Won gold at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Ashton Eaton" - https://en.wikipedia.org/wiki/Ashton_Eaton
 
@@ -50,3 +50,6 @@ Decathlon points are awarded via event-specific formulas; improvements in techni
 - Olympic combined events (decathlon and heptathlon).
 - World-record progression in the men’s decathlon.
 
+
+
+## References

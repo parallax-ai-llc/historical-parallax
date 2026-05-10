@@ -22,7 +22,7 @@ Pak Hyeokkose was the legendary founder of the Silla kingdom in 57 BC. While a m
 | 57 BC | Founded Silla kingdom according to legend |
 | 4 AD | Died according to traditional accounts |
 
-## References
+
 
 [^1]: Wikipedia, "Pak Hyeokkose" - https://en.wikipedia.org/wiki/Pak_Hyeokkose
 
@@ -51,3 +51,6 @@ Archaeological evidence (tombs, material culture, and settlement patterns) is of
 ## Legacy
 
 Regardless of the literal historicity of the founder narrative, Pak Hyeokgeose remains an important symbol in Korean historical memory. The story connects later Silla achievements—administrative systems, cultural production, and scientific artifacts—to an origin point that provides continuity and identity.
+
+
+## References

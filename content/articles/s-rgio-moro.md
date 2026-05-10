@@ -24,7 +24,7 @@ Brazilian former judge who led the Lava Jato anti-corruption investigation. He w
 | 2019 | Became Bolsonaro's justice minister |
 | 2021 | Supreme Court ruled he was biased in Lula trial |
 
-## References
+
 
 [^1]: Wikipedia, "Sérgio Moro" - https://en.wikipedia.org/wiki/S%C3%A9rgio_Moro
 
@@ -51,3 +51,6 @@ This topic is heavily contested in Brazilian politics. Summaries often differ de
 ## See also
 
 - Operation Car Wash (Lava Jato)
+
+
+## References

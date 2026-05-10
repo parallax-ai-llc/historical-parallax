@@ -21,7 +21,7 @@ A couple in Sapporo murdered a man and severed his head, keeping it in their hom
 |------|-------|
 | 2023 | Decapitation murder in Sapporo |
 
-## References
+
 
 [^1]: Wikipedia, "Susukino Head Case" - https://en.wikipedia.org/wiki/Susukino_Head_Case
 
@@ -79,3 +79,6 @@ The case drew wide attention due to:
 ## References and Link Notes
 
 - The Wikipedia link above is retained as a pointer to a commonly cited title, but availability can change over time.
+
+
+## References

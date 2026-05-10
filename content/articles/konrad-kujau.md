@@ -5,7 +5,7 @@ birth: "1938-06-27"
 death: "2000-09-12"
 nationality: "Germany"
 occupation: ["Counterfeiter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Kujau_wiki.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Konrad_Kujau"
 lastUpdated: "2026-02-21"

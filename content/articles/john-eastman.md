@@ -42,7 +42,7 @@ Legal scholar disbarred for crafting the legal theory to overturn the 2020 elect
 - Often cited in discussions of how legal arguments were used to provide a veneer of legitimacy to attempts to overturn an election outcome.
 - His case is referenced in broader debates about attorney ethics, accountability, and the boundary between advocacy and misinformation.
 
-## References
+
 
 [^1]: Wikipedia, "John Eastman" - https://en.wikipedia.org/wiki/John_Eastman
 
@@ -56,3 +56,6 @@ Legal scholar disbarred for crafting the legal theory to overturn the 2020 elect
 - The public controversy around Eastman’s memoranda centered on separation of powers and the limited, largely ministerial role of the Vice President in counting Electoral College votes under modern practice.
 - Subsequent litigation and investigations (as summarized in widely reported sources) treated the proposed approach as a stress-test of constitutional interpretation, statutory procedure, and democratic legitimacy.
 - In commentary about attorney ethics, the case is often used to illustrate the difference between novel legal argumentation and claims that rely on factual predicates (e.g., fraud allegations) that courts did not accept.
+
+
+## References

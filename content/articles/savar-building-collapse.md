@@ -21,7 +21,7 @@ Rana Plaza garment factory collapse in Bangladesh killed 1,134 workers. The buil
 |------|-------|
 | 2013 | 1,134 killed in building collapse |
 
-## References
+
 
 [^1]: Wikipedia, "Savar Building Collapse" - https://en.wikipedia.org/wiki/Savar_Building_Collapse
 
@@ -68,3 +68,6 @@ It is frequently cited in debates about:
 - Supply-chain transparency
 - Labor rights and worker representation
 - The responsibilities of multinational companies sourcing from low-cost manufacturing hubs
+
+
+## References

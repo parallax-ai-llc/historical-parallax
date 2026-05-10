@@ -23,7 +23,7 @@ Decades-long Belgian arms trading to conflict zones that fueled wars across Afri
 | 2011 | Arms to Libya |
 | 2018 | Parliamentary investigation |
 
-## References
+
 
 [^1]: Wikipedia, "Belgian Arms Trade Scandal" - https://en.wikipedia.org/wiki/Belgian_Arms_Trade_Scandal
 
@@ -51,3 +51,6 @@ Arms-export oversight is closely tied to accountability, foreign policy, and hum
 - Dates, counts, and interpretations can vary by source; consult references for detail.
 - The topic is commonly discussed in terms of institutions, incentives, and long-term impact.
 
+
+
+## References

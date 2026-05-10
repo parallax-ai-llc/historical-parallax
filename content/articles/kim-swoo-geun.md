@@ -5,7 +5,7 @@ birth: "1931-02-20"
 death: "1986-06-15"
 nationality: "Korean"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/4d/Korean_architect-Kim_Swoo_Geun-1985.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Swoo-geun"
 lastUpdated: "2026-02-21"

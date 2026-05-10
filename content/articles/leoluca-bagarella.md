@@ -5,7 +5,7 @@ birth: "1942-02-03"
 death: "N/A (Imprisoned)"
 nationality: "Italy"
 occupation: ["Mafia Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/2a/Leoluca_Bagarella.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leoluca_Bagarella"
 lastUpdated: "2026-02-21"

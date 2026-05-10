@@ -23,7 +23,7 @@ Brazilian former president who was briefly arrested on corruption charges in 201
 | 2019 | Arrested on corruption charges; released days later |
 | 2021 | Charges suspended |
 
-## References
+
 
 [^1]: Wikipedia, "Michel Temer" - https://en.wikipedia.org/wiki/Michel_Temer
 
@@ -48,3 +48,6 @@ After leaving office, Temer faced investigations and legal actions tied to alleg
 ## Legacy and Context
 
 Temer's tenure is commonly discussed in relation to Brazil's post-impeachment transition, the broader anti-corruption wave that affected many political figures, and the long-term debate about economic reform and democratic legitimacy during crisis periods.
+
+
+## References

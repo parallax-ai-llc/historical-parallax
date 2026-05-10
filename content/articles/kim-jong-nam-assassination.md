@@ -22,7 +22,7 @@ Half-brother of North Korean leader Kim Jong-un who was assassinated at Kuala Lu
 | 2017 | Assassinated at KL airport with VX nerve agent |
 | 2019 | Only one suspect convicted, sentenced to three years |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Jong-nam Assassination" - https://en.wikipedia.org/wiki/Kim_Jong-nam_assassination
 
@@ -49,3 +49,6 @@ The assassination triggered a significant diplomatic rift between **Malaysia and
 ## Historical Significance
 
 The killing of a high-profile member of the North Korean ruling family abroad is frequently cited in analyses of North Korean internal politics, succession dynamics, and the external reach of state-linked security services.
+
+
+## References

@@ -22,7 +22,7 @@ Military dictator of Mali for 23 years who was overthrown and sentenced to death
 | 1968 | Seized power in military coup |
 | 1991 | Overthrown in popular uprising |
 
-## References
+
 
 [^1]: Wikipedia, "Moussa Traoré" - https://en.wikipedia.org/wiki/Moussa_Traor%C3%A9
 
@@ -50,3 +50,6 @@ Traoré’s legacy is often discussed in relation to Mali’s democratization in
 
 This article summarizes widely cited themes in historical overviews; specific legal findings and casualty figures vary by source.
 
+
+
+## References

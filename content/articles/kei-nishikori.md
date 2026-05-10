@@ -5,7 +5,7 @@ birth: "1989-12-29"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Tennis Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nishikori_RG18_%2856%29_%2842077294635%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kei_Nishikori"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Kei Nishikori reached the 2014 US Open final, the first Asian man to reach a Gra
 | 2014 | Reached US Open final |
 | 2015 | Reached world ranking of number four |
 
-## References
+
 
 [^1]: Wikipedia, "Kei Nishikori" - https://en.wikipedia.org/wiki/Kei_Nishikori
 
@@ -51,3 +51,6 @@ Nishikori has represented Japan in team competition (such as Davis Cup) and in O
 ## Additional Reference
 
 [^2]: ATP Tour player profile (overview) - https://www.atptour.com/
+
+
+## References

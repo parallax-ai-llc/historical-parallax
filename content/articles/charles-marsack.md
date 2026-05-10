@@ -21,7 +21,7 @@ Colonial judge accused of harsh and racially biased sentencing in Western Samoa.
 |------|-------|
 | 1955 | Imposed controversial sentences in Samoa |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Marsack" - https://en.wikipedia.org/wiki/Charles_Marsack
 
@@ -73,3 +73,6 @@ Colonial judge accused of harsh and racially biased sentencing in Western Samoa.
 
 - This page intentionally preserves existing claims **without deleting them**.
 - Added notes above are meant to prevent accidental overconfidence when using the record for analysis.
+
+
+## References

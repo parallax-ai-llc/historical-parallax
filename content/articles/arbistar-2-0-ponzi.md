@@ -22,7 +22,7 @@ Spanish cryptocurrency trading bot Ponzi scheme that defrauded 32,000 investors 
 | 2020 | Platform froze withdrawals trapping investor funds |
 | 2020 | Spanish police investigated massive fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Arbistar 2.0 Ponzi" - https://en.wikipedia.org/wiki/Arbistar_2.0_Ponzi
 
@@ -61,3 +61,6 @@ Arbistar 2.0 is often cited as an example of:
 ## Additional Reading
 
 [^2]: Wikipedia (background), "Ponzi scheme" - https://en.wikipedia.org/wiki/Ponzi_scheme
+
+
+## References

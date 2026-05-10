@@ -23,7 +23,7 @@ Paolo Maldini spent 25 years at AC Milan, winning five CLs. He is the greatest d
 | 2003 | Won fifth CL |
 | 2009 | Retired after 25 years |
 
-## References
+
 
 [^1]: Wikipedia, "Paolo Maldini" - https://en.wikipedia.org/wiki/Paolo_Maldini
 
@@ -50,3 +50,6 @@ Across his career he was regularly included in domestic and international "team 
 ## Further Reading
 
 Season-by-season statistics and match logs are commonly compiled by football reference databases, alongside official AC Milan and UEFA competition records.
+
+
+## References

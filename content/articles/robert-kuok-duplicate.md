@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1923 | See Robert Kuok |
 
-## References
+
 
 [^1]: Wikipedia, "Robert Kuok duplicate" - https://en.wikipedia.org/wiki/Robert_Kuok_duplicate
 
@@ -51,3 +51,6 @@ The name *Robert Kuok* most commonly refers to **Robert Kuok Hock Nien** (born 1
 - Merge this duplicate entry into the canonical *Robert Kuok* article if one exists in the repository.
 - Replace the “Duplicate.” summary with a short redirect-style note when merges are not possible.
 - Ensure references point to a verifiable primary page for the canonical subject.
+
+
+## References

@@ -22,7 +22,7 @@ The FBI estimates art theft generates $6-8 billion annually, making it one of th
 | 1990 | $500 million Gardner Museum theft |
 | 2023 | Stolen art remains a major criminal market |
 
-## References
+
 
 [^1]: Wikipedia, "Stolen Art Market" - https://en.wikipedia.org/wiki/Stolen_Art_Market
 
@@ -56,3 +56,6 @@ Ovett remains a reference point in discussions of:
 ## Further Reading
 
 - Wikipedia profile (overview, major results, and record notes): see reference below.
+
+
+## References

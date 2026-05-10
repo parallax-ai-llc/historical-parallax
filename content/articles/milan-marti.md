@@ -24,7 +24,7 @@ Croatian Serb police and political leader convicted of war crimes by the ICTY fo
 | 2007 | Convicted of 16 counts of war crimes |
 | 2007 | Sentenced to 35 years |
 
-## References
+
 
 [^1]: Wikipedia, "Milan Martić" - https://en.wikipedia.org/wiki/Milan_Marti%C4%87
 
@@ -49,3 +49,6 @@ Croatian Serb police and political leader convicted of war crimes by the ICTY fo
 - This article is a high-level overview intended as a starting point.
 - For detailed chronology and primary sources, consult reputable historical references.
 - When multiple narratives exist, prefer well-sourced scholarship and contemporaneous records.
+
+
+## References

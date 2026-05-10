@@ -23,7 +23,7 @@ Forced march of 75,000 American and Filipino POWs by Japanese forces in April 19
 | 1942 | Thousands died en route |
 | 1946 | Japanese officers convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Bataan Death March" - https://en.wikipedia.org/wiki/Bataan_Death_March
 
@@ -53,3 +53,6 @@ The march remains a major part of wartime remembrance in both the Philippines an
 - Dates, counts, and interpretations can vary by source; consult references for detail.
 - The topic is commonly discussed in terms of institutions, incentives, and long-term impact.
 
+
+
+## References

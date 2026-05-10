@@ -3,6 +3,7 @@ name: "Siddhartha Mukherjee"
 birth: "1970-07-21"
 nationality: "Indian-American"
 occupation: ["Physician", "Oncologist", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Siddhartha_Mukherjee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siddhartha_Mukherjee"
 lastUpdated: "2026-03-12"

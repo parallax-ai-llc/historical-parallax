@@ -3,6 +3,7 @@ name: "King Willem-Alexander"
 birth: "1967-04-27"
 nationality: "Dutch"
 occupation: ["Monarch", "King", "Pilot"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Zijne_Majesteit_Koning_Willem-Alexander_met_koningsmantel_april_2013_%28cropped%29.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Willem-Alexander_of_the_Netherlands"
 lastUpdated: "2026-03-12"

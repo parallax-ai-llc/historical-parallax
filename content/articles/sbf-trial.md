@@ -22,7 +22,7 @@ Sam Bankman-Fried's federal trial revealed how he stole $8 billion from FTX cust
 | 2023 | Trial began |
 | 2024 | Sentenced to 25 years |
 
-## References
+
 
 [^1]: Wikipedia, "SBF Trial" - https://en.wikipedia.org/wiki/SBF_Trial
 
@@ -48,3 +48,6 @@ Sam Bankman-Fried's federal trial revealed how he stole $8 billion from FTX cust
 
 - The proceedings accelerated debate about exchange governance, proof-of-reserves claims, and the responsibilities of crypto intermediaries.
 - The case is frequently referenced as a turning point in mainstream scrutiny of the crypto industry.
+
+
+## References

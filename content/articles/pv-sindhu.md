@@ -23,7 +23,7 @@ PV Sindhu won the 2019 World Championship gold and Olympic silver at 2016 Rio an
 | 2019 | Won World Championship gold |
 | 2021 | Won Olympic bronze at Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "PV Sindhu" - https://en.wikipedia.org/wiki/PV_Sindhu
 
@@ -49,3 +49,6 @@ This article is a short overview; exact tournament wins, rankings, and honors sh
 
 - Badminton World Federation (BWF)
 - Badminton at the Summer Olympics
+
+
+## References

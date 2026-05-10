@@ -5,7 +5,7 @@ birth: "-0020-01-01"
 death: "0031-10-18"
 nationality: "Roman Empire"
 occupation: ["Historical Criminal", "Conspirator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Sejanus_is_arrested_and_condemned_to_death.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sejanus"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Praetorian Guard prefect who effectively controlled Rome for the reclusive Emper
 | 23 | Allegedly poisoned Tiberius's son Drusus |
 | 31 | Denounced by Tiberius and executed |
 
-## References
+
 
 [^1]: Wikipedia, "Sejanus" - https://en.wikipedia.org/wiki/Sejanus
 
@@ -50,3 +50,6 @@ Sejanus became a long-lasting symbol of the dangerous favorite or minister who a
 
 [^2]: Tacitus, *Annals* (books covering the reign of Tiberius), for the classic narrative of Sejanus’s rise and fall.
 [^3]: Suetonius, *The Twelve Caesars* (Tiberius), for additional ancient anecdotes and characterizations.
+
+
+## References

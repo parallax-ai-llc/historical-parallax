@@ -5,7 +5,7 @@ birth: "1848-02-02"
 death: "1848-02-02"
 nationality: "Mexico"
 occupation: ["Historical Event", "Treaty", "Diplomacy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/TreatyOfGuadalupeHidalgoCover.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo"
 lastUpdated: "2026-02-21"

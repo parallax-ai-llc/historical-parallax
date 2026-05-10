@@ -21,7 +21,7 @@ Network of bankers who defrauded European governments of €55 billion through c
 |------|-------|
 | 2021 | Major convictions in €55 billion tax fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Cum-Ex Scandal Participants" - https://en.wikipedia.org/wiki/Cum-Ex_Scandal_Participants
 
@@ -70,3 +70,6 @@ When extending this article further, it is best practice to distinguish those ca
 
 [^2]: Wikipedia, "CumEx-Files" - https://en.wikipedia.org/wiki/CumEx-Files
 [^3]: Wikipedia, "Cum-ex" - https://en.wikipedia.org/wiki/Cum-ex
+
+
+## References

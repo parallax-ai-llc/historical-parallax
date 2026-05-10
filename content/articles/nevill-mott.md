@@ -24,7 +24,7 @@ Nevill Mott shared the 1977 Nobel Prize for work on electronic structure of magn
 | 1977 | Nobel Prize |
 | 1996 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Nevill Mott" - https://en.wikipedia.org/wiki/Nevill_Mott
 
@@ -48,3 +48,6 @@ Nevill Mott shared the 1977 Nobel Prize for work on electronic structure of magn
 
 - Wikipedia (see link above)
 - Additional high-level context can be added from reliable sources.
+
+
+## References

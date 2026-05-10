@@ -3,6 +3,7 @@ name: "Kim Soo-hyun"
 birth: "1988-02-16"
 nationality: "South Korean"
 occupation: ["Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Kim_Soo-hyun_in_August_2024_-_2.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Soo-hyun_(actor)"
 lastUpdated: "2026-03-12"

@@ -22,7 +22,7 @@ Moldovan businessman who stole $1 billion from banking system in 'theft of the c
 | 2014 | Orchestrated theft of $1 billion from three banks |
 | 2017 | Convicted and sentenced to 15 years in absentia |
 
-## References
+
 
 [^1]: Wikipedia, "Ilan Shor" - https://en.wikipedia.org/wiki/Ilan_Shor
 
@@ -61,3 +61,6 @@ Because the topic combines criminal allegations and partisan politics, phrasing 
 - 2014 Moldovan bank fraud
 - Politics of Moldova
 - Orhei
+
+
+## References

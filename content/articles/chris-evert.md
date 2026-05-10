@@ -23,7 +23,7 @@ Chris Evert won 18 Grand Slam titles and reached 34 Grand Slam semi-finals. Her 
 | 1974 | Won first Wimbledon title |
 | 1989 | Retired with 18 Grand Slam titles |
 
-## References
+
 
 [^1]: Wikipedia, "Chris Evert" - https://en.wikipedia.org/wiki/Chris_Evert
 
@@ -53,3 +53,6 @@ Chris Evert won 18 Grand Slam titles and reached 34 Grand Slam semi-finals. Her 
 - Controversies or critical challenges (if applicable)
 - Later years and reassessment
 - Further reading: biographies, primary documents, or governing-body records (as applicable)
+
+
+## References

@@ -22,7 +22,7 @@ Former Russian intelligence officer poisoned with Novichok nerve agent by GRU as
 | 2018 | Poisoned with Novichok in Salisbury |
 | 2018 | GRU agents identified |
 
-## References
+
 
 [^1]: Wikipedia, "Sergei Skripal" - https://en.wikipedia.org/wiki/Sergei_Skripal
 
@@ -48,3 +48,6 @@ Former Russian intelligence officer poisoned with Novichok nerve agent by GRU as
 
 - The Skripal case is one of the most prominent modern examples of an alleged state-linked poisoning on foreign soil.
 - It reinforced international concern about the proliferation and use of nerve agents and the enforcement of chemical weapons norms.
+
+
+## References

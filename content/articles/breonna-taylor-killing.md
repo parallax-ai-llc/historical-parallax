@@ -22,7 +22,7 @@ Louisville police killed 26-year-old EMT Breonna Taylor while executing a no-kno
 |------|-------|
 | 2020 | Breonna Taylor killed in her home |
 
-## References
+
 
 [^1]: Wikipedia, "Breonna Taylor Killing" - https://en.wikipedia.org/wiki/Breonna_Taylor_Killing
 
@@ -63,3 +63,6 @@ Louisville police killed 26-year-old EMT Breonna Taylor while executing a no-kno
 - **No-knock warrant**: A warrant that can authorize police to enter without knocking/announcing in certain circumstances.
 - **Search warrant**: Court authorization to search a specified location for evidence related to an investigation.
 - **Use-of-force review**: Administrative and/or criminal processes that evaluate police conduct during an incident.
+
+
+## References

@@ -45,7 +45,7 @@ Cases described as serial predation against vulnerable populations tend to gener
 - the lag between early warning signs (disappearances) and coordinated law-enforcement response
 - the role of local networks in documenting patterns over time
 
-## References
+
 
 [^1]: Prior public listing (often cited), "Juan Covenas Ramirez" (link may not always resolve) - https://en.wikipedia.org/wiki/Juan_Covenas_Ramirez
 
@@ -64,3 +64,6 @@ Accounts that mention a community-led component generally describe local residen
 ## Caution on figures
 
 Victim counts in open summaries typically represent **minimum confirmed numbers**. Press reports may cite higher totals, but unless corroborated by court findings, they are best treated as allegations rather than definitive tallies.
+
+
+## References

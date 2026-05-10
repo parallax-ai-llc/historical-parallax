@@ -23,7 +23,7 @@ Bank robbery in Fortaleza, Brazil on August 6, 2005 where thieves tunneled into 
 | 2005 | $70 million stolen |
 | 2007 | Some suspects caught |
 
-## References
+
 
 [^1]: Wikipedia, "Banco Central Burglary" - https://en.wikipedia.org/wiki/Banco_Central_Burglary
 
@@ -52,3 +52,6 @@ Bank robbery in Fortaleza, Brazil on August 6, 2005 where thieves tunneled into 
 
 - The case is frequently cited as one of the largest bank vault thefts in Brazil and a prominent example of “tunnel robbery” tactics.
 - It contributed to discussions about physical security, perimeter monitoring, and the need for layered detection systems beyond the vault door itself.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1969-11-26"
 death: "Unknown"
 nationality: "American"
 occupation: ["Painter", "Sculptor", "Installation Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Kara_Walker_Interview_Camden_Arts_Centre_01.47_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kara_Walker"
 lastUpdated: "2026-02-21"

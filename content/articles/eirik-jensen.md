@@ -26,7 +26,7 @@ Norway's most senior police officer convicted of corruption, having helped smugg
 | 2022 | Subject of the Netflix documentary *Mr. Good: Cop Or Crook?* |
 | 2023 | Granted a temporary release from prison for a limited period (per public reporting) |
 
-## References
+
 
 [^1]: Wikipedia, "Eirik Jensen" - https://en.wikipedia.org/wiki/Eirik_Jensen
 
@@ -57,3 +57,6 @@ Public reporting also notes that Jensen has been the subject of documentary cove
 ## Additional references
 
 [^2]: BBC News, "Norway jails top policeman for smuggling hashish" (referenced by Wikipedia) — see Wikipedia ref list
+
+
+## References

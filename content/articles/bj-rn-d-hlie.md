@@ -23,7 +23,7 @@ Bjørn Dæhlie won 12 Winter Olympic medals (8 gold), the most decorated male Wi
 | 1994 | Won two gold at Lillehammer |
 | 1998 | Won three gold at Nagano |
 
-## References
+
 
 [^1]: Wikipedia, "Bjørn Dæhlie" - https://en.wikipedia.org/wiki/Bj%C3%B8rn_D%C3%A6hlie
 
@@ -51,3 +51,6 @@ Bjørn Dæhlie won 12 Winter Olympic medals (8 gold), the most decorated male Wi
 
 - Dæhlie remains a reference point in Olympic history for total Winter medals among male athletes.
 - In Norway, he is widely regarded as one of the country’s most celebrated winter-sport champions.
+
+
+## References

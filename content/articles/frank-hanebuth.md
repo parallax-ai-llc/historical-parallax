@@ -24,7 +24,7 @@ German Hells Angels boss who led the Hanover chapter and built an international 
 | 2016 | Released after charges reduced |
 | 2017 | Returned to Germany |
 
-## References
+
 
 [^1]: Wikipedia, "Frank Hanebuth" - https://en.wikipedia.org/wiki/Frank_Hanebuth
 
@@ -49,3 +49,6 @@ German and European law enforcement agencies have periodically targeted outlaw m
 - Outlaw motorcycle clubs
 - Organized crime investigations
 - European cross-border policing
+
+
+## References

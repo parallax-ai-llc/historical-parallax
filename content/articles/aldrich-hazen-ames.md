@@ -42,7 +42,7 @@ His case is commonly cited in discussions of counterintelligence tradecraft, ins
 - **Operational security**: Shows how the compromise of a small set of identifiers can cascade across multiple cases.
 - **Institutional lessons**: Commonly used as a cautionary example for continuous evaluation, audits, and anomaly detection.
 
-## References
+
 
 [^1]: Wikipedia, "Aldrich Hazen Ames" - https://en.wikipedia.org/wiki/Aldrich_Hazen_Ames
 
@@ -55,3 +55,6 @@ His case is commonly cited in discussions of counterintelligence tradecraft, ins
 
 - U.S. Department of Justice (press materials and case summaries, where available)
 - CIA public histories and declassified materials discussing Cold War counterintelligence (where available)
+
+
+## References

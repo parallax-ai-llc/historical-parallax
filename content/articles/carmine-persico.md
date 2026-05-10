@@ -19,7 +19,7 @@ Carmine 'The Snake' Persico was the longtime boss of the Colombo crime family. H
 |------|-------|
 | 1933 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -48,3 +48,6 @@ Carmine 'The Snake' Persico was the longtime boss of the Colombo crime family. H
 
 ## Additional references
 [^2]: Wikipedia contributors, "Carmine Persico," *Wikipedia, The Free Encyclopedia* (see page history and cited sources): https://en.wikipedia.org/wiki/Carmine_Persico
+
+
+## References

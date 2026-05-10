@@ -19,7 +19,7 @@ Ian Brady with Myra Hindley committed the Moors murders. They kidnapped, sexuall
 |------|-------|
 | 1938 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Ian Brady" — overview of biography, crimes, trial, and incarceration. https://en.wikipedia.org/wiki/Ian_Brady
 [^3]: Duncan Staff, *The Lost Boy: The Search for Lesley Ann Downey* (true-crime account and investigation context).
@@ -59,3 +59,6 @@ Ian Brady with Myra Hindley committed the Moors murders. They kidnapped, sexuall
 - 1966: Convicted; life sentence imposed.[^2]
 - 1980s–1990s: Renewed searches and public attention as admissions and investigative efforts continued.[^2]
 - 2017: Died in custody.[^2]
+
+
+## References

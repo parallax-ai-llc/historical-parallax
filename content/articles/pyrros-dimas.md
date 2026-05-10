@@ -23,7 +23,7 @@ Pyrros Dimas won three consecutive Olympic golds (1992-2000) plus 2004 bronze.
 | 2000 | Won third gold at Sydney |
 | 2004 | Won bronze at Athens |
 
-## References
+
 
 [^1]: Wikipedia, "Pyrros Dimas" - https://en.wikipedia.org/wiki/Pyrros_Dimas
 
@@ -53,3 +53,6 @@ Pyrros Dimas won three consecutive Olympic golds (1992-2000) plus 2004 bronze.
 - Olympic weightlifting
 - Greece at the Olympic Games
 - International Weightlifting Federation
+
+
+## References

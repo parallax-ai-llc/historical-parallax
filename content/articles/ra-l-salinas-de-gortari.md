@@ -23,7 +23,7 @@ Mexican politician and brother of former President Carlos Salinas who was convic
 | 1999 | Convicted of murder and sentenced to 50 years |
 | 2005 | Murder conviction overturned, acquitted |
 
-## References
+
 
 [^1]: Wikipedia, "Raúl Salinas de Gortari" - https://en.wikipedia.org/wiki/Ra%C3%BAl_Salinas_de_Gortari
 
@@ -51,3 +51,6 @@ Mexican politician and brother of former President Carlos Salinas who was convic
 
 - Political corruption in Mexico
 - Money laundering enforcement
+
+
+## References

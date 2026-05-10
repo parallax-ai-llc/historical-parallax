@@ -21,7 +21,7 @@ Earthquake and tsunami caused meltdowns at three Fukushima Daiichi reactors. TEP
 |------|-------|
 | 2011 | Three reactor meltdowns |
 
-## References
+
 
 [^1]: Wikipedia, "Fukushima Disaster" - https://en.wikipedia.org/wiki/Fukushima_Disaster
 
@@ -59,3 +59,6 @@ Earthquake and tsunami caused meltdowns at three Fukushima Daiichi reactors. TEP
 - **Defense-in-depth matters:** Diverse, protected power and cooling pathways reduce common-cause failure risk.
 - **External hazards are not static:** Seismic/tsunami assumptions must be periodically revisited with updated science.
 - **Crisis communication:** Clear, timely information is essential for public trust and effective protective actions.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "2004-01-01"
 death: "Unknown"
 nationality: "DR Congo"
 occupation: ["Criminal Conflict"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kivuconflict.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kivu_Conflict"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Ongoing conflict in eastern Congo involving dozens of armed groups fighting for 
 |------|-------|
 | 2004 | Continued violence in Kivu provinces |
 
-## References
+
 
 [^1]: Wikipedia, "Kivu Conflict" - https://en.wikipedia.org/wiki/Kivu_Conflict
 
@@ -65,3 +65,5 @@ Ongoing conflict in eastern Congo involving dozens of armed groups fighting for 
 
 [^2]: United Nations, MONUSCO (Mission overview) - https://monusco.unmissions.org/
 [^3]: UN Security Council Sanctions (DRC) - https://main.un.org/securitycouncil/en/sanctions/1533
+
+

@@ -5,7 +5,7 @@ birth: "1967-06-19"
 death: "N/A"
 nationality: "Indian-Tibetan"
 occupation: ["Buddhist Teacher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Khandro_Rinpoche.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khandro_Rinpoche"
 lastUpdated: "2026-02-21"

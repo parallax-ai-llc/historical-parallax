@@ -22,7 +22,7 @@ Former deputy party secretary of Sichuan Province convicted of bribery. He was t
 | 2012 | First senior official investigated in Xi's anti-corruption campaign |
 | 2015 | Sentenced to 13 years for accepting bribes |
 
-## References
+
 
 [^1]: Wikipedia, "Li Chuncheng" - https://en.wikipedia.org/wiki/Li_Chuncheng
 
@@ -50,3 +50,6 @@ Former deputy party secretary of Sichuan Province convicted of bribery. He was t
 - Li’s downfall is frequently framed as an early milestone in a larger national anti-corruption drive.
 - The case illustrates how disciplinary investigations can reshape provincial leadership networks.
 - Sentencing outcomes are often used in policy commentary about deterrence and Party control.
+
+
+## References

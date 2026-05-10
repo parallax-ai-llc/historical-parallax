@@ -5,7 +5,7 @@ birth: "1965-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Robotic surgeon", "Medical engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Crystal_Clear_app_Login_Manager_2.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Hyun-jun"
 lastUpdated: "2026-02-21"

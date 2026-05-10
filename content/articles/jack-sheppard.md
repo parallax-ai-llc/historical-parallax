@@ -23,7 +23,7 @@ English thief who became famous for his daring prison escapes. He escaped from N
 | 1724 | Escaped from Newgate Prison multiple times |
 | 1724 | Hanged at Tyburn before crowd of 200,000 |
 
-## References
+
 
 [^1]: Wikipedia, "Jack Sheppard" - https://en.wikipedia.org/wiki/Jack_Sheppard
 
@@ -49,3 +49,6 @@ After his death, Sheppard became a recurring figure in English popular history. 
 
 - Newgate Prison (historical context)
 - Tyburn executions and 18th-century criminal justice in England (general)
+
+
+## References

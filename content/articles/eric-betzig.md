@@ -23,7 +23,7 @@ Eric Betzig is an American physicist who shared the 2014 Nobel Prize in Chemistr
 | 2006 | Developed PALM microscopy |
 | 2014 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Eric Betzig" - https://en.wikipedia.org/wiki/Eric_Betzig
 
@@ -48,3 +48,6 @@ Super-resolution fluorescence microscopy enabled:
 [^2]: Nobel Prize, "The Nobel Prize in Chemistry 2014" - https://www.nobelprize.org/prizes/chemistry/2014/summary/
 
 Later work associated with Betzig’s group includes advanced imaging modalities such as **lattice light-sheet microscopy**, designed to reduce phototoxicity while capturing fast 3D dynamics in living samples.
+
+
+## References

@@ -22,7 +22,7 @@ Former president of the Central African Republic overthrown in a coup after year
 | 1993 | Elected president of CAR amid allegations of vote rigging |
 | 2003 | Overthrown by François Bozizé while abroad for medical treatment |
 
-## References
+
 
 [^1]: Wikipedia, "Ange-Félix Patassé" - https://en.wikipedia.org/wiki/Ange-F%C3%A9lix_Patass%C3%A9
 
@@ -51,3 +51,6 @@ Patassé is often discussed as a representative of a turbulent era in the Centra
 ## Further Reading
 
 For additional context, biographies and country histories covering the Central African Republic’s post-independence politics typically treat Patassé’s presidency as a key case study in the relationship between elections, military power, and state fragility.
+
+
+## References

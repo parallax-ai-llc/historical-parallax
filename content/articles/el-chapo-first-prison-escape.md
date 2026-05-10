@@ -21,7 +21,7 @@ Joaquín Guzmán escaped from Puente Grande prison reportedly hidden in a laundr
 |------|-------|
 | 2001 | Escaped from maximum-security prison |
 
-## References
+
 
 [^1]: Wikipedia, "El Chapo First Prison Escape" - https://en.wikipedia.org/wiki/El_Chapo_First_Prison_Escape
 
@@ -55,3 +55,6 @@ Joaquín Guzmán escaped from Puente Grande prison reportedly hidden in a laundr
 - The escape is typically framed less as an individual feat and more as an institutional failure enabled by corruption.
 - High-security detention is only as strong as its personnel integrity, auditability of routines, and control over predictable service pathways.
 - The case remains widely referenced in criminology and policy discussions on cartel power and state capacity.
+
+
+## References

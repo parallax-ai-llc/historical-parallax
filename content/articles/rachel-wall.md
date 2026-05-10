@@ -22,7 +22,7 @@ Last woman hanged in Massachusetts and one of the few known American female pira
 | 1781 | Began piracy with husband |
 | 1789 | Hanged in Boston |
 
-## References
+
 
 [^1]: Wikipedia, "Rachel Wall" - https://en.wikipedia.org/wiki/Rachel_Wall
 
@@ -48,3 +48,6 @@ Last woman hanged in Massachusetts and one of the few known American female pira
 - The case illustrates how a small number of surviving references can become an enduring historical sketch through repetition in secondary sources.
 - When writing about her, historians often flag uncertainty and distinguish primary records from later embellishment.
 
+
+
+## References

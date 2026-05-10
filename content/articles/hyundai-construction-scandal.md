@@ -21,7 +21,7 @@ Multiple buildings constructed by Hyundai and other Korean construction companie
 |------|-------|
 | 2022 | Gwangju building collapse killed 9 |
 
-## References
+
 
 [^1]: Wikipedia, "Hyundai Construction Scandal" - https://en.wikipedia.org/wiki/Hyundai_Construction_Scandal
 
@@ -56,3 +56,6 @@ Multiple buildings constructed by Hyundai and other Korean construction companie
 
 - South Korea has seen recurring public debates about construction safety following major collapses, with calls for stronger penalties and clearer responsibility for executives and prime contractors.
 - The incidents are often cited in discussions of how large-scale development projects manage risk, quality assurance, and worker/public safety.
+
+
+## References

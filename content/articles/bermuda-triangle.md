@@ -21,7 +21,7 @@ Region in the Atlantic where ships and aircraft have allegedly disappeared under
 |------|-------|
 | 1945 | Flight 19 disappeared |
 
-## References
+
 
 [^1]: Wikipedia, "Bermuda Triangle" - https://en.wikipedia.org/wiki/Bermuda_Triangle
 
@@ -66,3 +66,6 @@ This topic is best treated as a blend of maritime/aviation history, popular cult
 [^3]: U.S. National Ocean Service (NOAA), "Is there a Bermuda Triangle?" (FAQ) - https://oceanservice.noaa.gov/facts/bermudatriangle.html
 [^4]: U.S. Navy (public affairs / FAQ-style statements are often cited secondhand): see discussion and citations compiled at Wikipedia [^1]
 [^5]: Skeptical Inquirer / science journalism overviews (various authors): see curated sources linked from Wikipedia [^1]
+
+
+## References

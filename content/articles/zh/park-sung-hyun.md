@@ -1,6 +1,6 @@
 ---
 id: "park-sung-hyun"
-name: "朴成炫"
+name: "朴成贤"
 birth: "1968-01-01"
 death: "Unknown"
 nationality: "Korean"
@@ -13,7 +13,7 @@ lastUpdated: "2026-02-21"
 
 ## 摘要
 
-朴成炫是一位韩国人工智能研究员，他曾活跃于韩国主要科技公司，在自然语言处理和机器学习研究领域做出了贡献。他关于韩语人工智能模型的著作，提升了韩语人工智能的能力，并为对话式人工智能系统的开发做出了贡献。
+朴成贤是一位韩国人工智能研究员，他在韩国主要科技公司从事自然语言处理和机器学习研究。他在韩语人工智能模型方面的工作，推动了韩语人工智能的能力，并为对话式人工智能系统的发展做出了贡献。
 
 ## 职业生涯时间线
 
@@ -27,4 +27,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: Wikipedia, "Park Sung-hyun" - https://en.wikipedia.org/wiki/Park_Sung-hyun
+[^1]: 维基百科，“朴成贤” - https://en.wikipedia.org/wiki/Park_Sung-hyun

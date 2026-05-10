@@ -22,7 +22,7 @@ Sinaloa Cartel gunmen overwhelmed the Mexican military during an attempted arres
 | 2019 | First Culiacanazo |
 | 2023 | Second operation to recapture |
 
-## References
+
 
 [^1]: Wikipedia, "Culiacán Shootouts" - https://en.wikipedia.org/wiki/Culiac%C3%A1n_Shootouts
 
@@ -50,3 +50,6 @@ A second major operation in January 2023 again produced violence in Culiacán, a
 
 - High-value arrests can trigger rapid massed cartel response.
 - Civilian safety considerations can dominate tactical outcomes.
+
+
+## References

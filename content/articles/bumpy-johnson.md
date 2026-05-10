@@ -24,7 +24,7 @@ American crime boss who was the most powerful mob figure in Harlem from the 1940
 | 1963 | Released from Alcatraz |
 | 1968 | Died of heart failure in a Harlem restaurant |
 
-## References
+
 
 [^1]: Wikipedia, "Bumpy Johnson" - https://en.wikipedia.org/wiki/Bumpy_Johnson
 
@@ -47,3 +47,6 @@ Some portrayals emphasize a "Harlem protector" narrative, but the historical rec
 
 Johnson died in 1968.
 His death is often treated as the end of an era in Harlem’s organized-crime landscape, as law-enforcement pressure and changing markets altered the structure of illegal enterprises.
+
+
+## References

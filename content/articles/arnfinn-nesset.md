@@ -23,7 +23,7 @@ Norwegian serial killer and nursing home manager who murdered at least 22 elderl
 | 1981 | Arrested after suspicious deaths investigated |
 | 1983 | Convicted of 22 murders; sentenced to 21 years |
 
-## References
+
 
 [^1]: Wikipedia, "Arnfinn Nesset" - https://en.wikipedia.org/wiki/Arnfinn_Nesset
 
@@ -50,3 +50,6 @@ Medical and caregiving environments can create opportunities for abuse when ther
 - Medical serial killers and institutional detection.
 - Patient-safety reporting and mortality review practices.
 
+
+
+## References

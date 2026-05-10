@@ -50,7 +50,7 @@ Chechen militants took 850 hostages at a Moscow theater. Russian forces pumped a
 - The operation remains debated: it ended the siege but produced heavy hostage fatalities, with ongoing questions about planning, transparency, and accountability.
 - The incident influenced subsequent Russian counterterrorism policy, public security measures, and global discussions about the use of incapacitating agents in hostage rescue.
 
-## References
+
 
 [^1]: Wikipedia, "Moscow Theater Hostage Crisis" - https://en.wikipedia.org/wiki/Moscow_Theater_Hostage_Crisis
 
@@ -65,3 +65,6 @@ Chechen militants took 850 hostages at a Moscow theater. Russian forces pumped a
 - Second Chechen War (context)
 - Hostage rescue operations
 - Incapacitating agents and riot-control chemicals (comparative)
+
+
+## References

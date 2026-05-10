@@ -22,7 +22,7 @@ Congolese Mai-Mai militia leader who controlled territory along Lake Tanganyika 
 | 2007 | Led Mai-Mai militia controlling territory along Lake Tanganyika |
 | 2017 | Continued insurgent operations in South Kivu |
 
-## References
+
 
 [^1]: Wikipedia, "William Yakutumba" - https://en.wikipedia.org/wiki/William_Yakutumba
 
@@ -51,3 +51,6 @@ When expanding or verifying this topic, analysts often cross-reference:
 - UN and NGO reporting on armed-group activity in South Kivu
 - Documentation on the Mai-Mai ecosystem and local political economy
 - Timelines of major offensives, negotiations, and displacement waves
+
+
+## References

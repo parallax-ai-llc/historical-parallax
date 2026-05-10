@@ -23,7 +23,7 @@ British bank robber who was part of the Securitas depot robbery gang that stole 
 | 2006 | Arrested within days |
 | 2008 | Convicted and sentenced to 15 years |
 
-## References
+
 
 [^1]: Wikipedia, "Derek Smokey Smith" - https://en.wikipedia.org/wiki/Derek_Smokey_Smith
 
@@ -48,3 +48,6 @@ This profile keeps details deliberately high-level; operational specifics about 
 - Cash-in-transit and cash-depot security
 - Organized robbery investigations and prosecutions
 - Proceeds-of-crime recovery and asset tracing
+
+
+## References

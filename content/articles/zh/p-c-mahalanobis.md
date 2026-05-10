@@ -13,9 +13,9 @@ lastUpdated: "2026-02-21"
 
 ## 简介
 
-普拉桑塔·钱德拉·马哈拉诺比斯（Prasanta Chandra Mahalanobis）是一位印度科学家和统计学家，被誉为印度统计学之父。他开发了马氏距离（Mahalanobis distance），一种广泛使用的统计测量方法。他创立了印度统计研究所，并通过统计方法在印度的经济规划中发挥了关键作用。他还设计了大规模的抽样调查。
+普拉桑塔·钱德拉·马哈拉诺比斯（Prasanta Chandra Mahalanobis）是一位印度科学家和统计学家，被誉为印度统计学之父。他开发了马氏距离（Mahalanobis distance），这是一种广泛使用的统计量。他创立了印度统计研究所，并通过统计方法在印度的经济规划中发挥了关键作用。他还设计了大规模的抽样调查。
 
-## 职业生涯时间线
+## 职业生涯时间表
 
 | 年份 | 事件 |
 |------|-------|
@@ -28,4 +28,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: 维基百科，“P. C. Mahalanobis” - https://en.wikipedia.org/wiki/P._C._Mahalanobis
+[^1]: Wikipedia, "P. C. Mahalanobis" - https://en.wikipedia.org/wiki/P._C._Mahalanobis

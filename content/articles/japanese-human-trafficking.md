@@ -21,7 +21,7 @@ Japan has been criticized as a destination for human trafficking, particularly f
 |------|-------|
 | 2004 | US State Department criticism |
 
-## References
+
 
 [^1]: Wikipedia, "Japanese Human Trafficking" - https://en.wikipedia.org/wiki/Japanese_Human_Trafficking
 
@@ -50,3 +50,6 @@ Japan has been criticized as a destination for human trafficking, particularly f
 
 - Human trafficking is a cross-border and domestic issue that intersects with labor policy, immigration governance, policing practices, and victim support systems.
 - Reporting tends to focus on **systemic risk factors** (incentives and oversight gaps) rather than isolated incidents.
+
+
+## References

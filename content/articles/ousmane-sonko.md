@@ -22,7 +22,7 @@ Senegalese opposition leader who was jailed on controversial rape and defamation
 | 2021 | Accused of rape in controversial case |
 | 2023 | Imprisoned amid deadly protests |
 
-## References
+
 
 [^1]: Wikipedia, "Ousmane Sonko" - https://en.wikipedia.org/wiki/Ousmane_Sonko
 
@@ -59,3 +59,6 @@ In contentious cases involving major political figures, public confidence can hi
 ## International and regional attention
 
 Political instability in Senegal draws regional interest because the country is often portrayed as a relatively stable democracy in West Africa. As a result, domestic political crises can be framed internationally as a test of democratic resilience, civil liberties, and electoral credibility.
+
+
+## References

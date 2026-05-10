@@ -19,7 +19,7 @@ Scott Peterson was convicted of murdering his pregnant wife Laci Peterson on Chr
 |------|-------|
 | 1972 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -67,3 +67,6 @@ Scott Peterson was convicted of murdering his pregnant wife Laci Peterson on Chr
 
 ## References (Additional)
 - Wikipedia: Scott Peterson (overview of the case, trial, and appellate history)
+
+
+## References

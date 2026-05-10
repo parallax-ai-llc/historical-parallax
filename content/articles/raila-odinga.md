@@ -23,7 +23,7 @@ Kenyan opposition leader who has run for president multiple times and contested 
 | 2013 | Lost election, challenged in court |
 | 2022 | Lost election again, challenged results |
 
-## References
+
 
 [^1]: Wikipedia, "Raila Odinga" - https://en.wikipedia.org/wiki/Raila_Odinga
 
@@ -51,3 +51,6 @@ Kenyan opposition leader who has run for president multiple times and contested 
 
 - Politics of Kenya
 - Kenyan general elections
+
+
+## References

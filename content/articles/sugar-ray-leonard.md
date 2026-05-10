@@ -23,7 +23,7 @@ Sugar Ray Leonard won titles in five weight classes and Olympic gold at 1976 Mon
 | 1981 | Defeated Hearns |
 | 1987 | Defeated Hagler |
 
-## References
+
 
 [^1]: Wikipedia, "Sugar Ray Leonard" - https://en.wikipedia.org/wiki/Sugar_Ray_Leonard
 
@@ -50,3 +50,6 @@ Leonard had multiple retirements and comebacks, a pattern common among elite box
 ### Legacy
 
 He is frequently cited as one of boxing’s defining champions of the modern television era, remembered both for technical skill and for participating in marquee bouts that helped sustain mainstream interest in the sport.
+
+
+## References

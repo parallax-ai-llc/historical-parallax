@@ -21,7 +21,7 @@ Key associate of Ridouan Taghi arrested in Colombia after years on the run.
 |------|-------|
 | 2020 | Arrested in Colombia |
 
-## References
+
 
 [^1]: Wikipedia, "Said Razzouki" - https://en.wikipedia.org/wiki/Said_Razzouki
 
@@ -54,3 +54,6 @@ These points are often important in biographies of alleged organized-crime figur
 
 - The Wikipedia link referenced above appears to be unavailable (404) at the time of expansion.
 - If a stable primary or reputable secondary source is added later (court documents, major outlets), the timeline and details should be updated accordingly.
+
+
+## References

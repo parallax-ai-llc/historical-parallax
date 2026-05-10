@@ -44,10 +44,13 @@ Note: While Barak appeared in Epstein flight logs, he was not convicted of crime
 
 [^2]: Encyclopaedia Britannica, "Ehud Barak" - https://www.britannica.com/biography/Ehud-Barak
 
-## References
+
 
 [^1]: Wikipedia, "Ehud Barak" - https://en.wikipedia.org/wiki/Ehud_Barak
 
 ## External links
 
 - https://en.wikipedia.org/wiki/Ehud_Barak
+
+
+## References

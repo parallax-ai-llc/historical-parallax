@@ -5,7 +5,7 @@ birth: "1836-08-18"
 death: "1916-02-09"
 nationality: "Japanese"
 occupation: ["Political scientist", "University administrator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Kato_Hiroyuki.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kato_Hiroyuki"
 lastUpdated: "2026-02-21"

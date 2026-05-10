@@ -23,7 +23,7 @@ Colombian guerrilla leader known as 'Tirofijo' (Sureshot) who co-founded and led
 | 1984 | Participated in failed peace talks |
 | 2008 | Died of heart attack in jungle camp |
 
-## References
+
 
 [^1]: Wikipedia, "Manuel Marulanda" - https://en.wikipedia.org/wiki/Manuel_Marulanda
 
@@ -51,3 +51,6 @@ Colombian guerrilla leader known as 'Tirofijo' (Sureshot) who co-founded and led
 ## Notes
 
 - This article is intentionally high-level; see the reference for expanded historical context and specific claims.
+
+
+## References

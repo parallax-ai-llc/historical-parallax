@@ -23,7 +23,7 @@ Douglas Osheroff shared the 1996 Nobel Prize for discovering superfluidity in he
 | 1972 | Discovered helium-3 superfluidity |
 | 1996 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Douglas Osheroff" - https://en.wikipedia.org/wiki/Douglas_Osheroff
 
@@ -48,3 +48,6 @@ The helium-3 superfluid phases remain a reference point for studying unconventio
 - Helium-3
 - Superfluidity
 - Low-temperature physics
+
+
+## References

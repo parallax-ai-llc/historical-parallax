@@ -23,7 +23,7 @@ Saudi bomb-maker for AQAP who designed innovative explosive devices including un
 | 2010 | Created printer cartridge bombs shipped on cargo planes |
 | 2017 | Reported killed in US operation, unconfirmed |
 
-## References
+
 
 [^1]: Wikipedia, "Ibrahim al-Asiri" - https://en.wikipedia.org/wiki/Ibrahim_al-Asiri
 
@@ -54,3 +54,6 @@ Saudi bomb-maker for AQAP who designed innovative explosive devices including un
 - Spellings of names and places may vary by transliteration system and publication.
 - Reported timelines and attributions can differ across reputable sources; treat single-source claims cautiously.
 
+
+
+## References

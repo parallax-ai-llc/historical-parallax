@@ -22,7 +22,7 @@ American figure skater whose ex-husband orchestrated an attack on rival Nancy Ke
 | 1994 | Kerrigan attack before Olympics |
 | 1994 | Banned from figure skating |
 
-## References
+
 
 [^1]: Wikipedia, "Tonya Harding" - https://en.wikipedia.org/wiki/Tonya_Harding
 
@@ -50,3 +50,6 @@ American figure skater whose ex-husband orchestrated an attack on rival Nancy Ke
 ## Additional references
 
 [^2]: Encyclopaedia Britannica, "Tonya Harding" - https://www.britannica.com/biography/Tonya-Harding
+
+
+## References

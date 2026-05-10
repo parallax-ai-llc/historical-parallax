@@ -24,7 +24,7 @@ Ottoman military leader and one of the ruling 'Three Pashas' during WWI. He over
 | 1916 | Hanged Arab nationalists in Beirut and Damascus |
 | 1922 | Assassinated in Tbilisi by an Armenian |
 
-## References
+
 
 [^1]: Wikipedia, "Cemal Pasha" - https://en.wikipedia.org/wiki/Cemal_Pasha
 
@@ -51,3 +51,6 @@ Ottoman military leader and one of the ruling 'Three Pashas' during WWI. He over
 ## See also
 
 - Committee of Union and Progress (CUP)
+
+
+## References

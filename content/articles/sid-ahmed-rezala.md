@@ -21,7 +21,7 @@ Franco-Algerian serial killer who murdered women on European trains.
 |------|-------|
 | 2000 | Committed suicide in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Sid Ahmed Rezala" - https://en.wikipedia.org/wiki/Sid_Ahmed_Rezala
 
@@ -48,3 +48,6 @@ Rezala was arrested, held in custody, and later died by suicide while imprisoned
 - rail and transit security policy
 - serial homicide investigations involving multiple locations
 - coordination between national and regional law enforcement
+
+
+## References

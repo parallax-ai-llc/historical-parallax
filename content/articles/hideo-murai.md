@@ -43,7 +43,7 @@ Aum Shinrikyo's science minister stabbed to death on camera by a Korean-Japanese
 - Court proceedings later dismissed allegations that a particular gang figure ordered the killing, amid claims that the motive was to prevent public disclosure of alleged yakuza connections to the cult.[^1]
 - Jo was sentenced to 12 years in prison for the murder in subsequent proceedings.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Hideo Murai" - https://en.wikipedia.org/wiki/Hideo_Murai
 [^2]: Nicholas D. Kristof, "Attacker Fatally Stabs High Official of Japanese Sect" (1995-04-24), The New York Times - https://www.nytimes.com/1995/04/24/world/attacker-fatally-stabs-high-official-of-japanese-sect.html
@@ -54,3 +54,6 @@ Aum Shinrikyo's science minister stabbed to death on camera by a Korean-Japanese
 - Murai is frequently cited in analyses of how **highly educated specialists** can be recruited into extremist organizations and redirected toward harmful ends.
 - The public nature of his killing—recorded in front of media—became part of the broader 1995 narrative in Japan, as the country grappled with Aum Shinrikyo’s crimes and the state response.
 - Discussions of Aum’s technical ambitions often use Murai as a concrete example of the group’s attempts to build a quasi-bureaucratic structure (“ministries”) around scientific and engineering work.
+
+
+## References

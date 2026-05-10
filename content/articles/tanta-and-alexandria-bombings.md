@@ -21,7 +21,7 @@ ISIS twin bombings of Coptic churches on Palm Sunday killing 49 people.
 |------|-------|
 | 2017 | Twin church bombings killed 49 |
 
-## References
+
 
 [^1]: Wikipedia, "Tanta and Alexandria Bombings" - https://en.wikipedia.org/wiki/Tanta_and_Alexandria_Bombings
 
@@ -64,3 +64,6 @@ Egypt’s government announced additional emergency and security measures in the
 The Tanta and Alexandria bombings are frequently cited as a defining moment in the mid-2010s wave of attacks on Egypt’s Coptic community.
 
 They also illustrate a pattern common to high-casualty terrorism: targeting symbolic sites and peak-attendance events to maximize psychological impact, media attention, and societal polarization.
+
+
+## References

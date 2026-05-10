@@ -22,7 +22,7 @@ Already added as Abu al-Qasim al-Zahrawi.
 | 936 | Born |
 | 1013 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Al-Zahrawi" - https://en.wikipedia.org/wiki/Al-Zahrawi
 
@@ -49,3 +49,6 @@ Through translation and circulation, al-Zahrawi’s surgical material became inf
 ## Legacy
 
 In historical overviews of medicine, al-Zahrawi is often presented as an early exemplar of surgical specialization and of medical writing that foregrounds practical technique. His long-term significance is less about a single discovery than about the consolidation of knowledge into a durable, teachable form.
+
+
+## References

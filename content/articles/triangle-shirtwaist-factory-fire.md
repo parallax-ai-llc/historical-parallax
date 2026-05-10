@@ -22,7 +22,7 @@ Fire at the Triangle Shirtwaist Factory in New York on March 25, 1911 that kille
 | 1911 | Fire killed 146 workers |
 | 1911 | Led to factory safety reforms |
 
-## References
+
 
 [^1]: Wikipedia, "Triangle Shirtwaist Factory Fire" - https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_Fire
 
@@ -48,3 +48,6 @@ Fire at the Triangle Shirtwaist Factory in New York on March 25, 1911 that kille
 
 - The Triangle fire became a lasting symbol in labor history and is often referenced in debates about worker safety and employer responsibility.
 - It helped shape the reform agenda for progressive-era labor legislation and the broader push for industrial safety standards.
+
+
+## References

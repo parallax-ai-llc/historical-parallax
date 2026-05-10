@@ -24,7 +24,7 @@ Colombian drug lord known as 'Chepe' who was a leader of the Cali Cartel and man
 | 1996 | Escaped from Bogotá prison |
 | 1996 | Killed by Colombian police |
 
-## References
+
 
 [^1]: Wikipedia, "Chepe Santacruz Londoño" - https://en.wikipedia.org/wiki/Chepe_Santacruz_Londo%C3%B1o
 
@@ -49,3 +49,6 @@ Santacruz Londoño’s trajectory reflects the peak and decline of large-scale C
 Cali Cartel; Colombian extradition policy; money laundering networks; late-20th-century U.S.–Colombia counternarcotics cooperation.
 
 These themes are often used by historians and journalists to situate cartel figures within broader state capacity and governance questions.
+
+
+## References

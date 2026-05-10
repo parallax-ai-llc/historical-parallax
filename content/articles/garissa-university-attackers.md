@@ -21,7 +21,7 @@ Al-Shabaab gunmen who massacred 148 people at Garissa University College in Keny
 |------|-------|
 | 2015 | Massacred 148 at university |
 
-## References
+
 
 [^1]: Wikipedia, "Garissa University Attackers" - https://en.wikipedia.org/wiki/Garissa_University_Attackers
 
@@ -60,3 +60,6 @@ Public reporting often refers to the perpetrators collectively ("the Garissa Uni
 ## Additional References
 
 [^2]: Wikipedia, "Garissa University college attack" - https://en.wikipedia.org/wiki/Garissa_University_college_attack
+
+
+## References

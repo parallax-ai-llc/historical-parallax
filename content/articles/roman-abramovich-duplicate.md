@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1966 | See Roman Abramovich |
 
-## References
+
 
 [^1]: Wikipedia, "Roman Abramovich duplicate" - https://en.wikipedia.org/wiki/Roman_Abramovich_duplicate
 
@@ -59,3 +59,6 @@ To reduce confusion, a typical resolution is to:
 
 - Roman Abramovich (canonical biography entry)
 - Disambiguation and duplicate-detection practices for historical datasets
+
+
+## References

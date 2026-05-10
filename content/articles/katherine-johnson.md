@@ -5,7 +5,7 @@ birth: "1918-08-26"
 death: "2020-02-24"
 nationality: "American"
 occupation: ["Mathematician", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Katherine_Johnson_1983.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katherine_Johnson"
 lastUpdated: "2026-02-21"

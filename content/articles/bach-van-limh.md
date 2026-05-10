@@ -21,7 +21,7 @@ Vietnamese ivory and rhino horn trafficking kingpin who ran networks from Africa
 |------|-------|
 | 2018 | Major ivory trafficking operations |
 
-## References
+
 
 [^1]: Wikipedia, "Bach Van Limh" - https://en.wikipedia.org/wiki/Bach_Van_Limh
 
@@ -77,3 +77,6 @@ Enforcement actions are commonly led by customs, wildlife authorities, police, a
 [^2]: CITES — Convention on International Trade in Endangered Species of Wild Fauna and Flora: https://cites.org/
 [^3]: UNODC — World Wildlife Crime Report (program and publications): https://www.unodc.org/
 [^4]: TRAFFIC — wildlife trade monitoring network (research and briefings): https://www.traffic.org/
+
+
+## References

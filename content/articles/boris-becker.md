@@ -23,7 +23,7 @@ Boris Becker became the youngest Wimbledon champion at 17 in 1985. He won six Gr
 | 1989 | Won third Wimbledon title |
 | 1996 | Won Australian Open |
 
-## References
+
 
 [^1]: Wikipedia, "Boris Becker" - https://en.wikipedia.org/wiki/Boris_Becker
 
@@ -56,3 +56,6 @@ Becker is widely noted for later coaching work with leading professionals.
 - Wimbledon Championships
 - Serve-and-volley
 - German tennis
+
+
+## References

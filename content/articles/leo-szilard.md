@@ -5,7 +5,7 @@ birth: "1898-02-11"
 death: "1964-05-30"
 nationality: "Hungarian-American"
 occupation: ["Physicist", "Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Leo_Szilard-cropped.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leo_Szilard"
 lastUpdated: "2026-02-21"

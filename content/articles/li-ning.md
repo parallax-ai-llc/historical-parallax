@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Biotechnologist", "Agricultural geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Li_Ling_during_2008_Summer_Olympics_opening_ceremony.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Ning"
 lastUpdated: "2026-02-21"

@@ -5,7 +5,7 @@ birth: "1979-09-22"
 death: "Unknown"
 nationality: "Italy"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/be/MJK_38800_Roberto_Saviano_%28Berlinale_2019%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Saviano"
 lastUpdated: "2026-02-26"
@@ -40,7 +40,7 @@ Note: Roberto Saviano is actually an anti-Mafia journalist, not a criminal. Entr
 - **Public risk of investigative reporting:** His long-term security situation is frequently cited as a contemporary example of threats faced by journalists.
 - **Cultural reach:** The book and its adaptations helped mainstream discussion of the Camorra outside Italy.
 
-## References
+
 
 [^1]: Wikipedia, "Roberto Saviano" - https://en.wikipedia.org/wiki/Roberto_Saviano
 
@@ -67,3 +67,6 @@ Note: Roberto Saviano is actually an anti-Mafia journalist, not a criminal. Entr
 
 - Labels such as "Fraudster" can propagate through downstream systems (search, classification, risk scoring) even when contradicted by the body text.
 - Treat frontmatter occupation tags as **untrusted** unless cross-validated against a reliable biography source.
+
+
+## References

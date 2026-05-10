@@ -21,7 +21,7 @@ Former NYC mayor disbarred and indicted for election interference and defamation
 |------|-------|
 | 2023 | Indicted for election interference |
 
-## References
+
 
 [^1]: Wikipedia, "Rudy Giuliani" - https://en.wikipedia.org/wiki/Rudy_Giuliani
 
@@ -60,3 +60,6 @@ Former NYC mayor disbarred and indicted for election interference and defamation
 ## Notes
 
 - This article is a high-level summary intended for historical reference; for definitive legal status and precise procedural updates, consult primary court records and up-to-date reporting.[^1]
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1915-09-07"
 death: "2008-11-10"
 nationality: "Japanese"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Kiyoshi_Ito_cropped_3_Kiyosi_Ito.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kiyosi_Ito"
 lastUpdated: "2026-02-21"

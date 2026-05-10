@@ -23,7 +23,7 @@ Kidnapping of J. Paul Getty III by the Ndrangheta in Rome in 1973. After his gra
 | 1973 | Ear severed and sent to newspaper |
 | 1973 | Ransom paid, Getty released |
 
-## References
+
 
 [^1]: Wikipedia, "J. Paul Getty III Kidnapping" - https://en.wikipedia.org/wiki/J._Paul_Getty_III_Kidnapping
 
@@ -60,3 +60,6 @@ Kidnapping of J. Paul Getty III by the Ndrangheta in Rome in 1973. After his gra
 
 [^2]: Wikipedia, "John Paul Getty III" (background and later life) - https://en.wikipedia.org/wiki/John_Paul_Getty_III
 [^3]: Wikipedia, "J. Paul Getty III kidnapping" - https://en.wikipedia.org/wiki/J._Paul_Getty_III_Kidnapping
+
+
+## References

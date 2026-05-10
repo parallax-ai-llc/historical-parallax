@@ -21,7 +21,7 @@ Eritrean soldiers massacred up to 800 civilians in the ancient holy city of Axum
 |------|-------|
 | 2020 | Eritrean soldiers massacred civilians |
 
-## References
+
 
 [^1]: Wikipedia, "Axum Massacre" - https://en.wikipedia.org/wiki/Axum_Massacre
 
@@ -56,3 +56,6 @@ Eritrean soldiers massacred up to 800 civilians in the ancient holy city of Axum
 
 - Naming conventions vary: "Axum" and "Aksum" refer to the same city in different transliteration standards.
 - This article summarizes commonly reported high-level facts; detailed casualty accounting and legal findings may evolve as investigations and archival work progress.
+
+
+## References

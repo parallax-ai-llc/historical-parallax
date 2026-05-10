@@ -23,7 +23,7 @@ Central African dictator who crowned himself emperor in a lavish ceremony. His r
 | 1977 | Crowned himself Emperor |
 | 1979 | Overthrown |
 
-## References
+
 
 [^1]: Wikipedia, "Jean-Bedel Bokassa" - https://en.wikipedia.org/wiki/Jean-Bedel_Bokassa
 ## Overview
@@ -48,3 +48,6 @@ His government maintained close ties with France for much of his rule, though re
 
 ## Trials and historical assessment
 Bokassa later returned to the country and faced trial, receiving convictions on multiple charges; some sentences were later reduced or altered. Historians and commentators commonly treat his reign as an emblematic case of postcolonial authoritarianism, personalist rule, and the political consequences of weak institutions.
+
+
+## References

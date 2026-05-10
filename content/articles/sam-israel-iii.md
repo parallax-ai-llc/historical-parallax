@@ -24,7 +24,7 @@ American hedge fund manager who ran a $450 million Ponzi scheme through Bayou Gr
 | 2008 | Faked suicide to avoid prison |
 | 2008 | Captured; sentenced to 22 years |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Israel III" - https://en.wikipedia.org/wiki/Sam_Israel_III
 
@@ -51,3 +51,6 @@ The Bayou scandal is often referenced in discussions of investor due diligence, 
 ## See also
 
 - Ponzi scheme
+
+
+## References

@@ -22,7 +22,7 @@ Hutu paramilitary militia that was the primary perpetrator of the 1994 Rwandan g
 | 1994 | Carried out genocide |
 | 1994 | Fled to Congo |
 
-## References
+
 
 [^1]: Wikipedia, "Interahamwe" - https://en.wikipedia.org/wiki/Interahamwe
 
@@ -54,3 +54,6 @@ Hutu paramilitary militia that was the primary perpetrator of the 1994 Rwandan g
 ## Additional Reading
 
 [^2]: United Nations, ICTR background materials - https://www.irmct.org/en/cases/ictr
+
+
+## References

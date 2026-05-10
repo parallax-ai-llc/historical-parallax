@@ -21,7 +21,7 @@ Head of Russian Orthodox Church sanctioned by UK for supporting Russia's invasio
 |------|-------|
 | 2022 | Sanctioned for supporting Ukraine invasion |
 
-## References
+
 
 [^1]: Wikipedia, "Patriarch Kirill" - https://en.wikipedia.org/wiki/Patriarch_Kirill
 
@@ -58,3 +58,6 @@ Head of Russian Orthodox Church sanctioned by UK for supporting Russia's invasio
 
 - Wikipedia provides a consolidated overview of his biography, ecclesiastical posts, and major public controversies.
 - UK sanctions reporting is frequently cited in news coverage related to religious leaders and state-aligned messaging during wartime.
+
+
+## References

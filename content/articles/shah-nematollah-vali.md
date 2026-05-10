@@ -5,7 +5,7 @@ birth: "1330-01-01"
 death: "1431-01-01"
 nationality: "Persian"
 occupation: ["Sufi Master", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Portrait_of_Shah_Nematollah_Vali.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shah_Nematollah_Vali"
 lastUpdated: "2026-02-21"

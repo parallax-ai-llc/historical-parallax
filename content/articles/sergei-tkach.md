@@ -5,7 +5,7 @@ birth: "1952-09-15"
 death: "N/A (Imprisoned)"
 nationality: "Ukraine"
 occupation: ["Serial Killer", "Child Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%A2%D0%BA%D0%B0%D1%87_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D0%BD%D1%8C%D1%8F%D0%BA.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergei_Tkach"
 lastUpdated: "2026-02-21"

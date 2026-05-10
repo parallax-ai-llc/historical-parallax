@@ -5,7 +5,7 @@ birth: "1791-01-01"
 death: "1825-03-29"
 nationality: "Puerto Rico"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Statue_of_the_pirate_captain_Roberto_Cofres%C3%AD.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Cofresi"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Last major Caribbean pirate who redistributed stolen goods to the poor, earning 
 | 1824 | Captured by US Navy |
 | 1825 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Roberto Cofresi" - https://en.wikipedia.org/wiki/Roberto_Cofresi
 
@@ -49,3 +49,6 @@ His death is often marked as the end of an era in which piracy and quasi-legal p
 
 Cofresí remains prominent in Puerto Rican popular history, appearing in songs, literature, and local legends.
 Modern retellings frequently emphasize themes of defiance and redistribution, even when specific details vary across sources.
+
+
+## References

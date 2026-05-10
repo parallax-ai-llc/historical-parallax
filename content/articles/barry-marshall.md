@@ -23,7 +23,7 @@ Barry Marshall is an Australian physician who shared the 2005 Nobel Prize for di
 | 1984 | Drank H. pylori to prove causation |
 | 2005 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Barry Marshall" - https://en.wikipedia.org/wiki/Barry_Marshall
 
@@ -51,3 +51,6 @@ Marshall and Warren received the **2005 Nobel Prize in Physiology or Medicine** 
 - Dates, counts, and interpretations can vary by source; consult references for detail.
 - The topic is commonly discussed in terms of institutions, incentives, and long-term impact.
 
+
+
+## References

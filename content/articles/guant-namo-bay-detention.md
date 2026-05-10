@@ -46,7 +46,7 @@ The number of detainees has declined substantially from its peak as transfers an
 - Court challenges shaped the boundaries of executive detention power and access to habeas corpus.
 - Even when detainee populations shrink, complex prosecutions and classification issues can prolong resolution.
 
-## References
+
 
 [^1]: Wikipedia, "Guantánamo Bay Detention" - https://en.wikipedia.org/wiki/Guant%C3%A1namo_Bay_Detention
 ## Overview
@@ -64,3 +64,6 @@ Public discussion has often centered on allegations of mistreatment, interrogati
 
 ## Legacy
 Guantánamo has influenced US and international discourse on counterterrorism, human rights, and the rule of law, and it has been cited in debates about detention standards and accountability.
+
+
+## References

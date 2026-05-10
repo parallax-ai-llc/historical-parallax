@@ -5,7 +5,7 @@ birth: "1931-07-27"
 death: "Unknown"
 nationality: "Cambodia"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Khieu_Samphan_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khieu_Samphan"
 lastUpdated: "2026-02-21"

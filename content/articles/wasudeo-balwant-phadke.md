@@ -22,7 +22,7 @@ Indian revolutionary who conducted armed robberies to fund an uprising against B
 | 1879 | Conducted armed raids on government treasuries in Maharashtra |
 | 1883 | Died in Aden prison |
 
-## References
+
 
 [^1]: Wikipedia, "Wasudeo Balwant Phadke" - https://en.wikipedia.org/wiki/Wasudeo_Balwant_Phadke
 
@@ -49,3 +49,6 @@ Phadke is frequently mentioned as a precursor to later organized revolutionary g
 In modern summaries, Phadke is often positioned as part of the transition from sporadic local rebellion to ideologically articulated anti-colonial resistance, where finance, recruitment, and messaging are treated as strategic problems.
 
 This framing helps explain why he appears in surveys of Indian independence history even though later movements developed different organizational and ideological approaches.
+
+
+## References

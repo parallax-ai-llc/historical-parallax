@@ -23,7 +23,7 @@ Collapse of Mt. Gox, the worlds largest bitcoin exchange, in February 2014 after
 | 2014 | Filed for bankruptcy |
 | 2014 | 850,000 bitcoins missing |
 
-## References
+
 
 [^1]: Wikipedia, "Mt. Gox Collapse" - https://en.wikipedia.org/wiki/Mt._Gox_Collapse
 
@@ -52,3 +52,6 @@ Observers often highlight operational security, internal controls, and transpare
 ## Additional Notes
 
 This article is intended as a concise reference. For deeper detail, consult multiple sources and primary reporting where available, and compare timelines across independent accounts.
+
+
+## References

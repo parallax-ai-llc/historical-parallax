@@ -24,7 +24,7 @@ Ukrainian-Argentine anarchist who assassinated Buenos Aires police chief Ramón 
 | 1930 | Pardoned and deported to Uruguay |
 | 1956 | Died in Mexico City |
 
-## References
+
 
 [^1]: Wikipedia, "Simón Radowitzky" - https://en.wikipedia.org/wiki/Sim%C3%B3n_Radowitzky
 
@@ -66,3 +66,6 @@ Accounts differ sharply on moral evaluation: some emphasize the assassination as
 - Ramón Falcón
 - Ushuaia Prison (penal colony history)
 - Anarchism in Argentina
+
+
+## References

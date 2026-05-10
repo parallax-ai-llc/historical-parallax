@@ -24,7 +24,7 @@ Charles Parsons invented the steam turbine in 1884, which revolutionized power g
 | 1897 | Demonstrated Turbinia at Spithead |
 | 1931 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Parsons" - https://en.wikipedia.org/wiki/Charles_Parsons
 
@@ -48,3 +48,6 @@ Charles Parsons invented the steam turbine in 1884, which revolutionized power g
 ### Broader influence
 
 - The turbine is often cited as one of the key technologies enabling 20th-century electrification and modern naval engineering.
+
+
+## References

@@ -22,7 +22,7 @@ Ukrainian oligarch accused of embezzling billions from PrivatBank through fraudu
 | 2016 | PrivatBank nationalized after $5.5 billion fraud discovered |
 | 2023 | Arrested on fraud and money laundering charges |
 
-## References
+
 
 [^1]: Wikipedia, "Ihor Kolomoyskyi" - https://en.wikipedia.org/wiki/Ihor_Kolomoyskyi
 
@@ -63,3 +63,6 @@ Many assertions about oligarch finances are based on investigative journalism, c
 - PrivatBank
 - Oligarchs in Ukraine
 - Post-2014 Ukrainian politics
+
+
+## References

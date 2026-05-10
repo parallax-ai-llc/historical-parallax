@@ -3,6 +3,7 @@ name: "Khloé Kardashian"
 birth: "1984-06-27"
 nationality: "American"
 occupation: ["Reality TV Star", "Entrepreneur", "Media Personality"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Khloe_Kardashian_Glamour_2.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khlo%C3%A9_Kardashian"
 lastUpdated: "2026-03-12"

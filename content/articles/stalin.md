@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Stalin" - https://en.wikipedia.org/wiki/Stalin
 
@@ -61,3 +61,6 @@ Stalin remains a historically contested figure, discussed in connection with bot
 - Bolshevism and the Communist Party of the Soviet Union
 - Collectivization and industrialization in the USSR
 - Great Purge and political repression
+
+
+## References

@@ -22,7 +22,7 @@ Anti-Balaka militia coordinator who organized reprisal attacks against Muslim ci
 | 2013 | Coordinated Anti-Balaka attacks on Muslim communities |
 | 2022 | Transferred to the ICC for crimes against humanity |
 
-## References
+
 
 [^1]: Wikipedia, "Maxime Mokom" - https://en.wikipedia.org/wiki/Maxime_Mokom
 
@@ -50,3 +50,6 @@ Anti-Balaka militia coordinator who organized reprisal attacks against Muslim ci
 - Anti-balaka and Séléka armed groups
 - International Criminal Court (Rome Statute)
 - Crimes against humanity (definition and elements)
+
+
+## References

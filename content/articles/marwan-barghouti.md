@@ -5,7 +5,7 @@ birth: "1959-06-06"
 death: "Unknown"
 nationality: "Palestine"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Marwan_Barghouti.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marwan_Barghouti"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Palestinian political leader convicted of murder by an Israeli court for directi
 | 2002 | Arrested by Israeli forces |
 | 2004 | Convicted of five murders and sentenced to five life terms |
 
-## References
+
 
 [^1]: Wikipedia, "Marwan Barghouti" - https://en.wikipedia.org/wiki/Marwan_Barghouti
 
@@ -50,3 +50,6 @@ Barghouti is often mentioned in analyses of Palestinian leadership succession an
 ## Ongoing status
 
 He has remained in Israeli custody under the life sentences described above, and his name continues to appear in political discussions as a potential leadership figure and as a topic in prisoner-related negotiations.
+
+
+## References

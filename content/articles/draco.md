@@ -21,7 +21,7 @@ Athenian lawgiver whose legal code was so harsh that minor offenses were punishe
 |------|-------|
 | -621 | Established harsh Draconian legal code |
 
-## References
+
 
 [^1]: Wikipedia, "Draco" - https://en.wikipedia.org/wiki/Draco
 
@@ -55,3 +55,6 @@ Athenian lawgiver whose legal code was so harsh that minor offenses were punishe
 ## References (Additional)
 
 [^2]: Encyclopaedia Britannica, "Draco" - https://www.britannica.com/biography/Draco-Athenian-lawgiver
+
+
+## References

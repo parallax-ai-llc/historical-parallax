@@ -23,7 +23,7 @@ Chinese serial killer who murdered 45 people in Henan and Shandong provinces bet
 | 2003 | Arrested in September |
 | 2005 | Executed by lethal injection |
 
-## References
+
 
 [^1]: Wikipedia, "Wang Qiang" - https://en.wikipedia.org/wiki/Wang_Qiang
 
@@ -54,3 +54,6 @@ The case is often referenced in discussions of:
 - Inter-provincial coordination in major criminal investigations.
 - The challenges of detecting serial offenders when crimes are dispersed.
 - The role of forensic and data-driven pattern analysis in linking cases over time.
+
+
+## References

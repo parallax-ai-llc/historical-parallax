@@ -21,7 +21,7 @@ Al-Qaeda simultaneously bombed US embassies in Nairobi and Dar es Salaam killing
 |------|-------|
 | 1998 | 224 killed in twin embassy bombings |
 
-## References
+
 
 [^1]: Wikipedia, "American Embassy Bombings 1998" - https://en.wikipedia.org/wiki/American_Embassy_Bombings_1998
 
@@ -67,3 +67,6 @@ Al-Qaeda simultaneously bombed US embassies in Nairobi and Dar es Salaam killing
 ## References (Expanded)
 
 [^2]: Wikipedia, "United States embassies bombings" - https://en.wikipedia.org/wiki/1998_United_States_embassies_bombings
+
+
+## References

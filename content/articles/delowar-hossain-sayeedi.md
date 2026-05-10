@@ -21,7 +21,7 @@ Bangladeshi Islamist leader convicted of crimes against humanity during the 1971
 |------|-------|
 | 2013 | Convicted of crimes against humanity |
 
-## References
+
 
 [^1]: Wikipedia, "Delowar Hossain Sayeedi" - https://en.wikipedia.org/wiki/Delowar_Hossain_Sayeedi
 
@@ -56,3 +56,6 @@ Bangladeshi Islamist leader convicted of crimes against humanity during the 1971
 - English transliteration varies; the name is also commonly rendered as “Delwar Hossain Sayeedi.”
 - The Wikipedia link in the frontmatter may not always resolve under the exact spelling shown.
 - For precise biographical details (including dates and offices held), cross-check multiple sources beyond a single encyclopedia entry.
+
+
+## References

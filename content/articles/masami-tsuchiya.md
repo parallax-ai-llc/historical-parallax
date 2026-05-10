@@ -23,7 +23,7 @@ Aum Shinrikyo chemist who synthesized the sarin nerve agent for the 1995 Tokyo s
 | 1994 | Synthesized sarin |
 | 2018 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Masami Tsuchiya" - https://en.wikipedia.org/wiki/Masami_Tsuchiya
 
@@ -48,3 +48,6 @@ It is also used in policy discussions about chemical security, public health rea
 ## Aftermath
 
 The Tokyo subway attack prompted major changes in Japan's emergency response planning and public awareness of chemical hazards, and it remains a frequently cited reference point in counterterrorism and public-health preparedness.
+
+
+## References

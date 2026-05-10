@@ -23,7 +23,7 @@ US Army soldier who became the face of the Abu Ghraib prisoner abuse scandal whe
 | 2004 | Abuse photos made public |
 | 2005 | Convicted; sentenced to 3 years; served 521 days |
 
-## References
+
 
 [^1]: Wikipedia, "Lynndie England" - https://en.wikipedia.org/wiki/Lynndie_England
 
@@ -50,3 +50,6 @@ US Army soldier who became the face of the Abu Ghraib prisoner abuse scandal whe
 ## Source Notes
 - This entry is currently short and should be treated as a starting point rather than a definitive account.
 - If a cited link becomes unavailable or resolves to a placeholder page, add an archived copy and alternative reputable sources.
+
+
+## References

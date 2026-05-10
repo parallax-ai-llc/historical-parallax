@@ -22,7 +22,7 @@ Nino Salukvadze competed at a record nine consecutive Olympic Games from 1988 to
 | 1988 | Won Olympic gold at Seoul |
 | 2024 | Competed at ninth Olympics in Paris — most by any woman |
 
-## References
+
 
 [^1]: Wikipedia, "Nino Salukvadze" - https://en.wikipedia.org/wiki/Nino_Salukvadze
 
@@ -50,3 +50,6 @@ Salukvadze’s career is often used as a case study in elite athletic longevity,
 ## Legacy
 
 In Georgia, she is recognized as a major figure in Olympic sport and a symbol of continuity through national transitions. Internationally, she is remembered for setting participation records and for remaining competitive across an unusually long period.
+
+
+## References

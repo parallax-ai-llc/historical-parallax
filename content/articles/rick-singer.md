@@ -22,7 +22,7 @@ Mastermind of the college admissions scandal who facilitated $25 million in brib
 | 2019 | Pled guilty |
 | 2023 | Sentenced to 3.5 years |
 
-## References
+
 
 [^1]: Wikipedia, "Rick Singer" - https://en.wikipedia.org/wiki/Rick_Singer
 
@@ -60,3 +60,6 @@ Beyond the criminal charges, the scandal became a high-visibility example of:
 
 - College admissions in the United States
 - U.S. federal bribery and fraud prosecutions
+
+
+## References

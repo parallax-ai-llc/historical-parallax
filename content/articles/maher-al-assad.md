@@ -22,7 +22,7 @@ Commander of Syria's 4th Armoured Division and Bashar al-Assad's brother who dir
 | 2011 | Directed military crackdown on Daraa protesters |
 | 2013 | Sanctioned by EU and US |
 
-## References
+
 
 [^1]: Wikipedia, "Maher al-Assad" - https://en.wikipedia.org/wiki/Maher_al-Assad
 
@@ -51,3 +51,6 @@ Human rights organizations and media reporting have alleged that Syrian security
 - Syrian Civil War
 - Syrian security apparatus
 - International sanctions policy
+
+
+## References

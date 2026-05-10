@@ -23,7 +23,7 @@ Kamila Valieva's doping controversy at the 2022 Beijing Olympics became one of t
 | 2022 | Allowed to compete but fell in free skate |
 | 2024 | Received four-year ban |
 
-## References
+
 
 [^1]: Wikipedia, "Kamila Valieva" - https://en.wikipedia.org/wiki/Kamila_Valieva
 
@@ -48,3 +48,6 @@ The case became part of broader debates about anti-doping enforcement, athlete s
 [^2]: WADA (World Anti-Doping Agency) - https://www.wada-ama.org
 [^3]: ISU (International Skating Union) - https://www.isu.org
 [^4]: Court of Arbitration for Sport (CAS) - https://www.tas-cas.org
+
+
+## References

@@ -3,6 +3,7 @@ name: "Lilly Singh"
 birth: "1988-09-26"
 nationality: "Canadian"
 occupation: ["YouTuber", "Comedian", "TV Host"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Lilly_Singh_SDG_2025.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lilly_Singh"
 lastUpdated: "2026-03-11"

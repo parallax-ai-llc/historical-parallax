@@ -5,7 +5,7 @@ birth: "1968-09-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Detainee"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Kenneth_Bae_en_2014_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenneth_Bae"
 lastUpdated: "2026-02-26"

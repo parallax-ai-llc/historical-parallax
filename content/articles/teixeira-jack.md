@@ -21,7 +21,7 @@ US Air National Guard member who leaked classified Pentagon documents on Discord
 |------|-------|
 | 2023 | Arrested for leaking classified intelligence on Discord |
 
-## References
+
 
 [^1]: Wikipedia, "Teixeira Jack" - https://en.wikipedia.org/wiki/Teixeira_Jack
 
@@ -60,3 +60,6 @@ The Teixeira leak is frequently cited in discussions about:
 ## References (Additional)
 
 [^2]: Wikipedia, "Jack Teixeira" - https://en.wikipedia.org/wiki/Jack_Teixeira
+
+
+## References

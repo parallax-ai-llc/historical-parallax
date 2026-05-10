@@ -23,7 +23,7 @@ Felix Baumgartner jumped from 24 miles above Earth in 2012, breaking the sound b
 | 2012 | Broke sound barrier in freefall at Mach 1.25 |
 | 2012 | Set records for highest jump and fastest freefall |
 
-## References
+
 
 [^1]: Wikipedia, "Felix Baumgartner" - https://en.wikipedia.org/wiki/Felix_Baumgartner
 
@@ -48,3 +48,6 @@ Felix Baumgartner jumped from 24 miles above Earth in 2012, breaking the sound b
 - High-altitude ballooning
 - Pressure suits and life-support systems
 - Human factors in aerospace safety
+
+
+## References

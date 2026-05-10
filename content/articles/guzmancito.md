@@ -46,7 +46,7 @@ As with many cartel leadership cases, public information evolves through indictm
 - Indictments and sanctions are public markers of targeting, while many operational details remain investigatory.
 - Enforcement actions against leadership can trigger short-term volatility and violence in contested regions.
 
-## References
+
 
 [^1]: Wikipedia, "Guzmancito" - https://en.wikipedia.org/wiki/Guzmancito
 ## Overview
@@ -65,3 +65,6 @@ Because the same nickname can be applied to different individuals, careful summa
 - The Sinaloa Cartel’s organizational structure and succession dynamics
 - The role of family ties and patronage networks in trafficking groups
 - How media reporting and court records shape public narratives about criminal groups
+
+
+## References

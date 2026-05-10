@@ -21,7 +21,7 @@ Belgian teenager who shot and killed a Malian nanny and toddler in a racist atta
 |------|-------|
 | 2006 | Committed racist shooting in Antwerp |
 
-## References
+
 
 [^1]: Wikipedia, "Hans Van Themsche" - https://en.wikipedia.org/wiki/Hans_Van_Themsche
 
@@ -56,3 +56,6 @@ Belgian teenager who shot and killed a Malian nanny and toddler in a racist atta
 
 - Hate crime and anti-racism policy debates in Belgium
 - Far-right extremism in Western Europe (comparative context)
+
+
+## References

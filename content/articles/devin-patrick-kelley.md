@@ -19,7 +19,7 @@ Devin Kelley killed 26 people at the First Baptist Church in Sutherland Springs,
 |------|-------|
 | 1991 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors. “Sutherland Springs church shooting.” (accessed 2026-02-26).
 
@@ -57,3 +57,6 @@ Devin Kelley killed 26 people at the First Baptist Church in Sutherland Springs,
 ## Notes on Sources
 - Names, dates, and casualty figures are broadly consistent across mainstream reporting.
 - For detailed chronology, weapon specifications, and court records, consult primary-source reporting and official investigative summaries.
+
+
+## References

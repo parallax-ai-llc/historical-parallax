@@ -23,7 +23,7 @@ The 1995 Tokyo subway sarin attack by Aum Shinrikyo killed 13 people and injured
 | 1995 | 13 dead, over 6,000 injured |
 | 2018 | Aum leader Shoko Asahara and 6 followers executed |
 
-## References
+
 
 [^1]: Wikipedia, "Sarin Tokyo Attack" - https://en.wikipedia.org/wiki/Sarin_Tokyo_Attack
 
@@ -49,3 +49,6 @@ The legal process became a landmark in Japan’s handling of domestic terrorism 
 
 The Tokyo subway attack is widely cited in security studies as a defining case of chemical terrorism in a major urban transit system.
 It influenced public awareness, counterterrorism policy, and planning for chemical, biological, radiological, and nuclear (CBRN) threats.
+
+
+## References

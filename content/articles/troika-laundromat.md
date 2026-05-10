@@ -21,7 +21,7 @@ $4.6 billion money laundering scheme flowing through Baltic banks from Russia.
 |------|-------|
 | 2019 | $4.6 billion laundering scheme exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Troika Laundromat" - https://en.wikipedia.org/wiki/Troika_Laundromat
 
@@ -54,3 +54,6 @@ $4.6 billion money laundering scheme flowing through Baltic banks from Russia.
 
 - The details and terminology are often compiled from investigative reporting, leaked records, and regulatory or court filings; public summaries can vary by source.
 - This article uses the term as a label for the described pattern rather than asserting findings beyond publicly reported accounts.
+
+
+## References

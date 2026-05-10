@@ -5,7 +5,7 @@ birth: "1962-01-01"
 death: "1989-01-06"
 nationality: "India"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/61/Photograph_of_Satwant_Singh%2C_one_of_two_assassins_of_Indira_Gandhi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Satwant_Singh"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Indian bodyguard who co-assassinated PM Indira Gandhi alongside Beant Singh in 1
 | 1984 | Co-assassinated Gandhi |
 | 1989 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Satwant Singh" - https://en.wikipedia.org/wiki/Satwant_Singh
 
@@ -51,3 +51,6 @@ Indian bodyguard who co-assassinated PM Indira Gandhi alongside Beant Singh in 1
 
 - Biographical details about lower-ranking security personnel can be sparse in secondary summaries compared with high-level political narratives.
 - Historical accounts often emphasize the assassination's political consequences more than Satwant Singh's personal life.
+
+
+## References

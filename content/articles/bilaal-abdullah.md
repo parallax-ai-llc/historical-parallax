@@ -21,7 +21,7 @@ Key leader in the Jamaat al Muslimeen coup attempt alongside Abu Bakr.
 |------|-------|
 | 1990 | Participated in parliament siege |
 
-## References
+
 
 [^1]: Wikipedia, "Bilaal Abdullah" - https://en.wikipedia.org/wiki/Bilaal_Abdullah
 [^2]: Wikipedia, "Jamaat al Muslimeen coup attempt" - https://en.wikipedia.org/wiki/Jamaat_al_Muslimeen_coup_attempt
@@ -49,3 +49,6 @@ Key leader in the Jamaat al Muslimeen coup attempt alongside Abu Bakr.
 - **Jamaat al Muslimeen** — Islamist group founded in 1982, central to the 1990 coup attempt.[^2]
 - **Yasin Abu Bakr** — widely identified as the principal leader of the group and the coup attempt.[^2]
 - **Red House (Port of Spain)** — key hostage site during the 1990 events.[^2]
+
+
+## References

@@ -24,7 +24,7 @@ Thomas Steitz was an American biochemist who shared the 2009 Nobel Prize in Chem
 | 2009 | Awarded Nobel Prize |
 | 2018 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Steitz" - https://en.wikipedia.org/wiki/Thomas_Steitz
 
@@ -54,3 +54,6 @@ Thomas Steitz was an American biochemist who shared the 2009 Nobel Prize in Chem
 - 영향: 후대에 남긴 파급(법·정책·학문·대중문화 등)
 - 참고: 1차 기록과 2차 연구의 구분
 
+
+
+## References

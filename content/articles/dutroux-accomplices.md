@@ -21,7 +21,7 @@ Network of accomplices who helped Marc Dutroux kidnap and imprison young girls i
 |------|-------|
 | 2004 | Convicted alongside Dutroux |
 
-## References
+
 
 [^1]: Wikipedia, "Dutroux accomplices" - https://en.wikipedia.org/wiki/Dutroux_accomplices
 
@@ -87,3 +87,6 @@ When reviewing secondary sources on the case, it is often useful to separate:
 - Wikipedia (topic page): https://en.wikipedia.org/wiki/Dutroux_accomplices
 - Marc Dutroux: https://en.wikipedia.org/wiki/Marc_Dutroux
 - White March: https://en.wikipedia.org/wiki/White_March
+
+
+## References

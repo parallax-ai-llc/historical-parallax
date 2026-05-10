@@ -5,7 +5,7 @@ birth: "1656-01-01"
 death: "1680-04-17"
 nationality: "Mohawk (American)"
 occupation: ["Convert", "Mystic", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/CatherinaeTekakwithaVirginis1690.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kateri_Tekakwitha"
 lastUpdated: "2026-02-21"

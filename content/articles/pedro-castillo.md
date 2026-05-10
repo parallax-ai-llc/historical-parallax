@@ -23,7 +23,7 @@ Peruvian president who was removed from office and arrested after attempting to 
 | 2022 | Attempted to dissolve Congress; removed and arrested |
 | 2023 | Charged with rebellion and corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Pedro Castillo" - https://en.wikipedia.org/wiki/Pedro_Castillo
 
@@ -48,3 +48,6 @@ Public reporting describes ongoing legal cases and pretrial detention related to
 ## Additional References
 
 [^2]: Britannica, “Pedro Castillo” (overview) — https://www.britannica.com/biography/Pedro-Castillo
+
+
+## References

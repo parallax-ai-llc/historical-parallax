@@ -23,7 +23,7 @@ Alex Morgan scored 123 goals for the US Women's Team and won two World Cups and 
 | 2019 | Won second World Cup |
 | 2024 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "Alex Morgan" - https://en.wikipedia.org/wiki/Alex_Morgan
 
@@ -49,3 +49,6 @@ Alex Morgan is widely known as an American professional soccer player who has be
 - U.S. women's national soccer team
 - Women's professional soccer in the United States
 - FIFA Women's World Cup
+
+
+## References

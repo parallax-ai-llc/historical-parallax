@@ -23,7 +23,7 @@ Indian-American business executive who was the first non-white head of McKinsey 
 | 2008 | Passed inside information to Rajaratnam |
 | 2012 | Convicted of insider trading; sentenced to 2 years |
 
-## References
+
 
 [^1]: Wikipedia, "Rajat Gupta" - https://en.wikipedia.org/wiki/Rajat_Gupta
 
@@ -53,3 +53,6 @@ Indian-American business executive who was the first non-white head of McKinsey 
 - Insider trading
 - Corporate governance
 - McKinsey & Company
+
+
+## References

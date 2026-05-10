@@ -23,7 +23,7 @@ Al-Shabaab attack on the Westgate shopping mall in Nairobi on September 21, 2013
 | 2013 | 67 killed |
 | 2013 | Four-day siege ended |
 
-## References
+
 
 [^1]: Wikipedia, "Westgate Mall Attack" - https://en.wikipedia.org/wiki/Westgate_Mall_Attack
 
@@ -52,3 +52,6 @@ Authorities pursued investigations into the attackers' networks, financing, and 
 ## Broader significance
 
 Westgate is frequently cited as a landmark al-Shabaab attack outside Somalia and as an example of how militant groups can target civilian public spaces to generate international attention and political pressure.
+
+
+## References

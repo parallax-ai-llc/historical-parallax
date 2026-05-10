@@ -21,7 +21,7 @@ Cult members released sarin nerve gas on five Tokyo subway trains during morning
 |------|-------|
 | 1995 | 13 killed, thousands injured in sarin attack |
 
-## References
+
 
 [^1]: Wikipedia, "Aum Shinrikyo Tokyo Subway Attack" - https://en.wikipedia.org/wiki/Aum_Shinrikyo_Tokyo_Subway_Attack
 
@@ -61,3 +61,6 @@ Cult members released sarin nerve gas on five Tokyo subway trains during morning
 ## Notes on Sources
 
 This article is a short, high-level overview. For exact counts, line-by-line operational details, and legal proceedings, consult primary reporting and official court records alongside the reference.
+
+
+## References

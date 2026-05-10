@@ -22,7 +22,7 @@ Jon Jones became the youngest UFC champion at 23 and is widely considered the gr
 | 2011-2020 | Dominated light heavyweight division |
 | 2023 | Won UFC heavyweight title |
 
-## References
+
 
 [^1]: Wikipedia, "Jon Jones" - https://en.wikipedia.org/wiki/Jon_Jones
 
@@ -52,3 +52,6 @@ Jon Jones became the youngest UFC champion at 23 and is widely considered the gr
 
 - This article is a high-level summary based on publicly available reference material (see References).
 - Specific dates, roles, and names should be cross-checked against primary sources when used for research or publication.
+
+
+## References

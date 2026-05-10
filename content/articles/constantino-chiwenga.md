@@ -21,7 +21,7 @@ Zimbabwean military commander who orchestrated the 2017 coup against Robert Muga
 |------|-------|
 | 2017 | Led military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Constantino Chiwenga" - https://en.wikipedia.org/wiki/Constantino_Chiwenga
 
@@ -52,3 +52,6 @@ Zimbabwean military commander who orchestrated the 2017 coup against Robert Muga
 - Emmerson Mnangagwa
 - Zimbabwe Defence Forces
 - 2017 Zimbabwean coup d'état
+
+
+## References

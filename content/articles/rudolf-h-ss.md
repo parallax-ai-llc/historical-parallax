@@ -24,7 +24,7 @@ German SS officer and commandant of Auschwitz concentration camp where over 1.1 
 | 1946 | Captured by British forces |
 | 1947 | Hanged at Auschwitz |
 
-## References
+
 
 [^1]: Wikipedia, "Rudolf Höss" - https://en.wikipedia.org/wiki/Rudolf_H%C3%B6ss
 
@@ -51,3 +51,6 @@ This article uses "Auschwitz" for the larger complex and "Birkenau" for Auschwit
 ## See also
 
 - Auschwitz concentration camp
+
+
+## References

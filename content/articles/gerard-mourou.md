@@ -23,7 +23,7 @@ Gerard Mourou shared the 2018 Nobel Prize for the chirped pulse amplification te
 | 1985 | Developed CPA with Strickland |
 | 2018 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Gerard Mourou" - https://en.wikipedia.org/wiki/Gerard_Mourou
 
@@ -49,3 +49,6 @@ He has also been associated with large-scale laser initiatives and collaboration
 
 The CPA breakthrough is widely regarded as a foundational technique of modern ultrafast and high-field laser physics.
 It changed the practical ceiling for laser peak power and opened new experimental regimes for studying matter under extreme electromagnetic fields.
+
+
+## References

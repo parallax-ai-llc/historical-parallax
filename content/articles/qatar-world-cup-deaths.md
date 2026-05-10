@@ -22,7 +22,7 @@ An estimated 6,500 migrant workers from South Asia died during construction of Q
 | 2010 | Qatar won World Cup bid |
 | 2021 | Guardian reported 6,500 deaths |
 
-## References
+
 
 [^1]: Wikipedia, "Qatar World Cup Deaths" - https://en.wikipedia.org/wiki/Qatar_World_Cup_Deaths
 
@@ -51,3 +51,6 @@ The controversy became a major global case study in how mega-sporting events int
 - Kafala system
 - Migrant workers in the Gulf states
 - 2022 FIFA World Cup controversies
+
+
+## References

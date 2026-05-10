@@ -23,7 +23,7 @@ Demolition of the 16th-century Babri Masjid mosque in Ayodhya by Hindu nationali
 | 1992 | Riots killed 2,000+ |
 | 2020 | Supreme Court awarded site for Hindu temple |
 
-## References
+
 
 [^1]: Wikipedia, "Babri Masjid Demolition" - https://en.wikipedia.org/wiki/Babri_Masjid_Demolition
 
@@ -51,3 +51,6 @@ The Babri Masjid demolition is often discussed as:
 ## Notes on Terminology
 
 Many write-ups distinguish between the demolition event (1992), the subsequent cycles of violence, and the later legal judgments about the site. Keeping those layers separate helps avoid conflating historical description with later legal outcomes.
+
+
+## References

@@ -23,7 +23,7 @@ Drug-producing region spanning Myanmar, Laos, and Thailand that was the worlds l
 | 1990s | Second to Afghanistan in opium |
 | 2020s | Worlds largest meth producer |
 
-## References
+
 
 [^1]: Wikipedia, "Golden Triangle" - https://en.wikipedia.org/wiki/Golden_Triangle
 
@@ -57,3 +57,6 @@ In contemporary reporting, the Golden Triangle is frequently connected to:
 
 - UNODC overviews of synthetic drug markets in East and Southeast Asia
 - Studies of borderland governance and insurgency economies in Myanmar and neighboring states
+
+
+## References

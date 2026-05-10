@@ -22,7 +22,7 @@ Indonesian tax official who embezzled billions of rupiah and was caught leaving 
 | 2010 | Arrested for embezzling tax revenue |
 | 2011 | Caught leaving prison in disguise to watch tennis, sentenced to 30 years |
 
-## References
+
 
 [^1]: Wikipedia, "Gayus Tambunan" - https://en.wikipedia.org/wiki/Gayus_Tambunan
 
@@ -82,3 +82,6 @@ Commentary around the case often points to the need for:
 ## Public Trust Dimension
 
 In corruption cases, public confidence can be damaged not only by the initial offense but by perceptions that punishment can be negotiated. The Tambunan episode is frequently cited as an example of that dynamic.
+
+
+## References

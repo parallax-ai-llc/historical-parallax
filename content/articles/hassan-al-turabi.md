@@ -22,7 +22,7 @@ Sudanese Islamist leader who invited Osama bin Laden to Sudan and helped transfo
 | 1991 | Invited Osama bin Laden to establish Al-Qaeda base in Sudan |
 | 1999 | Fell out with al-Bashir and was repeatedly imprisoned |
 
-## References
+
 
 [^1]: Wikipedia, "Hassan al-Turabi" - https://en.wikipedia.org/wiki/Hassan_al-Turabi
 
@@ -69,3 +69,6 @@ Sudanese Islamist leader who invited Osama bin Laden to Sudan and helped transfo
 
 - In retrospective accounts, al-Turabi is treated as a pivotal figure for understanding how a domestic political project can intersect with transnational militancy.
 - His career is also used as a case study in how ideological entrepreneurship and state power can mutually reinforce—and later fracture through internal rivalry.
+
+
+## References

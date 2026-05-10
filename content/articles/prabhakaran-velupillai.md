@@ -21,7 +21,7 @@ Founder of the Tamil Tigers who pioneered suicide bombing and fought a 26-year c
 |------|-------|
 | 2009 | Killed by Sri Lankan military |
 
-## References
+
 
 [^1]: Wikipedia, "Prabhakaran Velupillai" - https://en.wikipedia.org/wiki/Prabhakaran_Velupillai
 
@@ -64,3 +64,6 @@ Historical accounts typically treat Prabhakaran as a decisive figure in modern S
 ## Further Reading
 
 [^2]: Wikipedia, "Liberation Tigers of Tamil Eelam" - https://en.wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam
+
+
+## References

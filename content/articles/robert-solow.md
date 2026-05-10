@@ -4,6 +4,7 @@ birth: "1924-08-23"
 death: "2023-12-21"
 nationality: "American"
 occupation: ["Economist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Robert_Solow_by_Olaf_Storbeck_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Solow"
 lastUpdated: "2026-03-12"

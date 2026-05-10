@@ -21,7 +21,7 @@ Pakistani heroin trafficker who ran one of the largest drug networks in the regi
 |------|-------|
 | 2010 | Major heroin trafficking operations |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmed Ali Ghulam Qadir" - https://en.wikipedia.org/wiki/Ahmed_Ali_Ghulam_Qadir
 
@@ -59,3 +59,6 @@ Pakistani heroin trafficker who ran one of the largest drug networks in the regi
 
 - Drug trafficking in South Asia
 - Heroin supply chain and interdiction
+
+
+## References

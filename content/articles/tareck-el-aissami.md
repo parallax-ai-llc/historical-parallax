@@ -24,7 +24,7 @@ Venezuelan politician who served as vice president and oil minister. He was desi
 | 2017 | Became vice president |
 | 2023 | Arrested in Venezuela for corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Tareck El Aissami" - https://en.wikipedia.org/wiki/Tareck_El_Aissami
 
@@ -49,3 +49,6 @@ El Aissami is frequently referenced in discussions of state-linked corruption, s
 ## Open Questions (as of 2026)
 
 Public reporting and official statements continue to evolve regarding the final legal outcomes of Venezuelan domestic proceedings, the scope of alleged misconduct tied to the oil sector, and any future changes to international sanctions related to his case.
+
+
+## References

@@ -21,7 +21,7 @@ Man sentenced to 46 months for bringing guns and Molotov cocktails to the Capito
 |------|-------|
 | 2022 | Sentenced for bringing weapons |
 
-## References
+
 
 [^1]: Wikipedia, "Lonnie Coffman" - https://en.wikipedia.org/wiki/Lonnie_Coffman
 
@@ -65,3 +65,6 @@ Man sentenced to 46 months for bringing guns and Molotov cocktails to the Capito
 ## Additional References
 
 [^2]: U.S. Department of Justice press releases and court documents related to January 6 prosecutions (case-specific details vary by filing; see Wikipedia summary for pointers).
+
+
+## References

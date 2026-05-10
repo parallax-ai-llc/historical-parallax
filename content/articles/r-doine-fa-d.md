@@ -24,7 +24,7 @@ French bank robber and repeat prison escapee who used a helicopter to escape fro
 | 2018 | Escaped from Réau prison by helicopter |
 | 2018 | Recaptured after three months on the run |
 
-## References
+
 
 [^1]: Wikipedia, "Rédoine Faïd" - https://en.wikipedia.org/wiki/R%C3%A9doine_Fa%C3%AFd
 
@@ -48,3 +48,6 @@ Unlike many career criminals who avoid publicity, Faïd's case became a cultural
 ## Legacy
 
 In contemporary French crime reporting, Faïd is often cited as a symbol of "spectacular" escape tactics in the modern era and as a driver for reforms and procedural reviews within the prison system.
+
+
+## References

@@ -11,9 +11,9 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 概述
+## 简介
 
-石坂照子（Teruko Ishizaka）是一位日本免疫学家，她与丈夫石坂公成（Kimishige Ishizaka）于1966年共同发现了免疫球蛋白E（IgE）。IgE是导致过敏反应的抗体。这一发现是免疫学上的里程碑，解释了过敏、哮喘和过敏性休克的机制，并为过敏治疗的发展奠定了基础。
+石坂照子是一位日本免疫学家，她与丈夫石坂公成于1966年共同发现了免疫球蛋白E（IgE），这种抗体是引起过敏反应的罪魁祸首。这项发现是免疫学史上的一个里程碑，解释了过敏、哮喘和过敏性休克的发病机制，并为过敏治疗的发展奠定了基础。
 
 ## 职业生涯时间线
 
@@ -29,4 +29,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: 维基百科，“石坂照子” - https://en.wikipedia.org/wiki/Teruko_Ishizaka
+[^1]: Wikipedia, "Teruko Ishizaka" - https://en.wikipedia.org/wiki/Teruko_Ishizaka

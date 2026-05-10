@@ -23,7 +23,7 @@ Russian serial killer known as the 'Granny Ripper' who murdered and dismembered 
 | 2015 | Arrested at age 68 after CCTV evidence |
 | 2015 | Confessed to 14 murders |
 
-## References
+
 
 [^1]: Wikipedia, "Tamara Samsonova" - https://en.wikipedia.org/wiki/Tamara_Samsonova
 
@@ -50,3 +50,6 @@ The nickname “Granny Ripper” reflected a broader pattern of sensational labe
 ## Notes on Sources
 
 Much of the public understanding of this case comes from secondary reporting and summaries, with some disputed or unverified claims circulating in tabloid coverage. For historical summaries, it is common to separate confirmed charges from broader allegations.
+
+
+## References

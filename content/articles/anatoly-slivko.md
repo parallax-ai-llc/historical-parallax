@@ -23,7 +23,7 @@ Soviet serial killer and youth leader who murdered 7 boys in Nevinnomyssk betwee
 | 1985 | Arrested when film discovered |
 | 1989 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Anatoly Slivko" - https://en.wikipedia.org/wiki/Anatoly_Slivko
 
@@ -48,3 +48,6 @@ He was tried in the Soviet legal system, convicted, and ultimately executed. The
 ## Historical Context
 
 Public discussion of serial crime in the Soviet era was often limited, and many cases became broadly known only later through reporting and archival publication.
+
+
+## References

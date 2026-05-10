@@ -23,7 +23,7 @@ Butler Lampson was key designer of the Alto personal computer at Xerox PARC. 199
 | 1972 | Designed Xerox Alto |
 | 1992 | Turing Award |
 
-## References
+
 
 [^1]: Wikipedia, "Butler Lampson" - https://en.wikipedia.org/wiki/Butler_Lampson
 
@@ -68,3 +68,6 @@ Readers who encounter Lampson’s name may also run into adjacent topics such as
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

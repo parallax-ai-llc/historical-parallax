@@ -22,7 +22,7 @@ Chinese serial killer who murdered multiple people in Hunan Province. He committ
 | 2001 | Committed series of murders in Hunan Province |
 | 2005 | Executed for multiple murders |
 
-## References
+
 
 [^1]: Wikipedia, "Xiong Zhenlin" - https://en.wikipedia.org/wiki/Xiong_Zhenlin
 
@@ -49,3 +49,6 @@ This entry is intentionally high-level. For names of victims, precise counts, da
 ## Editorial Note
 
 Coverage of violent crime can amplify misinformation and harm survivors. When expanding this topic further, prioritize verified court findings and reputable reporting, and avoid sensational or graphic details.
+
+
+## References

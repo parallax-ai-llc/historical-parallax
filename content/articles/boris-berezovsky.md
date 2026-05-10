@@ -22,7 +22,7 @@ Russian oligarch who accumulated vast wealth during the chaotic 1990s privatizat
 | 1996 | Became one of Russia's most powerful oligarchs |
 | 2013 | Found dead in London; possible suicide |
 
-## References
+
 
 [^1]: Wikipedia, "Boris Berezovsky" - https://en.wikipedia.org/wiki/Boris_Berezovsky
 
@@ -74,3 +74,6 @@ In exile, Berezovsky remained visible in media interviews and political commenta
 ## Why his story is studied
 
 Berezovsky is often used as a narrative anchor for the 1990s transition in Russia: how rapid market creation, weak rule-of-law capacity, and political competition can produce concentrated wealth and then subject it to reversal when political coalitions and enforcement priorities change.
+
+
+## References

@@ -23,7 +23,7 @@ Bear Grylls is a British adventurer, former SAS officer, and television presente
 | 2006 | Began hosting 'Man vs Wild' |
 | 2019 | Named Chief Scout of the UK |
 
-## References
+
 
 [^1]: Wikipedia, "Bear Grylls" - https://en.wikipedia.org/wiki/Bear_Grylls
 
@@ -48,3 +48,6 @@ Some survival television has faced scrutiny over what is staged versus performed
 
 Regardless of debate over production practices, Grylls helped popularize outdoor survival themes for a mass audience and influenced the modern genre of survival and adventure television.
 
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1947-06-01"
 death: "Unknown"
 nationality: "Ukraine"
 occupation: ["Arms Dealer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/LeonidMinin2000.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonid_Minin"
 lastUpdated: "2026-02-21"

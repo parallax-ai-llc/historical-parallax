@@ -21,7 +21,7 @@ Namyang Dairy was caught on tape forcing small-store owners to buy excessive pro
 |------|-------|
 | 2013 | Extortion recording leaked |
 
-## References
+
 
 [^1]: Wikipedia, "Namyang Dairy Extortion" - https://en.wikipedia.org/wiki/Namyang_Dairy_Extortion
 
@@ -61,3 +61,6 @@ The following are typical post-scandal moves seen in comparable Korean corporate
 
 - The Wikipedia link in the frontmatter and reference may not resolve if the page title does not exist or has changed; treat it as a pointer rather than a guaranteed canonical source.
 - For rigorous citation, primary Korean-language reporting and regulatory filings from the period would be needed.
+
+
+## References

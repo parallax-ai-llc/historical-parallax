@@ -1,6 +1,6 @@
 ---
 id: "malinee-sripaipan"
-name: "玛琳·斯里帕潘"
+name: "玛琳·西里派潘"
 birth: "1960-01-01"
 death: "Unknown"
 nationality: "Thai"
@@ -11,9 +11,9 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 概述
+## 简介
 
-玛琳·斯里帕潘（Malinee Sripaipan）是一位泰国流行病学家，她在东南亚的公共卫生研究领域做出了重要贡献，重点关注艾滋病预防、结核病和热带病控制。她关于预防性健康干预措施的研究影响了泰国及该区域的公共卫生政策。
+玛琳·西里派潘是一位泰国流行病学家，她在东南亚的公共卫生研究方面做出了重要贡献，专注于艾滋病预防、结核病和热带病控制。她对预防性健康干预措施的研究影响了泰国及区域的公共卫生政策。
 
 ## 职业生涯时间线
 
@@ -28,4 +28,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: Wikipedia, "Malinee Sripaipan" - https://en.wikipedia.org/wiki/Malinee_Sripaipan
+[^1]: 维基百科，“Malinee Sripaipan” - https://en.wikipedia.org/wiki/Malinee_Sripaipan

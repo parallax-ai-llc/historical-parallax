@@ -22,7 +22,7 @@ Notorious Thai mafia boss and former village headman who ran a criminal empire f
 | 2003 | Convicted of ordering murder of a provincial councilman |
 | 2024 | Died in prison serving life sentence |
 
-## References
+
 
 [^1]: Wikipedia, "Kamnan Poh" - https://en.wikipedia.org/wiki/Kamnan_Poh
 
@@ -56,3 +56,6 @@ A recurring theme in public reporting is the overlap between local business inte
 ## Interpreting sources
 
 Much of what is written about “godfather” figures blends court outcomes, investigative reporting, and political narrative. When expanding timelines, it is useful to distinguish between allegations, convictions, and broader reputational claims.
+
+
+## References

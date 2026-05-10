@@ -22,7 +22,7 @@ Hacked Bitfinex exchange stealing $4.5 billion in Bitcoin. Arrested with wife He
 | 2016 | Hacked Bitfinex stealing 120,000 Bitcoin |
 | 2022 | Arrested with wife for money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Ilya Lichtenstein" - https://en.wikipedia.org/wiki/Ilya_Lichtenstein
 
@@ -61,3 +61,6 @@ The case is frequently cited in discussions about:
 - Bitfinex
 - Cryptocurrency laundering
 - Blockchain forensics
+
+
+## References

@@ -23,7 +23,7 @@ The Zodiac Killer terrorized Northern California in the late 1960s and early 197
 | 1969 | Second attack at Blue Rock Springs Park |
 | 1974 | Last confirmed letter sent to San Francisco Chronicle |
 
-## References
+
 
 [^1]: Wikipedia, "Zodiac Killer Suspects" - https://en.wikipedia.org/wiki/Zodiac_Killer_Suspects
 
@@ -53,3 +53,6 @@ Public discussion often concentrates on a small number of recurring names. In ge
 ## Notes
 
 Lists of suspects are best read as a history of investigative leads and public theory-making, not as proof of guilt. The case remains officially unresolved in the public record.
+
+
+## References

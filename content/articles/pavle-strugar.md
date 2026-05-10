@@ -23,7 +23,7 @@ Yugoslav military commander convicted by the ICTY for the 1991 siege and shellin
 | 2001 | Indicted by ICTY |
 | 2005 | Convicted of war crimes; sentenced to 8 years |
 
-## References
+
 
 [^1]: Wikipedia, "Pavle Strugar" - https://en.wikipedia.org/wiki/Pavle_Strugar
 
@@ -49,3 +49,6 @@ Readers may also look for:
 - Broader historical or social context for the period
 - Similar figures/events in the same domain
 - Summaries in reference works and major news archives
+
+
+## References

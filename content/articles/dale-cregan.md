@@ -21,7 +21,7 @@ British criminal who murdered two police officers with a gun and grenade in Manc
 |------|-------|
 | 2012 | Murdered two police officers |
 
-## References
+
 
 [^1]: Wikipedia, "Dale Cregan" - https://en.wikipedia.org/wiki/Dale_Cregan
 
@@ -54,3 +54,6 @@ British criminal who murdered two police officers with a gun and grenade in Manc
 ## Additional notes
 
 - This article is a brief historical profile; details can be verified against the reference source above.
+
+
+## References

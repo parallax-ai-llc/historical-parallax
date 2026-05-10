@@ -21,7 +21,7 @@ Toxic chemicals in Oxy and other humidifier disinfectants killed over 100 people
 |------|-------|
 | 2011 | Toxic humidifier disinfectant deaths discovered |
 
-## References
+
 
 [^1]: Wikipedia, "Oxy Reckitt Benckiser Humidifier Scandal" - https://en.wikipedia.org/wiki/Oxy_Reckitt_Benckiser_Humidifier_Scandal
 
@@ -65,3 +65,6 @@ Toxic chemicals in Oxy and other humidifier disinfectants killed over 100 people
 - Consumer product safety regulation
 - Environmental health and toxicology
 - Corporate accountability
+
+
+## References

@@ -24,7 +24,7 @@ British serial killer who murdered at least 3 people in London in 1974-1975, tho
 | 1975 | Arrested and convicted of 3 murders |
 | 1975 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Patrick Mackay" - https://en.wikipedia.org/wiki/Patrick_Mackay
 
@@ -52,3 +52,6 @@ The case is sometimes used in broader commentary about:
 
 - List of serial killers by country
 - Criminal justice in the United Kingdom
+
+
+## References

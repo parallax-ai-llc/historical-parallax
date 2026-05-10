@@ -5,7 +5,7 @@ birth: "1963-04-11"
 death: "Unknown"
 nationality: "Egypt"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/19/Saif_al-Adel_in_Afghanistan%2C_January_2000.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saif_al-Adel"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Egyptian militant believed to be the current leader of al-Qaeda. A former Egypti
 | 2011 | Moved to Iran |
 | 2023 | Reported as de facto leader of al-Qaeda |
 
-## References
+
 
 [^1]: Wikipedia, "Saif al-Adel" - https://en.wikipedia.org/wiki/Saif_al-Adel
 
@@ -53,3 +53,6 @@ This page summarizes widely reported claims; for the most defensible details (da
 
 - Wikipedia (overview)
 - Reputable news and academic references
+
+
+## References

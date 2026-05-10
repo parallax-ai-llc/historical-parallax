@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1971 | See Elon Musk |
 
-## References
+
 
 [^1]: Wikipedia, "Elon Musk dup2" - https://en.wikipedia.org/wiki/Elon_Musk_dup2
 
@@ -60,3 +60,6 @@ This page appears to be a duplicate/placeholder entry for Elon Musk. For a full 
 - 2000s: Payments/fintech era; transition toward space and automotive.
 - 2010s: Growth in EV production and commercial space launches.
 - 2020s: Continued expansion across aerospace, AI/robotics-adjacent efforts, and infrastructure experiments.
+
+
+## References

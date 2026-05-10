@@ -5,7 +5,7 @@ birth: "1962-11-29"
 death: "N/A (Imprisoned)"
 nationality: "Russia"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/d/dc/SergeiRyakhovsky.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergei_Ryakhovsky"
 lastUpdated: "2026-02-21"

@@ -41,7 +41,7 @@ Jean-Pierre Sauvage is a French chemist who shared the 2016 Nobel Prize in Chemi
 - Molecular machines are often discussed as a long-term platform for nanoscale devices, responsive materials, and chemical systems that can do work in a directed manner.
 - The field also influenced how chemists think about **control** and **function** beyond static molecular structures.
 
-## References
+
 
 [^1]: Wikipedia, "Jean-Pierre Sauvage" - https://en.wikipedia.org/wiki/Jean-Pierre_Sauvage
 
@@ -50,3 +50,6 @@ Jean-Pierre Sauvage is a French chemist who shared the 2016 Nobel Prize in Chemi
 - **Supramolecular chemistry**: the study of chemical systems formed through non-covalent interactions between molecules.
 - **Rotaxane**: a molecular architecture in which a ring is threaded onto an axle-like molecule and held in place by bulky end groups.
 - **Mechanical bond**: a way of linking parts of a molecule through interlocking rather than traditional covalent connectivity.
+
+
+## References

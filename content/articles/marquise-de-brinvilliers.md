@@ -21,7 +21,7 @@ French noblewoman who poisoned her father and brothers for inheritance, sparking
 |------|-------|
 | 1676 | Executed for poisoning family members |
 
-## References
+
 
 [^1]: Wikipedia, "Marquise de Brinvilliers" - https://en.wikipedia.org/wiki/Marquise_de_Brinvilliers
 
@@ -54,3 +54,6 @@ French noblewoman who poisoned her father and brothers for inheritance, sparking
 
 - Many details circulate through a mix of court records, memoirs, and later historical compilations; specific claims can differ depending on the source.
 - For precise chronology and documentary detail, consult specialized histories of the Affair of the Poisons alongside primary-record summaries.
+
+
+## References

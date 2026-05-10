@@ -21,7 +21,7 @@ Grenadian drug lord convicted of cocaine trafficking to the United States.
 |------|-------|
 | 2007 | Convicted of cocaine trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Selwyn Alexis" - https://en.wikipedia.org/wiki/Selwyn_Alexis
 
@@ -49,3 +49,6 @@ Grenadian drug lord convicted of cocaine trafficking to the United States.
 
 - Drug trafficking in the Caribbean
 - U.S. federal drug sentencing guidelines
+
+
+## References

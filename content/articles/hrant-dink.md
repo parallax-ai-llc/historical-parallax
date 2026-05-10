@@ -21,7 +21,7 @@ Turkish-Armenian journalist assassinated outside his newspaper office by a Turki
 |------|-------|
 | 2007 | Assassinated in Istanbul |
 
-## References
+
 
 [^1]: Wikipedia, "Hrant Dink" - https://en.wikipedia.org/wiki/Hrant_Dink
 
@@ -50,3 +50,6 @@ Turkish-Armenian journalist assassinated outside his newspaper office by a Turki
 
 - Dink is frequently cited in discussions of minority rights and press freedom in Turkey, and his work remains a reference point for civic activism and cross-community dialogue.
 - Memorial events and organizations associated with his name continue to promote journalism, human rights, and reconciliation-oriented initiatives.
+
+
+## References

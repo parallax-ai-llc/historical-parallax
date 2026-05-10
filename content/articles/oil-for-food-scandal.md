@@ -21,7 +21,7 @@ Saddam Hussein's government exploited the UN Oil-for-Food Programme to earn $1.8
 |------|-------|
 | 2004 | Scandal investigated |
 
-## References
+
 
 [^1]: Wikipedia, "Oil-for-Food Scandal" - https://en.wikipedia.org/wiki/Oil-for-Food_Scandal
 
@@ -58,3 +58,6 @@ Saddam Hussein's government exploited the UN Oil-for-Food Programme to earn $1.8
 - Oversight must match the complexity and scale of the program.
 - Incentives created by sanctions and controlled markets can drive sophisticated evasion.
 - Transparency in contracting and auditing is essential when large commodity revenues are involved.
+
+
+## References

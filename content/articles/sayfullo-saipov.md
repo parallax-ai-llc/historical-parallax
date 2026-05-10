@@ -19,7 +19,7 @@ Sayfullo Saipov drove a rented truck into cyclists and pedestrians on a Manhatta
 |------|-------|
 | 1988 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia: 2017 New York City truck attack.
 [^3]: U.S. Department of Justice press releases and federal court filings (SDNY).
@@ -62,3 +62,6 @@ Sayfullo Saipov drove a rented truck into cyclists and pedestrians on a Manhatta
 - 2016 Berlin truck attack
 - 2016 Nice truck attack
 - Terrorism in the United States (post-9/11)
+
+
+## References

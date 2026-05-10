@@ -23,7 +23,7 @@ Congolese billionaire and former governor of Katanga province who was convicted 
 | 2016 | Left DRC amid legal troubles |
 | 2020 | Returned to DRC |
 
-## References
+
 
 [^1]: Wikipedia, "Moise Katumbi" - https://en.wikipedia.org/wiki/Moise_Katumbi
 
@@ -48,3 +48,6 @@ Congolese billionaire and former governor of Katanga province who was convicted 
 - Katanga Province
 - Resource politics in Central Africa
 - Katanga mining sector
+
+
+## References

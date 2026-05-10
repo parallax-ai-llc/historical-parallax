@@ -3,6 +3,7 @@ name: "Kim Petras"
 birth: "1992-08-27"
 nationality: "German-American"
 occupation: ["Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Kim_Petras_%2842743719761%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Petras"
 lastUpdated: "2026-03-12"

@@ -21,7 +21,7 @@ Samarco mining company's dam collapsed in Mariana, Brazil, releasing 60 million 
 |------|-------|
 | 2015 | Dam collapse; worst environmental disaster |
 
-## References
+
 
 [^1]: Wikipedia, "Mariana Dam Disaster" - https://en.wikipedia.org/wiki/Mariana_Dam_Disaster
 
@@ -54,3 +54,6 @@ Samarco mining company's dam collapsed in Mariana, Brazil, releasing 60 million 
 
 - It is widely referenced as a case study in tailings-dam risk management, corporate accountability, and environmental governance.
 - The event influenced public and regulatory attention on mining waste storage safety in Brazil and internationally.
+
+
+## References

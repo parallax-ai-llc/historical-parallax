@@ -5,7 +5,7 @@ birth: "1951-05-22"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Serial Killer", "Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/KennethBianchi_1979.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenneth_Bianchi"
 lastUpdated: "2026-02-21"

@@ -21,7 +21,7 @@ Spree killer who murdered five people including fashion designer Gianni Versace 
 |------|-------|
 | 1997 | Murdered Versace and committed suicide |
 
-## References
+
 
 [^1]: Wikipedia, "Andrew Cunanan" - https://en.wikipedia.org/wiki/Andrew_Cunanan
 
@@ -63,3 +63,5 @@ Between April and July 1997, Cunanan killed **five people** in multiple U.S. cit
 
 [^2]: Encyclopaedia Britannica, "Andrew Cunanan" - https://www.britannica.com/biography/Andrew-Cunanan
 [^3]: FBI records and archived manhunt reporting (overview) - https://www.fbi.gov/
+
+

@@ -23,7 +23,7 @@ Arrhichion of Phigalia was an ancient Greek pankratiast who won the Olympic pank
 | 568 BC | Won second Olympic title |
 | 564 BC | Won third title posthumously; died during match |
 
-## References
+
 
 [^1]: Wikipedia, "Pankratios Sportsman" - https://en.wikipedia.org/wiki/Pankratios_Sportsman
 
@@ -50,3 +50,6 @@ Because the account is preserved through later writers, it is commonly treated a
 ## Further Reading
 
 For broader context, see general histories of the ancient Olympic Games and surveys of Greek athletics that discuss pankration rules and athlete prestige.
+
+
+## References

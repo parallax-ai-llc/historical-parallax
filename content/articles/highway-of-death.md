@@ -21,7 +21,7 @@ US forces bombed retreating Iraqi military and civilian vehicles on Highway 80 f
 |------|-------|
 | 1991 | Retreating column bombed |
 
-## References
+
 
 [^1]: Wikipedia, "Highway of Death" - https://en.wikipedia.org/wiki/Highway_of_Death
 
@@ -63,3 +63,6 @@ US forces bombed retreating Iraqi military and civilian vehicles on Highway 80 f
 
 - The event is often used in case studies about how **information (photos, video, later reporting)** can shape public perception of legality and morality in war.
 - Even when an action is argued to be militarily justified, the **symbolic power of imagery** can become strategically significant in hindsight.
+
+
+## References

@@ -31,7 +31,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 2002-10-12 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -62,3 +62,6 @@ This event had significant impact on law enforcement practices, public policy, a
 
 ### 다음 단계
 이 글의 내용을 적용하려면, (1) 지금 당장 바꿀 수 있는 작은 습관 1개를 고르고 (2) 7일 동안 관측한 뒤 (3) 관측치를 기준으로 규칙을 조정해 보시면 됩니다.
+
+
+## References

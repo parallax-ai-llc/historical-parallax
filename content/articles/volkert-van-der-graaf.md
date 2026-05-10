@@ -23,7 +23,7 @@ Dutch animal rights activist who assassinated politician Pim Fortuyn on May 6, 2
 | 2003 | Convicted of murder; sentenced to 18 years |
 | 2014 | Released after serving 12 years |
 
-## References
+
 
 [^1]: Wikipedia, "Volkert van der Graaf" - https://en.wikipedia.org/wiki/Volkert_van_der_Graaf
 
@@ -49,3 +49,6 @@ The assassination is frequently described as a watershed moment in modern Dutch 
 
 - Political violence in Western Europe in the early 2000s.
 - Dutch criminal sentencing and conditional release practices.
+
+
+## References

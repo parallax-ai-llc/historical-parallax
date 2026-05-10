@@ -5,7 +5,7 @@ birth: "1956-01-01"
 death: "Unknown"
 nationality: "India"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sita_in_exile.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seetha"
 lastUpdated: "2026-02-26"

@@ -24,7 +24,7 @@ Bosnian Serb politician convicted of persecution, murder, and extermination of B
 | 2003 | Convicted by ICTY |
 | 2006 | Sentenced to 40 years on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Milomir Stakić" - https://en.wikipedia.org/wiki/Milomir_Staki%C4%87
 
@@ -49,3 +49,6 @@ Bosnian Serb politician convicted of persecution, murder, and extermination of B
 - This article is a high-level overview intended as a starting point.
 - For detailed chronology and primary sources, consult reputable historical references.
 - When multiple narratives exist, prefer well-sourced scholarship and contemporaneous records.
+
+
+## References

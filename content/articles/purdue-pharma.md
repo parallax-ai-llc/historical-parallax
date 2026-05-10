@@ -22,7 +22,7 @@ Pharmaceutical company that aggressively marketed OxyContin while hiding its add
 | 2007 | First guilty plea; $600 million fine |
 | 2020 | Second guilty plea; $8.3 billion penalty |
 
-## References
+
 
 [^1]: Wikipedia, "Purdue Pharma" - https://en.wikipedia.org/wiki/Purdue_Pharma
 
@@ -51,3 +51,6 @@ The Purdue case is frequently cited in policy discussions about pharmaceutical m
 - Opioid epidemic in the United States
 - OxyContin
 - Pharmaceutical industry regulation
+
+
+## References

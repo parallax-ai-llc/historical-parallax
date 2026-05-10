@@ -3,6 +3,7 @@ name: "Keanu Reeves"
 birth: "1964-09-02"
 nationality: "Canadian"
 occupation: ["Actor", "Musician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Keanu_Reeves"
 lastUpdated: "2026-03-12"

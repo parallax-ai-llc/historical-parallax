@@ -22,7 +22,7 @@ Coordinated train bombings in Madrid on March 11, 2004 killing 193 and injuring 
 | 2004 | 10 bombs on trains |
 | 2007 | 21 convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Madrid Train Bombings" - https://en.wikipedia.org/wiki/Madrid_Train_Bombings
 
@@ -53,3 +53,6 @@ These notes add high-level, factual context based on widely available public sum
 ## References (additional)
 
 - The linked Wikipedia page in the frontmatter is a starting point and typically aggregates citations to other sources.
+
+
+## References

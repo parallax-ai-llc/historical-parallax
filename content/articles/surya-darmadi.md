@@ -21,7 +21,7 @@ Indonesian palm oil tycoon convicted of illegally destroying 100,000 hectares of
 |------|-------|
 | 2022 | Convicted of massive deforestation |
 
-## References
+
 
 [^1]: Wikipedia, "Surya Darmadi" - https://en.wikipedia.org/wiki/Surya_Darmadi
 
@@ -71,3 +71,6 @@ The Surya Darmadi case is often referenced in discussions about:
 - How environmental harms are quantified and litigated in court
 
 It also highlights the reputational and legal risks that can accompany commodity-driven land conversion in jurisdictions with evolving enforcement and regulatory regimes.
+
+
+## References

@@ -22,7 +22,7 @@ Ugandan military leader who overthrew Obote and briefly held power. His forces c
 | 1985 | Seized power in coup |
 | 1986 | Overthrown by Museveni's NRA |
 
-## References
+
 
 [^1]: Wikipedia, "Tito Okello" - https://en.wikipedia.org/wiki/Tito_Okello
 
@@ -43,10 +43,6 @@ Okello’s brief presidency is generally analyzed as part of Uganda’s mid-1980
 - Ugandan Bush War
 
 
-## References
-- Publicly available reference works and reputable reporting
-
-
 ## Additional context
 
 Okello’s brief presidency is generally analyzed as part of Uganda’s mid-1980s transition, where military factionalism and civil conflict were intertwined with efforts to negotiate a settlement. His government attempted to pursue talks while also managing a deteriorating security situation and limited administrative capacity.
@@ -59,3 +55,9 @@ Okello’s brief presidency is generally analyzed as part of Uganda’s mid-1980
 ## See also
 - History of Uganda (post-independence period)
 - Ugandan Bush War
+
+
+## References
+- Publicly available reference works and reputable reporting
+
+

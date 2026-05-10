@@ -23,7 +23,7 @@ Former president of Guatemala who was forced to resign and arrested for his role
 | 2015 | Stripped of immunity after corruption scandal |
 | 2015 | Resigned and arrested for La Línea customs fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Otto Pérez Molina" - https://en.wikipedia.org/wiki/Otto_P%C3%A9rez_Molina
 
@@ -54,3 +54,6 @@ The episode is frequently referenced in debates about:
 - Institutional anti-corruption capacity
 - Prosecutorial independence
 - The durability of democratic accountability under elite pressure
+
+
+## References

@@ -22,7 +22,7 @@ Alexander Popov won four gold in 50m/100m freestyle at 1992 and 1996 Olympics.
 | 1992 | Won double gold at Barcelona |
 | 1996 | Won double gold at Atlanta |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Popov" - https://en.wikipedia.org/wiki/Alexander_Popov
 
@@ -68,3 +68,6 @@ Popov was widely regarded for:
 ## Legacy
 
 In historical summaries of swimming, Popov is frequently cited among the most accomplished men’s sprint freestylers, particularly for the rare achievement of defending Olympic titles in the same sprint events across consecutive Games.
+
+
+## References

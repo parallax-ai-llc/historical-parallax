@@ -22,7 +22,7 @@ Khmer Rouge prison commander who oversaw detention facilities where prisoners we
 | 1976 | Ran Khmer Rouge detention facility |
 | 1979 | Fled with remaining Khmer Rouge forces |
 
-## References
+
 
 [^1]: Wikipedia, "Suon Kaset" - https://en.wikipedia.org/wiki/Suon_Kaset
 
@@ -51,3 +51,6 @@ Cases involving prison commanders are often used to illustrate how mass atrociti
 ## Notes
 
 This entry is a high-level overview; details about specific facilities, dates, and victims depend on archival records and tribunal findings.
+
+
+## References

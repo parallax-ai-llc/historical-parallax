@@ -26,7 +26,7 @@ On December 17, 1903, Wilbur and Orville Wright made the first sustained, contro
 | 1905 | First practical airplane |
 | 1909 | Military contracts |
 
-## References
+
 
 [^1]: Wikipedia, "Wright Brothers First Flight" - https://en.wikipedia.org/wiki/Wright_Brothers_First_Flight
 
@@ -51,3 +51,6 @@ The Kitty Hawk flights became a cornerstone narrative in aviation history, influ
 ## Sources and Evidence
 
 Accounts of the 1903 flights are often discussed alongside physical artifacts (such as photographs and surviving components) and contemporaneous reporting. The episode also illustrates how early technological milestones can be contested or reinterpreted depending on standards of proof and definitions of "first" achievement.
+
+
+## References

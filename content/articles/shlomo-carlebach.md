@@ -5,7 +5,7 @@ birth: "1925-01-14"
 death: "1994-10-20"
 nationality: "Austrian-American Jewish"
 occupation: ["Rabbi", "Singer", "Songwriter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Shlomo_Carlebach.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shlomo_Carlebach"
 lastUpdated: "2026-02-21"

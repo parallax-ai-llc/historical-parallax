@@ -23,7 +23,7 @@ Exploitation and death of migrant workers building World Cup infrastructure in Q
 | 2020 | 6,500 migrant deaths documented |
 | 2022 | World Cup held amid controversy |
 
-## References
+
 
 [^1]: Wikipedia, "Qatar World Cup Labor Abuse" - https://en.wikipedia.org/wiki/Qatar_World_Cup_Labor_Abuse
 
@@ -48,3 +48,6 @@ Exploitation and death of migrant workers building World Cup infrastructure in Q
 
 - Became a reference point for discussions about human rights due diligence in mega-events.
 - Influenced expectations that future host bids and preparations include clearer labor standards and external monitoring.
+
+
+## References

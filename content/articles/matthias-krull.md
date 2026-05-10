@@ -21,7 +21,7 @@ Former Julius Baer banker convicted of laundering $1.2 billion from PDVSA for Ve
 |------|-------|
 | 2019 | Convicted of PDVSA money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Matthias Krull" - https://en.wikipedia.org/wiki/Matthias_Krull
 
@@ -64,3 +64,6 @@ From the existing summary in this article:
 - PDVSA (Petróleos de Venezuela, S.A.)
 - Anti-money laundering (AML) enforcement
 - Know Your Customer (KYC) practices
+
+
+## References

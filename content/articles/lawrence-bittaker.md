@@ -5,7 +5,7 @@ birth: "1940-09-27"
 death: "2019-12-13"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/0e/Lawrence_Sigmund_Bittaker_trial_1981.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lawrence_Bittaker"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ American serial killer who, with Roy Norris, kidnapped, tortured, raped, and mur
 | 1981 | Convicted; sentenced to death |
 | 2019 | Died on death row |
 
-## References
+
 
 [^1]: Wikipedia, "Lawrence Bittaker" - https://en.wikipedia.org/wiki/Lawrence_Bittaker
 
@@ -50,3 +50,6 @@ Bittaker died in prison in 2019 while still under a death sentence.
 ## Additional References
 
 [^2]: Court records and reputable case summaries documenting the investigation and trial (see secondary sources that cite primary filings).
+
+
+## References

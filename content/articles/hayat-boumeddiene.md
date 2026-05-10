@@ -22,7 +22,7 @@ French woman and partner of Amedy Coulibaly who fled to ISIS territory in Syria 
 | 2015 | Fled to Syria before Paris attacks |
 | 2020 | Convicted in absentia; sentenced to 30 years |
 
-## References
+
 
 [^1]: Wikipedia, "Hayat Boumeddiene" - https://en.wikipedia.org/wiki/Hayat_Boumeddiene
 
@@ -65,3 +65,6 @@ French woman and partner of Amedy Coulibaly who fled to ISIS territory in Syria 
 
 - The case is frequently cited in discussions of counterterrorism investigations where key suspects are outside jurisdiction.
 - It also illustrates how legal systems attempt to combine evidentiary standards with the realities of cross-border, conflict-zone-linked cases.
+
+
+## References

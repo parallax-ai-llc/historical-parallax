@@ -24,7 +24,7 @@ Ugandan cult leader and warlord known as Joseph Kony who leads the Lord's Resist
 | 2012 | Kony 2012 viral video campaign |
 | 2024 | Remains at large in Central Africa |
 
-## References
+
 
 [^1]: Wikipedia, "Patrick Kony" - https://en.wikipedia.org/wiki/Patrick_Kony
 
@@ -49,3 +49,6 @@ Kony became a symbol of the use of child soldiers and the difficulty of apprehen
 - Lord's Resistance Army (LRA)
 - International Criminal Court (ICC)
 - Child soldiers in modern conflicts
+
+
+## References

@@ -24,7 +24,7 @@ Somali warlord whose forces attacked UN peacekeepers and fought US forces in the
 | 1993 | 18 US soldiers killed in the battle |
 | 1996 | Shot in combat and died |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Farrah Aidid" - https://en.wikipedia.org/wiki/Mohamed_Farrah_Aidid
 ## Historical Context
@@ -54,3 +54,6 @@ The details of factional alignments and specific incidents can differ across sou
 
 - UN peacekeeping in Somalia
 - Humanitarian intervention debates in the 1990s
+
+
+## References

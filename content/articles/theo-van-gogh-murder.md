@@ -21,7 +21,7 @@ Dutch filmmaker Theo van Gogh was shot and stabbed on an Amsterdam street by Isl
 |------|-------|
 | 2004 | Van Gogh murdered on Amsterdam street |
 
-## References
+
 
 [^1]: Wikipedia, "Theo van Gogh Murder" - https://en.wikipedia.org/wiki/Theo_van_Gogh_Murder
 
@@ -55,3 +55,6 @@ Dutch filmmaker Theo van Gogh was shot and stabbed on an Amsterdam street by Isl
 | 2004-11-02 | Theo van Gogh murdered in Amsterdam; threat letter left at the scene.[^1] |
 | 2004 | Mohammed Bouyeri arrested and prosecuted in connection with the killing.[^1] |
 | 2000s | Murder becomes a recurring reference point in Dutch debates on free expression, integration, and security policy.[^1] |
+
+
+## References

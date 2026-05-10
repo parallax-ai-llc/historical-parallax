@@ -20,7 +20,7 @@ ISIS-linked gunmen attacked a bus of Coptic Christians in Minya killing 29 inclu
 |------|-------|
 | 2017 | Killed 29 Coptic Christians |
 
-## References
+
 
 [^1]: Wikipedia, "Minya Bus Attack" - https://en.wikipedia.org/wiki/Minya_Bus_Attack
 
@@ -56,3 +56,6 @@ ISIS-linked gunmen attacked a bus of Coptic Christians in Minya killing 29 inclu
 ## Additional Reading
 
 - See the Wikipedia entry for a consolidated timeline, casualty reporting, and cited sources: https://en.wikipedia.org/wiki/Minya_Bus_Attack
+
+
+## References

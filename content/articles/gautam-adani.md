@@ -22,7 +22,7 @@ Indian billionaire industrialist and founder-chair of the **Adani Group**, a con
 | 2023 | Hindenburg report |
 | 2024 | US bribery indictment |
 
-## References
+
 
 [^1]: Wikipedia, "Gautam Adani" - https://en.wikipedia.org/wiki/Gautam_Adani
 
@@ -78,3 +78,6 @@ Because infrastructure assets intersect with public policy, Adani-related contro
 ## Tracking Claims Over Time
 
 For claims such as short-seller allegations or criminal indictments, the most reliable references are primary documents (court filings, regulator releases, audited statements) and major outlets that cite them directly, since summaries can become outdated quickly.
+
+
+## References

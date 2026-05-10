@@ -22,7 +22,7 @@ Japanese mass murderer who drove a truck into a crowd in Akihabara, Tokyo, then 
 | 2008 | Carried out Akihabara massacre killing seven people |
 | 2022 | Executed by hanging |
 
-## References
+
 
 [^1]: Wikipedia, "Tomohiro Kato" - https://en.wikipedia.org/wiki/Tomohiro_Kato
 
@@ -50,3 +50,6 @@ Japanese mass murderer who drove a truck into a crowd in Akihabara, Tokyo, then 
 ## Additional references
 
 [^2]: BBC News, coverage of executions in Japan (includes Kato) - https://www.bbc.com/news/world-asia-62274240
+
+
+## References

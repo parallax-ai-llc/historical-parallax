@@ -23,7 +23,7 @@ Chechen separatist leader and actor who served as PM of the Chechen government i
 | 2002 | Fled to UK |
 | 2003 | Granted asylum in London |
 
-## References
+
 
 [^1]: Wikipedia, "Akhmed Zakayev" - https://en.wikipedia.org/wiki/Akhmed_Zakayev
 
@@ -48,3 +48,6 @@ Zakayev’s profile illustrates the overlap between armed conflict, contested le
 ## Notes
 
 Biographical details and titles can differ across sources, especially when describing institutions that were not universally recognized as state authorities. This article keeps to high-level descriptors used in mainstream reference material.
+
+
+## References

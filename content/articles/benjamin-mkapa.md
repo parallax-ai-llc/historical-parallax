@@ -22,7 +22,7 @@ Former President of Tanzania implicated in the Bank of Tanzania external payment
 | 1995 | Became President of Tanzania |
 | 2008 | EPA scandal exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Benjamin Mkapa" - https://en.wikipedia.org/wiki/Benjamin_Mkapa
 
@@ -59,3 +59,6 @@ His tenure is also noted for debates over state capacity, the role of donors, an
 ## Later life
 
 After leaving office, Mkapa remained an influential elder statesman in regional and international forums until his death in 2020.
+
+
+## References

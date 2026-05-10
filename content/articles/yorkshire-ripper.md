@@ -19,7 +19,7 @@ Already covered as Peter Sutcliffe.
 |------|-------|
 | 1946 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Identity Note
@@ -54,3 +54,6 @@ Already covered as Peter Sutcliffe.
 ## Additional References
 [^2]: UK court reporting and sentencing summaries (1981) and subsequent appellate/ministerial decisions.
 [^3]: Major UK newspaper archives and retrospective investigative reviews.
+
+
+## References

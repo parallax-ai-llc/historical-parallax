@@ -21,7 +21,7 @@ US-led military operation to cut down a tree in the DMZ after North Korean soldi
 |------|-------|
 | 1976 | Massive military operation over a tree |
 
-## References
+
 
 [^1]: Wikipedia, "Operation Paul Bunyan" - https://en.wikipedia.org/wiki/Operation_Paul_Bunyan
 
@@ -66,3 +66,6 @@ US-led military operation to cut down a tree in the DMZ after North Korean soldi
 
 [^2]: Britannica, "Operation Paul Bunyan" - https://www.britannica.com/event/Operation-Paul-Bunyan
 [^3]: U.S. Army (public history summaries), JSA / 1976 incident context - https://history.army.mil/
+
+
+## References

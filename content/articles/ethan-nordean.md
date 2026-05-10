@@ -21,7 +21,7 @@ Proud Boys leader convicted of seditious conspiracy for January 6 Capitol attack
 |------|-------|
 | 2023 | Convicted of seditious conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Ethan Nordean" - https://en.wikipedia.org/wiki/Ethan_Nordean
 
@@ -59,3 +59,6 @@ Proud Boys leader convicted of seditious conspiracy for January 6 Capitol attack
 ## References (Additional)
 
 [^2]: Wikipedia, "Ethan Nordean" (sentence: 18 years; Sept 1, 2023; commutation: Jan 20, 2025) - https://en.wikipedia.org/wiki/Ethan_Nordean
+
+
+## References

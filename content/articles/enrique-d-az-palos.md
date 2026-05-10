@@ -23,7 +23,7 @@ Spanish serial killer known as 'El Sádico de Hospitalet' who murdered 3 women i
 | 1998 | Arrested |
 | 2001 | Convicted; sentenced to 100+ years |
 
-## References
+
 
 [^1]: Wikipedia, "Enrique Díaz Palos" - https://en.wikipedia.org/wiki/Enrique_D%C3%ADaz_Palos
 
@@ -48,3 +48,6 @@ Spanish serial killer known as 'El Sádico de Hospitalet' who murdered 3 women i
 - Details about victim counts, dates, and specific allegations vary across summaries; high-confidence facts should be confirmed against primary court records or major reference sources.
 - Wikipedia provides a starting overview; fuller context may appear in Spanish-language court reporting and archival news coverage.
 
+
+
+## References

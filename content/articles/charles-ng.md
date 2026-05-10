@@ -24,7 +24,7 @@ Hong Kong-born serial killer who, with Leonard Lake, kidnapped, tortured, and mu
 | 1991 | Extradited from Canada |
 | 1999 | Convicted of 11 murders; sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Ng" - https://en.wikipedia.org/wiki/Charles_Ng
 
@@ -48,3 +48,6 @@ Hong Kong-born serial killer who, with Leonard Lake, kidnapped, tortured, and mu
 ### Public attention
 
 - The case has been the subject of extensive true-crime coverage, often focusing on the scale of the crimes, the rarity of a prolonged extradition fight, and controversies surrounding evidence and court proceedings.
+
+
+## References

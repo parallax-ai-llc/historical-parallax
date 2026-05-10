@@ -21,7 +21,7 @@ Japanese man who survived both atomic bombings of Hiroshima and Nagasaki.
 |------|-------|
 | 1945 | Survived both atomic bombings |
 
-## References
+
 
 [^1]: Wikipedia, "Tsutomu Yamaguchi" - https://en.wikipedia.org/wiki/Tsutomu_Yamaguchi
 
@@ -50,3 +50,6 @@ The Hiroshima and Nagasaki bombings occurred in the final days of World War II a
 - Exact details of Yamaguchi's movements and injuries are summarized here at a high level; many accounts rely on later recollections and reporting.
 - For careful study, consult survivor testimony, museum archives, and historical scholarship alongside encyclopedia summaries.
 
+
+
+## References

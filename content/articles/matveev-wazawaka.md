@@ -22,7 +22,7 @@ Russian cybercriminal known as 'Wazawaka' who used Babuk, Hive, and LockBit rans
 | 2021 | Attacked Washington DC Metropolitan Police with Babuk ransomware |
 | 2023 | Indicted by US; $10 million reward offered |
 
-## References
+
 
 [^1]: Wikipedia, "Matveev Wazawaka" - https://en.wikipedia.org/wiki/Matveev_Wazawaka
 
@@ -50,3 +50,6 @@ Russian cybercriminal known as 'Wazawaka' who used Babuk, Hive, and LockBit rans
 
 - Ransomware-as-a-service (RaaS)
 - Cybercrime indictments
+
+
+## References

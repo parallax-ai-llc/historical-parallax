@@ -24,7 +24,7 @@ Nicol David was the world number one in squash for a record nine consecutive yea
 | 2015 | Won ninth World Championship |
 | 2019 | Retired from competitive squash |
 
-## References
+
 
 [^1]: Wikipedia, "Nicol David" - https://en.wikipedia.org/wiki/Nicol_David
 
@@ -48,3 +48,6 @@ Nicol David was the world number one in squash for a record nine consecutive yea
 - Wikipedia (see link above)
 - Additional high-level context can be added from reliable sources.
 - Additional high-level context can be added from reliable sources.
+
+
+## References

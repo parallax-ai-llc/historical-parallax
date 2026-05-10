@@ -5,7 +5,7 @@ birth: "1873-01-01"
 death: "1901-10-29"
 nationality: "United States"
 occupation: ["Assassin", "Anarchist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/P-Czolgosz%2C_Leon_F._3._Edit_Trim.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leon_Czolgosz"
 lastUpdated: "2026-02-21"

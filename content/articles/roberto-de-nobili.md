@@ -5,7 +5,7 @@ birth: "1577-01-01"
 death: "1656-01-16"
 nationality: "Italian"
 occupation: ["Missionary", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Roberto_de_Nobili_%281577-1656%29%2C_gravure.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_de_Nobili"
 lastUpdated: "2026-02-21"

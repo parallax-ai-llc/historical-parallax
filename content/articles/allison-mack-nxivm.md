@@ -23,7 +23,7 @@ American actress known for Smallville who became a senior member of the NXIVM cu
 | 2018 | Arrested for sex trafficking |
 | 2021 | Sentenced to 3 years for racketeering |
 
-## References
+
 
 [^1]: Wikipedia, "Allison Mack NXIVM" - https://en.wikipedia.org/wiki/Allison_Mack_NXIVM
 
@@ -52,3 +52,6 @@ The case is frequently discussed in the context of modern cultic organizations, 
 - NXIVM
 - Keith Raniere
 - Cults and coercive control
+
+
+## References

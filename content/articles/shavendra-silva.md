@@ -5,7 +5,7 @@ birth: "1957-01-01"
 death: "Unknown"
 nationality: "Sri Lanka"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/75th_Medal_Ribbon_bar.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shavendra_Silva"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Sri Lankan army commander whose 58th Division was accused of shelling civilian n
 | 2019 | Appointed army commander despite war crimes allegations |
 | 2020 | US imposed travel ban on him and family |
 
-## References
+
 
 [^1]: Wikipedia, "Shavendra Silva" - https://en.wikipedia.org/wiki/Shavendra_Silva
 
@@ -52,3 +52,6 @@ His appointments to senior military positions drew attention because they inters
 ## Notes on terminology
 
 Descriptions such as “war criminal” are often used in political and media contexts; strictly speaking, war-crimes determinations are made through competent judicial processes. Many sources therefore describe the allegations and findings rather than treating them as settled court judgments.
+
+
+## References

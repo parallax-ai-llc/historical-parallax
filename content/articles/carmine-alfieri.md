@@ -23,7 +23,7 @@ Italian Camorra boss from Nola who led one of the most powerful clans in the Nea
 | 1992 | Arrested by Italian police |
 | 2002 | Became a collaborator with justice |
 
-## References
+
 
 [^1]: Wikipedia, "Carmine Alfieri" - https://en.wikipedia.org/wiki/Carmine_Alfieri
 
@@ -48,3 +48,6 @@ Italian Camorra boss from Nola who led one of the most powerful clans in the Nea
 - Italian anti-mafia policy in this era combined investigative tools, witness protection, and specialized prosecutions targeting criminal associations.
 - Public narratives about Camorra figures often emphasize the intersection of local politics, business interests, and coercive control in affected regions.
 - Cooperation agreements are also debated for their trade-offs: improved prosecutorial reach versus reliance on insider testimony.
+
+
+## References

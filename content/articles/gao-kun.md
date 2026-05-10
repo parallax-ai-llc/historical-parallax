@@ -22,7 +22,7 @@ Gao Kun (高锟) is an alternate rendering of the name of **Charles Kuen Kao**, 
 | 1933 | Born |
 | 2018 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Gao Kun" - https://en.wikipedia.org/wiki/Gao_Kun
 
@@ -70,3 +70,6 @@ A common way to summarize Kao’s contribution is that he helped shift the quest
 ## Naming Note
 
 “Gao Kun” appears as a transliteration in Chinese contexts; “Charles Kuen Kao” is widely used in English-language sources for the same person.
+
+
+## References

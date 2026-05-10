@@ -21,7 +21,7 @@ Duplicate — see Dhirubhai Ambani.
 |------|-------|
 | 1932 | See Dhirubhai Ambani entry |
 
-## References
+
 
 [^1]: Wikipedia, "Dhirubhai Ambani duplicate" - https://en.wikipedia.org/wiki/Dhirubhai_Ambani_duplicate
 
@@ -54,3 +54,6 @@ To reduce ambiguity for readers who land here, the canonical subject is widely k
 - Prefer fixing the source of the duplicate (redirects, canonical link mapping, or ID merge notes) rather than adding a second full narrative here.
 - If a UI or dataset requires a short description, keep it consistent with the canonical article and avoid diverging claims.
 - When adding citations, attach them to the canonical article unless the citation is specifically about the duplicate/alias itself.
+
+
+## References

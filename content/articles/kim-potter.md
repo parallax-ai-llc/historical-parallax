@@ -5,7 +5,7 @@ birth: "1972-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Manslaughter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/30/Body_camera_still_image_of_Daunte_Wright_in_US_state_of_Minnesota_2021-14-11.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Potter"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Minnesota police officer convicted of manslaughter for fatally shooting Daunte W
 |------|-------|
 | 2022 | Convicted of manslaughter |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Potter" - https://en.wikipedia.org/wiki/Kim_Potter
 
@@ -59,3 +59,6 @@ Minnesota police officer convicted of manslaughter for fatally shooting Daunte W
 ## Notes
 
 This article is a brief, high-level summary intended for historical reference and link-out to primary sources and established encyclopedic coverage.
+
+
+## References

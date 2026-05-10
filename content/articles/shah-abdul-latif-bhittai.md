@@ -5,7 +5,7 @@ birth: "1689-01-01"
 death: "1752-01-01"
 nationality: "Sindhi"
 occupation: ["Sufi Poet", "Musician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Shah_Abdul_Latif_Bhitai.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shah_Abdul_Latif_Bhittai"
 lastUpdated: "2026-02-21"

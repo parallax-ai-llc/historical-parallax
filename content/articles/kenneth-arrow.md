@@ -4,6 +4,7 @@ birth: "1921-08-23"
 death: "2017-02-21"
 nationality: "American"
 occupation: ["Economist", "Mathematician"]
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kenneth_Arrow%2C_Stanford_University.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenneth_Arrow"
 lastUpdated: "2026-03-12"

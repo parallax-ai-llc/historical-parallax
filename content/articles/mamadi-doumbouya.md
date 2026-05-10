@@ -22,7 +22,7 @@ Guinean special forces colonel who overthrew President Alpha Condé in a 2021 co
 | 2021 | Led coup overthrowing President Condé |
 | 2022 | Dissolved transitional government bodies |
 
-## References
+
 
 [^1]: Wikipedia, "Mamadi Doumbouya" - https://en.wikipedia.org/wiki/Mamadi_Doumbouya
 
@@ -65,3 +65,6 @@ Reporting on the post-coup period frequently focuses on several recurring themes
 ## Notes on interpretation
 
 Doumbouya is often described either as a reform-minded leader responding to popular discontent or as a military ruler consolidating power under the language of transition. Which framing dominates depends heavily on evolving events, verified actions, and the transparency of the transition roadmap.
+
+
+## References

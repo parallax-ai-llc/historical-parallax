@@ -5,7 +5,7 @@ birth: "1990-06-21"
 death: "Unknown"
 nationality: "Croatian"
 occupation: ["Athlete", "Olympic Champion", "Discus Thrower"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/2018_European_Athletics_Championships_Day_6_%2839%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandra_Perkovi%C4%87"
 lastUpdated: "2026-02-26"
@@ -44,7 +44,7 @@ Sandra Perković won Olympic discus gold at 2012 and 2016.
 - Personal best: 71.41 m (Croatian national record; reported).
 - Achieved her best distances during the mid-to-late 2010s when women's discus saw a deep field of elite throwers.
 
-## References
+
 
 [^1]: Wikipedia, "Sandra Perković" - https://en.wikipedia.org/wiki/Sandra_Perkovi%C4%87
 
@@ -52,3 +52,6 @@ Sandra Perković won Olympic discus gold at 2012 and 2016.
 
 - Some sources list her under the married surname "Elkasević"; earlier results are commonly indexed under "Perković".
 - Comprehensive medal tables (World/European/Diamond League) are typically maintained by athletics governing bodies and major results databases.
+
+
+## References

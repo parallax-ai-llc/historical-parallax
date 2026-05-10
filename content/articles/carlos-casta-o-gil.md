@@ -22,7 +22,7 @@ Co-founder of the AUC paramilitary group that committed some of Colombia's worst
 | 1997 | Co-founded AUC paramilitary organization |
 | 2004 | Disappeared; believed murdered by his brother |
 
-## References
+
 
 [^1]: Wikipedia, "Carlos Castaño Gil" - https://en.wikipedia.org/wiki/Carlos_Casta%C3%B1o_Gil
 
@@ -50,3 +50,6 @@ He disappeared in 2004, and later accounts—including judicial findings reporte
 
 [^2]: Wikipedia, "United Self-Defense Forces of Colombia" (AUC overview) - https://en.wikipedia.org/wiki/United_Self-Defense_Forces_of_Colombia
 [^3]: Human Rights Watch, Colombia reports and background (search: "AUC" and relevant years) - https://www.hrw.org/americas/colombia
+
+
+## References

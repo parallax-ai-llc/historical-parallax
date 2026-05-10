@@ -22,7 +22,7 @@ Afghan ruler who invaded India repeatedly and carried out devastating raids. His
 | 1757 | Sacked Delhi and Mathura, plundering Hindu temples |
 | 1761 | Defeated Marathas at Third Battle of Panipat killing 40,000 |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmad Shah Abdali" - https://en.wikipedia.org/wiki/Ahmad_Shah_Abdali
 
@@ -54,3 +54,6 @@ Ahmad Shah is widely regarded in Afghan historiography as a founder of a modern 
 
 - Names and titles vary across sources (Abdali vs. Durrani) and reflect shifting tribal and dynastic identities.
 - Accounts of casualties and specific atrocities differ by historian and contemporary chronicle, so aggregate figures should be treated cautiously.
+
+
+## References

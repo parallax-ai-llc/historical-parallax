@@ -24,7 +24,7 @@ Rwandan prefect of Kigali who organized and directed genocide in the capital cit
 | 2009 | Convicted of genocide by ICTR |
 | 2009 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Tharcisse Renzaho" - https://en.wikipedia.org/wiki/Tharcisse_Renzaho
 
@@ -49,3 +49,6 @@ Renzaho’s case is often discussed in the context of “mid-level” governance
 ## Notes
 
 This article provides a high-level overview. For precise determinations—convictions, acquittals, sentence modifications, and the tribunal’s reasoning—refer to ICTR records and reliable case digests.
+
+
+## References

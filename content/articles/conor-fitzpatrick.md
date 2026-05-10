@@ -22,7 +22,7 @@ American hacker known as 'Pompompurin' who created and operated BreachForums, a 
 | 2022 | Created BreachForums cybercrime marketplace |
 | 2024 | Sentenced to federal prison |
 
-## References
+
 
 [^1]: Wikipedia, "Conor Fitzpatrick" - https://en.wikipedia.org/wiki/Conor_Fitzpatrick
 
@@ -49,3 +49,6 @@ The case is used as an example of how individual operators can play outsized rol
 
 - Forums centralize stolen-data distribution and reputation-building for criminals.
 - Enforcement actions can disrupt platforms while the broader market adapts.
+
+
+## References

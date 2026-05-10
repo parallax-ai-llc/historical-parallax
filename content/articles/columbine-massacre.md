@@ -21,7 +21,7 @@ Eric Harris and Dylan Klebold killed 13 and wounded 21 at Columbine High School 
 |------|-------|
 | 1999 | 13 killed at Columbine |
 
-## References
+
 
 [^1]: Wikipedia, "Columbine Massacre" - https://en.wikipedia.org/wiki/Columbine_Massacre
 
@@ -59,3 +59,6 @@ Eric Harris and Dylan Klebold killed 13 and wounded 21 at Columbine High School 
 
 - Victims were commemorated through community memorials and ongoing remembrance events.
 - The site and surrounding community became focal points for discussions about healing, trauma, and prevention.
+
+
+## References

@@ -22,7 +22,7 @@ CIA operated secret prisons in Poland, Romania, Thailand, Lithuania, and elsewhe
 | 2001 | Black sites established |
 | 2014 | Senate torture report released |
 
-## References
+
 
 [^1]: Wikipedia, "CIA Black Sites" - https://en.wikipedia.org/wiki/CIA_Black_Sites
 
@@ -49,3 +49,6 @@ Debates over CIA black sites have shaped international discussions on torture, r
 - Extraordinary rendition
 - Abu Ghraib and broader post‑9/11 detention controversies
 - U.S. Senate Select Committee on Intelligence (torture report)
+
+
+## References

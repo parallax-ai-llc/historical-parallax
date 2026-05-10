@@ -5,7 +5,7 @@ birth: "1982-11-19"
 death: "Unknown"
 nationality: "North Korea"
 occupation: ["Escapee"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Shin_Dong-Hyuk.jpg/3840px-Shin_Dong-Hyuk.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shin_Dong-hyuk"
 lastUpdated: "2026-02-26"

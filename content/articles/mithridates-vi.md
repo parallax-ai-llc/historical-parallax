@@ -21,7 +21,7 @@ King of Pontus who ordered the massacre of 80,000 Romans and Italians in a singl
 |------|-------|
 | -88 | Ordered mass murder of Romans in Asia Minor |
 
-## References
+
 
 [^1]: Wikipedia, "Mithridates VI" - https://en.wikipedia.org/wiki/Mithridates_VI
 
@@ -53,3 +53,6 @@ King of Pontus who ordered the massacre of 80,000 Romans and Italians in a singl
 - **Roman expansion:** His wars became a major driver of Rome’s long-term consolidation in Anatolia and the eastern Mediterranean.
 - **Propaganda and memory:** Later Roman and Greek narratives alternately depict him as a brutal tyrant, a capable strategist, or a symbol of resistance to Roman dominance.
 - **“Mithridatism” (contested):** The idea that he practiced gradual dosing to build immunity to poisons is famous, but the historical specifics are debated; it is better treated as a later tradition attached to his reputation.
+
+
+## References

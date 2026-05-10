@@ -21,7 +21,7 @@ Chechen organized crime networks active across Russia and Europe known for extre
 | 1990s | Emerged during Chechen wars |
 | 2000s | Expanded across Europe |
 
-## References
+
 
 [^1]: Wikipedia, "Chechen Mafia" - https://en.wikipedia.org/wiki/Chechen_Mafia
 ## Additional Context
@@ -50,3 +50,6 @@ Chechen organized crime networks active across Russia and Europe known for extre
 - Dates shown in the timeline are for orientation and do not substitute for a full chronology.
 - Where a "death" field is unknown, it typically indicates that a reliable public confirmation was not available in the referenced summary source at the time of compilation.
 - If this page is expanded further, adding citations to additional sources is the safest way to increase specificity without introducing errors.
+
+
+## References

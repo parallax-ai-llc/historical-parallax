@@ -5,7 +5,7 @@ birth: "1933-03-16"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Banker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Sanford_Weill_2_Shankbone_Metropolitan_Opera_2009.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandy_Weill"
 lastUpdated: "2026-02-21"

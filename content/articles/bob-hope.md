@@ -21,7 +21,7 @@ Placeholder — entertainer.
 |------|-------|
 | 1903 | Born in London |
 
-## References
+
 
 [^1]: Wikipedia, "Bob Hope" - https://en.wikipedia.org/wiki/Bob_Hope
 
@@ -70,3 +70,6 @@ Placeholder — entertainer.
 - United Service Organizations (USO)
 - Bing Crosby
 - Dorothy Lamour
+
+
+## References

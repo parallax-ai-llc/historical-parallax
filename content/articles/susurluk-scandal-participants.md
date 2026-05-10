@@ -21,7 +21,7 @@ Turkish deep state scandal exposed when a car crash linked politicians, police c
 |------|-------|
 | 1996 | Susurluk car crash exposed deep state |
 
-## References
+
 
 [^1]: Wikipedia, "Susurluk Scandal Participants" - https://en.wikipedia.org/wiki/Susurluk_Scandal_Participants
 
@@ -81,3 +81,6 @@ The Susurluk scandal is often remembered for:
 ## References and Link Notes
 
 - The Wikipedia link above is retained as a pointer to a commonly cited title; availability can change over time.
+
+
+## References

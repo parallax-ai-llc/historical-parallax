@@ -23,7 +23,7 @@ Genocide by the Khmer Rouge from 1975-1979 that killed 1.5-2 million people thro
 | 1978 | Estimated 1.5-2 million killed |
 | 1979 | Vietnamese invasion ended regime |
 
-## References
+
 
 [^1]: Wikipedia, "Cambodian Genocide" - https://en.wikipedia.org/wiki/Cambodian_Genocide
 
@@ -63,3 +63,6 @@ Death toll estimates vary by methodology and source. Figures cited in overviews 
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

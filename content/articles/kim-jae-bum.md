@@ -5,7 +5,7 @@ birth: "1985-07-23"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Judoka"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/KOCIS_Korea_Judo_Kim_Jaebum_London_32_%287696362732%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Jae-bum"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Kim Jae-bum won Olympic judo gold at the 2012 London Olympics in the 81kg catego
 | 2011 | Won World Championship gold |
 | 2012 | Won Olympic gold at London |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Jae-bum" - https://en.wikipedia.org/wiki/Kim_Jae-bum
 
@@ -54,3 +54,6 @@ Kim Jae-bum is commonly referenced as part of South Korea's modern judo lineage 
 
 - International Judo Federation competition results databases (for event-by-event records)
 - Olympic Games judo reports and match summaries
+
+
+## References

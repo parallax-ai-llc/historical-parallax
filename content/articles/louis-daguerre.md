@@ -23,7 +23,7 @@ Louis Daguerre developed the daguerreotype, the first practical photographic pro
 | 1839 | Announced daguerreotype |
 | 1851 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Louis Daguerre" - https://en.wikipedia.org/wiki/Louis_Daguerre
 
@@ -52,3 +52,6 @@ Louis Daguerre developed the daguerreotype, the first practical photographic pro
 ## Further Reading Notes
 
 - For careful expansion, good targets are: (1) technical descriptions of the daguerreotype workflow, (2) institutional histories from museums/archives, and (3) scholarship on the 1839 announcement and its reception.
+
+
+## References

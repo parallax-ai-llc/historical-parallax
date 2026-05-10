@@ -21,7 +21,7 @@ American teenager acquitted of all charges after fatally shooting two people dur
 |------|-------|
 | 2021 | Acquitted of all charges |
 
-## References
+
 
 [^1]: Wikipedia, "Kyle Rittenhouse" - https://en.wikipedia.org/wiki/Kyle_Rittenhouse
 
@@ -58,3 +58,6 @@ American teenager acquitted of all charges after fatally shooting two people dur
 - Kenosha unrest (2020)
 - Self-defense (United States)
 - Use of force
+
+
+## References

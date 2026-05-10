@@ -40,7 +40,7 @@ Viccei was convicted in the UK and later died in Italy after being shot by polic
 
 The Knightsbridge robbery has remained part of popular crime history in the UK, frequently cited in documentaries and retrospectives on notable robberies. Viccei’s image as a “playboy” criminal is also part of the narrative that media coverage built around the case.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Valerio Viccei" - https://en.wikipedia.org/wiki/Valerio_Viccei
 
@@ -48,3 +48,6 @@ The Knightsbridge robbery has remained part of popular crime history in the UK, 
 
 - Knightsbridge safe deposit robbery
 - Organized robbery and safe-deposit theft cases
+
+
+## References

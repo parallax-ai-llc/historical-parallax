@@ -35,7 +35,7 @@ Heike Drechsler won Olympic long jump gold at both 1992 Barcelona and 2000 Sydne
 - **Olympic resilience:** medaling at multiple Games, including a comeback gold later in her career.
 - **European athletics era:** a notable figure spanning the transition from the late Cold War sports system into modern professional-era athletics.
 
-## References
+
 
 [^1]: Wikipedia, "Heike Drechsler" - https://en.wikipedia.org/wiki/Heike_Drechsler
 
@@ -50,3 +50,6 @@ Heike Drechsler won Olympic long jump gold at both 1992 Barcelona and 2000 Sydne
 - Long jump
 - Olympic Games
 - World Athletics Championships
+
+
+## References

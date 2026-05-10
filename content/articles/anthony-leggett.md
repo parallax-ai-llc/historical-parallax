@@ -23,7 +23,7 @@ Anthony Leggett shared the 2003 Nobel Prize for pioneering contributions to the 
 | 1972 | Developed theory of helium-3 superfluidity |
 | 2003 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Anthony Leggett" - https://en.wikipedia.org/wiki/Anthony_Leggett
 
@@ -48,3 +48,6 @@ The 2003 Nobel Prize in Physics cited “pioneering contributions to the theory 
 ## Notes
 
 Leggett’s research is frequently discussed in the context of how collective quantum states emerge from many-body interactions and how such states can be tested experimentally.
+
+
+## References

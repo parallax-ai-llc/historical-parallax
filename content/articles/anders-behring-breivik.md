@@ -23,7 +23,7 @@ Norwegian far-right terrorist who killed 77 people on July 22, 2011—eight in a
 | 2012 | Found sane; sentenced to 21 years preventive detention |
 | 2016 | Won case that solitary confinement violated his rights |
 
-## References
+
 
 [^1]: Wikipedia, "Anders Behring Breivik" - https://en.wikipedia.org/wiki/Anders_Behring_Breivik
 
@@ -48,3 +48,6 @@ He has repeatedly raised legal claims about detention conditions. Some court dec
 ## Significance
 
 The attacks reshaped Norwegian security policy and national discussions about extremism, online radicalization, and the balance between openness and public safety.
+
+
+## References

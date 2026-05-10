@@ -23,7 +23,7 @@ Zou Shiming won Olympic boxing medals at three consecutive Games (2004 bronze, 2
 | 2008 | Won Olympic gold at Beijing |
 | 2012 | Won Olympic bronze at London |
 
-## References
+
 
 [^1]: Wikipedia, "Zou Shiming" - https://en.wikipedia.org/wiki/Zou_Shiming
 
@@ -50,3 +50,6 @@ Zou was known for technical footwork, speed, and ring craft developed in the ama
 ## See Also
 
 - Boxing at the Summer Olympics
+
+
+## References

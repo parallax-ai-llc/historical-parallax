@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1928 | See Li Ka-shing |
 
-## References
+
 
 [^1]: Wikipedia, "Li Ka-shing duplicate" - https://en.wikipedia.org/wiki/Li_Ka-shing_duplicate
 
@@ -60,3 +60,6 @@ Public reporting commonly highlights philanthropic support across:
 
 - If you intended to reference the entrepreneur **Li Ka-shing**, use the main article (without the "duplicate" label).
 - If this was meant to represent a separate person with a similar name, additional reliable sources are required to establish that identity.
+
+
+## References

@@ -24,7 +24,7 @@ Iraqi military commander known as 'Chemical Ali' for his role in the Halabja che
 | 2003 | Captured by US forces |
 | 2010 | Executed by hanging |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Hassan al-Majid" - https://en.wikipedia.org/wiki/Ali_Hassan_al-Majid
 
@@ -54,3 +54,6 @@ After the 2003 invasion of Iraq, al-Majid was captured and prosecuted in Iraqi c
 - Anfal genocide
 - Halabja chemical attack
 - Ba'athist Iraq
+
+
+## References

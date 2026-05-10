@@ -23,7 +23,7 @@ Serbian crime boss who led the Zemun Clan and masterminded the 2003 assassinatio
 | 2003 | Orchestrated assassination of PM Đinđić |
 | 2003 | Killed in police operation during manhunt |
 
-## References
+
 
 [^1]: Wikipedia, "Dušan Spasojević" - https://en.wikipedia.org/wiki/Du%C5%A1an_Spasojevi%C4%87
 
@@ -48,3 +48,6 @@ Spasojević was killed during a police operation in 2003 after weeks of intensiv
 - Zoran Đinđić assassination
 - Organized crime in Serbia
 - Zemun Clan
+
+
+## References

@@ -22,7 +22,7 @@ US conducted the most intensive bombing campaign in history on Laos, dropping ov
 | 1964 | Secret war began |
 | 1973 | Bombing ended |
 
-## References
+
 
 [^1]: Wikipedia, "Laos Bombing" - https://en.wikipedia.org/wiki/Laos_Bombing
 
@@ -64,3 +64,6 @@ The Laos bombing remains a major topic in discussions of:
 
 - Histories of the Indochina wars that cover Laos alongside Vietnam and Cambodia.
 - UXO clearance reports and humanitarian surveys documenting long-term contamination.
+
+
+## References

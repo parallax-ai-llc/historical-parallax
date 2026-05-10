@@ -43,7 +43,7 @@ Former Nigerian Senate President who was charged with false declaration of asset
 - Saraki’s career is frequently used as a case study in **elite competition**, **party fragmentation**, and the challenges of **rule of law** in Nigeria.
 - The public attention around his trial underscored how anti-corruption efforts can become entangled with political strategy, media narratives, and institutional capacity.
 
-## References
+
 
 [^1]: Wikipedia, "Bukola Saraki" - https://en.wikipedia.org/wiki/Bukola_Saraki
 
@@ -67,3 +67,6 @@ Former Nigerian Senate President who was charged with false declaration of asset
 
 - **Ongoing relevance:** Even after leaving the Senate Presidency, Saraki remained a recognizable national political actor, with influence that extends through party networks and public commentary.
 - **Interpretive caution:** Evaluations of his legacy vary widely and often depend on wider assessments of Nigerian political institutions rather than a single court case.
+
+
+## References

@@ -21,7 +21,7 @@ Leader of Los Zetas known for extreme violence including burning victims alive.
 |------|-------|
 | 2013 | Captured near Nuevo Laredo |
 
-## References
+
 
 [^1]: Wikipedia, "Miguel Treviño Morales" - https://en.wikipedia.org/wiki/Miguel_Trevi%C3%B1o_Morales
 
@@ -61,3 +61,6 @@ Leader of Los Zetas known for extreme violence including burning victims alive.
 ## Notes on Sources
 
 This article is a high-level summary. For verified details (dates, charges, and case status), rely on primary documents (court filings) and reputable investigative reporting in addition to encyclopedic summaries.
+
+
+## References

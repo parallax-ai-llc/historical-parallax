@@ -24,7 +24,7 @@ Chechen militant leader who proclaimed himself 'Emir of the Caucasus Emirate.' H
 | 2010 | Ordered Moscow Metro bombings; 40 killed |
 | 2013 | Reportedly died from poisoning |
 
-## References
+
 
 [^1]: Wikipedia, "Doku Umarov" - https://en.wikipedia.org/wiki/Doku_Umarov
 
@@ -51,3 +51,6 @@ Chechen militant leader who proclaimed himself 'Emir of the Caucasus Emirate.' H
 ## Historical Significance
 
 Umarov is frequently discussed in studies of post-Soviet insurgencies as a figure linked to the evolution of armed groups in the North Caucasus and the spread of militant networks beyond Chechnya.
+
+
+## References

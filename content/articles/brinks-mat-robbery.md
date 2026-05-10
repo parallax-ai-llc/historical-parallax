@@ -20,7 +20,7 @@ The Brink's-Mat robbery occurred on November 26, 1983, when armed robbers stole 
 |------|-------|
 | 1983-11-26 | Event occurred |
 
-## References
+
 [^1]: Historical and journalistic sources.
 
 ## Background
@@ -55,3 +55,6 @@ The Brink's-Mat robbery occurred on November 26, 1983, when armed robbers stole 
 ## Further reading
 - Wikipedia entry and linked citations: see social link above.
 - UK press retrospectives on the case’s long-term impact and investigative timeline.
+
+
+## References

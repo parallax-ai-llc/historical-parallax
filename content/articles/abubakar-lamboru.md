@@ -22,7 +22,7 @@ Boko Haram commander and member of the Shura council who directed operations in 
 | 2014 | Led Boko Haram operations in Borno State |
 | 2017 | Killed by Nigerian military forces |
 
-## References
+
 
 [^1]: Wikipedia, "Abubakar Lamboru" - https://en.wikipedia.org/wiki/Abubakar_Lamboru
 
@@ -70,3 +70,6 @@ These patterns are general to insurgent dynamics and do not, by themselves, conf
 
 [^2]: Council on Foreign Relations (CFR) — Backgrounder on Boko Haram (overview): https://www.cfr.org/backgrounder/boko-haram
 [^3]: UN OCHA — Nigeria (humanitarian situation updates, including the northeast): https://www.unocha.org/nigeria
+
+
+## References

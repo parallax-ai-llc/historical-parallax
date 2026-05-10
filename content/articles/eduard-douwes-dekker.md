@@ -21,7 +21,7 @@ Dutch colonial official who exposed colonial abuses in Java under the pen name M
 |------|-------|
 | 1860 | Published Max Havelaar exposing colonial abuses |
 
-## References
+
 
 [^1]: Wikipedia, "Eduard Douwes Dekker" - https://en.wikipedia.org/wiki/Eduard_Douwes_Dekker
 
@@ -60,3 +60,6 @@ Dutch colonial official who exposed colonial abuses in Java under the pen name M
 ## Further Reading
 
 - Wikipedia overview and bibliographic pointers.[^1]
+
+
+## References

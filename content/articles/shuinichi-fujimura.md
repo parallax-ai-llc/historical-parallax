@@ -21,7 +21,7 @@ Japanese archaeologist who faked dozens of prehistoric discoveries, Japan's wors
 |------|-------|
 | 2000 | Exposed burying artifacts at excavation sites |
 
-## References
+
 
 [^1]: Wikipedia, "Shuinichi Fujimura" - https://en.wikipedia.org/wiki/Shuinichi_Fujimura
 
@@ -62,3 +62,6 @@ Fujimura’s case is frequently cited as an example of how reputational momentum
 - the need for independent oversight at excavation sites,
 - rigorous chain-of-custody for recovered artifacts,
 - and the importance of skepticism toward discoveries that repeatedly overturn established timelines without commensurate supporting evidence.
+
+
+## References

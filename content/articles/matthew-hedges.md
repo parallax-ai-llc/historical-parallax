@@ -21,7 +21,7 @@ British PhD student detained in the UAE for 7 months on espionage charges.
 |------|-------|
 | 2018 | Detained in UAE on spy charges |
 
-## References
+
 
 [^1]: Wikipedia, "Matthew Hedges" - https://en.wikipedia.org/wiki/Matthew_Hedges
 
@@ -61,3 +61,6 @@ British PhD student detained in the UAE for 7 months on espionage charges.
 
 This article provides a high-level summary intended for historical context. For detailed dates, legal filings, and contemporaneous reporting, consult the referenced sources.
 
+
+
+## References

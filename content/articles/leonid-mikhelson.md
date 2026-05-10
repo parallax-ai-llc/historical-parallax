@@ -5,7 +5,7 @@ birth: "1955-08-11"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/96/11-03-2020_Leonid_Mikhelson.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonid_Mikhelson"
 lastUpdated: "2026-02-21"

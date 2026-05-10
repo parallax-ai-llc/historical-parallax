@@ -21,7 +21,7 @@ Polish serial killer who murdered multiple taxi drivers in Silesia.
 |------|-------|
 | 2003 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Krzysztof Gawlik" - https://en.wikipedia.org/wiki/Krzysztof_Gawlik
 
@@ -69,3 +69,6 @@ Polish serial killer who murdered multiple taxi drivers in Silesia.
 ### Notes on Sources
 
 - This article is a high-level summary and relies primarily on the linked Wikipedia entry; details and counts should be cross-checked against court records and reputable Polish-language reporting when available.[^1]
+
+
+## References

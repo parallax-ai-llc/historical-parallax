@@ -24,7 +24,7 @@ Iraqi Shia cleric who leads the Mahdi Army militia. His forces fought US troops 
 | 2021 | Won largest bloc in Iraqi elections |
 | 2022 | Withdrew from politics after supporters stormed parliament |
 
-## References
+
 
 [^1]: Wikipedia, "Muqtada al-Sadr" - https://en.wikipedia.org/wiki/Muqtada_al-Sadr
 
@@ -51,3 +51,6 @@ This article is a high-level summary. Dates, organizational names, and character
 - Iraq’s post-2003 party system and government formation mechanisms.
 - The role of non-state armed groups and debates over security-sector reform.
 - The interaction between clerical authority, populism, and street politics.
+
+
+## References

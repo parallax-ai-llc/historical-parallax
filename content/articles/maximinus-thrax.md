@@ -22,7 +22,7 @@ First soldier-emperor of Rome who never visited the city and ruled through extre
 | 235 | Became emperor through military coup, began severe taxation |
 | 238 | Murdered by his own Praetorian Guard at Aquileia |
 
-## References
+
 
 [^1]: Wikipedia, "Maximinus Thrax" - https://en.wikipedia.org/wiki/Maximinus_Thrax
 
@@ -54,3 +54,6 @@ First soldier-emperor of Rome who never visited the city and ruled through extre
 - Crisis of the Third Century
 - Roman imperial succession and military coups
 - Aquileia (Roman city and late imperial history)
+
+
+## References

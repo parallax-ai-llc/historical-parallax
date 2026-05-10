@@ -44,7 +44,7 @@ Cardinal who controversially sided with Laurent Gbagbo during the 2010 Ivorian p
 - The episode illustrates how senior religious leaders can become involved—directly or indirectly—in national political debates during periods of instability.
 - It also highlights the reputational risk faced by faith institutions when public statements are perceived as partisan.
 
-## References
+
 
 [^1]: Wikipedia, "Jean-Pierre Kutwa" - https://en.wikipedia.org/wiki/Jean-Pierre_Kutwa
 
@@ -52,3 +52,6 @@ Cardinal who controversially sided with Laurent Gbagbo during the 2010 Ivorian p
 
 - 2010–2011 Ivorian crisis (for broader political context)
 - Roman Catholic Church in Côte d’Ivoire
+
+
+## References

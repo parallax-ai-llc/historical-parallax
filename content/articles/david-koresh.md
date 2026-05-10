@@ -19,7 +19,7 @@ David Koresh was the leader of the Branch Davidians cult at Waco, Texas. The 199
 |------|-------|
 | 1959 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Early Life and Background
@@ -57,3 +57,6 @@ David Koresh was the leader of the Branch Davidians cult at Waco, Texas. The 199
 ## Further Reading
 - Official reports, congressional hearing transcripts, and reputable historical syntheses of the Waco incident.
 - Biographical and investigative works that compare early reporting with later document releases.
+
+
+## References

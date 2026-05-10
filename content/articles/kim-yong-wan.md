@@ -5,7 +5,7 @@ birth: "1942-01-01"
 death: "2020-01-01"
 nationality: "Korean"
 occupation: ["Polymer chemist", "Materials scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Crystal_Clear_app_Login_Manager_2.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Yong-wan"
 lastUpdated: "2026-02-21"

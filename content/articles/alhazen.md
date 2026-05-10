@@ -23,7 +23,7 @@ Alhazen (Ibn al-Haytham) is the father of modern optics. His Book of Optics esta
 | 1021 | Published Book of Optics |
 | 1040 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Alhazen" - https://en.wikipedia.org/wiki/Alhazen
 
@@ -48,3 +48,6 @@ His writings became foundational references in medieval optics and shaped later 
 ## References (additional)
 
 [^2]: *Book of Optics* overview and manuscript/translation history, via Wikipedia and linked sources.
+
+
+## References

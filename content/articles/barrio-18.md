@@ -22,7 +22,7 @@ lastUpdated: "2026-02-26"
 | 1960 | Founded in Los Angeles |
 | 2000 | Expanded across Central America |
 
-## References
+
 
 [^1]: Wikipedia, "Barrio 18" - https://en.wikipedia.org/wiki/Barrio_18
 
@@ -63,3 +63,6 @@ Responses have ranged from “mano dura” (hardline policing and mass arrests) 
 ### Notes on estimates
 
 Membership figures and geographic reach are difficult to measure precisely, and numbers reported in media and official statements can vary by year, country, and methodology.
+
+
+## References

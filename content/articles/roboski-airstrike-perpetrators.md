@@ -51,7 +51,7 @@ In many datasets and short encyclopedic summaries, “perpetrators” are record
 | 2013 | Case developments were reported in Turkish legal venues; outcome widely seen as inconclusive for individual culpability |
 | 2014 | International attention continued; the incident remained a reference point in human-rights reporting |
 
-## References
+
 
 [^1]: Wikipedia, "Roboski Airstrike Perpetrators" - https://en.wikipedia.org/wiki/Roboski_Airstrike_Perpetrators
 
@@ -74,3 +74,6 @@ This is one reason "perpetrators" can remain ambiguous in open sources: responsi
 
 - The incident is frequently cited in Turkish domestic politics and Kurdish rights advocacy as a test case for civilian protection and state accountability.
 - It is also referenced in broader discussions about airpower, border security, and the risks of misidentification in counterinsurgency environments.
+
+
+## References

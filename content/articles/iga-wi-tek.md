@@ -23,7 +23,7 @@ Iga Świątek dominated women's tennis, winning multiple French Open titles and 
 | 2022 | Won French Open and US Open; reached #1 |
 | 2023 | Won French Open again |
 
-## References
+
 
 [^1]: Wikipedia, "Iga Świątek" - https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek
 
@@ -50,3 +50,6 @@ When using this entry as a starting point, prioritize (1) contemporaneous primar
 ## Reading guide
 
 When using this entry as a starting point, prioritize (1) contemporaneous primary material, (2) reputable secondary syntheses, and (3) cross-checking across independent outlets. This helps reduce errors from mistranslation, name collisions, and evolving narratives.
+
+
+## References

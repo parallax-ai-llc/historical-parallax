@@ -24,7 +24,7 @@ German colonial general who commanded the genocide of the Herero and Nama people
 | 1905 | Extended campaign to Nama people |
 | 1908 | Recalled to Germany |
 
-## References
+
 
 [^1]: Wikipedia, "Lothar von Trotha" - https://en.wikipedia.org/wiki/Lothar_von_Trotha
 
@@ -51,3 +51,6 @@ Von Trotha was eventually recalled to Germany. He continued to be discussed in G
 - Herero and Nama genocide
 - German South West Africa
 - Battle of Waterberg
+
+
+## References

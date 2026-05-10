@@ -21,7 +21,7 @@ Kidnapping of over 300 schoolboys from a school in Katsina State, Nigeria.
 |------|-------|
 | 2020 | 300+ schoolboys kidnapped |
 
-## References
+
 
 [^1]: Wikipedia, "Kankara Schoolboys Kidnapping" - https://en.wikipedia.org/wiki/Kankara_Schoolboys_Kidnapping
 
@@ -58,3 +58,6 @@ This kidnapping is often referenced as:
 - School security and safe-school initiatives in Nigeria.
 - Armed banditry and kidnapping-for-ransom dynamics in northwestern Nigeria.
 - Regional conflict spillovers and their impact on education access.
+
+
+## References

@@ -23,7 +23,7 @@ Mexican drug lord known as 'El H' who took over the Beltrán Leyva Cartel after 
 | 2014 | Arrested in San Miguel de Allende |
 | 2018 | Died of cardiac arrest in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Héctor Beltrán Leyva" - https://en.wikipedia.org/wiki/H%C3%A9ctor_Beltr%C3%A1n_Leyva
 
@@ -52,3 +52,6 @@ The case is often referenced as an example of:
 - the succession dynamics of family-linked criminal organizations
 - the effects of leadership decapitation strategies on cartel fragmentation
 - how arrests can reshape alliances and violence patterns in organized crime
+
+
+## References

@@ -3,6 +3,7 @@ name: "Kim Ji-won"
 birth: "1992-09-19"
 nationality: "South Korean"
 occupation: ["Actress"]
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/250327_%EA%B9%80%EC%A7%80%EC%9B%90_BVLGARI_4.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Ji-won_(actress)"
 lastUpdated: "2026-03-12"

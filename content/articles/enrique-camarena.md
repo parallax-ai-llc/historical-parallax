@@ -23,7 +23,7 @@ DEA agent who infiltrated the Guadalajara Cartel and was kidnapped, tortured, an
 | 1985 | Found murdered |
 | 1985 | DEA launched Operation Leyenda |
 
-## References
+
 
 [^1]: Wikipedia, "Enrique Camarena" - https://en.wikipedia.org/wiki/Enrique_Camarena
 
@@ -50,3 +50,6 @@ DEA agent who infiltrated the Guadalajara Cartel and was kidnapped, tortured, an
 ## Legacy
 
 - "Red Ribbon Week" school drug-prevention campaigns in the United States are commonly associated with Camarena's memory.
+
+
+## References

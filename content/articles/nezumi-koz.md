@@ -22,7 +22,7 @@ Famous Edo period thief who burglarized samurai estates and became a folk hero i
 | 1823 | Arrested after years of burglaries |
 | 1832 | Executed by crucifixion |
 
-## References
+
 
 [^1]: Wikipedia, "Nezumi Kozō" - https://en.wikipedia.org/wiki/Nezumi_Koz%C5%8D
 
@@ -49,3 +49,6 @@ The figure endured in **kabuki**, storytelling, and modern media as an archetype
 ## Common Misconceptions
 
 Some modern retellings exaggerate the scale of his thefts or portray him as an organized political rebel. Most historians treat him instead as a prolific burglar whose later myth grew because the story resonated with popular frustrations.
+
+
+## References

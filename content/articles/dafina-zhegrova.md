@@ -21,7 +21,7 @@ Albanian Ponzi scheme operator who defrauded thousands of investors in Kosovo.
 |------|-------|
 | 2010 | Convicted of fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Dafina Zhegrova" - https://en.wikipedia.org/wiki/Dafina_Zhegrova
 
@@ -69,3 +69,6 @@ To improve accuracy and completeness, additional sources would be needed to conf
 - The number of victims and total losses.
 - The precise charges, sentence details, and any appeals.
 - Whether restitution/forfeiture was ordered and what recoveries (if any) occurred.
+
+
+## References

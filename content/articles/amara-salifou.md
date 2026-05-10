@@ -22,7 +22,7 @@ Nigerien smuggler and former rebel who controlled major migration routes through
 | 2013 | Controlled major human smuggling routes through Niger |
 | 2016 | Anti-smuggling laws disrupted operations in Agadez |
 
-## References
+
 
 [^1]: Wikipedia, "Amara Salifou" - https://en.wikipedia.org/wiki/Amara_Salifou
 
@@ -74,3 +74,6 @@ If expanding this profile beyond a high-level overview, useful categories to doc
 - specific geographic corridors associated with Agadez-era transport,
 - the timeline and contents of Niger’s anti-smuggling law enforcement,
 - and distinctions between facilitation roles (driver/guide/broker) versus coercive trafficking.
+
+
+## References

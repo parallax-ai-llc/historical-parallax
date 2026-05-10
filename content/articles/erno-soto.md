@@ -23,7 +23,7 @@ Filipino serial killer convicted of raping and murdering at least 7 women in Que
 | 1997 | Arrested by Philippine police |
 | 2000 | Convicted and sentenced to death, later commuted to life |
 
-## References
+
 
 [^1]: Wikipedia, "Erno Soto" - https://en.wikipedia.org/wiki/Erno_Soto
 
@@ -49,3 +49,6 @@ Many easily accessible sources are short summaries. For careful historical work,
 - Court reporting and contemporaneous news coverage.
 - Official statements from law enforcement and judicial bodies.
 - Secondary analyses that avoid sensationalism and respect victim dignity.
+
+
+## References

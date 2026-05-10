@@ -5,7 +5,7 @@ birth: "1986-07-02"
 death: "Unknown"
 nationality: "Irish"
 occupation: ["Athlete", "Olympic Champion", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Katie_Taylor_2012_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katie_Taylor"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Katie Taylor won Olympic boxing gold at 2012 London and became undisputed lightw
 | 2019 | Won undisputed lightweight title |
 | 2022 | Won undisputed light welterweight title |
 
-## References
+
 
 [^1]: Wikipedia, "Katie Taylor" - https://en.wikipedia.org/wiki/Katie_Taylor
 
@@ -63,3 +63,6 @@ Katie Taylor won Olympic boxing gold at 2012 London and became undisputed lightw
 
 - In Ireland, Taylor is widely treated as a modern sporting icon, frequently referenced alongside the country’s most recognized Olympic and professional champions.
 - Her success is often credited with expanding participation and ambition for women in combat sports and beyond.
+
+
+## References

@@ -12,23 +12,23 @@ lastUpdated: "2026-02-21"
 ---
 
 ## 摘要
-西尔汉·比沙拉·西尔汉（Sirhan Bishara Sirhan）是一名巴勒斯坦裔约旦人，因于1968年6月5日在洛杉矶刺杀参议员罗伯特·F·肯尼迪（Robert F. Kennedy）而被定罪。在肯尼迪赢得加利福尼亚州初选后，他在大使酒店开枪击中了他。他被判处死刑，后减为无期徒刑。他曾多次被拒绝假释。
+西尔汉·比沙拉·西尔汉（Sirhan Bishara Sirhan）是一位巴勒斯坦裔约旦人，于1968年6月5日在洛杉矶被判谋杀参议员罗伯特·F·肯尼迪（Robert F. Kennedy）。在肯尼迪赢得加州初选后，他在大使酒店枪击了肯尼迪。他被判处死刑，后减为无期徒刑。他多次被拒绝假释。
 
 ## 早年生活
-西尔汉·西尔汉于1944年3月19日出生于巴勒斯坦/约旦/美国。早年生活的细节塑造了他的人生道路，最终导致了他的犯罪生涯。[^1]
+西尔汉·西尔汉于1944年3月19日出生在巴勒斯坦/约旦/美国。早年生活的细节塑造了他走向犯罪生涯的道路。[^1]
 
 ## 犯罪生涯
 作为一名刺客，西尔汉·西尔汉因其引起执法部门和公众广泛关注的犯罪活动而闻名。[^2]
 
-## 抓捕/落幕
-西尔汉·西尔汉的犯罪生涯因执法部门的行动或其他情况而告终。[^3]
+## 逮捕/垮台
+西尔汉·西尔汉的犯罪生涯通过执法行动或其他情况而告终。[^3]
 
 ## 积极视角
-- 该案件促进了刑事司法和执法技术的进步 [^4]
-- 提高了公众对这类犯罪的认识
+- 该案件促进了刑事司法和执法技术的进步[^4]
+- 提高了公众对这类犯罪的意识
 
 ## 消极视角
-- 对受害者和社区造成了重大伤害 [^5]
+- 对受害者和社区造成了重大伤害[^5]
 - 他们的犯罪活动对社会产生了持久的负面影响
 
 ## 职业生涯时间线
@@ -38,8 +38,8 @@ lastUpdated: "2026-02-21"
 | ? | 职业生涯结束 |
 
 ## 参考资料
-[^1]: Encyclopedia of Criminal History.
-[^2]: International Criminal Records.
-[^3]: Court and law enforcement records.
-[^4]: Criminal Justice Reform Studies.
-[^5]: Victim impact documentation.
+[^1]: 犯罪史百科全书 (Encyclopedia of Criminal History)。
+[^2]: 国际犯罪记录 (International Criminal Records)。
+[^3]: 法庭和执法记录 (Court and law enforcement records)。
+[^4]: 刑事司法改革研究 (Criminal Justice Reform Studies)。
+[^5]: 受害者影响记录 (Victim impact documentation)。

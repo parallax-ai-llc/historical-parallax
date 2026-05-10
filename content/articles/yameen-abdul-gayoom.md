@@ -23,7 +23,7 @@ Maldivian former president convicted of money laundering and corruption for embe
 | 2018 | Lost election; refused to concede initially |
 | 2022 | Convicted of corruption; sentenced to 11 years |
 
-## References
+
 
 [^1]: Wikipedia, "Yameen Abdul Gayoom" - https://en.wikipedia.org/wiki/Yameen_Abdul_Gayoom
 
@@ -53,3 +53,6 @@ Public debate around Yameen’s legacy tends to split between:
 ## Note on Status Over Time
 
 Because political cases can evolve through appeals, pardons, or subsequent legal actions, summaries of convictions and sentences are often time-sensitive and should be read with the article’s last-updated date in mind.
+
+
+## References

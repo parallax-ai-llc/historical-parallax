@@ -39,7 +39,7 @@ Chinese pirate who commanded 600 ships and 50,000 men in the South China Sea. Su
 - A cave on Cheung Chau, Hong Kong—often called “Cheung Po Tsai Cave”—is associated with legends of pirate treasure, and the story is used as a local folklore motif.
 - The figure is a frequent subject of Hong Kong popular culture (television, film, and tourism), blending historical piracy with legend.
 
-## References
+
 
 [^1]: Wikipedia, "Cheung Po Tsai" - https://en.wikipedia.org/wiki/Cheung_Po_Tsai
 
@@ -52,3 +52,6 @@ Chinese pirate who commanded 600 ships and 50,000 men in the South China Sea. Su
 ## Sources and reliability notes
 
 - Many details about Cheung Po Tsai circulate through later popular histories and tourism narratives; basic chronology and the 1810 amnesty are commonly repeated, while specific ship counts and treasure stories are often treated as legendary.
+
+
+## References

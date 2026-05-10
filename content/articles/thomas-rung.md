@@ -21,7 +21,7 @@ German serial killer who murdered prostitutes in Frankfurt.
 |------|-------|
 | 2004 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Rung" - https://en.wikipedia.org/wiki/Thomas_Rung
 
@@ -51,3 +51,6 @@ Some biographical details in short summaries can vary by source (for example, Wi
 
 - Peter Niggl, *I am a monster. The confessions of Thomas Rung* (Das Neue Berlin, 1999).[^1]
 - Stephen Harbort, *The Hannibal Syndrome. Serial murder phenomenon* (Militzke, 2001).[^1]
+
+
+## References

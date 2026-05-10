@@ -22,7 +22,7 @@ Top executives at FTX and Alameda Research including Caroline Ellison and Gary W
 | 2022 | FTX inner circle cooperated with prosecutors |
 | 2024 | Caroline Ellison sentenced to two years |
 
-## References
+
 
 [^1]: Wikipedia, "SBF Inner Circle" - https://en.wikipedia.org/wiki/SBF_Inner_Circle
 
@@ -48,3 +48,6 @@ Top executives at FTX and Alameda Research including Caroline Ellison and Gary W
 
 - The inner-circle cooperation became central to explaining the collapse of a major crypto exchange and the alleged fraud mechanisms.
 - The case contributed to increased regulatory and compliance pressure on crypto exchanges, custody practices, and audit/control expectations.
+
+
+## References

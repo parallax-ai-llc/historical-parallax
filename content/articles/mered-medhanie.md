@@ -42,7 +42,7 @@ Medhanie’s name became prominent in reporting on migrant-smuggling networks co
 - The case is often referenced in debates about accountability for trafficking/smuggling and the quality of evidence required in international prosecutions.
 
 
-## References
+
 [^1]: Wikipedia, "Mered Medhanie" - https://en.wikipedia.org/wiki/Mered_Medhanie
 
 ## Notes
@@ -50,3 +50,6 @@ Medhanie’s name became prominent in reporting on migrant-smuggling networks co
 - This page is intentionally high-level and focuses on widely reported context.
 - Exact figures and attributions can vary by source and methodology.
 - For primary detail, consult the references and contemporaneous reporting.
+
+
+## References

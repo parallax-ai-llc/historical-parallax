@@ -23,7 +23,7 @@ Former speaker of the Kosovo Assembly charged with war crimes by the Kosovo Spec
 | 2014 | Became speaker of Kosovo Assembly |
 | 2020 | Surrendered to Specialist Chambers |
 
-## References
+
 
 [^1]: Wikipedia, "Kadri Veseli" - https://en.wikipedia.org/wiki/Kadri_Veseli
 
@@ -50,3 +50,6 @@ His case is often discussed in relation to the wartime legitimacy narratives of 
 ## Notes
 
 This article summarizes publicly reported roles and legal proceedings; specific allegations and findings should be verified against official indictments, filings, and judgments.
+
+
+## References

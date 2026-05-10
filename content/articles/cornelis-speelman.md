@@ -21,7 +21,7 @@ Dutch colonial governor who conducted brutal military campaigns against Makassar
 |------|-------|
 | 1669 | Conquered Makassar through brutal force |
 
-## References
+
 
 [^1]: Wikipedia, "Cornelis Speelman" - https://en.wikipedia.org/wiki/Cornelis_Speelman
 
@@ -80,3 +80,6 @@ Modern assessments commonly treat Speelman as a representative figure of coerciv
 
 [^2]: VOC (Dutch East India Company) overview - https://en.wikipedia.org/wiki/Dutch_East_India_Company
 [^3]: Makassar / Gowa historical overview - https://en.wikipedia.org/wiki/Gowa_Sultanate
+
+
+## References

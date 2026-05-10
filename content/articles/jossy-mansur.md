@@ -42,7 +42,7 @@ Multiple sources cited by Wikipedia discuss allegations—at the family level—
 - This article summarizes widely-circulated, high-level claims and attributions from secondary sources; details can vary by publication.
 - When describing allegations, attribution and careful wording are essential.
 
-## References
+
 
 [^1]: Wikipedia, "Jossy Mansur" - https://en.wikipedia.org/wiki/Jossy_Mansur
 [^2]: Wikipedia (see also "Jossy Mansur" page context on Natalee Holloway coverage) - https://en.wikipedia.org/wiki/Jossy_Mansur
@@ -51,3 +51,6 @@ Multiple sources cited by Wikipedia discuss allegations—at the family level—
 
 - *Diario* (Aruba): background on the Papiamento-language newspaper associated with Mansur’s editorial work.
 - Papiamento language dictionaries: context for Mansur’s reported authorship and lexicographic contributions.
+
+
+## References

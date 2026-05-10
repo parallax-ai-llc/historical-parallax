@@ -21,7 +21,7 @@ Founder of the Shower Posse, one of Jamaica's most violent drug gangs, who died 
 |------|-------|
 | 1992 | Died in prison fire while awaiting extradition |
 
-## References
+
 
 [^1]: Wikipedia, "Lester Lloyd Coke" - https://en.wikipedia.org/wiki/Lester_Lloyd_Coke
 
@@ -51,3 +51,6 @@ Founder of the Shower Posse, one of Jamaica's most violent drug gangs, who died 
 ## Notes
 
 - This article is a short factual stub intended to capture widely reported, high-level points; see the reference link for detailed sourcing and chronology.
+
+
+## References

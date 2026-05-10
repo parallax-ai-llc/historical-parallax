@@ -24,7 +24,7 @@ Bill Russell won 11 championships with Boston and became the first Black head co
 | 1969 | Won 11th championship |
 | 2022 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Bill Russell" - https://en.wikipedia.org/wiki/Bill_Russell
 
@@ -49,3 +49,6 @@ Bill Russell won 11 championships with Boston and became the first Black head co
 - Often cited as one of the sport's greatest winners because of his championship total.
 - His player-coach role is frequently referenced in discussions of leadership and representation in major U.S. leagues.
 - The NBA later named the Finals MVP trophy in his honor.
+
+
+## References

@@ -23,7 +23,7 @@ Note: Sahle-Work is Ethiopia's president and diplomat, not a criminal. Entry rem
 | 1990s–2000s | Held senior positions in multilateral and bilateral diplomacy (various postings). |
 | 2018 | Elected President of Ethiopia (a largely ceremonial head-of-state role under Ethiopia’s parliamentary system). |
 
-## References
+
 
 [^1]: Wikipedia, "Sahle-Work Zewde" - https://en.wikipedia.org/wiki/Sahle-Work_Zewde
 
@@ -57,3 +57,6 @@ To preserve the historical text while keeping the entry factual:
 ## Additional References
 
 [^2]: Office of the President / official biographies and reputable news profiles (see Wikipedia reference list for links). 
+
+
+## References

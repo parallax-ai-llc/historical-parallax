@@ -21,7 +21,7 @@ Indian tech CEO convicted of India's largest corporate fraud at Satyam Computer 
 |------|-------|
 | 2015 | Convicted of $1.5 billion fraud |
 
-## References
+
 
 [^1]: Wikipedia, "B. Ramalinga Raju" - https://en.wikipedia.org/wiki/B._Ramalinga_Raju
 
@@ -65,3 +65,6 @@ Indian tech CEO convicted of India's largest corporate fraud at Satyam Computer 
 ## Further reading
 
 - Wikipedia’s overview includes a summary of the confession, the corporate fallout, and the conviction record.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1932-01-01"
 death: "2000-07-20"
 nationality: "Bolivia"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/f8/Roberto_Su%C3%A1rez_Gomez.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Su%C3%A1rez_G%C3%B3mez"
 lastUpdated: "2026-02-26"

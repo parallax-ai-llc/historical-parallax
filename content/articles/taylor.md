@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Taylor" - https://en.wikipedia.org/wiki/Taylor
 
@@ -65,3 +65,6 @@ Taylor’s case is often cited in discussions of:
 
 [^2]: Special Court for Sierra Leone (SCSL), case materials and public information on the prosecution and judgment of Charles Taylor.
 [^3]: Encyclopaedia Britannica, "Charles Taylor" (biographical overview and presidency period).
+
+
+## References

@@ -22,7 +22,7 @@ WikiLeaks founder Julian Assange spent 7 years in Ecuador's London embassy and 5
 | 2019 | Arrested in London |
 | 2024 | Pled guilty; freed |
 
-## References
+
 
 [^1]: Wikipedia, "Assange Prosecution" - https://en.wikipedia.org/wiki/Assange_Prosecution
 
@@ -53,3 +53,6 @@ The prosecution is widely cited in discussions about:
 - WikiLeaks
 - Extradition law (UK/US context)
 - The Espionage Act of 1917 (United States)
+
+
+## References

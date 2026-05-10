@@ -5,7 +5,7 @@ birth: "1944-12-28"
 death: "2019-08-07"
 nationality: "American"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kary_Mullis.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kary_Mullis"
 lastUpdated: "2026-02-21"

@@ -22,7 +22,7 @@ South Korean President Yoon declared martial law for six hours, deploying troops
 | 2024 | Declared martial law; impeached |
 | 2025 | Arrested for insurrection |
 
-## References
+
 
 [^1]: Wikipedia, "Yoon Suk-yeol Impeachment" - https://en.wikipedia.org/wiki/Yoon_Suk-yeol_Impeachment
 
@@ -55,3 +55,6 @@ In practice, major impacts often include:
 ## Notes
 
 This article summarizes the headline claims and general institutional framework; specific factual allegations, charges, and judicial findings should be verified against primary court documents and contemporaneous reporting.
+
+
+## References

@@ -13,9 +13,9 @@ lastUpdated: "2026-02-21"
 
 ## 概述
 
-巴巴罗萨行动（1941年）是历史上规模最大的军事行动。380万部队在2,900公里的战线上发动进攻。尽管初期造成了巨大破坏，但进攻在莫斯科前线陷入停滞。
+巴巴罗萨行动（1941年）是历史上规模最大的军事行动。380万军队在2900公里的战线上发动进攻。尽管初期造成了巨大破坏，但攻势在莫斯科附近受阻。
 
-## 职业生涯时间线
+## 职业时间线
 
 | 年份 | 事件 |
 |------|-------|
@@ -28,4 +28,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: Wikipedia, "Operation Barbarossa" - https://en.wikipedia.org/wiki/Operation_Barbarossa
+[^1]: 维基百科，“巴巴罗萨行动” - https://en.wikipedia.org/wiki/Operation_Barbarossa

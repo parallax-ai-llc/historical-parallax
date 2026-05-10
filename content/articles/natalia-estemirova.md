@@ -21,7 +21,7 @@ Russian human rights activist kidnapped and murdered in Chechnya for documenting
 |------|-------|
 | 2009 | Kidnapped and murdered in Chechnya |
 
-## References
+
 
 [^1]: Wikipedia, "Natalia Estemirova" - https://en.wikipedia.org/wiki/Natalia_Estemirova
 
@@ -53,3 +53,6 @@ Russian human rights activist kidnapped and murdered in Chechnya for documenting
 
 [^2]: Memorial (human rights organization) — https://en.wikipedia.org/wiki/Memorial_(society)
 [^3]: Novaya Gazeta (independent newspaper) — https://en.wikipedia.org/wiki/Novaya_Gazeta
+
+
+## References

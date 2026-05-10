@@ -1,6 +1,6 @@
 ---
 id: "leonardo-del-vecchio"
-name: "莱昂纳多·德尔·维奇奥"
+name: "莱昂纳多·德尔·维基奥"
 birth: "1935-05-22"
 death: "2022-06-27"
 nationality: "Italian"
@@ -11,22 +11,22 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 简介
+## 摘要
 
-莱昂纳多·德尔·维奇奥创立了陆逊迪卡（Luxottica），并将其打造成了世界上最大的眼镜公司。他在米兰的一家孤儿院长大，建立了一个全球帝国，旗下拥有雷朋（Ray-Ban）和奥克利（Oakley）等品牌，并为香奈儿（Chanel）、普拉达（Prada）和乔治·阿玛尼（Giorgio Armani）等品牌代工生产。2018年，陆逊迪卡与依视路（Essilor）合并，组建了依视路陆逊迪卡（EssilorLuxottica），公司估值超过800亿美元。在他去世时，他是意大利最富有的人。
+莱昂纳多·德尔·维基奥创立了 Luxottica，后者成为全球最大的眼镜公司。他在米兰的一家孤儿院长大，建立了一个全球帝国，控制着 Ray-Ban 和 Oakley 等品牌，并为 Chanel、Prada 和 Giorgio Armani 代工生产。2018年，Luxottica 与 Essilor 合并，成立了 EssilorLuxottica，估值超过800亿美元。他去世时是意大利最富有的人。
 
 ## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
 | 1935 | 出生于意大利米兰 |
-| 1961 | 在意大利阿多尔德（Agordo）创立陆逊迪卡 |
-| 1990 | 陆逊迪卡上市 |
-| 1999 | 以6.4亿美元收购雷朋（Ray-Ban） |
-| 2007 | 以21亿美元收购奥克利（Oakley） |
-| 2018 | 与依视路（Essilor）合并，组建依视路陆逊迪卡（EssilorLuxottica） |
+| 1961 | 在意大利阿尔多创立 Luxottica |
+| 1990 | Luxottica 上市 |
+| 1999 | 以6.4亿美元收购 Ray-Ban |
+| 2007 | 以21亿美元收购 Oakley |
+| 2018 | 与 Essilor 合并成立 EssilorLuxottica |
 | 2022 | 在米兰去世 |
 
 ## 参考资料
 
-[^1]: 维基百科，“莱昂纳多·德尔·维奇奥” - https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+[^1]: 维基百科，“莱昂纳多·德尔·维基奥” - https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio

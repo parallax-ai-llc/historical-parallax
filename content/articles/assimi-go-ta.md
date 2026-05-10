@@ -22,7 +22,7 @@ Malian military officer who led two coups in 2020 and 2021, declaring himself tr
 | 2020 | Led military coup overthrowing President Keïta |
 | 2021 | Led second coup and became transitional president |
 
-## References
+
 
 [^1]: Wikipedia, "Assimi Goïta" - https://en.wikipedia.org/wiki/Assimi_Go%C3%AFta
 
@@ -60,3 +60,6 @@ Assimi Goïta is a career officer in the Malian Armed Forces who rose to nationa
 [^2]: Wikipedia, "2020 Malian coup d'état" - https://en.wikipedia.org/wiki/2020_Malian_coup_d%27%C3%A9tat
 [^3]: Wikipedia, "2021 Malian coup d'état" - https://en.wikipedia.org/wiki/2021_Malian_coup_d%27%C3%A9tat
 [^4]: Wikipedia, "MINUSMA" - https://en.wikipedia.org/wiki/United_Nations_Multidimensional_Integrated_Stabilization_Mission_in_Mali
+
+
+## References

@@ -22,7 +22,7 @@ Chadian rebel leader and former defense minister who led the Union des Forces po
 | 2006 | Led UFDD rebel forces against Chadian government |
 | 2019 | Arrested in France for complicity in crimes against humanity |
 
-## References
+
 
 [^1]: Wikipedia, "Mahamat Nouri" - https://en.wikipedia.org/wiki/Mahamat_Nouri
 
@@ -48,3 +48,6 @@ In France, Nouri was arrested and investigated in relation to allegations connec
 - Rebel movements in the Sahel and Central Africa
 - Universal jurisdiction cases in European courts
 - Civil-military relations and transitions in Chad
+
+
+## References

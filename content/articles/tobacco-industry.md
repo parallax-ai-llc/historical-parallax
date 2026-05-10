@@ -22,7 +22,7 @@ Tobacco companies conspired for decades to conceal that smoking caused cancer, m
 | 1950 | Industry knew of cancer link |
 | 1998 | $206 billion Master Settlement Agreement |
 
-## References
+
 
 [^1]: Wikipedia, "Tobacco Industry" - https://en.wikipedia.org/wiki/Tobacco_Industry
 
@@ -49,3 +49,5 @@ Public policy discussions sometimes distinguish between combusted tobacco (such 
 
 ## References
 - Publicly available reference works and reputable reporting
+
+

@@ -53,7 +53,7 @@ Because this file is marked as a duplicate, the sections below aim to preserve t
 - The `name` field includes “dup” and the page summary states “Duplicate.”
 - In many content pipelines, pages explicitly labeled as duplicates are handled as redirects or aliases once a canonical article exists.
 
-## References
+
 
 [^1]: Wikipedia, "Robin Li Yanhong dup" - https://en.wikipedia.org/wiki/Robin_Li_Yanhong_dup
 [^2]: Wikipedia, "Robin Li" - https://en.wikipedia.org/wiki/Robin_Li
@@ -75,3 +75,6 @@ When consolidating this entry into a non-duplicate biography, typical fields to 
 ## Repository hygiene
 
 - If/when a canonical article exists in this repo, consider converting this file into a redirect-style page (while keeping the id stable for legacy references).
+
+
+## References

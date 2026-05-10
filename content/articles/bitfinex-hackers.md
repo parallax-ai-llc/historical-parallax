@@ -23,7 +23,7 @@ Ilya Lichtenstein and Heather Morgan stole 120,000 Bitcoin from the Bitfinex exc
 | 2022 | Arrested with $3.6 billion in seized Bitcoin |
 | 2023 | Pleaded guilty to money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Bitfinex Hackers" - https://en.wikipedia.org/wiki/Bitfinex_Hackers
 
@@ -50,3 +50,6 @@ Ilya Lichtenstein and Heather Morgan stole 120,000 Bitcoin from the Bitfinex exc
 ## References (Additional)
 
 [^2]: U.S. Department of Justice, announcements regarding the 2016 Bitfinex hack and 2022 seizure - https://www.justice.gov/
+
+
+## References

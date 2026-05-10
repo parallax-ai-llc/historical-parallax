@@ -21,7 +21,7 @@ Pakistani politician who survived two suicide bomb attacks by militants.
 |------|-------|
 | 2007 | Survived second assassination attempt |
 
-## References
+
 
 [^1]: Wikipedia, "Aftab Sherpao" - https://en.wikipedia.org/wiki/Aftab_Sherpao
 
@@ -63,3 +63,6 @@ Pakistani politician who survived two suicide bomb attacks by militants.
 - Politics of Khyber Pakhtunkhwa
 - Interior Ministry of Pakistan
 - Political violence in Pakistan (2000s)
+
+
+## References

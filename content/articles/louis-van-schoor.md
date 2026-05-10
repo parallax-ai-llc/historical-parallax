@@ -24,7 +24,7 @@ South African private security guard who shot and killed at least 39 people, mos
 | 1992 | Convicted of 7 murders, sentenced to 90 years |
 | 2004 | Released on parole |
 
-## References
+
 
 [^1]: Wikipedia, "Louis van Schoor" - https://en.wikipedia.org/wiki/Louis_van_Schoor
 
@@ -51,3 +51,6 @@ The case has been referenced in discussions about private security, vigilantism,
 ## Notes on sources
 
 Public summaries of the case vary on details such as the total number of suspected victims and the exact terms of parole; court records and contemporaneous reporting are typically treated as the most reliable references.
+
+
+## References

@@ -44,10 +44,13 @@ Responses have included temporary protection or regularization programs, humanit
 
 Headline numbers (for example, totals of people who have left) are updated frequently and can vary depending on definitions, data sources, and whether they count migrants, refugees, asylum seekers, or people in irregular status.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Venezuelan Refugee Crisis" - https://en.wikipedia.org/wiki/Venezuelan_Refugee_Crisis
 
 ## See also
 
 - Humanitarian crises in Latin America
+
+
+## References

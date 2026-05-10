@@ -21,7 +21,7 @@ Swedish drug lord running major amphetamine production and distribution.
 |------|-------|
 | 2018 | Convicted of drug manufacturing |
 
-## References
+
 
 [^1]: Wikipedia, "Tommy Lindström" - https://en.wikipedia.org/wiki/Tommy_Lindstr%C3%B6m
 
@@ -64,3 +64,6 @@ This document can be made more reliable by adding citations from:
 
 - Amphetamine trafficking in Northern Europe
 - Swedish organized crime (general background)
+
+
+## References

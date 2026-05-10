@@ -21,7 +21,7 @@ Turkish suspect allegedly involved in the attempted assassination of Pope John P
 |------|-------|
 | 1981 | Suspected role in papal assassination attempt |
 
-## References
+
 
 [^1]: Wikipedia, "Oral Çelik" - https://en.wikipedia.org/wiki/Oral_%C3%87elik
 
@@ -52,3 +52,6 @@ Turkish suspect allegedly involved in the attempted assassination of Pope John P
   - Unsourced timelines
   - Secondary retellings that do not cite primary documentation
   - Speculative attribution framed as certainty
+
+
+## References

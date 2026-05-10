@@ -23,7 +23,7 @@ Thai serial killer who murdered at least 5 children in Bangkok during the 1990s.
 | 1997 | Arrested |
 | 1999 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Nai-in Wongsiri" - https://en.wikipedia.org/wiki/Nai-in_Wongsiri
 
@@ -52,3 +52,6 @@ According to widely cited summaries, Wongsiri was convicted and received a death
 ## Impact and Legacy
 
 The murders contributed to heightened fear around child safety in urban public settings and are frequently recalled in Thai crime reporting as an example of how serial offenses can exploit everyday environments. The case also appears in broader regional lists of notable serial offenders.
+
+
+## References

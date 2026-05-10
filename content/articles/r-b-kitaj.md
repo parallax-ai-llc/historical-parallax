@@ -24,7 +24,7 @@ American-British painter whose complex, literary figurative works explored Jewis
 | 1976 | Creates major figurative paintings |
 | 2007 | Dies in Los Angeles |
 
-## References
+
 
 [^1]: Wikipedia, "R.B. Kitaj" - https://en.wikipedia.org/wiki/R.B._Kitaj
 
@@ -53,3 +53,6 @@ Unlike many painters, Kitaj produced substantial written commentary around his a
 ## Later Life and Reputation
 
 Kitaj's reputation has been shaped by both admiration and controversy, including strong critical reactions to some exhibitions. Over time, scholarship has continued to re-evaluate his contribution to postwar figurative painting and the way his art connected personal identity to intellectual history.
+
+
+## References

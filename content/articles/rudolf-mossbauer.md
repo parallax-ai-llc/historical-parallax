@@ -24,7 +24,7 @@ Rudolf Mossbauer won the 1961 Nobel Prize for discovering recoil-free nuclear re
 | 1961 | Nobel Prize |
 | 2011 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Rudolf Mossbauer" - https://en.wikipedia.org/wiki/Rudolf_Mossbauer
 
@@ -51,3 +51,6 @@ Mössbauer’s discovery is frequently presented as an example of how a subtle q
 ## See also
 
 - Mössbauer spectroscopy
+
+
+## References

@@ -24,7 +24,7 @@ French art thief who stole 239 artworks and artifacts worth over $1.4 billion fr
 | 2003 | Mother destroyed many stolen works |
 | 2005 | Sentenced to 4 years |
 
-## References
+
 
 [^1]: Wikipedia, "Stéphane Breitwieser" - https://en.wikipedia.org/wiki/St%C3%A9phane_Breitwieser
 
@@ -49,3 +49,6 @@ The Breitwieser case is often cited in discussions of museum risk management, pa
 - Prolific European museum thief active in the late 1990s and early 2000s.
 - Stole hundreds of objects, often from institutions with low security.
 - Recovery efforts were complicated by the destruction of many stolen works.
+
+
+## References

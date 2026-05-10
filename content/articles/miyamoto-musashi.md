@@ -24,7 +24,7 @@ Miyamoto Musashi was the greatest swordsman in Japanese history, winning over 60
 | 1612 | Defeated Sasaki Kojiro in legendary duel on Ganryu Island |
 | 1645 | Wrote The Book of Five Rings; died |
 
-## References
+
 
 [^1]: Wikipedia, "Miyamoto Musashi" - https://en.wikipedia.org/wiki/Miyamoto_Musashi
 
@@ -49,3 +49,6 @@ Miyamoto Musashi was the greatest swordsman in Japanese history, winning over 60
 - Edo-period martial culture
 - Kenjutsu and school lineages
 - Strategy literature in Japan
+
+
+## References

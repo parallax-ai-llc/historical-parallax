@@ -22,7 +22,7 @@ CAR rebel leader also known as 'Sidiki Abbas' who commanded the 3R armed group r
 | 2015 | Founded 3R armed group in northwestern CAR |
 | 2019 | 3R forces committed massacre killing 46 people in Ouham-Pendé |
 
-## References
+
 
 [^1]: Wikipedia, "Bi Sidi Souleymane" - https://en.wikipedia.org/wiki/Bi_Sidi_Souleymane
 
@@ -59,3 +59,6 @@ Accounts of leaders’ status can change over time (arrest, flight, negotiations
 This article summarizes widely reported, high-level claims and context.
 
 For details on specific incidents, casualty counts, and legal proceedings, consult contemporaneous reporting and official statements in addition to encyclopedic summaries.
+
+
+## References

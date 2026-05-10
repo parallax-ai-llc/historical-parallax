@@ -5,7 +5,7 @@ birth: "1932-12-05"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Sheldon_Glashow.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sheldon_Glashow"
 lastUpdated: "2026-02-21"

@@ -24,7 +24,7 @@ Alexander Beilinson is a Russian-American mathematician who has made fundamental
 | 1998 | Joined University of Chicago |
 | 2018 | Received Wolf Prize in Mathematics |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Beilinson" - https://en.wikipedia.org/wiki/Alexander_Beilinson
 
@@ -55,3 +55,6 @@ In geometric representation theory, Beilinson is associated with techniques that
 ## Impact and Legacy
 
 Beilinson’s name is attached to multiple constructions and ideas (for example, conjectures and categorical frameworks) that are used as reference points in contemporary research. His work is frequently cited in contexts where modern algebraic geometry interfaces with number theory and mathematical physics.
+
+
+## References

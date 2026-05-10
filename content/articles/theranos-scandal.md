@@ -23,7 +23,7 @@ Silicon Valley fraud where Elizabeth Holmes claimed to have revolutionized blood
 | 2018 | Holmes charged |
 | 2022 | Holmes convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Theranos Scandal" - https://en.wikipedia.org/wiki/Theranos_Scandal
 
@@ -50,3 +50,6 @@ The Theranos case became a widely cited example of:
 - the risks of “fake it till you make it” culture when applied to health technology,
 - governance failures in high-growth startups,
 - the value of independent validation, quality systems, and transparent clinical evidence.
+
+
+## References

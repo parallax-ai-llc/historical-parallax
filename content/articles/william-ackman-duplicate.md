@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1966 | See Bill Ackman |
 
-## References
+
 
 [^1]: Wikipedia, "William Ackman duplicate" - https://en.wikipedia.org/wiki/William_Ackman_duplicate
 
@@ -48,3 +48,6 @@ The following are widely discussed in public coverage of Ackman’s career; this
 - Bill Ackman (primary entry)
 - Pershing Square Capital Management
 - Activist investing
+
+
+## References

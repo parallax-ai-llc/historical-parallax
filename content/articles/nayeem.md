@@ -24,7 +24,7 @@ Indian criminal and former Maoist rebel known as Mohammed Nayeemuddin who became
 | 2010 | Built criminal empire in Telangana |
 | 2016 | Killed in police encounter |
 
-## References
+
 
 [^1]: Wikipedia, "Nayeem" - https://en.wikipedia.org/wiki/Nayeem
 
@@ -50,3 +50,6 @@ This entry stays at a high level and avoids operational detail; it is intended a
 
 - “Encounter” killings and due process debates
 - Organized crime in regional Indian politics
+
+
+## References

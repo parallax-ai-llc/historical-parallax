@@ -22,7 +22,7 @@ Dacoit leader who operated in the ravines of Madhya Pradesh and Uttar Pradesh te
 | 1975 | Led dacoit operations in MP-UP border ravines |
 | 2005 | Killed in encounter |
 
-## References
+
 
 [^1]: Wikipedia, "Ghanshyam Singh" - https://en.wikipedia.org/wiki/Ghanshyam_Singh
 
@@ -49,3 +49,6 @@ The phenomenon of dacoity is often discussed in relation to regional inequality,
 ## Notes
 
 This article summarizes high-level context; details may vary across reporting and official records.
+
+
+## References

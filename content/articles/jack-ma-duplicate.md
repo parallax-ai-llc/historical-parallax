@@ -21,7 +21,7 @@ Duplicate — see Jack Ma.
 |------|-------|
 | 1964 | See Jack Ma entry |
 
-## References
+
 
 [^1]: Wikipedia, "Jack Ma duplicate" - https://en.wikipedia.org/wiki/Jack_Ma_duplicate
 
@@ -72,3 +72,6 @@ If you are cleaning the dataset:
 
 This page intentionally avoids adding speculative or low-confidence details.
 For authoritative biographical information, consult reputable secondary sources and the canonical article.
+
+
+## References

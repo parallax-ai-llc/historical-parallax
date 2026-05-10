@@ -23,7 +23,7 @@ Daniel Ricciardo won eight Grand Prix races and became known for his trademark s
 | 2018 | Won two more Grand Prix |
 | 2024 | Concluded F1 career |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Ricciardo" - https://en.wikipedia.org/wiki/Daniel_Ricciardo
 
@@ -52,3 +52,6 @@ Ricciardo was a significant commercial and cultural presence for Formula One, fr
 ## Legacy
 
 In retrospect, Ricciardo is commonly discussed as one of the standout personalities of his generation and as a driver whose peak performances were defined by opportunistic race wins, strong overtaking, and charisma that translated beyond racing.
+
+
+## References

@@ -22,7 +22,7 @@ Prominent Congolese human rights activist found dead after being summoned to pol
 | 2010 | Murdered after being summoned by police inspector general |
 | 2011 | Senior police officers convicted of his murder |
 
-## References
+
 
 [^1]: Wikipedia, "Floribert Chebeya" - https://en.wikipedia.org/wiki/Floribert_Chebeya
 
@@ -49,3 +49,6 @@ Prominent Congolese human rights activist found dead after being summoned to pol
 ## Notes
 
 This article summarizes widely reported public information and avoids speculation beyond what has been documented in major sources.
+
+
+## References

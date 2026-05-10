@@ -23,7 +23,7 @@ Jansher Khan won eight World Open squash titles and six British Open titles. His
 | 1996 | Won eighth World Open title |
 | 2001 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "Jansher Khan" - https://en.wikipedia.org/wiki/Jansher_Khan
 ## Overview
@@ -48,3 +48,6 @@ His peak years overlapped with a strong generation of Pakistani squash, followin
 
 ## Recognition
 Jansher Khan’s record across major tournaments and long tenure near the top of world rankings made him a reference point in debates about the greatest squash players. He has been honored in Pakistan and internationally for his contributions to squash.
+
+
+## References

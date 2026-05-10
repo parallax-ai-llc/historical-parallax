@@ -43,7 +43,7 @@ After stepping back from full-time WRC participation, Loeb continued to compete 
 
 Loeb’s record is often discussed in debates about the greatest rally drivers, in part because it combines multiple titles with a consecutive-run statistic that is rare in top-level motorsport. His era also helped expand international attention for the championship during the 2000s.
 
-## References
+
 
 [^1]: Wikipedia, "Sébastien Loeb" - https://en.wikipedia.org/wiki/S%C3%A9bastien_Loeb
 
@@ -51,3 +51,6 @@ Loeb’s record is often discussed in debates about the greatest rally drivers, 
 
 - **WRC (World Rally Championship):** the top international championship for rallying.
 - **Works team:** manufacturer-backed team operating with factory support.
+
+
+## References

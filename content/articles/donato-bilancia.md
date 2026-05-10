@@ -23,7 +23,7 @@ Italian serial killer who murdered 17 people in Liguria between 1997 and 1998. H
 | 1998 | Arrested in May after DNA evidence |
 | 2000 | Convicted of 17 murders; sentenced to 13 life terms |
 
-## References
+
 
 [^1]: Wikipedia, "Donato Bilancia" - https://en.wikipedia.org/wiki/Donato_Bilancia
 
@@ -50,3 +50,6 @@ The case received extensive media coverage in Italy, in part because of the numb
 ## Notes
 
 The Bilancia case is often discussed in relation to how quickly investigative coordination can narrow a suspect pool during a multi-incident spree.
+
+
+## References

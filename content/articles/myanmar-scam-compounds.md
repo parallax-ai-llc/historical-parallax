@@ -23,7 +23,7 @@ Criminal compounds in Myanmar, Cambodia, and Laos where tens of thousands of tra
 | 2022 | UN documented widespread trafficking |
 | 2023 | Crackdowns in multiple countries |
 
-## References
+
 
 [^1]: Wikipedia, "Myanmar Scam Compounds" - https://en.wikipedia.org/wiki/Myanmar_Scam_Compounds
 
@@ -59,3 +59,6 @@ UN agencies and non-governmental organizations have documented the scale of traf
 ## Why It Matters
 
 The scam-compound model combines cyber-enabled fraud with forced labor at scale. It has become a major driver of both victimization (people scammed online) and exploitation (people forced to perpetrate the scams), making it a multidimensional security and human-rights problem.
+
+
+## References

@@ -22,7 +22,7 @@ Mass killings carried out by Yahya Jammeh's Junglers death squad at his hometown
 | 2005 | Junglers carried out extrajudicial killings on Jammeh's orders |
 | 2017 | Truth Commission began documenting Jammeh-era atrocities |
 
-## References
+
 
 [^1]: Wikipedia, "Jammeh Kanilai Killings" - https://en.wikipedia.org/wiki/Jammeh_Kanilai_Killings
 
@@ -49,3 +49,6 @@ This entry summarizes allegations and documentation efforts at a high level and 
 ## Broader Significance
 
 - The Kanilai-related allegations are often cited as illustrative of how personalized security forces can be used to enforce authoritarian rule.
+
+
+## References

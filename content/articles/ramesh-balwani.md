@@ -21,7 +21,7 @@ Theranos COO convicted of fraud for his role in the blood-testing technology sca
 |------|-------|
 | 2022 | Convicted of Theranos fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Ramesh Balwani" - https://en.wikipedia.org/wiki/Ramesh_Balwani
 
@@ -62,3 +62,6 @@ Theranos COO convicted of fraud for his role in the blood-testing technology sca
 - Theranos scandal
 - Wire fraud (United States)
 - Securities fraud
+
+
+## References

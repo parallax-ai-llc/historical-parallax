@@ -23,7 +23,7 @@ Indian businessman who confessed to Indias largest corporate fraud at Satyam Com
 | 2009 | Confessed |
 | 2015 | Convicted, 7 years |
 
-## References
+
 
 [^1]: Wikipedia, "Satyam Ramalinga Raju" - https://en.wikipedia.org/wiki/Satyam_Ramalinga_Raju
 
@@ -50,3 +50,6 @@ Following the confession and ensuing crisis, Satyam underwent restructuring and 
 ## Legacy
 
 In business education and compliance discussions, the case is used as a cautionary example of how weak internal controls and concentrated founder influence can enable large-scale misstatement over time.
+
+
+## References

@@ -24,7 +24,7 @@ Somali militant leader also known as Ahmed Abdi Godane who led al-Shabaab and or
 | 2013 | Ordered Westgate mall attack in Nairobi |
 | 2014 | Killed by US airstrike in Somalia |
 
-## References
+
 
 [^1]: Wikipedia, "Moktar Ali Zubeyr" - https://en.wikipedia.org/wiki/Moktar_Ali_Zubeyr
 ## Organizational Role
@@ -54,3 +54,6 @@ Names, transliterations, and attribution for militant leaders can vary across so
 
 - African Union Mission in Somalia (AMISOM/ATMIS)
 - Counterterrorism operations in the Horn of Africa
+
+
+## References

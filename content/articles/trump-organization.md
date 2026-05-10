@@ -21,7 +21,7 @@ Trump's business empire convicted of tax fraud scheme spanning 15 years.
 |------|-------|
 | 2022 | Convicted of tax fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Trump Organization" - https://en.wikipedia.org/wiki/Trump_Organization
 
@@ -54,3 +54,6 @@ The case is often cited as an example of how corporate compliance failures can b
 - This article focuses on high-level public reporting; specific allegations and outcomes can differ across cases and time periods.
 - Where possible, consult primary court documents and official statements for the most precise descriptions of charges and dispositions.
 
+
+
+## References

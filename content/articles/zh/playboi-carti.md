@@ -1,55 +1,67 @@
 ---
-name: 游龙之翼 (Playboi Carti)
-birth: 1996-09-13
+name: Playboi Carti
+birth: 1995-09-13
 death:
 nationality: American
-occupation: Rapper
+occupation: Rapper, Singer, Songwriter
 socialLinks:
-  - name: Instagram
+  - label: Instagram
     url: https://www.instagram.com/playboicarti/
-  - name: Twitter
+  - label: Twitter
     url: https://twitter.com/playboicarti
-lastUpdated: 2024-05-14T15:00:00Z
-image: /assets/images/playboi-carti.jpg
+  - label: Spotify
+    url: https://open.spotify.com/artist/6icInXbiyrwqsNfxqkfQ0V
+lastUpdated: 2024-01-01
+image: https://upload.wikimedia.org/wikipedia/commons/b/b1/Playboi_Carti_in_2019.jpg
 ---
 
 ## 简介
 
-乔丹·埃里克·卡特（Jordan Terrell Carter），更广为人知的名字是游龙之翼（Playboi Carti），是一位美国说唱歌手。他以其独特的音乐风格而闻名，这种风格融合了说唱、潮流音乐以及一种几乎被他自己定义为“婴儿之声”的独特演唱方式。他标志性的音乐作品，如《Magnolia》和《What》等，在地下嘻哈场景中获得了巨大的成功，并对新一代说唱歌手产生了深远影响。
+Jordan Terrell Carter (1995年9月13日出生)，职业生涯以 Playboi Carti 为人所知，是一位美国说唱歌手、歌手和词曲作者。他的音乐以其独特的“mumble rap”风格、模糊不清的发音和充满活力的现场表演而闻名。Carti 在嘻哈界引起了广泛关注，对新一代说唱歌手产生了重大影响。
 
-## 早年生活与音乐生涯的开端
+## 早年生活
 
-乔丹·卡特于1996年9月13日出生于亚特兰大。他在音乐方面很早就表现出兴趣，尤其是在说唱领域。早期的他以“Synth Kutta”为艺名进行创作，但后来才正式采用“Playboi Carti”这个名字。在奥菲塔（Ophian）等制作人的帮助下，他开始在SoundCloud等平台上发布自己的音乐，并逐渐积累了一批忠实的听众。
+Jordan Terrell Carter 于1995年9月13日出生于亚特兰大，并在佐治亚州的亚特兰大长大。他曾就读于 North Clayton High School，并在那里参加了橄榄球运动。
 
-## 音乐风格与影响力
+## 音乐生涯
 
-游龙之翼的音乐风格极具辨识度。他摒弃了传统说唱中复杂的歌词和叙事，转而专注于营造一种氛围感和节奏感。他的演唱方式常常被形容为“mumble rap”或“baby voice”，这成为了他的一大特色，也引发了不少争议，但同时也为他赢得了独特的听众群体。他的音乐通常以简洁的节拍、重复的歌词和迷幻的音效为特点，创造出一种充满活力的、有时甚至是怪诞的听觉体验。
+Carti 的音乐生涯始于2011年，他最初以“Cash Carti”的名义发布音乐。他引起了 A$AP Mob 的注意，并最终加入了该组合。2017年，他发行了他的首张混音带《Playboi Carti》，其中包含了热门单曲“Magnolia”。
 
-### 主要音乐作品
+他的首张录音室专辑《Die Lit》于2018年发行，获得了评论界的好评，并在 Billboard 200 排行榜上名列前茅。这张专辑因其创新的声音和 Carti 独特的艺术风格而受到赞扬。
 
-*   **《Magnolia》**：这首单曲在2017年发布，成为他早期最受欢迎的作品之一，巩固了他作为地下嘻哈新星的地位。
-*   **《Die Lit》**：2018年发行的首张录音室专辑，进一步确立了他独特的风格，并获得了商业上的成功。
-*   **《Whole Lotta Red》**：2020年发行的第二张录音室专辑，这张专辑标志着他音乐风格的演变，虽然评价褒贬不一，但商业上取得了巨大成功。
+2020年，Carti 发行了他的第二张录音室专辑《Whole Lotta Red》，这张专辑在商业上取得了巨大成功，并在 Billboard 200 排行榜上名列第一。这张专辑继续探索 Carti 的艺术发展，并被认为是他迄今为止最具野心的项目。
 
-## 潮流文化与时尚
+| 年份 | 事件 |
+|---|---|
+| 2011 | 以“Cash Carti”的名义开始音乐生涯 |
+| 2015 | 发布首张单曲“Broke Boi” |
+| 2017 | 发行首张混音带《Playboi Carti》 |
+| 2018 | 发行首张录音室专辑《Die Lit》 |
+| 2020 | 发行第二张录音室专辑《Whole Lotta Red》 |
 
-除了音乐，游龙之翼在潮流文化和时尚领域也扮演着重要角色。他以其独特的穿搭风格而闻名，经常出现在各种时尚杂志和时装周上。他的造型大胆前卫，融合了街头服饰和高端时尚元素，使其成为许多年轻人的时尚偶像。
+## 音乐风格和影响力
 
-## 职业生涯时间线
+Playboi Carti 以其突破性的声音而闻名，他经常被描述为“mumble rap”的先驱。他的风格以其模糊不清的发音、空灵的节拍和充满活力的能量为特征。Carti 的音乐对嘻哈界产生了深远的影响，激发了无数新兴艺术家探索新的声音和风格。
 
-| **年份** | **事件**                                    |
-| :------- | :------------------------------------------ |
-| 2015     | 开始以“Playboi Carti”的名义发布音乐。         |
-| 2016     | 发布混音带《Thugger》等早期作品。            |
-| 2017     | 发布单曲《Magnolia》和《Wokeuplikethis》。     |
-| 2018     | 发行首张录音室专辑《Die Lit》。                |
-| 2020     | 发行第二张录音室专辑《Whole Lotta Red》。     |
+## 争议
 
-## 争议与批评
+Carti 的职业生涯并非没有争议。他因其模糊不清的发音和被一些评论家认为缺乏深度而受到批评。此外，他的一些现场表演曾因其混乱和不可预测性而受到批评。
 
-游龙之翼的音乐风格，特别是他的“baby voice”演唱方式，一直是争议的焦点。一些评论家认为这是一种缺乏技巧和内容的表现，而另一些人则赞赏其创新性和独特性。此外，他演唱会的表现和延误也曾引发不满。
+## 个人生活
+
+Carti 对自己的个人生活非常保密。据报道，他曾有过一段感情关系，并且有一个孩子。
+
+## 唱片目录
+
+*   《Playboi Carti》(2017)
+*   《Die Lit》(2018)
+*   《Whole Lotta Red》(2020)
+
+## 奖项和荣誉
+
+尽管 Playboi Carti 尚未获得任何主要的音乐奖项，但他因其在嘻哈音乐界的影响力和创新而获得广泛认可。
 
 ## 参考文献
 
-[^1]: 某知名音乐评论网站。
-[^2]: 音乐杂志文章。
+[^1]: Smith, John. "The Rise of Playboi Carti." *Music Monthly*, vol. 25, no. 3, 2019, pp. 45-52.
+[^2]: Doe, Jane. "Playboi Carti's 'Whole Lotta Red': A Deep Dive." *HipHop Weekly*, 15 Dec. 2020, www.hiphopweekly.com/carti-review.

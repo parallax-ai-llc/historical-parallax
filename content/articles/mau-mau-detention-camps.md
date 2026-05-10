@@ -22,7 +22,7 @@ British colonial forces detained 1.5 million Kenyans in concentration camps, sub
 | 1952 | Detention camps established |
 | 2013 | UK paid £20 million in compensation |
 
-## References
+
 
 [^1]: Wikipedia, "Mau Mau Detention Camps" - https://en.wikipedia.org/wiki/Mau_Mau_Detention_Camps
 
@@ -50,3 +50,6 @@ British colonial forces detained 1.5 million Kenyans in concentration camps, sub
 
 - Kenya Emergency
 - Counterinsurgency
+
+
+## References

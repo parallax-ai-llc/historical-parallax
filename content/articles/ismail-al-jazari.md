@@ -21,7 +21,7 @@ Already covered - see Al-Jazari entry. Duplicate check.
 |------|-------|
 | 1136 | Born in Al-Jazira |
 
-## References
+
 
 [^1]: Wikipedia, "Ismail al-Jazari" - https://en.wikipedia.org/wiki/Ismail_al-Jazari
 
@@ -68,3 +68,6 @@ Already covered - see Al-Jazari entry. Duplicate check.
 - Donald R. Hill (translator/editor) is commonly referenced in English-language scholarship for work on al-Jazari’s treatise and its mechanical interpretations.
 
 [^2]: Encyclopaedia Britannica, "al-Jazarī" - https://www.britannica.com/biography/al-Jazari
+
+
+## References

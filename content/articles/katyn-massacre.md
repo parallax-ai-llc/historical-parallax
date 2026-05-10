@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Soviet Union"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Katyn_Massacre_-_Mass_Graves_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katyn_Massacre"
 lastUpdated: "2026-02-26"
@@ -50,7 +50,7 @@ Mass execution of 22,000 Polish military officers, police, and intellectuals by 
 - Katyn became a symbol of state violence, suppressed truth, and the politics of historical accountability.
 - It has continued to shape Polish–Russian relations and public debates about transparency, archives, and responsibility for wartime crimes.
 
-## References
+
 
 [^1]: Wikipedia, "Katyn Massacre" - https://en.wikipedia.org/wiki/Katyn_Massacre
 
@@ -65,3 +65,6 @@ Mass execution of 22,000 Polish military officers, police, and intellectuals by 
 - The long period of denial and propaganda makes Katyn a case study in how states can shape historical memory and constrain access to evidence.
 - Debates about documents, legal classification, and responsibility have persisted, reflecting broader conflicts over interpretation of twentieth-century history.
 - Commemoration practices often emphasize mourning, documentation, and the ethical obligation to preserve records for future generations.
+
+
+## References

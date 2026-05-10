@@ -21,7 +21,7 @@ Mass kidnapping of students from a school in Niger State as kidnapping epidemic 
 |------|-------|
 | 2021 | Students kidnapped from school |
 
-## References
+
 
 [^1]: Wikipedia, "Kagara School Kidnapping" - https://en.wikipedia.org/wiki/Kagara_School_Kidnapping
 
@@ -62,3 +62,6 @@ The Kagara school kidnapping became part of a broader sequence of high-profile N
 
 - Contemporary reporting from major international and Nigerian outlets (e.g., BBC, Reuters) and statements from Niger State and federal authorities.
 - Background on the wider pattern of school kidnappings in Nigeria and related security initiatives.
+
+
+## References

@@ -23,7 +23,7 @@ Justine Henin won seven Grand Slam titles and was ranked world number one for 11
 | 2004 | Won Olympic gold at Athens |
 | 2007 | Won fourth French Open |
 
-## References
+
 
 [^1]: Wikipedia, "Justine Henin" - https://en.wikipedia.org/wiki/Justine_Henin
 
@@ -51,3 +51,6 @@ In tennis history discussions, Henin is commonly listed among the leading player
 
 [^2]: WTA (player overview and statistics), Justine Henin - https://www.wtatennis.com
 [^3]: ITF (player activity and results), Justine Henin - https://www.itftennis.com
+
+
+## References

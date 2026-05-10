@@ -5,7 +5,7 @@ birth: "1937-07-07"
 death: "1945-09-02"
 nationality: "East Asia"
 occupation: ["Historical Event", "War", "World War II"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War"
 lastUpdated: "2026-02-21"

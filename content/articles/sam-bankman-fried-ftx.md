@@ -24,7 +24,7 @@ American cryptocurrency executive who founded the FTX exchange and stole billion
 | 2023 | Convicted of fraud and money laundering |
 | 2024 | Sentenced to 25 years |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Bankman-Fried FTX" - https://en.wikipedia.org/wiki/Sam_Bankman-Fried_FTX
 
@@ -49,3 +49,6 @@ The FTX scandal is frequently cited in discussions about:
 - exchange custody standards and segregation of client funds
 - transparency and conflicts of interest between exchanges and affiliated trading firms
 - the role of celebrity/VC endorsements in retail risk-taking
+
+
+## References

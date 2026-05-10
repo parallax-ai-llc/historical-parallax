@@ -23,7 +23,7 @@ Lebanese Hezbollah operative wanted by the FBI for the 1985 hijacking of TWA Fli
 | 2001 | Placed on FBI Most Wanted Terrorists list |
 | 2024 | Killed in Israeli airstrike on Beirut |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Atwa" - https://en.wikipedia.org/wiki/Ali_Atwa
 
@@ -48,3 +48,6 @@ The case is frequently referenced in discussions of 1980s Middle East militancy,
 ## References (additional)
 
 [^2]: FBI Most Wanted Terrorists (profile and case summary), via Wikipedia and linked sources.
+
+
+## References

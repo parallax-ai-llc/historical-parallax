@@ -21,7 +21,7 @@ Spanish conquistador who committed atrocities against indigenous peoples during 
 |------|-------|
 | 1524 | Conquered Nicaragua with brutal force |
 
-## References
+
 
 [^1]: Wikipedia, "Francisco Hernández de Córdoba" - https://en.wikipedia.org/wiki/Francisco_Hern%C3%A1ndez_de_C%C3%B3rdoba
 
@@ -54,3 +54,6 @@ Spanish conquistador who committed atrocities against indigenous peoples during 
 - Wikipedia, "Conquest of Nicaragua" - https://en.wikipedia.org/wiki/Conquest_of_Nicaragua
 - Wikipedia, "Pedrarias Dávila" - https://en.wikipedia.org/wiki/Pedrarias_D%C3%A1vila
 
+
+
+## References

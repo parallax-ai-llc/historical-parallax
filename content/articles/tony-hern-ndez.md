@@ -23,7 +23,7 @@ Honduran politician and brother of former president Juan Orlando Hernández who 
 | 2019 | Convicted of drug trafficking |
 | 2021 | Sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Tony Hernández" - https://en.wikipedia.org/wiki/Tony_Hern%C3%A1ndez
 
@@ -48,3 +48,6 @@ Honduran politician and brother of former president Juan Orlando Hernández who 
 - Central American narcotics trafficking routes
 - U.S. federal drug prosecutions
 - Corruption and governance challenges in Honduras
+
+
+## References

@@ -3,6 +3,7 @@ name: "Sebastien Loeb"
 birth: "1974-02-26"
 nationality: "French"
 occupation: ["Rally Driver", "WRC Champion", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Sebastien_Loeb_2014_WTCC_Race_of_Japan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S%C3%A9bastien_Loeb"
 lastUpdated: "2026-03-12"

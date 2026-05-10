@@ -23,7 +23,7 @@ Charles Richter developed the Richter scale for measuring earthquakes.
 | 1935 | Developed Richter scale |
 | 1985 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Richter" - https://en.wikipedia.org/wiki/Charles_Richter
 
@@ -54,3 +54,6 @@ Even when other scales are used in technical work, "Richter scale" remains a com
 - Earthquake intensity vs. magnitude (e.g., shaking felt vs. event size)
 - Seismic hazard assessment and building codes
 
+
+
+## References

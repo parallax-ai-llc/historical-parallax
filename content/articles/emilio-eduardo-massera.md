@@ -22,7 +22,7 @@ Argentine Navy admiral who ran the ESMA detention center during the Dirty War wh
 | 1976 | Ran ESMA torture center |
 | 1985 | Convicted of human rights crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Emilio Eduardo Massera" - https://en.wikipedia.org/wiki/Emilio_Eduardo_Massera
 
@@ -48,3 +48,6 @@ Argentine Navy admiral who ran the ESMA detention center during the Dirty War wh
 [^2]: Wikipedia, "Dirty War" - https://en.wikipedia.org/wiki/Dirty_War
 [^3]: Wikipedia, "Navy Mechanics School" - https://en.wikipedia.org/wiki/Navy_Mechanics_School
 [^4]: Wikipedia, "Trial of the Juntas" - https://en.wikipedia.org/wiki/Trial_of_the_Juntas
+
+
+## References

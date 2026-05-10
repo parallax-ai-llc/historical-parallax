@@ -21,7 +21,7 @@ Spanish conquistador whose conquest of western Mexico was marked by mass enslave
 |------|-------|
 | 1530 | Conducted brutal conquest of Nueva Galicia |
 
-## References
+
 
 [^1]: Wikipedia, "Nuño de Guzmán" - https://en.wikipedia.org/wiki/Nu%C3%B1o_de_Guzm%C3%A1n
 
@@ -62,3 +62,6 @@ Spanish conquistador whose conquest of western Mexico was marked by mass enslave
 - Nueva Galicia — colonial jurisdiction centered in western Mexico.
 - Guadalajara — a major city in the region with early colonial foundations and relocations in the 16th century.
 - Indigenous polities of western Mexico — diverse communities affected by conquest, raiding, and forced labor systems.
+
+
+## References

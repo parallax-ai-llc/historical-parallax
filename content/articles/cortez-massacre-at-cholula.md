@@ -22,7 +22,7 @@ Spanish conquistador Hernan Cortes ordered the massacre of thousands of unarmed 
 | 1519 | Massacre at Cholula |
 | 1521 | Fall of Tenochtitlan |
 
-## References
+
 
 [^1]: Wikipedia, "Cortez Massacre at Cholula" - https://en.wikipedia.org/wiki/Cortez_Massacre_at_Cholula
 
@@ -50,3 +50,6 @@ The event is often discussed in scholarship on colonial violence, propaganda, an
 
 - Whether the alleged plot was real or constructed to justify violence
 - How casualty estimates differ by source and purpose
+
+
+## References

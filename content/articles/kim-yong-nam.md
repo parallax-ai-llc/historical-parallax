@@ -5,7 +5,7 @@ birth: "1978-01-01"
 death: "Unknown"
 nationality: "North Korea"
 occupation: ["Kidnap Victim Agent"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kim_Yong-nam_in_Moscow_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Yong-nam"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ South Korean filmmaker abducted by North Korean agents on orders of Kim Jong-il 
 | 1978 | Kidnapped by North Korean agents |
 | 1986 | Escaped during film festival in Vienna |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Yong-nam" - https://en.wikipedia.org/wiki/Kim_Yong-nam
 
@@ -54,3 +54,6 @@ Stories of abducted cultural figures have shaped public understanding of North K
 ## Notes
 
 Because multiple high-profile abduction cases involve film industry figures and overlapping timeframes, readers should cross-check names, dates, and roles across sources.
+
+
+## References

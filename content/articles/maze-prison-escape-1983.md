@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 1983 | 38 IRA prisoners escaped from Maze Prison |
 
-## References
+
 
 [^1]: Wikipedia, "Maze Prison Escape 1983" - https://en.wikipedia.org/wiki/Maze_Prison_Escape_1983
 
@@ -73,3 +73,6 @@ lastUpdated: "2026-02-26"
 - HM Prison Maze (Long Kesh)
 - The Troubles
 - Prison escapes involving the Provisional IRA
+
+
+## References

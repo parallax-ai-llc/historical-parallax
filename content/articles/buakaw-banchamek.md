@@ -23,7 +23,7 @@ Buakaw Banchamek is one of the most famous Muay Thai fighters internationally, w
 | 2006 | Won K-1 World MAX again |
 | 2010s | Continued competing internationally |
 
-## References
+
 
 [^1]: Wikipedia, "Buakaw Banchamek" - https://en.wikipedia.org/wiki/Buakaw_Banchamek
 
@@ -51,3 +51,6 @@ Buakaw is frequently referenced as a gateway figure for fans who first encounter
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

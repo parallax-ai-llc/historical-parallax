@@ -21,7 +21,7 @@ Placeholder — primarily a musician.
 |------|-------|
 | 1979 | Born in Taiwan |
 
-## References
+
 
 [^1]: Wikipedia, "Jay Chou" - https://en.wikipedia.org/wiki/Jay_Chou
 
@@ -55,3 +55,6 @@ Placeholder — primarily a musician.
 
 - Widely cited as an influential figure in modern Mandopop, particularly for popularizing cross-genre production choices in the 2000s.[^1]
 - Recognized for shaping mainstream tastes in Taiwan and across broader Chinese-language pop markets.[^1]
+
+
+## References

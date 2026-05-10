@@ -5,7 +5,7 @@ birth: "1988-01-01"
 death: "Unknown"
 nationality: "India"
 occupation: ["Fraudster"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BitConnect.svg/960px-BitConnect.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Satish_Kumbhani"
 lastUpdated: "2026-02-26"
@@ -43,7 +43,7 @@ Indian founder of BitConnect cryptocurrency Ponzi scheme that stole $2.4 billion
 - BitConnect became a widely cited example of how crypto speculation, aggressive marketing, and opaque investment claims can combine into large-scale consumer harm.
 - The case is frequently referenced in discussions about investor protection, disclosure standards, and cross-border enforcement challenges in crypto markets.
 
-## References
+
 
 [^1]: Wikipedia, "Satish Kumbhani" - https://en.wikipedia.org/wiki/Satish_Kumbhani
 
@@ -51,3 +51,6 @@ Indian founder of BitConnect cryptocurrency Ponzi scheme that stole $2.4 billion
 
 - Public reporting often links his biography primarily to BitConnect; other personal details are sparse or contested.
 - Enforcement actions in crypto cases can span multiple jurisdictions and proceed over several years.
+
+
+## References

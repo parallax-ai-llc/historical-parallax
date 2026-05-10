@@ -11,21 +11,21 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 摘要
+## 简介
 
-杰森·卡拉卡尼斯是美国互联网企业家、天使投资人和播客主持人。他是Uber、Calm、Robinhood等独角兽公司的早期投资者。他创办了多家公司，包括Weblogs Inc.（售予AOL）、Mahalo和Inside.com。他的播客《This Week in Startups》和《All-In》播客（与Chamath、Sacks和Friedberg共同主持）在科技和政治话语中颇具影响力。
+杰森·卡拉卡尼斯是一位美国互联网企业家、天使投资人和播客主持人。他曾是 Uber、Calm、Robinhood 等独角兽公司的早期投资者。他创办了多家公司，包括 Weblogs Inc.（后被 AOL 收购）、Mahalo 和 Inside.com。他的播客“This Week in Startups”和“All-In”（与 Chamath、Sacks 和 Friedberg 共同主持）在科技和政治领域具有影响力。
 
 ## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
 | 1970 | 出生于纽约布鲁克林 |
-| 2003 | 创办Weblogs Inc. |
-| 2005 | AOL收购Weblogs Inc. |
-| 2010 | 早期投资Uber |
-| 2012 | 创办LAUNCH加速器 |
-| 2024 | 继续担任多产的天使投资人和播客主持人 |
+| 2003 | 创办 Weblogs Inc. |
+| 2005 | AOL 收购 Weblogs Inc. |
+| 2010 | 早期投资 Uber |
+| 2012 | 创办 LAUNCH 加速器 |
+| 2024 | 继续作为多产的天使投资人和播客主持人 |
 
-## 参考文献
+## 参考资料
 
-[^1]: Wikipedia, "Jason Calacanis" - https://en.wikipedia.org/wiki/Jason_Calacanis
+[^1]: 维基百科，“杰森·卡拉卡尼斯” - https://en.wikipedia.org/wiki/Jason_Calacanis

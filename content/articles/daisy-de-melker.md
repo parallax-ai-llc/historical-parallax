@@ -21,7 +21,7 @@ South African serial killer who poisoned two husbands for insurance and her son 
 |------|-------|
 | 1932 | Hanged for poisoning three people |
 
-## References
+
 
 [^1]: Wikipedia, "Daisy de Melker" - https://en.wikipedia.org/wiki/Daisy_de_Melker
 
@@ -63,3 +63,6 @@ South African serial killer who poisoned two husbands for insurance and her son 
 
 - Poisoning as a historical method of murder (forensic detection and evidentiary challenges)
 - Insurance-motivated homicide cases
+
+
+## References

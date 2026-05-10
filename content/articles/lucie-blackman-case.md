@@ -40,7 +40,7 @@ Obara faced charges connected to Blackman's death as well as multiple counts rel
 
 The case influenced public perceptions of personal safety for foreigners in Japan and raised questions about investigative practices, evidence handling, and the challenges of prosecuting complex sexual violence cases. It also became the subject of books and long-form reporting that examined both the crime and the social context in which it occurred.
 
-## References
+
 
 [^1]: Wikipedia, "Lucie Blackman Case" - https://en.wikipedia.org/wiki/Lucie_Blackman_Case
 
@@ -49,3 +49,6 @@ The case influenced public perceptions of personal safety for foreigners in Japa
 Related topics include Joji Obara, discussions of Japan's criminal justice process in high-profile cases, and reporting on the Tokyo nightlife economy and its labor conditions.
 
 This entry is a high-level overview; detailed case chronology and court findings are summarized in the reference.
+
+
+## References

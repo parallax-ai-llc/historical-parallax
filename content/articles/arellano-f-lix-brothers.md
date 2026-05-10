@@ -24,7 +24,7 @@ Mexican crime family that led the Tijuana Cartel, one of Mexico's most powerful 
 | 2002 | Ramón killed in shootout, Benjamin arrested |
 | 2006 | Cartel largely dismantled by Mexican authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Arellano Félix Brothers" - https://en.wikipedia.org/wiki/Arellano_F%C3%A9lix_Brothers
 
@@ -49,3 +49,6 @@ The history of the Arellano Félix Organization is frequently referenced in stud
 - Tijuana Cartel
 - Mexican Drug War
 - Sinaloa Cartel
+
+
+## References

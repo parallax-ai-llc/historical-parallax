@@ -21,7 +21,7 @@ Vietnamese communist leader who directed the war effort and was offered but decl
 |------|-------|
 | 1973 | Declined Nobel Peace Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Le Duc Tho" - https://en.wikipedia.org/wiki/Le_Duc_Tho
 
@@ -66,3 +66,6 @@ Vietnamese communist leader who directed the war effort and was offered but decl
 ## Additional References
 
 - Nobel Prize official site (biographical and award context): https://www.nobelprize.org/prizes/peace/1973/summary/
+
+
+## References

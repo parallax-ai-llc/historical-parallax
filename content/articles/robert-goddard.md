@@ -5,7 +5,7 @@ birth: "1882-10-05"
 death: "1945-08-10"
 nationality: "American"
 occupation: ["Physicist", "Engineer", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dr._Robert_H._Goddard_-_GPN-2002-000131.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Goddard"
 lastUpdated: "2026-02-21"

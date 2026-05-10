@@ -21,7 +21,7 @@ Uzbek crime lord identified by US Treasury as a key heroin trafficker who briefl
 |------|-------|
 | 2012 | Designated by US Treasury as narcotics kingpin |
 
-## References
+
 
 [^1]: Wikipedia, "Gafur Rakhimov" - https://en.wikipedia.org/wiki/Gafur_Rakhimov
 
@@ -64,3 +64,6 @@ Uzbek crime lord identified by US Treasury as a key heroin trafficker who briefl
 
 [^2]: U.S. Department of the Treasury (OFAC), Kingpin Act designation notice for Gafur Rakhimov (2012) — program/press materials may be archived; see official OFAC resources.
 [^3]: International Boxing Association (AIBA/IBA) and major sports news coverage on Rakhimov's election and subsequent departure (2018–2019).
+
+
+## References

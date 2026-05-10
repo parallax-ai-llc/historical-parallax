@@ -21,7 +21,7 @@ Alleged leader of the Clansman gang in Spanish Town, Jamaica, convicted of acces
 |------|-------|
 | 2022 | Convicted of being accessory before the fact to murder |
 
-## References
+
 
 [^1]: Wikipedia, "Tesha Miller" - https://en.wikipedia.org/wiki/Tesha_Miller
 
@@ -56,3 +56,6 @@ Miller’s case is often cited as an example of Jamaican courts pursuing alleged
 ## Notes on sources
 
 This article is intentionally high-level and based on publicly available summaries; for detailed allegations, witness testimony, and sentencing specifics, consult primary court records and contemporaneous reporting.[^1]
+
+
+## References

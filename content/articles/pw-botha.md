@@ -22,7 +22,7 @@ Apartheid South African president who refused to negotiate with the ANC and auth
 | 1978 | Became Prime Minister/President |
 | 1989 | Forced to resign after stroke |
 
-## References
+
 
 [^1]: Wikipedia, "PW Botha" - https://en.wikipedia.org/wiki/PW_Botha
 
@@ -51,3 +51,6 @@ Botha remains a polarizing figure: supporters highlight his emphasis on state au
 - Apartheid
 - African National Congress (ANC)
 - State of emergency in South Africa
+
+
+## References

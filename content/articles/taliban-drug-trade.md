@@ -23,7 +23,7 @@ The Talibans involvement in Afghanistans opium trade which generates an estimate
 | 2001 | Briefly banned poppy cultivation |
 | 2021 | Taliban retook power |
 
-## References
+
 
 [^1]: Wikipedia, "Taliban Drug Trade" - https://en.wikipedia.org/wiki/Taliban_Drug_Trade
 
@@ -48,3 +48,6 @@ The Taliban have at times announced bans on poppy cultivation or drug traffickin
 ## International and Humanitarian Dimensions
 
 The opium economy intersects with poverty, debt, and rural livelihoods, making eradication policies politically and socially sensitive. International actors have also connected narcotics flows to corruption, organized crime, and financing of armed conflict, complicating counter-narcotics strategies during and after international military involvement in Afghanistan.
+
+
+## References

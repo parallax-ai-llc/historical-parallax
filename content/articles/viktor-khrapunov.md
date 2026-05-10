@@ -21,7 +21,7 @@ Former mayor of Almaty accused of embezzling hundreds of millions in public asse
 |------|-------|
 | 2011 | Fled Kazakhstan amid corruption charges |
 
-## References
+
 
 [^1]: Wikipedia, "Viktor Khrapunov" - https://en.wikipedia.org/wiki/Viktor_Khrapunov
 
@@ -58,3 +58,6 @@ At a high level, the Khrapunov story is frequently cited as an example of:
 - the difficulties of cross-border enforcement when defendants reside abroad.
 
 [^2]: Swiss and international court reporting (summary coverage varies by outlet); see also Wikipedia for an overview and links to cited litigation.
+
+
+## References

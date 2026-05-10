@@ -22,7 +22,7 @@ Chairman of the 2010 Commonwealth Games organizing committee who embezzled hundr
 | 2010 | Commonwealth Games corruption |
 | 2011 | Arrested for corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Suresh Kalmadi" - https://en.wikipedia.org/wiki/Suresh_Kalmadi
 
@@ -51,3 +51,6 @@ Analysts frequently cite the episode as a governance lesson: transparent procure
 ## Notes
 
 This article summarizes high-level reporting themes; specific figures, charges, and court outcomes can differ by jurisdiction and case status.
+
+
+## References

@@ -23,7 +23,7 @@ Russian serial killer who murdered at least 9 people in Kurgan Oblast between 19
 | 2000 | Arrested |
 | 2002 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Andrei Burlov" - https://en.wikipedia.org/wiki/Andrei_Burlov
 
@@ -49,3 +49,6 @@ Public summaries typically report **at least nine** victims, while the precise n
 
 - Serial crime investigations in post-Soviet Russia
 - Victimology and the targeting of marginalized populations
+
+
+## References

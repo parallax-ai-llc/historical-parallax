@@ -23,7 +23,7 @@ Indonesian national convicted in the UK as Britain's most prolific rapist, drugg
 | 2017 | Arrested after victim woke during assault |
 | 2020 | Convicted of 159 offences; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Reynhard Sinaga" - https://en.wikipedia.org/wiki/Reynhard_Sinaga
 
@@ -52,3 +52,6 @@ Indonesian national convicted in the UK as Britain's most prolific rapist, drugg
 ## Additional References
 
 - Greater Manchester Police (context via reporting): https://en.wikipedia.org/wiki/Reynhard_Sinaga
+
+
+## References

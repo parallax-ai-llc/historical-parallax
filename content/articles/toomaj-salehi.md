@@ -43,7 +43,7 @@ Salehi’s case is frequently referenced in discussions about:
 - the use of national-security style charges against protesters and critics
 - international advocacy for detained writers, musicians, and activists
 
-## References
+
 
 [^1]: Wikipedia, "Toomaj Salehi" - https://en.wikipedia.org/wiki/Toomaj_Salehi
 [^2]: Wikipedia references and external links (for linked reporting and statements by rights groups and officials)
@@ -51,3 +51,6 @@ Salehi’s case is frequently referenced in discussions about:
 ## Related Context
 
 Salehi is often discussed alongside other Iranian artists and activists whose cases became internationally visible during the post-2022 protest period.
+
+
+## References

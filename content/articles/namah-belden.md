@@ -21,7 +21,7 @@ PNG opposition leader charged with sedition for alleged plots against the govern
 |------|-------|
 | 2012 | Charged with sedition |
 
-## References
+
 
 [^1]: Wikipedia, "Namah Belden" - https://en.wikipedia.org/wiki/Namah_Belden
 
@@ -51,3 +51,6 @@ PNG opposition leader charged with sedition for alleged plots against the govern
 
 - Politics of Papua New Guinea
 - Leader of the Opposition (Papua New Guinea)
+
+
+## References

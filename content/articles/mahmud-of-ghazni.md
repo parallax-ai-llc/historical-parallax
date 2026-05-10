@@ -22,7 +22,7 @@ Afghan ruler who launched 17 devastating raids into India primarily to loot Hind
 | 1025 | Destroyed and plundered the Somnath Temple |
 | 1030 | Died having amassed enormous wealth from Indian campaigns |
 
-## References
+
 
 [^1]: Wikipedia, "Mahmud of Ghazni" - https://en.wikipedia.org/wiki/Mahmud_of_Ghazni
 
@@ -51,3 +51,6 @@ Ghaznavid rule is associated with patronage of Persian literature and scholarshi
 - Ghaznavid dynasty
 - Persianate empires
 - Medieval warfare and temple economies in South Asia
+
+
+## References

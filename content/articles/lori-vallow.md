@@ -42,10 +42,13 @@ Vallow was charged and later tried in Idaho. In 2023, she was convicted of murde
 
 The case is frequently discussed in the context of true-crime media, child welfare concerns, and the role that extremist or delusional belief systems can play in escalating family violence. It also prompted public scrutiny of how missing-children cases are handled across jurisdictions.
 
-## References
+
 
 [^1]: Wikipedia, "Lori Vallow" - https://en.wikipedia.org/wiki/Lori_Vallow
 
 ## See also
 
 Related topics include the Chad Daybell prosecution and broader discussions of missing-person investigations, inter-agency coordination, and evidentiary use of digital communications in modern criminal trials.
+
+
+## References

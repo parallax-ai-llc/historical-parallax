@@ -39,7 +39,7 @@ The International Criminal Tribunal for the former Yugoslavia (ICTY) prosecuted 
 
 Judgments involving Kosovo remain politically contested in the region, with disputes over narratives of victimhood and responsibility. In historical and legal literature, ICTY decisions are also used as case studies for how tribunals document events, assess evidence, and apply doctrines like joint criminal enterprise and command responsibility.
 
-## References
+
 
 [^1]: Wikipedia, "Nebojša Pavković" - https://en.wikipedia.org/wiki/Neboj%C5%A1a_Pavkovi%C4%87
 
@@ -48,3 +48,6 @@ Judgments involving Kosovo remain politically contested in the region, with disp
 - civilian displacement as an operational outcome and as evidence in war-crimes litigation
 - the evidentiary role of military documents, intercepts, and witness testimony
 - the interaction between political decision-making and military execution
+
+
+## References

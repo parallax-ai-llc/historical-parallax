@@ -5,7 +5,7 @@ birth: "1925-03-12"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Esaki_leo_Gakushiin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leo_Esaki"
 lastUpdated: "2026-02-21"

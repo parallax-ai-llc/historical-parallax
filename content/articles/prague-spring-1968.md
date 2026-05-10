@@ -41,7 +41,7 @@ The Soviet Union, fearing the spread of liberal ideas, led a Warsaw Pact invasio
 - **1968-08**: Warsaw Pact invasion; reforms halted.
 - **1969+**: "Normalization" consolidates.
 
-## References
+
 - https://en.wikipedia.org/wiki/Prague_Spring
 - https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia
 
@@ -66,3 +66,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

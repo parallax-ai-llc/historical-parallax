@@ -22,7 +22,7 @@ Decades-long conflict between drug factions and police in Rio's favelas has kill
 | 1980 | Drug trafficking violence escalated |
 | 2021 | Jacarezinho raid killed 28 |
 
-## References
+
 
 [^1]: Wikipedia, "Rio de Janeiro Drug Wars" - https://en.wikipedia.org/wiki/Rio_de_Janeiro_Drug_Wars
 
@@ -67,3 +67,6 @@ The conflict has been accompanied by repeated debates about:
 ## Why the topic is studied
 
 Researchers and journalists often use Rio as a case study for how organized crime, inequality, corruption, and urban geography can interact to produce long-running cycles of violence and state responses.[^1]
+
+
+## References

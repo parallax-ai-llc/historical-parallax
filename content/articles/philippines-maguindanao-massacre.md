@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2009 | 57 killed including 32 journalists |
 
-## References
+
 
 [^1]: Wikipedia, "Philippines Maguindanao Massacre" - https://en.wikipedia.org/wiki/Philippines_Maguindanao_Massacre
 
@@ -61,3 +61,6 @@ lastUpdated: "2026-02-26"
 - **Location:** Maguindanao, Mindanao, Philippines
 - **Deaths:** 57 total (including 32 journalists)
 - **Notable outcome:** Major convictions in 2019
+
+
+## References

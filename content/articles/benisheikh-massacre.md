@@ -22,7 +22,7 @@ Attack in September 2013 near Benisheikh in Borno State, Nigeria, in which gunme
 | 2013 | Gunmen killed dozens near Benisheikh, Borno State |
 | 2014 | Regional insurgency and mass-casualty attacks continued in northeast Nigeria |
 
-## References
+
 
 [^1]: Wikipedia, "Benisheikh massacre" - https://en.wikipedia.org/wiki/Benisheikh_massacre
 
@@ -49,3 +49,6 @@ Incidents like the Benisheikh massacre typically generate:
 In conflict environments, early casualty counts and perpetrator attribution can be difficult due to access constraints and competing narratives.
 
 Despite these constraints, the massacre is often cited as part of the pattern of escalating insecurity in the period leading into 2014.
+
+
+## References

@@ -23,7 +23,7 @@ Carlos Alcaraz became the youngest world number one in ATP history at 19 in 2022
 | 2023 | Won Wimbledon |
 | 2024 | Won French Open and Wimbledon |
 
-## References
+
 
 [^1]: Wikipedia, "Carlos Alcaraz" - https://en.wikipedia.org/wiki/Carlos_Alcaraz
 
@@ -48,3 +48,6 @@ Carlos Alcaraz became the youngest world number one in ATP history at 19 in 2022
 - Strong acceleration and court coverage, allowing him to turn defense into offense.
 - A willingness to use variety (drop shots, net approaches) to break opponents’ rhythm.
 - High performance in big-stage matches, often summarized as composure under pressure.
+
+
+## References

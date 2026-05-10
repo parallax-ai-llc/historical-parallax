@@ -25,7 +25,7 @@ German tax investigators discovered 1,400 artworks including suspected Nazi-loot
 | 2014 | Cornelius Gurlitt dies; legal proceedings focus on inheritance and provenance research. |
 | 2015 | Selected works are returned to heirs of owners dispossessed during the Nazi era (restitution cases proceed on a work-by-work basis). |
 
-## References
+
 
 [^1]: Wikipedia, "Cornelius Gurlitt Hoard" - https://en.wikipedia.org/wiki/Cornelius_Gurlitt_Hoard
 
@@ -55,3 +55,6 @@ German tax investigators discovered 1,400 artworks including suspected Nazi-loot
 - Nazi-looted art and restitution frameworks
 - Provenance research and archival recovery
 - Postwar art markets in Germany and Switzerland
+
+
+## References

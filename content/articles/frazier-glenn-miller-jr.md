@@ -24,7 +24,7 @@ American white supremacist and former KKK leader who killed three people at Jewi
 | 2015 | Sentenced to death |
 | 2021 | Died on death row |
 
-## References
+
 
 [^1]: Wikipedia, "Frazier Glenn Miller Jr." - https://en.wikipedia.org/wiki/Frazier_Glenn_Miller_Jr.
 
@@ -49,3 +49,6 @@ He was convicted of capital murder and related charges and received a death sent
 - White supremacist movements in the United States
 - Hate crime and domestic terrorism
 - Overland Park shooting (2014)
+
+
+## References

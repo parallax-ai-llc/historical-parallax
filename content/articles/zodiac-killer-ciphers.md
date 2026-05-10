@@ -22,7 +22,7 @@ The Zodiac Killer sent four encrypted messages to Bay Area newspapers. Only two 
 | 1969 | First cipher solved |
 | 2020 | Second cipher solved after 51 years |
 
-## References
+
 
 [^1]: Wikipedia, "Zodiac Killer Ciphers" - https://en.wikipedia.org/wiki/Zodiac_Killer_Ciphers
 
@@ -49,3 +49,6 @@ The Zodiac letters included multiple cryptograms sent to newspapers and accompan
 ## Notes and limitations
 
 This topic overlaps with an ongoing unsolved case. Public summaries typically distinguish between (a) authenticated correspondence, (b) disputed letters, and (c) later hoaxes, which can complicate timelines and claims.
+
+
+## References

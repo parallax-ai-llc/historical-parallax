@@ -5,7 +5,7 @@ birth: "0971-01-01"
 death: "1029-01-01"
 nationality: "Persian"
 occupation: ["Mathematician", "Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Flowers_1-5-2-2-1_by_Hamid_Naderi_Yeganeh.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kushyar_Gilani"
 lastUpdated: "2026-02-21"

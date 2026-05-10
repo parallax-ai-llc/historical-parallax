@@ -23,7 +23,7 @@ Canadian founder and administrator of AlphaBay, the largest darknet marketplace 
 | 2017 | Arrested in Thailand during international police operation |
 | 2017 | Found dead in Thai prison cell, ruled suicide |
 
-## References
+
 
 [^1]: Wikipedia, "Alexandre Cazes" - https://en.wikipedia.org/wiki/Alexandre_Cazes
 
@@ -48,3 +48,6 @@ Alexandre Cazes is most commonly associated in public sources with the creation 
 - Darknet marketplaces
 - Cybercrime investigations
 - International law enforcement cooperation
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1929-10-22"
 death: "1990-03-20"
 nationality: "Soviet/Russian"
 occupation: ["Athlete", "Football Player", "Goalkeeper"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/LevYashin.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lev_Yashin"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Lev Yashin is the greatest goalkeeper ever and the only keeper to win the Ballon
 | 1963 | Won Ballon d'Or |
 | 1990 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Lev Yashin" - https://en.wikipedia.org/wiki/Lev_Yashin
 
@@ -52,3 +52,6 @@ Lev Yashin is the greatest goalkeeper ever and the only keeper to win the Ballon
 - Yashin’s reputation rests on rare individual recognition for a goalkeeper and sustained elite performance.
 - His story is commonly used to illustrate how leadership and organization can be as important as reflex saves.
 - The 1963 Ballon d'Or remains a shorthand for his unique place in football history.
+
+
+## References

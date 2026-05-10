@@ -19,7 +19,7 @@ The murder of Meredith Kercher in Perugia, Italy in 2007 led to the prosecution 
 |------|-------|
 | 2015 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -58,3 +58,6 @@ The murder of Meredith Kercher in Perugia, Italy in 2007 led to the prosecution 
 ## Further Reading
 - Wikipedia: Murder of Meredith Kercher
 - Italy’s Supreme Court of Cassation decisions and appellate judgments (English-language summaries vary in quality)
+
+
+## References

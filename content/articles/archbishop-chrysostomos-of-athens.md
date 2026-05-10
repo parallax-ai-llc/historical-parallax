@@ -24,7 +24,7 @@ Archbishop Chrysostomos I of Athens served as Archbishop of Athens during World 
 | 1923 | Became Archbishop of Athens |
 | 1938 | Died in Athens |
 
-## References
+
 
 [^1]: Wikipedia, "Archbishop Chrysostomos of Athens" - https://en.wikipedia.org/wiki/Archbishop_Chrysostomos_of_Athens
 
@@ -49,3 +49,6 @@ Chrysostomos is generally remembered as a high-profile church leader of the inte
 - Church of Greece
 - Greek population exchange (1923)
 - National Schism (Greece)
+
+
+## References

@@ -22,7 +22,7 @@ Syrian business tycoon and cousin of Bashar al-Assad who controlled up to 60% of
 | 2011 | Controlled vast business empire as Assad regime oligarch |
 | 2020 | Publicly broke with Assad regime over seizure of assets |
 
-## References
+
 
 [^1]: Wikipedia, "Rami Makhlouf" - https://en.wikipedia.org/wiki/Rami_Makhlouf
 
@@ -51,3 +51,6 @@ Makhlouf's rise and subsequent marginalization are often used to illustrate the 
 - **Relationship:** Cousin of Bashar al-Assad.
 - **Notable asset:** Syriatel (telecommunications), frequently cited as part of his network.
 - **Public rupture:** 2020 dispute over state claims and asset control.
+
+
+## References

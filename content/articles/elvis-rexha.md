@@ -21,7 +21,7 @@ Major Albanian drug trafficker linked to international cocaine and cannabis netw
 |------|-------|
 | 2016 | Arrested for drug trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Elvis Rexha" - https://en.wikipedia.org/wiki/Elvis_Rexha
 
@@ -58,3 +58,6 @@ Major Albanian drug trafficker linked to international cocaine and cannabis netw
 ### Editor’s note
 
 - This profile is intentionally minimal and should be expanded only with verifiable, reputable sources (e.g., court documents, major investigative reporting, or official statements).
+
+
+## References

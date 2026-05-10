@@ -22,7 +22,7 @@ Park Tae-hwan won the first Korean Olympic swimming gold (400m freestyle) at 200
 | 2008 | Won 400m freestyle gold at Beijing |
 | 2012 | Won two silver at London |
 
-## References
+
 
 [^1]: Wikipedia, "Park Tae-hwan" - https://en.wikipedia.org/wiki/Park_Tae-hwan
 
@@ -48,3 +48,6 @@ Olympic swimming medals are often discussed in terms of national program develop
 This article focuses on high-level Olympic outcomes. A fuller competitive biography would typically include world championship performances, major meet times, and the athlete's role in relays and national team selection across seasons.
 
 Where reliable sources provide them, split times and progression of personal-best records are commonly used to contextualize an elite swimmer's peak period.
+
+
+## References

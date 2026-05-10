@@ -5,7 +5,7 @@ birth: "1966-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Insurrectionist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kelly_Meggs_mug_shot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kelly_Meggs"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Florida Oath Keepers leader convicted of seditious conspiracy for January 6.
 |------|-------|
 | 2023 | Convicted of seditious conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Kelly Meggs" - https://en.wikipedia.org/wiki/Kelly_Meggs
 
@@ -57,3 +57,6 @@ Florida Oath Keepers leader convicted of seditious conspiracy for January 6.
 - Oath Keepers
 - January 6 United States Capitol attack
 - Seditious conspiracy (U.S.)
+
+
+## References

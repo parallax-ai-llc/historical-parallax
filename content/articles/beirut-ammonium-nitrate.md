@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2020 | 218 killed in massive explosion |
 
-## References
+
 
 [^1]: Wikipedia, "Beirut Ammonium Nitrate" - https://en.wikipedia.org/wiki/Beirut_Ammonium_Nitrate
 
@@ -84,3 +84,6 @@ lastUpdated: "2026-02-26"
 
 [^2]: Wikipedia, "2020 Beirut explosion" - https://en.wikipedia.org/wiki/2020_Beirut_explosion
 [^3]: Wikipedia, "Ammonium nitrate" - https://en.wikipedia.org/wiki/Ammonium_nitrate
+
+
+## References

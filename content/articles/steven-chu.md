@@ -43,7 +43,7 @@ Steven Chu shared the 1997 Nobel Prize for laser cooling and trapping of atoms. 
 - Chu’s career is often cited as an example of a scientist moving between academia, national laboratories, and government.
 - His work remains widely referenced in discussions of experimental control of matter and the broader “quantum technology” ecosystem.
 
-## References
+
 
 [^1]: Wikipedia, "Steven Chu" - https://en.wikipedia.org/wiki/Steven_Chu
 
@@ -51,3 +51,6 @@ Steven Chu shared the 1997 Nobel Prize for laser cooling and trapping of atoms. 
 
 - Laser cooling
 - Nobel Prize in Physics (1997)
+
+
+## References

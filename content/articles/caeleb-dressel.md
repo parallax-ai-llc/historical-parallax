@@ -43,7 +43,7 @@ Caeleb Dressel won five gold medals at 2021 Tokyo Olympics.
 - **Pressure and well-being:** Like many top athletes, Dressel’s career has been followed with attention to the mental and physical demands of continuous high-stakes competition.
 - **Legacy:** He is frequently cited as one of the defining male sprinters of the 2010s–2020s era, particularly for his Olympic sprint and butterfly results.
 
-## References
+
 
 [^1]: Wikipedia, "Caeleb Dressel" - https://en.wikipedia.org/wiki/Caeleb_Dressel
 
@@ -62,3 +62,6 @@ Caeleb Dressel won five gold medals at 2021 Tokyo Olympics.
 
 - **Era comparisons:** Discussions of Dressel often compare his multi-event capability (individual sprints plus relays) with other Olympic-era sprinters, while noting differences in competition fields across cycles.
 - **Team role:** Relay lineups make him relevant beyond individual medals, because sprint relay outcomes can hinge on start exchanges and split times.
+
+
+## References

@@ -23,7 +23,7 @@ Peyton Manning won two Super Bowls and a record five MVPs.
 | 2007 | Won Super Bowl with Indianapolis |
 | 2016 | Won Super Bowl with Denver; retired |
 
-## References
+
 
 [^1]: Wikipedia, "Peyton Manning" - https://en.wikipedia.org/wiki/Peyton_Manning
 
@@ -48,3 +48,6 @@ After retirement, he became a prominent media figure and analyst/host, with ongo
 
 - See the linked Wikipedia entry for a starting overview and references.
 - Prefer primary documents (official statements, court records) where available.
+
+
+## References

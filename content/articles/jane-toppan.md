@@ -18,7 +18,7 @@ Jane Toppan was a Massachusetts nurse who confessed to 31 murders by poisoning p
 |------|-------|
 | 1857 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Jane Toppan" — https://en.wikipedia.org/wiki/Jane_Toppan
 
@@ -70,3 +70,6 @@ Toppan was found not guilty by reason of insanity and was committed to a psychia
 ## Historical significance
 
 The case is often used as an early example of how trust in medical professionals can be exploited, and it is sometimes referenced in later reforms around oversight, medication control, and patient safety practices.
+
+
+## References

@@ -22,7 +22,7 @@ US Congressman who fabricated virtually his entire biography including education
 | 2023 | Indicted for fraud |
 | 2024 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "George Santos Fraud" - https://en.wikipedia.org/wiki/George_Santos_Fraud
 ---
@@ -56,3 +56,6 @@ US Congressman who fabricated virtually his entire biography including education
 
 - 국제기구 보고서(UN 계열, WHO, WFP 등), 인권/분쟁 모니터링, 현장 NGO 브리핑
 - 위성/지도 기반 데이터, OSINT(공개정보 분석), 2차 출처의 교차 검증
+
+
+## References

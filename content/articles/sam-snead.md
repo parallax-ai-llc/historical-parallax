@@ -24,7 +24,7 @@ Sam Snead won a record 82 PGA Tour events and seven major championships. He was 
 | 1965 | Won event at age 52 |
 | 2002 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Snead" - https://en.wikipedia.org/wiki/Sam_Snead
 
@@ -49,3 +49,6 @@ After his peak competitive years, Snead remained a recognizable figure through e
 ## See also
 
 - List of golfers with most PGA Tour wins
+
+
+## References

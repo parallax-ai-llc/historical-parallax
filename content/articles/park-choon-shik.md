@@ -23,7 +23,7 @@ South Korean serial killer who murdered at least 9 people in Busan during the ea
 | 1982 | Arrested |
 | 1983 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Park Choon-shik" - https://en.wikipedia.org/wiki/Park_Choon-shik
 
@@ -50,3 +50,6 @@ In later retrospectives, the case is sometimes mentioned as part of broader narr
 ## Further Reading
 
 Background on South Korean criminal justice history in the late 20th century can help contextualize how such cases were investigated and prosecuted.
+
+
+## References

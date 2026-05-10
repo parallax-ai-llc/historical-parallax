@@ -24,7 +24,7 @@ Tanni Grey-Thompson won 16 Paralympic medals including 11 gold across five Games
 | 2004 | Won two gold at Athens |
 | 2010 | Became Baroness Grey-Thompson |
 
-## References
+
 
 [^1]: Wikipedia, "Tanni Grey-Thompson" - https://en.wikipedia.org/wiki/Tanni_Grey-Thompson
 
@@ -51,3 +51,6 @@ Grey-Thompson is often referenced in narratives about the professionalization an
 - Paralympic Games and the development of para-sport
 - Wheelchair racing and athletics classifications
 - Disability rights and accessibility policy in the UK
+
+
+## References

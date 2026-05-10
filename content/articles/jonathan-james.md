@@ -22,7 +22,7 @@ American hacker known as 'c0mrade' who became the first juvenile incarcerated fo
 | 2000 | Convicted; first juvenile jailed for hacking |
 | 2008 | Committed suicide amid TJX investigation |
 
-## References
+
 
 [^1]: Wikipedia, "Jonathan James" - https://en.wikipedia.org/wiki/Jonathan_James
 
@@ -52,3 +52,6 @@ American hacker known as 'c0mrade' who became the first juvenile incarcerated fo
 
 - This article is a high-level summary based on publicly available reference material (see References).
 - Specific dates, roles, and names should be cross-checked against primary sources when used for research or publication.
+
+
+## References

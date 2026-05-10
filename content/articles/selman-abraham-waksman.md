@@ -5,7 +5,7 @@ birth: "1888-07-22"
 death: "1973-08-16"
 nationality: "Ukrainian-American"
 occupation: ["Microbiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Selman_Waksman_NYWTS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Selman_Abraham_Waksman"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ See earlier entry.
 | 1888 | Born |
 | 1973 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Selman Abraham Waksman" - https://en.wikipedia.org/wiki/Selman_Abraham_Waksman
 
@@ -49,3 +49,6 @@ Waksman helped shape the modern usage of the term **"antibiotic"** in scientific
 ## Notes
 
 This entry is kept high-level; detailed publication chronology and the division of experimental work vary by source.
+
+
+## References

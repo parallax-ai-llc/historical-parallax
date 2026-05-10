@@ -35,7 +35,7 @@ Genocide of the Herero and Nama peoples by German colonial forces in present-day
 - **Memory and reparations:** contemporary politics includes recognition, apologies, and debates over compensation and historical responsibility.
 - **Documented policy:** surviving orders, reports, and records are central to how historians reconstruct intent and implementation.
 
-## References
+
 
 [^1]: Wikipedia, "Herero and Nama Genocide" - https://en.wikipedia.org/wiki/Herero_and_Nama_Genocide
 
@@ -50,3 +50,6 @@ Genocide of the Herero and Nama peoples by German colonial forces in present-day
 - Genocide studies
 - German colonial empire
 - Namibia
+
+
+## References

@@ -20,7 +20,7 @@ Belgian teenager who traveled to Syria as a jihadi fighter before being recovere
 |------|-------|
 | 2013 | Returned from Syria |
 
-## References
+
 
 [^1]: Wikipedia, "Jejoen Bontinck" - https://en.wikipedia.org/wiki/Jejoen_Bontinck
 
@@ -76,3 +76,6 @@ This entry adds high-level, factual context around **Jejoen Bontinck** and commo
 - Critical biographies that cite and quote primary documents.
 - Period histories that situate the subject among key actors and constraints.
 - Scholarly articles that revisit contested claims or reinterpret sources.
+
+
+## References

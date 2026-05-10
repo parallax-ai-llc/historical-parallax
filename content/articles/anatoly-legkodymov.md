@@ -21,7 +21,7 @@ Founder of Bitzlato crypto exchange who pleaded guilty to money laundering.
 |------|-------|
 | 2024 | Pleaded guilty to laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Anatoly Legkodymov" - https://en.wikipedia.org/wiki/Anatoly_Legkodymov
 
@@ -57,3 +57,6 @@ Some specifics (exact transaction volumes, dates, and the full set of charges/di
 
 [^2]: U.S. Department of Justice (press releases and case announcements related to Bitzlato / Legkodymov).
 [^3]: Federal court filings / plea documents in the Bitzlato matter (for exact counts and dates).
+
+
+## References

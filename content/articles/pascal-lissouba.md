@@ -22,7 +22,7 @@ Former President of Congo-Brazzaville who was overthrown by Sassou Nguesso in a 
 | 1992 | Elected President |
 | 1997 | Overthrown in civil war |
 
-## References
+
 
 [^1]: Wikipedia, "Pascal Lissouba" - https://en.wikipedia.org/wiki/Pascal_Lissouba
 
@@ -49,3 +49,6 @@ Lissouba's presidency is often referenced in discussions of post–Cold War demo
 ## Notes
 
 A detailed treatment of this period typically distinguishes between constitutional politics, militia organization, and external military support, and should be grounded in multiple independent sources.
+
+
+## References

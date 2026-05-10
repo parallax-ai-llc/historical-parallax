@@ -22,7 +22,7 @@ Dutch national suspected in the disappearance of Natalee Holloway in Aruba who l
 | 2005 | Suspected in Holloway disappearance |
 | 2012 | Convicted of murdering Stephany Flores |
 
-## References
+
 
 [^1]: Wikipedia, "Joran van der Sloot" - https://en.wikipedia.org/wiki/Joran_van_der_Sloot
 
@@ -50,3 +50,6 @@ Dutch national suspected in the disappearance of Natalee Holloway in Aruba who l
 
 - The Holloway investigation influenced public discussion about missing-person cases, media attention, and cross-border criminal investigations.
 - The later Peru conviction reinforced the case’s enduring notoriety and the international dimension of related proceedings.
+
+
+## References

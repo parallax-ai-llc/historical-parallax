@@ -21,7 +21,7 @@ Armed men dressed as police robbed Kim Kardashian at gunpoint in a Paris luxury 
 |------|-------|
 | 2016 | $10 million in jewelry stolen from Kardashian |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Kardashian Paris Robbery 2016" - https://en.wikipedia.org/wiki/Kim_Kardashian_Paris_Robbery_2016
 
@@ -59,3 +59,6 @@ Armed men dressed as police robbed Kim Kardashian at gunpoint in a Paris luxury 
 - Nature: Armed robbery / home-invasion-style hotel room robbery
 - Method (reported): Disguise as police; confrontation; restraint; theft of jewelry
 - Significance: High media visibility and a widely reported multi-million-dollar estimated loss
+
+
+## References

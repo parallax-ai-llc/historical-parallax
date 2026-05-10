@@ -21,7 +21,7 @@ Placeholder — consumer goods executive rather than major industrialist.
 |------|-------|
 | 1966 | Born in Italy |
 
-## References
+
 
 [^1]: Wikipedia, "Elio Leoni Sceti" - https://en.wikipedia.org/wiki/Elio_Leoni_Sceti
 
@@ -52,3 +52,6 @@ Placeholder — consumer goods executive rather than major industrialist.
 ## Additional References
 
 [^2]: LSG Holdings (official site, as listed on Wikipedia) — http://www.lsgholdings.com
+
+
+## References

@@ -21,7 +21,7 @@ French serial killer who murdered five women in northern France.
 |------|-------|
 | 2003 | Convicted of five murders |
 
-## References
+
 
 [^1]: Wikipedia, "Jean-Thierry Mathurin" - https://en.wikipedia.org/wiki/Jean-Thierry_Mathurin
 [^2]: Wikipedia, "Thierry Paulin" (page content currently returned for the Mathurin URL as of 2026-03-03) - https://en.wikipedia.org/wiki/Thierry_Paulin
@@ -52,3 +52,6 @@ French serial killer who murdered five women in northern France.
 ## See also
 
 - [Thierry Paulin](https://en.wikipedia.org/wiki/Thierry_Paulin)
+
+
+## References

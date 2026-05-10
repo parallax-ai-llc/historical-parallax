@@ -22,7 +22,7 @@ Actress who paid $15,000 to boost her daughter's SAT score. First parent sentenc
 | 2019 | Pled guilty |
 | 2019 | Served 11 days |
 
-## References
+
 
 [^1]: Wikipedia, "Felicity Huffman" - https://en.wikipedia.org/wiki/Felicity_Huffman
 
@@ -65,3 +65,6 @@ For entertainment-industry figures, legal outcomes can also intersect with reput
 - College admissions in the United States
 - Standardized testing integrity
 - Celebrity criminal cases and media coverage
+
+
+## References

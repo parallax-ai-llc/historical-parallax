@@ -21,7 +21,7 @@ Kuwaiti al-Qaeda leader killed in US airstrike in Syria, one of few who had adva
 |------|-------|
 | 2015 | Killed in US airstrike in Syria |
 
-## References
+
 
 [^1]: Wikipedia, "Mohsin al-Fadhli" - https://en.wikipedia.org/wiki/Mohsin_al-Fadhli
 
@@ -54,3 +54,6 @@ Kuwaiti al-Qaeda leader killed in US airstrike in Syria, one of few who had adva
 
 [^2]: U.S. Department of Defense / U.S. Central Command press briefings and statements on strikes in Syria (2014–2015).
 [^3]: Major international news reporting on the Khorasan Group and al-Fadhli’s reported death (2014–2015).
+
+
+## References

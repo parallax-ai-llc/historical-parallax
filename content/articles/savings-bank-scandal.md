@@ -21,7 +21,7 @@ Multiple South Korean savings banks collapsed after their owners embezzled depos
 |------|-------|
 | 2011 | Multiple savings banks collapsed |
 
-## References
+
 
 [^1]: Wikipedia, "Savings Bank Scandal" - https://en.wikipedia.org/wiki/Savings_Bank_Scandal
 
@@ -54,3 +54,6 @@ The scandal had both financial and political consequences. It contributed to ren
 ## Legacy
 
 In retrospective discussions, the episode is often cited as a warning about weak internal controls, opaque ownership structures, and the systemic risks created by concentrated exposures to real-estate cycles—particularly in lightly supervised segments of the banking sector.
+
+
+## References

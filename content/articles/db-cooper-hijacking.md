@@ -23,7 +23,7 @@ Hijacking of a Northwest Orient Airlines flight on November 24, 1971. A man call
 | 1971 | Parachuted and disappeared |
 | 2016 | FBI suspended investigation |
 
-## References
+
 
 [^1]: Wikipedia, "DB Cooper Hijacking" - https://en.wikipedia.org/wiki/DB_Cooper_Hijacking
 
@@ -64,3 +64,6 @@ Over time, numerous individuals have been proposed as possible suspects. Most cl
 - The story became a durable part of American true-crime folklore.
 - “DB Cooper” is often referenced in films, television, books, and internet culture as a symbol of the “perfect” unsolved caper.
 - The case has also been used as an example in discussions of how aviation security standards evolved.
+
+
+## References

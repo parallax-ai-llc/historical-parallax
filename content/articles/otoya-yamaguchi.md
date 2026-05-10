@@ -22,7 +22,7 @@ Japanese ultranationalist teenager who assassinated Japan Socialist Party chairm
 | 1960 | Assassinated Inejiro Asanuma on live TV |
 | 1960 | Committed suicide in juvenile detention |
 
-## References
+
 
 [^1]: Wikipedia, "Otoya Yamaguchi" - https://en.wikipedia.org/wiki/Otoya_Yamaguchi
 
@@ -66,3 +66,6 @@ While the details of policy responses differ across accounts, the incident is br
 ## Cultural afterlife
 
 The murder and its imagery have appeared in historical retrospectives and discussions about political violence, including debates about the ethics of displaying or reproducing graphic historical images.
+
+
+## References

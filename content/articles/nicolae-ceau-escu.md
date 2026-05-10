@@ -24,7 +24,7 @@ Romanian communist dictator who created an extreme personality cult and devastat
 | 1989 | Revolution erupted in December |
 | 1989 | Executed by firing squad on Christmas Day |
 
-## References
+
 
 [^1]: Wikipedia, "Nicolae Ceaușescu" - https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu
 
@@ -50,3 +50,6 @@ For a detailed chronology and primary-source context, consult the linked referen
 ## Further Reading
 
 - Wikipedia (see link above)
+
+
+## References

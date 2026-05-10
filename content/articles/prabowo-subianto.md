@@ -22,7 +22,7 @@ Indonesian president and former general accused of orchestrating the kidnapping 
 | 1998 | Accused of ordering kidnapping of pro-democracy activists |
 | 2024 | Elected president despite human rights record |
 
-## References
+
 
 [^1]: Wikipedia, "Prabowo Subianto" - https://en.wikipedia.org/wiki/Prabowo_Subianto
 
@@ -48,3 +48,6 @@ Prabowo’s career is often discussed through two competing lenses:
 ## Why He Matters in Regional Politics
 
 As president of the world’s third-largest democracy and a major Southeast Asian economy, Prabowo’s policies on defense, trade, and diplomacy are closely watched, including Indonesia’s posture toward major powers and regional security issues.
+
+
+## References

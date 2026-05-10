@@ -24,7 +24,7 @@ Burundian military leader who seized power twice in coups (1987 and 1996). He wa
 | 1996 | Seized power again in second coup |
 | 2020 | Died of COVID-19 |
 
-## References
+
 
 [^1]: Wikipedia, "Pierre Buyoya" - https://en.wikipedia.org/wiki/Pierre_Buyoya
 
@@ -51,3 +51,6 @@ Buyoya’s historical legacy is disputed. A Burundian court convicted him in abs
 ## Later Roles
 
 After leaving office, Buyoya served in diplomatic and regional roles, including work connected to the African Union. He died in 2020.
+
+
+## References

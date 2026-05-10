@@ -22,7 +22,7 @@ Post-election violence in Ivory Coast killed over 3,000 people when Laurent Gbag
 | 2010 | Gbagbo refused to accept election results |
 | 2011 | Both sides committed massacres; Gbagbo arrested by French and UN forces |
 
-## References
+
 
 [^1]: Wikipedia, "Ivorian Civil War Massacres" - https://en.wikipedia.org/wiki/Ivorian_Civil_War_Massacres
 
@@ -54,3 +54,6 @@ Public documentation of the crisis often highlights:
 
 [^2]: International Criminal Court (ICC) situation information for Côte d'Ivoire (general context): https://www.icc-cpi.int/
 [^3]: UN human rights reporting portals and archives (general context): https://www.ohchr.org/
+
+
+## References

@@ -21,7 +21,7 @@ Japanese bond trader who hid $1.1 billion in losses at Daiwa Bank over 11 years.
 |------|-------|
 | 1995 | Exposed after hiding $1.1 billion in losses |
 
-## References
+
 
 [^1]: Wikipedia, "Toshihide Iguchi" - https://en.wikipedia.org/wiki/Toshihide_Iguchi
 
@@ -63,3 +63,6 @@ Japanese bond trader who hid $1.1 billion in losses at Daiwa Bank over 11 years.
 
 [^2]: Wikipedia, "Daiwa Bank" - https://en.wikipedia.org/wiki/Daiwa_Bank
 [^3]: Wikipedia, "Rogue trader" - https://en.wikipedia.org/wiki/Rogue_trader
+
+
+## References

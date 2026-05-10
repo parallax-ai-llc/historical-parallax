@@ -21,7 +21,7 @@ Assyrian king who pioneered mass deportation as policy, relocating entire conque
 |------|-------|
 | -745 | Introduced mass deportation as imperial policy |
 
-## References
+
 
 [^1]: Wikipedia, "Tiglath-Pileser III" - https://en.wikipedia.org/wiki/Tiglath-Pileser_III
 
@@ -77,3 +77,6 @@ Because different source types serve different purposes, summaries typically emp
 
 - Neo-Assyrian Empire
 - Assyrian military and provincial administration
+
+
+## References

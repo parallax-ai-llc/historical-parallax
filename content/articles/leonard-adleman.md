@@ -5,7 +5,7 @@ birth: "1945-12-31"
 death: "Unknown"
 nationality: "American"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Len-mankin-pic.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonard_Adleman"
 lastUpdated: "2026-02-21"

@@ -21,7 +21,7 @@ American serial killer known as 'The Gorilla Man' who strangled and raped over 2
 |------|-------|
 | 1928 | Executed for serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Earle Nelson" - https://en.wikipedia.org/wiki/Earle_Nelson
 
@@ -61,3 +61,6 @@ American serial killer known as 'The Gorilla Man' who strangled and raped over 2
 
 - List of serial killers in the United States
 - San Quentin State Prison
+
+
+## References

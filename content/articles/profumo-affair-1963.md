@@ -34,7 +34,7 @@ Profumo spent the rest of his life working as a volunteer cleaning toilets at a 
 
 ---
 
-## References
+
 
 - **An English Affair** (Richard Davenport-Hines)
 - **The Trial of Christine Keeler** (TV Series)
@@ -52,3 +52,6 @@ The scandal unfolded during the Cold War, when even the possibility of informal 
 ## Cultural Imprint
 
 Beyond immediate politics, the Profumo Affair became a shorthand for the erosion of postwar deference in Britain, and it remains a reference point in discussions of media scrutiny, political accountability, and the intersection of sex, class, and state power.
+
+
+## References

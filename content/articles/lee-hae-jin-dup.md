@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1967 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Hae-jin dup" - https://en.wikipedia.org/wiki/Lee_Hae-jin_dup
 
@@ -62,3 +62,6 @@ This page appears to be a duplicate placeholder (“dup”). If you are consolid
 
 [^2]: Wikipedia (canonical entry), "Lee Hae-jin" - https://en.wikipedia.org/wiki/Lee_Hae-jin
 [^3]: Naver (company overview), Wikipedia - https://en.wikipedia.org/wiki/Naver
+
+
+## References

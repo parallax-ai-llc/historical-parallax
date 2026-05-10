@@ -22,7 +22,7 @@ Park Chan-ho was the first Korean in MLB, debuting with the Dodgers in 1994. He 
 | 1994 | First Korean MLB player |
 | 2000 | Won 18 games for Dodgers |
 
-## References
+
 
 [^1]: Wikipedia, "Park Chan-ho" - https://en.wikipedia.org/wiki/Park_Chan-ho
 
@@ -51,3 +51,6 @@ Park’s MLB success had effects beyond statistics. It contributed to:
 ## Later Career and Legacy
 
 After his MLB years, Park also played in other leagues and remained involved in baseball and public life. In South Korea, he is often remembered as a pioneer whose career shaped expectations for subsequent generations of Korean players abroad.
+
+
+## References

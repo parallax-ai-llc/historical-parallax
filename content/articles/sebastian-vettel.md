@@ -5,7 +5,7 @@ birth: "1987-07-03"
 death: "Unknown"
 nationality: "German"
 occupation: ["Athlete", "Racing Driver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sebastian_Vettel_-_2022236172324_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sebastian_Vettel"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Sebastian Vettel won four consecutive F1 World Championships with Red Bull from 
 | 2013 | Won fourth consecutive title |
 | 2022 | Retired from F1 |
 
-## References
+
 
 [^1]: Wikipedia, "Sebastian Vettel" - https://en.wikipedia.org/wiki/Sebastian_Vettel
 
@@ -48,3 +48,6 @@ Sebastian Vettel won four consecutive F1 World Championships with Red Bull from 
 - After retirement, Vettel’s public image has often been connected to athlete citizenship themes, including advocacy and interest in issues beyond racing.
 - In retrospective coverage, he is frequently placed among the defining drivers of the 2010s era.
 - His championship run is often used as a reference point when comparing team-era dominance and competitive balance in Formula One.
+
+
+## References

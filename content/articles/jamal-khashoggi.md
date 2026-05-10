@@ -23,7 +23,7 @@ Saudi journalist murdered and dismembered inside the Saudi consulate in Istanbul
 | 2018 | Killed and dismembered |
 | 2019 | UN found Saudi state responsible |
 
-## References
+
 
 [^1]: Wikipedia, "Jamal Khashoggi" - https://en.wikipedia.org/wiki/Jamal_Khashoggi
 
@@ -50,3 +50,6 @@ Beyond the immediate political fallout, Khashoggi became a symbolic figure for p
 ## Related Articles
 
 - Jamal Khashoggi murder
+
+
+## References

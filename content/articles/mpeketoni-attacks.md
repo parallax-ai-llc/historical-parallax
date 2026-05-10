@@ -21,7 +21,7 @@ Al-Shabaab militants attacked the town of Mpeketoni on Kenya's coast killing at 
 | 2014 | Al-Shabaab killed 48 people in Mpeketoni |
 | 2014 | Kenyan government initially denied Al-Shabaab involvement |
 
-## References
+
 
 [^1]: Wikipedia, "Mpeketoni Attacks" - https://en.wikipedia.org/wiki/Mpeketoni_Attacks
 
@@ -48,3 +48,6 @@ Al-Shabaab militants attacked the town of Mpeketoni on Kenya's coast killing at 
 ## Suggested follow-up
 - Look for: official reports, court documents (if any), reputable investigative journalism, and academic/think-tank overviews.
 - If multiple credible accounts disagree, summarize the competing claims and cite the best available evidence on each side.
+
+
+## References

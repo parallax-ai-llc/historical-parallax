@@ -21,7 +21,7 @@ FBI and US Marshals siege of Randy Weaver's Idaho cabin resulted in deaths of We
 |------|-------|
 | 1992 | Wife and son killed in standoff |
 
-## References
+
 
 [^1]: Wikipedia, "Ruby Ridge" - https://en.wikipedia.org/wiki/Ruby_Ridge
 
@@ -63,3 +63,6 @@ FBI and US Marshals siege of Randy Weaver's Idaho cabin resulted in deaths of We
 
 - U.S. Department of Justice and congressional materials summarized in secondary sources.
 - Contemporary reporting and later historical analyses comparing Ruby Ridge and Waco.
+
+
+## References

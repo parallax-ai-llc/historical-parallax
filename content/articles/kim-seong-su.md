@@ -5,7 +5,7 @@ birth: "1891-10-11"
 death: "1955-02-18"
 nationality: "Korean"
 occupation: ["Industrialist", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Inchon_Kim_Seongsu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Seong-su"
 lastUpdated: "2026-02-21"

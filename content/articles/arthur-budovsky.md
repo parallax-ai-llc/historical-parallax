@@ -23,7 +23,7 @@ Ukrainian-born founder of Liberty Reserve, a Costa Rica-based digital currency s
 | 2013 | Arrested in Spain after US indictment |
 | 2016 | Sentenced to 20 years in federal prison |
 
-## References
+
 
 [^1]: Wikipedia, "Arthur Budovsky" - https://en.wikipedia.org/wiki/Arthur_Budovsky
 
@@ -50,3 +50,6 @@ Liberty Reserve is often cited in discussions of the risks of lightly regulated 
 - Money laundering typologies in online ecosystems.
 - Early-2010s crackdowns on cybercrime payment rails.
 
+
+
+## References

@@ -23,7 +23,7 @@ Bulgarian dissident writer assassinated in London by Bulgarian secret service us
 | 1978 | Stabbed with poison umbrella on Waterloo Bridge |
 | 1978 | Died three days later from ricin poisoning |
 
-## References
+
 
 [^1]: Wikipedia, "Georgi Markov" - https://en.wikipedia.org/wiki/Georgi_Markov
 
@@ -48,3 +48,6 @@ Markov’s death is frequently cited in studies of political repression, exile j
 It also helped cement his posthumous reputation as a prominent Bulgarian dissident voice of the period.
 
 The case remains a reference point in public discussion of targeted killings and state-sponsored assassination allegations in Europe.
+
+
+## References

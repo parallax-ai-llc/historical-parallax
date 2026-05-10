@@ -22,7 +22,7 @@ Founder of the Indian Premier League cricket tournament who was banned for life 
 | 2008 | Founded IPL |
 | 2010 | Suspended for financial irregularities |
 
-## References
+
 
 [^1]: Wikipedia, "Lalit Modi" - https://en.wikipedia.org/wiki/Lalit_Modi
 
@@ -63,3 +63,6 @@ Regardless of the controversies, Modi’s role in the IPL’s launch is frequent
 - Monetize media rights at scale.
 - Blend sport with entertainment programming.
 - Create global demand through short-form formats and star talent.
+
+
+## References

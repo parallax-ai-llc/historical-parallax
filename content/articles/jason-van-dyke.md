@@ -21,7 +21,7 @@ Chicago police officer convicted of murdering Laquan McDonald by shooting him 16
 |------|-------|
 | 2018 | Convicted of second-degree murder |
 
-## References
+
 
 [^1]: Wikipedia, "Jason Van Dyke" - https://en.wikipedia.org/wiki/Jason_Van_Dyke
 
@@ -57,3 +57,6 @@ Chicago police officer convicted of murdering Laquan McDonald by shooting him 16
 ## Notes
 
 This article is a concise profile focused on the widely reported legal facts and the public significance of the case.
+
+
+## References

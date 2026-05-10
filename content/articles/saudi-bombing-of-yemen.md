@@ -22,7 +22,7 @@ Saudi-led coalition airstrikes have killed thousands of Yemeni civilians includi
 | 2015 | Airstrikes began |
 | 2018 | School bus bombing killed 40 children |
 
-## References
+
 
 [^1]: Wikipedia, "Saudi Bombing of Yemen" - https://en.wikipedia.org/wiki/Saudi_Bombing_of_Yemen
 
@@ -53,3 +53,6 @@ Saudi-led coalition airstrikes have killed thousands of Yemeni civilians includi
 ## Notes on Terminology
 
 - The label "Saudi Bombing of Yemen" is commonly used to describe the coalition air campaign, but it sits within a multi-party conflict with shifting front lines and actors.
+
+
+## References

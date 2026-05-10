@@ -21,7 +21,7 @@ Ukrainian politician and Putin's close associate arrested for treason and later 
 |------|-------|
 | 2022 | Arrested for treason |
 
-## References
+
 
 [^1]: Wikipedia, "Viktor Medvedchuk" - https://en.wikipedia.org/wiki/Viktor_Medvedchuk
 
@@ -60,3 +60,6 @@ Medvedchuk is often referenced in analyses of modern Ukrainian politics as an il
 - the use of sanctions, asset controls, and criminal cases in a national security context.
 
 [^2]: General background coverage in international media (varies by outlet); Wikipedia provides a hub of citations and chronology.
+
+
+## References

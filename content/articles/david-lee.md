@@ -23,7 +23,7 @@ David Lee shared the 1996 Nobel Prize for discovering superfluidity in helium-3.
 | 1972 | Discovered superfluidity in helium-3 |
 | 1996 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "David Lee" - https://en.wikipedia.org/wiki/David_Lee
 
@@ -64,3 +64,6 @@ Lee shared the **1996 Nobel Prize in Physics** with Robert C. Richardson and Dou
 - Helium-3
 - Cryogenics
 - Nobel Prize in Physics (1996)
+
+
+## References

@@ -23,7 +23,7 @@ Viktor Axelsen won Olympic badminton gold at 2021 Tokyo and 2024 Paris, dominati
 | 2021 | Won Olympic gold at Tokyo |
 | 2024 | Won second Olympic gold at Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Viktor Axelsen" - https://en.wikipedia.org/wiki/Viktor_Axelsen
 
@@ -48,3 +48,6 @@ In the contemporary professional era, elite badminton performance is closely lin
 He is frequently cited as a benchmark for men’s singles performance in the 2020s, particularly for the combination of physical reach and controlled shot selection. Discussions of his legacy typically focus on major-title conversion, week-to-week consistency, and influence on how tall players can succeed at the highest level.
 
 This article summarizes major milestones and commonly noted characteristics from public sports coverage.
+
+
+## References

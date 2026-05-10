@@ -23,7 +23,7 @@ Bernard Hinault won the Tour de France five times and is the last French winner 
 | 1985 | Won fifth Tour de France |
 | 1986 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "Bernard Hinault" - https://en.wikipedia.org/wiki/Bernard_Hinault
 
@@ -50,3 +50,6 @@ Hinault’s 1985 Tour win remains a reference point in French cycling culture be
 ## Post-Retirement
 
 After retiring from competition, Hinault remained a visible figure in cycling, including appearances connected to the Tour de France and commentary on the sport’s evolution.
+
+
+## References

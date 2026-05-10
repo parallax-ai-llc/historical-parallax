@@ -23,7 +23,7 @@ Chinese businesswoman based in Tanzania known as the Ivory Queen who was convict
 | 2015 | Arrested in Dar es Salaam |
 | 2019 | Convicted and sentenced to 15 years |
 
-## References
+
 
 [^1]: Wikipedia, "Yang Feng Glan" - https://en.wikipedia.org/wiki/Yang_Feng_Glan
 
@@ -54,3 +54,6 @@ Illicit ivory markets are tied to direct harm to elephant populations and can co
 ## Notes
 
 Specific figures (counts, valuations, and time spans) can vary by source and by the evidentiary record presented in court; summaries should be read alongside the cited reference.
+
+
+## References

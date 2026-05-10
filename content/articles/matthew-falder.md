@@ -21,7 +21,7 @@ Cambridge-educated British academic convicted of 137 offenses including blackmai
 |------|-------|
 | 2018 | Convicted of 137 offenses |
 
-## References
+
 
 [^1]: Wikipedia, "Matthew Falder" - https://en.wikipedia.org/wiki/Matthew_Falder
 
@@ -61,3 +61,6 @@ Public reporting describes a pattern of online coercion and blackmail that:
 
 [^2]: Wikipedia (section: Early life and career) - https://en.wikipedia.org/wiki/Matthew_Falder#Early_life_and_career
 [^3]: Wikipedia (section: Conviction and sentencing) - https://en.wikipedia.org/wiki/Matthew_Falder
+
+
+## References

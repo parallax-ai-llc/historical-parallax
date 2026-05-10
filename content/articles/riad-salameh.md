@@ -22,7 +22,7 @@ Lebanon's central bank governor accused of embezzling $300+ million through fina
 | 2019 | Lebanon's financial system collapsed |
 | 2023 | Charged by multiple European countries |
 
-## References
+
 
 [^1]: Wikipedia, "Riad Salameh" - https://en.wikipedia.org/wiki/Riad_Salameh
 
@@ -57,3 +57,5 @@ His departure from office occurred amid intense domestic scrutiny and internatio
 ## References
 
 [^2]: Banque du Liban (institutional context) - https://www.bdl.gov.lb/
+
+

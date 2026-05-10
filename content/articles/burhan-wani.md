@@ -23,7 +23,7 @@ Kashmiri militant commander of Hizbul Mujahideen who used social media to recrui
 | 2016 | Killed by Indian forces |
 | 2016 | Massive protests followed |
 
-## References
+
 
 [^1]: Wikipedia, "Burhan Wani" - https://en.wikipedia.org/wiki/Burhan_Wani
 
@@ -52,3 +52,6 @@ Descriptions of individuals and groups in conflict zones can vary widely across 
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

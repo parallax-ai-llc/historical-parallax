@@ -24,7 +24,7 @@ David Bohm was a theoretical physicist who proposed the Bohm interpretation of q
 | 1952 | Published pilot wave theory |
 | 1992 | Died in London |
 
-## References
+
 
 [^1]: Wikipedia, "David Bohm" - https://en.wikipedia.org/wiki/David_Bohm
 
@@ -48,3 +48,6 @@ David Bohm was a theoretical physicist who proposed the Bohm interpretation of q
 
 - Beyond physics, Bohm became known for work on **dialogue** and communication, and for conversations with thinkers such as J. Krishnamurti.
 - His books and lectures influenced interdisciplinary discussions spanning physics, philosophy, and cognitive science.
+
+
+## References

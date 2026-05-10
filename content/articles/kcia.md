@@ -22,7 +22,7 @@ Korean Central Intelligence Agency kidnapped dissidents abroad, tortured suspect
 | 1961 | KCIA established |
 | 1979 | KCIA director assassinated the president |
 
-## References
+
 
 [^1]: Wikipedia, "KCIA" - https://en.wikipedia.org/wiki/KCIA
 
@@ -53,3 +53,6 @@ The KCIA was later reorganized and renamed (including periods as the Agency for 
 ## Additional Reference
 
 [^2]: National Intelligence Service (South Korea) (institutional overview) - https://www.nis.go.kr/
+
+
+## References

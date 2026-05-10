@@ -23,7 +23,7 @@ Genocide against the Rohingya Muslim minority in Myanmar beginning in 2017. Mili
 | 2017 | 740,000 fled to Bangladesh |
 | 2020 | ICJ ordered genocide prevention |
 
-## References
+
 
 [^1]: Wikipedia, "Rohingya Genocide" - https://en.wikipedia.org/wiki/Rohingya_Genocide
 
@@ -56,3 +56,6 @@ The crisis has also shaped sanctions, diplomatic pressure, and debates over acco
 Use of the term “genocide” reflects assessments that the violence involved intent to destroy, in whole or in part, a protected group.
 Myanmar’s authorities have disputed many allegations, while international bodies have continued to document abuses and displacement.
 The broader issue remains tied to questions of minority rights, citizenship, and the role of the military in Myanmar’s political system.
+
+
+## References

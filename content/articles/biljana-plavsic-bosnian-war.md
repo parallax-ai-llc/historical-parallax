@@ -23,7 +23,7 @@ Former biology professor and Bosnian Serb leader who called Bosniaks a genetic d
 | 2003 | Pleaded guilty to persecution |
 | 2009 | Released from Swedish prison |
 
-## References
+
 
 [^1]: Wikipedia, "Biljana Plavsic Bosnian War" - https://en.wikipedia.org/wiki/Biljana_Plavsic_Bosnian_War
 
@@ -54,3 +54,6 @@ Former biology professor and Bosnian Serb leader who called Bosniaks a genetic d
 ## References (Additional)
 
 [^2]: ICTY (International Criminal Tribunal for the former Yugoslavia), case information on Biljana Plavšić - https://www.icty.org/
+
+
+## References

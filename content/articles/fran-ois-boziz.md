@@ -22,7 +22,7 @@ Former President of the Central African Republic who seized power in a coup and 
 | 2003 | Seized power in military coup |
 | 2013 | Overthrown by Séléka rebellion |
 
-## References
+
 
 [^1]: Wikipedia, "François Bozizé" - https://en.wikipedia.org/wiki/Fran%C3%A7ois_Boziz%C3%A9
 
@@ -49,3 +49,6 @@ Former President of the Central African Republic who seized power in a coup and 
 ## Notes
 
 This page is a factual, high-level summary intended for context; detailed claims should be traced to primary documents and reputable reporting.
+
+
+## References

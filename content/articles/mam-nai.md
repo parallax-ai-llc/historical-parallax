@@ -21,7 +21,7 @@ Chief interrogator at Tuol Sleng torture prison who oversaw extraction of forced
 |------|-------|
 | 1977 | Directed torture at Tuol Sleng |
 
-## References
+
 
 [^1]: Wikipedia, "Mam Nai" - https://en.wikipedia.org/wiki/Mam_Nai
 
@@ -69,3 +69,6 @@ Chief interrogator at Tuol Sleng torture prison who oversaw extraction of forced
 [^3]: François Bizot (memoir accounts cited by Wikipedia for descriptions of Mam Nai).
 [^4]: Chandler, David, *Voices from S-21* (1999).
 [^5]: Heder, Stephen & Tittemore, Brian D., *Seven Candidates for Prosecution* (2001).
+
+
+## References

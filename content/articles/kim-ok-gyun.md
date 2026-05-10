@@ -5,7 +5,7 @@ birth: "1851-02-23"
 death: "1894-03-28"
 nationality: "Korean"
 occupation: ["Political reformer", "Modernizer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/KimOkkyun.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Ok-gyun"
 lastUpdated: "2026-02-21"

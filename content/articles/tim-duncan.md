@@ -23,7 +23,7 @@ Tim Duncan won five championships in 19 years with San Antonio, the greatest pow
 | 2014 | Won fifth championship |
 | 2016 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "Tim Duncan" - https://en.wikipedia.org/wiki/Tim_Duncan
 
@@ -52,3 +52,6 @@ After retiring as a player, Duncan remained connected to the Spurs organization 
 - NBA Most Valuable Player (regular season)
 - NBA Finals Most Valuable Player
 - Multiple All-NBA and All-Defensive Team selections
+
+
+## References

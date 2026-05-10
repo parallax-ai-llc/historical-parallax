@@ -5,7 +5,7 @@ birth: "1954-05-22"
 death: "Unknown"
 nationality: "Japanese-American"
 occupation: ["Engineer", "Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Shuji_Nakamura_Nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shuji_Nakamura"
 lastUpdated: "2026-02-21"

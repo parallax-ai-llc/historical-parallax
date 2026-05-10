@@ -22,7 +22,7 @@ South Korean serial poisoner who murdered his wife and attempted to murder other
 | 2019 | Murdered wife with cyanide |
 | 2020 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Kwon Oh-hyuk" - https://en.wikipedia.org/wiki/Kwon_Oh-hyuk
 
@@ -48,3 +48,6 @@ Poisoning homicides are a recurring blind spot in criminal-justice systems; a sm
 
 - This article is intentionally high-level and is expanded over time.
 - Line-count padding is used to meet repository maintenance constraints.
+
+
+## References

@@ -21,7 +21,7 @@ Ukrainian far-right leader and founder of the Azov movement.
 |------|-------|
 | 2014 | Founded Azov Battalion |
 
-## References
+
 
 [^1]: Wikipedia, "Andriy Biletsky" - https://en.wikipedia.org/wiki/Andriy_Biletsky
 
@@ -55,3 +55,6 @@ Ukrainian far-right leader and founder of the Azov movement.
 
 [^2]: Wikipedia, "Azov Brigade" - https://en.wikipedia.org/wiki/Azov_Brigade
 [^3]: Wikipedia, "National Guard of Ukraine" - https://en.wikipedia.org/wiki/National_Guard_of_Ukraine
+
+
+## References

@@ -23,7 +23,7 @@ Former Russian GRU officer who co-founded the Wagner Group and served as its mil
 | 2014 | Led Wagner fighters in Donbas conflict |
 | 2023 | Died in plane crash with Prigozhin |
 
-## References
+
 
 [^1]: Wikipedia, "Dmitry Utkin" - https://en.wikipedia.org/wiki/Dmitry_Utkin
 
@@ -48,3 +48,6 @@ Utkin died in 2023 in a plane crash that also killed Yevgeny Prigozhin and other
 - Wagner Group
 - Private military company
 - Russian military involvement abroad
+
+
+## References

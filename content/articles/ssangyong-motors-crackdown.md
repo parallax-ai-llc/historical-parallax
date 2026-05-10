@@ -21,7 +21,7 @@ Ssangyong Motors laid off 2,646 workers who occupied the factory for 77 days. Po
 |------|-------|
 | 2009 | Police assault on striking workers |
 
-## References
+
 
 [^1]: Wikipedia, "Ssangyong Motors Crackdown" - https://en.wikipedia.org/wiki/Ssangyong_Motors_Crackdown
 
@@ -56,3 +56,6 @@ The SsangYong case is often referenced in discussions of:
 - Labor unions in South Korea
 - Industrial disputes and factory occupations
 - Policing of protests and strikes
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1960-10-11"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/fd/Sandra-Avila-Beltran_.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandra_%C3%81vila_Beltr%C3%A1n"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Mexican drug trafficker known as 'La Reina del Pacífico' (Queen of the Pacific)
 | 2012 | Extradited to United States |
 | 2015 | Released and returned to Mexico |
 
-## References
+
 
 [^1]: Wikipedia, "Sandra Ávila Beltrán" - https://en.wikipedia.org/wiki/Sandra_%C3%81vila_Beltr%C3%A1n
 
@@ -50,3 +50,6 @@ Her case is often discussed in the context of:
 
 - Guadalajara Cartel
 - Sinaloa Cartel
+
+
+## References

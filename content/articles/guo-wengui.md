@@ -46,7 +46,7 @@ His case illustrates how cross-border wealth, immigration status, and online fun
 - Cross-border figures can leverage diaspora audiences and online reach to mobilize supporters quickly.
 - Financial crime cases may hinge on how funds were marketed, controlled, and ultimately used.
 
-## References
+
 
 [^1]: Wikipedia, "Guo Wengui" - https://en.wikipedia.org/wiki/Guo_Wengui
 ## Overview
@@ -60,3 +60,6 @@ He has been involved in multiple legal controversies reported in public records 
 
 ## Significance
 Guo’s case is often discussed as an example of how wealth, politics, and transnational information campaigns can overlap, especially in the era of social media‑driven influence operations.
+
+
+## References

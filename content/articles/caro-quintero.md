@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 | 2022 | Recaptured |
 
-## References
+
 
 [^1]: Wikipedia, "Caro Quintero" - https://en.wikipedia.org/wiki/Caro_Quintero
 
@@ -52,3 +52,6 @@ Duplicate consolidated.
 
 ### Notes
 - Many details about cartel leadership, internal roles, and specific operations vary by source and are often presented as allegations; for a high-confidence baseline, the Wikipedia summary and its cited references are typically used as a starting point.
+
+
+## References

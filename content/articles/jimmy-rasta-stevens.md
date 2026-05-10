@@ -21,7 +21,7 @@ Led the Coconut War rebellion on Espiritu Santo, attempting secession during Van
 |------|-------|
 | 1980 | Led secessionist rebellion on Espiritu Santo |
 
-## References
+
 
 [^1]: Wikipedia, "Jimmy Rasta Stevens" - https://en.wikipedia.org/wiki/Jimmy_Rasta_Stevens
 
@@ -51,3 +51,6 @@ In mainstream historical accounts of Vanuatu’s early independence period, Stev
 ## Notes
 
 - Dates and institutional details vary by source; the summary here is intentionally high-level and should be cross-checked against detailed histories of Vanuatu’s independence.
+
+
+## References

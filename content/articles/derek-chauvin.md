@@ -22,7 +22,7 @@ Minneapolis police officer who murdered George Floyd by kneeling on his neck for
 | 2020 | Murdered George Floyd |
 | 2021 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Derek Chauvin" - https://en.wikipedia.org/wiki/Derek_Chauvin
 
@@ -49,3 +49,6 @@ The Floyd case and the prosecution of Chauvin influenced national debate and pol
 ## See Also
 
 Related topics include the George Floyd protests, U.S. civil-rights prosecutions, and police reform debates in the 2020s.
+
+
+## References

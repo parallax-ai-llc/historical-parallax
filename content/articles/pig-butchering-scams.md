@@ -23,7 +23,7 @@ Massive fraud scheme originating from Southeast Asian scam compounds where traff
 | 2022 | Scam losses exceeded $75 billion |
 | 2023 | UN investigated trafficking in compounds |
 
-## References
+
 
 [^1]: Wikipedia, "Pig Butchering Scams" - https://en.wikipedia.org/wiki/Pig_Butchering_Scams
 
@@ -63,3 +63,6 @@ Aggregate loss estimates vary by methodology and reporting period. The most reli
 
 [^2]: UN and NGO reporting on trafficking and forced labor connected to scam compounds (summarized in secondary sources).
 [^3]: Investigative journalism and cybersecurity firm reporting on scam infrastructure and victim-loss estimation methods.
+
+
+## References

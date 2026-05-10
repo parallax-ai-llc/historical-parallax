@@ -24,7 +24,7 @@ Saudi Arabian businessman and arms dealer who was the world's richest man in the
 | 1988 | Acquitted of fraud charges in US |
 | 2017 | Died in London |
 
-## References
+
 
 [^1]: Wikipedia, "Adnan Khashoggi" - https://en.wikipedia.org/wiki/Adnan_Khashoggi
 
@@ -48,3 +48,6 @@ Saudi Arabian businessman and arms dealer who was the world's richest man in the
 - Contemporary news reporting and court documents where available.
 - Academic or policy analyses for historical and political context.
 - For contested topics, compare multiple reputable sources and primary documents when available.
+
+
+## References

@@ -24,7 +24,7 @@ Iván Archivaldo Guzmán Salazar is a son of El Chapo and a leader of the Los Ch
 | 2021 | Targeted in U.S. Treasury sanctions designations aimed at disrupting Sinaloa Cartel financial networks. |
 | 2023–2024 | Intensified international scrutiny of fentanyl supply chains, with Los Chapitos widely described as a core production and trafficking driver within the Sinaloa Cartel. |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -77,3 +77,6 @@ Within Mexican cartel history, the “Los Chapitos” label is often used to des
 ## Notes on sources
 
 Because cartel leadership structures are opaque and frequently contested, descriptions of hierarchy and responsibility can vary across sources. High‑level summaries typically rely on a mix of journalism, official designations, and court filings when available.
+
+
+## References

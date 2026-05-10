@@ -23,7 +23,7 @@ Hong Kong serial killer known as 'The Jars Killer' who murdered at least four wo
 | 1983 | Arrested after suspicious items found |
 | 1983 | Convicted and sentenced to death, later commuted to life |
 
-## References
+
 
 [^1]: Wikipedia, "Lam Kor-wan" - https://en.wikipedia.org/wiki/Lam_Kor-wan
 
@@ -49,3 +49,6 @@ The case has been cited in retrospective reporting about crime, policing, and pu
 ## Additional References
 
 [^2]: Archival Hong Kong press coverage and later summaries of the trial and sentencing (see sources referenced by secondary literature).
+
+
+## References

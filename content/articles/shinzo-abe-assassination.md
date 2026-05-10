@@ -5,7 +5,7 @@ birth: "1954-09-21"
 death: "2022-07-08"
 nationality: "Japan"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_vicinity_of_Kintetsu_Yamato-Saidaiji_station_northern_entrance_on_8th_July_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shinzo_Abe_assassination"
 lastUpdated: "2026-02-26"

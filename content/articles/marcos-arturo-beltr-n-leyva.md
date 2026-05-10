@@ -21,7 +21,7 @@ Duplicate consolidated. See Arturo Beltrán Leyva.
 |------|-------|
 | 2009 | Killed |
 
-## References
+
 
 [^1]: Wikipedia, "Marcos Arturo Beltrán Leyva" - https://en.wikipedia.org/wiki/Marcos_Arturo_Beltr%C3%A1n_Leyva
 
@@ -51,3 +51,6 @@ Duplicate consolidated. See Arturo Beltrán Leyva.
 
 - Arturo Beltrán Leyva
 - Beltrán Leyva Organization
+
+
+## References

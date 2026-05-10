@@ -5,7 +5,7 @@ birth: "1914-08-10"
 death: "1998-12-16"
 nationality: "Korean"
 occupation: ["Lawyer", "Women's Rights Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/20/Lee_Tai-young.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Tai-young"
 lastUpdated: "2026-02-21"

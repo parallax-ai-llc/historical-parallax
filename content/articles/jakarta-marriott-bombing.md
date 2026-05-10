@@ -22,7 +22,7 @@ Jemaah Islamiyah car bomb attack on the JW Marriott hotel in Jakarta killed 12 p
 | 2003 | Car bomb killed 12 at Jakarta Marriott |
 | 2009 | Second Marriott bombing killed seven more |
 
-## References
+
 
 [^1]: Wikipedia, "Jakarta Marriott Bombing" - https://en.wikipedia.org/wiki/Jakarta_Marriott_Bombing
 
@@ -49,3 +49,6 @@ Jemaah Islamiyah car bomb attack on the JW Marriott hotel in Jakarta killed 12 p
 ## Notes
 
 This entry provides a factual, high-level summary and does not include graphic detail.
+
+
+## References

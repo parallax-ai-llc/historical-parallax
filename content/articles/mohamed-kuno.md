@@ -21,7 +21,7 @@ Al-Shabaab commander who masterminded the Garissa University massacre.
 |------|-------|
 | 2016 | Killed by security forces |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Kuno" - https://en.wikipedia.org/wiki/Mohamed_Kuno
 
@@ -50,3 +50,6 @@ Al-Shabaab commander who masterminded the Garissa University massacre.
 
 - As with many militant profiles, biographical details are limited and may differ across sources.
 - For a fuller chronology and naming/alias details, consult the linked reference and its citations.
+
+
+## References

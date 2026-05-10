@@ -23,7 +23,7 @@ Ugandan cult leader who co-founded the Movement for the Restoration of the Ten C
 | 2000 | Predicted end of world on March 17 |
 | 2000 | Ordered followers locked in church and burned; 778+ killed |
 
-## References
+
 
 [^1]: Wikipedia, "Joseph Kibweteere" - https://en.wikipedia.org/wiki/Joseph_Kibweteere
 
@@ -49,3 +49,6 @@ The case is frequently referenced in discussions of:
 - Coercive authority structures in closed groups
 - The difficulty of establishing facts immediately after mass-casualty incidents
 
+
+
+## References

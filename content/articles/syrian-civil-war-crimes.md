@@ -23,7 +23,7 @@ Systematic war crimes by the Assad regime during the Syrian Civil War including 
 | 2013 | Ghouta chemical attack |
 | 2017 | Khan Shaykhun chemical attack |
 
-## References
+
 
 [^1]: Wikipedia, "Syrian Civil War Crimes" - https://en.wikipedia.org/wiki/Syrian_Civil_War_Crimes
 
@@ -61,3 +61,6 @@ While Syria is not a party to the Rome Statute, accountability has been pursued 
 ## Notes on Terminology
 
 “War crimes” is a legal term that depends on fact-finding and judicial standards. Many public reports describe alleged crimes; definitive legal conclusions generally require court judgments or similarly authoritative determinations.
+
+
+## References

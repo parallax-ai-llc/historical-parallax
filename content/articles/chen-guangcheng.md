@@ -24,7 +24,7 @@ Blind Chinese activist who escaped house arrest and fled to the US embassy in Be
 | 2012 | Began work and study in the United States (public-interest advocacy and speaking) |
 | 2016 | Continued activism from abroad, commenting on human rights issues in China |
 
-## References
+
 
 [^1]: Wikipedia, "Chen Guangcheng" - https://en.wikipedia.org/wiki/Chen_Guangcheng
 
@@ -55,3 +55,6 @@ High-level, commonly cited themes associated with Chen Guangcheng include:
 - **Symbolic figure**: Often cited as a symbol of grassroots rights defense in authoritarian contexts.
 - **International attention**: His case drew sustained media coverage and public statements by governments and NGOs.
 - **Domestic constraints**: The contours of his experience are frequently used to illustrate the limits of legal remedy and civic space for dissidents within China.
+
+
+## References

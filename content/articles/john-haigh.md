@@ -18,7 +18,7 @@ Already covered as John George Haigh.
 |------|-------|
 | 1909 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Identity Note
@@ -71,3 +71,6 @@ Haigh was convicted of murder and was executed in 1949. His case remains a notab
 ## Legacy
 
 The case is frequently referenced in true‑crime literature as an illustration of both criminal ingenuity and the limits of concealment when investigators pursue financial trails and corroborating testimony.
+
+
+## References

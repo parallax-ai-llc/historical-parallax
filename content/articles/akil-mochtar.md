@@ -22,7 +22,7 @@ Former chief justice of Indonesia's Constitutional Court convicted of accepting 
 | 2013 | Caught by anti-corruption commission accepting bribes |
 | 2014 | Sentenced to life imprisonment for corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Akil Mochtar" - https://en.wikipedia.org/wiki/Akil_Mochtar
 
@@ -57,3 +57,6 @@ In Indonesia, election disputes can determine who controls local administrations
 ## Aftereffects (general)
 
 High-profile judicial corruption cases commonly lead to tighter disclosure rules, ethics councils, and changes to appointment or supervision mechanisms. Coverage of the Mochtar case is often framed as a turning point in public expectations for judicial accountability.
+
+
+## References

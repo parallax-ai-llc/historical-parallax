@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1958 | See Xu Jiayin |
 
-## References
+
 
 [^1]: Wikipedia, "Xu Jiayin duplicate" - https://en.wikipedia.org/wiki/Xu_Jiayin_duplicate
 
@@ -52,3 +52,6 @@ Duplicate records like this can be created by:
 ## References (additional)
 
 [^2]: Wikipedia, "Hui Ka Yan" - https://en.wikipedia.org/wiki/Hui_Ka_Yan
+
+
+## References

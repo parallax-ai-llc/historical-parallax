@@ -43,7 +43,7 @@ While specific, verifiable details about Stanford’s organization are limited i
 
 The linked Wikipedia page in the frontmatter has intermittently been unavailable or redirected, and biographical details for local gang figures are often sparse. Treat summary claims as high-level context unless corroborated by primary reporting or court records.
 
-## References
+
 
 [^1]: Wikipedia, "Herbert Stanford" - https://en.wikipedia.org/wiki/Herbert_Stanford
 
@@ -51,3 +51,6 @@ The linked Wikipedia page in the frontmatter has intermittently been unavailable
 
 - Organized crime in Trinidad and Tobago
 - Laventille (Port of Spain)
+
+
+## References

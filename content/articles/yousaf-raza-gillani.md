@@ -22,7 +22,7 @@ Pakistani prime minister who was convicted of contempt of court for failing to p
 | 2008 | Became prime minister |
 | 2012 | Convicted of contempt; disqualified |
 
-## References
+
 
 [^1]: Wikipedia, "Yousaf Raza Gillani" - https://en.wikipedia.org/wiki/Yousaf_Raza_Gillani
 
@@ -52,3 +52,6 @@ His disqualification is frequently cited as an example of how court decisions ca
 ## Notes
 
 This article summarizes a widely reported constitutional dispute. For precise holdings and legal reasoning, consult the relevant Supreme Court judgments and the text of the disqualification decision.
+
+
+## References

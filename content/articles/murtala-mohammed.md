@@ -22,7 +22,7 @@ Nigerian military leader who committed atrocities during the civil war including
 | 1967 | Led division responsible for Asaba massacre during Biafran War |
 | 1976 | Assassinated in a failed coup attempt |
 
-## References
+
 
 [^1]: Wikipedia, "Murtala Mohammed" - https://en.wikipedia.org/wiki/Murtala_Mohammed
 
@@ -52,3 +52,6 @@ This section adds high-level factual context to the article on **murtala mohamme
 ### Related topics
 - Comparable events or figures in the same region or time period.
 - Institutions, laws, or movements that shaped the topic or were shaped by it.
+
+
+## References

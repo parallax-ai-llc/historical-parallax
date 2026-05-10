@@ -22,7 +22,7 @@ American kidnapper who held Colleen Stan captive as a sex slave for 7 years, kee
 | 1977 | Kidnapped Colleen Stan |
 | 1985 | Convicted of kidnapping |
 
-## References
+
 
 [^1]: Wikipedia, "Colleen Stan Kidnapper Cameron Hooker" - https://en.wikipedia.org/wiki/Colleen_Stan_Kidnapper_Cameron_Hooker
 
@@ -49,3 +49,6 @@ The Hooker–Stan case is frequently referenced in discussions of captivity crim
 
 - Captivity can be maintained through both confinement and coercive control.
 - Victim cooperation and testimony are often central to prosecution.
+
+
+## References

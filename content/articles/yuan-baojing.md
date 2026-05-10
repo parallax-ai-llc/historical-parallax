@@ -22,7 +22,7 @@ Chinese businessman who ran a financial fraud empire and ordered the murder of a
 | 2003 | Ordered murder of man threatening to expose financial crimes |
 | 2006 | Executed for murder and fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Yuan Baojing" - https://en.wikipedia.org/wiki/Yuan_Baojing
 
@@ -50,3 +50,6 @@ High-level features of the criminal process frequently discussed by analysts inc
 ## Notes
 
 This article provides only a brief summary. For confirmed details (company names, specific charges, court holdings, and procedural history), consult court reporting and reputable investigative journalism.
+
+
+## References

@@ -21,7 +21,7 @@ Australian pilot convicted of murder in Papua New Guinea in a high-profile case.
 |------|-------|
 | 2007 | Convicted of murder in PNG |
 
-## References
+
 
 [^1]: Wikipedia, "Robert Gillbanks" - https://en.wikipedia.org/wiki/Robert_Gillbanks
 
@@ -55,3 +55,6 @@ Australian pilot convicted of murder in Papua New Guinea in a high-profile case.
 ## Further Reading
 
 - Wikipedia (overview): https://en.wikipedia.org/wiki/Robert_Gillbanks
+
+
+## References

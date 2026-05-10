@@ -49,7 +49,7 @@ He is the son of Gambino boss John Gotti (“The Teflon Don”) and became a pro
 - Organized-crime history is frequently reconstructed from **court filings, trial testimony, investigative reporting, and law-enforcement statements**.
 - Terms like “boss,” “acting boss,” and “underboss” are sometimes used differently by journalists, investigators, and insiders; the same figure may be described with different roles across sources.
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, “John A. Gotti,” *Wikipedia, The Free Encyclopedia* (accessed 2026-02-26): https://en.wikipedia.org/wiki/John_A._Gotti
 [^3]: U.S. Department of Justice / federal court reporting on RICO and racketeering cases (general background): https://www.justice.gov/criminal/criminal-vc/overview-racketeer-influenced-and-corrupt-organizations-rico-act
@@ -64,3 +64,6 @@ Gotti Jr. faced multiple prosecutions and trials related to racketeering and oth
 ## Public perception
 
 Because his profile is inseparable from his father’s notoriety, coverage often blends family legacy, law enforcement narratives, and court outcomes. As with many organized‑crime cases, distinguishing allegations from proven facts depends on the specific case record.
+
+
+## References

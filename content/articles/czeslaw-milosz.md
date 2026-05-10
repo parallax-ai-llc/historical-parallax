@@ -24,7 +24,7 @@ Polish-American poet who received the Nobel Prize in Literature in 1980. His wor
 | 1980 | Receives Nobel Prize in Literature |
 | 2004 | Dies in Krakow |
 
-## References
+
 
 [^1]: Wikipedia, "Czeslaw Milosz" - https://en.wikipedia.org/wiki/Czeslaw_Milosz
 
@@ -57,3 +57,6 @@ The 1980 Nobel Prize citation and subsequent reception helped establish him as a
 - Polish literature
 - Nobel Prize in Literature
 - Literature of exile
+
+
+## References

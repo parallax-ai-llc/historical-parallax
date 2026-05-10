@@ -21,7 +21,7 @@ Internet entrepreneur Takafumi Horie's Livedoor was found to have inflated earni
 |------|-------|
 | 2006 | Fraud exposed; Horie arrested |
 
-## References
+
 
 [^1]: Wikipedia, "Livedoor Scandal" - https://en.wikipedia.org/wiki/Livedoor_Scandal
 
@@ -63,3 +63,6 @@ Internet entrepreneur Takafumi Horie's Livedoor was found to have inflated earni
 - Securities fraud
 - Corporate governance
 
+
+
+## References

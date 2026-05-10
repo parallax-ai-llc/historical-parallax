@@ -24,7 +24,7 @@ Croatian fascist dictator who led the Independent State of Croatia as a Nazi pup
 | 1945 | Fled to Argentina via ratlines |
 | 1959 | Died in Madrid from assassination attempt wounds |
 
-## References
+
 
 [^1]: Wikipedia, "Ante Pavelić" - https://en.wikipedia.org/wiki/Ante_Paveli%C4%87
 
@@ -50,3 +50,6 @@ Pavelić is widely regarded as a central perpetrator in genocide and mass atroci
 - Ustasha movement
 - Jasenovac concentration camp
 - Axis occupation and collaboration in Yugoslavia
+
+
+## References

@@ -22,7 +22,7 @@ Belgian terrorist who detonated a suicide bomb at Brussels Airport killing 16 pe
 | 2016 | Detonated suicide bomb at Brussels Airport |
 | 2016 | Died in the attack |
 
-## References
+
 
 [^1]: Wikipedia, "Ibrahim El Bakraoui" - https://en.wikipedia.org/wiki/Ibrahim_El_Bakraoui
 
@@ -62,3 +62,6 @@ Major attacks of this kind commonly lead to:
 
 - 2016 Brussels bombings
 - Counterterrorism in Europe
+
+
+## References

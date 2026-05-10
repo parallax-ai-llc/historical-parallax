@@ -22,7 +22,7 @@ French ISIS propagandist who recorded the audio claim of responsibility for the 
 | 2015 | Recorded ISIS claim for Paris attacks |
 | 2019 | Killed in coalition airstrike in Baghouz |
 
-## References
+
 
 [^1]: Wikipedia, "Fabien Clain" - https://en.wikipedia.org/wiki/Fabien_Clain
 
@@ -50,3 +50,6 @@ French ISIS propagandist who recorded the audio claim of responsibility for the 
 ## References (Additional)
 
 [^2]: See broader background on ISIS media strategy and post-2015 European counterterrorism reporting as summarized in reputable news coverage and the Wikipedia citations.
+
+
+## References

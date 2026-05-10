@@ -23,7 +23,7 @@ Japanese serial killer who used suicide pact websites to lure three victims in 2
 | 2007 | Sentenced to death |
 | 2009 | Executed by hanging |
 
-## References
+
 
 [^1]: Wikipedia, "Hiroshi Maeue" - https://en.wikipedia.org/wiki/Hiroshi_Maeue
 
@@ -48,3 +48,6 @@ The case is often discussed alongside Japan’s broader public-health concerns a
 ## Notes
 
 When writing about self-harm-related contexts, many sources emphasize avoiding detailed method descriptions and focusing on prevention and support.
+
+
+## References

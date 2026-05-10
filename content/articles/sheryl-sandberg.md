@@ -5,7 +5,7 @@ birth: "1969-08-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Sheryl_Sandberg_WEF_2013_%28crop_by_James_Tamim%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sheryl_Sandberg"
 lastUpdated: "2026-02-21"

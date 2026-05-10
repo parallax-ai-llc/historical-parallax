@@ -23,7 +23,7 @@ Jackie Joyner-Kersee holds the heptathlon world record of 7,291 points set in 19
 | 1992 | Won heptathlon gold at Barcelona |
 | 2001 | Named Greatest Female Athlete of 20th Century |
 
-## References
+
 
 [^1]: Wikipedia, "Jackie Joyner-Kersee" - https://en.wikipedia.org/wiki/Jackie_Joyner-Kersee
 
@@ -48,3 +48,6 @@ After her peak competitive years, Joyner-Kersee became associated with youth and
 - Heptathlon world records (women)
 - Long jump (track and field)
 - United States Olympic & Paralympic Team history (general)
+
+
+## References

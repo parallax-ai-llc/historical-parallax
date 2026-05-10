@@ -38,7 +38,7 @@ Militant groups from the period have been subject to later scrutiny, bans, and t
 | 1981 | Led Babbar Khalsa separatist militant operations |
 | 1992 | Killed in police encounter in Punjab |
 
-## References
+
 
 [^1]: Wikipedia, "Sukhdev Singh Babbar" - https://en.wikipedia.org/wiki/Sukhdev_Singh_Babbar
 
@@ -50,3 +50,6 @@ In Indian policing contexts, the phrase “police encounter” is commonly used 
 
 - **Separatism**: Political advocacy for secession or creation of a new state.
 - **Insurgency / counterinsurgency**: Armed rebellion and the state’s response to suppress it.
+
+
+## References

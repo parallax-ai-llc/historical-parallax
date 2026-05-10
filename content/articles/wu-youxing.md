@@ -26,7 +26,7 @@ Wu Youxing was a Ming Dynasty physician who proposed that epidemic diseases are 
 | 1645 | Continued treating epidemic patients |
 | 1652 | Died in China |
 
-## References
+
 
 [^1]: Wikipedia, "Wu Youxing" - https://en.wikipedia.org/wiki/Wu_Youxing
 
@@ -49,3 +49,6 @@ In the history of Chinese medicine, Wu Youxing is cited as an example of practit
 ## Modern Interpretation
 
 Modern historians of medicine often read Wu Youxing as part of a broader global pattern: epidemics pressure medical systems to become more empirical and more attentive to transmission. His work is therefore used less as a claim of "modern germ theory" and more as evidence of early reasoning about contagion and specificity.
+
+
+## References

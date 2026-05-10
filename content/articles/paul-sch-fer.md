@@ -24,7 +24,7 @@ German cult leader who founded Colonia Dignidad, a secretive compound in Chile u
 | 2005 | Arrested in Argentina |
 | 2010 | Died in Chilean prison |
 
-## References
+
 
 [^1]: Wikipedia, "Paul Schäfer" - https://en.wikipedia.org/wiki/Paul_Sch%C3%A4fer
 
@@ -49,3 +49,6 @@ Survivors and human-rights advocates have continued to seek documentation, repar
 - Colonia Dignidad
 - Augusto Pinochet
 - Transitional justice in Chile
+
+
+## References

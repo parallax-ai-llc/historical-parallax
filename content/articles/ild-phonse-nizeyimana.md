@@ -21,7 +21,7 @@ Rwandan military officer convicted of genocide for ordering killings at Butare.
 |------|-------|
 | 2014 | Convicted of genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Ildéphonse Nizeyimana" - https://en.wikipedia.org/wiki/Ild%C3%A9phonse_Nizeyimana
 
@@ -57,3 +57,6 @@ Rwandan military officer convicted of genocide for ordering killings at Butare.
 [^3]: ICTR, Indictment (27 Nov 2000) - (archived link referenced by Wikipedia) https://en.wikipedia.org/wiki/Ild%C3%A9phonse_Nizeyimana
 [^4]: BBC News, "Rwanda queen-killing suspect held" (2009-10-06) - https://www.bbc.com/news/world-africa-4419
 
+
+
+## References

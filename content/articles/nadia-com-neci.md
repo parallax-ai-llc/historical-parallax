@@ -23,7 +23,7 @@ Nadia Comăneci scored the first perfect 10 in Olympic gymnastics at 1976 Montre
 | 1980 | Won two gold at Moscow |
 | 1989 | Defected from Romania |
 
-## References
+
 
 [^1]: Wikipedia, "Nadia Comăneci" - https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci
 
@@ -56,3 +56,6 @@ Comăneci is widely remembered for elevating global attention on women’s gymna
 
 - Béla Károlyi and Márta Károlyi (coaches)
 - Bart Conner (U.S. gymnast; later connected to her personal life and public work)
+
+
+## References

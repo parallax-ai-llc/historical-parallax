@@ -22,7 +22,7 @@ Massive truck bombing in Mogadishu on October 14, 2017 that killed 587 people, m
 | 2017 | Truck bomb killed 587 |
 | 2017 | Al-Shabaab suspected |
 
-## References
+
 
 [^1]: Wikipedia, "Mogadishu Truck Bombing" - https://en.wikipedia.org/wiki/Mogadishu_Truck_Bombing
 
@@ -61,3 +61,6 @@ The bombing is frequently cited as:
 ## Further reading
 
 - Wikipedia overview and citations in the linked entry[^1]
+
+
+## References

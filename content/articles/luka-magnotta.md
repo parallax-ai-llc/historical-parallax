@@ -19,7 +19,7 @@ Luka Magnotta was a Canadian murderer who killed and dismembered Chinese interna
 |------|-------|
 | 1982 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Luka Magnotta".
 
@@ -62,3 +62,6 @@ Luka Magnotta was a Canadian murderer who killed and dismembered Chinese interna
 ## Notes
 - This article summarizes publicly reported facts at a high level and avoids graphic detail.
 - Some biographical details and timelines vary across secondary sources; court records and official reporting are the most reliable.
+
+
+## References

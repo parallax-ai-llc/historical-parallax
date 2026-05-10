@@ -22,7 +22,7 @@ $2 billion in secret government-guaranteed loans were taken out by state-owned c
 | 2016 | Hidden debts discovered |
 | 2023 | Trial of key figures |
 
-## References
+
 
 [^1]: Wikipedia, "Mozambique Hidden Debts" - https://en.wikipedia.org/wiki/Mozambique_Hidden_Debts
 
@@ -53,3 +53,6 @@ The hidden debts episode prompted investigations, criminal cases, and civil liti
 ## Legacy
 
 The hidden debts are frequently cited in governance and development discussions as a case study in sovereign guarantee oversight, public financial management, and the systemic risk created when state-linked entities borrow off-budget.
+
+
+## References

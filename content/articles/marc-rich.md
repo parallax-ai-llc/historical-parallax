@@ -23,7 +23,7 @@ Belgian-born American commodities trader who was indicted for tax evasion and il
 | 2001 | Pardoned by President Clinton on his last day |
 | 2013 | Died in Switzerland |
 
-## References
+
 
 [^1]: Wikipedia, "Marc Rich" - https://en.wikipedia.org/wiki/Marc_Rich
 
@@ -50,3 +50,6 @@ Marc Rich(마크 리치)는 원자재(commodities) 거래로 알려진 트레이
 ## 추가 메모
 
 - 이 문서는 요약 중심으로 작성되어 있습니다. 세부 연표·인용·1차 자료는 추후 보강이 필요할 수 있습니다.
+
+
+## References

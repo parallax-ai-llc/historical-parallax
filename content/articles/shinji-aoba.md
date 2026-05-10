@@ -5,7 +5,7 @@ birth: "1978-05-16"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Arsonist", "Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kyoto_animation_arson_attack_1_20190721.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shinji_Aoba"
 lastUpdated: "2026-02-26"

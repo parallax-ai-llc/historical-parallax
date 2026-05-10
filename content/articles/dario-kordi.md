@@ -24,7 +24,7 @@ Bosnian Croat political leader convicted by the ICTY for his role in planning et
 | 2001 | Convicted of war crimes and crimes against humanity |
 | 2014 | Released after serving sentence |
 
-## References
+
 
 [^1]: Wikipedia, "Dario Kordić" - https://en.wikipedia.org/wiki/Dario_Kordi%C4%87
 
@@ -50,3 +50,6 @@ Bosnian Croat political leader convicted by the ICTY for his role in planning et
 
 ### Related links
 - Use the Wikipedia link in `socialLinks` (if present) as a navigation hub to find additional citations.
+
+
+## References

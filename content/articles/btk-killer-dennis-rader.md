@@ -24,7 +24,7 @@ American serial killer known as BTK (Bind, Torture, Kill) who murdered 10 people
 | 2005 | Arrested after metadata from a floppy disk traced to his church |
 | 2005 | Sentenced to 10 consecutive life terms |
 
-## References
+
 
 [^1]: Wikipedia, "BTK Killer Dennis Rader" - https://en.wikipedia.org/wiki/BTK_Killer_Dennis_Rader
 
@@ -47,3 +47,6 @@ Because the crimes occurred across many incidents and victims, sentencing reflec
 ## Cultural Impact
 
 The BTK case has been referenced in books, documentaries, and fictional works, often as a cautionary story about media attention, public fear, and the limits of traditional investigative techniques before modern forensic tools.
+
+
+## References

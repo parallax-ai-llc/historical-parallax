@@ -21,7 +21,7 @@ Capitol rioter who beat a police officer with a flagpole on January 6.
 |------|-------|
 | 2023 | Convicted of assault |
 
-## References
+
 
 [^1]: Wikipedia, "Peter Stager" - https://en.wikipedia.org/wiki/Peter_Stager
 
@@ -54,3 +54,6 @@ Capitol rioter who beat a police officer with a flagpole on January 6.
 - United States Capitol attack (January 6)
 - Federal criminal procedure (charging, plea, sentencing)
 - Assault on law enforcement / public-order offenses
+
+
+## References

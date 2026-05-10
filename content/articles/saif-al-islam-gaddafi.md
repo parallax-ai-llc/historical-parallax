@@ -24,7 +24,7 @@ Son of Muammar Gaddafi who was charged by the ICC with crimes against humanity f
 | 2015 | Sentenced to death by Libyan court, later released |
 | 2021 | Announced presidential candidacy |
 
-## References
+
 
 [^1]: Wikipedia, "Saif al-Islam Gaddafi" - https://en.wikipedia.org/wiki/Saif_al-Islam_Gaddafi
 
@@ -53,3 +53,6 @@ Legal status and custody claims have changed over time in reporting; readers sho
 
 - Wikipedia (overview)
 - Reputable news and academic references
+
+
+## References

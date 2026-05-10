@@ -22,7 +22,7 @@ FARC dissident leader who controlled major cocaine production areas after reject
 | 2017 | Led FARC dissident faction controlling coca regions |
 | 2022 | Reportedly killed in Venezuela |
 
-## References
+
 
 [^1]: Wikipedia, "Gentil Duarte" - https://en.wikipedia.org/wiki/Gentil_Duarte
 ---
@@ -56,3 +56,6 @@ FARC dissident leader who controlled major cocaine production areas after reject
 
 - 국제기구 보고서(UN 계열, WHO, WFP 등), 인권/분쟁 모니터링, 현장 NGO 브리핑
 - 위성/지도 기반 데이터, OSINT(공개정보 분석), 2차 출처의 교차 검증
+
+
+## References

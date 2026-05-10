@@ -21,7 +21,7 @@ Founder of Greek neo-Nazi party Golden Dawn convicted of leading a criminal orga
 |------|-------|
 | 2020 | Convicted of leading criminal organization |
 
-## References
+
 
 [^1]: Wikipedia, "Nikos Michaloliakos" - https://en.wikipedia.org/wiki/Nikos_Michaloliakos
 
@@ -53,3 +53,6 @@ Founder of Greek neo-Nazi party Golden Dawn convicted of leading a criminal orga
 ## References (additional)
 
 [^2]: Wikipedia (lead + infobox sections), accessed 2026-03-04 - https://en.wikipedia.org/wiki/Nikos_Michaloliakos
+
+
+## References

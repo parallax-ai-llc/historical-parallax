@@ -5,7 +5,7 @@ birth: "1879-02-23"
 death: "1935-05-15"
 nationality: "Russian-Ukrainian"
 occupation: ["Painter", "Art Theorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Casimir_Malevich_photo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kazimir_Malevich"
 lastUpdated: "2026-02-21"

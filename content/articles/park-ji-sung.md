@@ -23,7 +23,7 @@ Park Ji-sung was the first Asian to win the Champions League (2008 with Manchest
 | 2005 | Joined Manchester United |
 | 2008 | Won Champions League |
 
-## References
+
 
 [^1]: Wikipedia, "Park Ji-sung" - https://en.wikipedia.org/wiki/Park_Ji-sung
 
@@ -50,3 +50,6 @@ After leaving top-level play, Park remained involved in football through ambassa
 ## Further Reading
 
 Match records and tournament summaries from FIFA/UEFA archives, plus Manchester United season reviews, are commonly used to cross-check appearances and honors.
+
+
+## References

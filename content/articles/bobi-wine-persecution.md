@@ -22,7 +22,7 @@ Ugandan pop star turned opposition leader Robert Kyagulanyi (Bobi Wine) was beat
 | 2017 | Entered politics |
 | 2021 | Election marred by violence |
 
-## References
+
 
 [^1]: Wikipedia, "Bobi Wine Persecution" - https://en.wikipedia.org/wiki/Bobi_Wine_Persecution
 
@@ -80,3 +80,6 @@ Some reporting about Ugandan elections has highlighted the role of:
 ## International reactions
 
 Foreign governments and multilateral organizations have periodically issued statements urging restraint, due process, and protection of political rights. Such statements rarely change domestic power balances quickly, but they can shape diplomatic relationships and the legitimacy narratives used by both government and opposition.
+
+
+## References

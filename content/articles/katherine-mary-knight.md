@@ -23,7 +23,7 @@ Australian murderer who killed and skinned her partner John Price in 2000, then 
 | 2001 | Convicted of murder |
 | 2001 | Sentenced to life without possibility of parole |
 
-## References
+
 
 [^1]: Wikipedia, "Katherine Mary Knight" - https://en.wikipedia.org/wiki/Katherine_Mary_Knight
 
@@ -59,3 +59,6 @@ Australian murderer who killed and skinned her partner John Price in 2000, then 
 
 - The case has been covered in documentaries and true-crime media, sometimes raising questions about privacy, sensationalism, and trauma to surviving families.
 - Responsible summaries typically avoid unnecessary graphic detail and prioritize verifiable facts, the victim’s dignity, and legal outcomes.
+
+
+## References

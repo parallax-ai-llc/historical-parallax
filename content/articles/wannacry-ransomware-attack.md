@@ -20,7 +20,7 @@ North Korean-attributed ransomware attack infected 200,000 computers across 150 
 |------|-------|
 | 2017 | 200,000 computers infected worldwide |
 
-## References
+
 
 [^1]: Wikipedia, "WannaCry Ransomware Attack" - https://en.wikipedia.org/wiki/WannaCry_Ransomware_Attack
 
@@ -62,3 +62,6 @@ Multiple governments and public reporting have attributed WannaCry to North Kore
 
 [^2]: Microsoft Security Bulletin guidance on MS17-010 (as summarized in public reporting).
 [^3]: Public government statements and reporting on attribution (see Wikipedia summary).
+
+
+## References

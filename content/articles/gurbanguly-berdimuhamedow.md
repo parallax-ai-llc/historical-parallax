@@ -23,7 +23,7 @@ Turkmen president who succeeded Niyazov and created his own personality cult. He
 | 2015 | Had gold statue of himself on horseback erected |
 | 2022 | Handed presidency to son Serdar |
 
-## References
+
 
 [^1]: Wikipedia, "Gurbanguly Berdimuhamedow" - https://en.wikipedia.org/wiki/Gurbanguly_Berdimuhamedow
 
@@ -48,3 +48,6 @@ Some of the most unusual symbolic measures associated with modern Turkmenistanâ€
 ## Succession (2022)
 
 The 2022 transfer of the presidency to Serdar Berdimuhamedow is commonly interpreted as a managed transition that preserved regime continuity. Berdimuhamedow retained senior positions and influence after leaving the presidency, underscoring the role of elite control in Turkmenistanâ€™s political system.
+
+
+## References

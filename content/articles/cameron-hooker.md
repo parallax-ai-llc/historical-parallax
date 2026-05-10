@@ -23,7 +23,7 @@ American kidnapper known as the 'Girl in the Box' case who kidnapped Colleen Sta
 | 1984 | Stan escaped with help from Hooker's wife |
 | 1985 | Convicted; sentenced to 104 years |
 
-## References
+
 
 [^1]: Wikipedia, "Cameron Hooker" - https://en.wikipedia.org/wiki/Cameron_Hooker
 
@@ -48,3 +48,6 @@ American kidnapper known as the 'Girl in the Box' case who kidnapped Colleen Sta
 - Many later summaries also note the role of third-party intervention in enabling escape.
 - The case remains primarily documented through court outcomes and secondary reporting rather than personal memoir by the perpetrator.
 - In criminal-psychology overviews, it is sometimes discussed alongside other prolonged-captivity cases, with care to avoid sensationalism.
+
+
+## References

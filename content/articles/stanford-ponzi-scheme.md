@@ -22,7 +22,7 @@ Allen Stanford ran a $7 billion Ponzi scheme through certificates of deposit at 
 | 2009 | FBI investigation |
 | 2012 | Sentenced to 110 years |
 
-## References
+
 
 [^1]: Wikipedia, "Stanford Ponzi Scheme" - https://en.wikipedia.org/wiki/Stanford_Ponzi_Scheme
 
@@ -54,3 +54,6 @@ Large cases often involve:
 - receiver-led recovery efforts,
 - victim claims processes, and
 - long timelines for restitution due to litigation and complex asset tracing.
+
+
+## References

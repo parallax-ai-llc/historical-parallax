@@ -5,7 +5,7 @@ birth: "2012-12-14"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Police_at_Sandy_Hook.PNG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_Massacre"
 lastUpdated: "2026-02-26"

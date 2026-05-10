@@ -3,6 +3,7 @@ name: "Seth Rollins"
 birth: "1986-05-28"
 nationality: "American"
 occupation: ["Professional Wrestler"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Seth_Rollins_July_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seth_Rollins"
 lastUpdated: "2026-03-12"

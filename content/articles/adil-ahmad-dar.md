@@ -22,7 +22,7 @@ Kashmiri suicide bomber who drove an explosives-laden vehicle into a CRPF convoy
 | 2019 | Pulwama suicide bombing |
 | 2019 | Died in attack |
 
-## References
+
 
 [^1]: Wikipedia, "Adil Ahmad Dar" - https://en.wikipedia.org/wiki/Adil_Ahmad_Dar
 
@@ -49,3 +49,6 @@ Dar is primarily noted for his role as the suicide attacker in the 2019 Pulwama 
 
 - Pulwama attack
 - Jaish-e-Mohammed
+
+
+## References

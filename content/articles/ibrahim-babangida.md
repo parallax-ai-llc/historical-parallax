@@ -23,7 +23,7 @@ Nigerian military dictator who annulled the June 12, 1993 election—considered 
 | 1993 | Annulled June 12 presidential election |
 | 1993 | Stepped down amid outrage |
 
-## References
+
 
 [^1]: Wikipedia, "Ibrahim Babangida" - https://en.wikipedia.org/wiki/Ibrahim_Babangida
 
@@ -50,3 +50,6 @@ When using this entry as a starting point, prioritize (1) contemporaneous primar
 ## Reading guide
 
 When using this entry as a starting point, prioritize (1) contemporaneous primary material, (2) reputable secondary syntheses, and (3) cross-checking across independent outlets. This helps reduce errors from mistranslation, name collisions, and evolving narratives.
+
+
+## References

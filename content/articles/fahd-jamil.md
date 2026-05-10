@@ -22,7 +22,7 @@ Jordanian-Brazilian drug lord who controlled cocaine trafficking routes through 
 | 1990 | Controlled cocaine routes on Brazil-Paraguay border |
 | 2000 | Arrested and convicted of drug trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Fahd Jamil" - https://en.wikipedia.org/wiki/Fahd_Jamil
 
@@ -50,3 +50,6 @@ Jordanian-Brazilian drug lord who controlled cocaine trafficking routes through 
 ## References (Additional)
 
 [^2]: See the Wikipedia article’s citations for pointers to Brazilian press coverage and case summaries.
+
+
+## References

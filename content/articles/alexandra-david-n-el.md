@@ -24,7 +24,7 @@ Alexandra David-Néel was the first European woman to visit Lhasa, Tibet, in 192
 | 1937 | Returned to live in France |
 | 1969 | Died at age 100 |
 
-## References
+
 
 [^1]: Wikipedia, "Alexandra David-Néel" - https://en.wikipedia.org/wiki/Alexandra_David-N%C3%A9el
 
@@ -63,3 +63,6 @@ She wrote numerous books and articles, combining travel narrative with commentar
 ## Legacy
 
 David-Néel remains a notable figure in the history of exploration and cross-cultural writing. Modern discussions often revisit her work with a dual lens: recognizing her unusual depth of engagement for the era, while also examining how early 20th-century European frames shaped what was emphasized and how cultures were described.
+
+
+## References

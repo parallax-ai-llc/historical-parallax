@@ -22,7 +22,7 @@ Beijing imposed a national security law on Hong Kong, effectively ending its aut
 | 2019 | Mass protests began |
 | 2020 | National Security Law imposed |
 
-## References
+
 
 [^1]: Wikipedia, "Hong Kong Crackdown" - https://en.wikipedia.org/wiki/Hong_Kong_Crackdown
 
@@ -51,3 +51,6 @@ Many civil-society organizations disbanded or reduced activities, and several ou
 ## Notes
 
 Arrest totals and specific case outcomes can change over time as court proceedings conclude and reporting updates.
+
+
+## References

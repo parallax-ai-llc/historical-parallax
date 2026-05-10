@@ -22,7 +22,7 @@ Former Abia State governor convicted of fraud involving 7.1 billion naira in sta
 | 2019 | Convicted of fraud involving 7.1 billion naira |
 | 2020 | Conviction overturned on procedural grounds |
 
-## References
+
 
 [^1]: Wikipedia, "Orji Uzor Kalu" - https://en.wikipedia.org/wiki/Orji_Uzor_Kalu
 
@@ -58,3 +58,6 @@ Nigeria’s anti-corruption architecture includes agencies and courts tasked wit
 ## Media and public debate
 
 Public commentary around the case has typically focused on two competing themes: (1) the importance of accountability for public funds, and (2) due process concerns when convictions are challenged on jurisdictional or procedural grounds. This tension is common in corruption cases where political careers continue alongside ongoing legal disputes.
+
+
+## References

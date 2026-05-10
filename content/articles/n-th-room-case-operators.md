@@ -24,7 +24,7 @@ Cho Ju-bin operated the 'Nth Room' on Telegram, blackmailing women and minors in
 | 2020 | Convicted and sentenced to 40 years |
 | 2021 | Additional sentences for co-conspirators |
 
-## References
+
 
 [^1]: Wikipedia, "N-th Room Case Operators" - https://en.wikipedia.org/wiki/N-th_Room_Case_Operators
 
@@ -48,3 +48,6 @@ Cho Ju-bin operated the 'Nth Room' on Telegram, blackmailing women and minors in
 ## Notes
 
 This article summarizes a complex case involving multiple perpetrators and victims. Any numeric claims (subscriber counts, sentence lengths, victim counts) should be verified against court records and authoritative reporting.
+
+
+## References

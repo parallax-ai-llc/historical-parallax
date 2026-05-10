@@ -23,7 +23,7 @@ Venezuelan serial killer and cannibal known as the People-Eater of San Cristóba
 | 1999 | Arrested after human remains found in his camp |
 | 2000 | Declared mentally incompetent |
 
-## References
+
 
 [^1]: Wikipedia, "Dorángel Vargas" - https://en.wikipedia.org/wiki/Dor%C3%A1ngel_Vargas
 
@@ -48,3 +48,6 @@ The case became widely known in Venezuela due to the graphic nature of the alleg
 ## Notes
 
 Because details are largely drawn from media and court reporting, summaries of the case can vary by source.
+
+
+## References

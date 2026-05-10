@@ -21,7 +21,7 @@ The 'Monster with 21 Faces' kidnapped Glico president and poisoned candy on stor
 |------|-------|
 | 1984 | Glico president kidnapped; candy poisoned |
 
-## References
+
 
 [^1]: Wikipedia, "Glico-Morinaga Case" - https://en.wikipedia.org/wiki/Glico-Morinaga_Case
 
@@ -59,3 +59,6 @@ The 'Monster with 21 Faces' kidnapped Glico president and poisoned candy on stor
 
 - **Identity and membership:** Who composed the group and how many people were involved remains unclear.
 - **Motivation beyond money:** Whether the campaign was purely financial or also intended as notoriety/retaliation is still debated in retrospective commentary.
+
+
+## References

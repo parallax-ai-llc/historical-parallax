@@ -21,7 +21,7 @@ White mobs destroyed the prosperous Black neighborhood of Greenwood in Tulsa, Ok
 |------|-------|
 | 1921 | Black Wall Street destroyed |
 
-## References
+
 
 [^1]: Wikipedia, "Tulsa Race Massacre" - https://en.wikipedia.org/wiki/Tulsa_Race_Massacre
 
@@ -59,3 +59,6 @@ The centennial in 2021 prompted expanded public programming, memorialization eff
 ## References (Expanded)
 
 [^2]: State and local commission materials and centennial resources (see Wikipedia references for leads and citations).
+
+
+## References

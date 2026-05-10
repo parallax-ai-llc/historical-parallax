@@ -22,7 +22,7 @@ Burkinabè general who led a failed 2015 coup attempt and was implicated in Sank
 | 2015 | Led failed coup attempt by presidential security forces |
 | 2022 | Sentenced to life for Sankara's assassination |
 
-## References
+
 
 [^1]: Wikipedia, "Gilbert Diendéré" - https://en.wikipedia.org/wiki/Gilbert_Diend%C3%A9r%C3%A9
 
@@ -48,3 +48,6 @@ The reported life sentences underscore how coup activity and political assassina
 - Coups during transitions and contested elections
 - Transitional justice for historical assassinations
 - Regional and international pressure shaping outcomes
+
+
+## References

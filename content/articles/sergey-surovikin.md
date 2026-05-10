@@ -5,7 +5,7 @@ birth: "1966-10-11"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Military Commander"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sergey_Surovikin_%282021_photomontage%29_%284x5_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergey_Surovikin"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Russian general known as 'General Armageddon' who commanded forces in Ukraine an
 |------|-------|
 | 2022 | Commanded Russian forces in Ukraine |
 
-## References
+
 
 [^1]: Wikipedia, "Sergey Surovikin" - https://en.wikipedia.org/wiki/Sergey_Surovikin
 
@@ -75,3 +75,6 @@ These are descriptive themes in public analysis rather than claims that any sing
 - Russian military intervention in the Syrian civil war
 - Russian invasion of Ukraine (command structure and campaign phases)
 - Wagner Group mutiny (June 2023) and its implications for Russian security institutions
+
+
+## References

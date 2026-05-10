@@ -21,7 +21,7 @@ Brazilian military police stormed Carandiru Penitentiary killing 111 inmates to 
 |------|-------|
 | 1992 | Police killed 111 inmates |
 
-## References
+
 
 [^1]: Wikipedia, "Carandiru Massacre 1992" - https://en.wikipedia.org/wiki/Carandiru_Massacre_1992
 
@@ -57,3 +57,6 @@ Brazilian military police stormed Carandiru Penitentiary killing 111 inmates to 
 - Prison riots and mass-casualty incidents
 - Police accountability and use-of-force policy
 - Brazilian criminal justice and prison reform debates
+
+
+## References

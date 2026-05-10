@@ -24,7 +24,7 @@ Alexei Abrikosov shared the 2003 Nobel Prize for pioneering work on superconduct
 | 2003 | Nobel Prize |
 | 2017 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Alexei Abrikosov" - https://en.wikipedia.org/wiki/Alexei_Abrikosov
 
@@ -59,3 +59,6 @@ Abrikosov’s work is widely cited in:
 ## Legacy
 
 In condensed-matter physics, the term “Abrikosov vortex” remains standard vocabulary. His contributions are often presented as an example of how a relatively compact theoretical insight can unlock an entire class of materials and applications.
+
+
+## References

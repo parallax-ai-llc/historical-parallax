@@ -23,7 +23,7 @@ Aziz Sancar is a Turkish-American biochemist who shared the 2015 Nobel Prize in 
 | 1983 | Cloned photolyase gene |
 | 2015 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Aziz Sancar" - https://en.wikipedia.org/wiki/Aziz_Sancar
 
@@ -49,3 +49,6 @@ Aziz Sancar is a Turkish-American biochemist who shared the 2015 Nobel Prize in 
 
 ## Notes
 
+
+
+## References

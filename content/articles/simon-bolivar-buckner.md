@@ -21,7 +21,7 @@ Force Publique officer who implemented the rubber terror system of hand-chopping
 |------|-------|
 | 1891 | Enforced rubber quotas through mutilation |
 
-## References
+
 
 [^1]: Wikipedia, "Simon Bolivar Buckner" - https://en.wikipedia.org/wiki/Simon_Bolivar_Buckner
 
@@ -49,3 +49,6 @@ This article provides a **high-level summary** of a figure associated with colon
 
 - Overviews of the Congo Free State and the rubber regime typically discuss the Force Publique, quota systems, and the reform movement that followed.
 - When available, prioritize works that distinguish between **documented acts**, **allegations**, and **later retellings**.
+
+
+## References

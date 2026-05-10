@@ -21,7 +21,7 @@ American detained in North Korea for tearing up his visa on arrival.
 |------|-------|
 | 2014 | Released from North Korean detention |
 
-## References
+
 
 [^1]: Wikipedia, "Matthew Miller" - https://en.wikipedia.org/wiki/Matthew_Miller
 
@@ -49,3 +49,6 @@ American detained in North Korea for tearing up his visa on arrival.
 ## Further Reading
 
 - Wikipedia provides a high-level overview and links to contemporaneous news coverage: https://en.wikipedia.org/wiki/Matthew_Miller
+
+
+## References

@@ -22,7 +22,7 @@ Former President of Sierra Leone whose government mismanaged the Ebola response 
 | 2007 | Became President |
 | 2018 | Corruption investigations launched |
 
-## References
+
 
 [^1]: Wikipedia, "Ernest Bai Koroma" - https://en.wikipedia.org/wiki/Ernest_Bai_Koroma
 
@@ -55,3 +55,6 @@ Koroma remains a prominent figure in Sierra Leone’s contemporary political his
 - A major global public-health emergency
 - Continuing state-building and reform efforts
 - Intensified public expectations around anti-corruption enforcement
+
+
+## References

@@ -23,7 +23,7 @@ Swedish alpine skier regarded as one of the greatest technical specialists in th
 | 1980 | Won Olympic gold medals in technical events |
 | 1980s | Continued elite performance and set long-standing records |
 
-## References
+
 
 [^1]: Wikipedia, "Ingemar Stenmark" - https://en.wikipedia.org/wiki/Ingemar_Stenmark
 
@@ -48,3 +48,6 @@ In Sweden, Stenmark became a national sports figure whose performances attracted
 ## Legacy
 
 Stenmark’s legacy is often described as a combination of results, style, and aura: an athlete associated with calm execution and repeatable performance under pressure. He remains a central name in historical rankings of alpine skiing.
+
+
+## References

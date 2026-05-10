@@ -22,7 +22,7 @@ Massive insurance fraud where executives created 64,000 fake insurance policies 
 | 1964 | Fraud began with fake policies |
 | 1973 | Fraud exposed by whistleblower |
 
-## References
+
 
 [^1]: Wikipedia, "Equity Funding Corporation" - https://en.wikipedia.org/wiki/Equity_Funding_Corporation
 
@@ -53,3 +53,6 @@ Equity Funding is remembered less for its legitimate business lines than for dem
 - **Scale can hide fabrication** when incentives reward growth over verification.
 - **Systems and data** can become an attack surface when controls are weak.
 - **Audit and compliance** must adapt as recordkeeping becomes more automated.
+
+
+## References

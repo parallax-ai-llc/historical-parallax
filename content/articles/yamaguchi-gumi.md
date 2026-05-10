@@ -23,7 +23,7 @@ Japans largest and most powerful yakuza syndicate with roots dating to 1915. At 
 | 1960s | Expanded under Kazuo Taoka |
 | 2015 | Major split into rival factions |
 
-## References
+
 
 [^1]: Wikipedia, "Yamaguchi-gumi" - https://en.wikipedia.org/wiki/Yamaguchi-gumi
 
@@ -54,3 +54,6 @@ The group’s size and visibility mean that its internal developments are often 
 ## Notes on Sources
 
 Counts of membership and estimates of revenue vary by source and time period, and are often presented in the media as approximations rather than audited figures.
+
+
+## References

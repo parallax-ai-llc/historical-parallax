@@ -23,7 +23,7 @@ Chilean general who overthrew Salvador Allende in a 1973 coup and ruled for 17 y
 | 1998 | Arrested in London on Spanish warrant |
 | 2006 | Died without facing trial |
 
-## References
+
 
 [^1]: Wikipedia, "Augusto Pinochet Military" - https://en.wikipedia.org/wiki/Augusto_Pinochet_Military
 
@@ -48,3 +48,6 @@ Pinochet became a landmark figure in debates about universal jurisdiction after 
 ## Legacy
 
 In Chile and internationally, his legacy remains deeply contested, often framed between narratives of economic change and severe repression, with extensive documentation and ongoing debate about responsibility and remembrance.
+
+
+## References

@@ -21,7 +21,7 @@ Abdelkader Merah convicted of helping his brother plan the 2012 Toulouse and Mon
 |------|-------|
 | 2017 | Convicted of terrorist conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Merah's Brother" - https://en.wikipedia.org/wiki/Mohamed_Merah's_Brother
 
@@ -64,3 +64,6 @@ The case centered on whether this support rose to the level of participation in 
 ## Additional references
 
 [^2]: BBC News and other major outlets (2017–2019), coverage of Abdelkader Merah trial and appeal outcomes (see linked sources from Wikipedia).
+
+
+## References

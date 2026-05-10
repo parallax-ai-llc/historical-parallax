@@ -22,7 +22,7 @@ Former Mayor and Governor of São Paulo placed on Interpol's most wanted list fo
 | 1993 | Became Mayor of São Paulo |
 | 2017 | Convicted of money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Paulo Maluf" - https://en.wikipedia.org/wiki/Paulo_Maluf
 
@@ -49,3 +49,6 @@ The Maluf story is often used to illustrate:
 ## Legacy
 
 In Brazilian political culture, Maluf became a byword for alleged corruption in public life. Even where specific claims were litigated case by case, the broader reputational association has remained durable.
+
+
+## References

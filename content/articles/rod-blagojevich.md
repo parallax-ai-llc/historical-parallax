@@ -5,7 +5,7 @@ birth: "1956-12-10"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/U.S._Department_of_Energy_-_Science_-_389_005_009_%289786312446%29_%28cropped_2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rod_Blagojevich"
 lastUpdated: "2026-02-26"

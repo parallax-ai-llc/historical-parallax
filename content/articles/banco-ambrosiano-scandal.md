@@ -23,7 +23,7 @@ Collapse of Italys largest private bank in 1982 with $1.3 billion missing, linke
 | 1982 | Calvi found dead |
 | 1984 | Vatican Bank paid $244M settlement |
 
-## References
+
 
 [^1]: Wikipedia, "Banco Ambrosiano Scandal" - https://en.wikipedia.org/wiki/Banco_Ambrosiano_Scandal
 
@@ -59,3 +59,6 @@ Collapse of Italys largest private bank in 1982 with $1.3 billion missing, linke
 - Italian financial regulation reforms in the 1980s.
 - P2 investigations and their broader political implications.
 - Modern compliance concepts: beneficial ownership, offshore supervision, and anti–money laundering controls.
+
+
+## References

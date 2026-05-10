@@ -5,7 +5,7 @@ birth: "1850-03-27"
 death: "1942-11-05"
 nationality: "Japanese"
 occupation: ["Government official", "Modernizer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Kiyoura_Keigo_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kiyoura_Keigo"
 lastUpdated: "2026-02-21"

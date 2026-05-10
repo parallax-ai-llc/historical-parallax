@@ -21,7 +21,7 @@ Swedish gang leader convicted of directing gang violence from prison.
 |------|-------|
 | 2020 | Convicted of ordering violence from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Kadir Yusuf" - https://en.wikipedia.org/wiki/Kadir_Yusuf
 
@@ -75,3 +75,6 @@ If additional high-quality sources are added later (court reporting, reputable i
 - A more detailed timeline (dates, courts, outcomes) backed by multiple sources.
 
 For now, the page intentionally stays brief and citation-led to avoid importing rumors or unverifiable details.
+
+
+## References

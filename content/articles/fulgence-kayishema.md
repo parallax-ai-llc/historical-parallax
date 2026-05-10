@@ -22,7 +22,7 @@ Former Rwandan judicial police inspector convicted of genocide for leading attac
 | 1994 | Led attack on Nyange church where Tutsis were sheltering |
 | 2023 | Arrested in South Africa |
 
-## References
+
 
 [^1]: Wikipedia, "Fulgence Kayishema" - https://en.wikipedia.org/wiki/Fulgence_Kayishema
 
@@ -52,3 +52,6 @@ Former Rwandan judicial police inspector convicted of genocide for leading attac
 - 1994 Rwandan genocide and its prosecution
 - International criminal tribunals and successor mechanisms
 - Extradition and cross-border fugitive tracking
+
+
+## References

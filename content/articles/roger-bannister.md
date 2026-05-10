@@ -23,7 +23,7 @@ Roger Bannister ran the first sub-4-minute mile on May 6, 1954, one of the most 
 | 1954 | Defeated John Landy in 'Miracle Mile' |
 | 2018 | Died in Oxford |
 
-## References
+
 
 [^1]: Wikipedia, "Roger Bannister" - https://en.wikipedia.org/wiki/Roger_Bannister
 
@@ -49,3 +49,6 @@ He contributed to clinical practice and leadership in healthcare, and his public
 Bannister’s mile is remembered as a defining milestone in modern athletics.
 The “Miracle Mile” race later in 1954, against Australian runner John Landy, became another famous chapter in mile-running history.
 His story continues to be used as a metaphor for breakthrough achievement in sports and beyond.
+
+
+## References

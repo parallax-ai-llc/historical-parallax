@@ -21,7 +21,7 @@ Dallas police officer who shot and killed her neighbor Botham Jean after enterin
 |------|-------|
 | 2019 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Amber Guyger" - https://en.wikipedia.org/wiki/Amber_Guyger
 
@@ -56,3 +56,6 @@ Dallas police officer who shot and killed her neighbor Botham Jean after enterin
 
 - Police use-of-force cases in the United States
 - Wrong-apartment / mistaken-entry shootings
+
+
+## References

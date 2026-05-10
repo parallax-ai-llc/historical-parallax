@@ -5,7 +5,7 @@ birth: "1964-08-15"
 death: "2004-02-28"
 nationality: "Russia"
 occupation: ["Warlord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/67/Ruslan_Gelayev.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ruslan_Gelayev"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Chechen field commander killed during Georgian border crossing attempt.
 |------|-------|
 | 2004 | Killed near Georgian border |
 
-## References
+
 
 [^1]: Wikipedia, "Ruslan Gelayev" - https://en.wikipedia.org/wiki/Ruslan_Gelayev
 
@@ -51,3 +51,6 @@ Chechen field commander killed during Georgian border crossing attempt.
 
 - Active period: primarily the 1990s–early 2000s (Chechen conflicts).[^1]
 - Region: North Caucasus; later activity reported near the Georgia border region.[^1]
+
+
+## References

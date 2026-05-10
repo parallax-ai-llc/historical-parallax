@@ -21,7 +21,7 @@ Pacific Gas & Electric was convicted of 84 counts of involuntary manslaughter fo
 |------|-------|
 | 2020 | Convicted of 84 counts of manslaughter |
 
-## References
+
 
 [^1]: Wikipedia, "PG&E Criminal Convictions" - https://en.wikipedia.org/wiki/PG%26E_Criminal_Convictions
 
@@ -63,3 +63,6 @@ Pacific Gas & Electric was convicted of 84 counts of involuntary manslaughter fo
 ## Additional References
 
 [^2]: Wikipedia, "2018 Camp Fire" - https://en.wikipedia.org/wiki/Camp_Fire_(2018)
+
+
+## References

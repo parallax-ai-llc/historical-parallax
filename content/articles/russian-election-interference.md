@@ -23,7 +23,7 @@ Russian governments systematic campaign to interfere in the 2016 US presidential
 | 2017 | Mueller investigation launched |
 | 2019 | Mueller report released |
 
-## References
+
 
 [^1]: Wikipedia, "Russian Election Interference" - https://en.wikipedia.org/wiki/Russian_Election_Interference
 
@@ -50,3 +50,6 @@ Russian governments systematic campaign to interfere in the 2016 US presidential
 ## Common Entities Discussed
 
 - Accounts of the 2016 influence campaign often reference the Internet Research Agency (IRA) and Russian military intelligence (GRU) as key alleged actors.
+
+
+## References

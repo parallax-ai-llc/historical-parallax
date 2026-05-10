@@ -22,7 +22,7 @@ Ghanaian president who died in office under mysterious circumstances. His 'Bette
 | 2009 | Became President |
 | 2012 | Died in office |
 
-## References
+
 
 [^1]: Wikipedia, "John Atta Mills" - https://en.wikipedia.org/wiki/John_Atta_Mills
 
@@ -51,3 +51,6 @@ Mills is frequently discussed as part of Ghana's broader record of democratic co
 - National Democratic Congress (Ghana)
 - John Dramani Mahama
 - Politics of Ghana
+
+
+## References

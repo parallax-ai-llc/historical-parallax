@@ -21,7 +21,7 @@ Neighborhood watchman acquitted of murdering unarmed Black teenager Trayvon Mart
 |------|-------|
 | 2013 | Acquitted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "George Zimmerman" - https://en.wikipedia.org/wiki/George_Zimmerman
 
@@ -60,3 +60,6 @@ Neighborhood watchman acquitted of murdering unarmed Black teenager Trayvon Mart
 - Trayvon Martin
 - Self-defense law in the United States
 - Neighborhood watch
+
+
+## References

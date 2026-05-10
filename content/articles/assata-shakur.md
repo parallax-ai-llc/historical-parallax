@@ -21,7 +21,7 @@ Black Liberation Army member who escaped prison and fled to Cuba, on FBI's Most 
 |------|-------|
 | 1979 | Escaped from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Assata Shakur" - https://en.wikipedia.org/wiki/Assata_Shakur
 
@@ -71,3 +71,6 @@ Black Liberation Army member who escaped prison and fled to Cuba, on FBI's Most 
 
 - Shakur, *Assata: An Autobiography* (1987) — widely cited primary account from Shakur’s perspective.
 - Contemporary reporting and official FBI materials are often referenced for chronology and legal-status summaries.
+
+
+## References

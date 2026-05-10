@@ -23,7 +23,7 @@ Hijacking of TWA Flight 847 by Hezbollah on June 14, 1985. The plane was diverte
 | 1985 | Robert Stethem murdered |
 | 1985 | Hostages released after 17 days |
 
-## References
+
 
 [^1]: Wikipedia, "TWA Flight 847 Hijacking" - https://en.wikipedia.org/wiki/TWA_Flight_847_Hijacking
 
@@ -52,3 +52,6 @@ TWA Flight 847 was a 1985 hijacking of a Trans World Airlines passenger flight, 
 - Date/period: see the summary and timeline above.
 - Place: see the summary above.
 - Key actors: see the summary above.
+
+
+## References

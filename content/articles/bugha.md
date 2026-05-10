@@ -21,7 +21,7 @@ Bugha (Kyle Giersdorf) won the Fortnite World Cup in 2019 at age 16, earning $3 
 |------|-------|
 | 2019 | Won Fortnite World Cup at age 16 |
 
-## References
+
 
 [^1]: Wikipedia, "Bugha" - https://en.wikipedia.org/wiki/Bugha
 
@@ -54,3 +54,6 @@ Bugha (Kyle Giersdorf) won the Fortnite World Cup in 2019 at age 16, earning $3 
 ## Notes on Sources
 
 This article is intentionally high-level and sticks to widely documented facts. For up-to-date details (team history, earnings totals, and recent placements), refer to the linked biography and tournament records.[^1]
+
+
+## References

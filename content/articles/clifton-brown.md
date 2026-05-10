@@ -21,7 +21,7 @@ Trinidadian drug trafficker who ran cocaine networks across the Caribbean.
 |------|-------|
 | 2005 | Convicted of drug trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Clifton Brown" - https://en.wikipedia.org/wiki/Clifton_Brown
 
@@ -61,3 +61,6 @@ To turn this into a well-sourced biography entry, a future pass should locate at
 - In which jurisdiction did the 2005 conviction occur (Trinidad and Tobago, another Caribbean jurisdiction, or an overseas court)?
 - What was the sentence (term, fines, forfeitures) associated with the conviction?
 - Are there known co-defendants, associated organizations, or case numbers that can be cited?
+
+
+## References

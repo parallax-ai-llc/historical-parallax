@@ -21,7 +21,7 @@ Oxfam staff hired sex workers including minors in Haiti following the 2010 earth
 |------|-------|
 | 2018 | Scandal exposed by The Times |
 
-## References
+
 
 [^1]: Wikipedia, "Oxfam Haiti Scandal" - https://en.wikipedia.org/wiki/Oxfam_Haiti_Scandal
 
@@ -68,3 +68,6 @@ Oxfam staff hired sex workers including minors in Haiti following the 2010 earth
 
 [^2]: The Times (UK), reporting on allegations involving Oxfam staff in Haiti (2018).
 [^3]: Oxfam public statements and safeguarding reforms following the 2018 reporting.
+
+
+## References

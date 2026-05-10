@@ -5,7 +5,7 @@ birth: "1924-03-07"
 death: "1993-01-22"
 nationality: "Japanese"
 occupation: ["Novelist", "Playwright"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Kinema-Junpo-1967-January-Special-3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kobo_Abe"
 lastUpdated: "2026-02-21"

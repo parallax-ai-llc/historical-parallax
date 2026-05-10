@@ -5,7 +5,7 @@ birth: "1967-02-18"
 death: "Unknown"
 nationality: "Italian"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/%D8%B1%D9%88%D8%A8%D8%B1%D8%AA%D9%88_%D8%A8%D8%A7%D8%AC%D9%88_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Baggio"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Roberto Baggio won the 1993 Ballon d'Or but is remembered for his 1994 WC final 
 | 1993 | Won Ballon d'Or |
 | 1994 | Missed decisive WC final penalty |
 
-## References
+
 
 [^1]: Wikipedia, "Roberto Baggio" - https://en.wikipedia.org/wiki/Roberto_Baggio
 
@@ -60,3 +60,6 @@ Baggio's legacy is often discussed as a contrast between:
 
 - Serie A
 - Italy at the FIFA World Cup
+
+
+## References

@@ -22,7 +22,7 @@ Montagnard resistance leader accused by Vietnam of separatism and terrorism for 
 | 2001 | Led protests against Vietnamese land seizures |
 | 2004 | Vietnam accused him of organizing terrorist attacks |
 
-## References
+
 
 [^1]: Wikipedia, "Kok Ksor" - https://en.wikipedia.org/wiki/Kok_Ksor
 
@@ -51,3 +51,6 @@ Kok Ksor’s prominence reflects broader tensions between centralized developmen
 - Montagnards (Degar)
 - Central Highlands of Vietnam
 - Indigenous rights movements
+
+
+## References

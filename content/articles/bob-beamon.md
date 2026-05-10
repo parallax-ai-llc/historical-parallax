@@ -22,7 +22,7 @@ Bob Beamon shattered the long jump world record with 8.90m at the 1968 Olympics,
 | 1968 | Set world record of 8.90m at Mexico City |
 | 1991 | Record broken by Mike Powell |
 
-## References
+
 
 [^1]: Wikipedia, "Bob Beamon" - https://en.wikipedia.org/wiki/Bob_Beamon
 
@@ -58,3 +58,6 @@ Beamon's Mexico City jump is commonly cited as one of the most dramatic single-e
 ## Common comparisons
 
 Writers often mention Beamon alongside other long-standing athletics records to illustrate how rare it is for a single attempt to create a large discontinuity in world-best progression.
+
+
+## References

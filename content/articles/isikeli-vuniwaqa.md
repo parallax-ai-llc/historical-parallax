@@ -21,7 +21,7 @@ Fijian crime boss involved in drug trafficking and organized crime across the Pa
 |------|-------|
 | 2018 | Arrested for organized crime activities |
 
-## References
+
 
 [^1]: Wikipedia, "Isikeli Vuniwaqa" - https://en.wikipedia.org/wiki/Isikeli_Vuniwaqa
 
@@ -56,3 +56,6 @@ Fijian crime boss involved in drug trafficking and organized crime across the Pa
 - Prefer **primary sources** (court rulings, official police statements) and **high-quality secondary sources** (reputable newspapers) over reposted summaries.
 - Avoid implying guilt unless a conviction is documented.
 - When only partial information exists, explicitly label sections as "reported" or "alleged" and cite the originating source.
+
+
+## References

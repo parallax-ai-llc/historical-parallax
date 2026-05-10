@@ -23,7 +23,7 @@ Chinese serial killer who murdered 12 women in Henan Province between 1999 and 2
 | 2006 | Arrested |
 | 2008 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Nian Bingxin" - https://en.wikipedia.org/wiki/Nian_Bingxin
 
@@ -50,3 +50,6 @@ The case is often cited in discussions of modern Chinese serial homicide and the
 ## Related Topics
 
 Serial murder investigations; victimology; criminal justice in China.
+
+
+## References

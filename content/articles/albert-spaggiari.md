@@ -23,7 +23,7 @@ French bank robber who masterminded the 1976 heist of the Société Générale b
 | 1977 | Arrested; escaped court by jumping from window |
 | 1989 | Died of cancer while still a fugitive |
 
-## References
+
 
 [^1]: Wikipedia, "Albert Spaggiari" - https://en.wikipedia.org/wiki/Albert_Spaggiari
 
@@ -48,3 +48,6 @@ Spaggiari remained a fugitive until his death. The heist has been repeatedly ref
 ## Notes
 
 Dollar amounts for the heist are often presented as rough equivalents because sources vary on the exact mix of cash, valuables, and later inflation adjustments.
+
+
+## References

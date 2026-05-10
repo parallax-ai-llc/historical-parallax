@@ -23,7 +23,7 @@ Indian gangster-turned-politician from Uttar Pradesh who was shot dead on live t
 | 2023 | Convicted of murder |
 | 2023 | Shot dead on live television in Prayagraj |
 
-## References
+
 
 [^1]: Wikipedia, "Atiq Ahmad" - https://en.wikipedia.org/wiki/Atiq_Ahmad
 
@@ -48,3 +48,6 @@ In 2023, Atiq Ahmad and a family member were killed in a high-profile shooting w
 ## Context
 
 His story is commonly cited in discussions about the overlap between local strongmen, electoral legitimacy, and long-running delays or complexities in criminal adjudication.
+
+
+## References

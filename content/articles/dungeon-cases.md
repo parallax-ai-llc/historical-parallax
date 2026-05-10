@@ -23,7 +23,7 @@ Category of captivity crimes where victims are held in secret rooms or cellars f
 | 1998 | Kampusch kidnapped |
 | 2002 | Castro began kidnapping |
 
-## References
+
 
 [^1]: Wikipedia, "Dungeon Cases" - https://en.wikipedia.org/wiki/Dungeon_Cases
 
@@ -52,3 +52,6 @@ Notable cases have influenced public discussion about missing-person reporting, 
 - False imprisonment
 - Kidnapping
 - Domestic abuse and coercive control
+
+
+## References

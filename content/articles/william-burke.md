@@ -23,7 +23,7 @@ Irish immigrant to Edinburgh who murdered at least 16 people to sell their bodie
 | 1828 | Arrest and trial (state witness arrangement for Hare; Burke prosecuted) |
 | 1829 | Hanged for murder; body publicly dissected |
 
-## References
+
 
 [^1]: Wikipedia, "William Burke" - https://en.wikipedia.org/wiki/William_Burke
 [^2]: Encyclopaedia Britannica, entries on Burke and Hare / Burke and Hare murders (overview and historical context).
@@ -67,3 +67,6 @@ The Burke and Hare case is often cited as part of the social pressure that led t
 - William Hare
 - Robert Knox (anatomist)
 - Anatomy Act 1832
+
+
+## References

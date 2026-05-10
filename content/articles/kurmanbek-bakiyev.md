@@ -21,7 +21,7 @@ Ousted president of Kyrgyzstan who fled after a violent revolution, convicted in
 |------|-------|
 | 2010 | Overthrown in revolution after ordering shootings of protesters |
 
-## References
+
 
 [^1]: Wikipedia, "Kurmanbek Bakiyev" - https://en.wikipedia.org/wiki/Kurmanbek_Bakiyev
 
@@ -52,3 +52,6 @@ Ousted president of Kyrgyzstan who fled after a violent revolution, convicted in
 - Tulip Revolution (2005)
 - 2010 Kyrgyz Revolution
 - Politics of Kyrgyzstan
+
+
+## References

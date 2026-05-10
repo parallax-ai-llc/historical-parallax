@@ -23,7 +23,7 @@ Dawn Fraser won the 100m freestyle at three consecutive Olympics (1956, 1960, 19
 | 1960 | Won gold at Rome |
 | 1964 | Won gold at Tokyo; banned for four years |
 
-## References
+
 
 [^1]: Wikipedia, "Dawn Fraser" - https://en.wikipedia.org/wiki/Dawn_Fraser
 
@@ -63,3 +63,6 @@ After the Tokyo Olympics, Fraser was involved in incidents that led to a **four-
 
 - Remembered as one of Australia’s most successful and influential swimmers.
 - Her three consecutive Olympic titles in the same event remain a widely cited milestone in the sport.
+
+
+## References

@@ -22,7 +22,7 @@ Demand for rhino horn in Asia has driven poaching to crisis levels. South Africa
 | 2008 | Poaching crisis began |
 | 2014 | Peak: 1,215 rhinos killed in South Africa |
 
-## References
+
 
 [^1]: Wikipedia, "Rhino Horn Trade" - https://en.wikipedia.org/wiki/Rhino_Horn_Trade
 
@@ -52,3 +52,5 @@ Sustained poaching pressure threatens small or recovering rhino populations, can
 
 [^2]: CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) - https://cites.org/
 [^3]: IUCN SSC African Rhino Specialist Group (status reporting and context) - https://www.iucn.org/
+
+

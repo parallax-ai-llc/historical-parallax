@@ -24,7 +24,7 @@ Sudanese military commander known as 'Hemedti' who leads the Rapid Support Force
 | 2023 | Launched civil war against Sudanese army |
 | 2024 | RSF accused of genocide in Darfur |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Hamdan Dagalo" - https://en.wikipedia.org/wiki/Mohamed_Hamdan_Dagalo
 ## Background and Aliases
@@ -54,3 +54,6 @@ This article is a high-level profile. For rapidly evolving events (especially af
 
 - Sudanese Armed Forces (SAF)
 - Darfur conflict and international responses
+
+
+## References

@@ -21,7 +21,7 @@ Russian human rights lawyer shot dead alongside journalist Anastasia Baburova in
 |------|-------|
 | 2009 | Murdered by neo-Nazis in Moscow |
 
-## References
+
 
 [^1]: Wikipedia, "Stanislav Markelov" - https://en.wikipedia.org/wiki/Stanislav_Markelov
 
@@ -50,3 +50,6 @@ Investigators later linked the crime to **neo-Nazi extremists**, and convictions
 ## Related Topics
 
 This case is often discussed alongside patterns of **far-right violence**, **attacks on journalists**, and the security risks faced by **human rights defenders** in Russia during the late 2000s.
+
+
+## References

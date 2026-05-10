@@ -20,7 +20,7 @@ ISIS-linked terrorists killed 311 worshippers at a Sufi mosque in northern Sinai
 |------|-------|
 | 2017 | Killed 311 at mosque |
 
-## References
+
 
 [^1]: Wikipedia, "Al-Rawda Mosque Attack" - https://en.wikipedia.org/wiki/Al-Rawda_Mosque_Attack
 
@@ -64,3 +64,6 @@ ISIS-linked terrorists killed 311 worshippers at a Sufi mosque in northern Sinai
 
 [^2]: BBC News coverage (2017), reporting on the scale and aftermath of the Sinai mosque attack.
 [^3]: Reuters reporting (2017), summaries of official statements and casualty figures.
+
+
+## References

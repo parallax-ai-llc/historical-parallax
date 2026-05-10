@@ -23,7 +23,7 @@ Indian cybercriminal who operated call center scams targeting American and Briti
 | 2018 | Arrested |
 | 2020 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Nishant Grover" - https://en.wikipedia.org/wiki/Nishant_Grover
 
@@ -48,3 +48,6 @@ Indian cybercriminal who operated call center scams targeting American and Briti
 
 - **Victim harm**: Beyond financial loss, victims often experience stress and ongoing identity-security concerns.
 - **Public awareness**: High-profile prosecutions are used to deter similar operations and to educate the public about impersonation fraud.
+
+
+## References

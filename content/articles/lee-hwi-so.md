@@ -23,7 +23,7 @@ Lee Hwi-so (Benjamin W. Lee) was a Korean-American theoretical physicist who con
 | 1966 | Proved gauge theory renormalizability |
 | 1977 | Died in car accident |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Hwi-so" - https://en.wikipedia.org/wiki/Lee_Hwi-so
 
@@ -48,3 +48,6 @@ He collaborated with other prominent theorists of the period and mentored younge
 ## Death and Legacy
 
 Lee died in a car accident in 1977. Retrospectives often emphasize both the scientific importance of his work and the sense of loss within the physics community given the trajectory of his early-career achievements.
+
+
+## References

@@ -21,7 +21,7 @@ Military commander of the Bougainville Revolutionary Army during the decade-long
 |------|-------|
 | 1989 | Led BRA military operations in Bougainville |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Kauona" - https://en.wikipedia.org/wiki/Sam_Kauona
 
@@ -55,3 +55,6 @@ Military commander of the Bougainville Revolutionary Army during the decade-long
 
 - The linked Wikipedia URL in the frontmatter may not always resolve to a full article (availability can change over time).
 - For rigorous historical work, prefer triangulating claims using academic histories, reputable journalism, and official peace-process documentation.
+
+
+## References

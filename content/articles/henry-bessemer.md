@@ -35,7 +35,7 @@ Henry Bessemer developed the Bessemer process for mass-producing steel.
 - **Second-order effects:** widespread steel availability shaped urbanization, transportation networks, and military-industrial capacity.
 - **Innovation pattern:** a single process improvement can unlock entirely new economic frontiers when it reduces the cost of a general-purpose material.
 
-## References
+
 
 [^1]: Wikipedia, "Henry Bessemer" - https://en.wikipedia.org/wiki/Henry_Bessemer
 
@@ -50,3 +50,6 @@ Henry Bessemer developed the Bessemer process for mass-producing steel.
 - Steel
 - Industrial Revolution
 - Metallurgy
+
+
+## References

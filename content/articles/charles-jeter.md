@@ -23,7 +23,7 @@ American kidnapper who abducted a 13-year-old girl in Lancaster, California and 
 | 2014 | Victim discovered by authorities |
 | 2015 | Convicted and sentenced to 60 years |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Jeter" - https://en.wikipedia.org/wiki/Charles_Jeter
 
@@ -48,3 +48,6 @@ The case drew attention because the victim was held for a prolonged period and t
 - Victim support services and long-term recovery
 - Criminal sentencing and public safety
 
+
+
+## References

@@ -22,7 +22,7 @@ See earlier entry on Dorothy Hodgkin.
 | 1910 | Born |
 | 1994 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Dorothy Mary Hodgkin" - https://en.wikipedia.org/wiki/Dorothy_Mary_Hodgkin
 
@@ -50,3 +50,6 @@ See earlier entry on Dorothy Hodgkin.
 
 - Hodgkin spent much of her career at the **University of Oxford**, where she trained and influenced multiple generations of chemists.
 - Her work is frequently cited as part of the historical foundation for later advances in **structural biology** and drug discovery.
+
+
+## References

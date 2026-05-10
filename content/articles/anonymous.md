@@ -43,7 +43,7 @@ Decentralized hacktivist collective that has targeted governments, corporations,
 - Public perception ranges from seeing Anonymous as digital civil disobedience to viewing it as criminal hacking; legal outcomes depend on specific acts and jurisdictions.
 - Because the label is open to adoption, unrelated groups and individuals may claim responsibility for actions, complicating verification and reporting.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Anonymous" - https://en.wikipedia.org/wiki/Anonymous
 
@@ -51,3 +51,6 @@ Decentralized hacktivist collective that has targeted governments, corporations,
 
 - Hacktivism
 - LulzSec
+
+
+## References

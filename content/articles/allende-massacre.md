@@ -23,7 +23,7 @@ Mass killing by Los Zetas in Allende, Coahuila in March 2011 that killed an esti
 | 2014 | Mass graves discovered |
 | 2016 | Investigation revealed scope |
 
-## References
+
 
 [^1]: Wikipedia, "Allende Massacre" - https://en.wikipedia.org/wiki/Allende_Massacre
 
@@ -49,3 +49,6 @@ The massacre is often cited in human-rights discussions as an example of how car
 - Coahuila
 
 - Enforced disappearance
+
+
+## References

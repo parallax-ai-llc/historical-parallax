@@ -23,7 +23,7 @@ Russian journalist critical of the Chechen war who was assassinated in her Mosco
 | 2006 | Shot dead in apartment lobby |
 | 2014 | Five convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Anna Politkovskaya" - https://en.wikipedia.org/wiki/Anna_Politkovskaya
 
@@ -51,3 +51,6 @@ Her death prompted memorials and advocacy campaigns focused on journalist safety
 
 - press freedom
 - Novaya Gazeta
+
+
+## References

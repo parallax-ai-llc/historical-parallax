@@ -5,7 +5,7 @@ birth: "1954-04-14"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Creator", "Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Katsuhiro_Otomo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katsuhiro_Otomo"
 lastUpdated: "2026-02-26"

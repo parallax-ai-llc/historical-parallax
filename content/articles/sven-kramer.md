@@ -23,7 +23,7 @@ Sven Kramer won three consecutive Olympic 5,000m golds (2010, 2014, 2018).
 | 2014 | Won gold at Sochi |
 | 2018 | Won gold at PyeongChang |
 
-## References
+
 
 [^1]: Wikipedia, "Sven Kramer" - https://en.wikipedia.org/wiki/Sven_Kramer
 
@@ -54,3 +54,6 @@ Analysts often describe Kramer as an endurance specialist who maintained world-c
 ## References (additional)
 
 [^2]: Olympic results and event summaries (see Sven Kramer profile pages linked from official Olympic/statistical sites)
+
+
+## References

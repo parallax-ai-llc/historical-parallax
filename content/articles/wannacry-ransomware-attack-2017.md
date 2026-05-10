@@ -31,7 +31,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 2017-05-12 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -54,3 +54,6 @@ WannaCry is frequently cited as a turning point demonstrating that:
 - vulnerability disclosure and patching speed are critical for systemic resilience,
 - legacy protocols (like SMBv1) can create outsized risk when widely deployed,
 - ransomware impacts are often operational (service outages) as much as financial.
+
+
+## References

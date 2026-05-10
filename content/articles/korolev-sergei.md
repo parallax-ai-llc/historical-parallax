@@ -22,7 +22,7 @@ Already added as Sergei Korolev.
 | 1907 | Born |
 | 1966 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Korolev Sergei" - https://en.wikipedia.org/wiki/Korolev_Sergei
 
@@ -53,3 +53,6 @@ Korolev is widely recognized as a central figure in 20th-century astronautics, w
 ## Notes
 
 This entry is intentionally high-level and can be expanded further with program-specific dates and primary-source references.
+
+
+## References

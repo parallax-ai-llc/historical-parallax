@@ -22,7 +22,7 @@ Former President of Mozambique linked to the $2 billion hidden debt scandal that
 | 2005 | Became President of Mozambique |
 | 2016 | Hidden debt scandal exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Armando Guebuza" - https://en.wikipedia.org/wiki/Armando_Guebuza
 
@@ -61,3 +61,6 @@ Former President of Mozambique linked to the $2 billion hidden debt scandal that
 
 - Details and culpability claims can differ across sources; summaries should be anchored to court findings and primary documentation where possible.
 - The term "hidden debt" is a shorthand used in journalism and policy analysis; underlying instruments and guarantees may be complex.
+
+
+## References

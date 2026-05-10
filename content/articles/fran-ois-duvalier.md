@@ -23,7 +23,7 @@ Haitian dictator known as 'Papa Doc' who ruled from 1957 to 1971. He maintained 
 | 1964 | Declared himself president for life |
 | 1971 | Died; succeeded by son Jean-Claude |
 
-## References
+
 
 [^1]: Wikipedia, "François Duvalier" - https://en.wikipedia.org/wiki/Fran%C3%A7ois_Duvalier
 
@@ -48,3 +48,6 @@ Accounts of his period in power frequently emphasize:
 ### Succession and legacy
 
 Duvalier prepared for dynastic succession by declaring himself president for life, and he was followed by his son Jean-Claude Duvalier ("Baby Doc"). The Duvalier era remains a defining reference point in modern Haitian politics and debates over accountability.
+
+
+## References

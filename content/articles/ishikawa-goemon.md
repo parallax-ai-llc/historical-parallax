@@ -22,7 +22,7 @@ Legendary Japanese outlaw boiled alive for attempting to assassinate Toyotomi Hi
 | 1594 | Attempted to assassinate Toyotomi Hideyoshi |
 | 1594 | Executed by being boiled alive in iron cauldron |
 
-## References
+
 
 [^1]: Wikipedia, "Ishikawa Goemon" - https://en.wikipedia.org/wiki/Ishikawa_Goemon
 
@@ -48,3 +48,6 @@ Legendary Japanese outlaw boiled alive for attempting to assassinate Toyotomi Hi
 - **Context:** political, social, and geographic framing.
 - **Aftermath:** investigations, reforms, and legacy.
 - **Sources:** prioritize primary documents and reputable reporting.
+
+
+## References

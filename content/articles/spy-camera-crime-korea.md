@@ -21,7 +21,7 @@ South Korea faces an epidemic of illegal spy camera (molka) recordings in bathro
 |------|-------|
 | 2018 | Mass 'My Life Is Not Your Porn' protests |
 
-## References
+
 
 [^1]: Wikipedia, "Spy Camera Crime Korea" - https://en.wikipedia.org/wiki/Spy_Camera_Crime_Korea
 
@@ -51,3 +51,6 @@ The problem is frequently discussed alongside wider categories of digital sex cr
 
 [^2]: BBC News, "South Korea's spy-cam porn epidemic" - https://www.bbc.com/news/stories-43752913
 [^3]: The New York Times, "The Nth Room Case and South Korea’s Digital Sex Crimes" - https://www.nytimes.com/2020/03/23/world/asia/south-korea-telegram-sex-crimes.html
+
+
+## References

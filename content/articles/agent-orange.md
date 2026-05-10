@@ -48,7 +48,7 @@ Agent Orange has been central to:
 - **Litigation and accountability debates** involving governments, military policy, and chemical manufacturers.
 - **War ethics and international-law arguments**, particularly around the distinction between tactical military objectives and foreseeable civilian harm.
 
-## References
+
 
 [^1]: Wikipedia, "Agent Orange" - https://en.wikipedia.org/wiki/Agent_Orange
 [^2]: U.S. Department of Veterans Affairs (VA), Agent Orange exposure overview - https://www.va.gov/disability/eligibility/hazardous-materials-exposure/agent-orange/
@@ -58,3 +58,6 @@ Agent Orange has been central to:
 - **Defoliant:** chemical used to remove leaves and vegetation cover.
 - **Dioxin (TCDD):** toxic compound associated with some Agent Orange contamination.
 - **Exposure assessment:** the process of estimating who was exposed, when, and by what pathways.
+
+
+## References

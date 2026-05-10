@@ -22,7 +22,7 @@ Fourth kumicho of the Yamaguchi-gumi who led during a bloody war with the Ichiwa
 | 1984 | Became fourth kumicho |
 | 1985 | Yama-Ichi War erupted |
 
-## References
+
 
 [^1]: Wikipedia, "Masaru Takumi" - https://en.wikipedia.org/wiki/Masaru_Takumi
 
@@ -50,3 +50,6 @@ It also became part of the broader narrative that later supported anti-yakuza le
 
 Most public summaries rely on secondary reporting and encyclopedic overviews.
 Detailed claims about internal decision-making are often contested or difficult to verify from open sources.
+
+
+## References

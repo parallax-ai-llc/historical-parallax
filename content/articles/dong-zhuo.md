@@ -22,7 +22,7 @@ Eastern Han dynasty warlord who seized control of the imperial court and became 
 | 189 | Seized control of Han court and deposed the emperor |
 | 192 | Assassinated by his adoptive son Lü Bu |
 
-## References
+
 
 [^1]: Wikipedia, "Dong Zhuo" - https://en.wikipedia.org/wiki/Dong_Zhuo
 
@@ -54,3 +54,6 @@ Eastern Han dynasty warlord who seized control of the imperial court and became 
 ### Cultural Legacy
 
 - Dong Zhuo became a canonical villain figure in later literature and popular culture, especially in the **"Romance of the Three Kingdoms"** tradition, where he symbolizes tyranny and corruption.
+
+
+## References

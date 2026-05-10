@@ -5,7 +5,7 @@ birth: "1958-11-10"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Robinchase2008.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robin_Chase"
 lastUpdated: "2026-02-21"

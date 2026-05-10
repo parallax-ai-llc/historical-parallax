@@ -3,6 +3,7 @@ name: "Scott Dixon"
 birth: "1980-07-22"
 nationality: "New Zealander"
 occupation: ["Racing Driver", "IndyCar Champion", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Scott_Dixon_at_Road_America_in_2021.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Scott_Dixon"
 lastUpdated: "2026-03-12"

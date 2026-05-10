@@ -5,7 +5,7 @@ birth: "1893-10-21"
 death: "1986-07-27"
 nationality: "Japanese"
 occupation: ["Geneticist", "Cytologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Kihara_Hitoshi_photographed_by_Shigeru_Tamura.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kihara_Hitoshi"
 lastUpdated: "2026-02-21"

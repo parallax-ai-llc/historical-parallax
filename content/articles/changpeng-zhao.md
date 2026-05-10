@@ -22,7 +22,7 @@ Founder and former CEO of Binance who pleaded guilty to failing to maintain anti
 | 2023 | Pleaded guilty to anti-money laundering violations |
 | 2024 | Sentenced to four months in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Changpeng Zhao" - https://en.wikipedia.org/wiki/Changpeng_Zhao
 
@@ -50,3 +50,6 @@ Founder and former CEO of Binance who pleaded guilty to failing to maintain anti
 ## Notes on Sourcing
 
 - Specific figures (penalties, transaction volumes, and attribution of illicit flows) vary across official filings and media summaries; primary documents and regulator statements are typically used for verification.
+
+
+## References

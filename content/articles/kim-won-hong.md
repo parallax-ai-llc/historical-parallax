@@ -5,7 +5,7 @@ birth: "1945-01-01"
 death: "Unknown"
 nationality: "North Korea"
 occupation: ["Purged Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/30th_Anniversary_of_the_Publication_of_the_Rural_Theses_Order_ribbon.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Won-hong"
 lastUpdated: "2026-02-26"

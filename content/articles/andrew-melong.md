@@ -21,7 +21,7 @@ Palauan drug lord who ran methamphetamine distribution networks across Micronesi
 |------|-------|
 | 2015 | Convicted of drug trafficking in Palau |
 
-## References
+
 
 [^1]: Wikipedia, "Andrew Melong" - https://en.wikipedia.org/wiki/Andrew_Melong
 
@@ -61,3 +61,6 @@ Palauan drug lord who ran methamphetamine distribution networks across Micronesi
 ### Notes on sourcing
 
 - This profile is intentionally high-level; consult the primary reference for specific allegations, dates, and procedural details.
+
+
+## References

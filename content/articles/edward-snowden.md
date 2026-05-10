@@ -23,7 +23,7 @@ American former NSA contractor who leaked classified surveillance programs in 20
 | 2013 | Charged under Espionage Act; fled to Russia |
 | 2022 | Granted Russian citizenship |
 
-## References
+
 
 [^1]: Wikipedia, "Edward Snowden" - https://en.wikipedia.org/wiki/Edward_Snowden
 
@@ -54,3 +54,6 @@ Snowden’s case became a central reference point in debates about civil liberti
 ## Notes on Characterization
 
 Whether Snowden is framed as a whistleblower, leaker, or traitor varies by legal definitions, political position, and moral evaluation. Many summaries distinguish between the factual disclosures and the normative judgments about their justification.
+
+
+## References

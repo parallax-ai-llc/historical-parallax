@@ -22,7 +22,7 @@ Last leader of the RUF rebel movement convicted of 16 counts of war crimes and c
 | 2000 | Became RUF interim leader |
 | 2009 | Sentenced to 52 years |
 
-## References
+
 
 [^1]: Wikipedia, "Issa Sesay" - https://en.wikipedia.org/wiki/Issa_Sesay
 
@@ -49,3 +49,6 @@ Last leader of the RUF rebel movement convicted of 16 counts of war crimes and c
 - **Context:** political, social, and geographic framing.
 - **Aftermath:** investigations, reforms, and legacy.
 - **Sources:** prioritize primary documents and reputable reporting.
+
+
+## References

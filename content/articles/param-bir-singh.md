@@ -21,7 +21,7 @@ Former Mumbai police commissioner accused of corruption and extortion.
 |------|-------|
 | 2021 | Wanted for extortion charges |
 
-## References
+
 
 [^1]: Wikipedia, "Param Bir Singh" - https://en.wikipedia.org/wiki/Param_Bir_Singh
 
@@ -68,3 +68,6 @@ This article summarizes high-level facts and allegations as reported in widely c
 
 [^2]: India Today (profile and suspension coverage), via citations listed on the Wikipedia page.
 [^3]: The Hindu (court proclamation coverage), via citations listed on the Wikipedia page.
+
+
+## References

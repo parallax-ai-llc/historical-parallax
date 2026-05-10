@@ -20,7 +20,7 @@ Leader of the El Rukn gang convicted of conspiring with Libya to commit terroris
 |------|-------|
 | 1987 | Convicted of terrorism conspiracy with Libya |
 
-## References
+
 
 [^1]: Wikipedia, "Jeff Fort" - https://en.wikipedia.org/wiki/Jeff_Fort
 
@@ -56,3 +56,6 @@ Leader of the El Rukn gang convicted of conspiring with Libya to commit terroris
 ## Notes
 
 This article is a high-level stub intended to capture the core publicly reported facts; details can be expanded with additional sources beyond Wikipedia.
+
+
+## References

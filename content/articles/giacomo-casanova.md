@@ -23,7 +23,7 @@ Venetian adventurer and author famous for his womanizing but who was also a spy,
 | 1756 | Made famous escape from Leads prison |
 | 1798 | Died in Bohemia |
 
-## References
+
 
 [^1]: Wikipedia, "Giacomo Casanova" - https://en.wikipedia.org/wiki/Giacomo_Casanova
 
@@ -49,3 +49,6 @@ Venetian adventurer and author famous for his womanizing but who was also a spy,
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
 
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+
+## References

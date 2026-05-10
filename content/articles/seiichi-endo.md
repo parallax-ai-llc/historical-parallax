@@ -5,7 +5,7 @@ birth: "1960-09-05"
 death: "2018-07-06"
 nationality: "Japan"
 occupation: ["Terrorist", "Bioweapons"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/f/fa/Seiichi_Endo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seiichi_Endo"
 lastUpdated: "2026-02-26"

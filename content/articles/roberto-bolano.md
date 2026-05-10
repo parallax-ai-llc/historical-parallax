@@ -5,7 +5,7 @@ birth: "1953-04-28"
 death: "2003-07-15"
 nationality: "Chilean"
 occupation: ["Novelist", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Roberto_bola%C3%B1o.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Bolano"
 lastUpdated: "2026-02-21"

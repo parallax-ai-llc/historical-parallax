@@ -21,7 +21,7 @@ Match-fixing scandal in Italian football that saw Juventus stripped of two Serie
 |------|-------|
 | 2006 | Scandal exposed through wiretaps |
 
-## References
+
 
 [^1]: Wikipedia, "Calciopoli" - https://en.wikipedia.org/wiki/Calciopoli
 
@@ -63,3 +63,6 @@ Match-fixing scandal in Italian football that saw Juventus stripped of two Serie
 
 - BBC Sport archive coverage of the 2006 Italian football scandal: https://www.bbc.co.uk/sport/football
 - The Guardian topic archive (Calciopoli / Italian football scandal): https://www.theguardian.com/football/series/italianfootball
+
+
+## References

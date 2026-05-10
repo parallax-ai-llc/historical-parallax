@@ -22,7 +22,7 @@ Japanese general who served in China during the Nanjing Massacre and in the Phil
 | 1937 | Present during Nanjing Massacre |
 | 1948 | Executed as war criminal |
 
-## References
+
 
 [^1]: Wikipedia, "Akira Mutō" - https://en.wikipedia.org/wiki/Akira_Mut%C5%8D
 
@@ -59,3 +59,6 @@ He was convicted and ultimately executed by hanging in 1948. In many summaries, 
 - Nanjing Massacre
 - Manila Massacre
 - Postwar war-crimes tribunals in the Asia-Pacific
+
+
+## References

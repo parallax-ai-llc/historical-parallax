@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1947 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "James Dyson dup99" - https://en.wikipedia.org/wiki/James_Dyson_dup99
 
@@ -64,3 +64,6 @@ Duplicate.
 ## References (Additional)
 
 - Wikipedia: James Dyson — https://en.wikipedia.org/wiki/James_Dyson
+
+
+## References

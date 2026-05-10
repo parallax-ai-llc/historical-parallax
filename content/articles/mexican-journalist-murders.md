@@ -44,10 +44,13 @@ Mexico has experienced sustained violence against the press in the 21st century,
 - **Civil society support:** NGOs and press freedom organizations provide legal aid, training, and incident documentation.
 - **International attention:** Global press freedom groups and intergovernmental bodies periodically issue reports and recommendations.
 
-## References
+
 
 [^1]: Wikipedia, "Mexican Journalist Murders" - https://en.wikipedia.org/wiki/Mexican_Journalist_Murders
 
 ## See Also
 
 - Press freedom in Mexico
+
+
+## References

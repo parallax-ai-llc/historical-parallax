@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1901 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Walt Disney duplicate" - https://en.wikipedia.org/wiki/Walt_Disney_duplicate
 
@@ -55,3 +55,6 @@ Duplicate.
 ## Additional Reference
 
 [^2]: Wikipedia, "Walt Disney" - https://en.wikipedia.org/wiki/Walt_Disney
+
+
+## References

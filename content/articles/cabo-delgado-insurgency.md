@@ -45,7 +45,7 @@ ISIS-linked insurgency in northern Mozambique killed thousands and displaced ove
 - **Economic effects:** Instability affected investment timelines, especially for large LNG projects, and increased costs for security and reconstruction.
 - **Regional security:** The insurgency raised concerns about cross-border movement of fighters and the spread of violent extremist networks in East and Southern Africa.
 
-## References
+
 
 [^1]: Wikipedia, "Cabo Delgado Insurgency" - https://en.wikipedia.org/wiki/Cabo_Delgado_Insurgency
 
@@ -55,3 +55,6 @@ ISIS-linked insurgency in northern Mozambique killed thousands and displaced ove
 - **Governance and accountability:** Analysts often argue that durable stabilization requires improvements in local governance, anti-corruption measures, and credible mechanisms to address abuses by any armed actor.
 - **Economic inclusion:** Managing expectations around resource projects (jobs, revenue sharing, local development) is frequently cited as important to reducing recruitment incentives.
 - **Humanitarian access:** Ongoing insecurity can limit aid delivery, while repeated displacement strains host communities and provincial infrastructure.
+
+
+## References

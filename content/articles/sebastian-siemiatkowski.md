@@ -5,7 +5,7 @@ birth: "1981-11-29"
 death: "Unknown"
 nationality: "Swedish"
 occupation: ["Entrepreneur", "Fintech"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Sebastian_Siemiatkowski_TC_2019.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sebastian_Siemiatkowski"
 lastUpdated: "2026-02-21"

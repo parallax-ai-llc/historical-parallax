@@ -23,7 +23,7 @@ Tirunesh Dibaba won three Olympic golds and was the first woman to achieve the 5
 | 2008 | Won 5,000m and 10,000m at Beijing |
 | 2012 | Won 10,000m at London |
 
-## References
+
 
 [^1]: Wikipedia, "Tirunesh Dibaba" - https://en.wikipedia.org/wiki/Tirunesh_Dibaba
 
@@ -48,3 +48,6 @@ Dibaba is widely regarded as one of the greatest women’s long-distance runners
 - Ethiopian distance running
 - 5,000 metres and 10,000 metres (athletics)
 - World Athletics Championships
+
+
+## References

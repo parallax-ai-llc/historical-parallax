@@ -23,7 +23,7 @@ Theagenes of Thasos won over 1,300 victories in combat sports. He won Olympic bo
 | 476 BC | Won Olympic pankration title |
 | 435 BC | Death; healing statue erected |
 
-## References
+
 
 [^1]: Wikipedia, "Theagenes of Thasos" - https://en.wikipedia.org/wiki/Theagenes_of_Thasos
 
@@ -49,3 +49,6 @@ Theagenes is often cited as an example of how athletic success in antiquity coul
 ## Notes on sources
 
 Most details about Theagenes come from later literary traditions rather than contemporary records. As a result, precise tallies of victories and some biographical anecdotes are treated cautiously by historians, even while his status as a renowned ancient champion is widely accepted.
+
+
+## References

@@ -24,7 +24,7 @@ Ukrainian former prime minister who was convicted of money laundering, wire frau
 | 2006 | Convicted of money laundering and extortion |
 | 2012 | Released from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Pavlo Lazarenko" - https://en.wikipedia.org/wiki/Pavlo_Lazarenko
 
@@ -49,3 +49,6 @@ The case contributed to international attention on governance challenges in the 
 - Corruption in Ukraine
 - Money laundering
 - Post-Soviet economic transition
+
+
+## References

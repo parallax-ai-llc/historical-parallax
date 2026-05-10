@@ -23,7 +23,7 @@ Sarita Devi was a multiple-time Asian and World Championship boxing medalist and
 | 2009 | Won Asian Championship gold |
 | 2014 | Competed at Asian Games |
 
-## References
+
 
 [^1]: Wikipedia, "Sarita Devi" - https://en.wikipedia.org/wiki/Sarita_Devi
 
@@ -49,3 +49,6 @@ In Indian sports coverage, Sarita Devi is frequently cited alongside other early
 Her career is often used as a reference point for how Indian boxing institutions, selection policies, and international tournament structures affected athletes in the pre-professionalized era of the women’s game.
 
 This framing appears in both sports reporting and retrospective discussions of Indian women’s boxing.
+
+
+## References

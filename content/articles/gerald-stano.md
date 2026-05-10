@@ -21,7 +21,7 @@ American serial killer who confessed to murdering 41 women across Florida.
 |------|-------|
 | 1998 | Executed for serial murders |
 
-## References
+
 
 [^1]: Wikipedia, "Gerald Stano" - https://en.wikipedia.org/wiki/Gerald_Stano
 
@@ -56,3 +56,6 @@ American serial killer who confessed to murdering 41 women across Florida.
 ## Further Reading
 
 - Wikipedia entry for a consolidated overview and references: https://en.wikipedia.org/wiki/Gerald_Stano
+
+
+## References

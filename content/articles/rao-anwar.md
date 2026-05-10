@@ -21,7 +21,7 @@ Pakistani police officer accused of staging hundreds of fake encounters and extr
 |------|-------|
 | 2018 | Charged with extrajudicial killings |
 
-## References
+
 
 [^1]: Wikipedia, "Rao Anwar" - https://en.wikipedia.org/wiki/Rao_Anwar
 
@@ -65,3 +65,5 @@ Pakistani police officer accused of staging hundreds of fake encounters and extr
 ## References
 
 [^2]: Coverage and summaries are commonly aggregated in the Wikipedia article and its cited sources: https://en.wikipedia.org/wiki/Rao_Anwar
+
+

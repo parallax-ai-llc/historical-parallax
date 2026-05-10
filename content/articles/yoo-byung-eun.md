@@ -22,7 +22,7 @@ South Korean businessman and cult leader whose family owned the ferry Sewol that
 | 2014 | Sewol ferry disaster killed 304 due to his company's negligence |
 | 2014 | Found dead in a field while being hunted by police |
 
-## References
+
 
 [^1]: Wikipedia, "Yoo Byung-eun" - https://en.wikipedia.org/wiki/Yoo_Byung-eun
 
@@ -58,3 +58,6 @@ The Yoo Byung-eun story is often cited in discussions about:
 - Safety culture and regulatory enforcement in transportation.
 - How crises can expose longstanding institutional weaknesses.
 
+
+
+## References

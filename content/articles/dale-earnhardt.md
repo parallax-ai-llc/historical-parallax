@@ -24,7 +24,7 @@ Dale Earnhardt, 'The Intimidator,' won seven NASCAR Cup championships. He was ki
 | 1998 | Won Daytona 500 after 20 years of trying |
 | 2001 | Killed in Daytona 500 crash |
 
-## References
+
 
 [^1]: Wikipedia, "Dale Earnhardt" - https://en.wikipedia.org/wiki/Dale_Earnhardt
 
@@ -50,3 +50,6 @@ Dale Earnhardt, 'The Intimidator,' won seven NASCAR Cup championships. He was ki
 
 ### Related links
 - Use the Wikipedia link in `socialLinks` (if present) as a navigation hub to find additional citations.
+
+
+## References

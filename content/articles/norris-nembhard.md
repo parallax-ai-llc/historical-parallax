@@ -21,7 +21,7 @@ Senior member of the Shower Posse who trafficked cocaine and marijuana across th
 |------|-------|
 | 1988 | Major Shower Posse drug operations in US |
 
-## References
+
 
 [^1]: Wikipedia, "Norris Nembhard" - https://en.wikipedia.org/wiki/Norris_Nembhard
 
@@ -57,3 +57,5 @@ The following items provide broader context rather than a definitive personal ch
 ## References
 
 [^2]: Wikipedia, "Shower Posse" - https://en.wikipedia.org/wiki/Shower_Posse
+
+

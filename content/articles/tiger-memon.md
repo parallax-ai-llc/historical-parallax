@@ -23,7 +23,7 @@ Indian gangster and key conspirator in the 1993 Bombay bombings. He organized th
 | 1993 | Fled India; believed in Pakistan |
 | 2007 | Sentenced to death in absentia |
 
-## References
+
 
 [^1]: Wikipedia, "Tiger Memon" - https://en.wikipedia.org/wiki/Tiger_Memon
 
@@ -52,3 +52,6 @@ Publicly accessible summaries often differ in emphasis depending on whether they
 - 1993 Bombay bombings
 - Dawood Ibrahim
 - Organized crime in South Asia
+
+
+## References

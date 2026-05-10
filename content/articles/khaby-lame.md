@@ -3,6 +3,7 @@ name: "Khaby Lame"
 birth: "2000-03-09"
 nationality: "Italian (Senegalese-born)"
 occupation: ["TikToker", "Content Creator", "Comedian"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Khaby_Lame%2C_Nov_2025_%28cropped1%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khaby_Lame"
 lastUpdated: "2026-03-12"

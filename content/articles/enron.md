@@ -21,7 +21,7 @@ See Jeffrey Skilling and Kenneth Lay. American energy company whose accounting f
 |------|-------|
 | 2001 | Collapsed |
 
-## References
+
 
 [^1]: Wikipedia, "Enron" - https://en.wikipedia.org/wiki/Enron
 
@@ -77,3 +77,6 @@ See Jeffrey Skilling and Kenneth Lay. American energy company whose accounting f
 
 [^2]: U.S. SEC overview materials and enforcement actions related to Enron-era accounting and disclosure failures (see SEC archives).
 [^3]: Sarbanes–Oxley Act of 2002 (Public Company Accounting Reform and Investor Protection Act).
+
+
+## References

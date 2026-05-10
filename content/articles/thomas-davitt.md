@@ -21,7 +21,7 @@ Irish nationalist who documented and campaigned against Boer War concentration c
 |------|-------|
 | 1902 | Exposed British concentration camp abuses |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Davitt" - https://en.wikipedia.org/wiki/Thomas_Davitt
 
@@ -75,3 +75,6 @@ Even when the surviving record is thin, campaigning efforts around camp conditio
 ## Notes on Sources
 
 This page should be expanded further using stable scholarly or archival references (e.g., contemporary newspaper archives, parliamentary records, or specialized histories of Irish responses to the Boer War) to clarify Davitt’s specific actions and publications.
+
+
+## References

@@ -26,7 +26,7 @@ William Coley is considered the father of cancer immunotherapy. He developed 'Co
 | 1900 | Treated over 1,000 patients with Coley's toxins |
 | 1936 | Died in New York City |
 
-## References
+
 
 [^1]: Wikipedia, "William Coley" - https://en.wikipedia.org/wiki/William_Coley
 
@@ -52,3 +52,6 @@ William Coley is considered the father of cancer immunotherapy. He developed 'Co
 - 상단의 요약/정의(있는 경우)를 먼저 읽고, 이후 연대기·사건·인물·조직 순으로 확인하시면 이해가 빠릅니다.
 - 고유명사(인명/지명/조직명)와 연도·날짜 표현은 사실관계 확인의 기준점이 됩니다.
 - 본 문서의 목적은 ‘개요’이므로, 세부 출처·통계·직접 인용은 별도 자료로 보완될 수 있습니다.
+
+
+## References

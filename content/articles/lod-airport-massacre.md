@@ -43,10 +43,13 @@ Terrorist attack at Lod Airport (now Ben Gurion) in Israel on May 30, 1972 by th
 - The incident became a prominent example of transnational terrorism in the early 1970s, including the involvement of non-Middle Eastern militants in attacks related to the Arab–Israeli conflict.
 - Airport security practices internationally were tightened over time, and the attack is frequently discussed in analyses of aviation security and counterterrorism.
 
-## References
+
 
 [^1]: Wikipedia, "Lod Airport Massacre" - https://en.wikipedia.org/wiki/Lod_Airport_Massacre
 
 ## Notes
 
 This entry summarizes high-level facts commonly reported about the event; casualty counts and details of the sequence are typically consistent across mainstream histories, but may vary in narrative emphasis.
+
+
+## References

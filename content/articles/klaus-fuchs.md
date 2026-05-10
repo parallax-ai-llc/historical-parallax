@@ -5,7 +5,7 @@ birth: "1911-12-29"
 death: "1988-01-28"
 nationality: "Germany"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Klaus_Fuchs_-_police_photograph.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Klaus_Fuchs"
 lastUpdated: "2026-02-21"

@@ -22,7 +22,7 @@ Block.one's EOS token raised $4 billion in the largest ICO in history but failed
 | 2018 | Raised $4 billion in ICO |
 | 2019 | SEC settlement |
 
-## References
+
 
 [^1]: Wikipedia, "EOS" - https://en.wikipedia.org/wiki/EOS
 
@@ -53,3 +53,6 @@ Block.one's EOS token raised $4 billion in the largest ICO in history but failed
 - Smart contract platforms
 - Delegated proof of stake
 - Initial coin offering (ICO)
+
+
+## References

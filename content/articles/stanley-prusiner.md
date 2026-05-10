@@ -23,7 +23,7 @@ Stanley Prusiner is an American neurologist who won the 1997 Nobel Prize for dis
 | 1982 | Published prion hypothesis |
 | 1997 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Stanley Prusiner" - https://en.wikipedia.org/wiki/Stanley_Prusiner
 
@@ -50,3 +50,6 @@ The prion concept influenced diagnostic approaches, laboratory safety practices,
 ## Notes
 
 This article is a high-level summary intended for quick reference.
+
+
+## References

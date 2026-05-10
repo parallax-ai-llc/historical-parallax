@@ -5,7 +5,7 @@ birth: "0274-01-01"
 death: "0333-07-18"
 nationality: "China"
 occupation: ["Historical Criminal", "Warlord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Shi_Le_%28Emperor_Ming_of_Later_Zhao%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shi_Le"
 lastUpdated: "2026-02-26"

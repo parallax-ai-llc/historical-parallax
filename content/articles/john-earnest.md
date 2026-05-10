@@ -50,7 +50,7 @@ American who attacked a synagogue in Poway, California killing one, inspired by 
 - The attack prompted renewed discussion in the U.S. about synagogue security, hate-motivated violence, and online radicalization.
 - It is frequently cited alongside other late-2010s attacks when analyzing how manifestos and social platforms can transmit violent narratives.
 
-## References
+
 
 [^1]: Wikipedia, "John Earnest" - https://en.wikipedia.org/wiki/John_Earnest
 
@@ -60,3 +60,6 @@ American who attacked a synagogue in Poway, California killing one, inspired by 
 - Community and institutional responses commonly discussed in reporting include increased security measures at houses of worship, fundraising for victims, and coordination between local law enforcement and community organizations.
 - Analysts of violent extremism often treat the case as an example of how online manifestos, memes, and “inspiration” narratives can travel across borders and reduce the barrier to entry for would-be attackers.
 - Public discussions after the incident also emphasized the role of rapid emergency response, medical care, and bystander action in limiting casualties.
+
+
+## References

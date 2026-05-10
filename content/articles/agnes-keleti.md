@@ -21,7 +21,7 @@ Placeholder — athlete.
 |------|-------|
 | 1921 | Born in Hungary |
 
-## References
+
 
 [^1]: Wikipedia, "Agnes Keleti" - https://en.wikipedia.org/wiki/Agnes_Keleti
 
@@ -64,3 +64,6 @@ Placeholder — athlete.
 
 [^2]: International Olympic Committee (IOC), athlete profile / Olympic results (see IOC database)
 [^3]: Olympic Games historical results summaries for 1952 Helsinki and 1956 Melbourne (gymnastics events)
+
+
+## References

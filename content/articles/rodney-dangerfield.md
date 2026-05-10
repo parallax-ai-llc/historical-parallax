@@ -4,6 +4,7 @@ birth: "1921-11-22"
 death: "2004-10-05"
 nationality: "American"
 occupation: ["Comedian", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Rodney_Dangerfield_1972-1.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rodney_Dangerfield"
 lastUpdated: "2026-03-12"

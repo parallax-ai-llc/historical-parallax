@@ -21,7 +21,7 @@ French ISIS member who appeared in execution videos and was reported killed in S
 |------|-------|
 | 2014 | Identified in ISIS execution videos |
 
-## References
+
 
 [^1]: Wikipedia, "Maxime Hauchard" - https://en.wikipedia.org/wiki/Maxime_Hauchard
 
@@ -69,3 +69,6 @@ Individuals identified in these videos have been subjects of:
 ## Additional References
 
 - Wikipedia (may be unavailable at times): https://en.wikipedia.org/wiki/Maxime_Hauchard
+
+
+## References

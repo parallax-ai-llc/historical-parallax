@@ -23,7 +23,7 @@ Drug-producing region spanning Afghanistan, Pakistan, and Iran that produces 80%
 | 2001 | Taliban briefly banned opium |
 | 2020s | Remains worlds largest source |
 
-## References
+
 
 [^1]: Wikipedia, "Golden Crescent" - https://en.wikipedia.org/wiki/Golden_Crescent
 
@@ -60,3 +60,6 @@ Efforts to reduce production have included eradication campaigns, alternative-li
 
 - UNODC reporting on opium cultivation and trafficking trends
 - Research on conflict economies and illicit crop substitution in Afghanistan
+
+
+## References

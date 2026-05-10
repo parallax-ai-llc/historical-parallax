@@ -24,7 +24,7 @@ Rwandan military officer convicted by the ICTR for direct and public incitement 
 | 2006 | Convicted of genocide incitement |
 | 2010 | Sentenced to 15 years on retrial |
 
-## References
+
 
 [^1]: Wikipedia, "Tharcisse Muvunyi" - https://en.wikipedia.org/wiki/Tharcisse_Muvunyi
 
@@ -51,3 +51,6 @@ Precise descriptions of the underlying factual findings and the procedural histo
 ## Related
 
 - International Criminal Tribunal for Rwanda (ICTR)
+
+
+## References

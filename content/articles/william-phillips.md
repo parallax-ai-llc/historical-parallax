@@ -23,7 +23,7 @@ William Phillips shared the 1997 Nobel Prize for laser cooling and trapping of a
 | 1985 | Developed Zeeman slower |
 | 1997 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "William Phillips" - https://en.wikipedia.org/wiki/William_Phillips
 
@@ -52,3 +52,6 @@ The 1997 Nobel Prize in Physics recognized techniques for cooling and trapping a
 
 - Laser cooling
 - Atom traps and atomic clocks
+
+
+## References

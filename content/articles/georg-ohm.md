@@ -23,7 +23,7 @@ Georg Ohm formulated Ohm law relating voltage, current, and resistance. The SI u
 | 1827 | Published Ohm law |
 | 1854 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Georg Ohm" - https://en.wikipedia.org/wiki/Georg_Ohm
 
@@ -48,3 +48,6 @@ Historical accounts note that Ohm’s ideas were not universally celebrated imme
 - **Standardization:** Naming SI units after scientists reflects institutional recognition of foundational contributions to measurement and technology.
 
 Biographical sketches also describe Ohm as an educator, with appointments in secondary and higher education that shaped how he conducted and communicated his experimental work.
+
+
+## References

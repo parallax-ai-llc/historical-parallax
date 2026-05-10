@@ -21,7 +21,7 @@ Workers who occupied Ssangyong Motor factory in a violent 77-day standoff with p
 |------|-------|
 | 2009 | 77-day factory occupation |
 
-## References
+
 
 [^1]: Wikipedia, "Ssangyong Motor Workers" - https://en.wikipedia.org/wiki/Ssangyong_Motor_Workers
 
@@ -55,3 +55,6 @@ This article concerns the workers and union members involved in the 2009 labor c
 - Korean labor movement and unionization in the manufacturing sector.
 - Post-1997 and post-2008 restructuring debates in South Korean industry.
 - Comparisons with other high-profile workplace occupations and strikes.
+
+
+## References

@@ -3,6 +3,7 @@ name: "Sidemen"
 birth: "2013-10-19"
 nationality: "British"
 occupation: ["YouTube Group", "Content Creators", "Entrepreneurs"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sidemen_collage_5.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sidemen"
 lastUpdated: "2026-03-11"

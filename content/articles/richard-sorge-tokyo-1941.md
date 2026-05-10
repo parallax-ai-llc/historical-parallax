@@ -32,7 +32,7 @@ He was hanged in Sugamo Prison on Nov 7, 1944 (Revolution Day).
 
 ---
 
-## References
+
 
 - **Stalin's Spy** (Robert Whymant)
 - **An Impeccable Spy** (Owen Matthews)
@@ -61,3 +61,6 @@ He was hanged in Sugamo Prison on Nov 7, 1944 (Revolution Day).
 
 ### 다음 단계
 이 글의 내용을 적용하려면, (1) 지금 당장 바꿀 수 있는 작은 습관 1개를 고르고 (2) 7일 동안 관측한 뒤 (3) 관측치를 기준으로 규칙을 조정해 보시면 됩니다.
+
+
+## References

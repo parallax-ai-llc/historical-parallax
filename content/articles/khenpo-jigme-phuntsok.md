@@ -5,7 +5,7 @@ birth: "1933-01-01"
 death: "2004-01-07"
 nationality: "Tibetan"
 occupation: ["Buddhist Master", "Abbot"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Jigme_Phuntsok.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khenpo_Jigme_Phuntsok"
 lastUpdated: "2026-02-21"

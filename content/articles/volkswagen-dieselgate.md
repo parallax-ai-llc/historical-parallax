@@ -21,7 +21,7 @@ VW installed defeat devices in 11 million diesel vehicles to cheat emissions tes
 |------|-------|
 | 2015 | Fraud discovered by EPA |
 
-## References
+
 
 [^1]: Wikipedia, "Volkswagen Dieselgate" - https://en.wikipedia.org/wiki/Volkswagen_Dieselgate
 
@@ -51,3 +51,6 @@ VW installed defeat devices in 11 million diesel vehicles to cheat emissions tes
 
 - Volkswagen pursued corporate restructuring and a strategic shift toward battery-electric vehicles while continuing to manage ongoing litigation and reputational impact.
 - The scandal influenced broader regulatory reforms and public debate about emissions testing, transparency, and enforcement.
+
+
+## References

@@ -24,7 +24,7 @@ Pope Clement I served as Bishop of Rome in the late first century and is conside
 | 96 | Wrote the First Epistle to the Corinthians |
 | 99 | Died, traditionally by martyrdom |
 
-## References
+
 
 [^1]: Wikipedia, "Pope Clement I" - https://en.wikipedia.org/wiki/Pope_Clement_I
 
@@ -49,3 +49,6 @@ Later Christian tradition associates Clement with martyrdom and with stories of 
 ## Legacy
 
 Clement is venerated as a saint, and his name is connected to debates about the early papacy, including the ordering of early bishops of Rome and the nature of Roman influence. His letter remains a key text in patristic studies and in the history of early Christian literature.
+
+
+## References

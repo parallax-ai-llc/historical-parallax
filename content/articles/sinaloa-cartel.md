@@ -23,7 +23,7 @@ Mexicos most powerful drug trafficking organization founded by Joaquin El Chapo 
 | 2016 | El Chapo recaptured |
 | 2024 | El Mayo Zambada arrested |
 
-## References
+
 
 [^1]: Wikipedia, "Sinaloa Cartel" - https://en.wikipedia.org/wiki/Sinaloa_Cartel
 
@@ -59,3 +59,6 @@ Beyond drug supply, the cartel is commonly mentioned in debates about:
 - Public security and homicide trends in parts of Mexico.
 - Cross-border fentanyl trafficking and overdose mortality in the United States.
 - The resilience of illicit supply chains when enforcement removes individual leaders but market incentives remain.
+
+
+## References

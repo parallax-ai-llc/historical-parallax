@@ -24,7 +24,7 @@ South African painter and sculptor who was the first Black member of the CoBrA a
 | 1948 | Becomes member of CoBrA |
 | 2002 | Dies in Clamart, France |
 
-## References
+
 
 [^1]: Wikipedia, "Ernest Mancoba" - https://en.wikipedia.org/wiki/Ernest_Mancoba
 
@@ -48,3 +48,6 @@ South African painter and sculptor who was the first Black member of the CoBrA a
 Mancoba is increasingly recognized as a pioneering Black modernist whose contributions complicate standard narratives of European postwar avant-garde movements.
 
 Retrospectives and scholarship have emphasized the long delay between his influence and his broader institutional recognition.
+
+
+## References

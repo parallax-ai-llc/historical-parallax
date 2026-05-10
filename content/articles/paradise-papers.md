@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2017 | Documents leaked |
 
-## References
+
 
 [^1]: Wikipedia, "Paradise Papers" - https://en.wikipedia.org/wiki/Paradise_Papers
 
@@ -65,3 +65,6 @@ lastUpdated: "2026-02-26"
 
 [^2]: ICIJ, "The Paradise Papers" (project page) - https://www.icij.org/investigations/paradise-papers/
 [^3]: Britannica, "Paradise Papers" (overview) - https://www.britannica.com/event/Paradise-Papers
+
+
+## References

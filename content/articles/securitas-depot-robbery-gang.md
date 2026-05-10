@@ -24,7 +24,7 @@ Criminal gang that stole £53 million from the Securitas depot in Tonbridge, Ken
 | 2006 | Most gang members arrested within weeks |
 | 2008 | Leaders sentenced to 15 years each |
 
-## References
+
 
 [^1]: Wikipedia, "Securitas Depot Robbery Gang" - https://en.wikipedia.org/wiki/Securitas_Depot_Robbery_Gang
 
@@ -48,3 +48,6 @@ Criminal gang that stole £53 million from the Securitas depot in Tonbridge, Ken
 
 - The case is routinely cited in discussions of cash-handling security, insider-risk management, and the vulnerabilities created when criminals target employees’ families.
 - It also illustrates the practical challenge of recovering stolen cash at scale: even when convictions occur, full recovery is not guaranteed in many major robbery cases.
+
+
+## References

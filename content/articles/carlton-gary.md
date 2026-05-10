@@ -19,7 +19,7 @@ Carlton Gary, the 'Stocking Strangler,' murdered at least three elderly women in
 |------|-------|
 | 1950 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Carlton Gary" — overview of the case history and execution date.
 
@@ -60,3 +60,6 @@ Carlton Gary, the 'Stocking Strangler,' murdered at least three elderly women in
 ## See also
 - Serial murder investigations in Georgia
 - Capital punishment in the United States
+
+
+## References

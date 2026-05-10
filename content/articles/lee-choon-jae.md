@@ -23,7 +23,7 @@ South Korean serial killer identified in 2019 as perpetrator of the Hwaseong ser
 | 1991 | Last murder |
 | 2019 | Identified through DNA |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Choon-jae" - https://en.wikipedia.org/wiki/Lee_Choon-jae
 
@@ -50,3 +50,6 @@ The case has been cited in:
 ## Cultural Legacy
 
 The Hwaseong case has been referenced in South Korean popular culture, including films and television, as an emblematic example of an era when serial crime was poorly understood and investigative resources were more limited.
+
+
+## References

@@ -3,6 +3,7 @@ name: "Shinichiro Watanabe"
 birth: "1965-05-24"
 nationality: "Japanese"
 occupation: ["Anime Director", "Animator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Shinichiro-Watanabe-20090703-Japan-Expo-01-cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shinichiro_Watanabe"
 lastUpdated: "2026-03-12"

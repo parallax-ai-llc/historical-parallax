@@ -22,7 +22,7 @@ Indian politician from Bihar convicted of murder who wielded power from prison. 
 | 1998 | Elected to Parliament despite murder charges |
 | 2015 | Acquitted after witnesses turned hostile |
 
-## References
+
 
 [^1]: Wikipedia, "Pappu Yadav" - https://en.wikipedia.org/wiki/Pappu_Yadav
 
@@ -49,3 +49,6 @@ Yadav is frequently cited in debates about “criminalization of politics” in 
 ## Notes on Sources
 
 Because biographies of living political figures can change with new elections and legal developments, timelines should be treated as snapshots and updated as court outcomes and party affiliations evolve.
+
+
+## References

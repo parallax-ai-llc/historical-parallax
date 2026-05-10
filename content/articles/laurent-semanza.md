@@ -21,7 +21,7 @@ Rwandan mayor convicted of genocide for organizing Tutsi massacres in his commun
 |------|-------|
 | 2003 | Convicted of genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Laurent Semanza" - https://en.wikipedia.org/wiki/Laurent_Semanza
 
@@ -57,3 +57,6 @@ Rwandan mayor convicted of genocide for organizing Tutsi massacres in his commun
 - 1994 genocide against the Tutsi in Rwanda
 - Post-genocide accountability and war-crimes prosecutions
 - Local administration and civilian protection failures in mass atrocity contexts
+
+
+## References

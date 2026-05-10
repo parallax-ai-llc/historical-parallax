@@ -22,7 +22,7 @@ This artist entry is misplaced in the scientist category.
 | 1884 | Born |
 | 1920 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Amedeo Modigliani" - https://en.wikipedia.org/wiki/Amedeo_Modigliani
 
@@ -73,3 +73,6 @@ Although his public reputation is dominated by painting, secondary sources commo
 ## References (Additional)
 
 [^2]: Major museum collection notes and art-historical survey texts (for overview descriptions of style, periods, and reception).
+
+
+## References

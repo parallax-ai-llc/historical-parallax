@@ -21,7 +21,7 @@ Led the 1990 Islamist coup attempt in Trinidad, taking the prime minister hostag
 |------|-------|
 | 1990 | Led Jamaat al Muslimeen coup attempt |
 
-## References
+
 
 [^1]: Wikipedia, "Yasin Abu Bakr" - https://en.wikipedia.org/wiki/Yasin_Abu_Bakr
 
@@ -62,3 +62,6 @@ Abu Bakr’s legacy is primarily tied to:
 - The durability of the **1990 coup attempt** as a national reference point for political violence.
 - Ongoing debate about the social and political conditions that allowed an armed movement to challenge the state.
 - The ways Trinidad and Tobago’s institutions responded to the crisis, shaping later approaches to internal security and extremism.
+
+
+## References

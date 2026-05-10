@@ -22,7 +22,7 @@ Supporters of President Trump stormed the US Capitol in an attempt to overturn t
 | 2021 | Trump supporters stormed US Capitol |
 | 2023 | Over 1,000 defendants charged |
 
-## References
+
 
 [^1]: Wikipedia, "Capitol Insurrection" - https://en.wikipedia.org/wiki/Capitol_Insurrection
 
@@ -52,3 +52,6 @@ The Capitol attack became a reference point in U.S. politics and civic discourse
 
 [^2]: U.S. Department of Justice, "Capitol Breach Cases" (case updates and statistics) - https://www.justice.gov/usao-dc/capitol-breach-cases
 [^3]: U.S. House Select Committee to Investigate the January 6th Attack, final report and materials (archived) - https://www.govinfo.gov/app/collection/jan6
+
+
+## References

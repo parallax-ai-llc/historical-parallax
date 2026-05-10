@@ -23,7 +23,7 @@ Willi Dansgaard pioneered ice core climate studies.
 | 1969 | Drilled Camp Century ice core |
 | 2011 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Willi Dansgaard" - https://en.wikipedia.org/wiki/Willi_Dansgaard
 
@@ -52,3 +52,6 @@ Dansgaard is frequently cited in the history of climate science for helping turn
 
 - Greenland ice-sheet drilling programs
 - Paleoclimate isotope geochemistry
+
+
+## References

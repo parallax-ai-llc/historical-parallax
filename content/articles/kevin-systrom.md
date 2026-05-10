@@ -5,7 +5,7 @@ birth: "1983-12-30"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Kevin_Systrom_2018_%2840980041741%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kevin_Systrom"
 lastUpdated: "2026-02-21"

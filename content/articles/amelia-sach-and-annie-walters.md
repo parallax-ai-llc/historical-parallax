@@ -23,7 +23,7 @@ British baby farmers known as the 'Finchley Baby Farmers' who murdered at least 
 | 1902 | Arrested |
 | 1903 | Hanged at Holloway Prison |
 
-## References
+
 
 [^1]: Wikipedia, "Amelia Sach and Annie Walters" - https://en.wikipedia.org/wiki/Amelia_Sach_and_Annie_Walters
 ## Background: "Baby Farming" in Late-Victorian Britain
@@ -48,3 +48,6 @@ They were tried, convicted of murder, and executed in 1903. Their executions at 
 
 - **Primary source**: the linked Wikipedia article in References.
 - **Article type**: short biographical overview intended for high-level context.
+
+
+## References

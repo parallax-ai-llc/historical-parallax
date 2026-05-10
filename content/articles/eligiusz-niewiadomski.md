@@ -22,7 +22,7 @@ Polish painter and nationalist who assassinated Poland's first president, Gabrie
 | 1922 | Assassinated President Narutowicz at an art exhibition |
 | 1923 | Executed by firing squad |
 
-## References
+
 
 [^1]: Wikipedia, "Eligiusz Niewiadomski" - https://en.wikipedia.org/wiki/Eligiusz_Niewiadomski
 
@@ -81,3 +81,6 @@ High-profile political assassinations typically generate immediate security crac
 ## Legacy
 
 The assassination left a lasting mark on Polish political memory. Later interpretations often focus on lessons about civic norms, institutional resilience, and how inflammatory rhetoric can translate into real-world harm.
+
+
+## References

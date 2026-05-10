@@ -22,7 +22,7 @@ See Ibn al-Haytham entry.
 | 965 | Born |
 | 1040 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Hasan Ibn al-Haytham" - https://en.wikipedia.org/wiki/Hasan_Ibn_al-Haytham
 
@@ -48,3 +48,6 @@ See Ibn al-Haytham entry.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
+
+
+## References

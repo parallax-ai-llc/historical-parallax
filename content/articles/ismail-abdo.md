@@ -21,7 +21,7 @@ Young Swedish gang leader convicted of ordering murders in Stockholm's gang conf
 |------|-------|
 | 2020 | Convicted of murder in gang war |
 
-## References
+
 
 [^1]: Wikipedia, "Ismail Abdo" - https://en.wikipedia.org/wiki/Ismail_Abdo
 
@@ -68,3 +68,6 @@ Key details to verify before adding:
 - Gang violence and criminal networks in Sweden
 - Swedish criminal justice process (investigation → prosecution → district court → appeals)
 - Media ethics: reporting on organized crime without amplifying rumors
+
+
+## References

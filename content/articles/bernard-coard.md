@@ -21,7 +21,7 @@ Deputy PM who orchestrated the coup and execution of PM Maurice Bishop in Grenad
 |------|-------|
 | 1983 | Orchestrated coup and murder of PM Bishop |
 
-## References
+
 
 [^1]: Wikipedia, "Bernard Coard" - https://en.wikipedia.org/wiki/Bernard_Coard
 
@@ -49,3 +49,6 @@ Deputy PM who orchestrated the coup and execution of PM Maurice Bishop in Grenad
 ## Additional Reading
 
 - For an overview of Coard's biography and the 1983 events in Grenada, see the Wikipedia entry and its referenced sources.[^1]
+
+
+## References

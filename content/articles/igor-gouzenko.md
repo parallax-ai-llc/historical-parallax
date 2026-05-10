@@ -23,7 +23,7 @@ Soviet cipher clerk who defected in Ottawa in 1945, exposing a massive Soviet es
 | 1945 | Defected with 109 documents proving Soviet espionage |
 | 1982 | Died in hiding in Canada under assumed identity |
 
-## References
+
 
 [^1]: Wikipedia, "Igor Gouzenko" - https://en.wikipedia.org/wiki/Igor_Gouzenko
 
@@ -50,3 +50,6 @@ When using this entry as a starting point, prioritize (1) contemporaneous primar
 ## Reading guide
 
 When using this entry as a starting point, prioritize (1) contemporaneous primary material, (2) reputable secondary syntheses, and (3) cross-checking across independent outlets. This helps reduce errors from mistranslation, name collisions, and evolving narratives.
+
+
+## References

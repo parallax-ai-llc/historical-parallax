@@ -21,7 +21,7 @@ Belgian-Italian broadcaster who incited genocide on RTLM radio in Rwanda.
 |------|-------|
 | 2000 | Pleaded guilty to inciting genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Georges Ruggiu" - https://en.wikipedia.org/wiki/Georges_Ruggiu
 
@@ -58,3 +58,6 @@ Radio Télévision Libre des Mille Collines (RTLM) was a private radio station t
 ## References (Additional)
 
 [^2]: ICTR (International Criminal Tribunal for Rwanda) case materials and summaries on media-related prosecutions (see ICTR archives and secondary summaries).
+
+
+## References

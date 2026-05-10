@@ -22,7 +22,7 @@ Moroccan-Dutch organized crime network controlling much of Europe's cocaine trad
 | 2012 | Gang wars began in Amsterdam |
 | 2021 | Journalist Peter R. de Vries murdered |
 
-## References
+
 
 [^1]: Wikipedia, "Mocro Mafia" - https://en.wikipedia.org/wiki/Mocro_Mafia
 
@@ -57,3 +57,6 @@ The topic is often discussed in the context of:
 ## Further reading
 
 - Wikipedia overview and citations in the linked entry[^1]
+
+
+## References

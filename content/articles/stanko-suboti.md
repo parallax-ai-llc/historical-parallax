@@ -21,7 +21,7 @@ Serbian tobacco smuggler who became one of the region's wealthiest men through s
 |------|-------|
 | 2001 | Charged with massive cigarette smuggling |
 
-## References
+
 
 [^1]: Wikipedia, "Stanko Subotić" - https://en.wikipedia.org/wiki/Stanko_Suboti%C4%87
 
@@ -56,3 +56,6 @@ The Subotić story is frequently used as an example in broader analyses of:
 ## Notes on Sources
 
 Most English-language summaries rely heavily on secondary reporting and brief encyclopedia-style accounts. For careful use, it is important to distinguish between **allegations, charges, and final judicial outcomes**, which may evolve over time and differ across jurisdictions.
+
+
+## References

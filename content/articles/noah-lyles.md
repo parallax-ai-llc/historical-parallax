@@ -22,7 +22,7 @@ Noah Lyles won 100m gold at 2024 Paris and the 2023 World 100m/200m double.
 | 2023 | Won World Championship double |
 | 2024 | Won 100m gold at Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Noah Lyles" - https://en.wikipedia.org/wiki/Noah_Lyles
 
@@ -54,3 +54,6 @@ Elite sprint performance generally depends on:
 - injury management across a long season.
 
 Lyles’ results are commonly interpreted through these lenses, especially when comparing his 100m and 200m outcomes.
+
+
+## References

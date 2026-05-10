@@ -22,7 +22,7 @@ Murder of six Italians outside a restaurant in Duisburg, Germany on August 15, 2
 | 2007 | Six Italians shot dead |
 | 2007 | Revealed Ndrangheta presence in Germany |
 
-## References
+
 
 [^1]: Wikipedia, "Duisburg Massacre" - https://en.wikipedia.org/wiki/Duisburg_Massacre
 
@@ -49,3 +49,6 @@ Murder of six Italians outside a restaurant in Duisburg, Germany on August 15, 2
 ### Significance
 
 - The case is frequently referenced as a turning point in public awareness of **organized crime in Europe**, particularly regarding how clan structures can maintain influence across borders while remaining difficult to detect.
+
+
+## References

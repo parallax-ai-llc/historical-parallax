@@ -5,7 +5,7 @@ birth: "1956-07-20"
 death: "Unknown"
 nationality: "Uganda"
 occupation: ["Political Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Kizza_Besigye.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kizza_Besigye"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Ugandan opposition leader arrested over 40 times and charged with treason and ra
 | 2001 | First presidential bid |
 | 2021 | Over 40 arrests |
 
-## References
+
 
 [^1]: Wikipedia, "Kizza Besigye" - https://en.wikipedia.org/wiki/Kizza_Besigye
 
@@ -51,3 +51,6 @@ Regardless of partisan interpretation, Besigye has played a central role in shap
 - Politics of Uganda
 - Forum for Democratic Change
 - Walk-to-Work protests
+
+
+## References

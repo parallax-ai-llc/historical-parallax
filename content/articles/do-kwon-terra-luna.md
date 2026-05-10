@@ -24,7 +24,7 @@ South Korean cryptocurrency entrepreneur whose TerraUSD and Luna tokens collapse
 | 2023 | Arrested in Montenegro with fake passport |
 | 2024 | Extradited to the United States |
 
-## References
+
 
 [^1]: Wikipedia, "Do Kwon Terra Luna" - https://en.wikipedia.org/wiki/Do_Kwon_Terra_Luna
 
@@ -50,3 +50,6 @@ The Terra/Luna collapse is often used as a case study in the risks of algorithmi
 ## See also
 
 - Algorithmic stablecoin
+
+
+## References

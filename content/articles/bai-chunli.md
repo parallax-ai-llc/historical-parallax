@@ -23,7 +23,7 @@ Bai Chunli is a Chinese nanoscientist who served as president of the Chinese Aca
 | 1985 | Received PhD |
 | 2011 | Became CAS president |
 
-## References
+
 
 [^1]: Wikipedia, "Bai Chunli" - https://en.wikipedia.org/wiki/Bai_Chunli
 
@@ -50,3 +50,6 @@ As president of the Chinese Academy of Sciences (CAS), Bai was positioned at the
 ## Broader Significance
 
 Profiles of Bai frequently frame him as an example of the modern scientist-administrator: a senior researcher whose influence extends beyond laboratory work into national science planning and institutional reform.
+
+
+## References

@@ -22,7 +22,7 @@ Former FARC peace negotiator who rejected the peace deal and returned to armed r
 | 2016 | Led FARC peace negotiations |
 | 2019 | Announced return to armed rebellion |
 
-## References
+
 
 [^1]: Wikipedia, "Iván Márquez" - https://en.wikipedia.org/wiki/Iv%C3%A1n_M%C3%A1rquez
 
@@ -49,3 +49,6 @@ Former FARC peace negotiator who rejected the peace deal and returned to armed r
 ## Additional References
 
 [^2]: United Nations Verification Mission in Colombia (general context on the peace process): https://colombia.unmissions.org/
+
+
+## References

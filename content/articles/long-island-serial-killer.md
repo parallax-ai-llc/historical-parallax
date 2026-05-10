@@ -42,10 +42,13 @@ Rex Heuermann was arrested in 2023 as the suspected Gilgo Beach serial killer wh
 - The long duration of the investigation led to sustained media scrutiny and public concern.
 - The case is often cited in discussions about missing-person investigations, coordination across agencies, and the role of new forensic and digital methods.
 
-## References
+
 
 [^1]: Wikipedia, "Long Island Serial Killer" - https://en.wikipedia.org/wiki/Long_Island_Serial_Killer
 
 ## Notes
 
 This article uses "LISK" as a common label for the investigation and discoveries; exact victim counts and linkage assessments can vary by source and by the stage of the investigation.
+
+
+## References

@@ -23,7 +23,7 @@ James Peebles shared the 2019 Nobel Prize for theoretical discoveries in physica
 | 1965 | Predicted CMB properties |
 | 2019 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "James Peebles" - https://en.wikipedia.org/wiki/James_Peebles
 
@@ -48,3 +48,6 @@ In 2019 he shared the Nobel Prize in Physics for theoretical discoveries in phys
 - Big Bang cosmology and early-universe physics
 - CMB predictions and cosmological parameters
 - Galaxy formation and large-scale structure
+
+
+## References

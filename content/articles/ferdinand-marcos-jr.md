@@ -23,7 +23,7 @@ Filipino president and son of dictator Ferdinand Marcos. He was convicted of tax
 | 1997 | Conviction overturned on appeal |
 | 2022 | Elected president of the Philippines |
 
-## References
+
 
 [^1]: Wikipedia, "Ferdinand Marcos Jr." - https://en.wikipedia.org/wiki/Ferdinand_Marcos_Jr.
 
@@ -48,3 +48,6 @@ Critics have accused Marcos Jr. and allied networks of historical revisionism re
 ## References (additional)
 
 [^2]: Wikipedia, "Bongbong Marcos" - https://en.wikipedia.org/wiki/Bongbong_Marcos
+
+
+## References

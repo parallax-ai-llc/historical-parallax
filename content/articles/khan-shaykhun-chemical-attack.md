@@ -22,7 +22,7 @@ Syrian governments sarin nerve agent attack on the rebel-held town of Khan Shayk
 | 2017 | Sarin attack killed 80+ |
 | 2017 | US launched cruise missiles at Syrian airbase |
 
-## References
+
 
 [^1]: Wikipedia, "Khan Shaykhun Chemical Attack" - https://en.wikipedia.org/wiki/Khan_Shaykhun_Chemical_Attack
 
@@ -51,3 +51,6 @@ The event became a major reference point in debates over enforcement of the Chem
 - Syrian civil war
 - Chemical weapons in the Syrian civil war
 - Shayrat Airbase missile strike
+
+
+## References

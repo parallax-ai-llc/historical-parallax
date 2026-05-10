@@ -5,7 +5,7 @@ birth: "1927-01-01"
 death: "1959-09-16"
 nationality: "Thailand"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/13/Si_Quey_Sae-Ung.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Si_Ouey_Sae_Urng"
 lastUpdated: "2026-02-26"

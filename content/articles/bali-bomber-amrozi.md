@@ -23,7 +23,7 @@ Indonesian terrorist known as the 'smiling assassin' for his gleeful demeanor. H
 | 2003 | Convicted and sentenced to death |
 | 2008 | Executed by firing squad |
 
-## References
+
 
 [^1]: Wikipedia, "Bali bomber Amrozi" - https://en.wikipedia.org/wiki/Bali_bomber_Amrozi
 
@@ -53,3 +53,6 @@ Indonesian terrorist known as the 'smiling assassin' for his gleeful demeanor. H
 - The Bali bombings are frequently cited as a turning point in Indonesia’s modern security policy.
 - Subsequent years saw expanded counterterrorism capabilities, including specialist units and changes in investigative and intelligence coordination.
 - The incident also influenced regional approaches to extremist financing, cross-border networks, and travel of militants.
+
+
+## References

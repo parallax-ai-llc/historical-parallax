@@ -22,7 +22,7 @@ Cyclist stripped of seven Tour de France titles after being exposed for running 
 | 2012 | USADA stripped titles |
 | 2013 | Confessed to Oprah Winfrey |
 
-## References
+
 
 [^1]: Wikipedia, "Lance Armstrong Doping" - https://en.wikipedia.org/wiki/Lance_Armstrong_Doping
 
@@ -59,3 +59,6 @@ The scandal had ripple effects beyond Armstrong as an individual:
 ## Cultural and institutional impact
 
 Armstrong’s rise and fall is often discussed as a case study in the tension between extraordinary athletic achievement and the incentives created by competitive, commercialized sport. It is also used in ethics and governance contexts to examine how institutions respond when a high-profile figure is implicated in systemic rule-breaking.
+
+
+## References

@@ -21,7 +21,7 @@ Aum Shinrikyo member executed for producing sarin gas used in the Tokyo subway a
 |------|-------|
 | 2018 | Executed for role in sarin attack |
 
-## References
+
 
 [^1]: Wikipedia, "Tomomasa Nakagawa" - https://en.wikipedia.org/wiki/Tomomasa_Nakagawa
 
@@ -48,3 +48,6 @@ This article focuses on high-level, widely reported facts about Nakagawa’s rol
 ## Additional References
 
 [^2]: Wikipedia, "Tokyo subway sarin attack" - https://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack
+
+
+## References

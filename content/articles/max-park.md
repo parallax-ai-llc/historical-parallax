@@ -22,7 +22,7 @@ Max Park holds multiple Rubik's Cube world records including the 3x3 average rec
 | 2017 | Began breaking Rubik's Cube world records |
 | 2023 | Set 3x3 average world record |
 
-## References
+
 
 [^1]: Wikipedia, "Max Park" - https://en.wikipedia.org/wiki/Max_Park
 
@@ -49,3 +49,6 @@ Max Park holds multiple Rubik's Cube world records including the 3x3 average rec
 
 - World Cube Association
 - Rubik’s Cube
+
+
+## References

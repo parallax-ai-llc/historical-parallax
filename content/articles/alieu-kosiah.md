@@ -22,7 +22,7 @@ Former ULIMO commander during the First Liberian Civil War convicted by a Swiss 
 | 1993 | Led ULIMO forces responsible for murder, rape, and cannibalism in Lofa County |
 | 2021 | Convicted of war crimes by Swiss Federal Criminal Court |
 
-## References
+
 
 [^1]: Wikipedia, "Alieu Kosiah" - https://en.wikipedia.org/wiki/Alieu_Kosiah
 
@@ -59,3 +59,6 @@ The case is frequently cited in discussions of:
 ## Additional References
 
 [^2]: Swiss Federal Criminal Court (Bundesstrafgericht) case coverage and summaries (see links and citations referenced via Wikipedia).
+
+
+## References

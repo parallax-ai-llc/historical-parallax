@@ -21,7 +21,7 @@ Danish former gang leader shot dead moments after the launch of a book about lea
 |------|-------|
 | 2018 | Murdered at own book launch event |
 
-## References
+
 
 [^1]: Wikipedia, "Nedim Yasar" - https://en.wikipedia.org/wiki/Nedim_Yasar
 
@@ -52,3 +52,6 @@ Danish former gang leader shot dead moments after the launch of a book about lea
 
 - A book about his life was released in 2018 (Danish title: *Rødder: En Gangsters Udvej*), written by his co-host Marie Louise Toksvig.
 - His story is frequently referenced in Danish discussions about gang exit programs and rehabilitation.
+
+
+## References

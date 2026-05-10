@@ -24,7 +24,7 @@ Barbadian plantation owner known as 'The Gentleman Pirate' who became a pirate r
 | 1718 | Captured at Cape Fear River |
 | 1718 | Hanged in Charleston |
 
-## References
+
 
 [^1]: Wikipedia, "Stede Bonnet" - https://en.wikipedia.org/wiki/Stede_Bonnet
 
@@ -49,3 +49,6 @@ Bonnet’s life is remembered in piracy folklore as a story of social transgress
 - Wealthy Barbadian planter who turned to piracy during the Golden Age of Piracy.
 - Associated with Blackbeard and operated the sloop *Revenge*.
 - Captured and hanged in Charleston in 1718.
+
+
+## References

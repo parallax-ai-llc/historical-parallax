@@ -5,7 +5,7 @@ birth: "1745-09-04"
 death: "1812-12-27"
 nationality: "Russian Jewish"
 occupation: ["Rabbi", "Philosopher", "Hasidic Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Schneur_Zalman_of_Liadi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shneur_Zalman_of_Liadi"
 lastUpdated: "2026-02-21"

@@ -24,7 +24,7 @@ Malaysian terrorist and Jemaah Islamiyah bomb maker responsible for multiple dea
 | 2005 | Organized second Bali bombings |
 | 2009 | Killed in police raid in Central Java |
 
-## References
+
 
 [^1]: Wikipedia, "Noordin Mohammed Top" - https://en.wikipedia.org/wiki/Noordin_Mohammed_Top
 
@@ -55,3 +55,6 @@ Analysts often focus on:
 
 - Background on Jemaah Islamiyah and Southeast Asian counterterrorism policy
 - Academic and policy analyses of Indonesia’s post-2002 security reforms
+
+
+## References

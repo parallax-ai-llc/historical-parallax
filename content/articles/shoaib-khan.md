@@ -41,7 +41,7 @@ Because organized-crime reporting is often fragmented and politically sensitive,
 2. Check whether the referenced page is a **redirect or disambiguation** rather than a unique biography.
 3. Avoid merging with similarly named individuals without at least two matching identifiers.
 
-## References
+
 
 [^1]: Wikipedia, "Shoaib Khan" - https://en.wikipedia.org/wiki/Shoaib_Khan
 
@@ -52,3 +52,6 @@ If additional reliable sources are added later, this article could be expanded w
 - The specific **district/city** associated with the reported activities.
 - The **legal disposition** of the 2015 arrest (charges filed, trial status, conviction/acquittal).
 - Any clearly sourced information that distinguishes this person from other individuals with the same name.
+
+
+## References

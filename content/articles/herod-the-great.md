@@ -20,7 +20,7 @@ King of Judea who ordered the Massacre of the Innocents and murdered his own wif
 |------|-------|
 | -4 | Ordered Massacre of the Innocents |
 
-## References
+
 
 [^1]: Wikipedia, "Herod the Great" - https://en.wikipedia.org/wiki/Herod_the_Great
 
@@ -72,3 +72,6 @@ King of Judea who ordered the Massacre of the Innocents and murdered his own wif
 
 [^2]: Encyclopaedia Britannica, "Herod" - https://www.britannica.com/biography/Herod-king-of-Judaea
 [^3]: Jewish Encyclopedia, "Herod" - https://www.jewishencyclopedia.com/articles/7748-herod
+
+
+## References

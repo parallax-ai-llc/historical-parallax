@@ -21,7 +21,7 @@ Chinese government official who kept sex slaves in a dungeon he built in his bas
 |------|-------|
 | 2012 | Convicted of kidnapping and murder |
 
-## References
+
 
 [^1]: Wikipedia, "Li Hao" - https://en.wikipedia.org/wiki/Li_Hao
 
@@ -52,3 +52,5 @@ Wikipedia reports that a Luoyang court convicted Li Hao in **2012**, including o
 ## References
 
 [^2]: Wikipedia, "Luoyang sexual slavery case" ("Li Hao (murderer)") - https://en.wikipedia.org/wiki/Li_Hao_(murderer)
+
+

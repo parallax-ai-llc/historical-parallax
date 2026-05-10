@@ -23,7 +23,7 @@ Martin Karplus is an Austrian-American theoretical chemist who shared the 2013 N
 | 1970 | Developed molecular dynamics methods |
 | 2013 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Martin Karplus" - https://en.wikipedia.org/wiki/Martin_Karplus
 
@@ -50,3 +50,6 @@ Karplus held research and teaching positions at major institutions, and his work
 ## Enduring relevance
 
 Modern chemical software and workflows still reflect the multiscale thinking recognized by the 2013 Nobel Prize, keeping Karplus's contributions visible in everyday research practice.
+
+
+## References

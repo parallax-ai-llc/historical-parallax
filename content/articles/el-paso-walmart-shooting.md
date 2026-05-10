@@ -21,7 +21,7 @@ White supremacist drove 10 hours to target Hispanics at a Walmart in El Paso, ki
 |------|-------|
 | 2019 | 23 killed in racially motivated shooting |
 
-## References
+
 
 [^1]: Wikipedia, "El Paso Walmart Shooting" - https://en.wikipedia.org/wiki/El_Paso_Walmart_Shooting
 
@@ -58,3 +58,6 @@ White supremacist drove 10 hours to target Hispanics at a Walmart in El Paso, ki
 - Mass shootings in the United States
 - Hate crimes and domestic violent extremism
 - Online radicalization and extremist propaganda
+
+
+## References

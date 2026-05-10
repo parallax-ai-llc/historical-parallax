@@ -23,7 +23,7 @@ Russian ransomware group that became the worlds most prolific ransomware operati
 | 2023 | Most active ransomware group |
 | 2024 | Disrupted by law enforcement |
 
-## References
+
 
 [^1]: Wikipedia, "LockBit Ransomware" - https://en.wikipedia.org/wiki/LockBit_Ransomware
 
@@ -56,3 +56,6 @@ Such disruptions are typically significant but not always definitive, as brands 
 LockBit is often used as a case study for the industrialization of cyber extortion: mature branding, affiliate onboarding, and operational scale.
 
 It also illustrates the persistent challenge of cross-border enforcement when operators and infrastructure span multiple jurisdictions.
+
+
+## References

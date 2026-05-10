@@ -22,7 +22,7 @@ Founder of the Genyōsha (Dark Ocean Society), a powerful ultranationalist secre
 | 1881 | Founded Genyōsha |
 | 1944 | Died during WWII |
 
-## References
+
 
 [^1]: Wikipedia, "Toyama Mitsuru" - https://en.wikipedia.org/wiki/Toyama_Mitsuru
 
@@ -50,3 +50,6 @@ Founder of the Genyōsha (Dark Ocean Society), a powerful ultranationalist secre
 
 - Labels such as “secret society” and “organized crime” can blur distinct phenomena in this era; many groups operated through informal networks and front organizations.
 - For precise claims (membership, specific plots, direct orders), primary-source work and specialized scholarship are usually required.
+
+
+## References

@@ -21,7 +21,7 @@ Rwandan businessman and Interahamwe militia leader convicted of genocide.
 |------|-------|
 | 1999 | Convicted of genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Georges Rutaganda" - https://en.wikipedia.org/wiki/Georges_Rutaganda
 
@@ -51,3 +51,6 @@ Rwandan businessman and Interahamwe militia leader convicted of genocide.
 ## Additional References
 
 [^2]: ICTR (UN), case materials on Georges Rutaganda (Judgment/Appeal information) - https://unictr.irmct.org/
+
+
+## References

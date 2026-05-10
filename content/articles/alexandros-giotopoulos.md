@@ -21,7 +21,7 @@ Leader of the November 17 terrorist group that assassinated politicians and dipl
 |------|-------|
 | 2003 | Convicted of leading November 17 group |
 
-## References
+
 
 [^1]: Wikipedia, "Alexandros Giotopoulos" - https://en.wikipedia.org/wiki/Alexandros_Giotopoulos
 
@@ -60,3 +60,6 @@ The organization’s operations included high-profile assassinations and attacks
 ## Additional References
 
 [^2]: Wikipedia, "Revolutionary Organization 17 November" - https://en.wikipedia.org/wiki/Revolutionary_Organization_17_November
+
+
+## References

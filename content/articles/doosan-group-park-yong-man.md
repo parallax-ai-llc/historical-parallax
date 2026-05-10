@@ -21,7 +21,7 @@ Doosan Group chairman fined for tax evasion.
 |------|-------|
 | 2018 | Fined for tax evasion |
 
-## References
+
 
 [^1]: Wikipedia, "Doosan Group Park Yong-man" - https://en.wikipedia.org/wiki/Doosan_Group_Park_Yong-man
 
@@ -62,3 +62,6 @@ Doosan Group chairman fined for tax evasion.
 
 [^2]: Doosan Group (company profile pages; confirm leadership listings and dates) - https://www.doosan.com/
 [^3]: Korean news archives (for contemporaneous reporting on the 2018 case; verify exact facts before quoting) - (varies by outlet)
+
+
+## References

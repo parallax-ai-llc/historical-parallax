@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 | 2017 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Noriega" - https://en.wikipedia.org/wiki/Noriega
 
@@ -84,3 +84,6 @@ Duplicate consolidated.
 
 - See the Wikipedia article for a starting bibliography and links to major reporting on Operation Just Cause and Noriega’s prosecutions.
 
+
+
+## References

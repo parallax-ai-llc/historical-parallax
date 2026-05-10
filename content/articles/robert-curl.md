@@ -5,7 +5,7 @@ birth: "1933-08-23"
 death: "2022-07-03"
 nationality: "American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Robert_Curl_crop_2009_CHAO.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Curl"
 lastUpdated: "2026-02-21"

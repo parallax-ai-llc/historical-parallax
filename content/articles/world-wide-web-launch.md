@@ -26,7 +26,7 @@ Tim Berners-Lee publicly launched the World Wide Web on August 6, 1991, when the
 | 1994 | Amazon and Yahoo founded |
 | 2024 | 5+ billion web users |
 
-## References
+
 
 [^1]: Wikipedia, "World Wide Web Launch" - https://en.wikipedia.org/wiki/World_Wide_Web_Launch
 
@@ -49,3 +49,6 @@ The web’s launch created a standardized, hyperlink‑based way to publish and 
 ## Relationship to Later Growth
 
 Widespread public use expanded alongside improved browsers, search, and increased connectivity, but the initial launch period established the basic architecture that persists today.
+
+
+## References

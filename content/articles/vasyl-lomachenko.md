@@ -23,7 +23,7 @@ Vasyl Lomachenko won Olympic gold at 2008 and 2012 with a 396-1 amateur record, 
 | 2012 | Won gold at London |
 | 2022 | Joined Ukrainian territorial defense |
 
-## References
+
 
 [^1]: Wikipedia, "Vasyl Lomachenko" - https://en.wikipedia.org/wiki/Vasyl_Lomachenko
 
@@ -48,3 +48,6 @@ Beyond results, his career has been covered in the context of Ukrainian sport an
 He is frequently referenced in discussions about how amateur fundamentals translate to professional success, and his performances are often used as teaching examples in boxing media. Evaluations of his legacy typically focus on technical quality, the speed of his title achievements, and the depth of opposition he faced.
 
 This article summarizes widely reported milestones rather than attempting an exhaustive fight-by-fight record.
+
+
+## References

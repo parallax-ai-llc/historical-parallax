@@ -21,7 +21,7 @@ German banker at Warburg Bank charged in connection with the cum-ex dividend tax
 |------|-------|
 | 2023 | Charged in cum-ex scandal |
 
-## References
+
 
 [^1]: Wikipedia, "Christian Olearius" - https://en.wikipedia.org/wiki/Christian_Olearius
 
@@ -48,3 +48,6 @@ German banker at Warburg Bank charged in connection with the cum-ex dividend tax
 - **Withholding tax (dividend tax):** A tax withheld at source on dividend payments, often creditable or refundable under certain rules.
 - **Record date:** The date used to determine who is entitled to receive the dividend.
 - **Tax refund/credit:** A mechanism intended to prevent double taxation, which can be abused if documentation or ownership is misrepresented.
+
+
+## References

@@ -34,7 +34,7 @@ She was nicknamed *"Madame Deficit"* and hated more than ever. Napoleon later sa
 
 ---
 
-## References
+
 
 - **The Queen's Necklace** (Alexandre Dumas)
 - **Marie Antoinette: The Journey** (Antonia Fraser)
@@ -55,3 +55,6 @@ She was nicknamed *"Madame Deficit"* and hated more than ever. Napoleon later sa
 ## Political Significance
 
 The affair mattered less for the financial loss than for the symbolism: it fed perceptions that the court was corrupt, extravagant, and indifferent to hardship. Even though Marie Antoinette was not the architect of the fraud, the public narrative that crystallized around her became part of the broader crisis of legitimacy that culminated in revolution.
+
+
+## References

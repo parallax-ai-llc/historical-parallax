@@ -40,7 +40,7 @@ Roy’s jailing for contempt is commonly discussed as an example of the judiciar
 | 2014 | Jailed for contempt of Supreme Court |
 | 2016 | Released on parole |
 
-## References
+
 
 [^1]: Wikipedia, "Subrata Roy" - https://en.wikipedia.org/wiki/Subrata_Roy
 
@@ -49,3 +49,6 @@ Roy’s jailing for contempt is commonly discussed as an example of the judiciar
 Public reporting (including Wikipedia summaries) states that Roy died in 2023. The Sahara-related litigation and refund process is often discussed independently of his later personal status because it involves institutional records, investor claims, and court-supervised compliance.
 
 In investor-protection discussions, the case is frequently cited as a stress test of verification, enforcement, and restitution capacity at very large scale.
+
+
+## References

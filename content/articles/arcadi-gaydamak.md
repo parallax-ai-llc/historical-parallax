@@ -23,7 +23,7 @@ Russian-Israeli businessman convicted of illegal arms trafficking to Angola in t
 | 2009 | Convicted in France for Angolagate arms trafficking |
 | 2009 | Sentenced to 6 years, later reduced |
 
-## References
+
 
 [^1]: Wikipedia, "Arcadi Gaydamak" - https://en.wikipedia.org/wiki/Arcadi_Gaydamak
 
@@ -50,3 +50,6 @@ The Angolagate proceedings are often referenced in broader discussions about:
 ## Further Reading
 
 [^2]: Transparency and anti-corruption organizations’ background materials on arms-trade governance (general context) - https://www.transparency.org/
+
+
+## References

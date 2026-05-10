@@ -22,7 +22,7 @@ Chinese warlord who controlled five provinces in eastern China during the warlor
 | 1925 | Controlled five eastern Chinese provinces |
 | 1935 | Assassinated in Buddhist temple by victim's daughter |
 
-## References
+
 
 [^1]: Wikipedia, "Sun Chuanfang" - https://en.wikipedia.org/wiki/Sun_Chuanfang
 
@@ -50,3 +50,6 @@ Sun is remembered less for formal state-building than for illustrating the insta
 ## Notes
 
 This article focuses on high-level context and does not attempt to adjudicate disputed details beyond widely reported summaries.
+
+
+## References

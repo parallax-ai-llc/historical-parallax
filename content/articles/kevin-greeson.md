@@ -5,7 +5,7 @@ birth: "1966-01-01"
 death: "2021-01-06"
 nationality: "United States"
 occupation: ["Insurrectionist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg/3840px-2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kevin_Greeson"
 lastUpdated: "2026-02-26"

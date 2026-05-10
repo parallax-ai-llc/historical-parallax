@@ -5,7 +5,7 @@ birth: "1944-02-13"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/80/NYS_Assembly_Speaker_Sheldon_Silver_%286162420311%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sheldon_Silver"
 lastUpdated: "2026-02-26"

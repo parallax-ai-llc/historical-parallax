@@ -21,7 +21,7 @@ HealthSouth CEO Richard Scrushy directed a $2.7 billion accounting fraud, inflat
 |------|-------|
 | 2003 | $2.7 billion fraud exposed |
 
-## References
+
 
 [^1]: Wikipedia, "HealthSouth Scandal" - https://en.wikipedia.org/wiki/HealthSouth_Scandal
 
@@ -61,3 +61,6 @@ HealthSouth CEO Richard Scrushy directed a $2.7 billion accounting fraud, inflat
 - Sarbanes–Oxley Act (SOX)
 - Earnings management vs. fraud
 - Internal controls, audit committees, and whistleblowing
+
+
+## References

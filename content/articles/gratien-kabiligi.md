@@ -40,7 +40,7 @@ Rwandan military officer acquitted by the ICTR of genocide charges. He was accus
 - If this profile is expanded, it should clearly distinguish allegations from the tribunal’s findings and include citations to the ICTR judgment.
 - Where summaries label someone a "war criminal," ensure the label matches confirmed convictions; otherwise, describe the person as an accused individual who was acquitted.
 
-## References
+
 
 [^1]: Wikipedia, "Gratien Kabiligi" - https://en.wikipedia.org/wiki/Gratien_Kabiligi
 
@@ -49,3 +49,6 @@ Rwandan military officer acquitted by the ICTR of genocide charges. He was accus
 - Add a link to the ICTR case page and the full judgment (primary source).
 - Summarize, in a sourced way, the key reasons the tribunal gave for acquittal.
 - Clarify the role/title described as "head of military operations" with precise wording from the judgment.
+
+
+## References

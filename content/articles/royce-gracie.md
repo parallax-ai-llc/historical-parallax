@@ -23,7 +23,7 @@ Royce Gracie won the first three UFC tournaments, proving Brazilian Jiu-Jitsu's 
 | 1994 | Won UFC 2 and UFC 4 |
 | 2006 | Last UFC fight |
 
-## References
+
 
 [^1]: Wikipedia, "Royce Gracie" - https://en.wikipedia.org/wiki/Royce_Gracie
 
@@ -50,3 +50,6 @@ Royce Gracie won the first three UFC tournaments, proving Brazilian Jiu-Jitsu's 
 ## Ongoing Influence
 
 - Beyond his fights, Gracie remains a recognizable figure in martial arts culture through instruction, seminars, and the broader Gracie lineage’s role in combat-sports branding.
+
+
+## References

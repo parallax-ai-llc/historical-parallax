@@ -5,7 +5,7 @@ birth: "1953-11-29"
 death: "N/A (Imprisoned)"
 nationality: "United Kingdom"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b1/FredandRoseWest.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rosemary_West"
 lastUpdated: "2026-02-21"

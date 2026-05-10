@@ -21,7 +21,7 @@ Former President Compaoré was convicted in absentia for the assassination of Th
 |------|-------|
 | 2022 | Convicted in absentia |
 
-## References
+
 
 [^1]: Wikipedia, "Blaise Compaoré Trial" - https://en.wikipedia.org/wiki/Blaise_Compaor%C3%A9_Trial
 
@@ -50,3 +50,6 @@ Former President Compaoré was convicted in absentia for the assassination of Th
 ## Notes
 
 This article summarizes widely reported, high-level facts about the case; for detailed filings, charge sheets, and co-defendant outcomes, consult primary documents and reputable contemporary reporting.
+
+
+## References

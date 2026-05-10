@@ -39,7 +39,7 @@ Angelo Buono was one of the Hillside Stranglers who, with cousin Kenneth Bianchi
 - **Kenneth Bianchi** (cousin; co-offender)
 - Hillside Stranglers case
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: https://en.wikipedia.org/wiki/Angelo_Buono_Jr.
 [^3]: https://en.wikipedia.org/wiki/Hillside_Strangler
@@ -65,3 +65,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

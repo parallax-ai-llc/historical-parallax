@@ -23,7 +23,7 @@ Cryptocurrency fraud that defrauded investors of $4 billion worldwide. Founded b
 | 2017 | Ignatova disappeared |
 | 2023 | Co-founder Karl Greenwood sentenced |
 
-## References
+
 
 [^1]: Wikipedia, "OneCoin" - https://en.wikipedia.org/wiki/OneCoin
 
@@ -53,3 +53,6 @@ This article is intentionally high-level. For a detailed chronology (companies, 
 - Returns or growth claims that are not independently verifiable.
 - Centralized “price” setting without transparent market discovery.
 - Compensation driven primarily by recruiting new participants.
+
+
+## References

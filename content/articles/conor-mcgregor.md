@@ -23,7 +23,7 @@ Conor McGregor was the first UFC fighter to hold two titles simultaneously. He b
 | 2016 | Won lightweight title |
 | 2017 | Boxed Mayweather |
 
-## References
+
 
 [^1]: Wikipedia, "Conor McGregor" - https://en.wikipedia.org/wiki/Conor_McGregor
 
@@ -53,3 +53,5 @@ Conor McGregor was the first UFC fighter to hold two titles simultaneously. He b
 
 [^2]: UFC event records, title histories, and athletic commission summaries.
 [^3]: Mainstream sports and business reporting on the Mayweather–McGregor event and subsequent brand ventures.
+
+

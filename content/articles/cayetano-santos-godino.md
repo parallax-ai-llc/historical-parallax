@@ -24,7 +24,7 @@ Argentine serial killer known as 'Petiso Orejudo' who murdered four children and
 | 1912 | Sentenced to life in Ushuaia prison |
 | 1944 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Cayetano Santos Godino" - https://en.wikipedia.org/wiki/Cayetano_Santos_Godino
 
@@ -49,3 +49,6 @@ Godino was sentenced to life imprisonment and transferred to the penitentiary in
 The case is frequently cited in Argentine true-crime history and in broader debates about how societies respond to violent crimes committed by minors. It also illustrates how sensational reporting and public fear can influence the way a criminal episode is remembered.
 
 Modern retellings often emphasize the limits of the era’s policing and forensic methods, which shaped both the investigation and the public narrative.
+
+
+## References

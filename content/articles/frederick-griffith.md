@@ -24,7 +24,7 @@ Frederick Griffith was a British bacteriologist who discovered bacterial transfo
 | 1928 | Published Griffith experiment on bacterial transformation |
 | 1941 | Killed in London Blitz bombing |
 
-## References
+
 
 [^1]: Wikipedia, "Frederick Griffith" - https://en.wikipedia.org/wiki/Frederick_Griffith
 
@@ -49,3 +49,6 @@ Griffith worked during a period when pneumonia was a major public health threat 
 - Avery–MacLeod–McCarty experiment
 - Bacterial transformation
 - History of molecular biology
+
+
+## References

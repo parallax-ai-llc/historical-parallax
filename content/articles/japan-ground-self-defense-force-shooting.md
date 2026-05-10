@@ -21,7 +21,7 @@ An 18-year-old JGSDF trainee opened fire at a shooting range in Gifu Prefecture,
 |------|-------|
 | 2023 | Trainee killed 2 instructors at shooting range |
 
-## References
+
 
 [^1]: Wikipedia, "Japan Ground Self-Defense Force Shooting" - https://en.wikipedia.org/wiki/Japan_Ground_Self-Defense_Force_Shooting
 
@@ -66,3 +66,6 @@ Public reporting on similar incidents typically includes:
 - Japan Self-Defense Forces (JSDF)
 - Firearms incidents in military training environments
 
+
+
+## References

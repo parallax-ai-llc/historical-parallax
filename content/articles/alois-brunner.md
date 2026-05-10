@@ -21,7 +21,7 @@ Nazi war criminal responsible for deporting 128,000 Jews to death camps, believe
 |------|-------|
 | 1954 | Escaped to Syria via Egypt |
 
-## References
+
 
 [^1]: Wikipedia, "Alois Brunner" - https://en.wikipedia.org/wiki/Alois_Brunner
 
@@ -63,3 +63,6 @@ Nazi war criminal responsible for deporting 128,000 Jews to death camps, believe
 
 [^2]: United States Holocaust Memorial Museum (USHMM), encyclopedia/background resources on Holocaust perpetrators and deportation systems (see site search for "Alois Brunner"): https://www.ushmm.org/
 [^3]: Britannica, "Alois Brunner" (biographical overview): https://www.britannica.com/biography/Alois-Brunner
+
+
+## References

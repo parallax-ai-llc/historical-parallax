@@ -23,7 +23,7 @@ Wally Herbert led the first confirmed surface crossing of the Arctic Ocean in 19
 | 1969 | Completed first confirmed surface crossing of Arctic |
 | 2007 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Wally Herbert" - https://en.wikipedia.org/wiki/Wally_Herbert
 
@@ -49,3 +49,6 @@ Herbert is remembered for combining traditional travel methods (including dog sl
 
 - History of Arctic exploration and competing claims about reaching the North Pole.
 - Navigation challenges on moving sea ice (drift, leads, and pressure ridges).
+
+
+## References

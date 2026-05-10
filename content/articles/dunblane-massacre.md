@@ -22,7 +22,7 @@ Mass shooting at Dunblane Primary School in Scotland on March 13, 1996 killing 1
 | 1996 | 16 children and 1 teacher killed |
 | 1997 | UK handgun ban enacted |
 
-## References
+
 
 [^1]: Wikipedia, "Dunblane Massacre" - https://en.wikipedia.org/wiki/Dunblane_Massacre
 
@@ -48,3 +48,6 @@ Mass shooting at Dunblane Primary School in Scotland on March 13, 1996 killing 1
 - The event had long-lasting effects on victims’ families and on the community, with memorials and ongoing commemorations.
 - Dunblane’s legacy is also discussed in relation to later UK gun-crime policy and policing practices.
 - In the UK, Dunblane is commonly referenced alongside the Hungerford massacre (1987) when summarizing the evolution of postwar firearms regulation.
+
+
+## References

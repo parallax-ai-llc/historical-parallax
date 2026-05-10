@@ -5,7 +5,7 @@ birth: "1939-04-13"
 death: "2013-08-30"
 nationality: "Irish"
 occupation: ["Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Seamus_Heaney%2C_Irish_poet%2C_brightened_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seamus_Heaney"
 lastUpdated: "2026-02-21"

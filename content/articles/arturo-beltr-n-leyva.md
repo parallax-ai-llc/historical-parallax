@@ -22,7 +22,7 @@ Mexican drug lord who led the Beltrán Leyva Cartel after splitting from the Sin
 | 2008 | Split from Sinaloa Cartel; formed own organization |
 | 2009 | Killed in shootout with Mexican marines in Cuernavaca |
 
-## References
+
 
 [^1]: Wikipedia, "Arturo Beltrán Leyva" - https://en.wikipedia.org/wiki/Arturo_Beltr%C3%A1n_Leyva
 
@@ -53,3 +53,6 @@ Beltrán Leyva was killed during a Mexican Navy (SEMAR) operation in Cuernavaca,
 ## References (Additional)
 
 [^2]: U.S. and Mexican reporting summaries on the Beltrán Leyva Organization’s emergence after the Sinaloa split (see Wikipedia overview and linked sources).
+
+
+## References

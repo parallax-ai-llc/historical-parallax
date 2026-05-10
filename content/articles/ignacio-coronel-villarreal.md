@@ -22,7 +22,7 @@ Known as 'Nacho Coronel,' he was one of the Sinaloa Cartel's top leaders and the
 | 2000 | Became major Sinaloa Cartel figure |
 | 2010 | Killed in military raid |
 
-## References
+
 
 [^1]: Wikipedia, "Ignacio Coronel Villarreal" - https://en.wikipedia.org/wiki/Ignacio_Coronel_Villarreal
 
@@ -57,3 +57,6 @@ Analysts often cite Coronel as an example of how synthetic drugs (especially met
 - Sinaloa Cartel
 - Mexican Drug War
 - Methamphetamine trafficking in North America
+
+
+## References

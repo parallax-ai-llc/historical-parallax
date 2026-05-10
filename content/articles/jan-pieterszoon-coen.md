@@ -21,7 +21,7 @@ Dutch colonial governor who ordered the genocide of the Banda Islands population
 |------|-------|
 | 1621 | Ordered genocide of Banda Islanders for nutmeg |
 
-## References
+
 
 [^1]: Wikipedia, "Jan Pieterszoon Coen" - https://en.wikipedia.org/wiki/Jan_Pieterszoon_Coen
 
@@ -57,3 +57,6 @@ Dutch colonial governor who ordered the genocide of the Banda Islands population
 - Dutch East India Company (VOC)
 - Banda Islands
 - Batavia (Jakarta)
+
+
+## References

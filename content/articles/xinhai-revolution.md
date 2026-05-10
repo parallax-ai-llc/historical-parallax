@@ -26,7 +26,7 @@ The Xinhai Revolution of 1911 overthrew the Qing dynasty, ending over 2,000 year
 | 1912-02-12 | Emperor Puyi abdicates |
 | 1912 | 2,000 years of empire ends |
 
-## References
+
 
 [^1]: Wikipedia, "Xinhai Revolution" - https://en.wikipedia.org/wiki/Xinhai_Revolution
 
@@ -49,3 +49,6 @@ The revolution is often treated as a hinge between imperial governance and the t
 ## Historical Debate
 
 Interpretations differ on whether the Xinhai Revolution should be understood primarily as a nationalist breakthrough, a military-political realignment, or the start of a longer, unfinished state-building project. These debates often focus on the balance between revolutionary ideology and the constraints of regional power.
+
+
+## References

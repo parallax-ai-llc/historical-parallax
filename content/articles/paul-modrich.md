@@ -23,7 +23,7 @@ Paul Modrich is an American biochemist who shared the 2015 Nobel Prize in Chemis
 | 1989 | Characterized mismatch repair |
 | 2015 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Paul Modrich" - https://en.wikipedia.org/wiki/Paul_Modrich
 
@@ -49,3 +49,6 @@ Readers may also look for:
 - Broader historical or social context for the period
 - Similar figures/events in the same domain
 - Summaries in reference works and major news archives
+
+
+## References

@@ -24,7 +24,7 @@ Belgian filmmaker whose Jeanne Dielman is considered the greatest film ever made
 | 1999 | Creates From the Other Side |
 | 2015 | Dies in Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Chantal Akerman" - https://en.wikipedia.org/wiki/Chantal_Akerman
 
@@ -51,3 +51,6 @@ Belgian filmmaker whose Jeanne Dielman is considered the greatest film ever made
 ## See also
 
 - Slow cinema
+
+
+## References

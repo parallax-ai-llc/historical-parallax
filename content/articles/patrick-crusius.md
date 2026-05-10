@@ -48,8 +48,11 @@ Patrick Crusius killed 23 people at a Walmart in El Paso, Texas on August 3, 201
 - The attack became one of the deadliest mass shootings in modern U.S. history.
 - It prompted renewed scrutiny of domestic violent extremism, particularly white-supremacist violence, and debates over how to prevent copycat attacks.
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Notes on terminology
 - News and court filings commonly describe the case using **hate-crime** and **domestic terrorism** frameworks; the exact labels can vary by jurisdiction and charging strategy.
+
+
+## References

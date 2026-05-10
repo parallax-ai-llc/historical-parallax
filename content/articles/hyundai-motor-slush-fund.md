@@ -21,7 +21,7 @@ Hyundai Motor Chairman Chung Mong-koo was convicted of embezzling $100 million t
 |------|-------|
 | 2007 | Convicted of embezzlement |
 
-## References
+
 
 [^1]: Wikipedia, "Hyundai Motor Slush Fund" - https://en.wikipedia.org/wiki/Hyundai_Motor_Slush_Fund
 
@@ -60,3 +60,6 @@ Hyundai Motor Chairman Chung Mong-koo was convicted of embezzling $100 million t
 - Corporate accounting controls and internal audit independence
 - South Korean political funding controversies
 - White-collar crime enforcement and sentencing standards
+
+
+## References

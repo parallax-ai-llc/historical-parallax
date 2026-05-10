@@ -21,7 +21,7 @@ New Zealand politician involved in donation fraud case.
 |------|-------|
 | 2008 | Involved in donation fraud allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Winston Peters" - https://en.wikipedia.org/wiki/Winston_Peters
 
@@ -76,3 +76,6 @@ This article’s summary line about donation-related allegations is a simplified
 ## References (additional)
 
 [^2]: New Zealand Parliament resources (biographical and parliamentary service records), where applicable.
+
+
+## References

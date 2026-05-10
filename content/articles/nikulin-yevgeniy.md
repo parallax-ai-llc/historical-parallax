@@ -21,7 +21,7 @@ Russian hacker convicted of hacking LinkedIn, Dropbox, and Formspring, stealing 
 |------|-------|
 | 2020 | Convicted of hacking major tech companies |
 
-## References
+
 
 [^1]: Wikipedia, "Nikulin Yevgeniy" - https://en.wikipedia.org/wiki/Nikulin_Yevgeniy
 
@@ -59,3 +59,6 @@ Russian hacker convicted of hacking LinkedIn, Dropbox, and Formspring, stealing 
 
 [^2]: LinkedIn breach (background context) — https://en.wikipedia.org/wiki/2012_LinkedIn_hack
 [^3]: Dropbox security incident (background context) — https://en.wikipedia.org/wiki/Dropbox#Security
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1739-01-01"
 death: "1812-12-31"
 nationality: "Korean"
 occupation: ["Merchant", "Philanthropist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Portraits_of_kings_at_Tongiljeon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Man-deok"
 lastUpdated: "2026-02-21"

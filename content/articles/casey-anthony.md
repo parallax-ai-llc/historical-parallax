@@ -19,7 +19,7 @@ Casey Anthony was acquitted of murdering her 2-year-old daughter Caylee in a 201
 |------|-------|
 | 1986 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -61,3 +61,6 @@ Casey Anthony was acquitted of murdering her 2-year-old daughter Caylee in a 201
 ## Notes on Sources
 - Reliable summaries generally focus on court filings, trial transcripts, and contemporaneous reporting.
 - When reviewing secondary accounts, distinguish between confirmed courtroom evidence and later commentary.
+
+
+## References

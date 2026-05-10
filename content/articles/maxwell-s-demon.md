@@ -21,7 +21,7 @@ Already covered - see James Clerk Maxwell. Duplicate check.
 |------|-------|
 | 1831 | Born |
 
-## References
+
 
 [^1]: Wikipedia, "Maxwell's demon" - https://en.wikipedia.org/wiki/Maxwell's_demon
 
@@ -66,3 +66,6 @@ Already covered - see James Clerk Maxwell. Duplicate check.
 [^2]: J. C. Maxwell, *Theory of Heat* (discussion of the thought experiment; later editions widely cited).
 [^3]: L. Szilard, "On the Decrease of Entropy in a Thermodynamic System by the Intervention of Intelligent Beings" (1929).
 [^4]: R. P. Feynman, *The Feynman Lectures on Physics*, Vol. I (discussion of the Brownian ratchet).
+
+
+## References

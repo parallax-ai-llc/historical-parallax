@@ -24,7 +24,7 @@ Clement of Rome was the third Bishop of Rome and one of the earliest Church Fath
 | 96 | Wrote First Epistle to the Corinthians |
 | 99 | Died, possibly martyred |
 
-## References
+
 
 [^1]: Wikipedia, "Clement of Rome" - https://en.wikipedia.org/wiki/Clement_of_Rome
 
@@ -49,3 +49,6 @@ Clement of Rome was the third Bishop of Rome and one of the earliest Church Fath
 - **Era:** late 1st century
 - **Key text:** *1 Clement* (letter to Corinth)
 - **Significance:** early evidence for church governance and appeals to order
+
+
+## References

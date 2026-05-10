@@ -21,7 +21,7 @@ South Korean serial killer who poisoned five family members with potassium cyani
 |------|-------|
 | 1994 | Convicted of poisoning family members |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Seon-ja" - https://en.wikipedia.org/wiki/Kim_Seon-ja
 
@@ -61,3 +61,6 @@ South Korean serial killer who poisoned five family members with potassium cyani
 ## Further Reading
 
 - Wikipedia entry for additional context and citations: https://en.wikipedia.org/wiki/Kim_Seon-ja
+
+
+## References

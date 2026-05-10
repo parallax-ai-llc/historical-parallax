@@ -21,7 +21,7 @@ Real name Ahmed Godane, al-Shabaab emir who pledged allegiance to al-Qaeda.
 |------|-------|
 | 2014 | Killed in US operation |
 
-## References
+
 
 [^1]: Wikipedia, "Mukhtar Abu Zubeyr" - https://en.wikipedia.org/wiki/Mukhtar_Abu_Zubeyr
 
@@ -76,3 +76,6 @@ Real name Ahmed Godane, al-Shabaab emir who pledged allegiance to al-Qaeda.
 
 [^2]: U.S. government / public communications on al-Shabaab leadership targeting (see archived releases and reward program materials, where available).
 [^3]: Encyclopedic and long-form reporting on al-Shabaab’s leadership and evolution (cross-check against multiple outlets).
+
+
+## References

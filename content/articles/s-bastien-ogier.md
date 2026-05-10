@@ -41,7 +41,7 @@ Ogier’s most famous run is the six consecutive titles from 2013 to 2018, which
 
 In discussions of the greatest rally drivers, Ogier is typically positioned just behind Loeb on total championships while being recognized as the defining champion of the post-Loeb era. His career also illustrates how rallying rewards long-term decision-making—car development, event selection, and risk control—alongside raw speed.
 
-## References
+
 
 [^1]: Wikipedia, "Sébastien Ogier" - https://en.wikipedia.org/wiki/S%C3%A9bastien_Ogier
 
@@ -52,3 +52,6 @@ Ogier’s title count and his long span at the top level are often used to illus
 ## Key terms
 
 - **Tarmac vs. gravel rallies:** different surface conditions that demand different driving styles and car setups.
+
+
+## References

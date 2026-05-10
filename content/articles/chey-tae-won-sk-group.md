@@ -24,7 +24,7 @@ SK Group chairman convicted of embezzling $40 million in company funds. He was p
 | 2013 | Convicted again of embezzlement |
 | 2015 | Pardoned again |
 
-## References
+
 
 [^1]: Wikipedia, "Chey Tae-won SK Group" - https://en.wikipedia.org/wiki/Chey_Tae-won_SK_Group
 
@@ -49,3 +49,6 @@ The case is frequently used as an example in conversations about chaebol reform:
 Corporate governance in South Korea; chaebol succession; presidential pardons; white-collar crime enforcement; minority-shareholder rights.
 
 These topics recur in analyses of how Korea’s growth model intersects with rule-of-law expectations in modern capital markets.
+
+
+## References

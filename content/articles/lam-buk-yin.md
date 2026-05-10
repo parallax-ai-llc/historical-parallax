@@ -23,7 +23,7 @@ Hong Kong serial killer who murdered four people between 1982 and 1983. He disme
 | 1983 | Arrested |
 | 1984 | Convicted; sentenced to death, commuted to life |
 
-## References
+
 
 [^1]: Wikipedia, "Lam Buk Yin" - https://en.wikipedia.org/wiki/Lam_Buk_Yin
 
@@ -50,3 +50,6 @@ Over time, it has been referenced in true-crime media and retrospective reportin
 
 While Hong Kong has experienced other high-profile criminal cases, Lam Buk Yin’s conviction remains a notable reference point in discussions of early modern forensic investigation in the city.
 The case is also sometimes cited when describing public debates on sentencing severity and the decline of capital punishment in Hong Kong’s legal history.
+
+
+## References

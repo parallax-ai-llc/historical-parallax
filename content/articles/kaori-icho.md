@@ -5,7 +5,7 @@ birth: "1984-06-13"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Olympic Champion", "Wrestler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaori_Icho.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kaori_Icho"
 lastUpdated: "2026-02-21"

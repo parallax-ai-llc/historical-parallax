@@ -22,7 +22,7 @@ Jade Jones won consecutive Olympic taekwondo gold medals at 2012 London and 2016
 | 2012 | Won Olympic gold at London |
 | 2016 | Won second Olympic gold at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Jade Jones" - https://en.wikipedia.org/wiki/Jade_Jones
 
@@ -49,3 +49,6 @@ Jade Jones won consecutive Olympic taekwondo gold medals at 2012 London and 2016
 ## Notes
 
 This entry summarizes widely reported results and does not enumerate every tournament appearance.
+
+
+## References

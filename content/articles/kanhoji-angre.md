@@ -5,7 +5,7 @@ birth: "1669-01-01"
 death: "1729-07-04"
 nationality: "India"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Sarkhel_Kanhoji_Angre_I.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kanhoji_Angre"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Indian Maratha naval commander who controlled the western coast and attacked Bri
 | 1710s | Dominated Indian Ocean |
 | 1729 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Kanhoji Angre" - https://en.wikipedia.org/wiki/Kanhoji_Angre
 
@@ -48,3 +48,6 @@ Indian Maratha naval commander who controlled the western coast and attacked Bri
 
 - This article is a short, high-level overview intended for quick reference.
 - For detailed chronology, primary sources, and broader context, consult the linked Wikipedia entry and its citations.
+
+
+## References

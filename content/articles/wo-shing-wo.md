@@ -23,7 +23,7 @@ One of Hong Kongs oldest triad societies dating to the 1930s. It has been involv
 | 1960s | Major drug trafficking role |
 | 2000s | Active in UK Chinatowns |
 
-## References
+
 
 [^1]: Wikipedia, "Wo Shing Wo" - https://en.wikipedia.org/wiki/Wo_Shing_Wo
 
@@ -48,3 +48,6 @@ The group has been described as having influence beyond Hong Kong through diaspo
 ## Notes
 
 Because triad organizations are clandestine and decentralized, public information often comes from court cases, police reporting, investigative journalism, and academic studies, which can vary in specificity and reliability.
+
+
+## References

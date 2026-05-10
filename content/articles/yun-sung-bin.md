@@ -21,7 +21,7 @@ Yun Sung-bin won the skeleton gold at the 2018 PyeongChang Olympics, Asia's firs
 |------|-------|
 | 2018 | Won skeleton gold at PyeongChang — Asia's first |
 
-## References
+
 
 [^1]: Wikipedia, "Yun Sung-bin" - https://en.wikipedia.org/wiki/Yun_Sung-bin
 
@@ -54,3 +54,6 @@ Skeleton is a winter sliding sport where athletes:
 ## Notes
 
 This article is intentionally high-level and focuses on widely cited public facts. For detailed season-by-season results, consult official federation records and major event result databases.
+
+
+## References

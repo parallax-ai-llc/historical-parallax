@@ -21,7 +21,7 @@ New Zealand serial rapist convicted of over 50 rapes and the murder of Susan Bur
 |------|-------|
 | 2019 | Convicted of murder after retrial |
 
-## References
+
 
 [^1]: Wikipedia, "Malcolm Rewa" - https://en.wikipedia.org/wiki/Malcolm_Rewa
 
@@ -51,3 +51,6 @@ New Zealand serial rapist convicted of over 50 rapes and the murder of Susan Bur
 ## Notes
 
 - This article is a brief, high-level summary intended for reference; readers should consult the cited source for full procedural history.
+
+
+## References

@@ -46,7 +46,7 @@ Cases like Shimiray Mwissa's are often cited in discussions about how localized 
 - Targeted sanctions aim to disrupt armed-group leadership networks but do not by themselves resolve underlying governance gaps.
 - Civilian protection remains difficult where multiple armed actors overlap and accountability is weak.
 
-## References
+
 
 [^1]: Wikipedia, "Guidon Shimiray Mwissa" - https://en.wikipedia.org/wiki/Guidon_Shimiray_Mwissa
 ## Overview
@@ -64,3 +64,6 @@ Accounts about individuals linked to armed groups often arise in the context of 
 
 ## How to read sources
 For topics like this, reliable context usually comes from a mix of UN reporting, human rights organizations, and local journalism, with attention to corroboration and dates.
+
+
+## References

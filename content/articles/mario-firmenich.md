@@ -21,7 +21,7 @@ Leader of the Montoneros guerrilla group responsible for kidnappings and bombing
 |------|-------|
 | 1984 | Convicted of kidnapping |
 
-## References
+
 
 [^1]: Wikipedia, "Mario Firmenich" - https://en.wikipedia.org/wiki/Mario_Firmenich
 
@@ -56,3 +56,6 @@ Leader of the Montoneros guerrilla group responsible for kidnappings and bombing
 - Montoneros
 - Argentina (1970s political violence)
 - Dirty War (as a commonly used label for the broader period)
+
+
+## References

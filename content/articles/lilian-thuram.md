@@ -5,7 +5,7 @@ birth: "1972-01-01"
 death: "Unknown"
 nationality: "French"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Lilian_Thuram_-_F%C3%A9vrier_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lilian_Thuram"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Lilian Thuram is France's most capped player (142). He scored twice in the 1998 
 | 1998 | Won World Cup |
 | 2000 | Won Euro 2000 |
 
-## References
+
 
 [^1]: Wikipedia, "Lilian Thuram" - https://en.wikipedia.org/wiki/Lilian_Thuram
 
@@ -51,3 +51,6 @@ Lilian Thuram is France's most capped player (142). He scored twice in the 1998 
 - Thuram is remembered for defensive excellence and unusual longevity at the top international level.
 - His 1998 World Cup semi-final goals remain a defining highlight.
 - Post-retirement, he became prominent as a public intellectual and advocate on racism.
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate — see Travis Kalanick.
 |------|-------|
 | 1976 | See Travis Kalanick entry |
 
-## References
+
 
 [^1]: Wikipedia, "Travis Kalanick duplicate" - https://en.wikipedia.org/wiki/Travis_Kalanick_duplicate
 
@@ -53,3 +53,6 @@ If you are cleaning or curating the collection, typical approaches include:
 ### Additional references (canonical)
 
 [^2]: Wikipedia, "Travis Kalanick" — https://en.wikipedia.org/wiki/Travis_Kalanick
+
+
+## References

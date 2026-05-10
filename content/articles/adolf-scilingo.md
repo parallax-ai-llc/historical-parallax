@@ -23,7 +23,7 @@ Argentine naval officer who confessed to throwing drugged political prisoners fr
 | 1995 | Publicly confessed on Argentine television |
 | 2005 | Convicted in Spain; sentenced to 640 years |
 
-## References
+
 
 [^1]: Wikipedia, "Adolf Scilingo" - https://en.wikipedia.org/wiki/Adolf_Scilingo
 
@@ -51,3 +51,6 @@ Scilingo was prosecuted in Spain under principles that can allow courts to hear 
 - For biographies, award records and official competition databases are usually the most reliable for results and dates.
 - For conflicts and security topics, contemporary reporting may be incomplete; later research can revise early accounts.
 - This article keeps the overview high-level and points to the reference section for deeper sourcing.
+
+
+## References

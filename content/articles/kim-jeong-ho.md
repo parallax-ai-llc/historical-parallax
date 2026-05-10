@@ -5,7 +5,7 @@ birth: "1804-01-01"
 death: "1866-01-01"
 nationality: "Korean"
 occupation: ["Cartographer", "Geographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Daedongyeojido-full.jpg/3840px-Daedongyeojido-full.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Jeong-ho"
 lastUpdated: "2026-02-21"

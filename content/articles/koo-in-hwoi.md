@@ -5,7 +5,7 @@ birth: "1907-01-05"
 death: "1969-12-31"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Koo_In-Hwoi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Koo_In-hwoi"
 lastUpdated: "2026-02-21"

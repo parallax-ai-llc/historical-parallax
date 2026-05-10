@@ -21,7 +21,7 @@ Australian white supremacist killed 51 people at two Christchurch mosques while 
 |------|-------|
 | 2019 | 51 killed at mosques |
 
-## References
+
 
 [^1]: Wikipedia, "Christchurch Attacks" - https://en.wikipedia.org/wiki/Christchurch_Attacks
 
@@ -62,3 +62,6 @@ Australian white supremacist killed 51 people at two Christchurch mosques while 
 - Counter-terrorism policy in New Zealand
 - Online content moderation and live-streaming safeguards
 - Gun law reform and public safety legislation
+
+
+## References

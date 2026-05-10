@@ -44,10 +44,13 @@ The case triggered regulatory scrutiny, criminal proceedings, and broader debate
 - the role of distributors and sales channels,
 - internal controls at asset managers.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Optimus Asset Management Fraud" - https://en.wikipedia.org/wiki/Optimus_Asset_Management_Fraud
 
 ## Lessons and Discussion
 
 In high-level commentary, the scandal is often used to argue for stronger verification of underlying assets, clearer risk disclosures, and improved governance around fund administrators, custodians, and sales practices—especially when products are marketed to conservative or retail investors.[^1]
+
+
+## References

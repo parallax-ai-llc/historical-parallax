@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1971 | See Elon Musk |
 
-## References
+
 
 [^1]: Wikipedia, "Elon Musk duplicate" - https://en.wikipedia.org/wiki/Elon_Musk_duplicate
 
@@ -60,3 +60,6 @@ This approach preserves provenance (the fact that the duplicate label existed) w
 [^2]: Wikipedia help on disambiguation and distinguishing topics: https://en.wikipedia.org/wiki/Help:Disambiguation
 [^3]: Wikipedia guidance on article merges (editorial process overview): https://en.wikipedia.org/wiki/Wikipedia:Merging
 [^4]: Wikidata as a canonical identifier layer (general entry point): https://www.wikidata.org/
+
+
+## References

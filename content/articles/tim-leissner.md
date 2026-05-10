@@ -21,7 +21,7 @@ Former Goldman Sachs partner who pled guilty to laundering money from 1MDB. Help
 |------|-------|
 | 2018 | Pled guilty to money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Tim Leissner" - https://en.wikipedia.org/wiki/Tim_Leissner
 
@@ -57,3 +57,6 @@ Former Goldman Sachs partner who pled guilty to laundering money from 1MDB. Help
 
 [^2]: U.S. Department of Justice (press releases / case updates), 1MDB-related filings and announcements - https://www.justice.gov/
 [^3]: Reporting and background on the 1MDB scandal (overview) - https://en.wikipedia.org/wiki/1Malaysia_Development_Berhad_scandal
+
+
+## References

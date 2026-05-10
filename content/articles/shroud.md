@@ -3,6 +3,7 @@ name: "Shroud"
 birth: "1994-06-02"
 nationality: "Canadian"
 occupation: ["Esports Player", "Streamer", "Content Creator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Shroud_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shroud_(gamer)"
 lastUpdated: "2026-03-11"

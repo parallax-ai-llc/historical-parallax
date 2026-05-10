@@ -23,7 +23,7 @@ Crash of EgyptAir Flight 990 into the Atlantic Ocean on October 31, 1999 killing
 | 1999 | 217 killed |
 | 2002 | NTSB blamed co-pilot |
 
-## References
+
 
 [^1]: Wikipedia, "EgyptAir Flight 990" - https://en.wikipedia.org/wiki/EgyptAir_Flight_990
 
@@ -53,3 +53,6 @@ Open sources describe a significant dispute between investigative authorities ov
 
 - National Transportation Safety Board (NTSB)
 - Aviation accident investigation
+
+
+## References

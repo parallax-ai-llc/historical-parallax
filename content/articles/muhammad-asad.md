@@ -5,7 +5,7 @@ birth: "1900-07-02"
 death: "1992-02-20"
 nationality: "Austrian-Pakistani"
 occupation: ["Scholar", "Author", "Diplomat"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/92/Muhammad_Asad_addressing_Radio_Pakistan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Muhammad_Asad"
 lastUpdated: "2026-02-21"

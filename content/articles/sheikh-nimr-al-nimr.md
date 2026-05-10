@@ -21,7 +21,7 @@ Saudi Shia cleric executed for sedition, sparking a diplomatic crisis with Iran.
 |------|-------|
 | 2016 | Executed by Saudi Arabia |
 
-## References
+
 
 [^1]: Wikipedia, "Sheikh Nimr al-Nimr" - https://en.wikipedia.org/wiki/Sheikh_Nimr_al-Nimr
 
@@ -87,3 +87,6 @@ Analysts often caution that sectarian framing can oversimplify events. Nonethele
 - an example used in debates about political dissent, clerical authority, and state power
 
 This framing contributed to the long afterlife of the event in regional political discourse.
+
+
+## References

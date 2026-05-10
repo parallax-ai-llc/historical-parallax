@@ -5,7 +5,7 @@ birth: "1884-01-01"
 death: "1926-09-16"
 nationality: "Japan"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Fukiage_killer.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sataro_Fukiage"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Japanese serial killer who murdered 10 people in Shizuoka prefecture using poiso
 | 1924 | Arrested |
 | 1926 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Sataro Fukiage" - https://en.wikipedia.org/wiki/Sataro_Fukiage
 
@@ -49,3 +49,6 @@ The case is sometimes referenced in discussions of how long-running patterns of 
 In modern compilations of Japanese crime history, Fukiage is typically treated as a cautionary example of poison-related homicide and the challenges of linking dispersed incidents over time.
 
 The limited surviving biographical detail is often secondary to the case summary itself.
+
+
+## References

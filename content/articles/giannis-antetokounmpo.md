@@ -22,7 +22,7 @@ Giannis won the 2021 championship with 50 points in Game 6. He won back-to-back 
 | 2019 | Won first MVP |
 | 2021 | Won championship |
 
-## References
+
 
 [^1]: Wikipedia, "Giannis Antetokounmpo" - https://en.wikipedia.org/wiki/Giannis_Antetokounmpo
 
@@ -52,3 +52,6 @@ Giannis became an emblematic modern NBA international star, with attention on ho
 ## Postseason Signature Moment
 
 The 2021 Finals performance, including a 50-point closeout game, is widely cited as a defining achievement that cemented his place among the era’s top players.
+
+
+## References

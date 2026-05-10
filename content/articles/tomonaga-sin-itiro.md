@@ -21,7 +21,7 @@ Already covered - see Tomonaga Shin'ichiro. Duplicate check.
 |------|-------|
 | 1906 | Born in Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Tomonaga Sin-Itiro" - https://en.wikipedia.org/wiki/Tomonaga_Sin-Itiro
 
@@ -49,3 +49,6 @@ If the repository maintains a single canonical article per person, this page can
 ## Additional References
 
 [^2]: Wikipedia, "Sin-Itiro Tomonaga" (overview and Nobel citation context) - https://en.wikipedia.org/wiki/Tomonaga_Sin-Itiro
+
+
+## References

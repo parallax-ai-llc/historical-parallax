@@ -21,7 +21,7 @@ Edinburgh murderers who killed 16 people to sell their bodies for anatomical dis
 |------|-------|
 | 1828 | Murdered 16 people for sale to anatomists |
 
-## References
+
 
 [^1]: Wikipedia, "Burke and Hare" - https://en.wikipedia.org/wiki/Burke_and_Hare
 
@@ -59,3 +59,6 @@ Edinburgh murderers who killed 16 people to sell their bodies for anatomical dis
 
 - The Burke and Hare murders illustrate how legal constraints and market incentives can produce severe criminal outcomes.
 - The public reaction helped shape modern expectations around consent, oversight, and lawful sourcing in medical education.
+
+
+## References

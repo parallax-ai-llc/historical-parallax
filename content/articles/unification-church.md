@@ -23,7 +23,7 @@ Religious organization founded by Sun Myung Moon accused of cult-like practices,
 | 1982 | Moon convicted of tax fraud in US |
 | 2022 | Abe assassination linked to church grievances |
 
-## References
+
 
 [^1]: Wikipedia, "Unification Church" - https://en.wikipedia.org/wiki/Unification_Church
 
@@ -52,3 +52,6 @@ The Unification Church, formally the **Unification Movement**, is a new religiou
 - Date/period: see the summary and timeline above.
 - Place: see the summary above.
 - Key actors: see the summary above.
+
+
+## References

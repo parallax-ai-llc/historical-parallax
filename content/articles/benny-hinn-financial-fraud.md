@@ -23,7 +23,7 @@ Israeli-born televangelist accused of financial fraud and living a lavish lifest
 | 2009 | Senate investigation into financial practices |
 | 2019 | Publicly renounced prosperity gospel |
 
-## References
+
 
 [^1]: Wikipedia, "Benny Hinn Financial Fraud" - https://en.wikipedia.org/wiki/Benny_Hinn_Financial_Fraud
 
@@ -54,3 +54,6 @@ When describing allegations of fraud, it is important to distinguish between:
 - **ethical criticism** (which may be strong even without criminal findings)
 
 The linked reference provides a starting point for the specific claims and citations commonly used in summaries.
+
+
+## References

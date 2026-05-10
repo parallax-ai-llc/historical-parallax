@@ -21,7 +21,7 @@ Sri Lankan LTTE suicide bomber known as 'Dhanu' who assassinated Indian Prime Mi
 |------|-------|
 | 1991 | Assassinated Rajiv Gandhi at election rally in India |
 
-## References
+
 
 [^1]: Wikipedia, "Thenmozhi Rajaratnam" - https://en.wikipedia.org/wiki/Thenmozhi_Rajaratnam
 
@@ -49,3 +49,6 @@ Sri Lankan LTTE suicide bomber known as 'Dhanu' who assassinated Indian Prime Mi
 | Late 1980s | India’s IPKF deployment in Sri Lanka becomes part of the wider context influencing LTTE–India relations.[^1] |
 | 1991-05-21 | Assassination of Rajiv Gandhi at Sriperumbudur via suicide bombing.[^1] |
 | 1990s | Investigations, trials, and public debate shape the long-term political and security legacy of the assassination.[^1] |
+
+
+## References

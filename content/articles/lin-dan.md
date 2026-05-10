@@ -24,7 +24,7 @@ Lin Dan, 'Super Dan,' won two consecutive Olympic gold medals in badminton singl
 | 2012 | Won second Olympic gold at London |
 | 2020 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "Lin Dan" - https://en.wikipedia.org/wiki/Lin_Dan
 ## Background
@@ -50,3 +50,6 @@ Lin Dan’s career is commonly credited with elevating the profile of men’s si
 
 - This page is a high-level overview intended to be expanded with additional sources.
 - When adding detailed claims (dates, numbers, quotations), prefer primary documents or reputable historical scholarship.
+
+
+## References

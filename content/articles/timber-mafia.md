@@ -21,7 +21,7 @@ Illegal logging generates $50-150 billion annually, destroying rainforests and i
 |------|-------|
 | 2019 | Amazon deforestation surged |
 
-## References
+
 
 [^1]: Wikipedia, "Timber Mafia" - https://en.wikipedia.org/wiki/Timber_Mafia
 
@@ -59,3 +59,6 @@ Illegal logging generates $50-150 billion annually, destroying rainforests and i
 [^2]: INTERPOL, environmental crime / forestry-related enforcement and intelligence (overview) - https://www.interpol.int/
 [^3]: UNODC, wildlife and forest crime resources (overview) - https://www.unodc.org/
 [^4]: Global Forest Watch (deforestation data and context) - https://www.globalforestwatch.org/
+
+
+## References

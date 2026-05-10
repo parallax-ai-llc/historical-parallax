@@ -22,7 +22,7 @@ Indonesian former beauty queen turned politician convicted of corruption in conn
 | 2010 | Received bribes for influencing government construction budget |
 | 2013 | Sentenced to 12 years imprisonment for corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Angelina Sondakh" - https://en.wikipedia.org/wiki/Angelina_Sondakh
 
@@ -51,3 +51,6 @@ Sondakh’s trajectory—from public celebrity to elected office to corruption c
 ## Notes
 
 This article focuses on high-level, widely reported aspects of the case and does not attempt to reproduce detailed court findings or the full list of associated individuals.
+
+
+## References

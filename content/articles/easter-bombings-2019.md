@@ -22,7 +22,7 @@ Coordinated suicide bombings in Sri Lanka on Easter Sunday 2019 that killed 269 
 | 2019 | Bombs at three churches and three hotels |
 | 2019 | 269 killed, 500+ injured |
 
-## References
+
 
 [^1]: Wikipedia, "Easter Bombings 2019" - https://en.wikipedia.org/wiki/Easter_Bombings_2019
 
@@ -50,3 +50,6 @@ Coordinated suicide bombings in Sri Lanka on Easter Sunday 2019 that killed 269 
 
 - The attacks significantly affected Sri Lanka’s sense of security and had economic impacts, including on tourism.
 - They remain a key reference point in discussions of counterterrorism policy, interfaith relations, and crisis governance in Sri Lanka.
+
+
+## References

@@ -26,7 +26,7 @@ The 19th Amendment, ratified August 18, 1920, granted American women the right t
 | 1919 | Congress passes amendment |
 | 1920-08-18 | Ratified |
 
-## References
+
 
 [^1]: Wikipedia, "Womens Suffrage 19th Amendment" - https://en.wikipedia.org/wiki/Womens_Suffrage_19th_Amendment
 
@@ -50,3 +50,6 @@ The amendment is widely treated as a pivotal expansion of democratic participati
 
 ## Notes
 
+
+
+## References

@@ -21,7 +21,7 @@ Bulgarian hitman linked to multiple contract killings across Europe.
 |------|-------|
 | 2015 | Convicted of contract killings |
 
-## References
+
 
 [^1]: Wikipedia, "Petar Chernaev" - https://en.wikipedia.org/wiki/Petar_Chernaev
 
@@ -72,3 +72,6 @@ Add sources here only after verification (do not copy from low-quality aggregato
 - Official court registry or press releases (Bulgaria / EU member states as relevant)
 - Major newspapers or wire services with archival permanence
 - Academic or policy reports on organized crime where the individual is clearly identified
+
+
+## References

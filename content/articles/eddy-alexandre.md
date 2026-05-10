@@ -21,7 +21,7 @@ Founder of EminiFX who defrauded investors of $248 million in a crypto Ponzi sch
 |------|-------|
 | 2022 | Convicted of $248 million crypto Ponzi scheme |
 
-## References
+
 
 [^1]: Wikipedia, "Eddy Alexandre" - https://en.wikipedia.org/wiki/Eddy_Alexandre
 
@@ -59,3 +59,6 @@ This profile summarizes widely circulated, high-level claims about the EminiFX c
 
 - U.S. Department of Justice (press releases) and PACER docket entries for primary-case documentation
 - Major news coverage of EminiFX and community impact reporting
+
+
+## References

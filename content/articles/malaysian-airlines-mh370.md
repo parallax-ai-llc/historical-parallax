@@ -21,7 +21,7 @@ Malaysia Airlines Flight 370 disappeared with 239 people aboard, becoming aviati
 |------|-------|
 | 2014 | Plane disappeared with 239 aboard |
 
-## References
+
 
 [^1]: Wikipedia, "Malaysian Airlines MH370" - https://en.wikipedia.org/wiki/Malaysian_Airlines_MH370
 
@@ -53,3 +53,6 @@ Malaysia Airlines Flight 370 disappeared with 239 people aboard, becoming aviati
 - **Aviation safety**: The case influenced broader discussion about aircraft tracking, communications, and search-and-rescue readiness over oceanic routes.
 - **Families & public attention**: The absence of closure for families and the scale of the search contributed to sustained global attention.
 - **Modern mystery**: Despite extensive investigation, MH370 remains one of the most prominent unresolved losses in commercial aviation.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1945-01-28"
 death: "1945-08-15"
 nationality: "Malaysia"
 occupation: ["War Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Awm_120461_sandakan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandakan_Death_March"
 lastUpdated: "2026-02-26"

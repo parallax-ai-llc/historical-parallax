@@ -22,7 +22,7 @@ Indian serial killer from Kerala who poisoned six family members with cyanide be
 | 2016 | Last victim — her former husband's uncle |
 | 2019 | Arrested after police reopened cases |
 
-## References
+
 
 [^1]: Wikipedia, "Jolly Joseph" - https://en.wikipedia.org/wiki/Jolly_Joseph
 
@@ -52,3 +52,6 @@ Indian serial killer from Kerala who poisoned six family members with cyanide be
 
 - This article is a high-level summary based on publicly available reference material (see References).
 - Specific dates, roles, and names should be cross-checked against primary sources when used for research or publication.
+
+
+## References

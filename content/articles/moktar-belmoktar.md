@@ -23,7 +23,7 @@ Algerian militant known as 'Mr. Marlboro' for his cigarette smuggling. He led th
 | 2013 | Organized In Amenas gas plant attack; 39 hostages killed |
 | 2015 | Reportedly killed in US airstrike in Libya; disputed |
 
-## References
+
 
 [^1]: Wikipedia, "Moktar Belmoktar" - https://en.wikipedia.org/wiki/Moktar_Belmoktar
 
@@ -52,3 +52,6 @@ Multiple claims of Belmoktar's death have been reported over the years, includin
 ## Additional Notes
 
 This article is intended as a concise reference. For deeper detail, consult multiple sources and primary reporting where available, and compare timelines across independent accounts.
+
+
+## References

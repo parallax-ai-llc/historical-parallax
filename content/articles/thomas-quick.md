@@ -24,7 +24,7 @@ Sture Bergwall, known as Thomas Quick, confessed to over 30 murders in Sweden. A
 | 2008 | Publicly retracted confessions; scrutiny of the investigation and therapy methods intensified. |
 | 2010–2013 | All murder convictions were overturned (acquittals granted) as courts found the evidence insufficient without the confessions. |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -57,3 +57,6 @@ Sture Bergwall, known as Thomas Quick, confessed to over 30 murders in Sweden. A
 ## Key Takeaways
 - Bergwall/Quick is commonly referenced as an example of how a system can converge on a narrative when **confessions substitute for evidence**.
 - The later acquittals underline the principle that criminal convictions require proof beyond reasonable doubt, not merely consistency of statements.
+
+
+## References

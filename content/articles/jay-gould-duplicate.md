@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1836 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Jay Gould duplicate" - https://en.wikipedia.org/wiki/Jay_Gould_duplicate
 
@@ -55,3 +55,6 @@ The factual notes below refer to **Jay Gould (1836–1892)**, the American finan
 [^2]: Wikipedia, "Jay Gould" - https://en.wikipedia.org/wiki/Jay_Gould
 [^3]: Wikipedia, "Black Friday (1869)" - https://en.wikipedia.org/wiki/Black_Friday_(1869)
 [^4]: Wikipedia, "Erie War" - https://en.wikipedia.org/wiki/Erie_War
+
+
+## References

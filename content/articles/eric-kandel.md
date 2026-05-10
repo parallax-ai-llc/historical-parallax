@@ -23,7 +23,7 @@ Eric Kandel is a neuroscientist who shared the 2000 Nobel Prize for discoveries 
 | 1974 | Joined Columbia |
 | 2000 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Eric Kandel" - https://en.wikipedia.org/wiki/Eric_Kandel
 
@@ -49,3 +49,6 @@ Kandel’s research helped shape modern neuroscience by:
 ## Notes
 
 Biographical accounts often note that Kandel was born in Vienna and emigrated to the United States as a child after the 1938 Anschluss, experiences that later appeared in his memoir and public writing.
+
+
+## References

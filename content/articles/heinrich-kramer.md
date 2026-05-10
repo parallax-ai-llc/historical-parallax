@@ -21,7 +21,7 @@ German inquisitor who authored the Malleus Maleficarum, the manual that fueled c
 |------|-------|
 | 1487 | Published Malleus Maleficarum |
 
-## References
+
 
 [^1]: Wikipedia, "Heinrich Kramer" - https://en.wikipedia.org/wiki/Heinrich_Kramer
 
@@ -54,3 +54,6 @@ German inquisitor who authored the Malleus Maleficarum, the manual that fueled c
 | 1480s | Active as an inquisitor in German-speaking territories |
 | 1487 | Published *Malleus Maleficarum* |
 | 1505 | Death (commonly given) |
+
+
+## References

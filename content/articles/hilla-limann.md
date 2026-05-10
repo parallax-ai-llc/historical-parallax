@@ -22,7 +22,7 @@ President of Ghana whose Third Republic was overthrown by Jerry Rawlings for cor
 | 1979 | Became President |
 | 1981 | Overthrown by Rawlings |
 
-## References
+
 
 [^1]: Wikipedia, "Hilla Limann" - https://en.wikipedia.org/wiki/Hilla_Limann
 
@@ -51,3 +51,6 @@ Academic and journalistic accounts often frame Limann's short tenure as constrai
 ## Notes
 
 Coup-era statements are an important source, but they should be weighed against later historical research.
+
+
+## References

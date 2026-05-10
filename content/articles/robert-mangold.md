@@ -5,7 +5,7 @@ birth: "1937-10-12"
 death: "Unknown"
 nationality: "American"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Robert_Mangold.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Mangold"
 lastUpdated: "2026-02-21"

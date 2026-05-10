@@ -21,7 +21,7 @@ Ugandan man who deliberately infected over 100 women with HIV, convicted of murd
 |------|-------|
 | 2007 | Convicted of murder for deliberate HIV infection |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Ssenyonga" - https://en.wikipedia.org/wiki/Charles_Ssenyonga
 
@@ -81,3 +81,6 @@ Ugandan man who deliberately infected over 100 women with HIV, convicted of murd
 
 - The "over 100" figure is widely repeated, but it should be treated as an approximate media summary unless corroborated by primary documents.
 - For detailed findings (counts, dates, medical evidence), consult court coverage or official records where available.
+
+
+## References

@@ -22,7 +22,7 @@ Liu Hong won Olympic gold in the 20km race walk at 2016 Rio and held the world r
 | 2015 | Set 20km race walk world record |
 | 2016 | Won Olympic gold at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Liu Hong" - https://en.wikipedia.org/wiki/Liu_Hong
 
@@ -55,3 +55,6 @@ Liu Hong won Olympic gold in the 20km race walk at 2016 Rio and held the world r
 
 - Race walking’s technical constraints make consistency and rule compliance as important as raw endurance.
 - Liu Hong’s career is remembered for a peak that included world-leading times and an Olympic title.
+
+
+## References

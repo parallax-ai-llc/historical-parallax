@@ -23,7 +23,7 @@ System of military sexual slavery by the Imperial Japanese Army during WWII. Up 
 | 1945 | Ended with Japanese surrender |
 | 1993 | Japan issued limited apology |
 
-## References
+
 
 [^1]: Wikipedia, "Comfort Women" - https://en.wikipedia.org/wiki/Comfort_Women
 
@@ -49,3 +49,5 @@ System of military sexual slavery by the Imperial Japanese Army during WWII. Up 
 
 [^2]: Survivor testimonies and archival research summarized in academic and human-rights literature.
 [^3]: Japanese government statements and bilateral agreements referenced in international reporting (1990s–2010s).
+
+

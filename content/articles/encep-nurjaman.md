@@ -23,7 +23,7 @@ Birth name of Hambali, the Indonesian terrorist who was the chief operational pl
 | 2003 | Arrested in Ayutthaya, Thailand |
 | 2021 | Charged by US military commission |
 
-## References
+
 
 [^1]: Wikipedia, "Encep Nurjaman" - https://en.wikipedia.org/wiki/Encep_Nurjaman
 
@@ -48,3 +48,6 @@ Birth name of Hambali, the Indonesian terrorist who was the chief operational pl
 - Hambali is frequently referenced in analyses of transnational militant networks in Southeast Asia and their connections to global jihadist movements.
 - The length of his detention and the pace of military commission proceedings have also been noted in broader debates about counterterrorism policy and due process.
 
+
+
+## References

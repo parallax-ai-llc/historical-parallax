@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1957 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Son Masayoshi dup99" - https://en.wikipedia.org/wiki/Son_Masayoshi_dup99
 
@@ -60,3 +60,6 @@ SoftBank’s strategy has also attracted criticism for:
 [^3]: Wikipedia, "SoftBank Group" — https://en.wikipedia.org/wiki/SoftBank_Group
 [^4]: Wikipedia, "SoftBank Vision Fund" — https://en.wikipedia.org/wiki/SoftBank_Vision_Fund
 [^5]: Wikipedia, "ARM (company)" — https://en.wikipedia.org/wiki/Arm_(company)
+
+
+## References

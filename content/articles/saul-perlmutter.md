@@ -5,7 +5,7 @@ birth: "1959-09-22"
 death: "Unknown"
 nationality: "American"
 occupation: ["Astrophysicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Saul_Perlmutter_375e309_by_Christopher_Michel_8202024_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saul_Perlmutter"
 lastUpdated: "2026-02-21"

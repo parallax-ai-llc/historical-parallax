@@ -24,7 +24,7 @@ Vivian Richards is considered the greatest batsman in cricket history alongside 
 | 1986 | Scored fastest Test century in 56 balls |
 | 1991 | Retired from international cricket |
 
-## References
+
 
 [^1]: Wikipedia, "Sir Vivian Richards" - https://en.wikipedia.org/wiki/Sir_Vivian_Richards
 
@@ -70,3 +70,6 @@ He is commonly referenced in discussions of:
 - Don Bradman
 - ODI cricket
 - Fast bowling era (1970s–1980s)
+
+
+## References

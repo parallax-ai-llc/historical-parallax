@@ -21,7 +21,7 @@ Mt. Gox Bitcoin exchange collapsed after hackers stole 850,000 Bitcoin worth $45
 | 2014 | Mt. Gox collapsed after 850,000 Bitcoin stolen |
 | 2019 | Karpelès convicted of manipulating records |
 
-## References
+
 
 [^1]: Wikipedia, "Mt. Gox Hack" - https://en.wikipedia.org/wiki/Mt._Gox_Hack
 
@@ -48,3 +48,6 @@ Mt. Gox Bitcoin exchange collapsed after hackers stole 850,000 Bitcoin worth $45
 ## Suggested follow-up
 - Look for: official reports, court documents (if any), reputable investigative journalism, and academic/think-tank overviews.
 - If multiple credible accounts disagree, summarize the competing claims and cite the best available evidence on each side.
+
+
+## References

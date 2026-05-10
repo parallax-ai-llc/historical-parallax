@@ -21,7 +21,7 @@ Greek politician assassinated by right-wing extremists in Thessaloniki, inspirin
 |------|-------|
 | 1963 | Assassinated by far-right |
 
-## References
+
 
 [^1]: Wikipedia, "Grigoris Lambrakis" - https://en.wikipedia.org/wiki/Grigoris_Lambrakis
 
@@ -76,3 +76,6 @@ Lambrakis is often discussed in relation to:
 
 ## Legacy
 His legacy has been sustained through commemorations, historical writing, and cultural representations that connect his life and death to questions about democracy and the rule of law.
+
+
+## References

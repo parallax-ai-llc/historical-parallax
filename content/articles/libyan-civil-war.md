@@ -5,7 +5,7 @@ birth: "2011-02-15"
 death: "2011-10-23"
 nationality: "Libya"
 occupation: ["Criminal Conflict"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Libyan_Civil_War.svg/1280px-Libyan_Civil_War.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Libyan_Civil_War"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Uprising against Gaddafi escalated into civil war. NATO intervened; Gaddafi was 
 |------|-------|
 | 2011 | Civil war began; Gaddafi killed |
 
-## References
+
 
 [^1]: Wikipedia, "Libyan Civil War" - https://en.wikipedia.org/wiki/Libyan_Civil_War
 
@@ -59,3 +59,6 @@ Uprising against Gaddafi escalated into civil war. NATO intervened; Gaddafi was 
 
 - The conflict is frequently cited in discussions of humanitarian intervention, regime change dynamics, and post-conflict state-building.
 - Libya's fragmentation had regional spillover effects, including weapons proliferation and cross-border militant activity.
+
+
+## References

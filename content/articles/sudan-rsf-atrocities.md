@@ -43,10 +43,13 @@ International bodies and governments have issued condemnations, called for cease
 | 2023 | RSF committed mass atrocities in Darfur and Khartoum |
 | 2024 | UN reported ethnic cleansing by RSF in West Darfur |
 
-## References
+
 
 [^1]: Wikipedia, "Sudan RSF Atrocities" - https://en.wikipedia.org/wiki/Sudan_RSF_Atrocities
 
 ## Notes on Attribution
 
 In active conflicts, incident-level attribution can be contested; many summaries therefore rely on multiple independent sources and emphasize corroborated patterns rather than single claims.
+
+
+## References

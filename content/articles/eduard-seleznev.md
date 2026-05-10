@@ -21,7 +21,7 @@ Russian serial killer who murdered and robbed elderly women across Moscow.
 |------|-------|
 | 2005 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Eduard Seleznev" - https://en.wikipedia.org/wiki/Eduard_Seleznev
 
@@ -55,3 +55,6 @@ If this repository intends to cover the **Moscow elderly-women robbery/murder ca
 ## Additional References
 
 [^2]: Wikipedia, "Eduard Seleznev" (biography + arrest/trial summary) - https://en.wikipedia.org/wiki/Eduard_Seleznev
+
+
+## References

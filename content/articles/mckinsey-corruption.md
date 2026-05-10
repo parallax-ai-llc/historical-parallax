@@ -22,7 +22,7 @@ McKinsey & Company has been implicated in facilitating corruption in South Afric
 | 2018 | South Africa state capture role exposed |
 | 2021 | $600 million opioid settlement |
 
-## References
+
 
 [^1]: Wikipedia, "McKinsey Corruption" - https://en.wikipedia.org/wiki/McKinsey_Corruption
 
@@ -49,3 +49,6 @@ McKinsey & Company has been implicated in facilitating corruption in South Afric
 - Public procurement and anti-corruption controls
 - Consulting industry ethics and conflicts of interest
 - Deferred prosecution agreements and civil settlements
+
+
+## References

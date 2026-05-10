@@ -5,7 +5,7 @@ birth: "1934-12-14"
 death: "living"
 nationality: "Indian"
 occupation: ["Film Director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Shyam_Benegal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shyam_Benegal"
 lastUpdated: "2026-02-26"

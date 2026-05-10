@@ -21,7 +21,7 @@ Already covered by others in triple jump.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Yolanda Chen" - https://en.wikipedia.org/wiki/Yolanda_Chen
 
@@ -65,3 +65,6 @@ Some biographies describe Chen as remaining involved in athletics media and comm
 ## Legacy
 
 Chen is often mentioned in the early record and medal history of the women’s triple jump, a discipline that underwent rapid performance growth in the 1990s as international championships standardized the event. Her indoor world record performance in 1995 is frequently cited in record-progression summaries.
+
+
+## References

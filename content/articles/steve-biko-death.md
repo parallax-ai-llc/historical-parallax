@@ -21,7 +21,7 @@ Anti-apartheid activist Steve Biko was beaten to death in police custody. He was
 |------|-------|
 | 1977 | Biko killed in police custody |
 
-## References
+
 
 [^1]: Wikipedia, "Steve Biko Death" - https://en.wikipedia.org/wiki/Steve_Biko_Death
 
@@ -54,3 +54,6 @@ The phrase "the spirit of Biko" is often used to refer to enduring themes associ
 ## References (Additional)
 
 [^2]: Wikipedia, "Steve Biko" - https://en.wikipedia.org/wiki/Steve_Biko
+
+
+## References

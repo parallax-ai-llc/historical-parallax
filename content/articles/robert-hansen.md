@@ -5,7 +5,7 @@ birth: "1939-02-15"
 death: "2014-08-21"
 nationality: "United States"
 occupation: ["Serial Killer", "Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Robert_Hansen%27s_1983_mugshot_in_Alaska.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Hansen"
 lastUpdated: "2026-02-21"

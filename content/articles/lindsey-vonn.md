@@ -22,7 +22,7 @@ Lindsey Vonn won 82 World Cup races, the most by any female skier, and 2010 Olym
 | 2010 | Won Olympic downhill gold at Vancouver |
 | 2019 | Retired from skiing |
 
-## References
+
 
 [^1]: Wikipedia, "Lindsey Vonn" - https://en.wikipedia.org/wiki/Lindsey_Vonn
 
@@ -60,3 +60,6 @@ Lindsey Vonn won 82 World Cup races, the most by any female skier, and 2010 Olym
 
 - Vonn’s story is often told through a mix of peak dominance, high-risk speed events, and repeated comebacks.
 - The combination of World Cup consistency and Olympic success made her one of her era’s defining alpine skiers.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1946-06-30"
 death: "N/A"
 nationality: "Ukraine / Russia"
 occupation: ["Crime Boss", "Arms Dealer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Semion_Mogilevich_FBI_2022-04-06.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Semion_Mogilevich"
 lastUpdated: "2026-02-21"

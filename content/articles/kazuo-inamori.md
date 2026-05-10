@@ -5,7 +5,7 @@ birth: "1932-01-21"
 death: "2022-08-24"
 nationality: "Japanese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Kazuo_Inamori_2011_Heritage_Day_HD2011-71.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kazuo_Inamori"
 lastUpdated: "2026-02-21"

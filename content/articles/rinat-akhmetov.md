@@ -21,7 +21,7 @@ Ukraine's richest man whose steel and mining empire was tied to Donetsk politica
 |------|-------|
 | 2014 | Business empire disrupted by conflict |
 
-## References
+
 
 [^1]: Wikipedia, "Rinat Akhmetov" - https://en.wikipedia.org/wiki/Rinat_Akhmetov
 
@@ -64,3 +64,5 @@ Akhmetov is commonly described as a leading Ukrainian oligarch due to the scale 
 ## References
 
 [^1]: Wikipedia, "Rinat Akhmetov" - https://en.wikipedia.org/wiki/Rinat_Akhmetov
+
+

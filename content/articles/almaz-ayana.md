@@ -21,7 +21,7 @@ Almaz Ayana set the 10,000m WR of 29:17.45 at 2016 Rio, breaking a 23-year recor
 |------|-------|
 | 2016 | Set 10,000m WR at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Almaz Ayana" - https://en.wikipedia.org/wiki/Almaz_Ayana
 
@@ -62,3 +62,6 @@ Almaz Ayana set the 10,000m WR of 29:17.45 at 2016 Rio, breaking a 23-year recor
 ## References (additional)
 
 [^2]: World Athletics athlete profile (overview and results) - https://worldathletics.org/
+
+
+## References

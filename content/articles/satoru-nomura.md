@@ -23,7 +23,7 @@ Japanese yakuza boss who led the Kudo-kai, a particularly violent yakuza syndica
 | 2014 | Arrested for ordering attacks on civilians and police |
 | 2021 | Sentenced to death, a first for a yakuza boss |
 
-## References
+
 
 [^1]: Wikipedia, "Satoru Nomura" - https://en.wikipedia.org/wiki/Satoru_Nomura
 
@@ -48,3 +48,6 @@ His death sentence was widely reported as a landmark outcome, reflecting an unus
 ## Significance
 
 In discussions of Japanese organized crime policy, the Nomura case is often referenced as an example of how law enforcement and prosecutors sought to hold leadership directly accountable, especially where victims included civilians and public officials.
+
+
+## References

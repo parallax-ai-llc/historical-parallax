@@ -21,7 +21,7 @@ Indian gang leader who allegedly orchestrated multiple murders and extortion fro
 |------|-------|
 | 2022 | Alleged mastermind of multiple murders from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Lawrence Bishnoi" - https://en.wikipedia.org/wiki/Lawrence_Bishnoi
 
@@ -51,3 +51,6 @@ Indian gang leader who allegedly orchestrated multiple murders and extortion fro
 - Organized crime in India (overview topic)
 - Prison gangs and alleged remote coordination (general phenomenon)
 
+
+
+## References

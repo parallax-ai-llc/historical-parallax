@@ -23,7 +23,7 @@ Walther Muller co-developed the Geiger-Muller counter with Hans Geiger for radia
 | 1928 | Co-developed Geiger-Muller counter |
 | 1979 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Walther Muller" - https://en.wikipedia.org/wiki/Walther_Muller
 
@@ -52,3 +52,6 @@ The Geiger–Müller counter became one of the most recognizable radiation detec
 ## Legacy
 
 Müller's contribution is primarily remembered through the lasting adoption of the Geiger–Müller counter as a standard detection and educational instrument, and as a stepping stone toward more specialized detectors used in later decades.
+
+
+## References

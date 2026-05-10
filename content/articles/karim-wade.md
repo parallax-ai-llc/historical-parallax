@@ -5,7 +5,7 @@ birth: "1968-06-01"
 death: "Unknown"
 nationality: "Senegal"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Portrait3_%28cropped%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karim_Wade"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Son of former Senegalese President Abdoulaye Wade convicted of illicit enrichmen
 | 2015 | Convicted of illicit enrichment of $240 million |
 | 2016 | Pardoned by President Macky Sall |
 
-## References
+
 
 [^1]: Wikipedia, "Karim Wade" - https://en.wikipedia.org/wiki/Karim_Wade
 
@@ -56,3 +56,6 @@ High-profile illicit-enrichment cases typically involve questions about evidenti
 ## Political impact
 
 Regardless of legal outcomes, such cases can reshape party dynamics by influencing leadership succession debates, elite alliances, and voter trust. They may also affect how international observers assess governance reforms and anti-corruption commitments.
+
+
+## References

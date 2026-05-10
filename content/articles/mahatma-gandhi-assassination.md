@@ -22,7 +22,7 @@ Assassination of Mahatma Gandhi by Hindu nationalist Nathuram Godse on January 3
 | 1948 | Gandhi shot dead at prayer meeting |
 | 1949 | Godse executed |
 
-## References
+
 
 [^1]: Wikipedia, "Mahatma Gandhi Assassination" - https://en.wikipedia.org/wiki/Mahatma_Gandhi_Assassination
 
@@ -51,3 +51,6 @@ Gandhi's death intensified debates about extremism, national identity, and the b
 - Partition of India
 - Communal violence and reconciliation movements
 - Political assassinations in the 20th century
+
+
+## References

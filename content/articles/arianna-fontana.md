@@ -23,7 +23,7 @@ Arianna Fontana is the most decorated short track speed skater in Olympic histor
 | 2018 | Won 500m gold at PyeongChang |
 | 2022 | Won 500m gold at Beijing |
 
-## References
+
 
 [^1]: Wikipedia, "Arianna Fontana" - https://en.wikipedia.org/wiki/Arianna_Fontana
 
@@ -50,3 +50,6 @@ Fontana’s achievements are frequently referenced in discussions of European su
 ## Further Reading
 
 [^2]: International Olympic Committee (athlete profiles and results) - https://olympics.com/
+
+
+## References

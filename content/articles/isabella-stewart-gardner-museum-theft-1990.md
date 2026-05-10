@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 1990-03-18 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -48,3 +48,6 @@ Because the stolen works are widely recognizable, they are often described as "t
 ## Legacy in the Art World
 The robbery influenced museum security standards and public awareness of art crime, and it remains a reference point in discussions of provenance, private collections, and illicit trafficking. The continued absence of the works has also shaped how the museum presents its collection and tells its own institutional history.
 It is still widely cited as the largest-value unsolved art theft in the United States.
+
+
+## References

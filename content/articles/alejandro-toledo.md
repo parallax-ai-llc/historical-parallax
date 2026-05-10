@@ -24,7 +24,7 @@ Peruvian former president who was convicted of corruption for accepting $35 mill
 | 2023 | Extradited from US to Peru |
 | 2024 | Convicted of corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Alejandro Toledo" - https://en.wikipedia.org/wiki/Alejandro_Toledo
 
@@ -49,3 +49,6 @@ Toledo’s trajectory is often cited in discussions of:
 - how corruption scandals can reshape party systems and public trust in institutions
 
 In comparative politics, the Peruvian cases connected to Odebrecht are frequently used to illustrate both the potential and the limits of judicial anticorruption campaigns.
+
+
+## References

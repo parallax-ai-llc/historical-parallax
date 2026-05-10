@@ -22,7 +22,7 @@ Global organ trafficking generates $840 million to $1.7 billion annually. Organs
 | 2008 | Kosovo organ trafficking scandal |
 | 2019 | China tribunal found forced organ harvesting |
 
-## References
+
 
 [^1]: Wikipedia, "Organ Trafficking" - https://en.wikipedia.org/wiki/Organ_Trafficking
 
@@ -61,3 +61,6 @@ Reliable prevalence estimates are difficult: illicit transplants are designed to
 ## Public health and ethics considerations
 
 Organ trafficking raises major ethical issues around consent, exploitation, and medical harm. It also creates public health risks when surgeries are performed without adequate screening, follow-up care, or infection control, potentially harming both donors and recipients.
+
+
+## References

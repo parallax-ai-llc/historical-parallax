@@ -5,7 +5,7 @@ birth: "1963-01-28"
 death: "Unknown"
 nationality: "Brazil"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sergiocabral2006.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergio_Cabral"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Former Rio de Janeiro governor sentenced to over 400 years for corruption.
 |------|-------|
 | 2018 | Sentenced to 400+ years |
 
-## References
+
 
 [^1]: Wikipedia, "Sergio Cabral" - https://en.wikipedia.org/wiki/Sergio_Cabral
 
@@ -77,3 +77,6 @@ Cabral’s case is often referenced in discussions of Brazilian anti-corruption 
 - Operation Car Wash (Lava Jato)
 - Political economy of mega-events (World Cup / Olympics) and construction contracting
 - Oversight institutions (courts, prosecutors, audit bodies) in Brazil’s federal system
+
+
+## References

@@ -22,7 +22,7 @@ Online child sexual abuse material networks generate billions in revenue. Dark w
 | 2019 | Welcome to Video takedown |
 | 2023 | Largest-ever CSAM operation disrupted |
 
-## References
+
 
 [^1]: Wikipedia, "CSAM Networks" - https://en.wikipedia.org/wiki/CSAM_Networks
 
@@ -49,3 +49,6 @@ Major components of disruption include user reporting, automated detection, hash
 ## Why It Matters
 
 The harm in CSAM cases is ongoing: the circulation of illegal material can retraumatize survivors and enable further abuse. Policy discussions often center on balancing privacy, platform responsibility, and effective investigative tools while prioritizing child safety.
+
+
+## References

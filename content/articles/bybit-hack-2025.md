@@ -44,7 +44,7 @@ Cryptocurrency exchange Bybit was hacked for approximately $1.5 billion in Ether
 
 - The incident is frequently cited in discussions about the security tradeoffs of centralized custody, the challenges of deterring state-linked cyber theft, and the limits of recovery once assets are transferred on-chain.
 
-## References
+
 
 [^1]: Wikipedia, "Bybit Hack 2025" - https://en.wikipedia.org/wiki/Bybit_Hack_2025
 
@@ -63,3 +63,6 @@ Cryptocurrency exchange Bybit was hacked for approximately $1.5 billion in Ether
 
 - **Custody architecture matters:** Security discussions frequently emphasize segregated wallets, rate-limited withdrawals, multi-party authorization, and hardened key-management procedures.
 - **Operational resilience:** Incidents of this size typically lead to renewed attention on incident response playbooks, communications discipline, and external security audits.
+
+
+## References

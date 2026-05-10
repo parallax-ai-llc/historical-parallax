@@ -5,7 +5,7 @@ birth: "0188-01-01"
 death: "0120-01-01"
 nationality: "Greek"
 occupation: ["Athlete", "Ancient Olympic Champion", "Runner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Hoplitodromos_Louvre_MN704.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonidas_of_Rhodes"
 lastUpdated: "2026-02-21"

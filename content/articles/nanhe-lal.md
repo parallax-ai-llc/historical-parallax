@@ -23,7 +23,7 @@ Indian serial killer from Uttar Pradesh who murdered 22 children over a period o
 | 1997 | Arrested |
 | 2000 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Nanhe Lal" - https://en.wikipedia.org/wiki/Nanhe_Lal
 
@@ -52,3 +52,6 @@ Child-victim serial cases often trigger community-level changes such as heighten
 ## Notes on Sources
 
 Public information about the case is comparatively limited relative to more internationally covered crimes; Wikipedia and local reporting are commonly cited entry points for basic timelines.
+
+
+## References

@@ -23,7 +23,7 @@ Bulgarian businesswoman known as the Cryptoqueen who ran OneCoin, a $4 billion c
 | 2017 | Disappeared after being tipped off about indictment |
 | 2022 | Added to FBI's Ten Most Wanted Fugitives |
 
-## References
+
 
 [^1]: Wikipedia, "Ruja Ignatova OneCoin" - https://en.wikipedia.org/wiki/Ruja_Ignatova_OneCoin
 
@@ -52,3 +52,6 @@ Bulgarian businesswoman known as the Cryptoqueen who ran OneCoin, a $4 billion c
 - OneCoin
 - Ponzi scheme
 - Multi-level marketing
+
+
+## References

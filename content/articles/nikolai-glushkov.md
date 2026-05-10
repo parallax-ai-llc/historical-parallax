@@ -21,7 +21,7 @@ Russian businessman and Berezovsky associate found strangled in his London home.
 |------|-------|
 | 2018 | Found strangled in London |
 
-## References
+
 
 [^1]: Wikipedia, "Nikolai Glushkov" - https://en.wikipedia.org/wiki/Nikolai_Glushkov
 
@@ -54,3 +54,6 @@ Russian businessman and Berezovsky associate found strangled in his London home.
 ## Further Reading
 
 - Wikipedia article for a high-level overview and cited sources: https://en.wikipedia.org/wiki/Nikolai_Glushkov
+
+
+## References

@@ -21,7 +21,7 @@ Investigation into intelligence failures before the 2019 Christchurch mosque sho
 |------|-------|
 | 2020 | Found intelligence agencies focused on wrong threats |
 
-## References
+
 
 [^1]: Wikipedia, "New Zealand Royal Commission" - https://en.wikipedia.org/wiki/New_Zealand_Royal_Commission
 
@@ -60,3 +60,6 @@ This page is a high-level factual stub. For precise wording, dates, and the comp
 
 [^2]: Royal Commission of Inquiry (official site / publications), "Report and recommendations" (see official releases)
 [^3]: New Zealand Government releases on the Royal Commission report and implementation updates (official statements)
+
+
+## References

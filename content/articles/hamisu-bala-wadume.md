@@ -22,7 +22,7 @@ Nigerian kidnapping kingpin whose rescue by soldiers led to the killing of polic
 | 2019 | Kidnapping operation exposed military-criminal collusion |
 | 2020 | Convicted alongside military personnel |
 
-## References
+
 
 [^1]: Wikipedia, "Hamisu Bala Wadume" - https://en.wikipedia.org/wiki/Hamisu_Bala_Wadume
 
@@ -48,3 +48,6 @@ Nigerian kidnapping kingpin whose rescue by soldiers led to the killing of polic
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
+
+
+## References

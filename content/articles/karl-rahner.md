@@ -5,7 +5,7 @@ birth: "1904-03-05"
 death: "1984-03-30"
 nationality: "German"
 occupation: ["Theologian", "Priest"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Karl_Rahner_by_Letizia_Mancino_Cremer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Rahner"
 lastUpdated: "2026-02-21"

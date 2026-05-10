@@ -21,7 +21,7 @@ Penny Heyns won Olympic gold in both the 100m and 200m breaststroke at the 1996 
 |------|-------|
 | 1996 | Won 100m and 200m breaststroke gold at Atlanta |
 
-## References
+
 
 [^1]: Wikipedia, "Penny Heyns" - https://en.wikipedia.org/wiki/Penny_Heyns
 
@@ -58,3 +58,6 @@ After retiring from elite competition, Heyns has been involved in swimming-relat
 ## Additional Reading
 
 - Wikipedia entry: Penny Heyns — https://en.wikipedia.org/wiki/Penny_Heyns
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1855-01-01"
 death: "1896-01-08"
 nationality: "Japanese"
 occupation: ["Seismologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Sekiya_Seikei.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sekiya_Seikei"
 lastUpdated: "2026-02-21"

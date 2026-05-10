@@ -22,7 +22,7 @@ REvil ransomware group exploited a vulnerability in Kaseya's IT management softw
 | 2021 | REvil attacked 1,500 businesses via Kaseya |
 | 2021 | REvil demanded $70 million ransom |
 
-## References
+
 
 [^1]: Wikipedia, "Kaseya VSA Ransomware Attack" - https://en.wikipedia.org/wiki/Kaseya_VSA_Ransomware_Attack
 
@@ -56,3 +56,6 @@ Readers often look for:
 ## MSP risk lessons (overview)
 
 Because MSPs administer many customer environments, incidents like this are often used to highlight “shared fate” risk: a single compromised administrative channel can propagate across many small and mid-sized businesses. Common mitigations discussed include least-privilege administration, network segmentation between tenants, and rehearsed shutdown procedures for remote tooling during active exploitation.
+
+
+## References

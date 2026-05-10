@@ -22,7 +22,7 @@ Takata's defective airbag inflators could explode and shoot metal shrapnel at ve
 | 2013 | Defects confirmed |
 | 2017 | Takata filed for bankruptcy |
 
-## References
+
 
 [^1]: Wikipedia, "Takata Airbag Scandal" - https://en.wikipedia.org/wiki/Takata_Airbag_Scandal
 
@@ -51,3 +51,6 @@ The crisis prompted investigations by regulators, civil litigation, and corporat
 - Automotive safety recalls
 - Product liability and mass tort litigation
 - Quality management in manufacturing supply chains
+
+
+## References

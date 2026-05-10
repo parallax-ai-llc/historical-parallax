@@ -21,7 +21,7 @@ Turkish performance artist known as the 'Standing Man' who silently protested du
 |------|-------|
 | 2013 | Silent protest during Gezi Park |
 
-## References
+
 
 [^1]: Wikipedia, "Erdem Gündüz" - https://en.wikipedia.org/wiki/Erdem_G%C3%BCnd%C3%BCz
 
@@ -51,3 +51,6 @@ Turkish performance artist known as the 'Standing Man' who silently protested du
 ## Notes
 
 - Biographical details beyond the 2013 protest (education, institutional affiliations, and broader body of work) vary by source; the summary above focuses on the widely documented “Standing Man” action.[^1]
+
+
+## References

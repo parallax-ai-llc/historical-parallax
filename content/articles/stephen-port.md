@@ -43,7 +43,7 @@ British serial killer who murdered four young men between 2014 and 2015 by poiso
 - The case prompted broader discussion in the UK about policing of crimes affecting LGBTQ+ communities and how potential patterns are recognized across multiple incidents.
 - Media coverage and subsequent reviews highlighted issues around risk assessment, information-sharing, and the handling of vulnerable-person investigations.
 
-## References
+
 
 [^1]: Wikipedia, "Stephen Port" - https://en.wikipedia.org/wiki/Stephen_Port
 
@@ -51,3 +51,6 @@ British serial killer who murdered four young men between 2014 and 2015 by poiso
 
 - GHB (gamma-hydroxybutyrate)
 - Criminal justice responses to serial crime patterns
+
+
+## References

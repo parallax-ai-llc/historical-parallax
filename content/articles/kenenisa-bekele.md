@@ -50,7 +50,7 @@ Kenenisa Bekele holds the 10,000m world record and won both 5,000m and 10,000m a
 - Bekele is often cited as one of the greatest long-distance runners, especially for his rare combination of track, cross-country, and road success.
 - His records and championship results are frequently used as benchmarks in discussions of modern distance-running greatness.
 
-## References
+
 
 [^1]: Wikipedia, "Kenenisa Bekele" - https://en.wikipedia.org/wiki/Kenenisa_Bekele
 
@@ -69,3 +69,6 @@ Kenenisa Bekele holds the 10,000m world record and won both 5,000m and 10,000m a
 
 - In historical comparisons, he is commonly grouped with the most accomplished distance runners for combining world records with Olympic and world championship success.
 - His results remain a reference point for athletes attempting the track-to-marathon transition at the highest level.
+
+
+## References

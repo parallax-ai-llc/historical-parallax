@@ -21,7 +21,7 @@ British man who fought against ISIS with Kurdish forces in Syria.
 |------|-------|
 | 2015 | Fought ISIS with Kurdish YPG |
 
-## References
+
 
 [^1]: Wikipedia, "Macer Gifford" - https://en.wikipedia.org/wiki/Macer_Gifford
 
@@ -57,3 +57,6 @@ British man who fought against ISIS with Kurdish forces in Syria.
 ## Additional References
 
 [^2]: BBC News, "Briton fighting with Kurds against Islamic State defends actions" (11 June 2015) - https://www.bbc.co.uk/news/uk-33080192
+
+
+## References

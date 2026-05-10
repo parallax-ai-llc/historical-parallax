@@ -21,7 +21,7 @@ Investigation into murder of journalist that exposed deep corruption in the Malt
 |------|-------|
 | 2019 | Key suspects arrested |
 
-## References
+
 
 [^1]: Wikipedia, "Caruana Galizia Investigation" - https://en.wikipedia.org/wiki/Caruana_Galizia_Investigation
 
@@ -78,3 +78,6 @@ Investigation into murder of journalist that exposed deep corruption in the Malt
 - 2017 assassination of Daphne Caruana Galizia
 - Politics of Malta (2010s)
 - Press freedom and journalist safety in the European Union
+
+
+## References

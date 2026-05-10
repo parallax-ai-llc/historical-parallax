@@ -23,7 +23,7 @@ The Burning Sun scandal involved K-pop stars and police in a nightclub ring of d
 | 2019 | Multiple K-pop stars implicated |
 | 2021 | Seungri convicted and sentenced to 3 years |
 
-## References
+
 
 [^1]: Wikipedia, "Burning Sun Scandal" - https://en.wikipedia.org/wiki/Burning_Sun_Scandal
 
@@ -62,3 +62,6 @@ In public discourse, “Burning Sun” is sometimes used as a shorthand for a br
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

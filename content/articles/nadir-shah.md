@@ -22,7 +22,7 @@ Persian ruler who invaded India and ordered the massacre of 30,000 people in Del
 | 1739 | Sacked Delhi killing 30,000 and looting Peacock Throne |
 | 1747 | Assassinated by his own officers |
 
-## References
+
 
 [^1]: Wikipedia, "Nadir Shah" - https://en.wikipedia.org/wiki/Nadir_Shah
 
@@ -51,3 +51,6 @@ Persian ruler who invaded India and ordered the massacre of 30,000 people in Del
 - Popular summaries tend to compress complex campaigns into a few dramatic episodes (especially Delhi), which can overshadow regional governance and diplomacy.
 - As with many early-modern figures, accounts may mix administrative records with later moral judgments.
 
+
+
+## References

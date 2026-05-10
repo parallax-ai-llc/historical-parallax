@@ -21,7 +21,7 @@ High-ranking Mexican Mafia member who became a government informant, exposing th
 |------|-------|
 | 2002 | Became informant against Mexican Mafia |
 
-## References
+
 
 [^1]: Wikipedia, "Rene Enriquez" - https://en.wikipedia.org/wiki/Rene_Enriquez
 
@@ -74,3 +74,5 @@ High-ranking Mexican Mafia member who became a government informant, exposing th
 ## References
 
 - [^1]: See Wikipedia link above for the primary public overview.
+
+

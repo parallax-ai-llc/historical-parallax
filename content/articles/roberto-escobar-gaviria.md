@@ -5,7 +5,7 @@ birth: "1947-01-13"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Organized Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Roberto_Escobar_%28cropped%29.jpg/250px-Roberto_Escobar_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Escobar_Gaviria"
 lastUpdated: "2026-02-26"

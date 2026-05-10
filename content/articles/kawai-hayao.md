@@ -5,7 +5,7 @@ birth: "1928-06-23"
 death: "2007-07-19"
 nationality: "Japanese"
 occupation: ["Psychologist", "Author", "Cultural Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hayao_Kawai.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kawai_Hayao"
 lastUpdated: "2026-02-21"

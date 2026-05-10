@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1969 | See Lei Jun |
 
-## References
+
 
 [^1]: Wikipedia, "Lei Jun dup2" - https://en.wikipedia.org/wiki/Lei_Jun_dup2
 
@@ -51,3 +51,6 @@ If your project maintains a non-duplicate article (e.g., `lei-jun.md`), link to 
 
 - Keep the `id` stable for backlinks.
 - Prefer updating the main Lei Jun article for substantive changes; keep this file as a minimal alias unless a separate disambiguation is required.
+
+
+## References

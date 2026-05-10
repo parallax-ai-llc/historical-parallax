@@ -5,7 +5,7 @@ birth: "1974-01-01"
 death: "Unknown"
 nationality: "India"
 occupation: ["Corrupt Police"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Assistant_Police_Inspector.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sachin_Waze"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Indian police officer arrested for planting explosives outside industrialist Muk
 |------|-------|
 | 2021 | Arrested for planting explosives near Ambani residence |
 
-## References
+
 
 [^1]: Wikipedia, "Sachin Waze" - https://en.wikipedia.org/wiki/Sachin_Waze
 
@@ -52,3 +52,6 @@ Indian police officer arrested for planting explosives outside industrialist Muk
 - National Investigation Agency (NIA)
 - Mumbai Police
 - Mansukh Hiren (name frequently mentioned in public reporting around the case)
+
+
+## References

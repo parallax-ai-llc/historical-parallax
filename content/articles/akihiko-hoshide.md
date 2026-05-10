@@ -23,7 +23,7 @@ Akihiko Hoshide was a JAXA astronaut who commanded the ISS and performed multipl
 | 2012 | Second spaceflight to ISS |
 | 2021 | Commanded ISS on third mission |
 
-## References
+
 
 [^1]: Wikipedia, "Akihiko Hoshide" - https://en.wikipedia.org/wiki/Akihiko_Hoshide
 
@@ -48,3 +48,6 @@ During his 2021 mission, Hoshide served as commander of the International Space 
 Hoshide’s career is often cited in the context of Japan’s long-term participation in the ISS program and the development of a sustained human spaceflight capability through collaboration with NASA and other partners.
 
 [^2]: Wikipedia, "International Space Station" - https://en.wikipedia.org/wiki/International_Space_Station
+
+
+## References

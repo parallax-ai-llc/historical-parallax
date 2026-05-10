@@ -21,7 +21,7 @@ New Zealander wrongfully convicted of rape and murder who spent 22 years in pris
 |------|-------|
 | 2015 | Exonerated after 22 years |
 
-## References
+
 
 [^1]: Wikipedia, "Teina Pora" - https://en.wikipedia.org/wiki/Teina_Pora
 
@@ -65,3 +65,6 @@ The Pora case is often referenced in debates about criminal justice reform, part
 ## References (Additional)
 
 [^2]: Judicial Committee of the Privy Council, decision quashing convictions (March 2015) (as summarized in public reporting and Wikipedia).
+
+
+## References

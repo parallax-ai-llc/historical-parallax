@@ -5,7 +5,7 @@ birth: "1982-02-26"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Athlete", "Tennis Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Li_Na_January_2015.jpg/960px-Li_Na_January_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Na"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Li Na won two Grand Slam titles and was the first Asian player to win a Grand Sl
 | 2014 | Retired from tennis |
 | 2019 | Inducted into Tennis Hall of Fame |
 
-## References
+
 
 [^1]: Wikipedia, "Li Na" - https://en.wikipedia.org/wiki/Li_Na
 ## Background
@@ -50,3 +50,6 @@ Li Na’s induction into the International Tennis Hall of Fame reflects her sign
 
 - This page is a high-level overview intended to be expanded with additional sources.
 - When adding detailed claims (dates, numbers, quotations), prefer primary documents or reputable historical scholarship.
+
+
+## References

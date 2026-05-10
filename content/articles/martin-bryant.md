@@ -23,7 +23,7 @@ Martin Bryant killed 35 people and wounded 23 at Port Arthur, Tasmania on April 
 | 1996 | Charged with multiple counts of murder and related offences. |
 | 1996-11 | Pleaded guilty; sentenced to life imprisonment without possibility of parole (multiple life terms). |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -56,3 +56,6 @@ Martin Bryant killed 35 people and wounded 23 at Port Arthur, Tasmania on April 
 ## Further reading
 - Australian government and parliamentary materials on the National Firearms Agreement (1996).
 - Major Australian newspapers’ retrospective coverage of Port Arthur and subsequent reforms.
+
+
+## References

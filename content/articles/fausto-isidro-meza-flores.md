@@ -22,7 +22,7 @@ Beltrán-Leyva Cartel remnant leader known as 'El Chapo Isidro' who controlled d
 | 2010 | Became leader of Beltrán-Leyva remnants |
 | 2017 | One of Mexico's most wanted traffickers |
 
-## References
+
 
 [^1]: Wikipedia, "Fausto Isidro Meza Flores" - https://en.wikipedia.org/wiki/Fausto_Isidro_Meza_Flores
 
@@ -69,3 +69,6 @@ Cases like Meza Floress are frequently cited in analysis of Mexican organized c
 - Beltrn-Leyva Cartel
 - Sinaloa trafficking corridors
 - Cartel fragmentation in Mexico
+
+
+## References

@@ -23,7 +23,7 @@ Hijacking of Indian Airlines Flight IC-814 on December 24, 1999 by five Pakistan
 | 1999 | Diverted to Kandahar |
 | 1999 | India released militants for hostages |
 
-## References
+
 
 [^1]: Wikipedia, "IC-814 Hijacking" - https://en.wikipedia.org/wiki/IC-814_Hijacking
 
@@ -50,3 +50,6 @@ When using this entry as a starting point, prioritize (1) contemporaneous primar
 ## Reading guide
 
 When using this entry as a starting point, prioritize (1) contemporaneous primary material, (2) reputable secondary syntheses, and (3) cross-checking across independent outlets. This helps reduce errors from mistranslation, name collisions, and evolving narratives.
+
+
+## References

@@ -23,7 +23,7 @@ Haitian military dictator who ruled from 1988 to 1990 and was found liable for t
 | 1990 | Overthrown and fled to United States |
 | 1994 | Found liable for torture by US court |
 
-## References
+
 
 [^1]: Wikipedia, "Prosper Avril" - https://en.wikipedia.org/wiki/Prosper_Avril
 
@@ -49,3 +49,6 @@ This article is a brief overview; details of specific incidents and legal findin
 
 - Politics of Haiti
 - Human rights in Haiti
+
+
+## References

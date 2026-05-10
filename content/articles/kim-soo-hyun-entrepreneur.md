@@ -21,7 +21,7 @@ Placeholder.
 |------|-------|
 | 1965 | Born |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Soo-hyun entrepreneur" - https://en.wikipedia.org/wiki/Kim_Soo-hyun_entrepreneur
 
@@ -57,3 +57,6 @@ Placeholder.
 - Major projects and industrial impact (products, sectors, export activity)
 - Public service or philanthropy (foundations, donations, committees)
 - Recognition and controversies (awards, legal disputes) with careful sourcing
+
+
+## References

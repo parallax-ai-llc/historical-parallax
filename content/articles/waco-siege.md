@@ -23,7 +23,7 @@ lastUpdated: "2026-02-26"
 | 1993 | 51-day siege |
 | 1993 | Fire killed 76 people |
 
-## References
+
 
 [^1]: Wikipedia, "Waco Siege" - https://en.wikipedia.org/wiki/Waco_Siege
 
@@ -48,3 +48,6 @@ The siege led to criminal prosecutions of surviving Branch Davidians and multipl
 ### Cultural and political impact
 
 Waco has been cited by various extremist and anti-government movements as a grievance narrative, and it influenced later public scrutiny of federal agencies' use-of-force policies.
+
+
+## References

@@ -24,7 +24,7 @@ Rwandan academic and co-founder of RTLM radio that broadcast hate propaganda and
 | 2003 | Convicted of genocide in ICTR Media Case |
 | 2007 | Sentence reduced to 30 years on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Ferdinand Nahimana" - https://en.wikipedia.org/wiki/Ferdinand_Nahimana
 
@@ -51,3 +51,6 @@ Nahimana's conviction and sentence reductions on appeal remain part of broader s
 ## See Also
 
 - International Criminal Tribunal for Rwanda (ICTR)
+
+
+## References

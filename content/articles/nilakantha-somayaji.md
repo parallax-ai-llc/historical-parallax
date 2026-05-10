@@ -24,7 +24,7 @@ Nilakantha Somayaji was a key member of the Kerala school of mathematics who dev
 | 1530 | Published Aryabhatiya Bhasya commentary |
 | 1544 | Estimated death |
 
-## References
+
 
 [^1]: Wikipedia, "Nilakantha Somayaji" - https://en.wikipedia.org/wiki/Nilakantha_Somayaji
 
@@ -49,3 +49,6 @@ In pre-modern astronomy, models of planetary motion were evaluated by how well t
 
 - Overviews of the Kerala school in histories of Indian mathematics
 - Scholarly editions or studies of *Tantrasamgraha* and related commentaries
+
+
+## References

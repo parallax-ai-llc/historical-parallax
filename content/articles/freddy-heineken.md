@@ -21,7 +21,7 @@ Dutch beer magnate kidnapped and held for 21 days before a $12 million ransom wa
 |------|-------|
 | 1983 | Kidnapped and ransomed |
 
-## References
+
 
 [^1]: Wikipedia, "Freddy Heineken" - https://en.wikipedia.org/wiki/Freddy_Heineken
 
@@ -50,3 +50,6 @@ Dutch beer magnate kidnapped and held for 21 days before a $12 million ransom wa
 ## Notes
 
 - This article’s short summary emphasizes the kidnapping because it is the most widely known single incident in English-language coverage; however, Heineken’s broader historical significance is tied to his long business career and brand strategy at Heineken.
+
+
+## References

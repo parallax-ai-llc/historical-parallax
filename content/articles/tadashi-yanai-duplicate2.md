@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1949 | See Tadashi Yanai |
 
-## References
+
 
 [^1]: Wikipedia, "Tadashi Yanai duplicate2" - https://en.wikipedia.org/wiki/Tadashi_Yanai_duplicate2
 
@@ -49,3 +49,6 @@ Commonly cited high-level milestones include:
 
 [^2]: Wikipedia, "Tadashi Yanai" - https://en.wikipedia.org/wiki/Tadashi_Yanai
 [^3]: Fast Retailing, "Tadashi Yanai (Company Profile)" - https://www.fastretailing.com/eng/about/company/profile_yanai.html
+
+
+## References

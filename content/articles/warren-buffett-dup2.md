@@ -20,7 +20,7 @@ Duplicate.
 |------|-------|
 | 1930 | See Warren Buffett |
 
-## References
+
 
 [^1]: Wikipedia, "Warren Buffett dup2" - https://en.wikipedia.org/wiki/Warren_Buffett_dup2
 
@@ -66,3 +66,6 @@ Buffett has pledged to donate a substantial portion of his wealth to philanthrop
 
 [^2]: Berkshire Hathaway shareholder letters (annual), archived on Berkshire Hathaway’s official website.
 [^3]: Major-profile coverage of Buffett and Berkshire Hathaway in long-running financial press (e.g., annual meeting reporting and filings commentary).
+
+
+## References

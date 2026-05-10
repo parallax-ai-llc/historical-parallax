@@ -22,7 +22,7 @@ Eldest of the Gupta brothers accused of systematically looting South African sta
 | 2010 | Built corrupt empire in South Africa |
 | 2018 | Fled South Africa |
 
-## References
+
 
 [^1]: Wikipedia, "Ajay Gupta" - https://en.wikipedia.org/wiki/Ajay_Gupta
 
@@ -77,3 +77,6 @@ A significant share of the public record on “state capture” comes from inves
 
 Beyond individual culpability questions, the Ajay Gupta story is often used to illustrate how governance weaknesses—procurement opacity, political patronage, and weak oversight—can enable large-scale diversion of public resources.
 
+
+
+## References

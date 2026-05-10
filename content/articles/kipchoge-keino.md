@@ -23,7 +23,7 @@ Kipchoge Keino pioneered East African distance running. He won Olympic gold in 1
 | 1972 | Won steeplechase gold at Munich |
 | 2016 | Received first Olympic Laurel award |
 
-## References
+
 
 [^1]: Wikipedia, "Kipchoge Keino" - https://en.wikipedia.org/wiki/Kipchoge_Keino
 
@@ -50,3 +50,6 @@ Kipchoge Keino pioneered East African distance running. He won Olympic gold in 1
 - Wikipedia article linked above for a starting overview.
 - Olympic archives for event results and contemporaneous reporting.
 - Histories of Kenyan athletics for the wider development context.
+
+
+## References

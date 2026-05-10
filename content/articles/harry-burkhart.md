@@ -21,7 +21,7 @@ German national who set over 50 fires across Hollywood in a New Year's arson spr
 |------|-------|
 | 2012 | Convicted of setting 50+ fires in LA |
 
-## References
+
 
 [^1]: Wikipedia, "Harry Burkhart" - https://en.wikipedia.org/wiki/Harry_Burkhart
 
@@ -50,3 +50,6 @@ German national who set over 50 fires across Hollywood in a New Year's arson spr
 - Serial arson investigations
 - Los Angeles Fire Department / LAFD fire investigation
 - New Year’s Eve–related public safety incidents
+
+
+## References

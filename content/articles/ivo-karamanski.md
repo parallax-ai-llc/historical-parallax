@@ -21,7 +21,7 @@ Bulgarian crime boss who built a criminal empire during the post-communist trans
 |------|-------|
 | 1998 | Assassinated in Dupnitsa |
 
-## References
+
 
 [^1]: Wikipedia, "Ivo Karamanski" - https://en.wikipedia.org/wiki/Ivo_Karamanski
 
@@ -67,3 +67,6 @@ Wikipedia attributes to him a mix of criminal reputation and business activity:
 ## Notes
 
 - Some widely-circulated details about Karamanski vary across sources; when in doubt, treat this page as a high-level summary and consult the references directly.
+
+
+## References

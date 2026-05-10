@@ -1,6 +1,6 @@
 ---
 id: "montgomery-bus-boycott-rosa-parks"
-name: "蒙哥马利公交车抵制 罗莎·帕克斯"
+name: "蒙哥马利巴士抵制 罗莎·帕克斯"
 birth: "1955-12-01"
 death: "1956-12-20"
 nationality: "United States"
@@ -11,11 +11,11 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 概述
+## 摘要
 
-1955年12月1日，罗莎·帕克斯拒绝让座的事件引发了蒙哥马利公交车抵制。在381天的时间里，黑人居民抵制公交车，直至实现隔离解除。
+1955年12月1日，罗莎·帕克斯拒绝让出她的巴士座位，引发了蒙哥马利巴士抵制。在381天里，黑人居民抵制巴士，直到争取到废除隔离。
 
-## 事件时间线
+## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
@@ -23,9 +23,9 @@ lastUpdated: "2026-02-21"
 | 1955-12-05 | 抵制开始 |
 | 1956 | 步行和拼车 |
 | 1956-11 | 最高法院裁决 |
-| 1956-12-20 | 公交车实现隔离解除 |
+| 1956-12-20 | 巴士废除隔离 |
 | 1955 | 马丁·路德·金崭露头角成为领袖 |
 
 ## 参考资料
 
-[^1]: Wikipedia, "Montgomery Bus Boycott Rosa Parks" - https://en.wikipedia.org/wiki/Montgomery_Bus_Boycott_Rosa_Parks
+[^1]: 维基百科，“蒙哥马利巴士抵制 罗莎·帕克斯” - https://en.wikipedia.org/wiki/Montgomery_Bus_Boycott_Rosa_Parks

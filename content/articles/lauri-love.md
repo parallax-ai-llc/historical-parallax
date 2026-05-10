@@ -23,7 +23,7 @@ British hacktivist accused of hacking US government agencies including the FBI, 
 | 2013 | Arrested in UK |
 | 2018 | UK High Court blocked extradition to US |
 
-## References
+
 
 [^1]: Wikipedia, "Lauri Love" - https://en.wikipedia.org/wiki/Lauri_Love
 
@@ -49,3 +49,6 @@ The case is frequently referenced in debates on cross-border cybercrime enforcem
 ## Additional References
 
 [^2]: UK High Court judgments and case summaries concerning extradition proceedings (see court publications and reputable legal analyses).
+
+
+## References

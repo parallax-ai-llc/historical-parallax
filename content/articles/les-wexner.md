@@ -3,6 +3,7 @@ name: Les Wexner
 birth: "1937-09-08"
 nationality: American
 occupation: ["Business Executive", "Founder of L Brands", "Philanthropist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Leslie_Wexner_receives_woodrow_wilson_award_%28cropped%29_%282%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leslie_Wexner"
 lastUpdated: "2025-12-22"

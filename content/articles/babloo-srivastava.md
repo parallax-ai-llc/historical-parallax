@@ -21,7 +21,7 @@ Indian underworld figure involved in kidnapping and extortion operations across 
 |------|-------|
 | 2005 | Arrested for kidnapping and extortion |
 
-## References
+
 
 [^1]: Wikipedia, "Babloo Srivastava" - https://en.wikipedia.org/wiki/Babloo_Srivastava
 
@@ -53,3 +53,6 @@ Indian underworld figure involved in kidnapping and extortion operations across 
 - Kidnapping in India
 - Organized crime in India
 - Extortion
+
+
+## References

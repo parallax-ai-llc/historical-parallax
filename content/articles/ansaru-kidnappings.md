@@ -40,7 +40,7 @@ Kidnappings served several overlapping purposes for jihadist groups active in no
 
 This episode is often discussed as part of a broader escalation in the targeting of foreign workers and international-linked projects in northern Nigeria, and as a signal that splinter factions could sustain operations independent of Boko Haram’s main command structures.
 
-## References
+
 
 [^1]: Wikipedia (redlink / page may not exist), "Ansaru Kidnappings" - https://en.wikipedia.org/wiki/Ansaru_Kidnappings
 [^2]: Wikipedia, "Ansaru" - https://en.wikipedia.org/wiki/Ansaru
@@ -48,3 +48,6 @@ This episode is often discussed as part of a broader escalation in the targeting
 ## Sourcing notes
 
 Some details commonly associated with this incident (e.g., exact victim list, precise location and dates, and the group’s stated demands) require confirmation from contemporaneous reporting and official statements.
+
+
+## References

@@ -23,7 +23,7 @@ Civil war between the Sudanese Armed Forces and the Rapid Support Forces that be
 | 2023 | Massive displacement |
 | 2024 | Famine declared in parts of Sudan |
 
-## References
+
 
 [^1]: Wikipedia, "Sudan Civil War 2023" - https://en.wikipedia.org/wiki/Sudan_Civil_War_2023
 
@@ -50,3 +50,6 @@ Diplomatic efforts have included attempted ceasefires, mediation initiatives, an
 ### Notes
 
 This entry summarizes a complex, ongoing war. Key figures, casualty estimates, and control of territory have shifted frequently, and public reporting has varied by source and period.
+
+
+## References

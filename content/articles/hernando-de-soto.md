@@ -23,7 +23,7 @@ Hernando de Soto led the first European expedition deep into what is now the sou
 | 1541 | Reached the Mississippi River |
 | 1542 | Died on the banks of the Mississippi |
 
-## References
+
 
 [^1]: Wikipedia, "Hernando de Soto" - https://en.wikipedia.org/wiki/Hernando_de_Soto
 
@@ -49,3 +49,6 @@ Modern assessments often distinguish between the expedition’s geographic and d
 ## Notes
 
 Dates in early modern biographies can be approximate in secondary summaries; consult primary-source editions and scholarly syntheses for detailed chronology.
+
+
+## References

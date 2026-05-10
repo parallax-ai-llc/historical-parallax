@@ -5,7 +5,7 @@ birth: "1888-07-22"
 death: "1973-08-16"
 nationality: "Ukrainian-American"
 occupation: ["Biochemist", "Microbiologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Selman_Waksman_NYWTS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Selman_Waksman"
 lastUpdated: "2026-02-21"

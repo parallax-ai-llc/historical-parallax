@@ -5,7 +5,7 @@ birth: "1873-07-20"
 death: "1932-07-23"
 nationality: "Brazilian"
 occupation: ["Aviator", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Santos-Dumont"
 lastUpdated: "2026-02-21"

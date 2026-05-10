@@ -24,7 +24,7 @@ Togolese president who inherited power from his father in 2005 in what critics c
 | 2019 | Changed constitution |
 | 2024 | Shifted to parliamentary system to extend rule |
 
-## References
+
 
 [^1]: Wikipedia, "Faure Gnassingbé" - https://en.wikipedia.org/wiki/Faure_Gnassingb%C3%A9
 
@@ -51,3 +51,6 @@ Gnassingbé's rule is often described through the lens of continuity with his fa
 ## Notes on Sources
 
 Because Togolese politics is heavily polarized, summaries of events (especially around elections and constitutional changes) can differ across observers; cross-checking multiple reporting and monitoring organizations is common practice.
+
+
+## References

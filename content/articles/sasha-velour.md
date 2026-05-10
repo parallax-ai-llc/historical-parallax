@@ -3,6 +3,7 @@ name: "Sasha Velour"
 birth: "1987-02-08"
 nationality: "American"
 occupation: ["Drag Queen", "Artist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sasha_Velour_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sasha_Velour"
 lastUpdated: "2026-03-12"

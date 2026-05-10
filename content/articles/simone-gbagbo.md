@@ -24,7 +24,7 @@ Former first lady of Ivory Coast convicted by an Ivorian court of crimes against
 | 2015 | Convicted by Ivorian court and sentenced to 20 years |
 | 2018 | Granted amnesty |
 
-## References
+
 
 [^1]: Wikipedia, "Simone Gbagbo" - https://en.wikipedia.org/wiki/Simone_Gbagbo
 
@@ -61,3 +61,6 @@ Simone Gbagbo remains a polarizing figure in Ivorian politics and international 
 - Ivorian crisis (2010–2011)
 - Laurent Gbagbo
 - International Criminal Court
+
+
+## References

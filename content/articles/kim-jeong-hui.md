@@ -5,7 +5,7 @@ birth: "1786-06-03"
 death: "1856-10-10"
 nationality: "Korean"
 occupation: ["Scholar", "Epigrapher", "Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Kim_Jeong-hui.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Jeong-hui"
 lastUpdated: "2026-02-21"

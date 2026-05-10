@@ -22,7 +22,7 @@ Soviet irrigation projects diverted rivers feeding the Aral Sea, causing it to l
 | 1960 | Diversion began |
 | 2014 | Eastern basin completely dried |
 
-## References
+
 
 [^1]: Wikipedia, "Aral Sea Disaster" - https://en.wikipedia.org/wiki/Aral_Sea_Disaster
 
@@ -58,3 +58,6 @@ The Aral Sea is widely used as a case study in how major environmental harm can 
 
 [^2]: NASA Earth Observatory, Aral Sea (background imagery and explanations; specific page versions may vary) - https://earthobservatory.nasa.gov/
 [^3]: World Bank, North Aral Sea / Kazakhstan restoration project materials (site structure and URLs may change over time) - https://www.worldbank.org/
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1967 | See Xavier Niel |
 
-## References
+
 
 [^1]: Wikipedia, "Xavier Niel duplicate" - https://en.wikipedia.org/wiki/Xavier_Niel_duplicate
 
@@ -58,3 +58,6 @@ When consolidating duplicates, a common approach is:
 ## References (additional)
 
 [^2]: Wikipedia, "Xavier Niel" - https://en.wikipedia.org/wiki/Xavier_Niel
+
+
+## References

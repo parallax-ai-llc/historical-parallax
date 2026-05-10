@@ -24,7 +24,7 @@ Rwandan sub-prefect convicted by the ICTR of genocide for directing massacres in
 | 2010 | Convicted of genocide by ICTR |
 | 2010 | Sentenced to 25 years |
 
-## References
+
 
 [^1]: Wikipedia, "Dominique Ntawukulilyayo" - https://en.wikipedia.org/wiki/Dominique_Ntawukulilyayo
 
@@ -50,3 +50,6 @@ Ntawukulilyayo’s conviction is frequently referenced in discussions of account
 ## See also
 
 - International Criminal Tribunal for Rwanda
+
+
+## References

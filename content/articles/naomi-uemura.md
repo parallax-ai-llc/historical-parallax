@@ -23,7 +23,7 @@ Naomi Uemura was a pioneering Japanese adventurer who was the first to reach the
 | 1978 | First solo North Pole expedition by dogsled |
 | 1984 | Disappeared on Mount McKinley |
 
-## References
+
 
 [^1]: Wikipedia, "Naomi Uemura" - https://en.wikipedia.org/wiki/Naomi_Uemura
 
@@ -52,3 +52,6 @@ Uemura is remembered as a pioneering figure in Japanese exploration and mountain
 ## Cultural Notes
 
 In Japan, Uemura’s life is often framed as a narrative of perseverance and minimalism in expedition style—small loads, simple logistics, and a willingness to accept uncertainty.
+
+
+## References

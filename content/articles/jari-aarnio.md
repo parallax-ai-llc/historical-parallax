@@ -44,7 +44,7 @@ Former head of Helsinki drug police convicted of drug trafficking and corruption
 
 This article intentionally stays at a **high, factual level**. Detailed claims (weights, dates, legal counts, specific court findings) should be verified directly in court documents and reputable reporting.
 
-## References
+
 
 [^1]: Wikipedia, "Jari Aarnio" - https://en.wikipedia.org/wiki/Jari_Aarnio
 
@@ -52,3 +52,6 @@ This article intentionally stays at a **high, factual level**. Detailed claims (
 
 - Police corruption (general topic)
 - Organized crime in Finland (general topic)
+
+
+## References

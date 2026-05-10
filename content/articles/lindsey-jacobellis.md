@@ -22,7 +22,7 @@ Lindsey Jacobellis finally won Olympic gold in snowboard cross at 2022 Beijing a
 | 2006 | Lost gold after showboating fall in Turin |
 | 2022 | Won Olympic gold at Beijing at age 36 |
 
-## References
+
 
 [^1]: Wikipedia, "Lindsey Jacobellis" - https://en.wikipedia.org/wiki/Lindsey_Jacobellis
 
@@ -50,3 +50,6 @@ Lindsey Jacobellis finally won Olympic gold in snowboard cross at 2022 Beijing a
 - Jacobellis’ career is often told as a long arc from a famous 2006 error to a 2022 breakthrough.
 - Snowboard cross rewards both speed and risk management, which shaped her Olympic story.
 - Her gold medal became a widely shared example of persistence across multiple Olympic cycles.
+
+
+## References

@@ -23,7 +23,7 @@ Nigerian criminal organization also known as Neo Black Movement that evolved fro
 | 2000 | Expanded into transnational criminal operations |
 | 2022 | Interpol launched Operation Jackal against the group |
 
-## References
+
 
 [^1]: Wikipedia, "Black Axe Confraternity" - https://en.wikipedia.org/wiki/Black_Axe_Confraternity
 
@@ -50,3 +50,6 @@ Nigerian criminal organization also known as Neo Black Movement that evolved fro
 ## References (Additional)
 
 [^2]: Interpol, Operation Jackal (public summaries and notices) - https://www.interpol.int/
+
+
+## References

@@ -21,7 +21,7 @@ Morio Tanimoto set fire to a mental health clinic in Osaka killing 26 people inc
 |------|-------|
 | 2021 | 26 killed in clinic arson attack |
 
-## References
+
 
 [^1]: Wikipedia, "Osaka Clinic Fire" - https://en.wikipedia.org/wiki/Osaka_Clinic_Fire
 
@@ -53,3 +53,6 @@ Morio Tanimoto set fire to a mental health clinic in Osaka killing 26 people inc
 ## Additional References
 
 [^2]: Contemporary news reporting and official statements (Japan, December 2021) summarized the incident as an intentional gasoline arson attack at a mental health clinic in Osaka.
+
+
+## References

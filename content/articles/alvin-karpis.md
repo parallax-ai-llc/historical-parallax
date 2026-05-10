@@ -38,7 +38,7 @@ Alvin Karpis was the last 'Public Enemy Number One' and a member of the Barker-K
 | (mid-20th c.) | Served 26 years at Alcatraz (longest reported term there) |
 | 1979 | Died |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: https://en.wikipedia.org/wiki/Alvin_Karpis
 [^3]: https://en.wikipedia.org/wiki/Barker%E2%80%93Karpis_gang
@@ -64,3 +64,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

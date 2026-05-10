@@ -21,7 +21,7 @@ New Zealander convicted of murdering a couple on New Year's Eve 1997, a case tha
 |------|-------|
 | 1999 | Convicted of double murder |
 
-## References
+
 
 [^1]: Wikipedia, "Scott Watson" - https://en.wikipedia.org/wiki/Scott_Watson
 
@@ -51,3 +51,6 @@ The case remains controversial in part because supporters argue that aspects of 
 ## Notes
 
 [^2]: For a consolidated public timeline and list of major evidentiary issues raised in commentary, see the overview and references collected in the Wikipedia article.[^1]
+
+
+## References

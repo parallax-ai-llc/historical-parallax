@@ -21,7 +21,7 @@ Afghan-American who pleaded guilty to planning suicide bombings on the New York 
 |------|-------|
 | 2010 | Pleaded guilty to subway bomb plot |
 
-## References
+
 
 [^1]: Wikipedia, "Najibullah Zazi" - https://en.wikipedia.org/wiki/Najibullah_Zazi
 
@@ -58,3 +58,6 @@ Afghan-American who pleaded guilty to planning suicide bombings on the New York 
 ## Notes
 
 - Many specifics (exact targets, device design, and timing) are described differently across sources; summaries typically focus on the admitted conspiracy and the disruption of the plan before execution.[^1]
+
+
+## References

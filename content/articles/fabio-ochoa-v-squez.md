@@ -21,7 +21,7 @@ Youngest of the Ochoa brothers in the Medellín Cartel, extradited and imprisone
 |------|-------|
 | 2003 | Sentenced to 30 years in US |
 
-## References
+
 
 [^1]: Wikipedia, "Fabio Ochoa Vásquez" - https://en.wikipedia.org/wiki/Fabio_Ochoa_V%C3%A1squez
 
@@ -53,3 +53,6 @@ Youngest of the Ochoa brothers in the Medellín Cartel, extradited and imprisone
 - Medellín Cartel
 - Ochoa brothers (Jorge Luis Ochoa, Juan David Ochoa)
 
+
+
+## References

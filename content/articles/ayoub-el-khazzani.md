@@ -21,7 +21,7 @@ Moroccan who attacked passengers on a Thalys train before being subdued by Ameri
 |------|-------|
 | 2015 | Committed Thalys train attack |
 
-## References
+
 
 [^1]: Wikipedia, "Ayoub El Khazzani" - https://en.wikipedia.org/wiki/Ayoub_El_Khazzani
 
@@ -57,3 +57,6 @@ Moroccan who attacked passengers on a Thalys train before being subdued by Ameri
 
 - Thalys train attack
 - Counterterrorism in France
+
+
+## References

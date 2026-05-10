@@ -22,7 +22,7 @@ After abolition, Southern states used the criminal justice system to re-enslave 
 | 1865 | Convict leasing began after Civil War |
 | 1928 | Alabama was last to end the practice |
 
-## References
+
 
 [^1]: Wikipedia, "Convict Leasing" - https://en.wikipedia.org/wiki/Convict_Leasing
 
@@ -51,3 +51,6 @@ By the early 20th century, some states shifted from leasing to state-run chain g
 - Revenue and labor extraction were central incentives.
 - Arrest and sentencing practices determined the labor supply.
 - Abolition of leasing did not immediately end coerced penal labor.
+
+
+## References

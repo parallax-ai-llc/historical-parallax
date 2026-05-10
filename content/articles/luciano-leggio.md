@@ -23,7 +23,7 @@ Italian Mafia boss of the Corleone faction who mentored Toto Riina. He was known
 | 1974 | Arrested in Milan |
 | 1993 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Luciano Leggio" - https://en.wikipedia.org/wiki/Luciano_Leggio
 
@@ -50,3 +50,6 @@ Italian Mafia boss of the Corleone faction who mentored Toto Riina. He was known
 ## Source Notes
 - This entry is currently short and should be treated as a starting point rather than a definitive account.
 - If a cited link becomes unavailable or resolves to a placeholder page, add an archived copy and alternative reputable sources.
+
+
+## References

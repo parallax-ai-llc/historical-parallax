@@ -21,7 +21,7 @@ Chinese political aide convicted of espionage against the European Parliament.
 |------|-------|
 | 2024 | Convicted of spying on European Parliament |
 
-## References
+
 
 [^1]: Wikipedia, "Wang Weijing" - https://en.wikipedia.org/wiki/Wang_Weijing
 
@@ -50,3 +50,6 @@ Public reactions to espionage cases tied to legislatures commonly include:
 ## References (Additional)
 
 [^2]: European Parliament and related public reporting summarized by Wikipedia (see primary link).
+
+
+## References

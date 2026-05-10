@@ -24,7 +24,7 @@ Russian-based ransomware gang that attacked the Colonial Pipeline in May 2021, c
 | 2021 | Received $4.4 million ransom (most recovered by FBI) |
 | 2021 | Disbanded; rebranded as BlackMatter |
 
-## References
+
 
 [^1]: Wikipedia, "DarkSide ransomware" - https://en.wikipedia.org/wiki/DarkSide_ransomware
 
@@ -48,3 +48,6 @@ Russian-based ransomware gang that attacked the Colonial Pipeline in May 2021, c
 - Colonial Pipeline ransomware incident (2021)
 - Ransomware-as-a-service (RaaS) ecosystem
 - Cryptocurrency tracing and ransom recovery efforts by law enforcement
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1963-06-25"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Li_Shufu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Shufu"
 lastUpdated: "2026-02-21"

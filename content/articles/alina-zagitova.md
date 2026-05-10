@@ -23,7 +23,7 @@ Alina Zagitova won Olympic gold at 2018 PyeongChang at age 15, defeating teammat
 | 2019 | Won World Championship gold |
 | 2019 | Suspended competitive career |
 
-## References
+
 
 [^1]: Wikipedia, "Alina Zagitova" - https://en.wikipedia.org/wiki/Alina_Zagitova
 
@@ -51,3 +51,6 @@ Zagitova’s Olympic title at a very young age, and the intense domestic and int
 
 - Figure skating at the 2018 Winter Olympics
 - ISU Grand Prix of Figure Skating
+
+
+## References

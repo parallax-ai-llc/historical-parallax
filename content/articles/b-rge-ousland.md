@@ -23,7 +23,7 @@ Børge Ousland was the first person to cross Antarctica alone and unsupported an
 | 1997 | First solo unsupported crossing of Antarctica |
 | 2001 | First solo crossing of Arctic Ocean |
 
-## References
+
 
 [^1]: Wikipedia, "Børge Ousland" - https://en.wikipedia.org/wiki/B%C3%B8rge_Ousland
 
@@ -49,3 +49,6 @@ Beyond expedition records, explorers like Ousland frequently contribute to publi
 - “Unsupported” claims are typically defined by expedition rulesets (no resupply and no motorized assistance), which can vary by source.
 - Route choice, season window, and weather conditions are major factors in how expeditions are compared.
 - Many public profiles also highlight preparation: nutrition planning, sled hauling strategy, and emergency risk management.
+
+
+## References

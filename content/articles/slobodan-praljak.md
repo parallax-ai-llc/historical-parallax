@@ -24,7 +24,7 @@ Bosnian Croat military commander who dramatically swallowed poison and died in t
 | 2017 | Convicted and sentenced to 20 years |
 | 2017 | Drank poison in courtroom and died |
 
-## References
+
 
 [^1]: Wikipedia, "Slobodan Praljak" - https://en.wikipedia.org/wiki/Slobodan_Praljak
 
@@ -49,3 +49,6 @@ Praljak’s case remains politically charged in parts of the region: supporters 
 - Senior Bosnian Croat commander associated with the HVO during the Bosnian War.
 - Convicted by the ICTY; sentence upheld on appeal.
 - Died after ingesting poison in court in 2017, drawing global attention.
+
+
+## References

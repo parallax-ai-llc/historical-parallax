@@ -5,7 +5,7 @@ birth: "1896-11-23"
 death: "1979-01-14"
 nationality: "Korean"
 occupation: ["Industrialist", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Kim_Yeon-su.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Yeon-su"
 lastUpdated: "2026-02-21"

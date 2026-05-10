@@ -46,7 +46,7 @@ Duplicate consolidated.
 - Historically, Himmler is treated as one of the most powerful figures in the Nazi regime, notable for building an integrated security state that combined ideology, policing, and paramilitary power.
 - His authority was organizational as much as political: he created durable bureaucratic structures that carried out terror and genocide at scale.
 
-## References
+
 
 [^1]: Wikipedia, "Himmler" - https://en.wikipedia.org/wiki/Himmler
 
@@ -61,3 +61,6 @@ Duplicate consolidated.
 
 - As the Third Reich collapsed, internal rivalries intensified and late-war maneuvering included attempts by some leaders to secure postwar survival.
 - Himmler’s suicide after capture is commonly cited as an example of senior Nazi leaders avoiding legal accountability at the moment of defeat.
+
+
+## References

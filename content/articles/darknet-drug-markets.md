@@ -22,7 +22,7 @@ Since Silk Road, hundreds of darknet markets have facilitated billions in drug s
 | 2011 | Silk Road launched |
 | 2023 | Markets continue to thrive |
 
-## References
+
 
 [^1]: Wikipedia, "Darknet Drug Markets" - https://en.wikipedia.org/wiki/Darknet_Drug_Markets
 
@@ -49,3 +49,6 @@ International investigations often combine undercover work, server-side exploita
 ## Broader Impact
 
 Beyond drug trafficking, darknet markets helped professionalize online illicit commerce by standardizing listings, logistics advice, and customer support behaviors. They also accelerated the arms race between privacy tools, cryptocurrency analytics, and cross-border investigative cooperation.
+
+
+## References

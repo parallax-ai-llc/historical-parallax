@@ -23,7 +23,7 @@ Israeli prime minister indicted on charges of bribery, fraud, and breach of trus
 | 2020 | Trial began |
 | 2024 | Trial ongoing while leading Gaza war |
 
-## References
+
 
 [^1]: Wikipedia, "Benjamin Netanyahu Corruption" - https://en.wikipedia.org/wiki/Benjamin_Netanyahu_Corruption
 
@@ -53,3 +53,6 @@ High-profile criminal trials can involve extended evidentiary phases, witness te
 ## References and Further Reading
 
 For a detailed breakdown of the specific case numbers, allegations, and procedural milestones, the linked reference provides a consolidated summary and timeline.
+
+
+## References

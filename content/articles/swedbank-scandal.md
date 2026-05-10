@@ -21,7 +21,7 @@ Swedbank handled $135 billion in suspicious transactions through its Baltic bran
 |------|-------|
 | 2019 | $135 billion in suspicious transactions |
 
-## References
+
 
 [^1]: Wikipedia, "Swedbank Scandal" - https://en.wikipedia.org/wiki/Swedbank_Scandal
 
@@ -72,3 +72,6 @@ The Swedbank scandal is frequently cited as:
 ## See Also
 
 - Danske Bank money laundering scandal (frequently referenced as related context in Baltic AML reporting)
+
+
+## References

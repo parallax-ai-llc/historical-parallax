@@ -24,7 +24,7 @@ Turkish televangelist known as Harun Yahya who led a cult-like organization. He 
 | 2021 | Convicted; sentenced to 1,075 years |
 | 2023 | Sentence increased to 8,658 years on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Adnan Oktar" - https://en.wikipedia.org/wiki/Adnan_Oktar
 
@@ -48,3 +48,6 @@ Turkish televangelist known as Harun Yahya who led a cult-like organization. He 
 - Contemporary news reporting and court documents where available.
 - Academic or policy analyses for historical and political context.
 - For contested topics, compare multiple reputable sources and primary documents when available.
+
+
+## References

@@ -39,7 +39,7 @@ Korean Air executive who caused the 'nut rage' incident by forcing a plane to re
 - Courts convicted Cho Hyun-ah; public summaries emphasize that the case was treated as more than a customer-service dispute because it involved interfering with flight operations and crew responsibilities.
 - The controversy also triggered broader discussions in South Korea about corporate governance, accountability of controlling families, and workplace culture.
 
-## References
+
 
 [^1]: Wikipedia, "Cho Hyun-ah" - https://en.wikipedia.org/wiki/Cho_Hyun-ah
 
@@ -52,3 +52,6 @@ Korean Air executive who caused the 'nut rage' incident by forcing a plane to re
 
 - Gapjil (갑질)
 - Hanjin Group / Korean Air governance controversies
+
+
+## References

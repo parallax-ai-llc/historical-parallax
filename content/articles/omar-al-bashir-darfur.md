@@ -23,7 +23,7 @@ Sudanese dictator who oversaw a genocidal campaign in Darfur that killed 300,000
 | 2009 | First sitting head of state indicted by ICC |
 | 2019 | Overthrown in military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Omar al-Bashir Darfur" - https://en.wikipedia.org/wiki/Omar_al-Bashir_Darfur
 
@@ -50,3 +50,6 @@ Sudanese dictator who oversaw a genocidal campaign in Darfur that killed 300,000
 ## Notes on Language and Sources
 
 This article summarizes widely reported allegations and major legal milestones at a high level. For precise charge language, warrant dates, and updates on proceedings, refer to the cited Wikipedia page and its primary sources.
+
+
+## References

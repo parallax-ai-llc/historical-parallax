@@ -23,7 +23,7 @@ German serial killer known as the 'Angel of Bremen' who poisoned 15 people with 
 | 1828 | Arrested after friend tested her food |
 | 1831 | Publicly beheaded in Bremen—last public execution there |
 
-## References
+
 
 [^1]: Wikipedia, "Gesche Gottfried" - https://en.wikipedia.org/wiki/Gesche_Gottfried
 
@@ -49,3 +49,6 @@ German serial killer known as the 'Angel of Bremen' who poisoned 15 people with 
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
 
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+
+## References

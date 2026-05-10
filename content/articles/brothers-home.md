@@ -22,7 +22,7 @@ Massive South Korean internment camp in Busan where 4,000 homeless, disabled, an
 | 1975 | Camp began operations |
 | 1987 | Exposed after inmate revolt |
 
-## References
+
 
 [^1]: Wikipedia, "Brothers Home" - https://en.wikipedia.org/wiki/Brothers_Home
 
@@ -48,3 +48,6 @@ Massive South Korean internment camp in Busan where 4,000 homeless, disabled, an
 ## Why It Matters
 
 Brothers Home is often cited in discussions of how state power, policing, and welfare institutions can combine to produce large-scale human-rights abuses when oversight is weak.
+
+
+## References

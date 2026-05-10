@@ -24,7 +24,7 @@ British-Pakistani terrorist who masterminded the kidnapping and murder of Wall S
 | 2002 | Sentenced to death |
 | 2020 | Death sentence overturned; convicted of lesser charge |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmed Omar Saeed Sheikh" - https://en.wikipedia.org/wiki/Ahmed_Omar_Saeed_Sheikh
 
@@ -49,3 +49,6 @@ The case became a touchstone for post-9/11 counterterrorism policy in Pakistan a
 - journalist safety in conflict and high-risk political environments
 - militant networks operating across borders
 - the limits and credibility challenges of counterterrorism prosecutions over long timelines
+
+
+## References

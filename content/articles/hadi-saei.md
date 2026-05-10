@@ -23,7 +23,7 @@ Hadi Saei won Olympic taekwondo gold at 2004 Athens and 2008 Beijing, Iran's mos
 | 2004 | Won Olympic gold at Athens |
 | 2008 | Won Olympic gold at Beijing |
 
-## References
+
 
 [^1]: Wikipedia, "Hadi Saei" - https://en.wikipedia.org/wiki/Hadi_Saei
 
@@ -48,3 +48,6 @@ Saei’s medals are often highlighted in Iranian sports history because Olympic 
 ## Post-Competition Roles
 
 After retiring from peak competition, many elite martial artists move into coaching, federation work, or sports administration. Public profiles of Saei commonly note continued involvement with the sport, including mentoring, training roles, or participation in national-level programs.
+
+
+## References

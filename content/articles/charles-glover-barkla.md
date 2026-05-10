@@ -24,7 +24,7 @@ Charles Barkla won the 1917 Nobel Prize for discovering characteristic X-rays of
 | 1917 | Nobel Prize |
 | 1944 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Glover Barkla" - https://en.wikipedia.org/wiki/Charles_Glover_Barkla
 
@@ -48,3 +48,6 @@ Charles Barkla won the 1917 Nobel Prize for discovering characteristic X-rays of
 ### Nobel Prize
 
 - The 1917 Nobel Prize in Physics recognized his “discovery of the characteristic Röntgen radiation of the elements,” reflecting the technique’s importance for both fundamental and applied science.
+
+
+## References

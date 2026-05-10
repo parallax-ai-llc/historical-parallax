@@ -21,7 +21,7 @@ British student convicted of making suicide bomb vest to attack a Bristol shoppi
 |------|-------|
 | 2009 | Convicted of bomb-making |
 
-## References
+
 
 [^1]: Wikipedia, "Andrew Ibrahim" - https://en.wikipedia.org/wiki/Andrew_Ibrahim
 
@@ -64,3 +64,6 @@ British student convicted of making suicide bomb vest to attack a Bristol shoppi
 
 - Counter-terrorism in the United Kingdom
 - Notable UK terrorism-related convictions (2000s)
+
+
+## References

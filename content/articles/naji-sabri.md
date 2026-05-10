@@ -23,7 +23,7 @@ Iraqi former foreign minister who was secretly a CIA source. He provided intelli
 | 2002 | Recruited as CIA source |
 | 2003 | Iraq invaded despite his intelligence |
 
-## References
+
 
 [^1]: Wikipedia, "Naji Sabri" - https://en.wikipedia.org/wiki/Naji_Sabri
 
@@ -56,3 +56,6 @@ Sabri is often referenced in discussions about:
 - Human intelligence (HUMINT) sources and their reliability
 - How intelligence is weighed against political assumptions
 - The post-2003 reassessment of WMD claims
+
+
+## References

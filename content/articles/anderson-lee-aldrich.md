@@ -22,7 +22,7 @@ American who attacked Club Q, an LGBTQ nightclub in Colorado Springs, killing fi
 | 2022 | Killed five at Club Q nightclub |
 | 2023 | Sentenced to life without parole plus 2,208 years |
 
-## References
+
 
 [^1]: Wikipedia, "Anderson Lee Aldrich" - https://en.wikipedia.org/wiki/Anderson_Lee_Aldrich
 
@@ -50,3 +50,6 @@ The incident has been discussed in relation to:
 - Security and safety considerations for LGBTQ venues and events.
 - Community response and the role of bystanders in stopping an active attack.
 - Public debate about firearms policy and enforcement mechanisms intended to reduce risk.
+
+
+## References

@@ -23,7 +23,7 @@ Genocide of Tutsis by Hutu extremists in 1994 that killed 800,000 in 100 days. F
 | 1994 | RPF ended it |
 | 1998 | ICTR established |
 
-## References
+
 
 [^1]: Wikipedia, "Rwandan Genocide" - https://en.wikipedia.org/wiki/Rwandan_Genocide
 
@@ -50,3 +50,6 @@ Genocide of Tutsis by Hutu extremists in 1994 that killed 800,000 in 100 days. F
 ## Legacy
 
 - The Rwandan genocide remains a central case study in genocide prevention, transitional justice, and post-conflict reconstruction.
+
+
+## References

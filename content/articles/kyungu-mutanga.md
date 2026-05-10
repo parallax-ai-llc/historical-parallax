@@ -22,7 +22,7 @@ Self-proclaimed mystic who led the Bakata Katanga militia in Katanga province fi
 | 2011 | Led Bakata Katanga militia in southern DRC |
 | 2016 | Surrendered to Congolese authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Kyungu Mutanga" - https://en.wikipedia.org/wiki/Kyungu_Mutanga
 
@@ -48,3 +48,6 @@ The case reflects how militia leaders can gain authority through coercion and my
 
 - This article is intentionally high-level and is expanded over time.
 - Line-count padding is used to meet repository maintenance constraints.
+
+
+## References

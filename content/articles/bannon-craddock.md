@@ -21,7 +21,7 @@ American convicted of using AI deepfakes to create non-consensual pornographic i
 |------|-------|
 | 2024 | Convicted of AI deepfake exploitation |
 
-## References
+
 
 [^1]: Wikipedia, "Bannon Craddock" - https://en.wikipedia.org/wiki/Bannon_Craddock
 
@@ -82,3 +82,6 @@ Key recurring legal themes include:
 
 The Wikipedia URL in the frontmatter and references may change over time (pages can be renamed, merged, or removed).
 When a primary profile page is unavailable, secondary sources (court records, reputable journalism) are typically needed to validate case specifics.
+
+
+## References

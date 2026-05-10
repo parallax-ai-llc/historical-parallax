@@ -22,7 +22,7 @@ Italian general and anti-Mafia prefect who was assassinated by Cosa Nostra in Pa
 | 1982 | Appointed prefect of Palermo |
 | 1982 | Assassinated by Cosa Nostra |
 
-## References
+
 
 [^1]: Wikipedia, "Carlo Alberto dalla Chiesa" - https://en.wikipedia.org/wiki/Carlo_Alberto_dalla_Chiesa
 
@@ -50,3 +50,6 @@ The murder intensified public and political pressure for stronger anti-mafia mea
 ## Commemoration
 
 In Italy, his name is frequently invoked in civic remembrance of anti-mafia and rule-of-law institutions, and memorials and dedications have been used to symbolize resistance to organized crime.
+
+
+## References

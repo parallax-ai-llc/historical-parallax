@@ -21,7 +21,7 @@ See Luis Garavito - duplicate entry consolidated.
 |------|-------|
 | 1999 | Arrested |
 
-## References
+
 
 [^1]: Wikipedia, "Luis Alfredo Garavito Cubillos" - https://en.wikipedia.org/wiki/Luis_Alfredo_Garavito_Cubillos
 
@@ -57,3 +57,6 @@ See Luis Garavito - duplicate entry consolidated.
 ## See Also
 
 - Wikipedia entry under the formal name variant: [Luis Alfredo Garavito Cubillos](https://en.wikipedia.org/wiki/Luis_Alfredo_Garavito_Cubillos)
+
+
+## References

@@ -23,7 +23,7 @@ Jacob Bernoulli made key contributions to probability theory, including the law 
 | 1687 | Published on probability |
 | 1705 | Died in Basel |
 
-## References
+
 
 [^1]: Wikipedia, "Jacob Bernoulli" - https://en.wikipedia.org/wiki/Jacob_Bernoulli
 
@@ -50,3 +50,6 @@ Bernoulli’s work influenced later mathematicians and helped establish probabil
 - Bernoulli family of mathematicians
 - Law of large numbers
 - History of probability theory
+
+
+## References

@@ -21,7 +21,7 @@ French fortune teller and poisoner at the center of the Affair of the Poisons th
 |------|-------|
 | 1680 | Burned at the stake for poisoning and witchcraft |
 
-## References
+
 
 [^1]: Wikipedia, "Catherine Monvoisin" - https://en.wikipedia.org/wiki/Catherine_Monvoisin
 
@@ -62,3 +62,6 @@ Accounts typically attribute a mix of services to Monvoisin's practice:
 ## Additional references
 
 [^2]: Britannica (overview search), "Affair of the Poisons" - https://www.britannica.com/event/Affair-of-the-Poisons
+
+
+## References

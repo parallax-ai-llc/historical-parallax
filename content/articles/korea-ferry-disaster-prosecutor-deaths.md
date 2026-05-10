@@ -21,7 +21,7 @@ Lead prosecutor investigating the Sewol ferry disaster was found dead in an appa
 |------|-------|
 | 2014 | Lead prosecutor found dead |
 
-## References
+
 
 [^1]: Wikipedia, "Korea Ferry Disaster Prosecutor Deaths" - https://en.wikipedia.org/wiki/Korea_Ferry_Disaster_Prosecutor_Deaths
 
@@ -61,3 +61,6 @@ Lead prosecutor investigating the Sewol ferry disaster was found dead in an appa
 - Sewol ferry disaster investigations and commissions
 - Accountability mechanisms in major disaster response
 - Prosecutorial independence and occupational stress in high-profile cases
+
+
+## References

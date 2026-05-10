@@ -21,7 +21,7 @@ Nigerian kidnap kingpin whose rescue by soldiers from police custody exposed mil
 |------|-------|
 | 2019 | Freed by soldiers from police, exposing collusion |
 
-## References
+
 
 [^1]: Wikipedia, "Wadume Hamisu Bala" - https://en.wikipedia.org/wiki/Wadume_Hamisu_Bala
 
@@ -52,3 +52,6 @@ Available public sources commonly emphasize the controversy surrounding the resc
 - Kidnapping in Nigeria
 - Civil–military relations in Nigeria
 - Police custody and detainee transfer procedures
+
+
+## References

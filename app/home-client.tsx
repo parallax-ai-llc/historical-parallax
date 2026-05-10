@@ -38,7 +38,7 @@ export function HomeClient({ articles }: HomeClientProps) {
           Contribute
         </Link>
         <Link
-          href="/maps/ancient-empires"
+          href="/maps/china-history"
           className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 hover:bg-accent hover:text-accent-foreground h-9 w-9"
           title="View Incident Maps"
         >

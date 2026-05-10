@@ -37,7 +37,7 @@ Anna Delvey's criminal career came to an end through law enforcement action or o
 | 1991 | Born |
 | ? | Career ended |
 
-## References
+
 [^1]: Encyclopedia of Criminal History.
 [^2]: International Criminal Records.
 [^3]: Court and law enforcement records.
@@ -53,3 +53,6 @@ Anna Delvey's criminal career came to an end through law enforcement action or o
 
 ## Cultural Impact
 The case became a widely discussed example of social engineering and status-based fraud, and it was adapted into dramatized media.
+
+
+## References

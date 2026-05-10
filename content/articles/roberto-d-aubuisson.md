@@ -5,7 +5,7 @@ birth: "1943-08-23"
 death: "1992-02-20"
 nationality: "El Salvador"
 occupation: ["War Criminal", "Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e7/Roberto_D%E2%80%99Aubuisson.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_D'Aubuisson"
 lastUpdated: "2026-02-26"

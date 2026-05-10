@@ -21,7 +21,7 @@ Ester Ledecká became the only person to win Olympic gold in both alpine skiing 
 |------|-------|
 | 2018 | Won Olympic gold in both skiing and snowboarding |
 
-## References
+
 
 [^1]: Wikipedia, "Ester Ledecká" - https://en.wikipedia.org/wiki/Ester_Ledeck%C3%A1
 
@@ -53,3 +53,6 @@ Ester Ledecká became the only person to win Olympic gold in both alpine skiing 
 - Multi-discipline athletes in winter sports
 - Olympic alpine skiing (super-G)
 - Olympic snowboarding (parallel giant slalom)
+
+
+## References

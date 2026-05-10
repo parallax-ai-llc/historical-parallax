@@ -21,7 +21,7 @@ A boat carrying 500 Eritrean and Somali migrants sank near Lampedusa, Italy, kil
 |------|-------|
 | 2013 | 368 migrants drowned |
 
-## References
+
 
 [^1]: Wikipedia, "Lampedusa Shipwreck 2013" - https://en.wikipedia.org/wiki/Lampedusa_Shipwreck_2013
 
@@ -57,3 +57,6 @@ A boat carrying 500 Eritrean and Somali migrants sank near Lampedusa, Italy, kil
 - Mediterranean migrant crises
 - Human smuggling in Europe
 - Search and rescue (maritime)
+
+
+## References

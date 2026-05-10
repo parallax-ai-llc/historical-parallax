@@ -24,7 +24,7 @@ Italian nurse acquitted of murdering patients at a Lugo hospital after initial c
 | 2017 | Acquitted on appeal |
 | 2019 | Retrial ordered |
 
-## References
+
 
 [^1]: Wikipedia, "Daniela Poggiali" - https://en.wikipedia.org/wiki/Daniela_Poggiali
 
@@ -50,3 +50,6 @@ Italian nurse acquitted of murdering patients at a Lugo hospital after initial c
 
 ### Related links
 - Use the Wikipedia link in `socialLinks` (if present) as a navigation hub to find additional citations.
+
+
+## References

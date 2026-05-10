@@ -5,7 +5,7 @@ birth: "1435-01-01"
 death: "1493-01-01"
 nationality: "Korean"
 occupation: ["Scholar", "Inventor", "Writer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Kim_Si-seup.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Si-seup"
 lastUpdated: "2026-02-21"

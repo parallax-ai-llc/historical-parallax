@@ -23,7 +23,7 @@ Former Syrian intelligence officer convicted in Germany of crimes against humani
 | 2014 | Fled to Germany |
 | 2022 | Convicted and sentenced to life in Germany |
 
-## References
+
 
 [^1]: Wikipedia, "Anwar Raslan" - https://en.wikipedia.org/wiki/Anwar_Raslan
 
@@ -48,3 +48,6 @@ Public reporting on the trial has emphasized:
 The case is frequently cited as a precedent for accountability pathways when international tribunals are unavailable or politically blocked. It also illustrates how diaspora communities and transnational investigations can contribute to domestic prosecutions.
 
 [^2]: German Federal Ministry of Justice (background on international criminal law and universal jurisdiction) - https://www.bmj.de/
+
+
+## References

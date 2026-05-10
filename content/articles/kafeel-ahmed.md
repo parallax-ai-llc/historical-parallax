@@ -21,7 +21,7 @@ Indian engineer who died after setting himself on fire while driving a car bomb 
 |------|-------|
 | 2007 | Died in Glasgow Airport attack |
 
-## References
+
 
 [^1]: Wikipedia, "Kafeel Ahmed" - https://en.wikipedia.org/wiki/Kafeel_Ahmed
 
@@ -53,3 +53,6 @@ Indian engineer who died after setting himself on fire while driving a car bomb 
 
 - This article summarizes widely reported, high-level facts; it avoids operational detail.
 - For additional verification, consult multiple reputable sources (e.g., major news archives and official court reporting) alongside Wikipedia.
+
+
+## References

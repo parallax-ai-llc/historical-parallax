@@ -23,7 +23,7 @@ British terrorist who stabbed two people to death at a prisoner rehabilitation e
 | 2018 | Released on license |
 | 2019 | Killed 2 at Fishmongers' Hall; shot dead by police |
 
-## References
+
 
 [^1]: Wikipedia, "Usman Khan" - https://en.wikipedia.org/wiki/Usman_Khan
 
@@ -48,3 +48,6 @@ British terrorist who stabbed two people to death at a prisoner rehabilitation e
 - UK media and officials highlighted the role of civilians in the immediate response.
 - Subsequent inquiries and reporting discussed whether existing monitoring arrangements were adequate.
 - Public debate focused on balancing rehabilitation efforts with public safety in cases involving extremist violence.
+
+
+## References

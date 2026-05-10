@@ -5,7 +5,7 @@ birth: "1958-01-01"
 death: "N/A"
 nationality: "Myanmar"
 occupation: ["Drug Lords"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wei_Hsueh-Kang.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wei_Hsueh-kang"
 lastUpdated: "2026-02-21"

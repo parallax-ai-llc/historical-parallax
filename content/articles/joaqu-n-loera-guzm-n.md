@@ -21,7 +21,7 @@ Duplicate consolidated. See Joaquín Guzmán (El Chapo).
 |------|-------|
 | 2019 | Sentenced |
 
-## References
+
 
 [^1]: Wikipedia, "Joaquín Loera Guzmán" - https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Loera_Guzm%C3%A1n
 
@@ -66,3 +66,6 @@ Spanish naming conventions can lead to multiple permutations in databases:
 ## References (Additional)
 
 [^2]: Wikipedia, "Joaquín Guzmán" - https://en.wikipedia.org/wiki/Joaqu%C3%ADn_%22El_Chapo%22_Guzm%C3%A1n
+
+
+## References

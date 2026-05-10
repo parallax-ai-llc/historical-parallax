@@ -21,7 +21,7 @@ Nobel Peace Prize winner and microcredit pioneer who faced charges of labor law 
 | 2006 | Won Nobel Peace Prize |
 | 2024 | Became interim leader of Bangladesh |
 
-## References
+
 
 [^1]: Wikipedia, "Muhammad Yunus" - https://en.wikipedia.org/wiki/Muhammad_Yunus
 
@@ -48,3 +48,6 @@ Nobel Peace Prize winner and microcredit pioneer who faced charges of labor law 
 ## Suggested follow-up
 - Look for: official reports, court documents (if any), reputable investigative journalism, and academic/think-tank overviews.
 - If multiple credible accounts disagree, summarize the competing claims and cite the best available evidence on each side.
+
+
+## References

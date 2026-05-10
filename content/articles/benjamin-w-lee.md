@@ -23,7 +23,7 @@ Benjamin W. Lee (Lee Hwi-so) contributed to Standard Model renormalization in pa
 | 1966 | Gauge theory renormalizability |
 | 1977 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Benjamin W. Lee" - https://en.wikipedia.org/wiki/Benjamin_W._Lee
 
@@ -48,3 +48,6 @@ Although his career was cut short by his early death in 1977, Lee is frequently 
 ## Notes
 
 Technical contributions in this period are often distributed across collaborative papers and overlapping research programs. When expanding this article further, it is useful to anchor claims to specific publications or well-defined named results (for example, items described in the linked reference).
+
+
+## References

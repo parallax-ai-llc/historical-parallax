@@ -21,7 +21,7 @@ Former ICICI Bank CEO arrested for loan fraud and money laundering.
 |------|-------|
 | 2022 | Arrested for bank fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Chanda Kochhar" - https://en.wikipedia.org/wiki/Chanda_Kochhar
 
@@ -56,3 +56,6 @@ Former ICICI Bank CEO arrested for loan fraud and money laundering.
 
 - This article is a concise, high-level summary and does not attempt to reproduce detailed charge sheets, court filings, or full transaction timelines.
 - For the most current status of proceedings, consult up-to-date primary reporting and official court or agency releases.
+
+
+## References

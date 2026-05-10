@@ -23,7 +23,7 @@ See Rick Snyder. Michigan switched Flint's water source to save money, exposing 
 | 2015 | Crisis exposed publicly |
 | 2021 | Former governor charged; charges dropped |
 
-## References
+
 
 [^1]: Wikipedia, "Flint water crisis" - https://en.wikipedia.org/wiki/Flint_water_crisis
 
@@ -52,3 +52,6 @@ The episode led to multiple investigations, prosecutions, and civil litigation. 
 ### Long-term significance
 
 Beyond Flint, the crisis became a national reference point for how administrative cost-cutting, fragmented accountability, and technical failures can converge into a large-scale public health emergency.
+
+
+## References

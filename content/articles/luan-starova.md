@@ -21,7 +21,7 @@ Albanian organized crime boss who ran smuggling and extortion rings.
 |------|-------|
 | 2005 | Led organized crime network |
 
-## References
+
 
 [^1]: Wikipedia, "Luan Starova" - https://en.wikipedia.org/wiki/Luan_Starova
 
@@ -57,3 +57,6 @@ Albania and the wider Balkans have frequently been discussed in reporting on:
 - Organized crime in the Balkans
 - Smuggling networks
 - Extortion and racketeering
+
+
+## References

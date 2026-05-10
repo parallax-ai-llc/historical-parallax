@@ -22,7 +22,7 @@ Hossam Hassan scored 170+ international goals for Egypt and won seven AFCONs.
 | 1986 | Won first AFCON |
 | 2006 | Won seventh AFCON |
 
-## References
+
 
 [^1]: Wikipedia, "Hossam Hassan" - https://en.wikipedia.org/wiki/Hossam_Hassan
 
@@ -51,3 +51,6 @@ After retiring, he worked as a coach and manager in Egyptian football, taking ro
 ## Notes
 
 For sports biographies, verify records (caps/goals/titles) against multiple reputable statistical sources.
+
+
+## References

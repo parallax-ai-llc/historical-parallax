@@ -22,7 +22,7 @@ Persian ruler who sacked Delhi and stole the Peacock Throne and Koh-i-Noor diamo
 | 1739 | Sacked Delhi; stole Peacock Throne |
 | 1747 | Assassinated by his own officers |
 
-## References
+
 
 [^1]: Wikipedia, "Nader Shah" - https://en.wikipedia.org/wiki/Nader_Shah
 
@@ -51,3 +51,6 @@ Persian ruler who sacked Delhi and stole the Peacock Throne and Koh-i-Noor diamo
 - Assessments of Nader Shah differ: some emphasize state restoration and military modernization, while others foreground coercion and civilian suffering.
 - Many narratives rely on court chronicles and later histories that can be partisan or moralizing.
 
+
+
+## References

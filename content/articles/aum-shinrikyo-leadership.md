@@ -21,7 +21,7 @@ See Shoko Asahara. Duplicate entry.
 |------|-------|
 | 2018 | Asahara executed |
 
-## References
+
 
 [^1]: Wikipedia, "Aum Shinrikyo leadership" - https://en.wikipedia.org/wiki/Aum_Shinrikyo_leadership
 
@@ -65,3 +65,6 @@ The exact set of "leadership" names depends on the period being discussed; commo
 
 [^2]: Wikipedia, "Aum Shinrikyo" — https://en.wikipedia.org/wiki/Aum_Shinrikyo
 [^3]: Wikipedia, "Shoko Asahara" — https://en.wikipedia.org/wiki/Shoko_Asahara
+
+
+## References

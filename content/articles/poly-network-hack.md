@@ -22,7 +22,7 @@ Decentralized finance hack in August 2021 where a hacker exploited a vulnerabili
 | 2021 | $611 million stolen |
 | 2021 | Hacker returned most funds |
 
-## References
+
 
 [^1]: Wikipedia, "Poly Network Hack" - https://en.wikipedia.org/wiki/Poly_Network_Hack
 
@@ -51,3 +51,6 @@ Poly Network operated as an interoperability protocol intended to allow asset tr
 ## Terminology
 
 In reporting, the event is often grouped with "bridge hacks" because cross-chain systems can function like bridges even when implemented as messaging/relay protocols.
+
+
+## References

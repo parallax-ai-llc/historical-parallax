@@ -23,7 +23,7 @@ War in Ethiopias Tigray region from 2020-2022 involving Ethiopian and Eritrean f
 | 2021 | Reports of mass atrocities |
 | 2022 | Ceasefire agreement signed |
 
-## References
+
 
 [^1]: Wikipedia, "Tigray War" - https://en.wikipedia.org/wiki/Tigray_War
 
@@ -50,3 +50,6 @@ The Tigray War is often discussed as a case study in modern intrastate conflict 
 ## International Response
 
 Foreign governments and multilateral organizations engaged in diplomacy and public advocacy around humanitarian access and civilian protection, while also debating sanctions, leverage, and accountability mechanisms. The conflict also highlighted how information constraints and competing narratives can shape global understanding of events on the ground.
+
+
+## References

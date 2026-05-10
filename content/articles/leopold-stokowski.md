@@ -4,6 +4,7 @@ birth: "1882-04-18"
 death: "1977-09-13"
 nationality: "British-American"
 occupation: ["Conductor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Leopold_Stokowski_LOC_26447u.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leopold_Stokowski"
 lastUpdated: "2026-03-12"

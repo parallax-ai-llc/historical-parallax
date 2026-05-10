@@ -1,55 +1,53 @@
 ---
-name: 玛丽亚·嘉茜娅·蔻丽
-birth: 1971-05-20
+name: 玛丽亚·嘉西亚·基乌里
+birth: 1971-05-31
 death:
 nationality: Italian
-occupation: Fashion Designer
+occupation: Fashion designer
 socialLinks:
-  instagram: mariagraziachiuri
-lastUpdated: 2023-11-02
-image: /assets/images/articles/maria-grazia-chiuri.webp
+  instagram: https://www.instagram.com/mariagraziachiuri/
+lastUpdated: 2023-10-27T06:28:26.000Z
+image: /content/articles/maria-grazia-chiuri/maria-grazia-chiuri.jpg
 ---
 
 ## 简介
 
-玛丽亚·嘉茜娅·蔻丽 (Maria Grazia Chiuri) 是一位才华横溢的意大利时装设计师，以其在 Fendi、Valentino 和 Dior 等知名奢侈品牌担任创意总监的成就而闻名。她以其融合女性气质、力量和现代风格的设计而著称，为女性时装注入了新的活力。
+玛丽亚·嘉西亚·基乌里（Maria Grazia Chiuri，1971年5月31日出生）是一位意大利时装设计师。她目前是法国奢侈品公司 Dior 的创意总监。
 
-## 早年经历与教育
+## 早年生活与教育
 
-玛丽亚·嘉茜娅·蔻丽于 1971 年 5 月 20 日出生于意大利罗马。她在罗马大学学习文学，随后在意大利时尚学院 (Istituto Europeo di Design) 进修，在那里她磨练了自己的设计技能。
+基乌里于1971年5月31日出生在意大利罗马。她在罗马大学学习，并获得了考古学学位。
 
 ## 职业生涯
 
-### Fendi (1990s–2000s)
+基乌里于1990年代初进入时装界，最初在 Fendi 担任配饰设计师。
 
-蔻丽于 20 世纪 90 年代初加入了 Fendi 品牌，在那里她与 Pierpaolo Piccioli 一起工作。他们在 Fendi 担任配饰设计总监，并以其对品牌标志性 Selleria 皮具的创新而闻名。
+1999年，她加入了 Valentino，并与 Pierpaolo Piccioli 一起担任创意总监。在他们的领导下，Valentino 获得了国际认可，并成为备受推崇的奢侈品牌。
 
-### Valentino (2007–2016)
+2016年，基乌里被任命为 Dior 的创意总监，成为该品牌历史上第一位女性创意总监。她的任命标志着 Dior 的一个新时代，她为品牌带来了更具现代感和女性化的视角。
 
-2007 年，蔻丽和 Piccioli 一起被任命为 Valentino 的女装联合创意总监。他们成功地重塑了 Valentino 的形象，将其打造成一个既保留品牌经典优雅，又充满现代气息的品牌。他们的设计获得了评论界的一致好评，并受到了许多名人的喜爱。
+## 对时尚界的影响
 
-### Dior (2016–至今)
-
-2016 年，蔻丽成为 Dior 品牌历史上第一位女性创意总监。她为 Dior 带来了新的视角，强调女性赋权、艺术与时尚的融合。她的作品常常引用女性主义思想和文化符号，引发了广泛的讨论和关注。
-
-## 设计理念
-
-蔻丽的设计核心是女性主义。她通过自己的作品，探索女性身份、力量与脆弱性。她喜欢将艺术、文学和流行文化中的元素融入设计中，创造出既有深度又有吸引力的服装。她对工艺的精湛运用以及对材质的敏锐感知，也是她作品的重要特点。
-
-## 知名作品与贡献
-
-*   **Valentino 的“浪漫哥特”风格：** 在 Valentino 期间，蔻丽和 Piccioli 成功地将品牌的浪漫主义与哥特式的神秘感相结合，创造出独特的设计语言。
-*   **Dior 的女性主义宣言：** 作为 Dior 的创意总监，她以“Why have there been no great women artists?” (为何没有伟大的女性艺术家？) 等标语 T 恤衫，直接表达了对女性主义的关注。
-*   **对 Dior 经典元素的创新：** 她在保留 Dior 标志性的 Bar Jacket 等经典款式的同时，赋予其现代的解读和新的生命力。
+基乌里以其女性化、浪漫且充满力量的设计而闻名。她善于运用各种面料和廓形，创造出既优雅又具有现代感的服装。她的作品经常融合艺术、文学和女性主义元素，引发人们对身份、身体和女性角色的思考。
 
 ## 个人生活
 
-蔻丽在意大利和巴黎之间生活和工作。她对艺术、旅行和家庭有着浓厚的兴趣，这些元素也常常成为她设计的灵感来源。
+关于基乌里的个人生活信息较少，她将大部分精力投入到她的设计事业中。
 
-## 奖项与荣誉
+## 荣誉与奖项
 
-*   [待补充]
+*   2015年：英国时尚大奖 年度国际设计师
+*   2017年：CFDA 时尚大奖 年度女装设计师
 
-## 参考文献
+## 职业生涯时间线
 
-[^1]: （待补充）
+| 年份 | 事件                                                                     |
+| :--- | :----------------------------------------------------------------------- |
+| 1990年代初 | 加入 Fendi 担任配饰设计师                                                |
+| 1999年 | 加入 Valentino，担任配饰设计师，后与 Pierpaolo Piccioli 一起成为创意总监 |
+| 2016年 | 被任命为 Dior 创意总监                                                   |
+
+## 参考资料
+
+[^1]: [Chanel，她为何与 Dior 如此不同](https://www.vogue.com/article/maria-grazia-chiuri-dior-chanel-designer-difference) - Vogue
+[^2]: [Dior 的新缪斯](https://www.businessoffashion.com/community/people/maria-grazia-chiuri-new-dior-muse) - Business of Fashion

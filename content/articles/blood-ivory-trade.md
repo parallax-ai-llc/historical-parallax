@@ -21,7 +21,7 @@ Poaching for ivory has decimated African elephant populations. Armed groups incl
 |------|-------|
 | 2010 | 100,000 elephants killed in decade |
 
-## References
+
 
 [^1]: Wikipedia, "Blood Ivory Trade" - https://en.wikipedia.org/wiki/Blood_Ivory_Trade
 
@@ -63,3 +63,5 @@ This article uses “Blood Ivory Trade” as a shorthand label for the intersect
 
 [^2]: CITES, "What is CITES?" https://cites.org/eng/disc/what.php
 [^3]: WWF, "Illegal Wildlife Trade" overview (topic hub) https://www.worldwildlife.org/threats/illegal-wildlife-trade
+
+

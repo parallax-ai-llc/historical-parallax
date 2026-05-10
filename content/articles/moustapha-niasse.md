@@ -21,7 +21,7 @@ Senegalese politician and former Prime Minister who has served in multiple admin
 |------|-------|
 | 2000 | Became Prime Minister |
 
-## References
+
 
 [^1]: Wikipedia, "Moustapha Niasse" - https://en.wikipedia.org/wiki/Moustapha_Niasse
 
@@ -72,3 +72,6 @@ Senegalese politician and former Prime Minister who has served in multiple admin
 ## Additional References
 
 [^2]: Wikipedia infobox/career summary (accessed 2026-03-04) - https://en.wikipedia.org/wiki/Moustapha_Niasse
+
+
+## References

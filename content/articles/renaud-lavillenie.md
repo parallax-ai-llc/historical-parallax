@@ -22,7 +22,7 @@ Renaud Lavillenie won 2012 Olympic gold and broke Bubka's indoor record with 6.1
 | 2012 | Won Olympic gold at London |
 | 2014 | Set indoor WR of 6.16m |
 
-## References
+
 
 [^1]: Wikipedia, "Renaud Lavillenie" - https://en.wikipedia.org/wiki/Renaud_Lavillenie
 
@@ -49,3 +49,5 @@ He is also notable for maintaining elite-level competitiveness across multiple O
 ## References
 
 [^2]: World Athletics (athlete profile and results listings) - https://worldathletics.org/
+
+

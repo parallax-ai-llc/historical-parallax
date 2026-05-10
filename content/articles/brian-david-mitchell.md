@@ -19,7 +19,7 @@ Brian David Mitchell kidnapped 14-year-old Elizabeth Smart from her Salt Lake Ci
 |------|-------|
 | 1953 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background (High Level)
@@ -60,3 +60,6 @@ Brian David Mitchell kidnapped 14-year-old Elizabeth Smart from her Salt Lake Ci
 
 ## Further Reading
 - Wikipedia overview of the kidnapping case and related prosecutions: https://en.wikipedia.org/wiki/Kidnapping_of_Elizabeth_Smart
+
+
+## References

@@ -22,7 +22,7 @@ Multiple young women were found murdered in the Gunma-Tochigi area over two deca
 | 1979 | First victim discovered |
 | 2010 | Statute of limitations expired for some cases |
 
-## References
+
 
 [^1]: Wikipedia, "North Kanto Serial Murder Case" - https://en.wikipedia.org/wiki/North_Kanto_Serial_Murder_Case
 
@@ -58,3 +58,6 @@ The case is frequently cited as an example of the emotional toll of prolonged un
 ## Additional References
 
 [^2]: Background on Japanese criminal procedure and statute-of-limitations reforms (commonly summarized in legal overviews and policy reporting)
+
+
+## References

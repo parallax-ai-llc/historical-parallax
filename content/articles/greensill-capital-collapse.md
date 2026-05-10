@@ -21,7 +21,7 @@ Supply chain finance firm whose collapse exposed political cronyism and cost inv
 |------|-------|
 | 2021 | Collapsed amid fraud allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Greensill Capital Collapse" - https://en.wikipedia.org/wiki/Greensill_Capital_Collapse
 
@@ -73,3 +73,6 @@ Analysis and reporting commonly emphasize:
 
 ## Aftermath
 Such failures often trigger litigation, regulatory scrutiny, and reputational damage for associated firms. Longer-term discussion often focuses on transparency and oversight in non-bank financial intermediation.
+
+
+## References

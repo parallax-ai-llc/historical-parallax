@@ -22,7 +22,7 @@ Syria has become the world's largest producer of captagon amphetamine worth $57 
 | 2011 | Captagon production expanded during civil war |
 | 2023 | $57 billion annual trade |
 
-## References
+
 
 [^1]: Wikipedia, "Captagon Trade" - https://en.wikipedia.org/wiki/Captagon_Trade
 
@@ -52,3 +52,6 @@ Governments have combined policing, border security, and financial sanctions aga
 
 [^2]: UNODC, "World Drug Report" (context on amphetamine-type stimulants; see latest edition) - https://www.unodc.org/unodc/en/data-and-analysis/wdr2024.html
 [^3]: U.S. Department of the Treasury (OFAC), press releases and sanctions related to Syria-linked narcotics networks (search: "Captagon") - https://home.treasury.gov/news/press-releases
+
+
+## References

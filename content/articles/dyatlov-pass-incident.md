@@ -21,7 +21,7 @@ Nine Soviet hikers died under mysterious circumstances in the Ural Mountains. Th
 |------|-------|
 | 1959 | Nine hikers found dead |
 
-## References
+
 
 [^1]: Wikipedia, "Dyatlov Pass Incident" - https://en.wikipedia.org/wiki/Dyatlov_Pass_Incident
 
@@ -81,3 +81,6 @@ The Dyatlov Pass incident has several features that make it unusually "theory-fr
 ## External Links
 
 - Wikipedia: https://en.wikipedia.org/wiki/Dyatlov_Pass_Incident
+
+
+## References

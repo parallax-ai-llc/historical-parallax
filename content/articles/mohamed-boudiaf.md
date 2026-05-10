@@ -21,7 +21,7 @@ Algerian president assassinated on live television by one of his own bodyguards.
 |------|-------|
 | 1992 | Assassinated on live television |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Boudiaf" - https://en.wikipedia.org/wiki/Mohamed_Boudiaf
 
@@ -59,3 +59,6 @@ Algerian president assassinated on live television by one of his own bodyguards.
 - 1956: Captured by French authorities following the interception of a plane carrying FLN leaders.
 - 1992 (early): Returns from exile and becomes chairman of the High Council of State.
 - 1992-06-29: Assassinated in Annaba.
+
+
+## References

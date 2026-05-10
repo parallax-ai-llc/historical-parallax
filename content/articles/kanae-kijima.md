@@ -22,7 +22,7 @@ Japanese 'Black Widow' who murdered three men she met on dating sites using carb
 | 2009 | Three murders discovered |
 | 2012 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Kanae Kijima" - https://en.wikipedia.org/wiki/Kanae_Kijima
 
@@ -56,3 +56,6 @@ For widely covered murder cases in Japan, the public record often emphasizes: ar
 ## Broader themes
 
 This case is frequently referenced in discussions about online matchmaking and fraud risk, including how digital communication trails can support investigations, and how financial exploitation can be intertwined with coercive or deceptive relationships.
+
+
+## References

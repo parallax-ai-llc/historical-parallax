@@ -23,7 +23,7 @@ Chris Froome won four Tour de France titles (2013, 2015, 2016, 2017), the most b
 | 2017 | Won fourth Tour de France |
 | 2018 | Won Giro d'Italia |
 
-## References
+
 
 [^1]: Wikipedia, "Chris Froome" - https://en.wikipedia.org/wiki/Chris_Froome
 
@@ -53,3 +53,6 @@ Chris Froome won four Tour de France titles (2013, 2015, 2016, 2017), the most b
 - Controversies or critical challenges (if applicable)
 - Later years and reassessment
 - Further reading: biographies, primary documents, or governing-body records (as applicable)
+
+
+## References

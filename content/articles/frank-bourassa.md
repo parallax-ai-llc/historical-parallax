@@ -24,7 +24,7 @@ Canadian counterfeiter who produced $250 million in fake US currency—the large
 | 2012 | Arrested; surrendered counterfeit money |
 | 2014 | Sentenced to 6 weeks plus fine |
 
-## References
+
 
 [^1]: Wikipedia, "Frank Bourassa" - https://en.wikipedia.org/wiki/Frank_Bourassa
 
@@ -49,3 +49,6 @@ The incident underscored that sophisticated counterfeiting can be driven by smal
 - Counterfeit money
 - United States dollar security features
 - Law enforcement cooperation across borders
+
+
+## References

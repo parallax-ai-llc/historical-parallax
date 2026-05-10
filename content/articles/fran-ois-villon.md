@@ -21,7 +21,7 @@ French poet who was also a convicted murderer and thief, sentenced to hanging be
 |------|-------|
 | 1462 | Sentenced to death, commuted to banishment |
 
-## References
+
 
 [^1]: Wikipedia, "François Villon" - https://en.wikipedia.org/wiki/Fran%C3%A7ois_Villon
 
@@ -51,3 +51,6 @@ French poet who was also a convicted murderer and thief, sentenced to hanging be
 ## Additional References
 
 [^2]: Encyclopaedia Britannica, "François Villon" - https://www.britannica.com/biography/Francois-Villon
+
+
+## References

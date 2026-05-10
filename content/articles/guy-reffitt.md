@@ -21,7 +21,7 @@ First January 6 defendant convicted at trial for storming the Capitol with a gun
 |------|-------|
 | 2022 | First J6 trial conviction |
 
-## References
+
 
 [^1]: Wikipedia, "Guy Reffitt" - https://en.wikipedia.org/wiki/Guy_Reffitt
 
@@ -52,3 +52,6 @@ First January 6 defendant convicted at trial for storming the Capitol with a gun
 ## Data notes
 
 - The frontmatter fields above may differ from other sources (e.g., reported birth date/year varies by reference). This article prioritizes preserving the repository’s existing metadata while expanding context in the body.
+
+
+## References

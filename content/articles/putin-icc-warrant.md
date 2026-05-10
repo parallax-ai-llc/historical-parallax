@@ -22,7 +22,7 @@ The International Criminal Court issued an arrest warrant for Russian President 
 | 2023 | ICC issued warrant for Putin |
 | 2023 | Russia rejected ICCs jurisdiction |
 
-## References
+
 
 [^1]: Wikipedia, "Putin ICC Warrant" - https://en.wikipedia.org/wiki/Putin_ICC_Warrant
 
@@ -51,3 +51,6 @@ The episode is often discussed as a high-profile test of the ICC’s capacity to
 - International Criminal Court
 - Rome Statute
 - War crimes in the Russian invasion of Ukraine
+
+
+## References

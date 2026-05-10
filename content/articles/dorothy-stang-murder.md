@@ -21,7 +21,7 @@ American-born nun and environmental activist murdered by gunmen hired by rancher
 |------|-------|
 | 2005 | Stang murdered in Amazon |
 
-## References
+
 
 [^1]: Wikipedia, "Dorothy Stang Murder" - https://en.wikipedia.org/wiki/Dorothy_Stang_Murder
 
@@ -52,3 +52,6 @@ Stang was shot and killed on 2005-02-12 near Anapu, Pará, while traveling to a 
 
 - Environmental conflicts in the Amazon
 - Deforestation and land tenure disputes in Pará
+
+
+## References

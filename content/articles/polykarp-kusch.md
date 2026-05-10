@@ -24,7 +24,7 @@ Polykarp Kusch shared the 1955 Nobel Prize for precisely measuring the electron 
 | 1955 | Nobel Prize |
 | 1993 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Polykarp Kusch" - https://en.wikipedia.org/wiki/Polykarp_Kusch
 
@@ -50,3 +50,6 @@ Beyond the Nobel Prize, Kusch is remembered as an example of how careful experim
 
 - Electron g-factor and magnetic moment
 - Precision spectroscopy and atomic/particle properties
+
+
+## References

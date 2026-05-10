@@ -21,7 +21,7 @@ Former chairman of Sinopec convicted of accepting nearly 200 million yuan in bri
 | 2007 | Resigned from Sinopec as corruption investigation began |
 | 2009 | Sentenced to death with two-year reprieve for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Chen Tonghai" - https://en.wikipedia.org/wiki/Chen_Tonghai
 ## Additional Context
@@ -50,3 +50,6 @@ Former chairman of Sinopec convicted of accepting nearly 200 million yuan in bri
 - Dates shown in the timeline are for orientation and do not substitute for a full chronology.
 - Where a "death" field is unknown, it typically indicates that a reliable public confirmation was not available in the referenced summary source at the time of compilation.
 - If this page is expanded further, adding citations to additional sources is the safest way to increase specificity without introducing errors.
+
+
+## References

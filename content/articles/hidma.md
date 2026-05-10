@@ -22,7 +22,7 @@ Elusive Maoist commander in India's Bastar region who led the People's Liberatio
 | 2013 | Led PLGA forces in deadly ambushes on security forces |
 | 2021 | Believed to be behind the Bijapur ambush killing 22 CRPF personnel |
 
-## References
+
 
 [^1]: Wikipedia, "Hidma" - https://en.wikipedia.org/wiki/Hidma
 
@@ -51,3 +51,6 @@ Many public claims about specific operations are based on security-force attribu
 ## Notes
 
 This article summarizes widely reported, high-level information and avoids operational detail.
+
+
+## References

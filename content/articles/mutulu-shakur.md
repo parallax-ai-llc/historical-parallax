@@ -21,7 +21,7 @@ Black Liberation Army member and stepfather of Tupac Shakur, convicted of armore
 |------|-------|
 | 1988 | Convicted of armored car robbery |
 
-## References
+
 
 [^1]: Wikipedia, "Mutulu Shakur" - https://en.wikipedia.org/wiki/Mutulu_Shakur
 
@@ -51,3 +51,6 @@ Black Liberation Army member and stepfather of Tupac Shakur, convicted of armore
 - Black Liberation Army (BLA)[^1]
 - Brink's robbery (1981)[^1]
 - Tupac Shakur (2Pac)[^1]
+
+
+## References

@@ -23,7 +23,7 @@ Allen Iverson was a four-time scoring champion who led the 76ers to the 2001 NBA
 | 2001 | Won MVP; led Sixers to Finals |
 | 2001 | Famous crossover on Tyronn Lue in Finals |
 
-## References
+
 
 [^1]: Wikipedia, "Allen Iverson" - https://en.wikipedia.org/wiki/Allen_Iverson
 
@@ -48,3 +48,6 @@ Allen Iverson was a four-time scoring champion who led the 76ers to the 2001 NBA
 - Philadelphia 76ers
 - NBA scoring title
 - Naismith Memorial Basketball Hall of Fame
+
+
+## References

@@ -21,7 +21,7 @@ Last native pharaoh of Egypt who was captured by Cambyses II and executed for pl
 |------|-------|
 | -525 | Captured and executed by Persian invaders |
 
-## References
+
 
 [^1]: Wikipedia, "Psamtik III" - https://en.wikipedia.org/wiki/Psamtik_III
 
@@ -65,3 +65,6 @@ Psamtik III is significant less for policies than for what his fall represents:
 - Dynasty: 26th (Saite)
 - Role: Pharaoh of Egypt (Late Period)
 
+
+
+## References

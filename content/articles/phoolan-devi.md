@@ -23,7 +23,7 @@ Indian bandit queen who ordered the Behmai massacre of 22 upper-caste men. Later
 | 1983 | Surrendered |
 | 2001 | Assassinated |
 
-## References
+
 
 [^1]: Wikipedia, "Phoolan Devi" - https://en.wikipedia.org/wiki/Phoolan_Devi
 
@@ -57,3 +57,6 @@ Popular treatments include biographies, journalism, and film portrayals that may
 
 [^2]: Biographical and journalistic accounts discussing caste, gender violence, and the politics of the Chambal region (as cited by secondary summaries).
 [^3]: Scholarship on Indian banditry and social bandit narratives, often referencing the case in broader context.
+
+
+## References

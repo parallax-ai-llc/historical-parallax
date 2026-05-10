@@ -23,7 +23,7 @@ Christiane Nusslein-Volhard shared the 1995 Nobel Prize for discovering genes co
 | 1978 | Began Drosophila mutagenesis screen |
 | 1995 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Christiane Nusslein-Volhard" - https://en.wikipedia.org/wiki/Christiane_Nusslein-Volhard
 
@@ -53,3 +53,6 @@ Christiane Nusslein-Volhard shared the 1995 Nobel Prize for discovering genes co
 - Controversies or critical challenges (if applicable)
 - Later years and reassessment
 - Further reading: biographies, primary documents, or governing-body records (as applicable)
+
+
+## References

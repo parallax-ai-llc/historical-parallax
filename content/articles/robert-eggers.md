@@ -3,6 +3,7 @@ name: "Robert Eggers"
 birth: "1983-07-07"
 nationality: "American"
 occupation: ["Film Director", "Screenwriter", "Production Designer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Robert_Eggers_-_The_Witch%2CFantastic_Fest_2015-1667_%2828894993650%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Eggers"
 lastUpdated: "2026-03-12"

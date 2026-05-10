@@ -24,7 +24,7 @@ Arthur Ashkin shared the 2018 Nobel Prize for inventing optical tweezers, which 
 | 2018 | Nobel Prize at age 96 |
 | 2020 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Arthur Ashkin" - https://en.wikipedia.org/wiki/Arthur_Ashkin
 
@@ -49,3 +49,6 @@ Ashkin shared the 2018 Nobel Prize in Physics for the optical tweezers invention
 ## Early Life and Education
 
 Ashkin was born in Brooklyn, New York, and trained as a physicist during the mid-20th century, a period marked by rapid growth in electronics and photonics research. His later career at industrial research laboratories reflected the era's strong link between basic physics and applied technological development.
+
+
+## References

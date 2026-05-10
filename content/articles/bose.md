@@ -22,7 +22,7 @@ See Satyendra Nath Bose entry.
 | 1894 | Born |
 | 1974 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Bose" - https://en.wikipedia.org/wiki/Bose
 
@@ -54,3 +54,6 @@ See Satyendra Nath Bose entry.
 - Satyendra Nath Bose
 - Albert Einstein
 - Quantum statistics
+
+
+## References

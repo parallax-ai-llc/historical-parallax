@@ -23,7 +23,7 @@ Russian serial killer who murdered at least 10 people in Irkutsk Oblast between 
 | 2006 | Arrested |
 | 2008 | Sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Vasili Kulik" - https://en.wikipedia.org/wiki/Vasili_Kulik
 
@@ -48,3 +48,6 @@ Russian serial killer who murdered at least 10 people in Irkutsk Oblast between 
 - The case is an example of long-running serial violence in a geographically dispersed region, where investigations can be complicated by mobility and limited early linkage of crimes.
 - Public summaries often emphasize the scale of the victim count and the extended period over which the crimes occurred.
 - It is also cited in broader discussions of violent crime patterns and policing capacity outside major Russian cities.
+
+
+## References

@@ -21,7 +21,7 @@ Kobe Steel admitted to falsifying quality data on aluminum, copper, and steel pr
 |------|-------|
 | 2017 | Data fabrication scandal exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Kobe Steel Data Fraud" - https://en.wikipedia.org/wiki/Kobe_Steel_Data_Fraud
 
@@ -72,3 +72,6 @@ Kobe Steel Data Fraud is frequently referenced as an example of:
 ## References (Additional)
 
 [^2]: Wikipedia, "Kobe Steel" - https://en.wikipedia.org/wiki/Kobe_Steel
+
+
+## References

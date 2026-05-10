@@ -23,7 +23,7 @@ Ryan Crouser won three consecutive Olympic shot put golds (2016, 2021, 2024) and
 | 2023 | Set WR of 23.56m |
 | 2024 | Won third gold at Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Ryan Crouser" - https://en.wikipedia.org/wiki/Ryan_Crouser
 
@@ -50,3 +50,6 @@ Ryan Crouser won three consecutive Olympic shot put golds (2016, 2021, 2024) and
 ## Shot Put Basics
 
 - In international men’s competition, the shot weighs 7.26 kg (16 lb), making peak performance heavily dependent on strength and efficient technique.
+
+
+## References

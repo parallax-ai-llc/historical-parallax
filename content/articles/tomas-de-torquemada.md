@@ -21,7 +21,7 @@ First Grand Inquisitor of Spain responsible for burning approximately 2,000 peop
 |------|-------|
 | 1483 | Appointed Grand Inquisitor |
 
-## References
+
 
 [^1]: Wikipedia, "Tomas de Torquemada" - https://en.wikipedia.org/wiki/Tomas_de_Torquemada
 
@@ -61,3 +61,6 @@ Popular accounts sometimes cite precise totals for executions attributed to Torq
 
 [^2]: Wikipedia, "Spanish Inquisition" - https://en.wikipedia.org/wiki/Spanish_Inquisition
 [^3]: Wikipedia, "Alhambra Decree" - https://en.wikipedia.org/wiki/Alhambra_Decree
+
+
+## References

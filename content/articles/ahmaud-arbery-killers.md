@@ -21,7 +21,7 @@ Three white men convicted of federal hate crimes for chasing and killing Black j
 |------|-------|
 | 2022 | Convicted of hate crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmaud Arbery Killers" - https://en.wikipedia.org/wiki/Ahmaud_Arbery_Killers
 
@@ -73,3 +73,6 @@ This entry uses the common label “Ahmaud Arbery Killers” to refer to the per
 
 [^2]: U.S. Department of Justice press releases and case summaries related to the federal hate-crimes prosecution (see DOJ public archives)
 [^3]: Georgia state court coverage and sentencing summaries reported by major news organizations (contemporaneous reporting)
+
+
+## References

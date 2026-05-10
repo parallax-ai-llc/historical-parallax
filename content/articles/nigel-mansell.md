@@ -23,7 +23,7 @@ Nigel Mansell won the 1992 F1 World Championship and the 1993 CART IndyCar title
 | 1992 | Won F1 World Championship with Williams |
 | 1993 | Won CART IndyCar championship |
 
-## References
+
 
 [^1]: Wikipedia, "Nigel Mansell" - https://en.wikipedia.org/wiki/Nigel_Mansell
 
@@ -50,3 +50,6 @@ Mansell’s legacy is shaped by the combination of an F1 world championship, ext
 ## Related Topics
 
 Formula One (F1); Williams F1; Ferrari F1; CART Championship Auto Racing Teams; IndyCar history.
+
+
+## References

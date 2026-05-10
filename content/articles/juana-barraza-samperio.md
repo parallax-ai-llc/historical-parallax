@@ -25,7 +25,7 @@ Juana Dayanara Barraza Samperio is a Mexican **convicted serial killer** and for
 | 2006 | Arrested |
 | 2008 | 759 years |
 
-## References
+
 
 [^1]: Wikipedia, "Juana Barraza Samperio" - https://en.wikipedia.org/wiki/Juana_Barraza_Samperio
 
@@ -68,3 +68,6 @@ During the investigation, some reporting focused on speculative suspect profiles
 ## Sentencing in practice
 
 Although the sentence is often reported as **759 years**, discussions of sentencing practice note that multi-century totals can function as a **symbolic aggregate** for multiple counts. Actual time served depends on statutory limits, sentencing rules, and later legal developments.
+
+
+## References

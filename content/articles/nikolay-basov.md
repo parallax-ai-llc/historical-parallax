@@ -24,7 +24,7 @@ Nikolay Basov shared the 1964 Nobel Prize for work on masers and lasers.
 | 1964 | Nobel Prize |
 | 2001 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Nikolay Basov" - https://en.wikipedia.org/wiki/Nikolay_Basov
 
@@ -56,3 +56,6 @@ A **maser** (microwave amplification by stimulated emission of radiation) and a 
 
 - Introductory texts on quantum electronics and laser physics
 - Historical overviews of early maser/laser development in the mid-20th century
+
+
+## References

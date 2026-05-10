@@ -22,7 +22,7 @@ Ghanaian military head of state who overthrew Acheampong but was himself overthr
 | 1978 | Overthrew Acheampong |
 | 1979 | Executed by firing squad |
 
-## References
+
 
 [^1]: Wikipedia, "Frederick Akuffo" - https://en.wikipedia.org/wiki/Frederick_Akuffo
 
@@ -49,3 +49,6 @@ Ghanaian military head of state who overthrew Acheampong but was himself overthr
 
 - Often cited as an example of how late-stage military transitions can fail when institutions are weak and intra-military trust collapses.
 - His short tenure is mainly remembered for the attempted (but incomplete) pivot toward elections before the 1979 coup.
+
+
+## References

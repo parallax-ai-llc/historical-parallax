@@ -43,10 +43,13 @@ Because the 800m record has stood through multiple eras of training and anti-dop
 
 Kratochvílová is remembered for combining sprint speed with middle-distance strength and for setting a benchmark that has shaped how later generations evaluate women's 800m performance.
 
-## References
+
 
 [^1]: Wikipedia, "Jarmila Kratochvílová" - https://en.wikipedia.org/wiki/Jarmila_Kratochv%C3%ADlov%C3%A1
 
 ## See Also
 
 - 800 metres world record progression
+
+
+## References

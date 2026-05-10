@@ -23,7 +23,7 @@ Massive accounting fraud at energy company Enron that led to its bankruptcy in 2
 | 2001 | Enron filed for bankruptcy |
 | 2006 | Lay and Skilling convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Enron Scandal" - https://en.wikipedia.org/wiki/Enron_Scandal
 
@@ -51,3 +51,6 @@ Massive accounting fraud at energy company Enron that led to its bankruptcy in 2
 
 - Enron is frequently used as a case study in ethics, accounting, and organizational culture.
 - The name remains shorthand for systemic governance failure and the risks of financial opacity.
+
+
+## References

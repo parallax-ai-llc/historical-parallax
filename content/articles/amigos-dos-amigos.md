@@ -22,7 +22,7 @@ Brazilian criminal organization that controlled major favelas in Rio de Janeiro.
 | 1998 | Founded |
 | 2017 | Lost territory after police operations |
 
-## References
+
 
 [^1]: Wikipedia, "Amigos dos Amigos" - https://en.wikipedia.org/wiki/Amigos_dos_Amigos
 
@@ -70,3 +70,6 @@ For a careful, neutral expansion, consider separating:
 - confirmed leadership and dates (with citations),
 - neighborhood-by-neighborhood control claims (time-bounded),
 - and broader commentary about Brazilian organized crime that may not be specific to ADA.
+
+
+## References

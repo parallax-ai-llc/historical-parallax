@@ -21,7 +21,7 @@ Duplicate — see Lee Jae-yong.
 |------|-------|
 | 1968 | See Lee Jae-yong |
 
-## References
+
 
 [^1]: Wikipedia, "Jay Y. Lee duplicate" - https://en.wikipedia.org/wiki/Jay_Y._Lee_duplicate
 
@@ -60,3 +60,6 @@ Duplicate — see Lee Jae-yong.
 
 - Lee Jae-yong (primary entry)
 - Samsung (corporate context)
+
+
+## References

@@ -22,7 +22,7 @@ Note: This entry refers to Toyoda family engineering. See Toyoda Sakichi entry f
 | 1870 | Born in Japan |
 | 1890 | Engineering work began |
 
-## References
+
 
 [^1]: Wikipedia, "Toyoda Gosei" - https://en.wikipedia.org/wiki/Toyoda_Gosei
 
@@ -50,3 +50,6 @@ Note: This entry refers to Toyoda family engineering. See Toyoda Sakichi entry f
 
 - If this project intends articles to be person-focused, this entry likely belongs in a separate “company” namespace or should be retitled to match the corporate subject.
 - Lineage statements about “the Toyoda engineering tradition” are typically descriptive rather than a claim that a single individual directly founded later corporations.
+
+
+## References

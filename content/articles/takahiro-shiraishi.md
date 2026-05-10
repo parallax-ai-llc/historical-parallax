@@ -23,7 +23,7 @@ Japanese serial killer known as the 'Twitter Killer' who murdered 9 people he co
 | 2017 | Arrested after remains found in apartment |
 | 2020 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Takahiro Shiraishi" - https://en.wikipedia.org/wiki/Takahiro_Shiraishi
 
@@ -50,3 +50,6 @@ The case intensified debate in Japan about social-media safety, platform respons
 ## Platform Response (General)
 
 In the aftermath, platform moderation practices and reporting pathways for crisis-related content became a recurring topic in commentary, alongside calls for clearer routes to support services when users post about severe distress.
+
+
+## References

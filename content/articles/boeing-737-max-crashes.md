@@ -22,7 +22,7 @@ Two Boeing 737 MAX crashes killed 346 people due to a flawed flight control syst
 | 2018 | Lion Air crash killed 189 |
 | 2019 | Ethiopian Airlines crash killed 157 |
 
-## References
+
 
 [^1]: Wikipedia, "Boeing 737 MAX Crashes" - https://en.wikipedia.org/wiki/Boeing_737_MAX_Crashes
 
@@ -76,3 +76,6 @@ The MAX case is also discussed in relation to:
 - training standards and the trade-off between simulator time and documentation-based differences training,
 - airline procedures for stabilizer trim runaways and related abnormal checklists,
 - and how cockpit alerts and indications should be prioritized to support rapid diagnosis.
+
+
+## References

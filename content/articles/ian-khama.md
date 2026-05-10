@@ -22,7 +22,7 @@ Former President of Botswana accused of corruption, abuse of power, and involvem
 | 2008 | Became President of Botswana |
 | 2019 | Accused of corruption after leaving office |
 
-## References
+
 
 [^1]: Wikipedia, "Ian Khama" - https://en.wikipedia.org/wiki/Ian_Khama
 
@@ -57,3 +57,6 @@ Post-presidency, Botswana politics saw notable tensions involving former allies 
 
 - Politics of Botswana
 - Botswana Democratic Party
+
+
+## References

@@ -43,10 +43,13 @@ Russian serial killer from Dagestan who murdered at least 12 taxi drivers in Mos
 
 This article provides a high-level overview consistent with widely circulated summaries; for detailed case specifics (individual incidents, exact dates, and evidentiary record), consult court reporting and investigative sources.
 
-## References
+
 
 [^1]: Wikipedia, "Magomed Suleimanov" - https://en.wikipedia.org/wiki/Magomed_Suleimanov
 
 ## See also
 
 - Serial crime investigations in Russia
+
+
+## References

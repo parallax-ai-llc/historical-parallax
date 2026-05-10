@@ -22,7 +22,7 @@ Former football star turned Liberian president whose administration was accused 
 | 2018 | Became President |
 | 2023 | Lost re-election |
 
-## References
+
 
 [^1]: Wikipedia, "George Weah" - https://en.wikipedia.org/wiki/George_Weah
 ---
@@ -56,3 +56,6 @@ Former football star turned Liberian president whose administration was accused 
 
 - 국제기구 보고서(UN 계열, WHO, WFP 등), 인권/분쟁 모니터링, 현장 NGO 브리핑
 - 위성/지도 기반 데이터, OSINT(공개정보 분석), 2차 출처의 교차 검증
+
+
+## References

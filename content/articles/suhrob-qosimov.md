@@ -21,7 +21,7 @@ Major Tajik drug trafficker who ran one of Central Asia's largest heroin smuggli
 |------|-------|
 | 2010 | Ran major heroin trafficking network |
 
-## References
+
 
 [^1]: Wikipedia, "Suhrob Qosimov" - https://en.wikipedia.org/wiki/Suhrob_Qosimov
 
@@ -48,3 +48,6 @@ The following points summarize common elements in descriptions of large-scale op
 - **Scope:** This entry is intended as a high-level index of an individual mentioned in trafficking-related summaries; it is not a comprehensive case file.
 - **Source coverage:** If more detailed reporting or official documentation is added later, this file can be expanded with dated citations and clearer attribution.
 - **Date fields:** Birth/death values in this file are placeholders unless independently verified beyond summary sources.
+
+
+## References

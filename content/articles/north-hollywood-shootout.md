@@ -23,7 +23,7 @@ Violent bank robbery and shootout in North Hollywood, Los Angeles on February 28
 | 1997 | Both robbers killed |
 | 1997 | Led to police militarization |
 
-## References
+
 
 [^1]: Wikipedia, "North Hollywood Shootout" - https://en.wikipedia.org/wiki/North_Hollywood_Shootout
 
@@ -49,3 +49,6 @@ Violent bank robbery and shootout in North Hollywood, Los Angeles on February 28
 For precise counts (injuries, rounds fired, equipment lists), consult official after-action reports and reputable investigative summaries.
 
 The event remains a widely referenced modern benchmark for high-risk urban response planning.
+
+
+## References

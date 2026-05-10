@@ -20,7 +20,7 @@ Brazilian mass murderer who shot and killed 12 children at an elementary school 
 |------|-------|
 | 2011 | Committed Realengo school massacre |
 
-## References
+
 
 [^1]: Wikipedia, "Wellington Menezes de Oliveira" - https://en.wikipedia.org/wiki/Wellington_Menezes_de_Oliveira
 
@@ -51,3 +51,6 @@ The killings triggered nationwide mourning and renewed debate in Brazil about sc
 ## References (additional)
 
 [^2]: Wikipedia, "Realengo massacre" (overview of the school shooting and aftermath) - https://en.wikipedia.org/wiki/Realengo_massacre
+
+
+## References

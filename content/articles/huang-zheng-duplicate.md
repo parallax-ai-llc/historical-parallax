@@ -21,7 +21,7 @@ Duplicate — see Colin Huang.
 |------|-------|
 | 1980 | See Colin Huang |
 
-## References
+
 
 [^1]: Wikipedia, "Huang Zheng duplicate" - https://en.wikipedia.org/wiki/Huang_Zheng_duplicate
 
@@ -59,3 +59,6 @@ The following points are included only to make this duplicate entry minimally in
 
 [^2]: Wikipedia, "Colin Huang" - https://en.wikipedia.org/wiki/Colin_Huang
 [^3]: PDD Holdings (company overview) - https://en.wikipedia.org/wiki/PDD_Holdings
+
+
+## References

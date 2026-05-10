@@ -5,7 +5,7 @@ birth: "1753-01-01"
 death: "1806-10-31"
 nationality: "Japanese"
 occupation: ["Printmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Kitagawa_Utamaro_portrait_%28cropped%29.jpg/3840px-Kitagawa_Utamaro_portrait_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kitagawa_Utamaro"
 lastUpdated: "2026-02-21"

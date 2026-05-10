@@ -22,7 +22,7 @@ Guinea's first democratically elected president who was overthrown after changin
 | 2010 | Elected President |
 | 2021 | Overthrown in military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Alpha Condé" - https://en.wikipedia.org/wiki/Alpha_Cond%C3%A9
 
@@ -63,3 +63,6 @@ Any long‑term judgment of his tenure in Guinea tends to focus on institutional
 
 - Politics of Guinea
 - History of Guinea
+
+
+## References

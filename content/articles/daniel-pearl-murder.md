@@ -23,7 +23,7 @@ Kidnapping and beheading of Wall Street Journal reporter Daniel Pearl in Pakista
 | 2002 | Beheaded on video |
 | 2002 | Ahmed Omar Saeed Sheikh convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Pearl Murder" - https://en.wikipedia.org/wiki/Daniel_Pearl_Murder
 
@@ -52,3 +52,6 @@ It also became a reference point in discussions about:
 ## Legacy
 
 The case is frequently cited by press-freedom organizations as emblematic of the dangers faced by investigative reporters and the broader struggle against impunity for violence targeting the media.
+
+
+## References

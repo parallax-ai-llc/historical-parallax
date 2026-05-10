@@ -5,7 +5,7 @@ birth: "1930-12-04"
 death: "2009-02-03"
 nationality: "Chinese-Taiwanese"
 occupation: ["Chan Master", "Author", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/d/d0/Sheng-yen_xinhuanet.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sheng_Yen"
 lastUpdated: "2026-02-21"

@@ -3,6 +3,7 @@ name: "Kate Moss"
 birth: "1974-01-16"
 nationality: "British"
 occupation: ["Fashion Model"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kate_Moss_-_Decort%C3%A9_advertisement_%28cropped2%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kate_Moss"
 lastUpdated: "2026-03-12"

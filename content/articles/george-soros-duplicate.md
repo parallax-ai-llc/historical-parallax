@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1930 | See George Soros |
 
-## References
+
 
 [^1]: Wikipedia, "George Soros duplicate" - https://en.wikipedia.org/wiki/George_Soros_duplicate
 
@@ -66,3 +66,6 @@ When consolidating this duplicate with the main article, confirm:
 
 [^2]: Open Society Foundations — https://www.opensocietyfoundations.org/
 [^3]: Encyclopaedia Britannica, "George Soros" — https://www.britannica.com/biography/George-Soros
+
+
+## References

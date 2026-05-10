@@ -21,7 +21,7 @@ See Phillip Garrido. Jaycee Dugard was kidnapped at age 11 and held captive for 
 |------|-------|
 | 2009 | Dugard found |
 
-## References
+
 
 [^1]: Wikipedia, "Jaycee Dugard kidnapping" - https://en.wikipedia.org/wiki/Jaycee_Dugard_kidnapping
 
@@ -55,3 +55,6 @@ See Phillip Garrido. Jaycee Dugard was kidnapped at age 11 and held captive for 
 ## Notes
 
 - This article is a concise overview of the **event** (the kidnapping case). For the perpetrator profile, see related coverage of **Phillip Garrido**.
+
+
+## References

@@ -37,7 +37,7 @@ The investigation was coordinated across dozens of media outlets internationally
 
 Public reaction focused on whether financial institutions had adequately applied anti-money-laundering controls and enhanced due diligence for high-risk clients. The reporting also contributed to broader scrutiny of Switzerland’s role in cross-border wealth management and the effectiveness of secrecy and reporting regimes.
 
-## References
+
 
 [^1]: Wikipedia, "Suisse Secrets" - https://en.wikipedia.org/wiki/Suisse_Secrets
 
@@ -48,3 +48,6 @@ International reporting referenced participation by outlets and networks such as
 ## What the Leak Was (and Was Not)
 
 The reporting centered on account-holder and account metadata rather than a complete, audited ledger of all Credit Suisse clients. As with many leaks, downstream interpretation depends on journalistic verification, public records, and on-the-record responses.
+
+
+## References

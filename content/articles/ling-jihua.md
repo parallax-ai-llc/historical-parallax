@@ -23,7 +23,7 @@ Chinese politician who was chief of the Central Committee General Office. His fa
 | 2012 | Son's fatal Ferrari crash triggered downfall |
 | 2016 | Convicted of corruption; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Ling Jihua" - https://en.wikipedia.org/wiki/Ling_Jihua
 
@@ -54,3 +54,6 @@ The case is also cited in discussions of the risks associated with proximity to 
 ## Notes
 
 This entry focuses on the widely reported outline: senior General Office role, the public scandal catalyst, and the eventual conviction and life sentence.
+
+
+## References

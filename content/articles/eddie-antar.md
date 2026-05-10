@@ -22,7 +22,7 @@ Founder of Crazy Eddie electronics chain who inflated company earnings by $80 mi
 | 1984 | Crazy Eddie went public with fraudulent books |
 | 1990 | Fled to Israel; later extradited |
 
-## References
+
 
 [^1]: Wikipedia, "Eddie Antar" - https://en.wikipedia.org/wiki/Eddie_Antar
 
@@ -51,3 +51,6 @@ Founder of Crazy Eddie electronics chain who inflated company earnings by $80 mi
 
 - Securities fraud
 - Inventory accounting
+
+
+## References

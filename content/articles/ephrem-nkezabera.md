@@ -22,7 +22,7 @@ Rwandan businessman convicted of genocide in Belgium for financing and facilitat
 | 1994 | Financed and facilitated genocide using business resources |
 | 2009 | Convicted of genocide by Belgian court |
 
-## References
+
 
 [^1]: Wikipedia, "Ephrem Nkezabera" - https://en.wikipedia.org/wiki/Ephrem_Nkezabera
 
@@ -51,3 +51,6 @@ Rwandan businessman convicted of genocide in Belgium for financing and facilitat
 
 [^2]: Wikipedia, "Rwandan genocide" - https://en.wikipedia.org/wiki/Rwandan_genocide
 [^3]: Wikipedia, "Universal jurisdiction" - https://en.wikipedia.org/wiki/Universal_jurisdiction
+
+
+## References

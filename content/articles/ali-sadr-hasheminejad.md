@@ -37,7 +37,7 @@ Later coverage notes that the case became highly contested and that, after exten
 - The short summary above uses a simplified description (“convicted”). Public sources also describe later procedural outcomes (including dismissal with prejudice). Readers should consult primary reporting and court records for the final posture.[^3]
 - Biographical details can vary across sources and may change over time as reporting is updated.
 
-## References
+
 
 [^1]: Wikipedia, "Ali Sadr Hasheminejad" - https://en.wikipedia.org/wiki/Ali_Sadr_Hasheminejad
 [^2]: Reuters (Nate Raymond), "U.S. arrests Iranian over alleged $115 million sanctions evasion scheme" (2018-03-20) - https://www.reuters.com/article/us-usa-iran-crime/u-s-arrests-iranian-over-alleged-115-million-sanctions-evasion-scheme-idUSKBN1GW32E
@@ -63,3 +63,6 @@ Later coverage notes that the case became highly contested and that, after exten
 ## Naming Note
 
 - Sources may render the surname as Hasheminejad / Hashemi Nejad; consistent alias tracking helps deduplicate and cross-reference.
+
+
+## References

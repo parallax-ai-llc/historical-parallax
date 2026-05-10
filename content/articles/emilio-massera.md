@@ -23,7 +23,7 @@ Argentine admiral who oversaw the ESMA detention center where 5,000 people disap
 | 1985 | Convicted |
 | 2010 | Died under house arrest |
 
-## References
+
 
 [^1]: Wikipedia, "Emilio Massera" - https://en.wikipedia.org/wiki/Emilio_Massera
 
@@ -48,3 +48,6 @@ Argentine admiral who oversaw the ESMA detention center where 5,000 people disap
 
 - National Commission on the Disappearance of Persons (CONADEP)
 - Human-rights trials in post-dictatorship Argentina
+
+
+## References

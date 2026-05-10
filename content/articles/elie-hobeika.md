@@ -22,7 +22,7 @@ Lebanese militia commander who led the Sabra and Shatila massacre of Palestinian
 | 1982 | Led Phalangist forces in Sabra and Shatila massacre |
 | 2002 | Assassinated by car bomb in Beirut |
 
-## References
+
 
 [^1]: Wikipedia, "Elie Hobeika" - https://en.wikipedia.org/wiki/Elie_Hobeika
 
@@ -87,3 +87,6 @@ In post-conflict societies, the question of accountability can remain unresolved
 ## Historical interpretation
 
 Because the war is still politically sensitive, accounts of key figures vary by community, source, and political alignment. Scholarly and journalistic work often emphasizes careful sourcing and the distinction between documented events and partisan narratives.
+
+
+## References

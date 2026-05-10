@@ -41,10 +41,13 @@ In the years that followed, the event remained a reference point in U.S. debates
 - San Bernardino attack
 - Tashfeen Malik
 
-## References
+
 
 [^1]: Wikipedia, "Syed Rizwan Farook" - https://en.wikipedia.org/wiki/Syed_Rizwan_Farook
 
 ## Notes on sources
 
 Basic biographical details for perpetrators in high-profile attacks are often drawn from investigative records and contemporaneous news coverage. Summaries may differ in emphasis; the most consistently reported elements are the date, location, casualties, and sequence of the incident.
+
+
+## References

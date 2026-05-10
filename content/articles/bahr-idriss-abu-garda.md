@@ -23,7 +23,7 @@ Sudanese rebel leader charged by the ICC with war crimes for directing an attack
 | 2009 | Voluntarily appeared before ICC |
 | 2010 | Charges not confirmed by ICC pre-trial chamber |
 
-## References
+
 
 [^1]: Wikipedia, "Bahr Idriss Abu Garda" - https://en.wikipedia.org/wiki/Bahr_Idriss_Abu_Garda
 
@@ -48,3 +48,6 @@ The episode is frequently used to explain:
 - the limits and evidentiary thresholds of international criminal proceedings
 - the political and security context that affects cooperation with international courts
 - how allegations of attacks on peacekeepers can become focal points in conflict accountability debates
+
+
+## References

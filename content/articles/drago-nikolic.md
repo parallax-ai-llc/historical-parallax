@@ -24,7 +24,7 @@ Bosnian Serb security officer convicted of aiding and abetting genocide for his 
 | 2010 | Convicted of aiding and abetting genocide |
 | 2010 | Sentenced to 35 years |
 
-## References
+
 
 [^1]: Wikipedia, "Drago Nikolic" - https://en.wikipedia.org/wiki/Drago_Nikolic
 
@@ -49,3 +49,6 @@ The proceedings contributed to documentation of events, survivor testimony, and 
 Beyond their immediate legal outcomes, Srebrenica-related judgments have been used to explain how international courts reason from dispersed evidence—orders, movements of units, detention conditions, and survivor accounts—into a coherent account of intent and responsibility. This makes them frequently assigned material in courses on genocide studies and transitional justice.
 
 They also demonstrate how “logistics” (transport, guarding, detention) can be legally central in mass-atrocity prosecutions.
+
+
+## References

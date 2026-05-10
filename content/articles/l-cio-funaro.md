@@ -21,7 +21,7 @@ Brazilian money changer who served as the financial operator for numerous corrup
 |------|-------|
 | 2017 | Agreed to cooperate with investigators |
 
-## References
+
 
 [^1]: Wikipedia, "Lúcio Funaro" - https://en.wikipedia.org/wiki/L%C3%BAcio_Funaro
 
@@ -64,3 +64,6 @@ Brazilian money changer who served as the financial operator for numerous corrup
 ## References (additional)
 
 [^2]: Wikipedia overview of Brazil’s “Car Wash” investigation context (background term) - https://en.wikipedia.org/wiki/Operation_Car_Wash
+
+
+## References

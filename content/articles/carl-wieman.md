@@ -23,7 +23,7 @@ Carl Wieman shared the 2001 Nobel Prize for achieving Bose-Einstein condensation
 | 1995 | Created first BEC with Cornell |
 | 2001 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Carl Wieman" - https://en.wikipedia.org/wiki/Carl_Wieman
 
@@ -48,3 +48,6 @@ Carl Wieman shared the 2001 Nobel Prize for achieving Bose-Einstein condensation
 - First BEC demonstrations in the mid-1990s rapidly led to a worldwide wave of experimental and theoretical work.
 - Ultra-cold atom platforms later became important for exploring quantum behavior in controlled laboratory settings.
 - His education-related initiatives are often referenced in discussions of how to make STEM instruction more effective and measurable.
+
+
+## References

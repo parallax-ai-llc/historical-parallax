@@ -24,7 +24,7 @@ Irish drug lord who heads the Kinahan organized crime group, one of Europe's mos
 | 2022 | Sanctioned by US Treasury; $5 million bounty |
 | 2022 | Fled Dubai; whereabouts disputed |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Kinahan" - https://en.wikipedia.org/wiki/Daniel_Kinahan
 
@@ -50,3 +50,6 @@ Irish drug lord who heads the Kinahan organized crime group, one of Europe's mos
 
 ### Related links
 - Use the Wikipedia link in `socialLinks` (if present) as a navigation hub to find additional citations.
+
+
+## References

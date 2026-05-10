@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1935 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Leonardo Del Vecchio dup" - https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio_dup
 
@@ -52,3 +52,6 @@ Duplicate.
 ## References (additional)
 
 - Wikipedia, “Leonardo Del Vecchio” — https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
+
+
+## References

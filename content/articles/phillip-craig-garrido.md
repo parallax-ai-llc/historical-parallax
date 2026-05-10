@@ -23,7 +23,7 @@ American sex offender who kidnapped 11-year-old Jaycee Dugard and held her capti
 | 2009 | Discovered after parole officer visit |
 | 2011 | Sentenced to 431 years in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Phillip Craig Garrido" - https://en.wikipedia.org/wiki/Phillip_Craig_Garrido
 
@@ -53,3 +53,6 @@ Most concise biographies rely on secondary reporting and encyclopedic summaries.
 
 [^2]: Memoir and public statements by Jaycee Dugard (context on survival and recovery; secondary summaries often cite these materials).
 [^3]: U.S. court coverage and sentencing reports (as referenced by secondary sources).
+
+
+## References

@@ -21,7 +21,7 @@ Dutch crime reporter shot and killed on an Amsterdam street, linked to Ridouan T
 |------|-------|
 | 2021 | Shot dead on Amsterdam street |
 
-## References
+
 
 [^1]: Wikipedia, "Peter de Vries" - https://en.wikipedia.org/wiki/Peter_de_Vries
 
@@ -54,3 +54,6 @@ Dutch crime reporter shot and killed on an Amsterdam street, linked to Ridouan T
 
 - Press freedom in the Netherlands
 - Organized crime and witness protection
+
+
+## References

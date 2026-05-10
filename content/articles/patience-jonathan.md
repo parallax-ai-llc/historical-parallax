@@ -22,7 +22,7 @@ Former Nigerian first lady who had $31.4 million in cash seized from bank accoun
 | 2015 | $31.4 million seized from accounts under false names |
 | 2017 | Lost legal battle to recover seized funds |
 
-## References
+
 
 [^1]: Wikipedia, "Patience Jonathan" - https://en.wikipedia.org/wiki/Patience_Jonathan
 
@@ -49,3 +49,6 @@ Regardless of legal outcomes in any specific proceeding, the episode remains par
 ## Related themes
 
 Asset forfeiture, beneficial ownership, and the political economy of anti-corruption enforcement.
+
+
+## References

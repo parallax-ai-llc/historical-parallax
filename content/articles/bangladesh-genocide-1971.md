@@ -22,7 +22,7 @@ Pakistani military killed an estimated 300,000-3,000,000 Bengali civilians durin
 | 1971 | Pakistani forces launched Operation Searchlight |
 | 1971 | Indian intervention ended the genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Bangladesh Genocide 1971" - https://en.wikipedia.org/wiki/Bangladesh_Genocide_1971
 
@@ -60,3 +60,6 @@ In Bangladesh, the events are commemorated and discussed as a genocide, with ong
 ### Notes on sourcing
 
 Because casualty estimates and attribution details are sensitive and disputed, careful treatments compare multiple categories of sources: survivor testimony, diplomatic archives, investigative journalism, and academic historical work.
+
+
+## References

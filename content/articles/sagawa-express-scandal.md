@@ -21,7 +21,7 @@ Sagawa Express company was found to have given hundreds of millions in illegal d
 |------|-------|
 | 1992 | Massive political donations exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Sagawa Express Scandal" - https://en.wikipedia.org/wiki/Sagawa_Express_Scandal
 
@@ -66,3 +66,6 @@ This article is a **high-level summary**. For names, exact amounts, and specific
 ## Additional References
 
 [^2]: Background context and overview synthesized from widely reported accounts summarized in [^1].
+
+
+## References

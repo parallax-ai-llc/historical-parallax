@@ -24,7 +24,7 @@ Yemeni terrorist who was a key facilitator of the 9/11 attacks. He helped coordi
 | 2002 | Captured in Karachi, Pakistan |
 | 2006 | Transferred to Guantánamo Bay |
 
-## References
+
 
 [^1]: Wikipedia, "Ramzi bin al-Shibh" - https://en.wikipedia.org/wiki/Ramzi_bin_al-Shibh
 
@@ -50,3 +50,6 @@ Wikipedia’s entry collects references on the Hamburg cell, the post-2002 deten
 
 - Hamburg cell
 - Guantánamo military commissions
+
+
+## References

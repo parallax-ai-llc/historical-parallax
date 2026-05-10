@@ -23,7 +23,7 @@ Fijian military officer who carried out two coups in 1987, overthrowing the elec
 | 1992 | Became prime minister through elections |
 | 2022 | Became prime minister again |
 
-## References
+
 
 [^1]: Wikipedia, "Sitiveni Rabuka" - https://en.wikipedia.org/wiki/Sitiveni_Rabuka
 
@@ -48,3 +48,6 @@ Rabuka's career is frequently used as a case study in:
 - The long-term effects of coups on constitutional order.
 - Civil–military relations in small states.
 - How leaders associated with anti-democratic interventions can later seek democratic mandates.
+
+
+## References

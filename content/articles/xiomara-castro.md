@@ -21,7 +21,7 @@ Note: Castro has not been convicted of crimes. Entry removed.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Xiomara Castro" - https://en.wikipedia.org/wiki/Xiomara_Castro
 
@@ -57,3 +57,6 @@ This file’s frontmatter previously categorized Castro as a “Corrupt Politici
 ## References (additional)
 
 [^2]: Government of Honduras (official presidency site), "Presidencia de la República" - https://presidencia.gob.hn/
+
+
+## References

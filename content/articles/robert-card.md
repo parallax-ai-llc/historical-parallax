@@ -22,7 +22,7 @@ American who shot and killed 18 people at a bowling alley and restaurant in Lewi
 | 2023 | Killed 18 in Lewiston, Maine shootings |
 | 2023 | Found dead from self-inflicted gunshot |
 
-## References
+
 
 [^1]: Wikipedia, "Robert Card" - https://en.wikipedia.org/wiki/Robert_Card
 
@@ -60,3 +60,6 @@ Specific findings depend on official reports and remain subject to change as new
 
 - Mass shootings in the United States
 - Crisis intervention and threat assessment
+
+
+## References

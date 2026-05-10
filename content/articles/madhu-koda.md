@@ -22,7 +22,7 @@ Former Chief Minister of Jharkhand who accumulated $400 million through mining c
 | 2006 | Became Chief Minister |
 | 2009 | Arrested for money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Madhu Koda" - https://en.wikipedia.org/wiki/Madhu_Koda
 
@@ -53,3 +53,6 @@ These notes add high-level, factual context based on widely available public sum
 ## References (additional)
 
 - The linked Wikipedia page in the frontmatter is a starting point and typically aggregates citations to other sources.
+
+
+## References

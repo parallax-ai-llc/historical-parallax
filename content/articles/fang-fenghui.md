@@ -22,7 +22,7 @@ Former chief of the Joint Staff Department of China's Central Military Commissio
 | 2017 | Removed from position and investigated |
 | 2019 | Sentenced to life imprisonment for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Fang Fenghui" - https://en.wikipedia.org/wiki/Fang_Fenghui
 
@@ -61,3 +61,6 @@ It also drew attention to persistent incentives for corruption in military perso
 - Central Military Commission (China)
 - Peoples Liberation Army reforms (2015present)
 - Anti-corruption campaigns in contemporary Chinese politics
+
+
+## References

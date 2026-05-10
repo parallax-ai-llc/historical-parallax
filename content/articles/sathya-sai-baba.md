@@ -5,7 +5,7 @@ birth: "1926-11-23"
 death: "2011-04-24"
 nationality: "Indian"
 occupation: ["Guru", "Spiritual Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sri_Sathya_Sai_Baba_at_Brindavan_Ashram.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sathya_Sai_Baba"
 lastUpdated: "2026-02-21"

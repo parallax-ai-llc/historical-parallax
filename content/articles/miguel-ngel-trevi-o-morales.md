@@ -23,7 +23,7 @@ Mexican drug lord known as Z-40 who became leader of Los Zetas and was one of th
 | 2012 | Became leader of Los Zetas after Lazcano's death |
 | 2013 | Arrested by Mexican marines near the US border |
 
-## References
+
 
 [^1]: Wikipedia, "Miguel Ángel Treviño Morales" - https://en.wikipedia.org/wiki/Miguel_%C3%81ngel_Trevi%C3%B1o_Morales
 
@@ -54,3 +54,6 @@ U.S. agencies publicly linked Treviño Morales to drug-trafficking and organized
 ## Legacy and Impact
 
 Treviño Morales is often cited as an example of the cartel leadership style associated with Los Zetas: highly violent, operationally adaptive, and willing to compete across multiple criminal markets.
+
+
+## References

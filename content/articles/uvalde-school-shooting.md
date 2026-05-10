@@ -22,7 +22,7 @@ Mass shooting at Robb Elementary School in Uvalde, Texas on May 24, 2022 killing
 | 2022 | 19 children and 2 teachers killed |
 | 2022 | Police response criticized |
 
-## References
+
 
 [^1]: Wikipedia, "Uvalde School Shooting" - https://en.wikipedia.org/wiki/Uvalde_School_Shooting
 
@@ -56,3 +56,6 @@ In the aftermath, several officials faced resignations, discipline, or electoral
 
 - **2022-05-24:** Shooting at Robb Elementary School in Uvalde, Texas.
 - **2022 (following months):** Release of surveillance footage, 911-related information, and official reviews intensified public scrutiny.
+
+
+## References

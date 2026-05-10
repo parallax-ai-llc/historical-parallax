@@ -21,7 +21,7 @@ Algerian raï singer assassinated by Islamist extremists during Algeria's civil 
 |------|-------|
 | 1994 | Assassinated by extremists |
 
-## References
+
 
 [^1]: Wikipedia, "Cheb Hasni" - https://en.wikipedia.org/wiki/Cheb_Hasni
 
@@ -55,3 +55,6 @@ Algerian raï singer assassinated by Islamist extremists during Algeria's civil 
 ### Additional References
 
 [^2]: Wikipedia, "Cheb Hasni" (sections on early life, controversy, and performances) - https://en.wikipedia.org/wiki/Cheb_Hasni
+
+
+## References

@@ -23,7 +23,7 @@ Nicaraguan former president convicted of embezzling $100 million in government f
 | 2003 | Convicted of embezzlement; sentenced to 20 years |
 | 2009 | Conviction overturned through political deal with Ortega |
 
-## References
+
 
 [^1]: Wikipedia, "Arnoldo Alemán" - https://en.wikipedia.org/wiki/Arnoldo_Alem%C3%A1n
 
@@ -50,3 +50,6 @@ Beyond the legal record, Alemán’s presidency is frequently discussed in the c
 - Political corruption and asset recovery.
 - Party systems in Central America after the Cold War.
 
+
+
+## References

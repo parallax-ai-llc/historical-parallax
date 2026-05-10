@@ -23,7 +23,7 @@ Indian-born South African businessman and member of the Gupta family accused of 
 | 2022 | Arrested in Dubai |
 | 2023 | Extradited to South Africa |
 
-## References
+
 
 [^1]: Wikipedia, "Atul Gupta" - https://en.wikipedia.org/wiki/Atul_Gupta
 
@@ -48,3 +48,6 @@ The Gupta family, including Atul Gupta, has been connected to extradition and le
 ## Legacy in South African politics
 
 The Gupta saga is often used as an example of how patronage networks, weak oversight, and concentrated power can undermine public institutions.
+
+
+## References

@@ -21,7 +21,7 @@ Indian gangster shot dead inside Baghpat jail by a rival gang member.
 |------|-------|
 | 2018 | Murdered inside Baghpat Jail |
 
-## References
+
 
 [^1]: Wikipedia, "Munna Bajrangi" - https://en.wikipedia.org/wiki/Munna_Bajrangi
 
@@ -62,3 +62,6 @@ According to Wikipedia and secondary reporting referenced there, he was:
 ## Further Reading
 
 - Wikipedia page (overview + citations): https://en.wikipedia.org/wiki/Munna_Bajrangi
+
+
+## References

@@ -22,7 +22,7 @@ Self-proclaimed mystic and leader of Bakata Katanga militia in southern Congo re
 | 2011 | Led Bakata Katanga militia attacks in Katanga province |
 | 2016 | Surrendered to Congolese authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Gedeon Kyungu Mutanga" - https://en.wikipedia.org/wiki/Gedeon_Kyungu_Mutanga
 ---
@@ -56,3 +56,6 @@ Self-proclaimed mystic and leader of Bakata Katanga militia in southern Congo re
 
 - 국제기구 보고서(UN 계열, WHO, WFP 등), 인권/분쟁 모니터링, 현장 NGO 브리핑
 - 위성/지도 기반 데이터, OSINT(공개정보 분석), 2차 출처의 교차 검증
+
+
+## References

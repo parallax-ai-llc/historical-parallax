@@ -22,7 +22,7 @@ Indian smuggler known as the 'King of Smuggling' who ran a vast smuggling empire
 | 1970 | Built massive gold and electronics smuggling network in Mumbai |
 | 1985 | Transitioned to legitimate business after crackdowns |
 
-## References
+
 
 [^1]: Wikipedia, "Baboo Meghji Shethia" - https://en.wikipedia.org/wiki/Baboo_Meghji_Shethia
 
@@ -60,3 +60,6 @@ In historical perspective, his story is often used as an example of:
 
 - Smuggling in India (historical context)
 - Mumbai underworld (for broader ecosystem and timelines)
+
+
+## References

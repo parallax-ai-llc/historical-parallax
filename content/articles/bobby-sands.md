@@ -24,7 +24,7 @@ Northern Irish republican and IRA member who died on hunger strike in the Maze P
 | 1981 | Elected to UK Parliament |
 | 1981 | Died after 66 days on hunger strike |
 
-## References
+
 
 [^1]: Wikipedia, "Bobby Sands" - https://en.wikipedia.org/wiki/Bobby_Sands
 
@@ -57,3 +57,6 @@ Northern Irish republican and IRA member who died on hunger strike in the Maze P
 
 - Sands remains a polarizing figure: viewed by supporters as a symbol of resistance and by opponents as a member of an armed organization.
 - The hunger strike and its aftermath influenced political mobilization and media coverage during the Northern Ireland conflict.
+
+
+## References

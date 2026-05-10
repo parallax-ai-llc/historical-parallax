@@ -21,7 +21,7 @@ Soviet serial killer who murdered multiple people in the Leningrad region.
 |------|-------|
 | 1975 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Nikolai Radkevich" - https://en.wikipedia.org/wiki/Nikolai_Radkevich
 
@@ -57,3 +57,6 @@ Soviet serial killer who murdered multiple people in the Leningrad region.
 
 - Soviet criminology and criminal procedure (historical overview)
 - Comparative studies of serial crime classification across legal systems
+
+
+## References

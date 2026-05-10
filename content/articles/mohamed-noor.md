@@ -21,7 +21,7 @@ Minneapolis police officer convicted of killing Justine Damond who had called 91
 |------|-------|
 | 2019 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Noor" - https://en.wikipedia.org/wiki/Mohamed_Noor
 
@@ -54,3 +54,6 @@ Minneapolis police officer convicted of killing Justine Damond who had called 91
 ## Additional References
 
 [^2]: Wikipedia, "Killing of Justine Damond" - https://en.wikipedia.org/wiki/Killing_of_Justine_Damond
+
+
+## References

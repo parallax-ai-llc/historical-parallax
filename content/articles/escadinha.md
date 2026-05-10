@@ -21,7 +21,7 @@ Brazilian drug trafficker who made a spectacular helicopter escape from prison.
 |------|-------|
 | 1986 | Escaped prison by helicopter |
 
-## References
+
 
 [^1]: Wikipedia, "Escadinha" - https://en.wikipedia.org/wiki/Escadinha
 
@@ -55,3 +55,6 @@ Brazilian drug trafficker who made a spectacular helicopter escape from prison.
 
 - Prison escape by aircraft (helicopter)
 - Brazilian organized crime (general topic)
+
+
+## References

@@ -23,7 +23,7 @@ American serial killer known as the 'Trash Bag Killer' who murdered at least 21 
 | 1977 | Surrendered to police |
 | 1977 | Pleaded guilty to 21 murders; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Patrick Kearney" - https://en.wikipedia.org/wiki/Patrick_Kearney
 
@@ -49,3 +49,6 @@ Readers may also look for:
 - Broader historical or social context for the period
 - Similar figures/events in the same domain
 - Summaries in reference works and major news archives
+
+
+## References

@@ -22,7 +22,7 @@ Chicago police officer Jason Van Dyke shot 17-year-old Laquan McDonald 16 times.
 | 2014 | McDonald killed; video withheld |
 | 2018 | Van Dyke convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Laquan McDonald Killing" - https://en.wikipedia.org/wiki/Laquan_McDonald_Killing
 
@@ -49,3 +49,6 @@ The case had significant institutional consequences in Chicago, including leader
 ## Broader significance
 
 The Laquan McDonald case is often cited in analyses of policing and governance as an example of how recorded evidence, public pressure, and legal processes can interact to produce accountability outcomes. It is also referenced in discussions of structural reforms, such as independent review mechanisms and federal or state-level oversight of police departments.
+
+
+## References

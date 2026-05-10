@@ -24,7 +24,7 @@ Sir Francis Drake was the first Englishman to circumnavigate the globe (1577-158
 | 1588 | Helped defeat the Spanish Armada |
 | 1596 | Died of dysentery off Panama |
 
-## References
+
 
 [^1]: Wikipedia, "Sir Francis Drake" - https://en.wikipedia.org/wiki/Sir_Francis_Drake
 
@@ -70,3 +70,6 @@ He remains a prominent figure for studying the links between state power, commer
 - Spanish Armada
 - Privateer
 - Golden Hind
+
+
+## References

@@ -21,7 +21,7 @@ Danish gang leader convicted of directing criminal operations from Copenhagen.
 |------|-------|
 | 2019 | Led gang operations in Copenhagen |
 
-## References
+
 
 [^1]: Wikipedia, "Shuaib Khan" - https://en.wikipedia.org/wiki/Shuaib_Khan
 
@@ -50,3 +50,6 @@ If this entry is to be expanded with specific dates, charges, court names, or af
 
 - Organized crime in Denmark
 - Danish criminal justice system
+
+
+## References

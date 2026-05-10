@@ -40,7 +40,7 @@ In the mid-1990s, under domestic and international pressure, the regime moved to
 
 Strasser’s later life has been reported as relatively private compared with the notoriety of his early rule. Public discussion of his legacy typically focuses on the extraordinary fact of his age in office and the violent context of Sierra Leone’s civil war.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Valentine Strasser" - https://en.wikipedia.org/wiki/Valentine_Strasser
 
@@ -48,3 +48,6 @@ Strasser’s later life has been reported as relatively private compared with th
 
 - Sierra Leone Civil War
 - Julius Maada Bio
+
+
+## References

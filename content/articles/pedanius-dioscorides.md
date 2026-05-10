@@ -24,7 +24,7 @@ Pedanius Dioscorides wrote De Materia Medica, the most influential pharmacologic
 | 70 | Completed De Materia Medica |
 | 90 | Estimated death |
 
-## References
+
 
 [^1]: Wikipedia, "Pedanius Dioscorides" - https://en.wikipedia.org/wiki/Pedanius_Dioscorides
 
@@ -50,3 +50,6 @@ Although ancient pharmacology differed substantially from modern biomedical stan
 - History of medicine
 - Pharmacopeia
 - Ancient Greek medicine
+
+
+## References

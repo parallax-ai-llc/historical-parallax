@@ -5,7 +5,7 @@ birth: "1922-01-09"
 death: "1984-03-26"
 nationality: "Guinea"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ahmed_Seko%C3%BA_in_1962_at_White_House_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sekou_Toure"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ First president of Guinea who became increasingly authoritarian, establishing a 
 | 1970 | Intensified political repression at Camp Boiro |
 | 1984 | Died during heart surgery in Cleveland |
 
-## References
+
 
 [^1]: Wikipedia, "Sekou Toure" - https://en.wikipedia.org/wiki/Sekou_Toure
 
@@ -52,3 +52,6 @@ First president of Guinea who became increasingly authoritarian, establishing a 
 
 - Touré remains a polarizing figure: associated with independence-era nationalism on one hand, and severe authoritarian repression on the other.
 - Post-1984 Guinean politics often referenced the Touré period as a cautionary baseline for governance and human-rights debates.
+
+
+## References

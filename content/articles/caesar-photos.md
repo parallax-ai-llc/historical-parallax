@@ -23,7 +23,7 @@ Collection of 55,000 photographs smuggled out of Syria by a military defector co
 | 2020 | Caesar Act sanctions imposed |
 | 2022 | Cases opened in European courts |
 
-## References
+
 
 [^1]: Wikipedia, "Caesar Photos" - https://en.wikipedia.org/wiki/Caesar_Photos
 
@@ -62,3 +62,6 @@ Because the material is tied to an active and highly politicized conflict, caref
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

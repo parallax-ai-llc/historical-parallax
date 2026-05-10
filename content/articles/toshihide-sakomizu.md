@@ -21,7 +21,7 @@ Japanese finance ministry official involved in the wining and dining scandal.
 |------|-------|
 | 1998 | Exposed in finance ministry scandal |
 
-## References
+
 
 [^1]: Wikipedia, "Toshihide Sakomizu" - https://en.wikipedia.org/wiki/Toshihide_Sakomizu
 
@@ -55,3 +55,6 @@ Japanese finance ministry official involved in the wining and dining scandal.
 ## Additional References
 
 [^2]: Wikipedia, "Ministry of Finance (Japan)" - https://en.wikipedia.org/wiki/Ministry_of_Finance_(Japan)
+
+
+## References

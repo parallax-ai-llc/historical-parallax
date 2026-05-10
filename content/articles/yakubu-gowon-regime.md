@@ -22,7 +22,7 @@ Gowon's military government presided over the Biafran War that killed 1-3 millio
 | 1967 | Civil war began |
 | 1975 | Overthrown |
 
-## References
+
 
 [^1]: Wikipedia, "Yakubu Gowon Regime" - https://en.wikipedia.org/wiki/Yakubu_Gowon_Regime
 
@@ -48,3 +48,6 @@ Gowon's military government presided over the Biafran War that killed 1-3 millio
 ## Legacy
 
 - The Gowon era is debated for its handling of national unity, wartime conduct, and post-war reconstruction.
+
+
+## References

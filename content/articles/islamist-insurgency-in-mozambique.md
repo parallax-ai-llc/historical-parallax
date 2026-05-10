@@ -22,7 +22,7 @@ ISIS-linked Ansar al-Sunna launched an insurgency in Cabo Delgado that has kille
 | 2017 | Insurgency began |
 | 2021 | Palma attack |
 
-## References
+
 
 [^1]: Wikipedia, "Islamist Insurgency in Mozambique" - https://en.wikipedia.org/wiki/Islamist_Insurgency_in_Mozambique
 
@@ -49,3 +49,6 @@ ISIS-linked Ansar al-Sunna launched an insurgency in Cabo Delgado that has kille
 - **Context:** political, social, and geographic framing.
 - **Aftermath:** investigations, reforms, and legacy.
 - **Sources:** prioritize primary documents and reputable reporting.
+
+
+## References

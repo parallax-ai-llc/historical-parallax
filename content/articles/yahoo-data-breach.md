@@ -22,7 +22,7 @@ All 3 billion Yahoo user accounts were compromised in the largest data breach in
 | 2013 | 3 billion accounts breached |
 | 2017 | Full extent revealed |
 
-## References
+
 
 [^1]: Wikipedia, "Yahoo Data Breach" - https://en.wikipedia.org/wiki/Yahoo_Data_Breach
 
@@ -51,3 +51,6 @@ All 3 billion Yahoo user accounts were compromised in the largest data breach in
 ## Notes
 
 In many summaries, the Yahoo incidents are discussed alongside a separate 2014 breach; readers should distinguish between incidents, disclosures, and later scope revisions.
+
+
+## References

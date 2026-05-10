@@ -23,7 +23,7 @@ Data breach at Capital One in 2019 that exposed personal information of 106 mill
 | 2019 | Thompson arrested |
 | 2022 | Thompson convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Capital One Data Breach" - https://en.wikipedia.org/wiki/Capital_One_Data_Breach
 
@@ -49,3 +49,6 @@ Data breach at Capital One in 2019 that exposed personal information of 106 mill
 - Strong identity and access management, including least privilege, is critical in cloud environments.
 - Continuous monitoring and alerting can reduce dwell time between intrusion and detection.
 - Post-incident transparency and structured remediation plans help rebuild stakeholder trust.
+
+
+## References

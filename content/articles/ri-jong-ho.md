@@ -22,7 +22,7 @@ High-ranking North Korean defector who managed Bureau 39, the regime's secret of
 | 1990 | Managed Bureau 39 operations |
 | 2014 | Defected to South Korea |
 
-## References
+
 
 [^1]: Wikipedia, "Ri Jong-ho" - https://en.wikipedia.org/wiki/Ri_Jong-ho
 
@@ -55,3 +55,5 @@ Accounts involving Bureau 39 are frequently cited in discussions of:
 ## References
 
 [^2]: U.S. Treasury / sanctions-related releases (context on DPRK revenue networks) - https://home.treasury.gov/
+
+

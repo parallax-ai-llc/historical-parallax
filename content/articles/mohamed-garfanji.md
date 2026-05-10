@@ -23,7 +23,7 @@ Somali pirate leader who commanded the hijacking of MV Faina, a Ukrainian ship c
 | 2008 | Demanded $35 million ransom |
 | 2009 | Received $3.2 million ransom after 134-day standoff |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Garfanji" - https://en.wikipedia.org/wiki/Mohamed_Garfanji
 
@@ -48,3 +48,6 @@ Somali pirate leader who commanded the hijacking of MV Faina, a Ukrainian ship c
 - Somali piracy
 - Gulf of Aden maritime security
 - MV *Faina* hijacking
+
+
+## References

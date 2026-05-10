@@ -24,7 +24,7 @@ Former Korean Air chairman convicted of embezzling company funds. His family bec
 | 2018 | Convicted of embezzlement |
 | 2019 | Died before appeals concluded |
 
-## References
+
 
 [^1]: Wikipedia, "Cho Yang-ho Korean Air" - https://en.wikipedia.org/wiki/Cho_Yang-ho_Korean_Air
 
@@ -50,3 +50,6 @@ Former Korean Air chairman convicted of embezzling company funds. His family bec
 - **Main public controversies:** corporate governance disputes and high-profile family scandals
 - **Commonly cited event:** 2014 "nut rage" incident (family member)
 - **Jurisdiction:** South Korea
+
+
+## References

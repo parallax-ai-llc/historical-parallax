@@ -5,7 +5,7 @@ birth: "1992-06-20"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Archer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/KimWoojin-230903-SBSRadio.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Woo-jin"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Kim Woo-jin won Olympic gold in team archery at 2012 and 2016 and set world reco
 | 2012 | Won team gold at London |
 | 2016 | Won team gold at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Woo-jin" - https://en.wikipedia.org/wiki/Kim_Woo-jin
 
@@ -54,3 +54,6 @@ Kim Woo-jin is frequently cited among South Korea's top archers of his era due t
 
 - World Archery athlete profiles and event results
 - Olympic archery competition reports and match brackets
+
+
+## References

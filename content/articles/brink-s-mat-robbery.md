@@ -22,7 +22,7 @@ One of Britain's biggest robberies where £26 million in gold bullion was stolen
 | 1983 | £26 million gold stolen from Brink's-Mat warehouse |
 | 1984 | Accomplices convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Brink's-Mat robbery" - https://en.wikipedia.org/wiki/Brink's-Mat_robbery
 
@@ -56,3 +56,6 @@ One of Britain's biggest robberies where £26 million in gold bullion was stolen
 
 - High-value commodity thefts often generate long investigative tails due to the need to trace financial flows rather than the physical goods.
 - Partial recoveries do not necessarily reduce harm when laundering embeds stolen value into legitimate markets.
+
+
+## References

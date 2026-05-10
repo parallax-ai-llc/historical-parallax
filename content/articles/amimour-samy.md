@@ -22,7 +22,7 @@ One of three ISIS attackers who massacred 90 people at the Bataclan theatre duri
 | 2015 | Participated in Bataclan massacre killing 90 |
 | 2015 | Died detonating suicide vest |
 
-## References
+
 
 [^1]: Wikipedia, "Amimour Samy" - https://en.wikipedia.org/wiki/Amimour_Samy
 
@@ -67,3 +67,6 @@ Public coverage of individual attackers in the Paris attacks frequently emphasiz
 
 - Biographical claims about motivations, communications, or specific operational orders should be treated carefully and attributed to official findings (court records, indictments, or credible investigative reporting).
 - When adding details, distinguish clearly between **confirmed facts** and **reported allegations**.
+
+
+## References

@@ -19,7 +19,7 @@ Elliot Rodger killed 6 and injured 14 in Isla Vista, California on May 23, 2014.
 |------|-------|
 | 1991 | Born |
 
-## References
+
 [^1]: Wikipedia — "2014 Isla Vista killings" https://en.wikipedia.org/wiki/2014_Isla_Vista_killings
 [^2]: Santa Barbara County Sheriff's Office / law-enforcement releases and case summaries (2014).
 [^3]: U.S. Department of Justice / academic literature on online misogyny and targeted violence that cites the case.
@@ -77,3 +77,6 @@ Elliot Rodger killed 6 and injured 14 in Isla Vista, California on May 23, 2014.
 - Behavioral indicators: leakage, explicit planning cues, and changes in day-to-day functioning that can be missed by peers or institutions.
 - Prevention approach: multi-agency coordination, family/community reporting, and clear escalation protocols.
 
+
+
+## References

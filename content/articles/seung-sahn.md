@@ -5,7 +5,7 @@ birth: "1927-08-01"
 death: "2004-11-30"
 nationality: "Korean"
 occupation: ["Zen Master", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/ZMSS.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seung_Sahn"
 lastUpdated: "2026-02-21"

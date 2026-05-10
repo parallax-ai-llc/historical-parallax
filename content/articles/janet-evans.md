@@ -23,7 +23,7 @@ Janet Evans won four Olympic gold medals in distance freestyle and held the 800m
 | 1992 | Won gold at Barcelona |
 | 2012 | Carried Olympic torch at LA pool |
 
-## References
+
 
 [^1]: Wikipedia, "Janet Evans" - https://en.wikipedia.org/wiki/Janet_Evans
 
@@ -51,3 +51,6 @@ Evans is remembered as one of the great American distance swimmers, with Olympic
 
 - 1988: Breakout Olympic performance in Seoul
 - 1992: Continued success with another Olympic gold
+
+
+## References

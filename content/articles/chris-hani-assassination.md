@@ -21,7 +21,7 @@ SACP leader Chris Hani was assassinated by a Polish immigrant and a Conservative
 |------|-------|
 | 1993 | Assassinated outside his home |
 
-## References
+
 
 [^1]: Wikipedia, "Chris Hani Assassination" - https://en.wikipedia.org/wiki/Chris_Hani_Assassination
 
@@ -64,3 +64,6 @@ SACP leader Chris Hani was assassinated by a Polish immigrant and a Conservative
 - South Africa negotiations to end apartheid
 - South African Communist Party (SACP)
 - Political violence in South Africa (late apartheid period)
+
+
+## References

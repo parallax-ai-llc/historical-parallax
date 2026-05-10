@@ -21,7 +21,7 @@ Saudi intelligence official implicated in the murder of journalist Jamal Khashog
 |------|-------|
 | 2018 | Implicated in Khashoggi assassination |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmad Al Assiri" - https://en.wikipedia.org/wiki/Ahmad_Al_Assiri
 
@@ -63,3 +63,6 @@ Saudi intelligence official implicated in the murder of journalist Jamal Khashog
 ## Additional References
 
 - Wikipedia (overview and citations): https://en.wikipedia.org/wiki/Ahmad_Al_Assiri
+
+
+## References

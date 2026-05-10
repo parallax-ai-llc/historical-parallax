@@ -23,7 +23,7 @@ Austrian woman imprisoned by her father Josef Fritzl in a cellar for 24 years st
 | 2008 | Discovered when daughter needed hospital treatment |
 | 2009 | Josef Fritzl sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Elizabeth Fritzl" - https://en.wikipedia.org/wiki/Elizabeth_Fritzl
 
@@ -50,3 +50,6 @@ The Fritzl case is frequently referenced in discussions of:
 ## Notes on Terminology
 
 Because Elizabeth Fritzl is primarily known publicly as a survivor rather than for a profession or public role, summaries often frame her as a kidnapping and abuse victim. Many advocates prefer language that centers survival and agency while still accurately describing the harm.
+
+
+## References

@@ -21,7 +21,7 @@ Belgian police cracked Sky ECC encrypted phones, leading to 800+ arrests and sei
 |------|-------|
 | 2021 | 800+ arrests from intercepted messages |
 
-## References
+
 
 [^1]: Wikipedia, "Sky ECC Hack" - https://en.wikipedia.org/wiki/Sky_ECC_Hack
 
@@ -52,3 +52,6 @@ Because the investigation crossed borders and relied on encrypted-message interc
 ## Broader context
 
 Sky ECC Hack is frequently discussed alongside similar law-enforcement operations targeting encrypted communication networks used by criminals (e.g., EncroChat) and illustrates an ongoing “cat-and-mouse” dynamic between secure-communications providers and investigative agencies.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1897-03-01"
 death: "1957-11-04"
 nationality: "Persian-British"
 occupation: ["Religious Leader", "Translator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Shoghi_Effendi2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shoghi_Effendi"
 lastUpdated: "2026-02-21"

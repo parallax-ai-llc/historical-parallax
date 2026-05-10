@@ -5,7 +5,7 @@ birth: "1911-10-26"
 death: "2004-12-03"
 nationality: "Chinese"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Shiing-shen_Chern_1988_%28re-scanned%29_%28cropped-1%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shiing-Shen_Chern"
 lastUpdated: "2026-02-21"

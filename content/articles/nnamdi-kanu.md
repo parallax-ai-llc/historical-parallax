@@ -24,7 +24,7 @@ Nigerian-British leader of the Indigenous People of Biafra (IPOB) separatist mov
 | 2021 | Extraordinary rendition from Kenya to Nigeria |
 | 2024 | Trial ongoing in Nigeria |
 
-## References
+
 
 [^1]: Wikipedia, "Nnamdi Kanu" - https://en.wikipedia.org/wiki/Nnamdi_Kanu
 
@@ -51,3 +51,6 @@ Kanu’s prominence is often discussed against the backdrop of the historical **
 ## Notes
 
 This article summarizes widely reported themes; specific legal findings depend on court records and rulings in the relevant jurisdictions.
+
+
+## References

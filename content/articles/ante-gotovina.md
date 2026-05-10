@@ -24,7 +24,7 @@ Croatian army general initially convicted by the ICTY for war crimes during Oper
 | 2011 | Convicted of war crimes |
 | 2012 | Acquitted on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Ante Gotovina" - https://en.wikipedia.org/wiki/Ante_Gotovina
 
@@ -48,3 +48,6 @@ Following acquittal and release, Gotovina returned to Croatia and lived largely 
 - ICTY (International Criminal Tribunal for the former Yugoslavia)
 - Laws of armed conflict and command responsibility
 - Post-Yugoslav war crimes prosecutions
+
+
+## References

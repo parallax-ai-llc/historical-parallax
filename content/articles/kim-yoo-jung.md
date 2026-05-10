@@ -3,6 +3,7 @@ name: "Kim Yoo-jung"
 birth: "1999-09-22"
 nationality: "South Korean"
 occupation: ["Actress", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Kim_Yoo-jung_in_October_2025_02.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Yoo-jung"
 lastUpdated: "2026-03-12"

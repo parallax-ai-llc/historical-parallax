@@ -23,7 +23,7 @@ Vice President of Equatorial Guinea and son of dictator Obiang. He is known for 
 | 2016 | Appointed Vice President |
 | 2021 | $16 million in seized assets auctioned by France |
 
-## References
+
 
 [^1]: Wikipedia, "Teodoro Nguema Obiang Mangue" - https://en.wikipedia.org/wiki/Teodoro_Nguema_Obiang_Mangue
 
@@ -48,3 +48,6 @@ Vice President of Equatorial Guinea and son of dictator Obiang. He is known for 
 ## Further Reading
 
 - See the reference link(s) above for expanded detail and primary sourcing.
+
+
+## References

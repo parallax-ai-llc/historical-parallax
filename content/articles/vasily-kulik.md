@@ -23,7 +23,7 @@ Russian serial killer who murdered at least 13 elderly women in the Krasnodar re
 | 1995 | Arrested by Russian authorities |
 | 1997 | Sentenced to death, commuted to life |
 
-## References
+
 
 [^1]: Wikipedia, "Vasily Kulik" - https://en.wikipedia.org/wiki/Vasily_Kulik
 
@@ -48,3 +48,6 @@ The case is frequently cited in discussions of how criminal investigations in th
 Most widely circulated summaries rely on secondary compilation (encyclopedic entries and media retrospectives). When expanding biographical detail, it is generally necessary to distinguish between confirmed court findings and narrative details that appear only in later retellings.
 
 This article focuses on high-level, commonly repeated elements of the case rather than contested specifics.
+
+
+## References

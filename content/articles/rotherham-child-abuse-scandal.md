@@ -23,7 +23,7 @@ Organized child sexual exploitation in Rotherham, England from 1997-2013 in whic
 | 2014 | Jay Report revealed 1,400 victims |
 | 2016 | Multiple convictions |
 
-## References
+
 
 [^1]: Wikipedia, "Rotherham Child Abuse Scandal" - https://en.wikipedia.org/wiki/Rotherham_Child_Abuse_Scandal
 
@@ -55,3 +55,6 @@ Organized child sexual exploitation in Rotherham, England from 1997-2013 in whic
 ## Notes on Reporting
 
 - Victim estimates and timelines are drawn from inquiry findings and may differ from counts based solely on convictions.
+
+
+## References

@@ -21,7 +21,7 @@ Crypto trader convicted of manipulating the Mango Markets protocol to steal $110
 |------|-------|
 | 2022 | Manipulated Mango Markets for $110 million |
 
-## References
+
 
 [^1]: Wikipedia, "Avraham Eisenberg" - https://en.wikipedia.org/wiki/Avraham_Eisenberg
 
@@ -54,3 +54,6 @@ Crypto trader convicted of manipulating the Mango Markets protocol to steal $110
 - **DeFi**: Decentralized finance applications running on blockchains.
 - **Oracle / price feed**: Mechanisms used to determine asset prices for collateral and liquidation logic.
 - **Perpetual futures (perps)**: Derivatives with no expiry, typically using funding payments to track spot prices.
+
+
+## References

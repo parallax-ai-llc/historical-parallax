@@ -21,7 +21,7 @@ PM Thaksin Shinawatra's 3-month drug war killed approximately 2,800 people. Huma
 |------|-------|
 | 2003 | 2,800 killed in drug war |
 
-## References
+
 
 [^1]: Wikipedia, "Thai Drug War 2003" - https://en.wikipedia.org/wiki/Thai_Drug_War_2003
 
@@ -50,3 +50,6 @@ PM Thaksin Shinawatra's 3-month drug war killed approximately 2,800 people. Huma
 ## Further Reading
 
 [^2]: Human Rights Watch coverage and reports on Thailand’s 2003 anti-drug campaign (overview) - https://www.hrw.org/
+
+
+## References

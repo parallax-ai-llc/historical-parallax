@@ -21,7 +21,7 @@ Norwegian mayor convicted of sexual abuse of a minor while in office.
 |------|-------|
 | 2013 | Convicted of sexual abuse of minor |
 
-## References
+
 
 [^1]: Wikipedia, "Rune Øygard" - https://en.wikipedia.org/wiki/Rune_%C3%98ygard
 
@@ -51,3 +51,6 @@ Norwegian mayor convicted of sexual abuse of a minor while in office.
 - Misconduct by public officials
 - Child protection and safeguarding in institutions
 - Political accountability and ethics
+
+
+## References

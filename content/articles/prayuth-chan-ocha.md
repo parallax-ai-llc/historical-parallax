@@ -22,7 +22,7 @@ Thai general who seized power in a 2014 coup and imposed martial law. He banned 
 | 2014 | Led military coup overthrowing elected government |
 | 2019 | Became PM through elections held under military-drafted constitution |
 
-## References
+
 
 [^1]: Wikipedia, "Prayuth Chan-ocha" - https://en.wikipedia.org/wiki/Prayuth_Chan-ocha
 
@@ -49,3 +49,6 @@ Following the 2023 general election and the formation of a new government, Prayu
 ## Historical Significance
 
 Prayuth is often discussed as part of a broader pattern in Thai politics where the military has repeatedly intervened in civilian governance, shaping institutions and limiting the scope of electoral mandates.
+
+
+## References

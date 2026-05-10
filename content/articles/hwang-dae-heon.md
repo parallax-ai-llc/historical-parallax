@@ -43,7 +43,7 @@ Hwang Dae-heon won 1,500m gold at 2022 Beijing after a controversial 1,000m disq
 - Men’s **1,500m** short track (Olympics)
 - Men’s **5,000m relay** short track (Olympics)
 
-## References
+
 
 [^1]: Wikipedia, "Hwang Dae-heon" - https://en.wikipedia.org/wiki/Hwang_Dae-heon
 
@@ -51,3 +51,6 @@ Hwang Dae-heon won 1,500m gold at 2022 Beijing after a controversial 1,000m disq
 
 - This article is intentionally high-level; consult official ISU result PDFs and Olympic result pages for event-by-event placements.
 - Names may appear with different romanizations across sources (e.g., spacing and hyphenation).
+
+
+## References

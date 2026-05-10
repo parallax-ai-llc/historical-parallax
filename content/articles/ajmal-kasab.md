@@ -23,7 +23,7 @@ Pakistani terrorist who was the only attacker captured alive from the 2008 Mumba
 | 2010 | Convicted of murder; sentenced to death |
 | 2012 | Executed by hanging at Yerwada Jail |
 
-## References
+
 
 [^1]: Wikipedia, "Ajmal Kasab" - https://en.wikipedia.org/wiki/Ajmal_Kasab
 
@@ -48,3 +48,6 @@ Because Kasab survived the initial operation and was prosecuted in court, the ca
 ## Notes on sources
 
 Most publicly available details about Kasab’s biography and actions come from court proceedings, investigative reporting, and government filings summarized in secondary sources. High-level summaries can vary in emphasis depending on jurisdiction and publication context.
+
+
+## References

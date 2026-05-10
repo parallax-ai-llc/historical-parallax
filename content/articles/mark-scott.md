@@ -21,7 +21,7 @@ American lawyer convicted of laundering $400 million for OneCoin cryptocurrency 
 |------|-------|
 | 2019 | Convicted of laundering OneCoin proceeds |
 
-## References
+
 
 [^1]: Wikipedia, "Mark Scott" - https://en.wikipedia.org/wiki/Mark_Scott
 
@@ -61,3 +61,6 @@ High-level descriptions in public reporting describe Scott as helping move large
 
 [^2]: U.S. Department of Justice (DOJ) — Press releases and case updates related to OneCoin (search portal) - https://www.justice.gov/opa/pr
 [^3]: U.S. Attorney’s Office, Southern District of New York (SDNY) — Public filings and press releases (search portal) - https://www.justice.gov/usao-sdny
+
+
+## References

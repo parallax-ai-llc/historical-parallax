@@ -22,7 +22,7 @@ Former Khmer Rouge naval commander accused of overseeing the execution of thousa
 | 1975 | Commanded Khmer Rouge navy involved in atrocities |
 | 2018 | Investigation closed without prosecution despite evidence |
 
-## References
+
 
 [^1]: Wikipedia, "Meas Muth" - https://en.wikipedia.org/wiki/Meas_Muth
 
@@ -49,3 +49,6 @@ Former Khmer Rouge naval commander accused of overseeing the execution of thousa
 - Extraordinary Chambers in the Courts of Cambodia (ECCC)
 - Khmer Rouge security system (including S-21/Tuol Sleng)
 - Transitional justice and hybrid tribunals
+
+
+## References

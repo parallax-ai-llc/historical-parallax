@@ -22,7 +22,7 @@ Duplicate of Srinivasa Ramanujan.
 | 1887 | Born |
 | 1920 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Ramanujan Srinivasa" - https://en.wikipedia.org/wiki/Ramanujan_Srinivasa
 
@@ -55,3 +55,6 @@ Ramanujan's health deteriorated during his time in England and after his return 
 ## Additional References
 
 [^2]: Wikipedia, "Srinivasa Ramanujan" - https://en.wikipedia.org/wiki/Srinivasa_Ramanujan
+
+
+## References

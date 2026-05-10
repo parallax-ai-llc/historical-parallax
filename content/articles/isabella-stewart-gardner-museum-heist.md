@@ -20,7 +20,7 @@ The Isabella Stewart Gardner Museum heist on March 18, 1990, was the largest pro
 |------|-------|
 | 1990-03-18 | Event occurred |
 
-## References
+
 [^1]: Historical and journalistic sources.
 
 ## Background
@@ -54,3 +54,6 @@ The Isabella Stewart Gardner Museum heist on March 18, 1990, was the largest pro
 - **Social engineering**: The heist is frequently cited as an example of how impersonation and authority cues can bypass physical security.
 - **Guard protocols**: Clear procedures for verifying identity and handling after-hours access requests are critical.
 - **Defense in depth**: Redundant layers—trained staff, monitored alarms, controlled access, and rapid response—reduce the likelihood that a single failure enables a large-scale loss.
+
+
+## References

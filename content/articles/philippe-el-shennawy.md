@@ -23,7 +23,7 @@ French career criminal who spent over 38 years in prison, much of it in solitary
 | 1983 | Sentenced to life imprisonment |
 | 2019 | Released after serving 38 years |
 
-## References
+
 
 [^1]: Wikipedia, "Philippe El Shennawy" - https://en.wikipedia.org/wiki/Philippe_El_Shennawy
 
@@ -52,3 +52,6 @@ Most short biographies rely on secondary summaries. For historical detail, Frenc
 ## Additional References
 
 [^2]: Secondary reporting and commentary on French solitary confinement and long-term detention debates, often citing the case as an example.
+
+
+## References

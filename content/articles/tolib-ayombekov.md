@@ -21,7 +21,7 @@ Tajik warlord and drug trafficker who controlled smuggling routes through the Go
 |------|-------|
 | 2012 | Implicated in killing of Tajik general |
 
-## References
+
 
 [^1]: Wikipedia, "Tolib Ayombekov" - https://en.wikipedia.org/wiki/Tolib_Ayombekov
 
@@ -58,3 +58,6 @@ Ayombekov's public profile is often used as an example of:
 ## Further reading
 
 [^2]: Wikipedia, "2012 Gorno-Badakhshan clashes" - https://en.wikipedia.org/wiki/2012_Gorno-Badakhshan_clashes
+
+
+## References

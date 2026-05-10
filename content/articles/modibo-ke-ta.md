@@ -22,7 +22,7 @@ First President of Mali who established a socialist one-party state. Overthrown 
 | 1960 | Became first president |
 | 1977 | Died in detention |
 
-## References
+
 
 [^1]: Wikipedia, "Modibo Keïta" - https://en.wikipedia.org/wiki/Modibo_Ke%C3%AFta
 
@@ -53,3 +53,6 @@ Keïta is referenced in debates about:
 ## Further reading
 
 - Wikipedia overview and citations in the linked entry[^1]
+
+
+## References

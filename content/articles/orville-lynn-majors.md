@@ -23,7 +23,7 @@ American nurse who murdered at least 6 patients at Vermillion County Hospital in
 | 1997 | Arrested |
 | 2017 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Orville Lynn Majors" - https://en.wikipedia.org/wiki/Orville_Lynn_Majors
 
@@ -57,3 +57,6 @@ The Majors case is often cited in discussions of:
 
 - Health care serial killers
 - Hospital medication safety and auditing
+
+
+## References

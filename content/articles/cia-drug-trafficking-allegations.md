@@ -23,7 +23,7 @@ Allegations that the CIA facilitated drug trafficking during the Cold War to fun
 | 1980s | Contras linked to cocaine |
 | 1998 | CIA Inspector General confirmed contacts |
 
-## References
+
 
 [^1]: Wikipedia, "CIA drug trafficking allegations" - https://en.wikipedia.org/wiki/CIA_drug_trafficking_allegations
 
@@ -55,3 +55,6 @@ The controversy persists because the evidence base mixes:
 - and political incentives on all sides to either exaggerate or minimize institutional responsibility.
 
 A careful treatment typically distinguishes between **direct agency direction**, **indirect complicity**, and **unrelated criminality** by actors operating in the same theaters.
+
+
+## References

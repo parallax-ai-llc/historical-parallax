@@ -21,7 +21,7 @@ See Markus Braun. German fintech company that fabricated €1.9 billion in asset
 |------|-------|
 | 2020 | Collapsed |
 
-## References
+
 
 [^1]: Wikipedia, "Wirecard AG" - https://en.wikipedia.org/wiki/Wirecard_AG
 
@@ -82,3 +82,6 @@ The summary line “See Markus Braun” indicates a key executive associated wit
 ## References (additional)
 
 [^2]: Contemporary investigative reporting and official inquiry materials (parliamentary and regulatory), as cited and linked from the Wikipedia article and related public records.
+
+
+## References

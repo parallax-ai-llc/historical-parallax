@@ -19,7 +19,7 @@ Dylan Klebold with Eric Harris carried out the Columbine massacre, killing 13 pe
 |------|-------|
 | 1981 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -60,3 +60,6 @@ Dylan Klebold with Eric Harris carried out the Columbine massacre, killing 13 pe
 [^2]: Columbine High School massacre overview and primary links: https://en.wikipedia.org/wiki/Columbine_High_School_massacre
 [^3]: Dave Cullen, *Columbine* (2009).
 [^4]: Sue Klebold, *A Mother’s Reckoning* (2016).
+
+
+## References

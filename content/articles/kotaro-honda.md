@@ -5,7 +5,7 @@ birth: "1870-02-23"
 death: "1954-02-12"
 nationality: "Japanese"
 occupation: ["Physicist", "Metallurgist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Kotaro_Honda.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kotaro_Honda"
 lastUpdated: "2026-02-21"

@@ -44,10 +44,13 @@ Former Governor of Enugu State charged with laundering $105 million in stolen st
 - Corruption investigations involving Nigerian state officials often intersect with domestic anti-corruption agencies, international banking compliance, and cross-border legal cooperation.
 - High-profile cases can also be shaped by political alignments and changes in prosecutorial priorities over time.
 
-## References
+
 
 [^1]: Wikipedia, "Chimaroke Nnamani" - https://en.wikipedia.org/wiki/Chimaroke_Nnamani
 
 ## See also
 
 - Enugu State politics (Fourth Republic)
+
+
+## References

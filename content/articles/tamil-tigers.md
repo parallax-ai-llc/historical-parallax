@@ -21,7 +21,7 @@ See Velupillai Prabhakaran. Sri Lankan separatist group. Duplicate entry.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Tamil Tigers" - https://en.wikipedia.org/wiki/Tamil_Tigers
 
@@ -52,3 +52,6 @@ Wikipedia and related public reporting describe the LTTE as using guerrilla warf
 ## Notes on the Duplicate Mention
 
 This file previously pointed readers to **Velupillai Prabhakaran** (the group’s leader) as a canonical entry. This page can still serve as a high-level index for the organization as an entity distinct from any single individual.
+
+
+## References

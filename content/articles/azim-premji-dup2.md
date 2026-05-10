@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1945 | See Azim Premji |
 
-## References
+
 
 [^1]: Wikipedia, "Azim Premji dup2" - https://en.wikipedia.org/wiki/Azim_Premji_dup2
 
@@ -61,3 +61,6 @@ This page exists as a *duplicate placeholder* in the dataset. The canonical biog
 
 [^2]: Wikipedia, "Azim Premji" - https://en.wikipedia.org/wiki/Azim_Premji
 [^3]: Azim Premji Foundation - https://azimpremjifoundation.org/
+
+
+## References

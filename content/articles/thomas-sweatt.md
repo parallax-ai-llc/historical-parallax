@@ -21,7 +21,7 @@ Washington DC serial arsonist who set over 350 fires killing two people over a 2
 |------|-------|
 | 2005 | Convicted of setting 350+ fires |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Sweatt" - https://en.wikipedia.org/wiki/Thomas_Sweatt
 
@@ -49,3 +49,6 @@ Large-scale serial arson cases can have outsized civic impact: repeated incident
 
 - The most widely cited public summary of the case describes “350+” fires and two deaths over approximately 20 years; exact counts and attribution can vary by how incidents are defined and charged.[^1]
 - Further details (specific incidents, investigative milestones, and sentencing specifics) are best sourced directly from contemporaneous court records and local reporting; this article relies on the overview available in the listed reference.[^1]
+
+
+## References

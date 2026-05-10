@@ -1,6 +1,6 @@
 ---
 id: "seo-jae-pil"
-name: "徐載弼"
+name: "徐载弼"
 birth: "1864-01-07"
 death: "1951-01-05"
 nationality: "Korean-American"
@@ -11,9 +11,9 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 简介
+## 摘要
 
-徐载弼（Philip Jaisohn）是第一位入籍美国成为美国公民的韩国人，也是第一位获得美国医学学位的韩国人。他创办了韩国第一家现代报纸（《独立新闻》），并向韩国读者介绍了现代科学概念。他倡导科学思维对于韩国的独立和现代化至关重要。
+徐载弼（Philip Jaisohn）是第一位入籍美国的美籍韩裔，也是第一位获得美国医学学位的韩国人。他创办了韩国第一份现代报纸（《独立新闻》），并向韩国读者介绍了现代科学概念。他倡导科学思维对于韩国的独立和现代化至关重要。
 
 ## 职业生涯时间线
 
@@ -26,6 +26,6 @@ lastUpdated: "2026-02-21"
 | 1898 | 推广科学教育 |
 | 1951 | 在费城去世 |
 
-## 参考文献
+## 参考资料
 
-[^1]: 维基百科，“徐载弼” - https://en.wikipedia.org/wiki/Seo_Jae-pil
+[^1]: Wikipedia, "Seo Jae-pil" - https://en.wikipedia.org/wiki/Seo_Jae-pil

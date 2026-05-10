@@ -44,10 +44,13 @@ Sinaloa Cartel leader known as 'El Ondeado' who controlled drug trafficking in S
 - The period in which Torres Félix operated overlapped with intensified conflict between the Mexican state and drug trafficking organizations.
 - Analysts often link these dynamics to spikes in violence, local displacement, and shifts in cartel structure.
 
-## References
+
 
 [^1]: Wikipedia, "Manuel Torres Félix" - https://en.wikipedia.org/wiki/Manuel_Torres_F%C3%A9lix
 
 ## Notes
 
 - Many profiles of cartel figures rely on a mix of court filings, press reports, and official statements; specific attributions can differ across sources.
+
+
+## References

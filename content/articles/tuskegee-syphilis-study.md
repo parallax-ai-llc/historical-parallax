@@ -23,7 +23,7 @@ Unethical US government study from 1932-1972 where 600 Black men were studied fo
 | 1972 | Exposed by journalist |
 | 1997 | President Clinton apologized |
 
-## References
+
 
 [^1]: Wikipedia, "Tuskegee Syphilis Study" - https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study
 
@@ -53,3 +53,6 @@ The Tuskegee Study refers to a long-running U.S. Public Health Service study (be
 - Date/period: see the summary and timeline above.
 - Place: see the summary above.
 - Key actors: see the summary above.
+
+
+## References

@@ -21,7 +21,7 @@ Unidentified man who stood in front of a column of tanks during the Tiananmen Sq
 |------|-------|
 | 1989 | Stood in front of tanks at Tiananmen |
 
-## References
+
 
 [^1]: Wikipedia, "Tank Man" - https://en.wikipedia.org/wiki/Tank_Man
 
@@ -50,3 +50,6 @@ The man’s **identity and fate remain unknown**. Over the years, various claims
 "Tank Man" has been widely interpreted as a symbol of individual moral courage and civil resistance. The image is frequently referenced in discussions of state power, censorship, and the global media’s role in shaping collective memory.
 
 In the context of contemporary politics, the image has also become a touchstone in debates over historical narrative and the availability of information about the 1989 events.
+
+
+## References

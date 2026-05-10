@@ -21,7 +21,7 @@ A five-story building under demolition collapsed onto a city bus in Gwangju, kil
 |------|-------|
 | 2021 | 9 killed when building fell on bus |
 
-## References
+
 
 [^1]: Wikipedia, "Gwangju Building Collapse" - https://en.wikipedia.org/wiki/Gwangju_Building_Collapse
 
@@ -57,3 +57,6 @@ A five-story building under demolition collapsed onto a city bus in Gwangju, kil
 ## Notes
 
 This article summarizes high-level, widely reported aspects of the incident and is intended as a factual overview rather than a comprehensive legal record.
+
+
+## References

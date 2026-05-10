@@ -23,7 +23,7 @@ Afghan militant leader who heads the Haqqani network and became Taliban interior
 | 2008 | Network bombed Indian embassy in Kabul killing 58 |
 | 2021 | Became interior minister in Taliban government |
 
-## References
+
 
 [^1]: Wikipedia, "Sirajuddin Haqqani" - https://en.wikipedia.org/wiki/Sirajuddin_Haqqani
 
@@ -50,3 +50,6 @@ Sirajuddin Haqqani is often treated as a case study of how militant leaders can 
 ## Governance and legitimacy challenges
 
 When an insurgent movement becomes a governing authority, security ministries must manage everyday policing, bureaucratic staffing, and public-service expectations while also dealing with internal factional politics. International isolation and sanctions can further constrain access to financial systems and technical assistance, shaping how ministries operate and how officials are able to travel or engage diplomatically.
+
+
+## References

@@ -23,7 +23,7 @@ ISIS attacks across Paris on November 13, 2015 killing 130 at the Bataclan, Stad
 | 2015 | 130 killed |
 | 2022 | Defendants convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Paris November 2015 Attacks" - https://en.wikipedia.org/wiki/Paris_November_2015_Attacks
 
@@ -50,3 +50,6 @@ The attacks are commemorated annually in France, with particular attention to th
 ## Further Reading
 
 In addition to encyclopedic summaries, official French court materials and reputable investigative reporting provide more detailed timelines and institutional context.
+
+
+## References

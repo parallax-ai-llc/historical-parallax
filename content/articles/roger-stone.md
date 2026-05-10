@@ -21,7 +21,7 @@ Trump associate convicted of witness tampering, obstruction, and lying to Congre
 |------|-------|
 | 2019 | Convicted of obstruction and lying |
 
-## References
+
 
 [^1]: Wikipedia, "Roger Stone" - https://en.wikipedia.org/wiki/Roger_Stone
 
@@ -59,3 +59,6 @@ Trump associate convicted of witness tampering, obstruction, and lying to Congre
 
 [^2]: Wikipedia, "Roger Stone" (sections on early life, political career, and lobbying) - https://en.wikipedia.org/wiki/Roger_Stone
 [^3]: Wikipedia, "Roger Stone" (sections on arrest, trial, sentencing, commutation, and pardon) - https://en.wikipedia.org/wiki/Roger_Stone
+
+
+## References

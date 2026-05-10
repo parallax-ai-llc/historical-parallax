@@ -23,7 +23,7 @@ Tadahiro Nomura won three consecutive Olympic judo golds (1996-2004).
 | 2000 | Won gold at Sydney |
 | 2004 | Won gold at Athens |
 
-## References
+
 
 [^1]: Wikipedia, "Tadahiro Nomura" - https://en.wikipedia.org/wiki/Tadahiro_Nomura
 
@@ -54,3 +54,6 @@ After his competitive peak, Nomura remained a well-known figure in Japanese spor
 ## References (additional)
 
 [^2]: International Judo Federation and Olympic athlete-result databases (for event-by-event records)
+
+
+## References

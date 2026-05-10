@@ -22,7 +22,7 @@ Indian serial killer who with her sister Renuka Shinde kidnapped and killed 13 c
 | 1990 | Kidnapped and killed children across Maharashtra |
 | 2014 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Seema Gavit" - https://en.wikipedia.org/wiki/Seema_Gavit
 
@@ -51,3 +51,6 @@ The case attracted significant media coverage due to the number of victims, the 
 ## Notes
 
 Details may differ across reports; consult court documents and multiple outlets for precise counts and dates.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1516-03-26"
 death: "1565-12-13"
 nationality: "Swiss"
 occupation: ["Naturalist", "Physician", "Bibliographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Conrad_Gesner_by_Tobias_Stimmer2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Konrad_Gesner"
 lastUpdated: "2026-02-21"

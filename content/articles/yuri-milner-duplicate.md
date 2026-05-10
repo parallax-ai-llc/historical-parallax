@@ -41,7 +41,7 @@ Duplicate.
   - Sponsorship and organization of high-visibility awards/events in science and technology.
 - Reporting about major investors may also discuss cross-border networks, funding sources, and geopolitical context; summaries should distinguish verifiable corporate roles from commentary.
 
-## References
+
 
 [^1]: Wikipedia, "Yuri Milner duplicate" - https://en.wikipedia.org/wiki/Yuri_Milner_duplicate
 [^2]: Wikipedia, "Yuri Milner" - https://en.wikipedia.org/wiki/Yuri_Milner
@@ -50,3 +50,6 @@ Duplicate.
 
 - If this duplicate record is retained, it should avoid introducing contradictory biographical facts.
 - A minimal approach is to keep the identifier stable and provide a clear pointer to the canonical entry.
+
+
+## References

@@ -21,7 +21,7 @@ Marshall Islands politician convicted of corruption and embezzlement of US compa
 |------|-------|
 | 2008 | Convicted of embezzling compact funds |
 
-## References
+
 
 [^1]: Wikipedia, "Messulam Riklon" - https://en.wikipedia.org/wiki/Messulam_Riklon
 
@@ -49,3 +49,6 @@ Marshall Islands politician convicted of corruption and embezzlement of US compa
 
 - This entry currently relies on the short description and the single reference link listed above.
 - If additional reputable sources become available (e.g., court records, contemporaneous reporting, or official audit summaries), they can be used to expand specifics such as office held, case docket details, sentence, and restitution.
+
+
+## References

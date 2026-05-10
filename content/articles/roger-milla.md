@@ -22,7 +22,7 @@ Roger Milla led Cameroon to the 1990 WC quarter-finals at 38 and scored at the 1
 | 1990 | Led Cameroon to WC quarter-finals |
 | 1994 | Scored at WC at 42 |
 
-## References
+
 
 [^1]: Wikipedia, "Roger Milla" - https://en.wikipedia.org/wiki/Roger_Milla
 
@@ -51,3 +51,6 @@ Roger Milla led Cameroon to the 1990 WC quarter-finals at 38 and scored at the 1
 
 - One of the most iconic players associated with Cameroon’s breakthrough on the World Cup stage.
 - Frequently referenced as a benchmark for age-related records in international football.
+
+
+## References

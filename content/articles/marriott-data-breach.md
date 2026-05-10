@@ -23,7 +23,7 @@ Data breach at Marriott International discovered in 2018 that exposed personal i
 | 2018 | Breach discovered |
 | 2020 | Chinese military hackers suspected |
 
-## References
+
 
 [^1]: Wikipedia, "Marriott Data Breach" - https://en.wikipedia.org/wiki/Marriott_Data_Breach
 
@@ -50,3 +50,6 @@ Common takeaways include the need for network segmentation, centralized logging,
 ## Longer-term impact
 
 Beyond immediate incident response, breaches like this often drive multi-year programs: migrating off legacy platforms, standardizing identity and access management, and improving vendor risk management across large franchise ecosystems.
+
+
+## References

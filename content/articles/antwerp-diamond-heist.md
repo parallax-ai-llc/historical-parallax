@@ -23,7 +23,7 @@ Robbery of the Antwerp Diamond Centre on February 16, 2003 that netted over $100
 | 2003 | Leonardo Notarbartolo arrested |
 | 2005 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Antwerp Diamond Heist" - https://en.wikipedia.org/wiki/Antwerp_Diamond_Heist
 
@@ -51,3 +51,6 @@ The Antwerp Diamond Heist is frequently cited in popular and security-oriented r
 ## Notes
 
 Estimates of the total value vary by source and methodology (insurance, retail vs. trade valuation).
+
+
+## References

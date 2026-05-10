@@ -22,7 +22,7 @@ Woo Jang-chun demonstrated the triangle of U theory for Brassica species relatio
 | 1935 | Published triangle of U theory |
 | 1959 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Woo Jang-chun" - https://en.wikipedia.org/wiki/Woo_Jang-chun
 
@@ -50,3 +50,6 @@ Woo Jang-chun demonstrated the triangle of U theory for Brassica species relatio
 - 연도/지명/기관명/직함 등 고유명사와 시계열을 교차 검증합니다.
 - 핵심 수치(금액, 인원, 기간)는 원출처 또는 다수 출처에서 일치하는지 확인합니다.
 - 판결문, 공식 보고서, 학술 논문, 기업 공시 등은 요약의 안정적인 근거가 됩니다.
+
+
+## References

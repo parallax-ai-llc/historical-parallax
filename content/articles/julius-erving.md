@@ -23,7 +23,7 @@ Julius Erving, 'Dr. J,' revolutionized basketball with his above-the-rim playing
 | 1976 | Made famous free-throw line dunk at ABA All-Star Game |
 | 1983 | Won NBA championship with Philadelphia 76ers |
 
-## References
+
 
 [^1]: Wikipedia, "Julius Erving" - https://en.wikipedia.org/wiki/Julius_Erving
 
@@ -48,3 +48,6 @@ Open statistical summaries commonly list:
 ### Legacy
 
 By combining elite production with a visually distinctive style, Erving became a template for later wing scorers and finishers. He is also frequently cited as an early popular example for the idea of a player being "posterized" by an opponent’s dunk.
+
+
+## References

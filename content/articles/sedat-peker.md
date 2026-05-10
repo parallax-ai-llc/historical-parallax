@@ -22,7 +22,7 @@ Turkish mafia boss who released viral YouTube videos in 2021 exposing corruption
 | 2003 | Convicted of organized crime |
 | 2021 | YouTube exposés rocked Turkish politics |
 
-## References
+
 
 [^1]: Wikipedia, "Sedat Peker" - https://en.wikipedia.org/wiki/Sedat_Peker
 
@@ -51,3 +51,6 @@ Peker has faced criminal investigations and convictions in Turkey at different p
 ## Notes
 
 This article summarizes widely reported themes; specific allegations should be cross-checked against primary reporting and official statements.
+
+
+## References

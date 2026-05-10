@@ -22,7 +22,7 @@ Mass shooting at Columbine High School in Colorado on April 20, 1999 by Eric Har
 | 1999 | 12 students and 1 teacher killed |
 | 1999 | Both shooters committed suicide |
 
-## References
+
 
 [^1]: Wikipedia, "Columbine Shooting" - https://en.wikipedia.org/wiki/Columbine_Shooting
 
@@ -48,3 +48,6 @@ Columbine influenced U.S. policy and practice around:
 
 The shooting became a reference point for later school attacks and for research on contagion effects, extremist subcultures, and the ethics of publicizing perpetrators.
 
+
+
+## References

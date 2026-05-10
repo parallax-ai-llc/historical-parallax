@@ -25,7 +25,7 @@ Spanish conquistador who brutally exploited indigenous people and rebelled again
 | 1544–1546 | Emerged as a leading figure among the encomendero opposition; fought royalist forces in Peru during the broader civil conflicts among Spanish factions. |
 | 1548 | Defeated by royalist commander Pedro de la Gasca’s coalition; captured and executed. |
 
-## References
+
 
 [^1]: Wikipedia, "Gonzalo Pizarro" - https://en.wikipedia.org/wiki/Gonzalo_Pizarro
 
@@ -58,3 +58,6 @@ Spanish conquistador who brutally exploited indigenous people and rebelled again
 - **Francisco Pizarro** — leading conqueror of the Inca Empire; a central figure in the Pizarro family’s rise.
 - **Encomienda** — a colonial grant system that often enabled forced indigenous labor and extraction.
 - **Pedro de la Gasca** — royal emissary associated with the final defeat of the rebellion.
+
+
+## References

@@ -21,7 +21,7 @@ Roman governor of Judea who ordered the crucifixion of Jesus Christ and other ma
 |------|-------|
 | 33 | Ordered crucifixion of Jesus of Nazareth |
 
-## References
+
 
 [^1]: Wikipedia, "Pontius Pilate" - https://en.wikipedia.org/wiki/Pontius_Pilate
 
@@ -68,3 +68,6 @@ Accounts portray Pilate as a hardline administrator who sometimes provoked local
 
 [^2]: Encyclopaedia Britannica, “Pontius Pilate” - https://www.britannica.com/biography/Pontius-Pilate
 [^3]: *Pilate Stone* (Caesarea inscription), commonly discussed in overviews of Roman Judaea (see e.g., museum/academic summaries).
+
+
+## References

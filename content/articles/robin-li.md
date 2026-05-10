@@ -5,7 +5,7 @@ birth: "1968-11-17"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Robin_Li_%282020%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robin_Li"
 lastUpdated: "2026-02-21"

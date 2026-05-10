@@ -21,7 +21,7 @@ Indian businessman arrested for his role in the NSEL payment crisis affecting th
 |------|-------|
 | 2014 | Arrested for NSEL payment crisis |
 
-## References
+
 
 [^1]: Wikipedia, "Jignesh Shah" - https://en.wikipedia.org/wiki/Jignesh_Shah
 
@@ -62,3 +62,6 @@ Indian businessman arrested for his role in the NSEL payment crisis affecting th
 ## Additional References
 
 [^2]: Wikipedia provides a consolidated starting point and links to further reading; many Indian media and regulatory/court documents are referenced indirectly through secondary summaries.
+
+
+## References

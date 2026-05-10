@@ -23,7 +23,7 @@ Sossina Haile is an Ethiopian-American materials scientist who developed high-pe
 | 1992 | PhD from MIT |
 | 2015 | Joined Northwestern |
 
-## References
+
 
 [^1]: Wikipedia, "Sossina Haile" - https://en.wikipedia.org/wiki/Sossina_Haile
 
@@ -52,3 +52,6 @@ Sossina Haile is an Ethiopian-American materials scientist who developed high-pe
 
 - Improvements in ionic-conducting ceramics and electrodes can lower costs and expand deployment options for fuel cells.
 - The same materials principles are relevant to sensors, electrolyzers, and other electrochemical devices.
+
+
+## References

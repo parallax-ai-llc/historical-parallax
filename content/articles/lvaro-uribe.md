@@ -24,7 +24,7 @@ Colombian former president accused of ties to paramilitaries and drug trafficker
 | 2020 | Placed under house arrest |
 | 2022 | Charges dropped |
 
-## References
+
 
 [^1]: Wikipedia, "Álvaro Uribe" - https://en.wikipedia.org/wiki/%C3%81lvaro_Uribe
 
@@ -51,3 +51,6 @@ Uribe is one of the most influential and polarizing figures in contemporary Colo
 - Colombian armed conflict
 - Revolutionary Armed Forces of Colombia (FARC)
 - False positives scandal
+
+
+## References

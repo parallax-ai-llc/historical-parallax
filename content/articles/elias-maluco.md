@@ -22,7 +22,7 @@ Rio de Janeiro drug lord who ordered the murder of journalist Tim Lopes, who was
 | 2002 | Murdered journalist Tim Lopes |
 | 2020 | Found dead in prison cell |
 
-## References
+
 
 [^1]: Wikipedia, "Elias Maluco" - https://en.wikipedia.org/wiki/Elias_Maluco
 
@@ -84,3 +84,6 @@ High-profile cases typically involve complex investigations, witness testimony c
 ## Public attention
 
 Some cases gain notoriety because they intersect with media, politics, or particularly shocking acts of violence. When that happens, they can prompt reforms, intensify policing strategies, or harden public attitudes toward security policy.
+
+
+## References

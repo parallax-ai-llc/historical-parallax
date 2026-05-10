@@ -24,7 +24,7 @@ Leonardo Notarbartolo led a team that broke into the Antwerp Diamond Centre vaul
 | 2003 | Notarbartolo arrested after DNA found at scene |
 | 2005 | Notarbartolo sentenced to 10 years |
 
-## References
+
 
 [^1]: Wikipedia, "Antwerp Diamond Heist Gang" - https://en.wikipedia.org/wiki/Antwerp_Diamond_Heist_Gang
 
@@ -50,3 +50,6 @@ Antwerp is one of the world's major diamond trading hubs, and the heist drew att
 - Physical security and alarm systems in high-value facilities
 - Forensic evidence (DNA and trace evidence) in burglary investigations
 - Notable non-violent "vault" robberies and their security lessons
+
+
+## References

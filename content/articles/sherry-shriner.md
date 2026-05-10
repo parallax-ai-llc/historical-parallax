@@ -23,7 +23,7 @@ American internet cult leader who mixed UFO conspiracy theories with biblical pr
 | 2017 | Follower murdered over cult involvement |
 | 2018 | Died under mysterious circumstances |
 
-## References
+
 
 [^1]: Wikipedia, "Sherry Shriner" - https://en.wikipedia.org/wiki/Sherry_Shriner
 
@@ -56,3 +56,6 @@ Shriner’s story is frequently referenced as an example of:
 - Online radicalization within small, insular subcultures.
 - The blurred boundary between “fringe media” and community organizing.
 - The risks of harassment and paranoia-driven targeting in conspiracy ecosystems.
+
+
+## References

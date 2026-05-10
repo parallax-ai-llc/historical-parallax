@@ -22,7 +22,7 @@ Terrorist attack on a gas plant in In Amenas, Algeria in January 2013 that kille
 | 2013 | 40 hostages killed |
 | 2013 | Algerian forces ended siege |
 
-## References
+
 
 [^1]: Wikipedia, "In Amenas Hostage Crisis" - https://en.wikipedia.org/wiki/In_Amenas_Hostage_Crisis
 
@@ -65,3 +65,6 @@ The attack had significant implications for corporate security planning in the e
 
 - Prefer reputable secondary sources and, when relevant, official statements or primary documents.
 - Separate confirmed facts from allegations; verify dates, locations, and names across multiple references.
+
+
+## References

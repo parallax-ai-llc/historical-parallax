@@ -5,7 +5,7 @@ birth: "1964-03-03"
 death: "Unknown"
 nationality: "American"
 occupation: ["Film Director"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Kelly_Reichardt-4432.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kelly_Reichardt"
 lastUpdated: "2026-02-21"

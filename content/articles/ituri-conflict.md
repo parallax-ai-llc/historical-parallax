@@ -22,7 +22,7 @@ Ethnic conflict between Hema and Lendu communities in Ituri province has killed 
 | 1999 | Major violence erupted |
 | 2003 | Bunia massacre |
 
-## References
+
 
 [^1]: Wikipedia, "Ituri Conflict" - https://en.wikipedia.org/wiki/Ituri_Conflict
 
@@ -54,3 +54,6 @@ Public reporting commonly references:
 ## Additional References
 
 [^2]: UN / MONUSCO background materials on eastern DR Congo and protection-of-civilians mandates (general context): https://peacekeeping.un.org/
+
+
+## References

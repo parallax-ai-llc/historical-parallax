@@ -42,7 +42,7 @@ In 1994, a U.S.-led multinational operation (often described in policy terms as 
 
 Cédras is frequently referenced in discussions of Haiti’s post–Cold War crises as an emblematic figure of military interference in democratic governance. His tenure is also invoked in debates over the dissolution of the Haitian army, the long-term impacts of political violence on Haitian civil society, and the international community’s role in shaping Haiti’s institutional trajectory.
 
-## References
+
 
 [^1]: Wikipedia, "Raoul Cédras" - https://en.wikipedia.org/wiki/Raoul_C%C3%A9dras
 
@@ -51,3 +51,6 @@ Cédras is frequently referenced in discussions of Haiti’s post–Cold War cri
 - 1991 Haitian coup d'état
 - Operation Uphold Democracy
 - Jean-Bertrand Aristide
+
+
+## References

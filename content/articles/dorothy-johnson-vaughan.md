@@ -22,7 +22,7 @@ Already added as Dorothy Vaughan.
 | 1910 | Born |
 | 2008 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Dorothy Johnson Vaughan" - https://en.wikipedia.org/wiki/Dorothy_Johnson_Vaughan
 
@@ -51,3 +51,6 @@ Already added as Dorothy Vaughan.
 
 - Vaughan is often remembered for combining **technical excellence** with leadership in a segregated workplace, and for helping her teams navigate institutional change.
 - In educational contexts, her story is frequently used to illustrate how computing history includes essential contributions from people who were long under-credited.
+
+
+## References

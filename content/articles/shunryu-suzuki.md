@@ -5,7 +5,7 @@ birth: "1904-05-18"
 death: "1971-12-04"
 nationality: "Japanese-American"
 occupation: ["Zen Master", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Shunryu_Suzuki_at_Zen_Mountain_Center_%28cropped%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shunryu_Suzuki"
 lastUpdated: "2026-02-21"

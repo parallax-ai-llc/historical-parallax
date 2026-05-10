@@ -23,7 +23,7 @@ Nick Faldo won six major championships and was world number one for 97 weeks. He
 | 1990 | Won Masters and British Open |
 | 1996 | Won Masters for third time |
 
-## References
+
 
 [^1]: Wikipedia, "Nick Faldo" - https://en.wikipedia.org/wiki/Nick_Faldo
 
@@ -59,3 +59,6 @@ Faldo is often cited as one of the most accomplished British golfers, and as a p
 ## Related Topics
 
 The Open Championship; Masters Tournament; Ryder Cup; Official World Golf Ranking.
+
+
+## References

@@ -22,7 +22,7 @@ Steve Ovett won 800m gold at 1980 Moscow in an upset over Coe. He held 1,500m an
 | 1980 | Won 800m gold at Moscow |
 | 1983 | Set 1,500m world record |
 
-## References
+
 
 [^1]: Wikipedia, "Steve Ovett" - https://en.wikipedia.org/wiki/Steve_Ovett
 
@@ -56,3 +56,6 @@ Ovett remains a reference point in discussions of:
 ## Further Reading
 
 - Wikipedia profile (overview, major results, and record notes): see reference below.
+
+
+## References

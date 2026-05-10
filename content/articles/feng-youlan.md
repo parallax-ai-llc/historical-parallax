@@ -22,7 +22,7 @@ This entry is not a scientist; removing from batch.
 | 1895 | Born |
 | 1990 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Feng Youlan" - https://en.wikipedia.org/wiki/Feng_Youlan
 
@@ -63,3 +63,6 @@ Feng remains an important reference point for students of modern Chinese thought
 - New Confucianism
 - History of Chinese philosophy
 - Comparative philosophy
+
+
+## References

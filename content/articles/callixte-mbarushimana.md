@@ -23,7 +23,7 @@ Rwandan FDLR executive secretary accused by the ICC of war crimes in eastern Con
 | 2010 | Arrested in Paris |
 | 2011 | ICC declined to confirm charges, released |
 
-## References
+
 
 [^1]: Wikipedia, "Callixte Mbarushimana" - https://en.wikipedia.org/wiki/Callixte_Mbarushimana
 
@@ -65,3 +65,6 @@ Public summaries of ICC cases often compress complex filings into a few sentence
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

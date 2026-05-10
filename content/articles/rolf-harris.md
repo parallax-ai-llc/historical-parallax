@@ -23,7 +23,7 @@ Australian-British entertainer convicted of 12 counts of indecent assault agains
 | 2014 | Convicted of 12 assaults |
 | 2023 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Rolf Harris" - https://en.wikipedia.org/wiki/Rolf_Harris
 
@@ -50,3 +50,6 @@ His later years were marked by limited public activity and continued controversy
 Harris is often cited as an example of how celebrity status can obscure misconduct and delay accountability.
 The public reversal around his reputation also illustrates how cultural institutions respond when prominent figures are convicted of serious crimes.
 In biographical summaries, his artistic and entertainment work is frequently contextualized by the criminal convictions that ended his career.
+
+
+## References

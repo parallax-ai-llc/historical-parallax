@@ -22,7 +22,7 @@ The UN's largest peacekeeping mission in Congo has been plagued by sexual exploi
 | 1999 | UN mission began |
 | 2023 | Protests demanding MONUSCO leave |
 
-## References
+
 
 [^1]: Wikipedia, "MONUSCO Failures" - https://en.wikipedia.org/wiki/MONUSCO_Failures
 
@@ -63,3 +63,6 @@ The UN's largest peacekeeping mission in Congo has been plagued by sexual exploi
 
 ### Sources
 - The reference link(s) listed above are the primary source pointer used for this short profile.
+
+
+## References

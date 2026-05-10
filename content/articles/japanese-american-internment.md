@@ -43,7 +43,7 @@ US government forcibly relocated 120,000 Japanese-Americans to internment camps 
 
 The internment is widely referenced in U.S. civil liberties debates as a cautionary example of emergency powers overriding constitutional protections.
 
-## References
+
 
 [^1]: Wikipedia, "Japanese-American Internment" - https://en.wikipedia.org/wiki/Japanese-American_Internment
 
@@ -51,3 +51,6 @@ The internment is widely referenced in U.S. civil liberties debates as a caution
 
 - Civil Liberties Act of 1988
 - Korematsu v. United States
+
+
+## References

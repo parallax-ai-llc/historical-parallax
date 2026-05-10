@@ -22,7 +22,7 @@ Nigerian drug queen who ran a major heroin trafficking network from Lagos to Sou
 | 1985 | Built heroin trafficking network |
 | 2000 | Arrested by NDLEA |
 
-## References
+
 
 [^1]: Wikipedia, "Mama Lau" - https://en.wikipedia.org/wiki/Mama_Lau
 
@@ -59,3 +59,6 @@ The case is often referenced in discussions of:
 ## Notes on documentation
 
 Much of the accessible information about Mama Lau comes from secondary summaries and news-style retellings. Where possible, researchers typically look for corroboration in contemporaneous NDLEA statements, court filings, or international drug-control reports to distinguish verified findings from narrative embellishment.
+
+
+## References

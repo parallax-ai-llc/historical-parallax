@@ -26,7 +26,7 @@ Wumen Huikai was a Chinese Chan master who compiled the Wumenguan (Gateless Gate
 | 1246 | Received imperial patronage |
 | 1260 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Wumen Huikai" - https://en.wikipedia.org/wiki/Wumen_Huikai
 
@@ -49,3 +49,6 @@ In many Zen training contexts, a koan collection functions as a curriculum of en
 ## Related Tradition
 
 The *Wumenguan* is often mentioned alongside other major koan collections, and together these texts shaped later Zen/Chan literary culture. Their endurance reflects a continuing interest in concise teaching stories and commentaries as practice tools.
+
+
+## References

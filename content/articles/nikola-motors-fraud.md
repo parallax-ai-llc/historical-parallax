@@ -22,7 +22,7 @@ Electric truck startup Nikola's founder Trevor Milton lied about the company's t
 | 2020 | Hindenburg Research exposed fraud |
 | 2022 | Milton convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Nikola Motors Fraud" - https://en.wikipedia.org/wiki/Nikola_Motors_Fraud
 
@@ -52,3 +52,6 @@ The Nikola fraud controversy contributed to heightened skepticism toward early-s
 
 [^2]: Hindenburg Research, “Nikola: How to Parlay an Ocean of Lies…” (2020).
 [^3]: U.S. Department of Justice press releases and related court documents regarding Trevor Milton’s fraud conviction.
+
+
+## References

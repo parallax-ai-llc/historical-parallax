@@ -21,7 +21,7 @@ Ndrangheta boss convicted of leading organized crime operations in Calabria.
 |------|-------|
 | 2015 | Convicted of Mafia leadership |
 
-## References
+
 
 [^1]: Wikipedia, "Gioacchino Catanzaro" - https://en.wikipedia.org/wiki/Gioacchino_Catanzaro
 
@@ -50,3 +50,6 @@ High-level convictions described in public sources can involve findings such as:
 - 'Ndrangheta (organized crime)
 - Calabria (region of Italy)
 - Italian anti-mafia prosecutions and major organized-crime trials
+
+
+## References

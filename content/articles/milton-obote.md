@@ -21,7 +21,7 @@ Two-time President of Uganda whose second regime was as brutal as Amin's, with a
 | 1966 | Seized absolute power |
 | 1985 | Overthrown for second time |
 
-## References
+
 
 [^1]: Wikipedia, "Milton Obote" - https://en.wikipedia.org/wiki/Milton_Obote
 ## Additional Context
@@ -53,3 +53,6 @@ Two-time President of Uganda whose second regime was as brutal as Amin's, with a
 - This entry is a high-level summary intended for quick reference.
 - For deeper detail, consult primary documents and the linked reference.
 - Dates are recorded as reported by widely available public sources.
+
+
+## References

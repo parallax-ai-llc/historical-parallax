@@ -23,7 +23,7 @@ Colombian drug lord and founding member of the Medellin Cartel along with his br
 | 1991 | Surrendered to authorities |
 | 2013 | Died of natural causes |
 
-## References
+
 
 [^1]: Wikipedia, "Juan David Ochoa" - https://en.wikipedia.org/wiki/Juan_David_Ochoa
 
@@ -72,3 +72,6 @@ Ochoa’s life is often referenced in broader analyses of:
 - how cartel leadership adapted during intense state pressure
 - the relationship between extradition policy and surrender incentives
 - long-term social and institutional impact of the cocaine boom on Colombia
+
+
+## References

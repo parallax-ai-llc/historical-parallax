@@ -21,7 +21,7 @@ Leader of al-Shabaab who orchestrated the Westgate mall attack, killed in US air
 |------|-------|
 | 2014 | Killed by US airstrike |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmed Godane" - https://en.wikipedia.org/wiki/Ahmed_Godane
 
@@ -55,3 +55,6 @@ Leader of al-Shabaab who orchestrated the Westgate mall attack, killed in US air
 ## Additional References
 
 [^2]: Wikipedia, "Al-Shabaab (militant group)" - https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group)
+
+
+## References

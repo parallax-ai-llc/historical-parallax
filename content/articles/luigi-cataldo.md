@@ -21,7 +21,7 @@ Sacra Corona Unita boss in Puglia convicted of drug trafficking and extortion.
 |------|-------|
 | 2010 | Convicted of organized crime |
 
-## References
+
 
 [^1]: Wikipedia, "Luigi Cataldo" - https://en.wikipedia.org/wiki/Luigi_Cataldo
 
@@ -59,3 +59,6 @@ Because the linked Wikipedia URL does not currently resolve to an article, this 
 
 - Sacra Corona Unita (overview of the organization and its regional context)
 - Organized crime in Italy (comparative context across regions)
+
+
+## References

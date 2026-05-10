@@ -19,7 +19,7 @@ Terry Lynn Nichols was convicted as a co-conspirator in the 1995 Oklahoma City b
 |------|-------|
 | 1955 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -56,3 +56,6 @@ Terry Lynn Nichols was convicted as a co-conspirator in the 1995 Oklahoma City b
 - Timothy McVeigh
 - Oklahoma City bombing
 - Domestic terrorism in the United States
+
+
+## References

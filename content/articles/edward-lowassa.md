@@ -22,7 +22,7 @@ Former Prime Minister of Tanzania who resigned over the Richmond energy scandal.
 | 2005 | Became Prime Minister |
 | 2008 | Resigned over Richmond scandal |
 
-## References
+
 
 [^1]: Wikipedia, "Edward Lowassa" - https://en.wikipedia.org/wiki/Edward_Lowassa
 
@@ -50,3 +50,6 @@ Former Prime Minister of Tanzania who resigned over the Richmond energy scandal.
 
 - Politics of Tanzania
 - Chama Cha Mapinduzi (CCM)
+
+
+## References

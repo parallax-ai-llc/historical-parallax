@@ -23,7 +23,7 @@ English pirate who refused the Kings Pardon and continued raiding until his crew
 | 1719 | Deposed by crew |
 | 1721 | Hanged |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Vane" - https://en.wikipedia.org/wiki/Charles_Vane
 
@@ -50,3 +50,6 @@ Pirate crews could remove captains through vote or force, especially if they bel
 - Nassau (Bahamas) and pirate settlements
 - Maritime law and anti-piracy campaigns
 
+
+
+## References

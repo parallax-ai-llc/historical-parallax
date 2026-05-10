@@ -21,7 +21,7 @@ Sikh extremists bombed Air India Flight 182 over the Atlantic, killing all 329 p
 |------|-------|
 | 1985 | 329 killed when bomb destroyed plane |
 
-## References
+
 
 [^1]: Wikipedia, "Air India Flight 182 Bombing 1985" - https://en.wikipedia.org/wiki/Air_India_Flight_182_Bombing_1985
 
@@ -63,3 +63,6 @@ Sikh extremists bombed Air India Flight 182 over the Atlantic, killing all 329 p
 ## Why It Matters (Context)
 
 This bombing remains a reference point for Canada’s modern approach to terrorism and public safety—both for the scale of loss and for the long-running debates about prevention, surveillance, and accountability.
+
+
+## References

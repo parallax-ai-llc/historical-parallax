@@ -5,7 +5,7 @@ birth: "1943-04-15"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physician", "Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Robert_Lefkowitz_2_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Lefkowitz"
 lastUpdated: "2026-02-21"

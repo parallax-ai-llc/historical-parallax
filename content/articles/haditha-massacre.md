@@ -21,7 +21,7 @@ US Marines killed 24 unarmed Iraqi civilians in Haditha including children and e
 |------|-------|
 | 2005 | 24 Iraqi civilians killed by Marines |
 
-## References
+
 
 [^1]: Wikipedia, "Haditha Massacre" - https://en.wikipedia.org/wiki/Haditha_Massacre
 
@@ -59,3 +59,6 @@ Accounts summarized in public reporting describe Marines conducting house-to-hou
 ## Additional References
 
 [^2]: U.S. Department of Defense / U.S. Marine Corps public case materials and contemporaneous reporting are commonly cited in overviews of the Haditha investigations; see also the Wikipedia article’s reference list for primary-source links and secondary reporting.
+
+
+## References

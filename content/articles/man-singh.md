@@ -40,7 +40,7 @@ Legendary Indian dacoit known as 'Robin Hood of the Chambal' who evaded capture 
 - Such surrenders were often framed publicly as moral reform and reintegration, while also serving practical state goals of reducing violence.
 - Man Singh’s later years are typically described in terms of surrender, imprisonment, and declining public profile.
 
-## References
+
 
 [^1]: Wikipedia, "Man Singh" - https://en.wikipedia.org/wiki/Man_Singh
 
@@ -49,3 +49,6 @@ Legendary Indian dacoit known as 'Robin Hood of the Chambal' who evaded capture 
 - Chambal dacoity later became a recurring theme in Indian cinema and journalism, shaping how figures like Man Singh were remembered.
 - Accounts often highlight the role of local intermediaries (village leaders, landholders, and social reformers) in negotiating surrenders.
 - In historical writing, separating folklore from documented events is difficult because many narratives spread through oral retellings.
+
+
+## References

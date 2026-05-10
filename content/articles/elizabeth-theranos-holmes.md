@@ -22,7 +22,7 @@ Stanford dropout who dropped her voice an octave and claimed to have invented re
 | 2014 | Peak valuation: $9 billion |
 | 2022 | Convicted of fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Elizabeth Theranos Holmes" - https://en.wikipedia.org/wiki/Elizabeth_Theranos_Holmes
 
@@ -86,3 +86,6 @@ When a company’s public claims diverge from verified performance, consequences
 ## Broader impact
 
 The case is often taught and discussed in business, law, and ethics contexts. It is used to illustrate due diligence failures, the importance of independent verification, and how charismatic leadership can distort decision-making in high-stakes sectors.
+
+
+## References

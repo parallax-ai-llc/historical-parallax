@@ -43,7 +43,7 @@ Tihar Jail is one of India’s largest prison complexes and has periodically fac
 
 Media coverage following the killing emphasized the continuing cycle of gang rivalry and retaliation. Authorities typically respond in such cases through a mix of disciplinary action inside prisons, transfers of inmates, and additional charges connected to conspiracy or custodial violence, depending on the investigation’s findings.
 
-## References
+
 
 [^1]: Wikipedia, "Tillu Tajpuria" - https://en.wikipedia.org/wiki/Tillu_Tajpuria
 [^2]: Indian news reporting on Delhi gang rivalries and the 2023 killing inside Tihar Jail (see linked sources in Wikipedia and contemporaneous coverage).
@@ -51,3 +51,6 @@ Media coverage following the killing emphasized the continuing cycle of gang riv
 ## See also
 
 - Tihar Jail
+
+
+## References

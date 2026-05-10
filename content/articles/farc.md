@@ -24,7 +24,7 @@ Revolutionary Armed Forces of Colombia, the largest guerrilla group in the Weste
 | 2016 | Signed peace agreement with government |
 | 2017 | Disarmed; became political party |
 
-## References
+
 
 [^1]: Wikipedia, "FARC" - https://en.wikipedia.org/wiki/FARC
 
@@ -49,3 +49,6 @@ FARC remains central to discussions of Colombia's modern conflict: its roots in 
 - **Guerrilla movement:** An armed non-state force using irregular warfare, often in rural terrain.
 - **Demobilization:** The process of disarmament and transition from an armed group into civilian or political life.
 - **Dissident factions:** Breakaway elements that continue armed activity after a peace process.
+
+
+## References

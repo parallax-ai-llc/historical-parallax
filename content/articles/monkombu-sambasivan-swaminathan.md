@@ -25,7 +25,7 @@ Duplicate entry - see M. S. Swaminathan.
 |------|-------|
 | 1925 | Born in India |
 
-## References
+
 
 [^1]: Wikipedia, "Monkombu Sambasivan Swaminathan" - https://en.wikipedia.org/wiki/Monkombu_Sambasivan_Swaminathan
 
@@ -87,3 +87,6 @@ This page uses Swaminathan's full given name as recorded in some biographical so
 ## Editorial note
 
 - Because this is a duplicate-name page, keep unique biographical detail minimal and prefer improving the canonical **M. S. Swaminathan** entry.
+
+
+## References

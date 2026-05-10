@@ -22,7 +22,7 @@ Military dictator of Benin who imposed Marxist-Leninist rule for 17 years. Stage
 | 1972 | Seized power in military coup |
 | 1990 | Forced to accept multiparty democracy |
 
-## References
+
 
 [^1]: Wikipedia, "Mathieu Kérékou" - https://en.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou
 
@@ -49,3 +49,6 @@ Kérékou's later political trajectory is part of what makes his career unusual 
 Assessments of Kérékou typically split between condemnation of repression and recognition of the eventual transition.
 Long-term evaluations also consider economic performance, institutional development, and civil liberties.
 Because Benin's later democratic practices evolved over time, debates about his legacy remain politically charged.
+
+
+## References

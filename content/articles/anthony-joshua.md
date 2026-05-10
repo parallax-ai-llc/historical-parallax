@@ -24,7 +24,7 @@ Anthony Joshua won 2012 Olympic gold and became unified heavyweight champion. He
 | 2019 | Lost titles to Andy Ruiz Jr. |
 | 2019 | Won rematch to regain titles |
 
-## References
+
 
 [^1]: Wikipedia, "Anthony Joshua" - https://en.wikipedia.org/wiki/Anthony_Joshua
 
@@ -50,3 +50,6 @@ Joshua is notable not only for results but for commercial impact: he became one 
 - London 2012 Olympics boxing
 - Notable opponents: Andy Ruiz Jr., Wladimir Klitschko, Oleksandr Usyk
 - Stadium boxing events in the UK
+
+
+## References

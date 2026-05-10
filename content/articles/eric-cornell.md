@@ -23,7 +23,7 @@ Eric Cornell shared the 2001 Nobel Prize for achieving Bose-Einstein condensatio
 | 1995 | Created first BEC with Wieman |
 | 2001 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Eric Cornell" - https://en.wikipedia.org/wiki/Eric_Cornell
 
@@ -49,3 +49,6 @@ Work on BEC contributed to:
 ## Related Concepts
 
 BEC research is closely related to topics like **superfluidity**, **quantized vortices**, and the use of **Feshbach resonances** to tune interactions in ultracold gases.
+
+
+## References

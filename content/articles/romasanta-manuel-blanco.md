@@ -23,7 +23,7 @@ Spanish serial killer known as the Werewolf of Allariz who murdered at least 13 
 | 1852 | Arrested and tried |
 | 1863 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Romasanta Manuel Blanco" - https://en.wikipedia.org/wiki/Romasanta_Manuel_Blanco
 
@@ -51,3 +51,6 @@ Spanish serial killer known as the Werewolf of Allariz who murdered at least 13 
 
 - Reported victim counts and details vary by source, reflecting inconsistent contemporary documentation.
 - Many later summaries emphasize the sensational aspects; careful reading separates folklore claims from what was established in court.
+
+
+## References

@@ -23,7 +23,7 @@ Latvian serial killer who murdered at least 7 elderly women in Riga between 2003
 | 2007 | Arrested |
 | 2009 | Sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Kaspars Petrovs" - https://en.wikipedia.org/wiki/Kaspars_Petrovs
 
@@ -48,3 +48,6 @@ Latvian serial killer who murdered at least 7 elderly women in Riga between 2003
 - This article is a short, high-level overview intended for quick reference.
 - For detailed chronology, primary sources, and broader context, consult the linked Wikipedia entry and its citations.
 - Use care with graphic or sensational retellings; focus on verified facts and victim-centered reporting.
+
+
+## References

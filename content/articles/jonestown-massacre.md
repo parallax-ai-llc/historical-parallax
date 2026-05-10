@@ -21,7 +21,7 @@ Jim Jones led 909 members of the Peoples Temple to commit mass murder-suicide by
 |------|-------|
 | 1978 | 909 people died at Jonestown |
 
-## References
+
 
 [^1]: Wikipedia, "Jonestown Massacre" - https://en.wikipedia.org/wiki/Jonestown_Massacre
 
@@ -72,3 +72,6 @@ Jim Jones led 909 members of the Peoples Temple to commit mass murder-suicide by
 ## Notes
 
 - Many summaries emphasize suicide; however, multiple sources and investigations highlight that not all participants had meaningful choice, especially children.
+
+
+## References

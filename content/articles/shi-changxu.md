@@ -5,7 +5,7 @@ birth: "1920-11-15"
 death: "2014-03-31"
 nationality: "Chinese"
 occupation: ["Materials scientist", "Metallurgist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/54/Shi_Changxu.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shi_Changxu"
 lastUpdated: "2026-02-21"

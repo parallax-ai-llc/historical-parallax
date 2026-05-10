@@ -22,7 +22,7 @@ Spanish conquistador known for extreme cruelty who ordered the Massacre of the T
 | 1520 | Ordered Toxcatl massacre |
 | 1524 | Conquered Guatemala with extreme brutality |
 
-## References
+
 
 [^1]: Wikipedia, "Pedro de Alvarado" - https://en.wikipedia.org/wiki/Pedro_de_Alvarado
 
@@ -49,3 +49,6 @@ The historical memory of Alvarado differs sharply by perspective: Spanish imperi
 ## Related themes
 
 Colonial conquest, forced labor, and the moral accounting of empire.
+
+
+## References

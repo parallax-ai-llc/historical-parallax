@@ -23,7 +23,7 @@ Sun Yang won three Olympic golds but his career was overshadowed by doping contr
 | 2016 | Won gold at Rio |
 | 2020 | Banned for doping |
 
-## References
+
 
 [^1]: Wikipedia, "Sun Yang" - https://en.wikipedia.org/wiki/Sun_Yang
 
@@ -52,3 +52,6 @@ The case contributed to broader debate within swimming about:
 ### Notes
 
 Because anti-doping cases can involve legal proceedings and multiple adjudicating bodies, timelines and interpretations may vary depending on which ruling or stage of appeal is being summarized.
+
+
+## References

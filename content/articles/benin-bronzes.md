@@ -22,7 +22,7 @@ Collection of sculptures and plaques from the Kingdom of Benin, many of which we
 | 1897 | British expedition looted royal artworks from Benin City |
 | 2020s | Renewed restitution efforts and returns to Nigeria |
 
-## References
+
 
 [^1]: Wikipedia, "Benin Bronzes" - https://en.wikipedia.org/wiki/Benin_Bronzes
 
@@ -55,3 +55,6 @@ Key issues include:
 - legal vs. ethical frameworks for returns
 - long-term custodianship, conservation capacity, and display agreements
 - the role of Nigerian institutions and new museum projects in receiving returned works
+
+
+## References

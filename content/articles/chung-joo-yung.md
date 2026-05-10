@@ -22,7 +22,7 @@ Hyundai Group founder who was convicted of embezzling $70 million for his presid
 | 1947 | Founded Hyundai |
 | 1998 | Convicted of embezzlement |
 
-## References
+
 
 [^1]: Wikipedia, "Chung Joo-yung" - https://en.wikipedia.org/wiki/Chung_Joo-yung
 
@@ -50,3 +50,6 @@ Chung remains an emblematic, disputed figure: celebrated for entrepreneurial dri
 
 - Chaebol governance and political influence in South Korea
 - Hyundai Group history and major subsidiaries
+
+
+## References

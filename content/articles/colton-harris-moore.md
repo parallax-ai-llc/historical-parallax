@@ -23,7 +23,7 @@ American thief known as the 'Barefoot Bandit' who committed over 100 burglaries 
 | 2010 | Crashed stolen airplane in Bahamas; arrested |
 | 2012 | Sentenced to 7 years |
 
-## References
+
 
 [^1]: Wikipedia, "Colton Harris-Moore" - https://en.wikipedia.org/wiki/Colton_Harris-Moore
 
@@ -52,3 +52,5 @@ American thief known as the 'Barefoot Bandit' who committed over 100 burglaries 
 ## References
 
 [^2]: U.S. federal court reporting and mainstream media coverage summarizing the burglary spree, aircraft thefts, and sentencing.
+
+

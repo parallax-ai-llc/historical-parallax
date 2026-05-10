@@ -21,7 +21,7 @@ East Timorese resistance leader imprisoned by Indonesia who became the country's
 |------|-------|
 | 2002 | Became first president of East Timor |
 
-## References
+
 
 [^1]: Wikipedia, "Xanana Gusmão" - https://en.wikipedia.org/wiki/Xanana_Gusm%C3%A3o
 
@@ -50,3 +50,6 @@ East Timorese resistance leader imprisoned by Indonesia who became the country's
 ## References (additional)
 
 [^2]: Encyclopaedia Britannica, "Xanana Gusmão" - https://www.britannica.com/biography/Xanana-Gusmao
+
+
+## References

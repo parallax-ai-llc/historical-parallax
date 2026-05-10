@@ -22,7 +22,7 @@ Epstein's companion convicted of sex trafficking minors and conspiracy. Prosecut
 | 2021 | Trial began |
 | 2022 | Sentenced to 20 years |
 
-## References
+
 
 [^1]: Wikipedia, "Ghislaine Maxwell Trial" - https://en.wikipedia.org/wiki/Ghislaine_Maxwell_Trial
 
@@ -48,3 +48,6 @@ The trial drew international attention because of Epstein’s broader network, p
 - The role of intermediaries and enablers in trafficking networks
 - Trauma-informed approaches to victim testimony
 - Limits and strengths of criminal justice responses in high-profile cases
+
+
+## References

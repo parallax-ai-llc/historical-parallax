@@ -22,7 +22,7 @@ Asbestos companies knew since the 1930s that their product caused cancer but con
 | 1930 | Health risks discovered and concealed |
 | 1989 | Many countries began banning asbestos |
 
-## References
+
 
 [^1]: Wikipedia, "Asbestos Industry Cover-up" - https://en.wikipedia.org/wiki/Asbestos_Industry_Cover-up
 
@@ -57,3 +57,6 @@ In several countries, asbestos manufacturers and related firms faced extensive c
 ## References (Additional)
 
 [^2]: General overview of asbestos health impacts and latency periods (see Wikipedia article and its linked sources).
+
+
+## References

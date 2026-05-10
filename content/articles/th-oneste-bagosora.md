@@ -24,7 +24,7 @@ Rwandan military officer considered the mastermind of the 1994 Rwandan genocide 
 | 2008 | Convicted of genocide; sentenced to life, reduced to 35 years |
 | 2021 | Died in prison in Mali |
 
-## References
+
 
 [^1]: Wikipedia, "Théoneste Bagosora" - https://en.wikipedia.org/wiki/Th%C3%A9oneste_Bagosora
 
@@ -49,3 +49,6 @@ Bagosora served his sentence in Mali under arrangements for enforcement of ICTR 
 ## Historical Significance
 
 Bagosora’s case remains one of the most cited ICTR proceedings because it is used to illustrate how international tribunals built evidentiary narratives about planning, coordination, and authority during the Rwandan genocide.
+
+
+## References

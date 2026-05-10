@@ -21,7 +21,7 @@ Turkmen drug lord who controlled opium trafficking routes from Afghanistan throu
 |------|-------|
 | 2008 | Ran major drug trafficking network |
 
-## References
+
 
 [^1]: Wikipedia, "Ovez Annaev" - https://en.wikipedia.org/wiki/Ovez_Annaev
 
@@ -66,3 +66,6 @@ While specifics for Annaev are not well-documented here, large-scale opiate traf
 - Afghan opium economy and downstream heroin markets
 - Central Asian border security and narcotics interdiction
 - Caspian transit corridors and organized crime logistics
+
+
+## References

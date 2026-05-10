@@ -23,7 +23,7 @@ Sicilian Mafia boss and former head of the Cinisi family who was convicted in th
 | 1987 | Convicted in Pizza Connection |
 | 2004 | Died in US prison |
 
-## References
+
 
 [^1]: Wikipedia, "Gaetano Badalamenti" - https://en.wikipedia.org/wiki/Gaetano_Badalamenti
 
@@ -48,3 +48,6 @@ Accounts of this era frequently emphasize factional conflict within Cosa Nostra,
 ## Imprisonment and Death
 
 Badalamenti was held in U.S. custody after conviction and remained incarcerated until his death. Obituaries and case retrospectives often note how his life illustrates the long legal tail of major organized-crime investigations: years of surveillance and trial work followed by lengthy sentences, with some defendants dying in prison.
+
+
+## References

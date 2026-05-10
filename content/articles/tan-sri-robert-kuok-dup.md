@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1923 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Tan Sri Robert Kuok dup" - https://en.wikipedia.org/wiki/Tan_Sri_Robert_Kuok_dup
 
@@ -65,3 +65,6 @@ Because this page is labeled as a duplicate, readers may prefer the canonical bi
 
 - Wikipedia: Robert Kuok — https://en.wikipedia.org/wiki/Robert_Kuok
 - General coverage via major business outlets (profiles, interviews, and company histories)
+
+
+## References

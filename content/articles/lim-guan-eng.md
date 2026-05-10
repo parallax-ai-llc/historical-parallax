@@ -23,7 +23,7 @@ Malaysian politician and former chief minister of Penang charged with corruption
 | 2008 | Became chief minister of Penang |
 | 2020 | Charged with corruption over tunnel project |
 
-## References
+
 
 [^1]: Wikipedia, "Lim Guan Eng" - https://en.wikipedia.org/wiki/Lim_Guan_Eng
 
@@ -52,3 +52,6 @@ The combination of a high-profile state leader, a major infrastructure plan, and
 ## Notes
 
 This article is a high-level summary intended to track key identifiers, headline allegations, and why the case remains notable in regional political-corruption reporting.
+
+
+## References

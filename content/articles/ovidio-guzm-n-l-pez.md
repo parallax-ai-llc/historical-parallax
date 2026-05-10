@@ -23,7 +23,7 @@ Mexican drug lord and son of El Chapo who inherited leadership of a Sinaloa Cart
 | 2023 | Recaptured; cartel waged violent assault on Culiacán |
 | 2023 | Extradited to United States |
 
-## References
+
 
 [^1]: Wikipedia, "Ovidio Guzmán López" - https://en.wikipedia.org/wiki/Ovidio_Guzm%C3%A1n_L%C3%B3pez
 
@@ -52,3 +52,6 @@ The episodes are often cited as examples of:
 - Mexican Drug War
 - Sinaloa Cartel
 - Extradition between Mexico and the United States
+
+
+## References

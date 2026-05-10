@@ -21,7 +21,7 @@ French serial killer couple who kidnapped, raped, and murdered young women acros
 |------|-------|
 | 2008 | Both convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Fourniret and Olivier" - https://en.wikipedia.org/wiki/Fourniret_and_Olivier
 
@@ -49,3 +49,6 @@ French serial killer couple who kidnapped, raped, and murdered young women acros
 
 - Public sources treat “Fourniret and Olivier” as a coupled case because the crimes and legal proceedings frequently reference Olivier’s role as an enabler or accomplice rather than as a principal offender.[^1]
 - Exact victim counts and case attributions may vary across sources and over time as additional investigations and court decisions occur.[^1]
+
+
+## References

@@ -22,7 +22,7 @@ The transatlantic slave trade forcibly transported an estimated 12.5 million Afr
 | 1500 | Slave trade began |
 | 1807 | British abolished slave trade |
 
-## References
+
 
 [^1]: Wikipedia, "Atlantic Slave Trade" - https://en.wikipedia.org/wiki/Atlantic_Slave_Trade
 
@@ -56,3 +56,6 @@ The Atlantic slave trade left enduring political, economic, and cultural consequ
 
 [^2]: Wikipedia, "Slavery" - https://en.wikipedia.org/wiki/Slavery
 [^3]: Wikipedia, "Abolitionism" - https://en.wikipedia.org/wiki/Abolitionism
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1894-04-14"
 death: "1970-10-15"
 nationality: "Italy"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Leonarda_Cianciulli_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonarda_Cianciulli"
 lastUpdated: "2026-02-21"

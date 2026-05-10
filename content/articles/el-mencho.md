@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "El Mencho" - https://en.wikipedia.org/wiki/El_Mencho
 
@@ -57,3 +57,6 @@ Duplicate consolidated.
 ## Notes on Sources
 
 - The Wikipedia page linked below provides a starting point and collects citations to secondary reporting; readers should consult primary court documents and official statements for legal precision where available.[^1]
+
+
+## References

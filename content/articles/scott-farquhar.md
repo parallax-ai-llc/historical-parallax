@@ -5,7 +5,7 @@ birth: "1979-08-21"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Scott_Farquhar.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Scott_Farquhar"
 lastUpdated: "2026-02-21"

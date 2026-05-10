@@ -21,7 +21,7 @@ Investigation revealing Europe's biggest tax fraud scheme that cost governments 
 |------|-------|
 | 2018 | €55 billion fraud scheme exposed |
 
-## References
+
 
 [^1]: Wikipedia, "CumEx Files" - https://en.wikipedia.org/wiki/CumEx_Files
 
@@ -65,3 +65,6 @@ Investigation revealing Europe's biggest tax fraud scheme that cost governments 
 
 [^2]: Correctiv, "CumEx Files" (project page and reporting hub) - https://correctiv.org/en/topic/cumex-files/
 [^3]: Wikipedia, "CumEx" (overview of the trading strategy and controversy) - https://en.wikipedia.org/wiki/CumEx
+
+
+## References

@@ -21,7 +21,7 @@ Seleucid king who desecrated the Jewish Temple, banned Judaism, and triggered th
 |------|-------|
 | -167 | Desecrated Jerusalem Temple, triggering Maccabean Revolt |
 
-## References
+
 
 [^1]: Wikipedia, "Antiochus IV Epiphanes" - https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes
 
@@ -63,3 +63,6 @@ Seleucid king who desecrated the Jewish Temple, banned Judaism, and triggered th
 - **Empire:** Seleucid Empire (Near East, Levant, and parts of Asia Minor at various points).
 - **Era:** Hellenistic period.
 - **Notability:** Triggering events leading to the Maccabean Revolt; remembered for actions against Jerusalem’s Temple cult.
+
+
+## References

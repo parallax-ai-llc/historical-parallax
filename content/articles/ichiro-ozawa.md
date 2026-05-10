@@ -23,7 +23,7 @@ Japanese politician acquitted of false accounting charges related to a land purc
 | 2009 | DPJ won landslide |
 | 2012 | Acquitted of political funding charges |
 
-## References
+
 
 [^1]: Wikipedia, "Ichiro Ozawa" - https://en.wikipedia.org/wiki/Ichiro_Ozawa
 
@@ -50,3 +50,6 @@ When using this entry as a starting point, prioritize (1) contemporaneous primar
 ## Reading guide
 
 When using this entry as a starting point, prioritize (1) contemporaneous primary material, (2) reputable secondary syntheses, and (3) cross-checking across independent outlets. This helps reduce errors from mistranslation, name collisions, and evolving narratives.
+
+
+## References

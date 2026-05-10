@@ -21,7 +21,7 @@ Russian defector and former Duma member shot dead in Kiev after fleeing to Ukrai
 |------|-------|
 | 2017 | Shot dead in Kiev |
 
-## References
+
 
 [^1]: Wikipedia, "Denis Voronenkov" - https://en.wikipedia.org/wiki/Denis_Voronenkov
 
@@ -54,3 +54,6 @@ Russian defector and former Duma member shot dead in Kiev after fleeing to Ukrai
 ## Additional Notes
 
 - This article is a concise overview intended for quick reference; details such as exact parliamentary dates, constituency, and named suspects should be verified against the cited source.
+
+
+## References

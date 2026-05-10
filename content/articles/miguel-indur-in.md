@@ -23,7 +23,7 @@ Miguel Induráin won five consecutive Tours de France from 1991 to 1995 and Olym
 | 1995 | Won fifth consecutive Tour |
 | 1996 | Won Olympic gold in time trial |
 
-## References
+
 
 [^1]: Wikipedia, "Miguel Induráin" - https://en.wikipedia.org/wiki/Miguel_Indur%C3%A1in
 
@@ -50,3 +50,6 @@ In Spain, Induráin became a national sports icon, often associated with calm de
 ## Notes
 
 Because cycling results are deeply influenced by team tactics, course design, and time-trial opportunities, Induráin's record is commonly discussed as an example of a rider whose strengths aligned exceptionally well with the Grand Tour formats of his peak years.
+
+
+## References

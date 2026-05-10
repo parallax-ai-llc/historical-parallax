@@ -22,7 +22,7 @@ Israel's military campaign in Gaza following the October 7 attack killed over 40
 | 2023 | Israeli military campaign devastated Gaza |
 | 2024 | ICJ found plausible risk of genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Gaza Humanitarian Crisis" - https://en.wikipedia.org/wiki/Gaza_Humanitarian_Crisis
 ---
@@ -56,3 +56,6 @@ Israel's military campaign in Gaza following the October 7 attack killed over 40
 
 - 국제기구 보고서(UN 계열, WHO, WFP 등), 인권/분쟁 모니터링, 현장 NGO 브리핑
 - 위성/지도 기반 데이터, OSINT(공개정보 분석), 2차 출처의 교차 검증
+
+
+## References

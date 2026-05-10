@@ -22,7 +22,7 @@ Former Mauritanian president who seized power in a 2008 coup and was convicted o
 | 2008 | Seized power in military coup |
 | 2023 | Convicted of corruption and sentenced to five years |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Ould Abdel Aziz" - https://en.wikipedia.org/wiki/Mohamed_Ould_Abdel_Aziz
 
@@ -63,3 +63,6 @@ Former Mauritanian president who seized power in a 2008 coup and was convicted o
 
 ### Sources
 - The reference link(s) listed above are the primary source pointer used for this short profile.
+
+
+## References

@@ -22,7 +22,7 @@ Myanmar military launched a genocidal campaign against the Rohingya people killi
 | 2017 | Military launched 'clearance operations' against Rohingya |
 | 2019 | ICJ ordered Myanmar to prevent genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Myanmar Rohingya Genocide" - https://en.wikipedia.org/wiki/Myanmar_Rohingya_Genocide
 
@@ -52,3 +52,6 @@ This section adds high-level factual context to the article on **myanmar rohingy
 ### Related topics
 - Comparable events or figures in the same region or time period.
 - Institutions, laws, or movements that shaped the topic or were shaped by it.
+
+
+## References

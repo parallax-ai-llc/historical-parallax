@@ -23,7 +23,7 @@ Massive DDoS attack on anti-spam organization Spamhaus in 2013 that peaked at 30
 | 2013 | Peaked at 300 Gbps |
 | 2013 | Sven Olaf Kamphuis arrested |
 
-## References
+
 
 [^1]: Wikipedia, "Spamhaus DDoS Attack" - https://en.wikipedia.org/wiki/Spamhaus_DDoS_Attack
 
@@ -52,3 +52,6 @@ Massive DDoS attack on anti-spam organization Spamhaus in 2013 that peaked at 30
 
 - Large-scale DDoS capacity can be created by aggregating many small, third-party systems rather than relying only on raw botnet bandwidth.
 - Defensive posture increasingly depends on upstream coordination, rapid filtering, and reducing globally exposed amplification services.
+
+
+## References

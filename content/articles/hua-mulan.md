@@ -22,7 +22,7 @@ Hua Mulan is a legendary Chinese warrior who disguised herself as a man to serve
 | c.400s | Served in Chinese army disguised as a man |
 | c.500 | Story first recorded in 'Ballad of Mulan' |
 
-## References
+
 
 [^1]: Wikipedia, "Hua Mulan" - https://en.wikipedia.org/wiki/Hua_Mulan
 
@@ -58,3 +58,6 @@ Common versions share a set of motifs:
 
 - **Northern Wei:** a dynasty sometimes associated with the ballad’s setting.
 - **Chinese ballad tradition:** oral and textual transmission that can produce multiple “authoritative” versions over time.
+
+
+## References

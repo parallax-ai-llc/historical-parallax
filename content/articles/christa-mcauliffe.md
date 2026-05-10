@@ -24,7 +24,7 @@ Christa McAuliffe was selected as the first Teacher in Space by NASA in 1985. Sh
 | 1985 | Selected as first Teacher in Space from 11,000 applicants |
 | 1986 | Killed in Space Shuttle Challenger disaster on January 28 |
 
-## References
+
 
 [^1]: Wikipedia, "Christa McAuliffe" - https://en.wikipedia.org/wiki/Christa_McAuliffe
 
@@ -49,3 +49,6 @@ Christa McAuliffe was selected as the first Teacher in Space by NASA in 1985. Sh
 - **Program:** NASA Teacher in Space Project
 - **Mission:** STS-51-L (Challenger)
 - **Primary legacy:** science education inspiration and safety-culture reforms after Challenger
+
+
+## References

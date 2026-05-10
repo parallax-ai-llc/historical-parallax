@@ -19,7 +19,7 @@ Diego León Montoya Sánchez, known as 'Don Diego,' was the head of the Norte de
 |------|-------|
 | 1958 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -58,3 +58,6 @@ Diego León Montoya Sánchez, known as 'Don Diego,' was the head of the Norte de
 - Norte del Valle Cartel
 - Colombian conflict and organized crime
 - U.S.–Colombia counternarcotics cooperation
+
+
+## References

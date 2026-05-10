@@ -41,7 +41,7 @@ Duplicate consolidated.
   - Documented events leading to notoriety
   - Legal status (charges, conviction, sentencing), where applicable
 
-## References
+
 
 [^1]: Wikipedia, "Tarrant" - https://en.wikipedia.org/wiki/Tarrant
 
@@ -51,3 +51,6 @@ Duplicate consolidated.
   - Court records and sentencing remarks (where public)
   - Government inquiries or official reviews (where applicable)
   - Reputable long-form journalism and fact-checked timelines
+
+
+## References

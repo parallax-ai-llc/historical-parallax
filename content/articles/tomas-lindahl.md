@@ -23,7 +23,7 @@ Tomas Lindahl is a Swedish biochemist who shared the 2015 Nobel Prize in Chemist
 | 1974 | Discovered base excision repair |
 | 2015 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Tomas Lindahl" - https://en.wikipedia.org/wiki/Tomas_Lindahl
 
@@ -48,3 +48,6 @@ Tomas Lindahl is a Swedish biochemist who shared the 2015 Nobel Prize in Chemist
 - DNA damage and repair
 - Genome stability
 - Cancer biology (DNA repair pathways)
+
+
+## References

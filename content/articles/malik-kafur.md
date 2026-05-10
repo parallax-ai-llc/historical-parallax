@@ -22,7 +22,7 @@ Military commander of the Delhi Sultanate who led devastating campaigns across s
 | 1311 | Led campaigns devastating Hoysala and Pandya kingdoms in south India |
 | 1316 | Murdered by palace nobles after attempting to seize power |
 
-## References
+
 
 [^1]: Wikipedia, "Malik Kafur" - https://en.wikipedia.org/wiki/Malik_Kafur
 
@@ -63,3 +63,6 @@ Kafur’s career is remembered primarily for:
 ## Notes on sources
 
 Much of what is known is filtered through court chronicles and later historical reconstructions. Interpretations vary on the balance between strategic objectives and the immediate fiscal motives of the campaigns, and on the reliability of specific claims about court intrigue.
+
+
+## References

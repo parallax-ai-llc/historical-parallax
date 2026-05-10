@@ -23,7 +23,7 @@ Kim Soo-nyung won four Olympic gold medals in archery across three Games, the mo
 | 1992 | Won gold at Barcelona |
 | 2000 | Won relay gold at Sydney at age 29 |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Soo-nyung" - https://en.wikipedia.org/wiki/Kim_Soo-nyung
 
@@ -50,3 +50,6 @@ Kim Soo-nyung won four Olympic gold medals in archery across three Games, the mo
 - Wikipedia article linked above for a starting overview.
 - Olympic records databases for event-by-event results.
 - Analyses of Korea’s national archery program and training systems.
+
+
+## References

@@ -3,6 +3,7 @@ name: "Kentaro Miura"
 birth: "1966-07-11"
 nationality: "Japanese"
 occupation: ["Manga Artist"]
+image: "https://upload.wikimedia.org/wikipedia/en/a/a6/Kentaro_Miura_in_2020.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kentaro_Miura"
 lastUpdated: "2026-03-12"

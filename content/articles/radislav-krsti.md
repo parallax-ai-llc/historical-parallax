@@ -22,7 +22,7 @@ Bosnian Serb general and first person convicted of genocide by the ICTY for his 
 | 1995 | Commanded forces during Srebrenica massacre |
 | 2001 | First ICTY genocide conviction |
 
-## References
+
 
 [^1]: Wikipedia, "Radislav Krstić" - https://en.wikipedia.org/wiki/Radislav_Krsti%C4%87
 
@@ -48,3 +48,6 @@ Bosnian Serb general and first person convicted of genocide by the ICTY for his 
 - It is frequently cited in debates about the effectiveness and limits of international tribunals in delivering justice and deterrence.
 - Related Srebrenica cases built a wider factual record through overlapping testimony, documents, and command-structure analysis.
 
+
+
+## References

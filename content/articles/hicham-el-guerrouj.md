@@ -23,7 +23,7 @@ Hicham El Guerrouj holds world records in the 1,500m (3:26.00) and mile (3:43.13
 | 1999 | Set mile world record |
 | 2004 | Won 1,500m and 5,000m at Athens |
 
-## References
+
 
 [^1]: Wikipedia, "Hicham El Guerrouj" - https://en.wikipedia.org/wiki/Hicham_El_Guerrouj
 
@@ -49,3 +49,6 @@ El Guerrouj’s accomplishments helped raise the international profile of Morocc
 - 1500 metres
 - Mile run
 - 5000 metres
+
+
+## References

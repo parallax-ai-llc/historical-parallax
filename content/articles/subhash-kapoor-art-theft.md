@@ -34,7 +34,7 @@ The Kapoor case is frequently cited in discussions about the global market for c
 | 2012 | Arrested in Germany |
 | 2022 | Convicted in India |
 
-## References
+
 
 [^1]: Wikipedia, "Subhash Kapoor Art Theft" - https://en.wikipedia.org/wiki/Subhash_Kapoor_Art_Theft
 
@@ -48,3 +48,6 @@ Museums and collectors are generally expected to conduct due diligence before ac
 - Sudden appearance of a major object on the market without excavation or collection history
 - Reliance on photocopied paperwork or unverifiable “private collection” claims
 - Export permits that cannot be independently confirmed with source-country authorities
+
+
+## References

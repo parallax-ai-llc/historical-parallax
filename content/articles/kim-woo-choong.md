@@ -5,7 +5,7 @@ birth: "1936-12-19"
 death: "2019-12-19"
 nationality: "South Korea"
 occupation: ["Financial Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kim-woo-choong.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Woo-choong"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Founder of Daewoo Group who perpetrated a $43 billion accounting fraud, the larg
 | 1999 | Daewoo collapsed amid fraud |
 | 2006 | Convicted of embezzlement and fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Woo-choong" - https://en.wikipedia.org/wiki/Kim_Woo-choong
 
@@ -51,3 +51,6 @@ The Daewoo case is often discussed in relation to:
 - post-crisis corporate restructuring,
 - governance reforms and transparency standards,
 - the economic and political influence of chaebol in South Korea.
+
+
+## References

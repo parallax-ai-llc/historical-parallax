@@ -23,7 +23,7 @@ Marc Márquez won eight MotoGP World Championships, including six premier-class 
 | 2014 | Won 13 of 18 races |
 | 2019 | Won eighth World Championship |
 
-## References
+
 
 [^1]: Wikipedia, "Marc Márquez" - https://en.wikipedia.org/wiki/Marc_M%C3%A1rquez
 
@@ -48,3 +48,6 @@ Marc Márquez won eight MotoGP World Championships, including six premier-class 
 - This summary focuses on headline achievements; detailed season statistics and team affiliations are available in the reference.
 
 - MotoGP championships are commonly compared across eras with caution because regulations and competition formats change over time.
+
+
+## References

@@ -24,7 +24,7 @@ British trader who was the first person convicted for manipulating LIBOR, the gl
 | 2015 | Convicted; sentenced to 14 years, reduced to 11 |
 | 2021 | Released from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Tom Hayes" - https://en.wikipedia.org/wiki/Tom_Hayes
 
@@ -54,3 +54,6 @@ LIBOR는 대출·파생상품 등 방대한 금융 계약의 기준금리로 사
 - 영향: 후대에 남긴 파급(법·정책·학문·대중문화 등)
 - 참고: 1차 기록과 2차 연구의 구분
 
+
+
+## References

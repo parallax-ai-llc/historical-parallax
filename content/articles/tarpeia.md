@@ -21,7 +21,7 @@ Legendary Roman woman who betrayed Rome to the Sabines by opening the city gates
 |------|-------|
 | -750 | Betrayed Rome to the Sabines |
 
-## References
+
 
 [^1]: Wikipedia, "Tarpeia" - https://en.wikipedia.org/wiki/Tarpeia
 
@@ -51,3 +51,6 @@ Because Tarpeia is a legendary figure, accounts vary across authors and periods.
 - Capitoline Hill
 - Tarpeian Rock
 
+
+
+## References

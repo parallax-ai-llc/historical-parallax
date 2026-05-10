@@ -21,7 +21,7 @@ Italian criminal who committed the Circeo massacre and later murdered again afte
 |------|-------|
 | 1975 | Committed Circeo massacre |
 
-## References
+
 
 [^1]: Wikipedia, "Angelo Izzo" - https://en.wikipedia.org/wiki/Angelo_Izzo
 
@@ -69,3 +69,6 @@ Italian criminal who committed the Circeo massacre and later murdered again afte
 ## References (Additional)
 
 [^2]: Wikipedia section summaries and linked sources in "Angelo Izzo" (for the 1975 Circeo massacre overview and later-crime timeline) - https://en.wikipedia.org/wiki/Angelo_Izzo
+
+
+## References

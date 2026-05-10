@@ -13,20 +13,20 @@ lastUpdated: "2026-02-21"
 
 ## 简介
 
-普拉桑塔·钱德拉·马哈拉诺比斯（Prasanta Chandra Mahalanobis）开发了马氏距离（Mahalanobis distance），这是一种广泛应用于聚类分析和分类的统计量。他创立了印度统计研究所和《Sankhya》期刊。他还设计了印度的第二个五年计划，并率先使用大规模抽样调查。
+普拉桑塔·钱德拉·马哈拉诺比斯（Prasanta Chandra Mahalanobis）开发了马氏距离（Mahalanobis distance），这是一种广泛用于聚类分析和分类的统计量。他创办了印度统计研究所（Indian Statistical Institute）和期刊《Sankhya》。他也是印度第二个五年计划的建筑师，并率先使用了大规模抽样调查。
 
-## 职业生涯时间线
+## 职业生涯年表
 
 | 年份 | 事件 |
 |------|-------|
 | 1893 | 出生于印度加尔各答 |
 | 1915 | 毕业于剑桥大学国王学院 |
-| 1931 | 创立印度统计研究所 |
+| 1931 | 创办印度统计研究所 |
 | 1936 | 提出马氏距离 |
-| 1950 | 创办《Sankhya》期刊 |
+| 1950 | 创办期刊《Sankhya》 |
 | 1955 | 设计了印度的第二个五年计划 |
 | 1972 | 在加尔各答去世 |
 
 ## 参考资料
 
-[^1]: 维基百科，“普拉桑塔·钱德拉·马哈拉诺比斯” - https://en.wikipedia.org/wiki/Prasanta_Chandra_Mahalanobis
+[^1]: Wikipedia, "Prasanta Chandra Mahalanobis" - https://en.wikipedia.org/wiki/Prasanta_Chandra_Mahalanobis

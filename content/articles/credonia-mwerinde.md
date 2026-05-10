@@ -24,7 +24,7 @@ Ugandan cult leader who co-led the Movement for the Restoration of the Ten Comma
 | 2000 | Additional mass graves found; 778+ dead |
 | 2000 | Disappeared; presumed dead or fled |
 
-## References
+
 
 [^1]: Wikipedia, "Credonia Mwerinde" - https://en.wikipedia.org/wiki/Credonia_Mwerinde
 
@@ -50,3 +50,6 @@ The 2000 events are frequently cited in discussions of modern mass-casualty cult
 
 - Movement for the Restoration of the Ten Commandments of God
 - Kanungu cult massacre (2000)
+
+
+## References

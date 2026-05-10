@@ -5,7 +5,7 @@ birth: "1950-06-25"
 death: "1953-07-27"
 nationality: "Korea"
 occupation: ["Historical Event", "War", "Cold War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Korean_War"
 lastUpdated: "2026-02-21"

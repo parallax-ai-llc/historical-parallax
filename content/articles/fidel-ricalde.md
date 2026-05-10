@@ -21,7 +21,7 @@ Peruvian Amazon rubber agent who committed systematic atrocities against indigen
 |------|-------|
 | 1907 | Committed atrocities in Putumayo rubber trade |
 
-## References
+
 
 [^1]: Wikipedia, "Fidel Ricalde" - https://en.wikipedia.org/wiki/Fidel_Ricalde
 
@@ -67,3 +67,6 @@ Peruvian Amazon rubber agent who committed systematic atrocities against indigen
 
 - Historical accounts and investigations of the Putumayo rubber trade and its human-rights abuses.
 - Studies of extractive frontier economies and debt peonage systems in the Amazon.
+
+
+## References

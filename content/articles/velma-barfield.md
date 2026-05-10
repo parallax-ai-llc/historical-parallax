@@ -25,7 +25,7 @@ Velma Barfield was the first woman executed in the US since 1962. She poisoned s
 | 1979 | Confessed to additional poisonings after conviction | 
 | 1984 | Executed by lethal injection in North Carolina |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Velma Barfield" (accessed via linked page in frontmatter).
 
@@ -53,3 +53,6 @@ Velma Barfield was the first woman executed in the US since 1962. She poisoned s
 - Primary method: covert poisoning over time, rather than direct physical attacks.
 - Detection: depended heavily on toxicology testing and exhumation in reopened investigations.
 - Historical significance: execution marked a major milestone in the modern era of capital punishment for women in the U.S.
+
+
+## References

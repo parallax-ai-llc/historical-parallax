@@ -23,7 +23,7 @@ See Wolfgang Přiklopil. Natascha Kampusch was kidnapped at age 10 and held capt
 | 1998–2006 | Held in captivity for over eight years |
 | 2006 | Escaped captivity; captor Wolfgang Přiklopil died by suicide shortly after |
 
-## References
+
 
 [^1]: Wikipedia, "Natascha Kampusch kidnapping" - https://en.wikipedia.org/wiki/Natascha_Kampusch_kidnapping
 
@@ -60,3 +60,6 @@ See Wolfgang Přiklopil. Natascha Kampusch was kidnapped at age 10 and held capt
 - The frontmatter `occupation` field in this stub lists "Kidnapper"; the event primarily concerns the **victim’s kidnapping** and is typically categorized by the perpetrator’s actions rather than the victim’s occupation.
 - For biography-level details (dates, locations, legal history), prefer the linked reference and major news archives.
 
+
+
+## References

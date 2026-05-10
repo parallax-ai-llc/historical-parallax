@@ -22,7 +22,7 @@ Former Trump Organization CFO imprisoned for tax fraud. Pled guilty to 15 feloni
 | 2022 | Convicted of tax fraud |
 | 2024 | Convicted of perjury |
 
-## References
+
 
 [^1]: Wikipedia, "Allen Weisselberg" - https://en.wikipedia.org/wiki/Allen_Weisselberg
 
@@ -61,3 +61,6 @@ Weisselberg's prosecutions are often discussed in the context of:
 ## Additional References
 
 [^2]: Background and case summaries as compiled in Wikipedia and its cited sources.
+
+
+## References

@@ -35,7 +35,7 @@ French serial killer who poisoned 36 people with arsenic between 1833 and 1851 w
 - **Forensic limits:** medical and investigative constraints in the mid-1800s shaped how poisoning cases were proven.
 - **Public fear and sensational coverage:** notorious poisoning trials often became major news events in 19th-century Europe.
 
-## References
+
 
 [^1]: Wikipedia, "Helene Jegado" - https://en.wikipedia.org/wiki/Helene_Jegado
 
@@ -50,3 +50,6 @@ French serial killer who poisoned 36 people with arsenic between 1833 and 1851 w
 - Poisoning
 - History of forensic toxicology
 - Criminal trials in 19th-century Europe
+
+
+## References

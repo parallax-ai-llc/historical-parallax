@@ -23,7 +23,7 @@ French serial killer who murdered 5 women and a transgender person in Toulouse b
 | 1997 | Arrested |
 | 2002 | Convicted; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Patrice Alègre" - https://en.wikipedia.org/wiki/Patrice_Al%C3%A8gre
 
@@ -49,3 +49,6 @@ Readers may also look for:
 - Broader historical or social context for the period
 - Similar figures/events in the same domain
 - Summaries in reference works and major news archives
+
+
+## References

@@ -23,7 +23,7 @@ Claressa Shields won Olympic boxing gold at 2012 London and 2016 Rio, the first 
 | 2016 | Won second Olympic gold at Rio |
 | 2017 | Became undisputed middleweight champion |
 
-## References
+
 
 [^1]: Wikipedia, "Claressa Shields" - https://en.wikipedia.org/wiki/Claressa_Shields
 
@@ -48,3 +48,6 @@ Shields has also competed in **mixed martial arts (MMA)**, a relatively uncommon
 ### Significance
 
 Shields is frequently cited in discussions of the growth of women's boxing in the U.S., including the visibility gained from Olympic success and the subsequent push for professional pay-per-view opportunities and main-event status.
+
+
+## References

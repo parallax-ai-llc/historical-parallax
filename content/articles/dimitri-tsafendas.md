@@ -23,7 +23,7 @@ Mozambican-Greek assassin who stabbed South African Prime Minister Hendrik Verwo
 | 1966 | Found not guilty by reason of insanity |
 | 1999 | Died in psychiatric hospital |
 
-## References
+
 
 [^1]: Wikipedia, "Dimitri Tsafendas" - https://en.wikipedia.org/wiki/Dimitri_Tsafendas
 
@@ -51,3 +51,6 @@ This summary is based on the linked reference and keeps claims high-level; for s
 
 - Apartheid-era South African politics
 - Political violence and parliamentary security
+
+
+## References

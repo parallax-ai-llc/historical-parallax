@@ -23,7 +23,7 @@ Hijacking of the Italian cruise ship Achille Lauro by the Palestine Liberation F
 | 1985 | Leon Klinghoffer murdered |
 | 1985 | Hijackers surrendered in Egypt |
 
-## References
+
 
 [^1]: Wikipedia, "Achille Lauro Hijacking" - https://en.wikipedia.org/wiki/Achille_Lauro_Hijacking
 
@@ -51,3 +51,6 @@ The event is frequently cited in modern terrorism studies because it combined ma
 - For biographies, award records and official competition databases are usually the most reliable for results and dates.
 - For conflicts and security topics, contemporary reporting may be incomplete; later research can revise early accounts.
 - This article keeps the overview high-level and points to the reference section for deeper sourcing.
+
+
+## References

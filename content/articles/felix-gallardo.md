@@ -19,7 +19,7 @@ Already covered as Miguel Ángel Félix Gallardo.
 |------|-------|
 | 1946 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Identity and Naming
@@ -75,3 +75,6 @@ Already covered as Miguel Ángel Félix Gallardo.
 - It provides a case study in how illicit markets scale: logistics, finance, protection arrangements, and the fragmentation of groups over time.
 - The longer-term consequences include intensified competition among successor organizations and persistent institutional challenges around corruption and violence.
 
+
+
+## References

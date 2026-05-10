@@ -5,7 +5,7 @@ birth: "1955-09-01"
 death: "Unknown"
 nationality: "Indonesia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Setya_Novanto_Official_Portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Setya_Novanto"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Former speaker of the Indonesian House of Representatives convicted of embezzlin
 | 2017 | Faked car accident to delay corruption trial |
 | 2018 | Sentenced to 15 years for embezzling e-ID card project funds |
 
-## References
+
 
 [^1]: Wikipedia, "Setya Novanto" - https://en.wikipedia.org/wiki/Setya_Novanto
 
@@ -48,3 +48,6 @@ Former speaker of the Indonesian House of Representatives convicted of embezzlin
 - The e-KTP scandal is frequently referenced as a case study in procurement vulnerability and political patronage.
 - The KPK’s role in pursuing senior figures has been central to Indonesia’s modern anti-corruption narrative.
 - It also underscored the reputational and governance costs of large-scale identity and IT procurement failures.
+
+
+## References

@@ -23,7 +23,7 @@ Belgian criminal associated with child kidnapper Marc Dutroux who was suspected 
 | 2004 | Acquitted of kidnapping, convicted of drug trafficking |
 | 2019 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Michel Nihoul" - https://en.wikipedia.org/wiki/Michel_Nihoul
 
@@ -49,3 +49,6 @@ Even after acquittals on certain counts, his association with the Dutroux affair
 ## Notes on Sources
 
 Most accessible summaries of Nihoul's life focus on the Dutroux-era allegations and the outcomes of the related trials, along with his conviction for drug trafficking.
+
+
+## References

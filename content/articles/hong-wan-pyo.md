@@ -23,7 +23,7 @@ South Korean serial killer who murdered at least 9 women in the 1990s in Seoul a
 | 1998 | Arrested |
 | 2000 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Hong Wan-pyo" - https://en.wikipedia.org/wiki/Hong_Wan-pyo
 
@@ -48,3 +48,6 @@ As with many serial-crime cases, media coverage and public reaction raised quest
 ## Notes
 
 Counts such as “at least” reflect the uncertainty that can remain in historical reporting and case attribution; consult court records and investigative summaries where available.
+
+
+## References

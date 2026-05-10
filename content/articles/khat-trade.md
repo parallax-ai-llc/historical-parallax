@@ -21,7 +21,7 @@ The chewing stimulant khat is legal in some countries but banned in others. A ma
 |------|-------|
 | 2014 | UK banned khat |
 
-## References
+
 
 [^1]: Wikipedia, "Khat Trade" - https://en.wikipedia.org/wiki/Khat_Trade
 
@@ -62,3 +62,6 @@ Khat sits in a legal gray zone internationally:
 ## Notes
 
 This article describes the **trade ecosystem** around khat rather than a single individual or organization; it is often discussed as a transnational commodity flow shaped by law, logistics, and diaspora consumption.
+
+
+## References

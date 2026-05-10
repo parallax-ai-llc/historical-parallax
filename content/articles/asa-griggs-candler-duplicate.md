@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1851 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Asa Griggs Candler duplicate" - https://en.wikipedia.org/wiki/Asa_Griggs_Candler_duplicate
 
@@ -49,3 +49,6 @@ This page appears to be a **duplicate/placeholder entry** for the American entre
 ## Additional References
 
 [^2]: Wikipedia, "Asa Griggs Candler" - https://en.wikipedia.org/wiki/Asa_Griggs_Candler
+
+
+## References

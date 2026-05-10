@@ -23,7 +23,7 @@ Bosnian Serb commander convicted of rape and enslavement of Bosniak women in Foc
 | 1998 | Arrested |
 | 2001 | Sentenced to 28 years |
 
-## References
+
 
 [^1]: Wikipedia, "Dragoljub Kunarac" - https://en.wikipedia.org/wiki/Dragoljub_Kunarac
 
@@ -49,3 +49,6 @@ The Kunarac case is often cited in discussions of international criminal law bec
 - Foča (Bosnian War)
 - International Criminal Tribunal for the former Yugoslavia (ICTY)
 - Crimes against humanity
+
+
+## References

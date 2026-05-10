@@ -22,7 +22,7 @@ Former spokesman of the Tehrik-i-Taliban Pakistan who claimed responsibility for
 | 2012 | Claimed TTP responsibility for shooting of Malala Yousafzai |
 | 2020 | Escaped military custody under suspicious circumstances |
 
-## References
+
 
 [^1]: Wikipedia, "Ehsanullah Ehsan" - https://en.wikipedia.org/wiki/Ehsanullah_Ehsan
 
@@ -62,3 +62,6 @@ For a more rigorous profile, typical items to corroborate from primary sources i
 ## References (Extended)
 
 - [^1] provides a consolidated overview; additional detail is commonly available via Pakistani press archives and international reporting on TTP and Malala Yousafzai’s case.
+
+
+## References

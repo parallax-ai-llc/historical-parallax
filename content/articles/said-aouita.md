@@ -37,7 +37,7 @@ Aouita’s name remains associated with Morocco’s rise as a global force in di
 ## Notes on Sources
 
 Event-by-event records and dates can differ across databases; readers should verify specific marks and meet details in official athletics statistics where needed.
-## References
+
 
 [^1]: Wikipedia, "Said Aouita" - https://en.wikipedia.org/wiki/Said_Aouita
 
@@ -54,3 +54,6 @@ Event-by-event records and dates can differ across databases; readers should ver
 - Names, dates, and claims should be cross-checked against the cited reference(s).
 - Where events involve crimes or violence, summaries avoid unnecessary graphic detail.
 - For full context, consult multiple reputable sources (official records, major news archives, and scholarly works when available).
+
+
+## References

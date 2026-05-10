@@ -50,7 +50,7 @@ Kevin De Bruyne is one of the greatest midfielders of his generation, winning mu
 - Injuries periodically disrupted seasons, affecting availability during congested fixture schedules.
 - Despite setbacks, he returned to elite performance levels and maintained a reputation for consistency at the top level.
 
-## References
+
 
 [^1]: Wikipedia, "Kevin De Bruyne" - https://en.wikipedia.org/wiki/Kevin_De_Bruyne
 
@@ -68,3 +68,6 @@ Kevin De Bruyne is one of the greatest midfielders of his generation, winning mu
 
 - In broader football discourse, he is regularly cited among the defining playmakers of the Premier League era.
 - His peak seasons are often used as examples of how elite midfielders can combine volume creation with efficiency.
+
+
+## References

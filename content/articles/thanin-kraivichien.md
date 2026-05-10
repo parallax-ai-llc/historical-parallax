@@ -22,7 +22,7 @@ Thai prime minister appointed by the military after the 1976 Thammasat Universit
 | 1976 | Became PM after Thammasat University massacre |
 | 1977 | Removed in another military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Thanin Kraivichien" - https://en.wikipedia.org/wiki/Thanin_Kraivichien
 
@@ -50,3 +50,6 @@ Thai prime minister appointed by the military after the 1976 Thammasat Universit
 ## Notes
 
 Descriptions of responsibility and intent vary across sources. This entry focuses on widely reported, high-level features of the period rather than detailed attribution of specific acts.
+
+
+## References

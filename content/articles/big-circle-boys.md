@@ -23,7 +23,7 @@ Chinese criminal organization formed by former Red Guards who fled to Hong Kong 
 | 1980s | Expanded internationally |
 | 2000s | Active across Americas and Asia |
 
-## References
+
 
 [^1]: Wikipedia, "Big Circle Boys" - https://en.wikipedia.org/wiki/Big_Circle_Boys
 
@@ -50,3 +50,6 @@ Chinese criminal organization formed by former Red Guards who fled to Hong Kong 
 ## Legacy
 
 - “Big Circle Boys” remains a recurring reference point in analyses of late-20th-century Chinese diaspora organized crime and its evolution alongside migration and trade.
+
+
+## References

@@ -24,7 +24,7 @@ Former and current US president who was indicted on 91 felony charges across fou
 | 2024 | Won presidential election |
 | 2025 | Federal cases dropped, other charges dismissed |
 
-## References
+
 
 [^1]: Wikipedia, "Donald Trump Indictments" - https://en.wikipedia.org/wiki/Donald_Trump_Indictments
 
@@ -53,3 +53,6 @@ Beyond the individual defendant, the cases became reference points for how moder
 - Clear venue and jurisdiction rules
 - Pretrial publicity management and jury selection challenges
 - The distinction between alleged conduct, charged offenses, and proven findings
+
+
+## References

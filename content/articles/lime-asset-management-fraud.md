@@ -22,7 +22,7 @@ Lime Asset Management suspended redemptions on $1.7 billion worth of funds after
 | 2019 | Fund redemptions suspended |
 | 2021 | Executives convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Lime Asset Management Fraud" - https://en.wikipedia.org/wiki/Lime_Asset_Management_Fraud
 
@@ -51,3 +51,6 @@ Lime Asset Management suspended redemptions on $1.7 billion worth of funds after
 - The scandal is often summarized as a liquidity and disclosure crisis in complex fund products.
 - It reinforced scrutiny of how alternative investments are sold to retail and institutional clients.
 - Subsequent reforms and enforcement actions are commonly discussed as part of its legacy.
+
+
+## References

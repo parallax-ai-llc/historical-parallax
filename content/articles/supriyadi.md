@@ -23,7 +23,7 @@ Indonesian Jemaah Islamiyah operative involved in the 2002 Bali bombings and oth
 | 2005 | Arrested |
 | 2008 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Supriyadi" - https://en.wikipedia.org/wiki/Supriyadi
 
@@ -48,3 +48,6 @@ Summaries of his case typically focus on arrest, trial, and conviction as part o
 ### Notes
 
 Details about an individual operative’s exact responsibilities may be reported differently across sources and court records; concise biographical summaries often compress these distinctions.
+
+
+## References

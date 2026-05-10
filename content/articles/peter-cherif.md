@@ -21,7 +21,7 @@ French jihadist convicted of links to the Charlie Hebdo attackers and AQAP.
 |------|-------|
 | 2018 | Arrested in Djibouti |
 
-## References
+
 
 [^1]: Wikipedia, "Peter Cherif" - https://en.wikipedia.org/wiki/Peter_Cherif
 
@@ -64,3 +64,6 @@ French jihadist convicted of links to the Charlie Hebdo attackers and AQAP.
 
 ## Notes
 - This article is a **high-level** consolidation of public reporting; details (including exact dates and legal characterizations) should be verified against primary court records and official listings when needed.[^1]
+
+
+## References

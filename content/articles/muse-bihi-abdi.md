@@ -22,7 +22,7 @@ President of Somaliland and former military pilot who participated in the bombin
 | 1988 | Participated in aerial bombing of Hargeisa killing estimated 50,000 |
 | 2017 | Elected president of Somaliland |
 
-## References
+
 
 [^1]: Wikipedia, "Muse Bihi Abdi" - https://en.wikipedia.org/wiki/Muse_Bihi_Abdi
 
@@ -52,3 +52,6 @@ This section adds high-level factual context to the article on **muse bihi abdi*
 ### Related topics
 - Comparable events or figures in the same region or time period.
 - Institutions, laws, or movements that shaped the topic or were shaped by it.
+
+
+## References

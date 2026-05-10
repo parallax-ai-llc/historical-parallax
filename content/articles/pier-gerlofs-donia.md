@@ -44,10 +44,13 @@ Frisian pirate and rebel leader known as 'Grutte Pier' who fought against the Ha
 - Donia is remembered in Frisian cultural memory as a figure of resistance.
 - His story is often used to discuss how regional identities are shaped through mythmaking, songs, and commemorations.
 
-## References
+
 
 [^1]: Wikipedia, "Pier Gerlofs Donia" - https://en.wikipedia.org/wiki/Pier_Gerlofs_Donia
 
 ## See also
 
 - Frisian freedom movements and late-medieval privateering in the North Sea region.
+
+
+## References

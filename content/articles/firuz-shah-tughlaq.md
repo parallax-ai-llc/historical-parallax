@@ -22,7 +22,7 @@ Delhi Sultanate ruler who is recorded as having persecuted Hindus and destroyed 
 | 1351 | Became sultan and intensified religious persecution |
 | 1360 | Destroyed Hindu temples and imposed discriminatory policies |
 
-## References
+
 
 [^1]: Wikipedia, "Firuz Shah Tughlaq" - https://en.wikipedia.org/wiki/Firuz_Shah_Tughlaq
 
@@ -49,3 +49,6 @@ Delhi Sultanate ruler who is recorded as having persecuted Hindus and destroyed 
 ## Notes
 
 This page provides a high-level overview; detailed evaluation depends on specific primary sources and modern academic interpretations.
+
+
+## References

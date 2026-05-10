@@ -22,7 +22,7 @@ Known as 'The Great Impostor,' successfully posed as a surgeon, professor, monk,
 | 1951 | Performed surgery as fake doctor |
 | 1960 | The Great Impostor film released |
 
-## References
+
 
 [^1]: Wikipedia, "Ferdinand Demara" - https://en.wikipedia.org/wiki/Ferdinand_Demara
 
@@ -71,3 +71,6 @@ Analyses of Demara typically revolve around:
 - Credential fraud
 - Impostor syndrome (distinct concept)
 - Notable cases of professional impersonation
+
+
+## References

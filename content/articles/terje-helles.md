@@ -21,7 +21,7 @@ Norwegian serial rapist convicted of multiple sexual assaults over two decades.
 |------|-------|
 | 2001 | Convicted of serial rape |
 
-## References
+
 
 [^1]: Wikipedia, "Terje Hellesø" - https://en.wikipedia.org/wiki/Terje_Helles%C3%B8
 
@@ -54,3 +54,6 @@ This article is intentionally high-level.
 For precise charge counts, sentencing details, and dates, consult primary court documents or high-quality reporting in addition to the encyclopedia summary.
 
 [^2]: General background context is summarized from the Wikipedia entry and its cited sources: https://en.wikipedia.org/wiki/Terje_Helles%C3%B8
+
+
+## References

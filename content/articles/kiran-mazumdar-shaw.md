@@ -5,7 +5,7 @@ birth: "1953-03-23"
 death: "living"
 nationality: "Indian"
 occupation: ["Biotechnologist", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Kiran_Mazumdar-Shaw_HD2014_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kiran_Mazumdar-Shaw"
 lastUpdated: "2026-02-21"

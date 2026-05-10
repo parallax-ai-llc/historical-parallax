@@ -21,7 +21,7 @@ Medieval pirate and mercenary who served both England and France before being ca
 |------|-------|
 | 1217 | Captured and beheaded after Battle of Sandwich |
 
-## References
+
 
 [^1]: Wikipedia, "Eustace the Monk" - https://en.wikipedia.org/wiki/Eustace_the_Monk
 
@@ -57,3 +57,6 @@ Medieval pirate and mercenary who served both England and France before being ca
 
 - Battle of Sandwich (1217)
 - First Barons' War
+
+
+## References

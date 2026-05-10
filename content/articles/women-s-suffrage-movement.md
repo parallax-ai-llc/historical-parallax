@@ -26,7 +26,7 @@ The American women's suffrage movement began with the Seneca Falls Convention in
 | 1919 | 19th Amendment passes Congress |
 | 1920-08-18 | 19th Amendment ratified |
 
-## References
+
 
 [^1]: Wikipedia, "Women's Suffrage Movement" - https://en.wikipedia.org/wiki/Women's_Suffrage_Movement
 
@@ -50,3 +50,6 @@ Suffrage movements often contained disagreements about tactics (moderate vs. mil
 ## After Enfranchisement
 
 Winning the vote was a major milestone, but it did not end broader struggles over equal access to education, employment, property rights, and political representation. In many places, additional laws and social practices continued to limit participation for some groups.
+
+
+## References

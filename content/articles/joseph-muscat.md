@@ -21,7 +21,7 @@ Former Malta PM under whose government journalist Caruana Galizia was assassinat
 |------|-------|
 | 2020 | Resigned amid corruption scandal |
 
-## References
+
 
 [^1]: Wikipedia, "Joseph Muscat" - https://en.wikipedia.org/wiki/Joseph_Muscat
 
@@ -71,3 +71,6 @@ High-level themes commonly associated with Muscat's time in office include:
 ## Additional References
 
 [^2]: Reuters coverage on Malta political crisis and Muscat's resignation (see Reuters reporting summaries linked from Wikipedia's reference section).[^1]
+
+
+## References

@@ -21,7 +21,7 @@ German police officer who committed serial murders while serving as a detective.
 |------|-------|
 | 2004 | Committed suicide after being exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Norbert Poehlke" - https://en.wikipedia.org/wiki/Norbert_Poehlke
 
@@ -67,3 +67,6 @@ According to widely reported accounts:
 ## Additional References
 
 [^2]: *Aktenzeichen XY… ungelöst* (public appeal referenced in summaries of the case; see Wikipedia for citations and episode details).
+
+
+## References

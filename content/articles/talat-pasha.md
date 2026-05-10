@@ -24,7 +24,7 @@ Ottoman Grand Vizier who was the principal architect of the Armenian Genocide th
 | 1918 | Fled to Germany after Ottoman defeat |
 | 1921 | Assassinated in Berlin by Armenian Soghomon Tehlirian |
 
-## References
+
 
 [^1]: Wikipedia, "Talat Pasha" - https://en.wikipedia.org/wiki/Talat_Pasha
 
@@ -53,3 +53,6 @@ Talat Pasha’s legacy is highly contested, but in much of the historical litera
 - Armenian Genocide
 - Committee of Union and Progress
 - Young Turk Revolution
+
+
+## References

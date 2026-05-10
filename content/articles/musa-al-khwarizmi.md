@@ -22,7 +22,7 @@ Duplicate of Al-Khwarizmi.
 | 780 | Born |
 | 850 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Musa al-Khwarizmi" - https://en.wikipedia.org/wiki/Musa_al-Khwarizmi
 
@@ -52,3 +52,6 @@ This section adds high-level factual context to the article on **musa al khwariz
 ### Related topics
 - Comparable events or figures in the same region or time period.
 - Institutions, laws, or movements that shaped the topic or were shaped by it.
+
+
+## References

@@ -27,7 +27,7 @@ Myra Hindley and Ian Brady committed the 'Moors murders,' killing five children 
 | 1990s | Multiple legal appeals and parole-related challenges; continued detention amid high public opposition. |
 | 2002 | Died in custody at age 60 after decades in prison. |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -60,3 +60,6 @@ Myra Hindley and Ian Brady committed the 'Moors murders,' killing five children 
 - **Ian Brady** (co-offender)
 - **Saddleworth Moor** (searches and recovery efforts)
 - **UK life imprisonment** (tariffs and parole debates)
+
+
+## References

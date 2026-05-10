@@ -22,7 +22,7 @@ Commander of the Presidential Guard during the Rwandan genocide who ordered the 
 | 1994 | Commanded unit that killed PM Uwilingiyimana and Belgian peacekeepers |
 | 2023 | International Residual Mechanism confirmed he had died in 2006 in Zimbabwe |
 
-## References
+
 
 [^1]: Wikipedia, "Protais Mpiranya" - https://en.wikipedia.org/wiki/Protais_Mpiranya
 
@@ -51,3 +51,6 @@ The history of Mpiranya’s case is frequently referenced in discussions of post
 - Rwandan genocide
 - International criminal tribunals and residual mechanisms
 - UN peacekeeping in Rwanda
+
+
+## References

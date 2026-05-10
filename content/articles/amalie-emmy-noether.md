@@ -30,7 +30,7 @@ Duplicate - see Emmy Noether.
 | 1933 | Joined Bryn Mawr College and lectured at the Institute for Advanced Study. |
 | 1935 | Died in Bryn Mawr, Pennsylvania, after surgery. |
 
-## References
+
 
 [^1]: Wikipedia, "Amalie Emmy Noether" - https://en.wikipedia.org/wiki/Amalie_Emmy_Noether
 
@@ -56,3 +56,6 @@ This page uses her full name (Amalie Emmy Noether). In many historical and mathe
 
 - Weyl, Hermann. *Emmy Noether* (memorial article, 1935) — a widely cited contemporary appreciation of her impact.
 - Standard algebra texts discuss Noetherian rings and modules as core concepts in commutative algebra and beyond.
+
+
+## References

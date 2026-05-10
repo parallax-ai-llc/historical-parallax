@@ -21,7 +21,7 @@ Founder of Mirror Trading International wanted for the $1.7 billion Bitcoin Ponz
 |------|-------|
 | 2023 | Arrested in Brazil |
 
-## References
+
 
 [^1]: Wikipedia, "Cornelius Steynberg" - https://en.wikipedia.org/wiki/Cornelius_Steynberg
 
@@ -58,3 +58,6 @@ Cornelius Steynberg is a South African national who became widely known in conne
 ## Additional References
 
 [^2]: U.S. CFTC, press release / enforcement action related to Mirror Trading International (MTI) and Cornelius Steynberg (see CFTC public releases). https://www.cftc.gov/
+
+
+## References

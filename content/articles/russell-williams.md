@@ -21,7 +21,7 @@ Canadian Air Force colonel who committed murders and sexual assaults while comma
 |------|-------|
 | 2010 | Convicted of murder and sexual assault |
 
-## References
+
 
 [^1]: Wikipedia, "Russell Williams" - https://en.wikipedia.org/wiki/Russell_Williams
 
@@ -61,3 +61,6 @@ Canadian Air Force colonel who committed murders and sexual assaults while comma
 - Domain: military leadership turned criminal offending
 - Peak public visibility: 2010 conviction and reporting
 
+
+
+## References

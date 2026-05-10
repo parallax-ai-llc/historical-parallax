@@ -21,7 +21,7 @@ Mass shooting at Emanuel AME Church in Charleston, South Carolina on June 17, 20
 | 2015 | 9 killed at Bible study |
 | 2017 | Roof sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Charleston Church Shooting" - https://en.wikipedia.org/wiki/Charleston_Church_Shooting
 ## Additional Context
@@ -50,3 +50,6 @@ Mass shooting at Emanuel AME Church in Charleston, South Carolina on June 17, 20
 - Dates shown in the timeline are for orientation and do not substitute for a full chronology.
 - Where a "death" field is unknown, it typically indicates that a reliable public confirmation was not available in the referenced summary source at the time of compilation.
 - If this page is expanded further, adding citations to additional sources is the safest way to increase specificity without introducing errors.
+
+
+## References

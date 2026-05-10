@@ -22,7 +22,7 @@ President Kim Dae-jung's government transferred $500 million to North Korea thro
 | 2000 | $500 million transferred to North Korea |
 | 2003 | Officials convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Dae-jung Cash-for-Summit" - https://en.wikipedia.org/wiki/Kim_Dae-jung_Cash-for-Summit
 
@@ -49,3 +49,6 @@ The case is frequently cited in South Korean politics as a high-profile example 
 - Sunshine Policy
 - 2000 inter-Korean summit
 - Hyundai Group
+
+
+## References

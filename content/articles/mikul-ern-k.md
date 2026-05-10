@@ -20,7 +20,7 @@ Slovak crime boss convicted of ordering 10 murders who ran organized crime in ea
 |------|-------|
 | 2005 | Convicted of 10 murders |
 
-## References
+
 
 [^1]: Wikipedia, "Mikuláš Černák" - https://en.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_%C4%8Cern%C3%A1k
 
@@ -51,3 +51,6 @@ Slovak crime boss convicted of ordering 10 murders who ran organized crime in ea
 - Organized crime in post-1990 Slovakia
 - Contract killings and leadership prosecutions
 - Witness protection and organized-crime trials
+
+
+## References

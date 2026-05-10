@@ -21,7 +21,7 @@ Romanian serial killer who poisoned multiple family members.
 |------|-------|
 | 2003 | Convicted of multiple poisoning murders |
 
-## References
+
 
 [^1]: Wikipedia, "Ramona Firan" - https://en.wikipedia.org/wiki/Ramona_Firan
 
@@ -59,3 +59,6 @@ Romanian serial killer who poisoned multiple family members.
 - Poisoning (forensic toxicology)
 - Serial killer
 - Domestic homicide
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1984-01-18"
 death: "2007-04-16"
 nationality: "South Korea / United States"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/53/Cho_Seung-hui_3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seung-Hui_Cho"
 lastUpdated: "2026-02-26"

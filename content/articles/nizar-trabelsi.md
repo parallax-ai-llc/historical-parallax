@@ -21,7 +21,7 @@ Tunisian former football player convicted of planning a bomb attack on a US air 
 |------|-------|
 | 2003 | Convicted of planning terror attack |
 
-## References
+
 
 [^1]: Wikipedia, "Nizar Trabelsi" - https://en.wikipedia.org/wiki/Nizar_Trabelsi
 
@@ -77,3 +77,5 @@ This article is intentionally high-level and sourced from widely-available publi
 
 [^2]: European Court of Human Rights (ECHR), Article 3 ruling referenced in Wikipedia coverage - https://en.wikipedia.org/wiki/Nizar_Trabelsi
 [^3]: Reporting summarized in Wikipedia regarding U.S. trial outcome (July 2023) and return to Belgium (2025) - https://en.wikipedia.org/wiki/Nizar_Trabelsi
+
+

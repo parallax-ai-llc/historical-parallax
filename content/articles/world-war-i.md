@@ -26,7 +26,7 @@ WWI (1914-18) killed 17 million. Trench warfare, gas, and new technology. Four e
 | 1918 | German offensive fails |
 | 1918-11-11 | Armistice |
 
-## References
+
 
 [^1]: Wikipedia, "World War I" - https://en.wikipedia.org/wiki/World_War_I
 
@@ -50,3 +50,6 @@ The war contributed to the collapse or transformation of major empires and resha
 ## Memory and Legacy
 
 WWI left a lasting cultural imprint through literature, memorials, and public commemoration, and is frequently studied as a precursor to later conflicts in the twentieth century.
+
+
+## References

@@ -23,7 +23,7 @@ Three women - Amanda Berry, Gina DeJesus, and Michelle Knight - were held captiv
 | 2013 | Victims escaped |
 | 2013 | Castro sentenced to life plus 1,000 years |
 
-## References
+
 
 [^1]: Wikipedia, "Ariel Castro kidnappings" - https://en.wikipedia.org/wiki/Cleveland_kidnappings
 
@@ -48,3 +48,6 @@ The case prompted extensive public discussion about missing-person investigation
 ### Note on naming
 
 The event is commonly referred to as the "Cleveland kidnappings" in media, while Wikipedia titles it "Ariel Castro kidnappings."
+
+
+## References

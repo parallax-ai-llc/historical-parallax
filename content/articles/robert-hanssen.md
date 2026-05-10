@@ -5,7 +5,7 @@ birth: "1944-04-18"
 death: "2023-06-05"
 nationality: "United States"
 occupation: ["Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Robert_Hanssen.jpg/3840px-Robert_Hanssen.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Hanssen"
 lastUpdated: "2026-02-26"

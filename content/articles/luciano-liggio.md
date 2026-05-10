@@ -19,7 +19,7 @@ Luciano Liggio was the boss of the Corleonesi clan in Sicily. He was the mentor 
 |------|-------|
 | 1925 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Expanded Context
@@ -56,3 +56,6 @@ Luciano Liggio was the boss of the Corleonesi clan in Sicily. He was the mentor 
 - **Wikipedia**: Useful for an orientation and links to named associates, operations, and trials (verify with higher-quality sources).
 - **Judicial and investigative histories**: Works summarizing major anti-Mafia investigations and the evolution of Cosa Nostra leadership in the 20th century.
 - **Biographies of Riina/Provenzano**: Often include background chapters on Liggio and early Corleonesi dynamics.
+
+
+## References

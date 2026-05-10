@@ -24,7 +24,7 @@ Pierre-Gilles de Gennes won the 1991 Nobel Prize for discovering that methods fo
 | 1991 | Nobel Prize |
 | 2007 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Pierre-Gilles de Gennes" - https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes
 
@@ -51,3 +51,6 @@ De Gennes was known for crossing subfields and for a pragmatic style: using simp
 - **Order parameter** and **symmetry breaking** as organizing ideas for phases of matter.
 - **Topological defects** (e.g., disclinations) in ordered media such as liquid crystals.
 - **Scaling** and **renormalization-style reasoning** applied to complex materials.
+
+
+## References

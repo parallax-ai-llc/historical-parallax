@@ -5,7 +5,7 @@ birth: "-0990-01-01"
 death: "-0931-01-01"
 nationality: "Israelite"
 occupation: ["King", "Wisdom Teacher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Simeon_Solomon%2C_King_Solomon%2C_1872_or_1874%2C_NGA_76152_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/King_Solomon"
 lastUpdated: "2026-02-21"

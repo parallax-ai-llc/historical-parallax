@@ -22,7 +22,7 @@ Leader of the Séléka rebel coalition who overthrew President Bozizé and becam
 | 2013 | Seized power |
 | 2014 | Forced to resign under international pressure |
 
-## References
+
 
 [^1]: Wikipedia, "Michel Djotodia" - https://en.wikipedia.org/wiki/Michel_Djotodia
 
@@ -51,3 +51,6 @@ Djotodia's brief presidency is typically discussed as part of the CAR's broader 
 - Séléka and anti-Balaka militias
 - regional mediation by Central African states and the African Union
 - international peacekeeping and humanitarian response in the CAR
+
+
+## References

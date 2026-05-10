@@ -21,7 +21,7 @@ Turkish Marxist revolutionary hanged for attempting to overthrow the constitutio
 |------|-------|
 | 1972 | Executed by hanging |
 
-## References
+
 
 [^1]: Wikipedia, "Deniz Gezmiş" - https://en.wikipedia.org/wiki/Deniz_Gezmi%C5%9F
 
@@ -57,3 +57,6 @@ Turkish Marxist revolutionary hanged for attempting to overthrow the constitutio
 
 - Biographical details and interpretations can vary across sources due to the highly politicized nature of the period and the ongoing contest over historical memory.
 
+
+
+## References

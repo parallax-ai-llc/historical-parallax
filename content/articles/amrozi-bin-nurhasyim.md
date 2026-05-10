@@ -23,7 +23,7 @@ Indonesian terrorist known as the Smiling Bomber who helped assemble the 2002 Ba
 | 2003 | Sentenced to death |
 | 2008 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Amrozi bin Nurhasyim" - https://en.wikipedia.org/wiki/Amrozi_bin_Nurhasyim
 ## Role in the 2002 Bali Bombings
@@ -49,3 +49,6 @@ The nickname "Smiling Bomber" reflects photographs and courtroom appearances in 
 - **Primary source**: the linked Wikipedia article in References.
 - **Scope**: high-level overview; preserves existing content and adds context.
 
+
+
+## References

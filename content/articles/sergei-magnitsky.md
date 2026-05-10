@@ -5,7 +5,7 @@ birth: "1972-04-08"
 death: "2009-11-16"
 nationality: "Russia"
 occupation: ["Whistleblower"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/MagnitskySergei.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergei_Magnitsky"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Russian tax accountant who uncovered a $230 million tax fraud scheme involving R
 | 2009 | Died in custody after being beaten and denied medical care |
 | 2012 | US passed Magnitsky Act sanctioning responsible officials |
 
-## References
+
 
 [^1]: Wikipedia, "Sergei Magnitsky" - https://en.wikipedia.org/wiki/Sergei_Magnitsky
 
@@ -48,3 +48,6 @@ Russian tax accountant who uncovered a $230 million tax fraud scheme involving R
 - The Magnitsky case is frequently referenced as an example of how a single custody death can catalyze durable foreign-policy tools.
 - In contemporary policy discussions, the term “Magnitsky sanctions” often functions as shorthand for individualized accountability mechanisms rather than broad country-wide embargoes.
 - The Magnitsky framework is frequently discussed as part of a wider shift toward financial and travel restrictions as tools of diplomatic pressure.
+
+
+## References

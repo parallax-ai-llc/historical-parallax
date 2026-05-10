@@ -21,7 +21,7 @@ Former Kyrgyz PM convicted in absentia of corruption and abuse of power after fl
 |------|-------|
 | 2010 | Fled during revolution; convicted in absentia |
 
-## References
+
 
 [^1]: Wikipedia, "Daniyar Usenov" - https://en.wikipedia.org/wiki/Daniyar_Usenov
 
@@ -69,3 +69,6 @@ Former Kyrgyz PM convicted in absentia of corruption and abuse of power after fl
 
 [^2]: Jamestown Foundation (Eurasia Daily Monitor), "Upcoming referendum sinks Kyrgyzstan deeper into crisis" (context on Bishkek politics, cited by Wikipedia) — https://jamestown.org/program/upcoming-referendum-sinks-kyrgyzstan-deeper-into-crisis/
 [^3]: Radio Free Europe/Radio Liberty (archived bio, cited by Wikipedia) — https://web.archive.org/web/20070930011136/http://www.rferl.org/specials/kyrgyzelections/bios/Usenov.asp
+
+
+## References

@@ -22,7 +22,7 @@ Slovak serial killer and cannibal who murdered at least 3 women between 2009 and
 | 2009 | Committed first known murder |
 | 2011 | Remains discovered; killed himself during police raid |
 
-## References
+
 
 [^1]: Wikipedia, "Matej Čurko" - https://en.wikipedia.org/wiki/Matej_%C4%8Curko
 
@@ -48,3 +48,6 @@ In many jurisdictions, posthumous clarity depends on forensic work rather than c
 
 Public summaries vary in detail and may differ on victim counts and chronology.
 For the most reliable account, consult forensic and investigative reporting rather than secondary retellings.
+
+
+## References

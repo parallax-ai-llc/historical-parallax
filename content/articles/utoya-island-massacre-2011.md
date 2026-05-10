@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 2011-07-22 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -49,3 +49,6 @@ This event had significant impact on law enforcement practices, public policy, a
 
 ## Legacy
 The event remains a central reference point in European conversations about lone-actor violence, policing, and safeguarding open societies.
+
+
+## References

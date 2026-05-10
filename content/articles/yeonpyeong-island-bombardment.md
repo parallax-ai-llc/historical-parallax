@@ -21,7 +21,7 @@ North Korea shelled Yeonpyeong Island with 170 artillery rounds killing 4 South 
 |------|-------|
 | 2010 | North Korea shelled civilian island |
 
-## References
+
 
 [^1]: Wikipedia, "Yeonpyeong Island Bombardment" - https://en.wikipedia.org/wiki/Yeonpyeong_Island_Bombardment
 
@@ -53,3 +53,6 @@ The bombardment is widely described as one of the most serious direct attacks on
 
 [^2]: BBC News coverage of the Yeonpyeong shelling (2010) - https://www.bbc.com/news/world-asia-pacific-11818012
 [^3]: Reuters reporting on the incident and regional response (2010) - https://www.reuters.com/
+
+
+## References

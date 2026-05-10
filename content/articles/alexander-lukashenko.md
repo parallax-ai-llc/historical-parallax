@@ -24,7 +24,7 @@ Belarusian president since 1994, often called 'Europe's last dictator.' He has r
 | 2021 | Forced landing of Ryanair flight to arrest journalist |
 | 2022 | Allowed Russian forces to invade Ukraine from Belarus |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Lukashenko" - https://en.wikipedia.org/wiki/Alexander_Lukashenko
 
@@ -68,3 +68,6 @@ Sanctions by Western governments have targeted Belarusian officials, state-linke
 ## Significance
 
 Lukashenko’s rule is frequently discussed as a modern example of durable authoritarian governance in Europe, and as a case where domestic political survival is closely tied to external patronage, security apparatus loyalty, and control of information.
+
+
+## References

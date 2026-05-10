@@ -22,7 +22,7 @@ Co-founder of Three Arrows Capital who fled to avoid creditors after the fund's 
 | 2022 | Three Arrows Capital collapsed leaving $3 billion in debts |
 | 2023 | Arrested in Singapore airport while fleeing |
 
-## References
+
 
 [^1]: Wikipedia, "Su Zhu" - https://en.wikipedia.org/wiki/Su_Zhu
 
@@ -56,3 +56,6 @@ Ovett remains a reference point in discussions of:
 ## Further Reading
 
 - Wikipedia profile (overview, major results, and record notes): see reference below.
+
+
+## References

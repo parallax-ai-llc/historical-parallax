@@ -5,7 +5,7 @@ birth: "1765-11-14"
 death: "1815-02-24"
 nationality: "American"
 occupation: ["Engineer", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Robert_Fulton%2C_1806%2C_London%2C_England%2C_painted_by_Benjamin_West%2C_American%2C_1738-1820_Fenimore_Art_Museum%2C_Cooperstown%2C_N.Y._N0218.1961.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Fulton"
 lastUpdated: "2026-02-21"

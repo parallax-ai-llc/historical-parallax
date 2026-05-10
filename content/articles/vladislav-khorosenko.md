@@ -23,7 +23,7 @@ Russian serial killer active in the Rostov region who murdered 8 women between 1
 | 2007 | Arrested after forensic evidence linked him |
 | 2009 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Vladislav Khorosenko" - https://en.wikipedia.org/wiki/Vladislav_Khorosenko
 
@@ -49,3 +49,6 @@ As with many serial-murder cases, the documentation accessible in English tends 
 
 - Rostov-on-Don and the surrounding oblast have been the setting for multiple high-profile criminal investigations in the post-Soviet era.
 - Forensic linkage across dispersed crime scenes is often central to identifying serial offenders.
+
+
+## References

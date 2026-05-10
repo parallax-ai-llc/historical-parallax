@@ -1,6 +1,6 @@
 ---
 id: "maastricht-treaty"
-name: "马斯特里赫特条约"
+name: "马斯特里赫条约"
 birth: "1992-02-07"
 death: "1992-02-07"
 nationality: "Netherlands"
@@ -13,9 +13,9 @@ lastUpdated: "2026-02-21"
 
 ## 摘要
 
-马斯特里赫特条约（1992年）确立了欧洲联盟，引入了共同公民身份、外交政策以及欧元框架。它将欧洲经济共同体（EEC）转变为一个政治联盟。
+1992年的《马斯特里赫条约》建立了欧盟，确立了共同公民身份、共同外交政策以及欧元的框架。它将欧洲经济共同体转变为一个政治联盟。
 
-## 重要事件时间线
+## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
@@ -28,4 +28,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: 维基百科，“马斯特里赫特条约” - https://en.wikipedia.org/wiki/Maastricht_Treaty
+[^1]: 维基百科，“马斯特里赫条约” - https://en.wikipedia.org/wiki/Maastricht_Treaty

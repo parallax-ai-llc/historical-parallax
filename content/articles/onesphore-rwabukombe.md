@@ -41,10 +41,13 @@ Key themes commonly highlighted include:
 
 The proceedings involved assessment of his role and responsibility for killings at a church where refugees had gathered. German courts evaluated both factual participation and command responsibility questions in arriving at judgment and sentencing.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Onesphore Rwabukombe" - https://en.wikipedia.org/wiki/Onesphore_Rwabukombe
 
 ## Broader Context
 
 Cases like Rwabukombe’s are often referenced in discussions of how the international community pursues accountability when suspects relocate and years pass after mass atrocities. They also illustrate the reliance on survivor communities, archival records, and transnational cooperation to build prosecutable cases.[^1]
+
+
+## References

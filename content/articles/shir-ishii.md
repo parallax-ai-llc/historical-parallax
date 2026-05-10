@@ -5,7 +5,7 @@ birth: "1892-06-25"
 death: "1959-10-09"
 nationality: "Japan"
 occupation: ["Historical Criminal", "War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Shiro_Ishii_as_a_Lieutenant_Colonel_of_the_IJA.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shir%C5%8D_Ishii"
 lastUpdated: "2026-02-26"

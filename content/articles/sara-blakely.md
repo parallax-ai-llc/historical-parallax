@@ -5,7 +5,7 @@ birth: "1971-02-27"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sara_Blakely.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sara_Blakely"
 lastUpdated: "2026-02-21"

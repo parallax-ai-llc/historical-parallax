@@ -23,7 +23,7 @@ Charles-Augustin de Coulomb formulated Coulomb law describing the electrostatic 
 | 1785 | Published Coulomb law |
 | 1806 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Charles-Augustin de Coulomb" - https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb
 
@@ -48,3 +48,6 @@ Coulomb's work helped move electricity and magnetism from qualitative observatio
 - **Inverse-square laws**: a broader mathematical pattern also seen in gravitation and other central-force problems.
 - **Electrostatics in materials**: real-world effects (polarization, screening) that modify ideal point-charge behavior.
 
+
+
+## References

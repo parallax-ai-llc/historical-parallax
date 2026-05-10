@@ -21,7 +21,7 @@ Maltese bank shut down after its Iranian-born owner was arrested in the US for s
 |------|-------|
 | 2018 | Bank shut down |
 
-## References
+
 
 [^1]: Wikipedia, "Pilatus Bank Scandal" - https://en.wikipedia.org/wiki/Pilatus_Bank_Scandal
 
@@ -63,3 +63,6 @@ Maltese bank shut down after its Iranian-born owner was arrested in the US for s
 ## Further Reading
 
 - Wikipedia overview and citations: https://en.wikipedia.org/wiki/Pilatus_Bank_Scandal
+
+
+## References

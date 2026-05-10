@@ -22,7 +22,7 @@ Hwang Young-cho won the 1992 Barcelona Olympic marathon, symbolically avenging S
 | 1992 | Won Olympic marathon gold at Barcelona |
 | 1992 | Victory connected to Sohn Kee-chung's 1936 story |
 
-## References
+
 
 [^1]: Wikipedia, "Hwang Young-cho" - https://en.wikipedia.org/wiki/Hwang_Young-cho
 
@@ -51,3 +51,6 @@ Specific post-competition roles vary by individual and period, but the broad pat
 
 - Marathon at the Summer Olympics
 - Sohn Kee-chung
+
+
+## References

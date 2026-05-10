@@ -3,6 +3,7 @@ name: "Kathryn Bigelow"
 birth: "1951-11-27"
 nationality: "American"
 occupation: ["Film Director", "Producer", "Screenwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kathryn_Bigelow_A_House_of_Dynamite-13_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kathryn_Bigelow"
 lastUpdated: "2026-03-12"

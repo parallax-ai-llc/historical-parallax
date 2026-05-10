@@ -23,7 +23,7 @@ Kenyan ivory trafficker convicted of possessing 2 tons of ivory worth $4 million
 | 2016 | Convicted; sentenced to 20 years |
 | 2018 | Conviction upheld on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Feisal Mohamed Ali" - https://en.wikipedia.org/wiki/Feisal_Mohamed_Ali
 
@@ -48,3 +48,6 @@ Kenyan ivory trafficker convicted of possessing 2 tons of ivory worth $4 million
 - Ivory trade and CITES regulation
 - Kenya Wildlife Service enforcement history
 - Environmental organized crime
+
+
+## References

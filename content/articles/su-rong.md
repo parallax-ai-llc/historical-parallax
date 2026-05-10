@@ -22,7 +22,7 @@ Former vice chairman of the CPPCC National Committee convicted of accepting 116 
 | 2014 | Removed and investigated as part of anti-corruption campaign |
 | 2017 | Sentenced to life imprisonment for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Su Rong" - https://en.wikipedia.org/wiki/Su_Rong
 
@@ -56,3 +56,6 @@ Ovett remains a reference point in discussions of:
 ## Further Reading
 
 - Wikipedia profile (overview, major results, and record notes): see reference below.
+
+
+## References

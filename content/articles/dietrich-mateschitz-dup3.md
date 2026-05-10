@@ -22,7 +22,7 @@ Duplicate.
 |------|-------|
 | 1944 | See Dietrich Mateschitz |
 
-## References
+
 
 [^1]: Wikipedia, "Dietrich Mateschitz dup3" - https://en.wikipedia.org/wiki/Dietrich_Mateschitz_dup3
 
@@ -58,3 +58,6 @@ This entry is intentionally marked as a **duplicate** ("dup3"). The canonical pu
 - Red Bull Racing (Formula One)
 - RB Leipzig / FC Red Bull Salzburg (football clubs associated with the Red Bull brand)
 
+
+
+## References

@@ -23,7 +23,7 @@ Nikola Jokić won three consecutive MVP awards and led Denver to the 2023 NBA ch
 | 2021 | Won first MVP |
 | 2023 | Won NBA championship and Finals MVP |
 
-## References
+
 
 [^1]: Wikipedia, "Nikola Jokić" - https://en.wikipedia.org/wiki/Nikola_Joki%C4%87
 
@@ -51,3 +51,6 @@ Nikola Jokić won three consecutive MVP awards and led Denver to the 2023 NBA ch
 ## Notes
 
 Biographical and award details should be validated against official NBA records and tournament archives when precision is required.
+
+
+## References

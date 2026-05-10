@@ -44,7 +44,7 @@ Proud Boys member who smashed a Capitol window with a police shield on January 6
 - Often cited as an example of direct physical violence and property damage during the Capitol breach.
 - Frequently referenced in discussions about accountability for January 6 participants.
 
-## References
+
 
 [^1]: Wikipedia, "Dominic Pezzola" - https://en.wikipedia.org/wiki/Dominic_Pezzola
 
@@ -53,3 +53,6 @@ Proud Boys member who smashed a Capitol window with a police shield on January 6
 - Associated with the Proud Boys; widely reported in connection with January 6.
 - Known for the allegation (and later conviction-related reporting) involving use of a police shield to break a Capitol window.
 - Convicted on multiple January 6-related charges and sentenced to a substantial term of imprisonment (see reference for details).
+
+
+## References

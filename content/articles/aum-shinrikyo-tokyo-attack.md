@@ -23,7 +23,7 @@ Nerve gas attack on the Tokyo subway system on March 20, 1995 by the Aum Shinrik
 | 1995 | 13 killed, 6,000+ injured |
 | 2018 | Asahara and 12 members executed |
 
-## References
+
 
 [^1]: Wikipedia, "Aum Shinrikyo Tokyo Attack" - https://en.wikipedia.org/wiki/Aum_Shinrikyo_Tokyo_Attack
 
@@ -49,3 +49,6 @@ Nerve gas attack on the Tokyo subway system on March 20, 1995 by the Aum Shinrik
 
 ## Notes
 
+
+
+## References

@@ -3,6 +3,7 @@ name: "Keith Richards"
 birth: "1943-12-18"
 nationality: "British"
 occupation: ["Musician", "Guitarist", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/RStonesHydePark030722_%2863_of_125%29_%28Keith_Richards%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Keith_Richards"
 lastUpdated: "2026-03-12"

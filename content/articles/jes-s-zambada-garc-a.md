@@ -44,7 +44,7 @@ Known as 'El Rey,' brother of Sinaloa Cartel leader El Mayo. Became a key govern
 - His cooperation is frequently referenced in discussions of how U.S. prosecutions of transnational criminal organizations rely on insider witnesses.
 - The high-profile nature of the Guzmán trial turned “El Rey” into a well-known figure beyond typical law-enforcement circles.
 
-## References
+
 
 [^1]: Wikipedia, "Jesús Zambada García" - https://en.wikipedia.org/wiki/Jes%C3%BAs_Zambada_Garc%C3%ADa
 
@@ -52,3 +52,6 @@ Known as 'El Rey,' brother of Sinaloa Cartel leader El Mayo. Became a key govern
 
 - Sinaloa Cartel
 - Joaquín "El Chapo" Guzmán trial
+
+
+## References

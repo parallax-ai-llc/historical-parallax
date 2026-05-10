@@ -21,7 +21,7 @@ Two Afghan detainees were beaten to death by US soldiers at Bagram Air Base. The
 |------|-------|
 | 2002 | Two detainees beaten to death |
 
-## References
+
 
 [^1]: Wikipedia, "Bagram Torture Deaths" - https://en.wikipedia.org/wiki/Bagram_Torture_Deaths
 
@@ -68,3 +68,6 @@ High-level descriptions commonly cited in reporting and investigations include:
 
 - Contemporary investigative reporting and human rights documentation provides additional detail on the timeline, unit involvement, and legal proceedings.
 - See the Wikipedia article for a starting bibliography and external links.
+
+
+## References

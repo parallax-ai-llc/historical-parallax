@@ -21,7 +21,7 @@ Duplicate — see Soichiro Honda.
 |------|-------|
 | 1906 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Honda Soichiro duplicate" - https://en.wikipedia.org/wiki/Honda_Soichiro_duplicate
 
@@ -55,3 +55,6 @@ If you are maintaining this repository as a structured corpus:
 - Treat `id: honda-soichiro-duplicate` as an **alias/redirect** rather than a standalone biography.
 - Ensure external links (e.g., Wikipedia) point to the canonical page for Soichiro Honda when available.
 - Preserve this file only if downstream systems depend on the slug; otherwise prefer consolidation.
+
+
+## References

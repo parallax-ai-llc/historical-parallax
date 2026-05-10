@@ -21,7 +21,7 @@ Moroccan drug lord who controlled major cannabis trafficking networks from the R
 |------|-------|
 | 2010 | Major cannabis trafficking operations |
 
-## References
+
 
 [^1]: Wikipedia, "Belhaj Bouchaib" - https://en.wikipedia.org/wiki/Belhaj_Bouchaib
 
@@ -61,3 +61,6 @@ Moroccan drug lord who controlled major cannabis trafficking networks from the R
 - Rif (Morocco)
 - Cannabis in Morocco
 - Drug trafficking routes in the Mediterranean
+
+
+## References

@@ -24,7 +24,7 @@ Former LRA commander who was the first person to face trial for atrocities commi
 | 2011 | Trial began at International Crimes Division |
 | 2024 | Trial still ongoing |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Kwoyelo" - https://en.wikipedia.org/wiki/Thomas_Kwoyelo
 
@@ -54,3 +54,6 @@ Former LRA commander who was the first person to face trial for atrocities commi
 - 영향: 후대에 남긴 파급(법·정책·학문·대중문화 등)
 - 참고: 1차 기록과 2차 연구의 구분
 
+
+
+## References

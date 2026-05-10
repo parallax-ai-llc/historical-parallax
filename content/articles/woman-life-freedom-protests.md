@@ -21,7 +21,7 @@ Nationwide protests following Mahsa Amini's death were met with brutal crackdown
 |------|-------|
 | 2022 | Over 500 protesters killed by security forces |
 
-## References
+
 
 [^1]: Wikipedia, "Woman Life Freedom Protests" - https://en.wikipedia.org/wiki/Woman_Life_Freedom_Protests
 
@@ -50,3 +50,6 @@ The movement is widely viewed as a major challenge to the Islamic Republic since
 - Mahsa Amini
 - Morality police in Iran
 - Human rights in Iran
+
+
+## References

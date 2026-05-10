@@ -23,7 +23,7 @@ Data breach at retailer Target during the 2013 holiday season that exposed credi
 | 2014 | CEO resigned |
 | 2017 | Target paid $18.5 million settlement |
 
-## References
+
 
 [^1]: Wikipedia, "Target Data Breach" - https://en.wikipedia.org/wiki/Target_Data_Breach
 
@@ -51,3 +51,6 @@ The breach accelerated retailer focus on network segmentation, third-party acces
 ## Lessons Commonly Cited
 
 Security retrospectives frequently cite the incident as a reminder that detection tooling is only effective when alerts are acted on quickly and when high-risk environments (like POS networks) are isolated from broader corporate systems.
+
+
+## References

@@ -23,7 +23,7 @@ Kapil Dev captained India to their first Cricket World Cup victory in 1983 and b
 | 1983 | Led India to World Cup victory; scored 175* vs Zimbabwe |
 | 1994 | Retired as India's leading wicket-taker |
 
-## References
+
 
 [^1]: Wikipedia, "Kapil Dev" - https://en.wikipedia.org/wiki/Kapil_Dev
 
@@ -48,3 +48,6 @@ Kapil Dev captained India to their first Cricket World Cup victory in 1983 and b
 
 - This article is a short, high-level overview intended for quick reference.
 - For detailed chronology, primary sources, and broader context, consult the linked Wikipedia entry and its citations.
+
+
+## References

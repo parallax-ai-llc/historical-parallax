@@ -48,7 +48,7 @@ Joseph 'Joe Bananas' Bonanno was one of the original Five Families bosses. He at
 - The nickname “Joe Bananas” appears widely in popular accounts; it is not consistently used in formal contemporary records.
 - Many details of leadership transitions and Commission decisions are reconstructed from a mix of testimony, investigative reporting, and later histories.
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, “Joseph Bonanno,” *Wikipedia, The Free Encyclopedia*.
 ## Overview
@@ -66,3 +66,6 @@ Bonanno later became notable for public interviews and the publication of a memo
 ## Legacy
 
 In popular history, Bonanno’s name remains closely tied to the Bonanno family itself, and to broader narratives about the evolution of American organized crime from the mid‑century into the later era of federal prosecutions and racketeering cases.
+
+
+## References

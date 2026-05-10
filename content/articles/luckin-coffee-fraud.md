@@ -21,7 +21,7 @@ Chinese coffee chain fabricated $310 million in sales to inflate stock price on 
 |------|-------|
 | 2020 | $310 million fraud exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Luckin Coffee Fraud" - https://en.wikipedia.org/wiki/Luckin_Coffee_Fraud
 
@@ -73,3 +73,6 @@ Chinese coffee chain fabricated $310 million in sales to inflate stock price on 
 ## Notes on Sources
 
 This article summarizes high-level facts widely reported and the core points captured in the reference link above. Details can vary by report (e.g., exact periods, specific mechanisms, and legal outcomes).
+
+
+## References

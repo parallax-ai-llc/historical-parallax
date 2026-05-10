@@ -22,7 +22,7 @@ Former head of Rwandan external intelligence who was assassinated in a Johannesb
 | 2007 | Fled Rwanda after falling out with President Kagame |
 | 2014 | Found strangled in Johannesburg hotel room |
 
-## References
+
 
 [^1]: Wikipedia, "Patrick Karegeya" - https://en.wikipedia.org/wiki/Patrick_Karegeya
 
@@ -49,3 +49,6 @@ The case is cited in discussions of:
 ## Broader context
 
 Karegeya's killing is often mentioned alongside other incidents involving Rwandan opposition figures abroad, contributing to a wider narrative about repression, surveillance, and intimidation of diaspora critics.
+
+
+## References

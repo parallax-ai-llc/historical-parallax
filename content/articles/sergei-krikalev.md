@@ -5,7 +5,7 @@ birth: "1958-08-27"
 death: "living"
 nationality: "Russian"
 occupation: ["Cosmonaut", "Mechanical Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sergei_Krikalev_2022.jpg/3840px-Sergei_Krikalev_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergei_Krikalev"
 lastUpdated: "2026-02-21"

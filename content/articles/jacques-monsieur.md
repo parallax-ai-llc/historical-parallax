@@ -23,7 +23,7 @@ Belgian arms dealer who illegally sold weapons to multiple conflict zones includ
 | 2007 | Arrested in France |
 | 2009 | Convicted of illegal arms trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Jacques Monsieur" - https://en.wikipedia.org/wiki/Jacques_Monsieur
 
@@ -49,3 +49,6 @@ Cases like Monsieur’s are often cited to illustrate how private actors can inf
 
 - Arms trafficking and embargo enforcement (general)
 - International export controls (general)
+
+
+## References

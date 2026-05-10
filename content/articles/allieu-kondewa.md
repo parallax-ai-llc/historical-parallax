@@ -24,7 +24,7 @@ Sierra Leonean traditional priest and initiator of the Kamajor militia who was c
 | 2007 | Convicted of war crimes |
 | 2007 | Sentenced to 20 years |
 
-## References
+
 
 [^1]: Wikipedia, "Allieu Kondewa" - https://en.wikipedia.org/wiki/Allieu_Kondewa
 
@@ -53,3 +53,6 @@ In postwar discourse, the CDF and its leaders remain contested: some portray the
 - Special Court for Sierra Leone
 - Sierra Leone Civil War
 - Kamajors / Civil Defence Forces
+
+
+## References

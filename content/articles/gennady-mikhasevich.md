@@ -23,7 +23,7 @@ Soviet Belarusian serial killer who murdered 36 women between 1971 and 1985 in t
 | 1985 | Arrested in December after forensic breakthrough |
 | 1987 | Executed by firing squad |
 
-## References
+
 
 [^1]: Wikipedia, "Gennady Mikhasevich" - https://en.wikipedia.org/wiki/Gennady_Mikhasevich
 
@@ -48,3 +48,6 @@ His arrest is frequently connected to forensic or physical evidence that connect
 ## Victims and Geography
 
 The murders are generally described as occurring in and around the Vitebsk region, with victims predominantly women encountered in circumstances that left them vulnerable (for example, traveling alone or in isolated areas). High-level summaries emphasize the scale of the crime series and the time span (1970s–mid-1980s) as key to understanding both the investigative challenge and the magnitude of the societal shock once the perpetrator was identified.
+
+
+## References

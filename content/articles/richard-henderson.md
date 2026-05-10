@@ -23,7 +23,7 @@ Richard Henderson is a British molecular biologist who shared the 2017 Nobel Pri
 | 1975 | Determined bacteriorhodopsin structure |
 | 2017 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Richard Henderson" - https://en.wikipedia.org/wiki/Richard_Henderson
 
@@ -51,3 +51,6 @@ Richard Henderson is a British molecular biologist who shared the 2017 Nobel Pri
 
 - Cryo-EM is often described as bridging the gap between X-ray crystallography and earlier lower-resolution electron microscopy by enabling high-resolution structures for many complexes.
 - Henderson’s work is frequently referenced in discussions of methodological progress in structural biology.
+
+
+## References

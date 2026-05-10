@@ -24,7 +24,7 @@ Milkha Singh, the 'Flying Sikh,' narrowly missed a medal at the 1960 Rome Olympi
 | 1998 | 400m record finally broken after 38 years |
 | 2021 | Died during COVID-19 pandemic |
 
-## References
+
 
 [^1]: Wikipedia, "Milkha Singh" - https://en.wikipedia.org/wiki/Milkha_Singh
 
@@ -48,3 +48,6 @@ Milkha Singh, the 'Flying Sikh,' narrowly missed a medal at the 1960 Rome Olympi
 
 - Athletics in India
 - Post-independence sports institutions and coaching systems
+
+
+## References

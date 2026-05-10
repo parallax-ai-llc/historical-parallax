@@ -23,7 +23,7 @@ Chinese serial killer who murdered 14 people in Hunan province during the late 1
 | 2000 | Captured |
 | 2001 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Cai Chaofeng" - https://en.wikipedia.org/wiki/Cai_Chaofeng
 
@@ -60,3 +60,6 @@ English-language information about many domestic criminal cases in China can be 
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

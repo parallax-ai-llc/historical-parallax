@@ -5,7 +5,7 @@ birth: "1956-03-02"
 death: "2011-11-24"
 nationality: "India"
 occupation: ["Rebel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Kishenji.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kishenji"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Senior Indian Maoist leader and politburo member who led the Maoist insurgency i
 | 2008 | Led Maoist insurgency in Jangalmahal, West Bengal |
 | 2011 | Killed in joint forces operation |
 
-## References
+
 
 [^1]: Wikipedia, "Kishenji" - https://en.wikipedia.org/wiki/Kishenji
 
@@ -55,3 +55,6 @@ Kishenji’s public profile illustrates how individual commanders can become sym
 - Naxalite–Maoist insurgency
 - Communist Party of India (Maoist)
 - Jangalmahal
+
+
+## References

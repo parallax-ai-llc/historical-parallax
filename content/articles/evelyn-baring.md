@@ -21,7 +21,7 @@ British colonial administrator who effectively ruled Egypt as consul-general, su
 |------|-------|
 | 1883 | Controlled Egypt as de facto ruler |
 
-## References
+
 
 [^1]: Wikipedia, "Evelyn Baring" - https://en.wikipedia.org/wiki/Evelyn_Baring
 
@@ -71,3 +71,6 @@ Baring served as Britain’s chief representative in Egypt and became the centra
 ## Additional References
 
 [^2]: Encyclopaedia Britannica, "Evelyn Baring, 1st Earl of Cromer" - https://www.britannica.com/biography/Evelyn-Baring-1st-Earl-of-Cromer
+
+
+## References

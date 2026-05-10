@@ -24,7 +24,7 @@ President of South Sudan whose government has been accused of ethnic violence, c
 | 2018 | Signed peace deal with rival Riek Machar |
 | 2024 | Continues to delay elections |
 
-## References
+
 
 [^1]: Wikipedia, "Salva Kiir Mayardit" - https://en.wikipedia.org/wiki/Salva_Kiir_Mayardit
 
@@ -50,3 +50,6 @@ Kiir is frequently discussed as a central figure in debates over South Sudan's p
 
 - South Sudanese Civil War
 - SPLM/A
+
+
+## References

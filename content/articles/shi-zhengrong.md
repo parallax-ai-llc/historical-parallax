@@ -5,7 +5,7 @@ birth: "1963-02-10"
 death: "Unknown"
 nationality: "Chinese-Australian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Shi_Zhengrong_-_World_Economic_Forum_Annual_Meeting_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shi_Zhengrong"
 lastUpdated: "2026-02-21"

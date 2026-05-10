@@ -43,7 +43,7 @@ Mexican serial killer and cannibal known as the Cannibal Poet who murdered at le
 
 - Some public sources list his birth date as 20 June 1969 and his birthplace as Mexico City; biographical details in secondary reporting can vary.
 
-## References
+
 
 [^1]: Wikipedia, "José Luis Calva Zepeda" - https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Calva_Zepeda
 
@@ -51,3 +51,6 @@ Mexican serial killer and cannibal known as the Cannibal Poet who murdered at le
 
 - Serial crime investigations and media sensationalism
 - Pre-trial detention and in-custody deaths
+
+
+## References

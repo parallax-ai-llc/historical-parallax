@@ -21,7 +21,7 @@ Indian child who allegedly killed three infants including his sister and cousin,
 |------|-------|
 | 2007 | Arrested at age 8 for murdering three infants |
 
-## References
+
 
 [^1]: Wikipedia, "Amarjeet Sada" - https://en.wikipedia.org/wiki/Amarjeet_Sada
 
@@ -56,3 +56,6 @@ Indian child who allegedly killed three infants including his sister and cousin,
 
 - Juvenile justice in India
 - Age of criminal responsibility
+
+
+## References

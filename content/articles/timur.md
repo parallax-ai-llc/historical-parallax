@@ -24,7 +24,7 @@ Turco-Mongol conqueror whose campaigns of conquest killed an estimated 17 millio
 | 1401 | Destroyed Baghdad |
 | 1405 | Died while planning invasion of China |
 
-## References
+
 
 [^1]: Wikipedia, "Timur" - https://en.wikipedia.org/wiki/Timur
 
@@ -54,3 +54,6 @@ Turco-Mongol conqueror whose campaigns of conquest killed an estimated 17 millio
 - 영향: 후대에 남긴 파급(법·정책·학문·대중문화 등)
 - 참고: 1차 기록과 2차 연구의 구분
 
+
+
+## References

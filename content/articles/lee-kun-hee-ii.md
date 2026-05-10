@@ -21,7 +21,7 @@ Duplicate — see Lee Kun-hee.
 |------|-------|
 | 1942 | See Lee Kun-hee entry |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Kun-hee II" - https://en.wikipedia.org/wiki/Lee_Kun-hee_II
 
@@ -60,3 +60,6 @@ Some datasets include an entry titled "Lee Kun-hee II". In practice, the biograp
 ## References (additional)
 
 - The canonical, widely-used biography for the 1942–2020 Samsung chairman is typically under "Lee Kun-hee"; see the reference above for the dataset's naming.
+
+
+## References

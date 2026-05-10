@@ -21,7 +21,7 @@ Indian contract killer who carried out hits for Mumbai's organized crime syndica
 |------|-------|
 | 2007 | Convicted of contract killings |
 
-## References
+
 
 [^1]: Wikipedia, "Santosh Shetty" - https://en.wikipedia.org/wiki/Santosh_Shetty
 
@@ -54,3 +54,6 @@ Indian contract killer who carried out hits for Mumbai's organized crime syndica
 ## References (additional)
 
 [^2]: If the Wikipedia page remains unavailable, replace the link with an archived copy or add an alternative authoritative citation.
+
+
+## References

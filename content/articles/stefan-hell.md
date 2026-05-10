@@ -23,7 +23,7 @@ Stefan Hell is a Romanian-German physicist who shared the 2014 Nobel Prize in Ch
 | 1994 | Proposed STED microscopy |
 | 2014 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Stefan Hell" - https://en.wikipedia.org/wiki/Stefan_Hell
 
@@ -50,3 +50,6 @@ Hell’s contributions are part of a broader transformation in imaging, where op
 ## Notes
 
 This article is a high-level summary intended for quick reference.
+
+
+## References

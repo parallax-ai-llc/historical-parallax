@@ -5,7 +5,7 @@ birth: "1864-01-07"
 death: "1951-01-05"
 nationality: "Korean-American"
 occupation: ["Physician", "Political activist", "Publisher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C%EC%9D%98_%EC%84%9C%EC%9E%AC%ED%95%84_%EB%B0%95%EC%82%AC.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seo_Jae-pil"
 lastUpdated: "2026-02-21"

@@ -21,7 +21,7 @@ Svetlana Masterkova won Olympic gold in both 800m and 1,500m at the 1996 Atlanta
 |------|-------|
 | 1996 | Won 800m and 1,500m at Atlanta Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Svetlana Masterkova" - https://en.wikipedia.org/wiki/Svetlana_Masterkova
 
@@ -69,3 +69,5 @@ Wikipedia notes she married Russian road racing cyclist Asiat Saitov (1994).[^1]
 ## References
 
 [^2]: Additional biographical/achievement details summarized from Wikipedia's article text - https://en.wikipedia.org/wiki/Svetlana_Masterkova
+
+

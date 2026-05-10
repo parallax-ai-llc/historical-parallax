@@ -21,7 +21,7 @@ Stephen Paddock fired over 1,000 rounds from the 32nd floor of the Mandalay Bay 
 |------|-------|
 | 2017 | 60 killed in deadliest US mass shooting |
 
-## References
+
 
 [^1]: Wikipedia, "Route 91 Harvest Festival Shooting" - https://en.wikipedia.org/wiki/Route_91_Harvest_Festival_Shooting
 
@@ -61,3 +61,6 @@ Stephen Paddock fired over 1,000 rounds from the 32nd floor of the Mandalay Bay 
 - It is frequently cited in training and planning for coordinated emergency response at large public events.
 
 [^2]: U.S. Department of Justice / FBI (overview reporting and public statements; see general resources) - https://www.fbi.gov/
+
+
+## References

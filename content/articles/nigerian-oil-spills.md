@@ -22,7 +22,7 @@ Over 50 years of oil spills in the Niger Delta have contaminated water, destroye
 | 1958 | Oil extraction began |
 | 2011 | UN report documented extensive contamination |
 
-## References
+
 
 [^1]: Wikipedia, "Nigerian Oil Spills" - https://en.wikipedia.org/wiki/Nigerian_Oil_Spills
 
@@ -53,3 +53,6 @@ Local communities, environmental NGOs, and activists have organized around deman
 ## References (Additional)
 
 [^2]: United Nations Environment Programme (UNEP), *Environmental Assessment of Ogoniland* (2011).
+
+
+## References

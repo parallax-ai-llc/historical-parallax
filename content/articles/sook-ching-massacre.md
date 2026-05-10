@@ -22,7 +22,7 @@ Japanese forces systematically killed ethnic Chinese men in Singapore and Malaya
 | 1942 | Japanese forces screened and executed Chinese men in Singapore |
 | 1947 | War crimes trials convicted several Japanese officers |
 
-## References
+
 
 [^1]: Wikipedia, "Sook Ching Massacre" - https://en.wikipedia.org/wiki/Sook_Ching_Massacre
 
@@ -52,3 +52,6 @@ Large civilian death toll estimates can differ due to:
 - destruction or loss of documentation,
 - inconsistent reporting across jurisdictions, and
 - methodological differences in post-war investigation and historiography.
+
+
+## References

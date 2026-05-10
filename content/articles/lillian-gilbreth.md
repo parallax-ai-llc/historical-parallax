@@ -5,7 +5,7 @@ birth: "1878-05-24"
 death: "1972-01-02"
 nationality: "American"
 occupation: ["Industrial Engineer", "Psychologist", "Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Lillian_Moller_Gilbreth%2C_1921.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lillian_Gilbreth"
 lastUpdated: "2026-02-21"

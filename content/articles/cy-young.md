@@ -24,7 +24,7 @@ Cy Young won 511 MLB games, an all-time record that will almost certainly never 
 | 1904 | Threw first perfect game of modern era |
 | 1911 | Retired with 511 wins |
 
-## References
+
 
 [^1]: Wikipedia, "Cy Young" - https://en.wikipedia.org/wiki/Cy_Young
 
@@ -54,3 +54,6 @@ Major League Baseball’s annual Cy Young Award is named in his honor and is awa
 - List of Major League Baseball career wins leaders
 - Cy Young Award
 - Perfect game (baseball)
+
+
+## References

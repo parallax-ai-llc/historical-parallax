@@ -23,7 +23,7 @@ One of Hong Kongs largest triad societies with an estimated 50,000 members. It i
 | 1980s | Became HKs largest triad |
 | 2000s | Expanded internationally |
 
-## References
+
 
 [^1]: Wikipedia, "Sun Yee On" - https://en.wikipedia.org/wiki/Sun_Yee_On
 
@@ -53,3 +53,6 @@ Triad societies have also been a recurring theme in Hong Kong cinema and popular
 ### Notes
 
 Membership estimates and internal organization details are difficult to verify publicly and may differ widely across sources.
+
+
+## References

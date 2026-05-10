@@ -21,7 +21,7 @@ Chinese official sanctioned by US for implementing mass detention of Uyghurs in 
 |------|-------|
 | 2020 | Sanctioned by US for Uyghur persecution |
 
-## References
+
 
 [^1]: Wikipedia, "Chen Quanguo" - https://en.wikipedia.org/wiki/Chen_Quanguo
 
@@ -61,3 +61,6 @@ Chinese official sanctioned by US for implementing mass detention of Uyghurs in 
 - Xinjiang conflict and governance
 - Uyghurs
 - U.S. sanctions related to Xinjiang
+
+
+## References

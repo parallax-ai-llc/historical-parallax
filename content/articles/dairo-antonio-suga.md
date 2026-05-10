@@ -24,7 +24,7 @@ Colombian drug lord known as Otoniel who led the Clan del Golfo, Colombia's larg
 | 2021 | Captured in major military operation |
 | 2023 | Extradited to US and sentenced to 45 years |
 
-## References
+
 
 [^1]: Wikipedia, "Dairo Antonio Úsuga" - https://en.wikipedia.org/wiki/Dairo_Antonio_%C3%9Asuga
 
@@ -53,3 +53,6 @@ The case is often referenced in discussions about how organized crime persists a
 - Colombian armed conflict (overview)
 - Clan del Golfo / AGC
 - Drug trafficking in Colombia
+
+
+## References

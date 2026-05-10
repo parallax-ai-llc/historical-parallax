@@ -24,7 +24,7 @@ Indian kidnapping gang led by Sonu Punjaban (Geeta Arora) that abducted and traf
 | 2014 | Escaped from custody, re-arrested |
 | 2017 | Convicted and sentenced |
 
-## References
+
 
 [^1]: Wikipedia, "Scorpion Gang of Delhi" - https://en.wikipedia.org/wiki/Scorpion_Gang_of_Delhi
 
@@ -52,3 +52,6 @@ Indian kidnapping gang led by Sonu Punjaban (Geeta Arora) that abducted and traf
 
 - The case is often cited in broader discussions of trafficking enforcement in India, including the challenges of victim identification, witness protection, and long-term rehabilitation.
 - Media attention to the gang contributed to public awareness of trafficking patterns linked to urban red-light districts.
+
+
+## References

@@ -23,7 +23,7 @@ Australian serial killer who murdered 3 women in Melbourne between 2007 and 2009
 | 2009 | Arrested |
 | 2012 | Convicted; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Ryan Andrew Melvins" - https://en.wikipedia.org/wiki/Ryan_Andrew_Melvins
 
@@ -50,3 +50,6 @@ Australian serial killer who murdered 3 women in Melbourne between 2007 and 2009
 
 - Serial murder investigations
 - Criminal trials in Victoria (Australia)
+
+
+## References

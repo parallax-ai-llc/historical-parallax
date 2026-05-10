@@ -21,7 +21,7 @@ KGB sleeper agent who lived as an American for over a decade before being discov
 |------|-------|
 | 1997 | Discovered as KGB sleeper agent |
 
-## References
+
 
 [^1]: Wikipedia, "Jack Barsky" - https://en.wikipedia.org/wiki/Jack_Barsky
 
@@ -59,3 +59,6 @@ KGB sleeper agent who lived as an American for over a decade before being discov
 ## Additional References
 
 - Wikipedia (overview and citations): https://en.wikipedia.org/wiki/Jack_Barsky
+
+
+## References

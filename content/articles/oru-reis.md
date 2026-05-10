@@ -22,7 +22,7 @@ Ottoman corsair and older brother of Hayreddin Barbarossa who terrorized Mediter
 | 1504 | Began corsair career |
 | 1518 | Killed by Spanish forces |
 
-## References
+
 
 [^1]: Wikipedia, "Oruç Reis" - https://en.wikipedia.org/wiki/Oru%C3%A7_Reis
 
@@ -61,3 +61,6 @@ Corsair campaigns influenced shipping routes, convoy practices, and the fortific
 ## Tlemcen episode (high level)
 
 The fighting around Tlemcen is typically presented as part of a wider contest involving local North African politics and Iberian expansion. Oruç Reis’ death in that context is often treated as a turning point after which Hayreddin Barbarossa became the better-known figure in Ottoman naval history.
+
+
+## References

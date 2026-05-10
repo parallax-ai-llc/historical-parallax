@@ -22,7 +22,7 @@ Once the seventh richest person in the world who lost $34 billion and was convic
 | 2012 | Peak net worth of $30 billion |
 | 2018 | Convicted of corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Eike Batista" - https://en.wikipedia.org/wiki/Eike_Batista
 
@@ -65,3 +65,6 @@ To deepen this profile with rigor, typical primary-source targets include:
 ## References (Extended)
 
 - [^1] provides a consolidated overview and link-out pathway to many of the principal companies, investigations, and named counterparties.
+
+
+## References

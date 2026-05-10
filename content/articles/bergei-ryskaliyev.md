@@ -21,7 +21,7 @@ Former governor of Atyrau who embezzled hundreds of millions before fleeing Kaza
 |------|-------|
 | 2012 | Fled Kazakhstan amid massive corruption investigation |
 
-## References
+
 
 [^1]: Wikipedia, "Bergei Ryskaliyev" - https://en.wikipedia.org/wiki/Bergei_Ryskaliyev
 
@@ -61,3 +61,6 @@ Former governor of Atyrau who embezzled hundreds of millions before fleeing Kaza
 ## Additional References
 
 - If an official Kazakh court decision, prosecutor statement, or reputable investigative report is available, prefer citing that directly over secondary summaries.
+
+
+## References

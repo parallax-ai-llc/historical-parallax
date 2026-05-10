@@ -23,7 +23,7 @@ Charles Goodyear discovered the vulcanization of rubber in 1839.
 | 1839 | Discovered vulcanization |
 | 1860 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Goodyear" - https://en.wikipedia.org/wiki/Charles_Goodyear
 
@@ -52,3 +52,6 @@ Goodyear is often remembered not only for the discovery itself but also for the 
 - **Elastomers** (rubber-like materials engineered for elasticity)
 - **Industrial chemistry** and early American manufacturing
 
+
+
+## References

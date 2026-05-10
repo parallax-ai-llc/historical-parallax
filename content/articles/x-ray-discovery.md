@@ -26,7 +26,7 @@ Röntgen's discovery of X-rays in 1895 revolutionized medicine. The first X-ray 
 | 1920s | X-ray therapy develops |
 | 2024 | Essential medical tool |
 
-## References
+
 
 [^1]: Wikipedia, "X-Ray Discovery" - https://en.wikipedia.org/wiki/X-Ray_Discovery
 
@@ -49,3 +49,6 @@ X-ray imaging helped establish diagnostic radiology as a core medical discipline
 ## Terminology and Naming
 
 Röntgen initially referred to the phenomenon as "X" rays to indicate an unknown type of radiation. The name persists as a reminder that the discovery emerged from experiment before a full theoretical explanation was available.
+
+
+## References

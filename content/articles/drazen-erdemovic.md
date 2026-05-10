@@ -23,7 +23,7 @@ Bosnian Croat-Serb soldier who participated in the Srebrenica massacre and was t
 | 1996 | Surrendered to ICTY; pleaded guilty |
 | 1998 | Sentenced to 5 years for his cooperation |
 
-## References
+
 
 [^1]: Wikipedia, "Drazen Erdemovic" - https://en.wikipedia.org/wiki/Drazen_Erdemovic
 
@@ -49,3 +49,6 @@ Key features of his ICTY case and cooperation include:
 - Srebrenica massacre
 - International Criminal Tribunal for the former Yugoslavia (ICTY)
 - Duress (criminal law)
+
+
+## References

@@ -24,7 +24,7 @@ Caster Semenya won Olympic 800m gold at 2012 London and 2016 Rio. Her career was
 | 2016 | Won Olympic gold at Rio |
 | 2023 | Lost appeal at European Court of Human Rights |
 
-## References
+
 
 [^1]: Wikipedia, "Caster Semenya" - https://en.wikipedia.org/wiki/Caster_Semenya
 
@@ -49,3 +49,6 @@ The 2023 European Court of Human Rights decision is widely discussed as a proced
 Beyond medals, Semenya’s impact is frequently measured by how her case forced sporting institutions to clarify, defend, and revise policies. Her story also highlights how elite sport can turn private biological questions into public controversy with long-lasting consequences for athletes.
 
 The debate around her has influenced discussions in other sports and federations that maintain sex-segregated competition categories.
+
+
+## References

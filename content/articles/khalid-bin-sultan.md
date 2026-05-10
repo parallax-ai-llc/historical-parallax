@@ -5,7 +5,7 @@ birth: "1949-09-26"
 death: "Unknown"
 nationality: "Saudi Arabia"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/18/DA-ST-92-08034-C_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khalid_bin_Sultan"
 lastUpdated: "2026-02-26"

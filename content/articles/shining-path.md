@@ -5,7 +5,7 @@ birth: "1969-01-01"
 death: "Unknown"
 nationality: "Peru"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Emblem_of_the_PCP-Shining_Path.svg/500px-Emblem_of_the_PCP-Shining_Path.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shining_Path"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ See Abimael Guzmán. Peruvian Maoist guerrilla group. Duplicate entry.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Shining Path" - https://en.wikipedia.org/wiki/Shining_Path
 
@@ -68,3 +68,6 @@ In the 2000s and 2010s, reports frequently described remaining factions as opera
 ## Notes
 
 This file was originally flagged as a "duplicate entry"; the expansion above keeps the article self-contained while still pointing readers to Abimael Guzmán as the central leadership figure.
+
+
+## References

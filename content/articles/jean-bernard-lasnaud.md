@@ -23,7 +23,7 @@ French arms dealer convicted of illegally shipping weapons to Angola during its 
 | 2000 | Arrested by French authorities |
 | 2003 | Convicted of illegal arms dealing |
 
-## References
+
 
 [^1]: Wikipedia, "Jean-Bernard Lasnaud" - https://en.wikipedia.org/wiki/Jean-Bernard_Lasnaud
 ## Overview
@@ -54,3 +54,6 @@ A cautious biographical approach distinguishes between:
 
 ## Research notes
 If additional primary or high-quality secondary sources become available, this article can be expanded with dated milestones, institutional context, and any notable contributions. Until then, it is best to avoid adding unverified narratives.
+
+
+## References

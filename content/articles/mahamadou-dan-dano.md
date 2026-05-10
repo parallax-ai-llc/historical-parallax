@@ -22,7 +22,7 @@ Nigerien self-defense militia leader who organized armed groups to fight jihadis
 | 2019 | Organized self-defense militia in Tillabéri |
 | 2020 | Militia accused of killing Fulani civilians |
 
-## References
+
 
 [^1]: Wikipedia, "Mahamadou Dan Dano" - https://en.wikipedia.org/wiki/Mahamadou_Dan_Dano
 
@@ -53,3 +53,6 @@ These notes add high-level, factual context based on widely available public sum
 ## References (additional)
 
 - The linked Wikipedia page in the frontmatter is a starting point and typically aggregates citations to other sources.
+
+
+## References

@@ -52,7 +52,7 @@ Belarusian dictator who hijacked a Ryanair plane to arrest a journalist, sparkin
 - Multiple governments and international bodies have imposed sanctions on Belarusian officials and entities linked to repression and high-profile incidents.
 - These measures have targeted travel, assets, and sectors of the Belarusian economy, contributing to deeper dependence on Russia.
 
-## References
+
 
 [^1]: Wikipedia, "Aliaksandr Lukashenka" - https://en.wikipedia.org/wiki/Aliaksandr_Lukashenka
 
@@ -76,3 +76,6 @@ Belarusian dictator who hijacked a Ryanair plane to arrest a journalist, sparkin
 - 2020 Belarus protests
 - Ryanair Flight 4978 diversion
 - Belarus–Russia integration frameworks
+
+
+## References

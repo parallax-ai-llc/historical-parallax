@@ -21,7 +21,7 @@ Archetype of the cruel slave owner from Uncle Tom's Cabin, based on real slaveho
 |------|-------|
 | 1852 | Uncle Tom's Cabin published |
 
-## References
+
 
 [^1]: Wikipedia, "Simon Legree" - https://en.wikipedia.org/wiki/Simon_Legree
 
@@ -63,3 +63,6 @@ Because this article covers a fictional character with disputed real-world inspi
 - **What the novel depicts** (a narrative construction)
 - **What historians document** (patterns and cases supported by evidence)
 - **How the name is used later** (a cultural shorthand)
+
+
+## References

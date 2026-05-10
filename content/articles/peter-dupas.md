@@ -23,7 +23,7 @@ Australian serial killer and rapist convicted of three murders spanning decades.
 | 1997 | Murdered Nicole Patterson |
 | 2004 | Convicted of three murders; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Peter Dupas" - https://en.wikipedia.org/wiki/Peter_Dupas
 
@@ -67,3 +67,6 @@ Dupas received life sentences for murder convictions. The case is often mentione
 ## Additional References
 
 [^2]: Supreme Court of Victoria / Victorian court resources (case and sentencing information, where available) — https://www.supremecourt.vic.gov.au/
+
+
+## References

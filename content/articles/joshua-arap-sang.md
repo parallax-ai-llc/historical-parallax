@@ -23,7 +23,7 @@ Kenyan radio broadcaster charged by the ICC with crimes against humanity for usi
 | 2011 | ICC summons issued |
 | 2016 | Charges vacated by ICC |
 
-## References
+
 
 [^1]: Wikipedia, "Joshua Arap Sang" - https://en.wikipedia.org/wiki/Joshua_Arap_Sang
 
@@ -67,3 +67,6 @@ After the ICC proceedings ended, commentary around the case continued to be cite
 - witness protection challenges and alleged interference in international cases
 - the limits of prosecutions that rely heavily on testimonial evidence
 - accountability mechanisms beyond the ICC (domestic reform, commissions, and civil society monitoring)
+
+
+## References

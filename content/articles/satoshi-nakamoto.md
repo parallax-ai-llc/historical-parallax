@@ -5,7 +5,7 @@ birth: "1975-04-05"
 death: "Unknown"
 nationality: "Unknown"
 occupation: ["Computer Scientist", "Cryptographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bust_of_Satoshi_Nakamoto_in_Budapest.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Satoshi_Nakamoto"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Satoshi Nakamoto is the pseudonymous person or group who created Bitcoin, the fi
 | 2010 | Made last known communication |
 | 2011 | Disappeared from public involvement |
 
-## References
+
 
 [^1]: Wikipedia, "Satoshi Nakamoto" - https://en.wikipedia.org/wiki/Satoshi_Nakamoto
 
@@ -51,3 +51,6 @@ Claims about Nakamoto’s identity, location, and total bitcoin holdings vary ac
 ## Further reading
 
 - Wikipedia entry and linked primary sources (white paper, early forum posts).
+
+
+## References

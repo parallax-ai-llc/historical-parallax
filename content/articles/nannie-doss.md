@@ -24,7 +24,7 @@ American serial killer known as the 'Giggling Granny' who poisoned 11 family mem
 | 1955 | Pleaded guilty; sentenced to life |
 | 1965 | Died in prison of leukemia |
 
-## References
+
 
 [^1]: Wikipedia, "Nannie Doss" - https://en.wikipedia.org/wiki/Nannie_Doss
 
@@ -48,3 +48,6 @@ This article is a high-level summary. For victim lists, timelines, and evidentia
 - The history of forensic toxicology and why arsenic became a classic poison in criminal cases.
 - Media framing of women offenders and how nicknames shape public perception.
 - Insurance fraud incentives and investigative red flags in suspicious-death cases.
+
+
+## References

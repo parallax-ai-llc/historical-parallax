@@ -21,7 +21,7 @@ Co-founder of the Mexican Mafia who helped establish the gang in the California 
 |------|-------|
 | 1957 | Co-founded Mexican Mafia |
 
-## References
+
 
 [^1]: Wikipedia, "Luis Flores" - https://en.wikipedia.org/wiki/Luis_Flores
 
@@ -54,3 +54,6 @@ High-level descriptions of Flores’s significance generally emphasize:
 
 - Mexican Mafia
 - California Department of Corrections and Rehabilitation (historical context)
+
+
+## References

@@ -22,7 +22,7 @@ PhD criminology student charged with the murder of four University of Idaho stud
 | 2022 | Four Idaho students murdered |
 | 2022 | Arrested in Pennsylvania |
 
-## References
+
 
 [^1]: Wikipedia, "Bryan Kohberger" - https://en.wikipedia.org/wiki/Bryan_Kohberger
 
@@ -50,3 +50,6 @@ This case is commonly referenced in debates about modern investigative technique
 
 - **Chain of custody:** High-profile investigations typically hinge on clear documentation of how evidence was collected and handled.
 - **Public transparency vs. fair trial:** Courts often balance public access with protections against prejudicial pretrial publicity.
+
+
+## References

@@ -23,7 +23,7 @@ Russian serial killer who murdered at least 9 women in the Saratov region. He wa
 | 1998 | Arrested after remains found |
 | 2000 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Anatoliy Utkin" - https://en.wikipedia.org/wiki/Anatoliy_Utkin
 
@@ -48,3 +48,6 @@ He was convicted and sentenced to life imprisonment, reflecting the severity and
 ## Significance
 
 The case is sometimes discussed in the context of regional crime reporting and the challenges of investigating repeat offenders over extended periods.
+
+
+## References

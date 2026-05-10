@@ -5,7 +5,7 @@ birth: "1981-02-10"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kim_Bong-jin.jpg/1920px-Kim_Bong-jin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Bong-jin"
 lastUpdated: "2026-02-21"

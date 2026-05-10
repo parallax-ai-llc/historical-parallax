@@ -24,7 +24,7 @@ Liberian military dictator who seized power in 1980 at age 28 in a bloody coup. 
 | 1989 | Civil war erupted |
 | 1990 | Captured, tortured, and killed by Prince Johnson's forces |
 
-## References
+
 
 [^1]: Wikipedia, "Samuel Doe" - https://en.wikipedia.org/wiki/Samuel_Doe
 
@@ -49,3 +49,6 @@ Doe remains a polarizing figure in Liberian history, often discussed in relation
 ## See also
 
 - First Liberian Civil War
+
+
+## References

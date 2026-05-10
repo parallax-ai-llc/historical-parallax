@@ -21,7 +21,7 @@ Colombian cartels build semi-submersible and fully submersible vessels to transp
 |------|-------|
 | 2019 | First fully submersible seized |
 
-## References
+
 
 [^1]: Wikipedia, "Drug Sub Trafficking" - https://en.wikipedia.org/wiki/Drug_Sub_Trafficking
 
@@ -59,3 +59,6 @@ Authorities typically focus on:
 ## Notes
 
 This topic is generally discussed in the context of cocaine trafficking routes in the Americas, but the underlying principle—using low-signature maritime craft to move high-value contraband—can apply to other regions and illicit supply chains.
+
+
+## References

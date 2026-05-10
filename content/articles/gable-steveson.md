@@ -21,7 +21,7 @@ Gable Steveson won Olympic freestyle wrestling gold at the 2021 Tokyo Olympics w
 |------|-------|
 | 2021 | Won Olympic gold with last-second move at Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Gable Steveson" - https://en.wikipedia.org/wiki/Gable_Steveson
 [^2]: Olympics.com athlete profile (United States), "Gable Steveson" - https://olympics.com/en/athletes/gable-steveson
@@ -56,3 +56,6 @@ Gable Steveson won Olympic freestyle wrestling gold at the 2021 Tokyo Olympics w
 
 - Steveson is frequently referenced as a modern example of the heavyweight division’s evolution toward more dynamic, athletic movement.
 - The dramatic last-second Olympic reversal is often used as a case study in composure and match management under extreme pressure.
+
+
+## References

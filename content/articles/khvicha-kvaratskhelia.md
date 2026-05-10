@@ -3,6 +3,7 @@ name: "Khvicha Kvaratskhelia"
 birth: "2001-02-12"
 nationality: "Georgian"
 occupation: ["Footballer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Kvaratskhelia_asse_psg_2425.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khvicha_Kvaratskhelia"
 lastUpdated: "2026-03-12"

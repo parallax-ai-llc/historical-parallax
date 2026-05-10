@@ -21,7 +21,7 @@ Duplicate — see Kazuo Inamori.
 |------|-------|
 | 1932 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Inamori Kazuo duplicate" - https://en.wikipedia.org/wiki/Inamori_Kazuo_duplicate
 
@@ -60,3 +60,6 @@ If you are curating or deduplicating articles:
 - Treat this page as a **redirect-like stub**.
 - Prefer consolidating references, timelines, and external links into the canonical article.
 - Keep this page only when needed for backward compatibility (e.g., external URLs, IDs, or imported cross-links).
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1803-10-16"
 death: "1859-10-12"
 nationality: "British"
 occupation: ["Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Robert_Stephenson_by_Maull_%26_Polybank%2C_1856_%28crop%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Stephenson"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Robert Stephenson built the Rocket locomotive and designed many important bridge
 | 1829 | Built the Rocket |
 | 1859 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Robert Stephenson" - https://en.wikipedia.org/wiki/Robert_Stephenson
 
@@ -53,3 +53,6 @@ Robert Stephenson built the Rocket locomotive and designed many important bridge
 
 - George Stephenson (context): https://en.wikipedia.org/wiki/George_Stephenson
 - Britannia Bridge: https://en.wikipedia.org/wiki/Britannia_Bridge
+
+
+## References

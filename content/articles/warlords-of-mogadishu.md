@@ -22,7 +22,7 @@ After Siad Barre's fall, Mogadishu was divided among clan warlords including Aid
 | 1991 | Warlord era began |
 | 1993 | Black Hawk Down incident |
 
-## References
+
 
 [^1]: Wikipedia, "Warlords of Mogadishu" - https://en.wikipedia.org/wiki/Warlords_of_Mogadishu
 
@@ -52,3 +52,6 @@ These dynamics can create self-reinforcing cycles, where revenue enables arms pu
 ## Legacy
 
 The warlord era is often cited in analyses of state reconstruction and security-sector reform. It illustrates the difficulty of rebuilding governance when armed entrepreneurs can outcompete weak institutions and when security itself becomes a market.
+
+
+## References

@@ -21,7 +21,7 @@ Placeholder for African tech coverage.
 |------|-------|
 | 1970 | Born in Côte d'Ivoire |
 
-## References
+
 
 [^1]: Wikipedia, "Amara Bamba" - https://en.wikipedia.org/wiki/Amara_Bamba
 
@@ -61,3 +61,6 @@ When expanding this entry, prioritize sources in roughly this order:
 - African technology entrepreneurship
 - Côte d'Ivoire tech ecosystem
 - West African innovation hubs
+
+
+## References

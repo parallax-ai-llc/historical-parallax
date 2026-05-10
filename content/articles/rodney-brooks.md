@@ -5,7 +5,7 @@ birth: "1954-12-30"
 death: "living"
 nationality: "Australian-American"
 occupation: ["Roboticist", "Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Rodney_Brooks_in_2021.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rodney_Brooks"
 lastUpdated: "2026-02-21"

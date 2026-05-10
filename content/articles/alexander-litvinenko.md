@@ -23,7 +23,7 @@ Former Russian FSB officer poisoned with polonium-210 in London in 2006 after ac
 | 2006 | Died 22 days later |
 | 2016 | UK inquiry blamed Putin |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Litvinenko" - https://en.wikipedia.org/wiki/Alexander_Litvinenko
 
@@ -49,3 +49,6 @@ Alexander Litvinenko is generally described as a former Russian security/intelli
 - Defectors and political exile
 - Intelligence services
 - Political violence allegations
+
+
+## References

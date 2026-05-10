@@ -23,7 +23,7 @@ Elisha Otis invented the safety elevator enabling skyscrapers.
 | 1852 | Invented safety elevator |
 | 1861 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Elisha Otis" - https://en.wikipedia.org/wiki/Elisha_Otis
 
@@ -48,3 +48,6 @@ While many engineering advances contributed to skyscrapers (steel frames, firepr
 ## Legacy
 
 Elisha Otis is frequently cited as an inventor whose practical mechanical improvement reshaped architecture and city life. His story is also used as a case study in how trust-building demonstrations and product reliability can drive adoption of new infrastructure technologies.
+
+
+## References

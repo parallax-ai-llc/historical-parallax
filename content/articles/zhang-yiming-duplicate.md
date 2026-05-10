@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1983 | See Zhang Yiming |
 
-## References
+
 
 [^1]: Wikipedia, "Zhang Yiming duplicate" - https://en.wikipedia.org/wiki/Zhang_Yiming_duplicate
 
@@ -57,3 +57,6 @@ If the linked Wikipedia page is missing, renamed, or redirects elsewhere, treat 
 - keep duplicates only as redirects (not as independent biographies), and
 - record the reason for the redirect (e.g., "duplicate ingest", "alias", "mislabeled entry").
 
+
+
+## References

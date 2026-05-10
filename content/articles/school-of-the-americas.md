@@ -5,7 +5,7 @@ birth: "1946-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Institution"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/WHINSEC-Seal.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/School_of_the_Americas"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ US military training school in Panama (later Georgia) that trained Latin America
 | 1946 | School established |
 | 2001 | Renamed Western Hemisphere Institute |
 
-## References
+
 
 [^1]: Wikipedia, "School of the Americas" - https://en.wikipedia.org/wiki/School_of_the_Americas
 
@@ -48,3 +48,6 @@ US military training school in Panama (later Georgia) that trained Latin America
 ## Why It Matters
 
 - The debate around SOA is frequently used as a case study in how security assistance intersects with human rights and foreign policy outcomes.
+
+
+## References

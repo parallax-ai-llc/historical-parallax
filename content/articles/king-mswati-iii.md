@@ -5,7 +5,7 @@ birth: "1968-04-19"
 death: "Unknown"
 nationality: "Eswatini"
 occupation: ["Dictator", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Mswati_III_in_Yokohama_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/King_Mswati_III"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Absolute monarch of Eswatini who lives in extreme luxury while two-thirds of his
 | 1986 | Became king at age 18 |
 | 2021 | Ordered violent crackdown on pro-democracy protests |
 
-## References
+
 
 [^1]: Wikipedia, "King Mswati III" - https://en.wikipedia.org/wiki/King_Mswati_III
 
@@ -51,3 +51,6 @@ Assessments of Mswati III’s rule vary widely. Supporters emphasize cultural co
 - Politics of Eswatini
 - Absolute monarchy
 - 2021 Eswatini protests
+
+
+## References

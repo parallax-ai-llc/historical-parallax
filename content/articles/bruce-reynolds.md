@@ -22,7 +22,7 @@ Mastermind of the Great Train Robbery of 1963 who planned the heist in meticulou
 | 1963 | Masterminded Great Train Robbery |
 | 1969 | Captured after years on the run |
 
-## References
+
 
 [^1]: Wikipedia, "Bruce Reynolds" - https://en.wikipedia.org/wiki/Bruce_Reynolds
 
@@ -52,3 +52,6 @@ Mastermind of the Great Train Robbery of 1963 who planned the heist in meticulou
 - Great Train Robbery (1963)
 - British organized robbery crews of the postwar period
 - Media portrayals of infamous heists
+
+
+## References

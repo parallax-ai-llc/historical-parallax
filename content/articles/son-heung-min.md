@@ -23,7 +23,7 @@ Son Heung-min is the highest-scoring Asian in Premier League history. He won the
 | 2020 | Won Puskas Award |
 | 2022 | Won PL Golden Boot |
 
-## References
+
 
 [^1]: Wikipedia, "Son Heung-min" - https://en.wikipedia.org/wiki/Son_Heung-min
 
@@ -53,3 +53,6 @@ Son Heung-min is the highest-scoring Asian in Premier League history. He won the
 
 - Individual awards frequently highlighted include the Premier League Golden Boot and the FIFA Puskás Award.
 - He is widely recognized as one of the most prominent Asian footballers of his generation, both for performance and visibility.
+
+
+## References

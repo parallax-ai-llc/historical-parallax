@@ -21,7 +21,7 @@ Thomas Hamilton shot dead 16 children and their teacher at Dunblane Primary Scho
 |------|-------|
 | 1996 | 16 children and 1 teacher killed |
 
-## References
+
 
 [^1]: Wikipedia, "Dunblane School Massacre" - https://en.wikipedia.org/wiki/Dunblane_School_Massacre
 
@@ -71,3 +71,6 @@ High-level summaries commonly link Dunblane to the **Firearms (Amendment) Acts 1
 ## External Links
 
 - Wikipedia: https://en.wikipedia.org/wiki/Dunblane_school_massacre
+
+
+## References

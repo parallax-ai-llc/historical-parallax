@@ -5,7 +5,7 @@ birth: "1958-11-01"
 death: "Unknown"
 nationality: "Israeli-American"
 occupation: ["Computer Scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Shafi_Goldwasser.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shafi_Goldwasser"
 lastUpdated: "2026-02-21"

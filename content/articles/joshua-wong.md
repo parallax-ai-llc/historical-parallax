@@ -21,7 +21,7 @@ Hong Kong pro-democracy activist imprisoned for leading protests against Chinese
 |------|-------|
 | 2021 | Sentenced to prison for protest role |
 
-## References
+
 
 [^1]: Wikipedia, "Joshua Wong" - https://en.wikipedia.org/wiki/Joshua_Wong
 
@@ -71,3 +71,6 @@ Hong Kong pro-democracy activist imprisoned for leading protests against Chinese
 ## References (Additional)
 
 - Wikipedia (linked above) provides a consolidated overview and a chronological account of major events and legal proceedings.
+
+
+## References

@@ -51,7 +51,7 @@ These are common categories discussed in public descriptions of Japanese organiz
 
 The single dated entry (1995) should be treated as a placeholder indicator that the subject is associated with Okinawa-linked operations in the mid-1990s, not as a complete chronology.
 
-## References
+
 
 [^1]: Wikipedia title URL (no active article visible as of 2026-03-02): https://en.wikipedia.org/wiki/Hiram_Nakamura
 [^2]: National Police Agency (Japan), English portal (general background on policing and publications): https://www.npa.go.jp/english/
@@ -61,3 +61,6 @@ The single dated entry (1995) should be treated as a placeholder indicator that 
 - When a biography page does not exist (or has been deleted/merged), secondary sites sometimes propagate **stale or fabricated summaries**.
 - For organized-crime figures, names may represent **aliases**, transliterations, or conflations across multiple individuals.
 - If stronger sources become available (court records, major-reputation journalism, academic histories), this entry should be revised to separate **confirmed facts** from **attributed claims**.
+
+
+## References

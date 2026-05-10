@@ -22,7 +22,7 @@ Former Prime Minister of Cameroon sentenced to 20 years in prison for embezzling
 | 2004 | Became Prime Minister of Cameroon |
 | 2013 | Sentenced to 20 years for embezzlement |
 
-## References
+
 
 [^1]: Wikipedia, "Ephraim Inoni" - https://en.wikipedia.org/wiki/Ephraim_Inoni
 
@@ -51,3 +51,6 @@ Former Prime Minister of Cameroon sentenced to 20 years in prison for embezzling
 
 - Corruption in Cameroon
 - Paul Biya
+
+
+## References

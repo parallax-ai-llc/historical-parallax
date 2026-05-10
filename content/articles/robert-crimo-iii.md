@@ -5,7 +5,7 @@ birth: "1999-09-20"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Highland_Park_IL_police_after_shooting.jpg/3840px-Highland_Park_IL_police_after_shooting.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Highland_Park_parade_shooting"
 lastUpdated: "2026-02-26"

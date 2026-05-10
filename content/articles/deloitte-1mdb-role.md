@@ -21,7 +21,7 @@ Deloitte served as 1MDB's auditor and failed to detect the massive fraud. Malays
 |------|-------|
 | 2020 | Deloitte fined for 1MDB audit failures |
 
-## References
+
 
 [^1]: Wikipedia, "Deloitte 1MDB Role" - https://en.wikipedia.org/wiki/Deloitte_1MDB_Role
 
@@ -57,3 +57,6 @@ Deloitte served as 1MDB's auditor and failed to detect the massive fraud. Malays
 This article summarizes high-level reporting and public references and should be read alongside primary enforcement documents and credible investigative reporting where available.
 
 [^2]: Wikipedia, "1Malaysia Development Berhad" - https://en.wikipedia.org/wiki/1Malaysia_Development_Berhad
+
+
+## References

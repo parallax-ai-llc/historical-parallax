@@ -22,7 +22,7 @@ Indian serial killer from Gujarat who murdered at least 17 women in Ahmedabad. H
 | 2010 | Began killing sex workers in Ahmedabad |
 | 2016 | Arrested for serial murders of women |
 
-## References
+
 
 [^1]: Wikipedia, "Devendra Patel" - https://en.wikipedia.org/wiki/Devendra_Patel
 
@@ -54,3 +54,6 @@ The case drew attention to safety issues for women in urban areas, policing prac
 ## See Also
 
 Related topics include serial crime investigations in India and victim-protection approaches for high-risk communities.
+
+
+## References

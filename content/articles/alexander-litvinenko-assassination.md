@@ -24,7 +24,7 @@ Russian former FSB officer who became a critic of Putin and accused the FSB of t
 | 2006 | Poisoned with polonium-210 in London; died 3 weeks later |
 | 2016 | UK inquiry concluded Putin probably approved assassination |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Litvinenko assassination" - https://en.wikipedia.org/wiki/Alexander_Litvinenko_assassination
 
@@ -65,3 +65,6 @@ The Litvinenko case contributed to long-running tensions between the United King
 ## Significance
 
 Beyond the individual case, the assassination is used as a case study in modern security and international relations for how **unconventional weapons**, investigative transparency, and political signaling intersect in high-stakes incidents.
+
+
+## References

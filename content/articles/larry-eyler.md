@@ -5,7 +5,7 @@ birth: "1952-12-21"
 death: "1994-03-06"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/88/Larry_Eyler.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Larry_Eyler"
 lastUpdated: "2026-02-21"

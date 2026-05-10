@@ -22,7 +22,7 @@ Myanmar general who led Bureau of Special Operations during the Rohingya genocid
 | 2017 | Led military operations targeting Rohingya civilians |
 | 2018 | Named by UN as requiring criminal investigation |
 
-## References
+
 
 [^1]: Wikipedia, "Aung Kyaw Zaw" - https://en.wikipedia.org/wiki/Aung_Kyaw_Zaw
 
@@ -42,10 +42,12 @@ The UN FFM’s core recommendation was accountability: credible, independent cri
 
 Because much of the detailed evidence is contained in UN documentation and subsequent reporting, biographical details for some commanders are limited in public sources. Summaries of roles and responsibilities should therefore be read as high-level attributions rather than complete operational histories.
 
+## Notes on Terminology
+
+Some datasets and summaries label individuals as "war criminals" based on alleged responsibility and the gravity of reported acts. A formal criminal conviction requires due process in a competent court; the UN FFM report is a basis for investigation and prosecution recommendations rather than a judgment of guilt.[^2]
+
+
 ## References
 
 [^2]: UN Human Rights Council, "Report of the Independent International Fact-Finding Mission on Myanmar" (A/HRC/39/64, 2018-09-12) - https://www.ohchr.org/en/documents/hrc-reports/ahrc3964-report-independent-international-fact-finding-mission-myanmar
 
-## Notes on Terminology
-
-Some datasets and summaries label individuals as "war criminals" based on alleged responsibility and the gravity of reported acts. A formal criminal conviction requires due process in a competent court; the UN FFM report is a basis for investigation and prosecution recommendations rather than a judgment of guilt.[^2]

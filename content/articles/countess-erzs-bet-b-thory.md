@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 | 1614 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Countess Erzsébet Báthory" - https://en.wikipedia.org/wiki/Countess_Erzs%C3%A9bet_B%C3%A1thory
 
@@ -82,3 +82,6 @@ Duplicate consolidated.
 - **Later folklore vs. contemporary record**: The most sensational motifs (especially bathing in blood) are widely treated as **later embellishments** rather than a firmly documented contemporaneous claim.
 - **Numbers and claims**: Reported victim counts often vary dramatically across sources and retellings.
 - **Modern caution**: Many modern summaries flag that the case sits at the intersection of **crime allegation, aristocratic politics, and narrative transmission** over centuries.
+
+
+## References

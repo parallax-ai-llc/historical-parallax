@@ -23,7 +23,7 @@ Hong Myung-bo captained South Korea during their historic 2002 World Cup semi-fi
 | 2002 | Captained Korea to WC semi-finals |
 | 2002 | Won Bronze Ball at World Cup |
 
-## References
+
 
 [^1]: Wikipedia, "Hong Myung-bo" - https://en.wikipedia.org/wiki/Hong_Myung-bo
 
@@ -48,3 +48,6 @@ After retiring as a player, Hong transitioned into coaching and football adminis
 - South Korea national football team
 - 2002 FIFA World Cup
 - AFC Asian Cup
+
+
+## References

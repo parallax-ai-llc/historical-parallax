@@ -43,7 +43,7 @@ Former FBI agent who warned about al-Qaeda before 9/11 and interrogated key terr
 - **Institutional learning:** Emphasis on improving intelligence sharing, analytic rigor, and operational coordination.
 - **Evolving threat landscape:** Commentary that distinguishes between different jihadist organizations (e.g., al-Qaeda vs. Islamic State) and how their strategies and recruitment differ over time.
 
-## References
+
 
 [^1]: Wikipedia, "Ali Soufan" - https://en.wikipedia.org/wiki/Ali_Soufan
 [^2]: Ali Soufan, *The Black Banners* (book, 2011) — overview and publication details.
@@ -66,3 +66,6 @@ Former FBI agent who warned about al-Qaeda before 9/11 and interrogated key terr
 - FBI counterterrorism (general)
 - al-Qaeda and Islamic State (comparative analysis)
 - Post-9/11 intelligence reforms
+
+
+## References

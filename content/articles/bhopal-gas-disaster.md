@@ -23,7 +23,7 @@ Industrial disaster at the Union Carbide pesticide plant in Bhopal on December 3
 | 1989 | Union Carbide settled for $470 million |
 | 2010 | Seven Indian managers convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Bhopal Gas Disaster" - https://en.wikipedia.org/wiki/Bhopal_Gas_Disaster
 
@@ -53,3 +53,6 @@ Industrial disaster at the Union Carbide pesticide plant in Bhopal on December 3
 ## References (Additional)
 
 [^2]: Encyclopaedia Britannica, "Bhopal disaster" - https://www.britannica.com/event/Bhopal-disaster
+
+
+## References

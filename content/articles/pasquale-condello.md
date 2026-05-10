@@ -23,7 +23,7 @@ Italian Ndrangheta boss known as the Supreme who controlled criminal operations 
 | 2008 | Arrested after 18 years |
 | 2010 | Sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Pasquale Condello" - https://en.wikipedia.org/wiki/Pasquale_Condello
 
@@ -49,3 +49,6 @@ Readers may also look for:
 - Broader historical or social context for the period
 - Similar figures/events in the same domain
 - Summaries in reference works and major news archives
+
+
+## References

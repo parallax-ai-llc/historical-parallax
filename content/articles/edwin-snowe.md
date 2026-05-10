@@ -22,7 +22,7 @@ Former Speaker of the Liberian House and son-in-law of Charles Taylor who embezz
 | 2006 | Charged with economic sabotage |
 | 2007 | Charges eventually dropped |
 
-## References
+
 
 [^1]: Wikipedia, "Edwin Snowe" - https://en.wikipedia.org/wiki/Edwin_Snowe
 
@@ -68,3 +68,6 @@ For a fuller factual record (beyond the brief summary above), typical items to v
 ## References (Extended)
 
 - [^1] is a starting point; additional corroboration is usually available via Liberian government releases, court records where accessible, and major news archives covering LPRC investigations.
+
+
+## References

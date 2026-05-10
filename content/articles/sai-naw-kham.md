@@ -37,7 +37,7 @@ Naw Kham was tried in China and sentenced to death, with his execution reported 
 ## Notes on Sources
 
 Public accounts vary on organizational details and attribution of responsibility; the broad outline above follows widely cited reporting and summaries such as Wikipedia’s overview.
-## References
+
 
 [^1]: Wikipedia, "Sai Naw Kham" - https://en.wikipedia.org/wiki/Sai_Naw_Kham
 
@@ -54,3 +54,6 @@ Public accounts vary on organizational details and attribution of responsibility
 - Names, dates, and claims should be cross-checked against the cited reference(s).
 - Where events involve crimes or violence, summaries avoid unnecessary graphic detail.
 - For full context, consult multiple reputable sources (official records, major news archives, and scholarly works when available).
+
+
+## References

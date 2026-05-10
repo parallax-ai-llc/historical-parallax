@@ -24,7 +24,7 @@ Tom Molineaux was a formerly enslaved African American who became one of the fir
 | 1811 | Fought Cribb again; lost in 11 rounds |
 | 1818 | Died in poverty in Ireland |
 
-## References
+
 
 [^1]: Wikipedia, "Tom Molineaux" - https://en.wikipedia.org/wiki/Tom_Molineaux
 
@@ -54,3 +54,6 @@ Tom Molineaux was a formerly enslaved African American who became one of the fir
 - 영향: 후대에 남긴 파급(법·정책·학문·대중문화 등)
 - 참고: 1차 기록과 2차 연구의 구분
 
+
+
+## References

@@ -22,7 +22,7 @@ Mass shooting at a Walmart in El Paso, Texas on August 3, 2019 killing 23 people
 | 2019 | 23 killed at Walmart |
 | 2023 | Shooter sentenced to 90 consecutive life terms |
 
-## References
+
 
 [^1]: Wikipedia, "El Paso Shooting" - https://en.wikipedia.org/wiki/El_Paso_Shooting
 
@@ -93,3 +93,6 @@ Investigations in large-scale attacks typically involve reviewing surveillance f
 ## Public impact
 
 The attack intensified public discussion about hate crimes, online radicalization, and policy responses. Community vigils and memorials became a focal point for grief and solidarity, and the event is often referenced in later debates about preventing mass violence.
+
+
+## References

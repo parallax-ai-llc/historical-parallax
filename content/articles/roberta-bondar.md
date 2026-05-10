@@ -5,7 +5,7 @@ birth: "1945-12-04"
 death: "living"
 nationality: "Canadian"
 occupation: ["Astronaut", "Neurologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Roberta_Bondar2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberta_Bondar"
 lastUpdated: "2026-02-21"

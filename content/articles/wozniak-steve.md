@@ -21,7 +21,7 @@ Already covered as Steve Wozniak in previous batches. Duplicate check.
 |------|-------|
 | 1950 | Born in San Jose |
 
-## References
+
 
 [^1]: Wikipedia, "Wozniak Steve" - https://en.wikipedia.org/wiki/Wozniak_Steve
 
@@ -50,3 +50,6 @@ Already covered as Steve Wozniak in previous batches. Duplicate check.
 ## References (additional)
 
 [^2]: Wikipedia, "Steve Wozniak" (canonical article) - https://en.wikipedia.org/wiki/Steve_Wozniak
+
+
+## References

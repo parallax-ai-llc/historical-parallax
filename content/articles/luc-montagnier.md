@@ -24,7 +24,7 @@ Luc Montagnier was a French virologist who shared the 2008 Nobel Prize for the d
 | 2008 | Awarded Nobel Prize |
 | 2022 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Luc Montagnier" - https://en.wikipedia.org/wiki/Luc_Montagnier
 
@@ -50,3 +50,6 @@ Montagnier is remembered both for landmark virology research related to HIV and 
 - HIV/AIDS research history
 - Pasteur Institute
 - Nobel Prize in Physiology or Medicine
+
+
+## References

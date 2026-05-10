@@ -21,7 +21,7 @@ Series of 10 rapes and murders near Hwaseong that remained unsolved for 33 years
 |------|-------|
 | 2019 | Solved after 33 years through DNA |
 
-## References
+
 
 [^1]: Wikipedia, "Hwaseong Serial Murders" - https://en.wikipedia.org/wiki/Hwaseong_Serial_Murders
 
@@ -48,3 +48,6 @@ Series of 10 rapes and murders near Hwaseong that remained unsolved for 33 years
 ## Notes
 
 - Dates in the frontmatter reflect the commonly cited period of the series rather than the full span of investigation and public reporting.
+
+
+## References

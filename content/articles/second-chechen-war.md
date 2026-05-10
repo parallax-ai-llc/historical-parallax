@@ -5,7 +5,7 @@ birth: "1999-08-07"
 death: "2009-04-16"
 nationality: "Russia"
 occupation: ["Criminal Conflict"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Russian_troops_on_their_way_to_Grozny%2C_1999.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Second_Chechen_War"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Russia's war to reclaim Chechnya killed an estimated 25,000-50,000 civilians. Ru
 | 1999 | War began |
 | 2009 | Official end of counterterrorism operations |
 
-## References
+
 
 [^1]: Wikipedia, "Second Chechen War" - https://en.wikipedia.org/wiki/Second_Chechen_War
 
@@ -55,3 +55,6 @@ Russia's war to reclaim Chechnya killed an estimated 25,000-50,000 civilians. Ru
 
 - The war had long-term consequences for Russian domestic politics, security services, and the broader trajectory of authoritarian consolidation.
 - It remains a heavily contested subject in historical memory and international reporting.
+
+
+## References

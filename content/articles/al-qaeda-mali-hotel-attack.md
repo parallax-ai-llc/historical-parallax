@@ -22,7 +22,7 @@ Jihadist attack on the Radisson Blu hotel in Bamako killing 22 people including 
 | 2015 | Gunmen attacked Radisson Blu hotel killing 22 |
 | 2015 | Malian and French forces ended siege |
 
-## References
+
 
 [^1]: Wikipedia, "Al-Qaeda Mali Hotel Attack" - https://en.wikipedia.org/wiki/Al-Qaeda_Mali_Hotel_Attack
 
@@ -49,3 +49,6 @@ In the wake of the siege, Mali increased security measures around major hotels, 
 ## Legacy
 
 The Radisson Blu hostage crisis is frequently cited as a landmark example of Sahel-based jihadist groups projecting violence into a national capital. It remains part of broader analyses of how militant organizations select targets for symbolic value, media attention, and disruption of economic confidence.
+
+
+## References

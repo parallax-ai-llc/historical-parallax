@@ -3,6 +3,7 @@ name: "Sergio Ramos"
 birth: "1986-03-30"
 nationality: "Spanish"
 occupation: ["Footballer", "Defender", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sergio_Ramos_Interview_2021_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergio_Ramos"
 lastUpdated: "2026-03-12"

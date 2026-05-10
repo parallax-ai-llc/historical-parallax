@@ -21,7 +21,7 @@ Leaders of the Oath Keepers convicted of seditious conspiracy for January 6 atta
 |------|-------|
 | 2023 | Leaders convicted of seditious conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Oath Keepers Leadership" - https://en.wikipedia.org/wiki/Oath_Keepers_Leadership
 
@@ -61,3 +61,6 @@ Federal prosecutors alleged that Oath Keepers leaders and members planned and co
 
 [^2]: U.S. Department of Justice press releases and case summaries related to Oath Keepers prosecutions (Jan. 6 investigation) - https://www.justice.gov/
 [^3]: Federal court dockets/opinions for January 6 cases (public records; varies by defendant) - https://www.courtlistener.com/ and https://pacer.uscourts.gov/
+
+
+## References

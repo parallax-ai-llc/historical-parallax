@@ -21,7 +21,7 @@ Hundreds of Amhara civilians were hacked to death with machetes in Mai Kadra dur
 |------|-------|
 | 2020 | Hundreds of civilians massacred |
 
-## References
+
 
 [^1]: Wikipedia, "Mai Kadra Massacre" - https://en.wikipedia.org/wiki/Mai_Kadra_Massacre
 
@@ -60,3 +60,6 @@ Hundreds of Amhara civilians were hacked to death with machetes in Mai Kadra dur
 ## Additional Reading
 
 - See the linked Wikipedia article and its cited sources for a starting bibliography and a map/location context.
+
+
+## References

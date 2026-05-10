@@ -22,7 +22,7 @@ President of Niger overthrown in a 2023 military coup and detained by junta forc
 | 2021 | Elected president of Niger |
 | 2023 | Overthrown in military coup and detained |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Bazoum" - https://en.wikipedia.org/wiki/Mohamed_Bazoum
 
@@ -64,3 +64,6 @@ President of Niger overthrown in a 2023 military coup and detained by junta forc
 
 ### Sources
 - The reference link(s) listed above are the primary source pointer used for this short profile.
+
+
+## References

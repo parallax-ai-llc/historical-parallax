@@ -23,7 +23,7 @@ Ethnic cleansing and genocide during the Bosnian War from 1992-1995. Over 100,00
 | 1995 | Srebrenica genocide |
 | 1995 | Dayton Agreement ended war |
 
-## References
+
 
 [^1]: Wikipedia, "Bosnian Genocide" - https://en.wikipedia.org/wiki/Bosnian_Genocide
 
@@ -57,3 +57,6 @@ Debates over terminology and historical interpretation remain politically sensit
 - Srebrenica massacre
 - ICTY
 - Genocide Convention
+
+
+## References

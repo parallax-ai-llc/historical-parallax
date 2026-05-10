@@ -24,7 +24,7 @@ Rwandan military officer convicted of genocide for directing massacres of Tutsi 
 | 2010 | Convicted of genocide by ICTR |
 | 2010 | Sentenced to 25 years |
 
-## References
+
 
 [^1]: Wikipedia, "Ephrem Setako" - https://en.wikipedia.org/wiki/Ephrem_Setako
 
@@ -48,3 +48,6 @@ Rwandan military officer convicted of genocide for directing massacres of Tutsi 
 Setako's conviction is part of the historical record of accountability efforts after 1994, alongside continuing debates about justice, reconciliation, and the long-term social impacts of the genocide in Rwanda.
 
 ICTR cases like this also informed later international and hybrid tribunals by clarifying evidentiary standards for leadership involvement.
+
+
+## References

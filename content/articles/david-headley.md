@@ -24,7 +24,7 @@ Pakistani-American who played a key role in planning the 2008 Mumbai attacks tha
 | 2009 | Arrested in Chicago |
 | 2013 | Sentenced to 35 years |
 
-## References
+
 
 [^1]: Wikipedia, "David Headley" - https://en.wikipedia.org/wiki/David_Headley
 
@@ -48,3 +48,6 @@ Pakistani-American who played a key role in planning the 2008 Mumbai attacks tha
 - The case highlighted the importance of **reconnaissance and travel logistics** in modern terrorism operations.
 - It also became part of wider India–U.S.–Pakistan diplomatic and security conversations after the Mumbai attacks.
 - Headley’s cooperation and testimony were cited in additional investigations and cases connected to transnational extremist plots.
+
+
+## References

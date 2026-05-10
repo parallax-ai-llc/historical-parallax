@@ -23,7 +23,7 @@ South African serial killer known as the Phoenix Cane Killer who murdered at lea
 | 1997 | Arrested after intensive police investigation |
 | 1999 | Convicted and sentenced to multiple life terms |
 
-## References
+
 
 [^1]: Wikipedia, "Themba Dladla" - https://en.wikipedia.org/wiki/Themba_Dladla
 
@@ -49,3 +49,6 @@ Following conviction, the court imposed multiple life sentences. In South Africa
 ## Public impact
 
 High-profile serial cases often produce community fear, changes in daily routines, and pressure for visible policing. Media coverage can also shape how cases are remembered, including the use of descriptive (and sometimes sensational) nicknames.
+
+
+## References

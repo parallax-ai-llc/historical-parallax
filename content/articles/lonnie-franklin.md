@@ -48,10 +48,13 @@ See Lonnie David Franklin Jr.
 - The case received extensive media coverage and is frequently cited in discussions of cold cases, policing resources, and the treatment of marginalized victims.
 - It also became a reference point for debates about the death penalty and lengthy appeals processes in California.
 
-## References
+
 
 [^1]: Wikipedia, "Lonnie Franklin" - https://en.wikipedia.org/wiki/Lonnie_Franklin
 
 ## Notes
 
 This article is a short pointer entry; for a fuller narrative, see the linked Wikipedia article and court reporting on the "Grim Sleeper" case.
+
+
+## References

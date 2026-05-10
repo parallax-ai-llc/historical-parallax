@@ -22,7 +22,7 @@ Former CEO of Alameda Research who pleaded guilty to fraud and cooperated agains
 | 2022 | Pleaded guilty to wire fraud and conspiracy |
 | 2024 | Sentenced to two years imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Caroline Ellison" - https://en.wikipedia.org/wiki/Caroline_Ellison
 
@@ -50,3 +50,6 @@ The FTX/Alameda scandal became a landmark episode in cryptocurrency regulation a
 
 [^2]: U.S. Department of Justice, press releases on FTX/Alameda prosecutions (case updates) - https://www.justice.gov/usao-sdny/pr
 [^3]: Wikipedia, "FTX" and "Alameda Research" (context and timelines) - https://en.wikipedia.org/wiki/FTX
+
+
+## References

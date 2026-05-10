@@ -21,7 +21,7 @@ Placeholder for Japanese pharmaceutical coverage.
 |------|-------|
 | 1940 | Born in Japan |
 
-## References
+
 
 [^1]: Wikipedia, "Takeda Kunio" - https://en.wikipedia.org/wiki/Takeda_Kunio
 
@@ -57,3 +57,6 @@ for example:
 ## References (Additional)
 
 [^2]: Wikipedia, "Takeda Pharmaceutical Company" - https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company
+
+
+## References

@@ -21,7 +21,7 @@ Colombian serial killer who murdered women in Bogotá.
 |------|-------|
 | 2003 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Adelmo Pardo Hernández" - https://en.wikipedia.org/wiki/Adelmo_Pardo_Hern%C3%A1ndez
 
@@ -61,3 +61,6 @@ When sources are available, serial homicide case summaries commonly include:
 - Lists of serial killers by country
 - Crime in Bogotá
 - Criminal justice system in Colombia
+
+
+## References

@@ -21,7 +21,7 @@ Romanian serial killer who murdered multiple women in Bucharest.
 |------|-------|
 | 2001 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Roland Radu" - https://en.wikipedia.org/wiki/Roland_Radu
 
@@ -56,3 +56,6 @@ This article is intentionally high-level and limited to widely cited public refe
 
 - List of serial killers by country
 - Crime in Romania
+
+
+## References

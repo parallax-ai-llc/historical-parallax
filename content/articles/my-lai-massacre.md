@@ -23,7 +23,7 @@ Mass murder of 347-504 unarmed Vietnamese civilians by US Army soldiers on March
 | 1969 | Cover-up exposed |
 | 1971 | Lt. Calley convicted, only person |
 
-## References
+
 
 [^1]: Wikipedia, "My Lai Massacre" - https://en.wikipedia.org/wiki/My_Lai_Massacre
 
@@ -55,3 +55,6 @@ My Lai became one of the most infamous incidents of civilian harm in the Vietnam
 
 - Peers Commission (U.S. Army inquiry) is commonly referenced in overviews of the event.
 - The role of reporting and journalism in 1969 is often highlighted as a case study in accountability.
+
+
+## References

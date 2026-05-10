@@ -23,7 +23,7 @@ Crush at Hillsborough football stadium in Sheffield on April 15, 1989 that kille
 | 2012 | Hillsborough Independent Panel exposed cover-up |
 | 2016 | Inquest ruled unlawful killing |
 
-## References
+
 
 [^1]: Wikipedia, "Hillsborough Disaster" - https://en.wikipedia.org/wiki/Hillsborough_Disaster
 
@@ -48,3 +48,6 @@ Hillsborough became a turning point in UK stadium safety and policing practices.
 ## Notes
 
 Different sources may report casualty totals differently depending on later deaths and legal definitions; many contemporary references cite 97.
+
+
+## References

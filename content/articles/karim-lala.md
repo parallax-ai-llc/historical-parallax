@@ -5,7 +5,7 @@ birth: "1911-01-01"
 death: "2002-01-08"
 nationality: "India / Afghanistan"
 occupation: ["Crime Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/c1/KarimLalaImage.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karim_Lala"
 lastUpdated: "2026-02-26"
@@ -19,7 +19,7 @@ Karim Lala was a Pathan don who ran the Bombay underworld from the 1940s-80s. He
 |------|-------|
 | 1911 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Early Life and Background
@@ -52,3 +52,6 @@ Karim Lala was a Pathan don who ran the Bombay underworld from the 1940s-80s. He
 
 ## Additional References
 - Wikipedia: https://en.wikipedia.org/wiki/Karim_Lala
+
+
+## References

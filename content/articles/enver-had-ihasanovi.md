@@ -23,7 +23,7 @@ Bosnian military commander convicted by the ICTY of failing to prevent crimes co
 | 2001 | Indicted by ICTY |
 | 2006 | Convicted and sentenced to 3.5 years for command responsibility |
 
-## References
+
 
 [^1]: Wikipedia, "Enver Hadžihasanović" - https://en.wikipedia.org/wiki/Enver_Had%C5%BEihasanovi%C4%87
 
@@ -49,3 +49,6 @@ This prosecution is commonly referenced when summarizing:
 ## Notes
 
 Some aspects of the findings and sentence were contested through the ICTY appellate process; summaries typically distinguish between **trial-level findings** and any **appeal judgment** modifications.
+
+
+## References

@@ -23,7 +23,7 @@ Former foreign minister of the Chechen Republic of Ichkeria who was granted asyl
 | 2004 | Granted asylum in United States |
 | 2005 | Published Chechen Struggle |
 
-## References
+
 
 [^1]: Wikipedia, "Ilyas Akhmadov" - https://en.wikipedia.org/wiki/Ilyas_Akhmadov
 
@@ -48,3 +48,6 @@ He is credited with publishing work about the Chechen struggle, which is often u
 - First and Second Chechen Wars
 - Chechen Republic of Ichkeria
 - Political asylum and extradition disputes
+
+
+## References

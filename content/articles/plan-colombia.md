@@ -23,7 +23,7 @@ US aid program to combat drug trafficking and insurgency in Colombia launched in
 | 2006 | Coca cultivation decreased |
 | 2015 | Program wound down |
 
-## References
+
 
 [^1]: Wikipedia, "Plan Colombia" - https://en.wikipedia.org/wiki/Plan_Colombia
 
@@ -51,3 +51,6 @@ This entry summarizes a multi-year policy package; figures and trend claims depe
 
 - Colombian conflict
 - War on drugs
+
+
+## References

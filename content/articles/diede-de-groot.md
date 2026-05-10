@@ -21,7 +21,7 @@ Diede de Groot became the first wheelchair tennis player to complete the Golden 
 |------|-------|
 | 2021 | Won Golden Grand Slam in wheelchair tennis |
 
-## References
+
 
 [^1]: Wikipedia, "Diede de Groot" - https://en.wikipedia.org/wiki/Diede_de_Groot
 
@@ -66,3 +66,5 @@ De Groot’s 2021 season is frequently cited as a benchmark for sustained excell
 ## References
 
 [^1]: Wikipedia, "Diede de Groot" - https://en.wikipedia.org/wiki/Diede_de_Groot
+
+

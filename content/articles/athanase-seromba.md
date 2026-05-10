@@ -23,7 +23,7 @@ Rwandan Catholic priest who ordered the bulldozing of his own church in Nyange w
 | 2002 | Arrested in Italy where he served as a parish priest |
 | 2006 | Convicted of genocide, sentence increased to life on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Athanase Seromba" - https://en.wikipedia.org/wiki/Athanase_Seromba
 
@@ -49,3 +49,6 @@ Rwandan Catholic priest who ordered the bulldozing of his own church in Nyange w
 
 ## Notes
 
+
+
+## References

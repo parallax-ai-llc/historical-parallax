@@ -37,7 +37,7 @@ Alimzhan Tokhtakhunov's criminal career came to an end through law enforcement a
 | 1949 | Born |
 | ? | Career ended |
 
-## References
+
 [^1]: Encyclopedia of Criminal History.
 [^2]: International Criminal Records.
 [^3]: Court and law enforcement records.
@@ -51,3 +51,6 @@ Alimzhan Tokhtakhunov's criminal career came to an end through law enforcement a
 - High-profile cases can influence public policy discussions (e.g., sentencing, prevention, victim support, or security practices) even when the underlying facts are narrowly specific.
 - Media coverage can shape long-term perception; separating verified facts from commentary is important when summarizing historical incidents.
 - Downstream effects may include changes in institutional procedures, increased awareness, and renewed attention to systemic vulnerabilities.
+
+
+## References

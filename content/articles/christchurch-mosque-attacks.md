@@ -21,7 +21,7 @@ See Christchurch Mosque Shootings.
 |------|-------|
 | 2019 | 51 killed |
 
-## References
+
 
 [^1]: Wikipedia, "Christchurch Mosque Attacks" - https://en.wikipedia.org/wiki/Christchurch_Mosque_Attacks
 
@@ -60,3 +60,6 @@ See Christchurch Mosque Shootings.
 ## Additional Reading
 
 - Wikipedia also maintains the related article title **"Christchurch mosque shootings"**, which is often used as the primary page for the incident.[^1]
+
+
+## References

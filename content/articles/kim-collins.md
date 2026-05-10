@@ -5,7 +5,7 @@ birth: "1976-04-05"
 death: "Unknown"
 nationality: "Saint Kitts and Nevis"
 occupation: ["Athlete", "World Champion", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kim_Collins_Berlin_2009.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Collins"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Kim Collins won the 2003 World Championship 100m gold, making Saint Kitts and Ne
 |------|-------|
 | 2003 | Won World Championship 100m gold |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Collins" - https://en.wikipedia.org/wiki/Kim_Collins
 
@@ -54,3 +54,6 @@ Kim Collins won the 2003 World Championship 100m gold, making Saint Kitts and Ne
 ## Legacy
 
 Kim Collins is remembered primarily for his **2003 100 m world title** and for demonstrating that sustained elite sprinting success can come from a **small Caribbean federation** with limited resources.
+
+
+## References

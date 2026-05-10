@@ -21,7 +21,7 @@ Wagner mercenary Yevgeny Nuzhin was filmed being executed with a sledgehammer af
 |------|-------|
 | 2022 | Execution video released |
 
-## References
+
 
 [^1]: Wikipedia, "Wagner Group Sledgehammer Killing" - https://en.wikipedia.org/wiki/Wagner_Group_Sledgehammer_Killing
 
@@ -55,3 +55,6 @@ In high-level treatments, the episode is sometimes connected to debates over pot
 ## Notes on Naming
 
 The phrase “sledgehammer killing” is used as a descriptive label tied to the method shown in the video and to later symbolic references associated with Wagner; short references typically treat the term as part of the incident’s media identity.[^1]
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1985 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Altman dup3" - https://en.wikipedia.org/wiki/Sam_Altman_dup3
 
@@ -63,3 +63,6 @@ If multiple biographies exist (e.g., `sam-altman.md`, `sam-altman-dup*.md`), a t
 
 [^2]: Wikipedia, "Sam Altman" - https://en.wikipedia.org/wiki/Sam_Altman
 [^3]: Y Combinator - https://www.ycombinator.com/
+
+
+## References

@@ -24,7 +24,7 @@ Mexican drug lord who led the Gulf Cartel and created Los Zetas by recruiting Me
 | 2007 | Extradited to United States |
 | 2010 | Sentenced to 25 years in US prison |
 
-## References
+
 
 [^1]: Wikipedia, "Osiel Cárdenas Guillén" - https://en.wikipedia.org/wiki/Osiel_C%C3%A1rdenas_Guill%C3%A9n
 
@@ -57,3 +57,6 @@ Commonly noted dynamics in reporting and scholarship include:
 - Mexican Drug War
 - Gulf Cartel
 - Los Zetas
+
+
+## References

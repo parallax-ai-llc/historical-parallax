@@ -21,7 +21,7 @@ Boko Haram kidnapping of 110 girls from a school in Dapchi, Yobe State.
 |------|-------|
 | 2018 | 110 schoolgirls kidnapped |
 
-## References
+
 
 [^1]: Wikipedia, "Dapchi Girls Kidnapping" - https://en.wikipedia.org/wiki/Dapchi_Girls_Kidnapping
 
@@ -58,3 +58,6 @@ Boko Haram kidnapping of 110 girls from a school in Dapchi, Yobe State.
 - Boko Haram insurgency in northeastern Nigeria
 - Chibok schoolgirls kidnapping (2014)
 - Attacks on schools and “Safe Schools” style security initiatives
+
+
+## References

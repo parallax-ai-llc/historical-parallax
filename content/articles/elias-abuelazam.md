@@ -23,7 +23,7 @@ Israeli-American serial stabber who attacked 18 people in Flint, Michigan in 201
 | 2010 | Arrested at Atlanta airport |
 | 2012 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Elias Abuelazam" - https://en.wikipedia.org/wiki/Elias_Abuelazam
 
@@ -50,3 +50,6 @@ The case is often referenced in discussions of:
 ## Notes on Sources
 
 Many high-level summaries rely on court reporting and later encyclopedia-style writeups. For precise counts of charges, victim lists, and procedural milestones, primary court records and contemporaneous local news coverage are typically needed.
+
+
+## References

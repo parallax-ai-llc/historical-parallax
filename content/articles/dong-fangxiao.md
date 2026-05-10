@@ -22,7 +22,7 @@ Dong Fangxiao's 2000 Olympic team bronze was stripped when age falsification was
 | 2000 | Won team bronze at Sydney |
 | 2010 | Medal stripped |
 
-## References
+
 
 [^1]: Wikipedia, "Dong Fangxiao" - https://en.wikipedia.org/wiki/Dong_Fangxiao
 
@@ -52,3 +52,6 @@ Dong Fangxiao's 2000 Olympic team bronze was stripped when age falsification was
 
 - The case is also used in sports ethics discussions about how responsibility should be allocated between **athletes, coaches, and federations** when eligibility violations occur.
 - It highlights the long time horizons involved: decisions taken in youth sport can be judged years later under international rules.
+
+
+## References

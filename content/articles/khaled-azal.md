@@ -46,7 +46,7 @@ Key figure in the Brothas gang in Copenhagen involved in shootings and drug traf
 - Most easily accessible details come from tertiary summaries (e.g., Wikipedia) that cite Danish-language journalism.
 - When expanding this profile, prefer primary court records or reputable Danish outlets for verification of dates, charges, and outcomes.
 
-## References
+
 
 [^1]: Wikipedia, "Khaled Azal" - https://en.wikipedia.org/wiki/Khaled_Azal
 
@@ -74,3 +74,5 @@ When sources describe an individual as a "gang leader" in a European organized-c
 ## Scope and caution
 
 This article is intentionally high-level. Because source detail is limited and can be sensitive, any expansion should rely on clearly attributable reporting and avoid unsupported claims about specific incidents beyond what sources state.
+
+## References

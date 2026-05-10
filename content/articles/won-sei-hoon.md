@@ -22,7 +22,7 @@ Former NIS director convicted of ordering agents to post millions of online comm
 | 2012 | Directed election interference |
 | 2017 | Convicted and imprisoned |
 
-## References
+
 
 [^1]: Wikipedia, "Won Sei-hoon" - https://en.wikipedia.org/wiki/Won_Sei-hoon
 
@@ -48,3 +48,6 @@ Won’s case is frequently discussed as a test of how a modern state disciplines
 It also illustrates how digital platforms can be used to amplify political messaging at scale.
 In retrospective summaries, it is treated as part of a longer arc of controversies over intelligence-agency conduct in South Korea.
 The subject remains relevant whenever election integrity and online influence campaigns are debated.
+
+
+## References

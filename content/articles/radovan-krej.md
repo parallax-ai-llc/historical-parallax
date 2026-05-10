@@ -21,7 +21,7 @@ Czech crime boss convicted of kidnapping and attempted murder in South Africa af
 |------|-------|
 | 2013 | Convicted in South Africa |
 
-## References
+
 
 [^1]: Wikipedia, "Radovan Krejčíř" - https://en.wikipedia.org/wiki/Radovan_Krej%C4%8D%C3%AD%C5%99
 
@@ -50,3 +50,6 @@ Czech crime boss convicted of kidnapping and attempted murder in South Africa af
 ## Notes
 
 - This article is a brief, high-level summary intended for quick reference; details such as specific charges, dates, and judicial findings should be verified directly from primary court records or reputable reporting.[^1]
+
+
+## References

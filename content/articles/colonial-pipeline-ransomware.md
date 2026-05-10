@@ -22,7 +22,7 @@ DarkSide ransomware group attacked Colonial Pipeline forcing a six-day shutdown 
 | 2021 | DarkSide ransomware shut down Colonial Pipeline |
 | 2021 | Company paid $4.4 million ransom; FBI recovered $2.3 million |
 
-## References
+
 
 [^1]: Wikipedia, "Colonial Pipeline Ransomware" - https://en.wikipedia.org/wiki/Colonial_Pipeline_Ransomware
 
@@ -50,3 +50,6 @@ The Colonial Pipeline attack became a widely cited case study for how disruption
 ## Key Takeaways
 
 - Critical infrastructure operators may halt operations to contain IT incidents.
+
+
+## References

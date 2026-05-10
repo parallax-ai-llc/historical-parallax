@@ -5,7 +5,7 @@ birth: "1928-08-27"
 death: "1928-08-27"
 nationality: "France"
 occupation: ["Historical Event", "Treaty", "International Law"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Kellogg%E2%80%93Briand_Pact_%281928%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kellogg-Briand_Pact"
 lastUpdated: "2026-02-21"

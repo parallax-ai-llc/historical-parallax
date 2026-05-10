@@ -5,7 +5,7 @@ birth: "1942-02-27"
 death: "2021-12-19"
 nationality: "American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Robert_Grubbs_Royal_Society.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Grubbs"
 lastUpdated: "2026-02-21"

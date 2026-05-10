@@ -21,7 +21,7 @@ Tyrant of Sparta who used a torture device called the Iron Apega and terrorized 
 |------|-------|
 | -207 | Seized power in Sparta through terror |
 
-## References
+
 
 [^1]: Wikipedia, "Nabis" - https://en.wikipedia.org/wiki/Nabis
 
@@ -70,3 +70,6 @@ Tyrant of Sparta who used a torture device called the Iron Apega and terrorized 
 ## References (Additional)
 
 [^2]: Polybius, *Histories* (key narrative source for Roman-era Greece; hostile framing of Nabis is common in the tradition)
+
+
+## References

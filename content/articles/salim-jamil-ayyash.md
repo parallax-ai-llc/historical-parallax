@@ -5,7 +5,7 @@ birth: "1963-11-10"
 death: "Unknown"
 nationality: "Lebanon"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/20/Salim_Jamil_Ayyash.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salim_Jamil_Ayyash"
 lastUpdated: "2026-02-26"

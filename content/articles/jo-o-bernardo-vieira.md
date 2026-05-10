@@ -22,7 +22,7 @@ President of Guinea-Bissau who was assassinated by soldiers after ruling for dec
 | 1980 | Seized power in military coup |
 | 2009 | Assassinated by military |
 
-## References
+
 
 [^1]: Wikipedia, "João Bernardo Vieira" - https://en.wikipedia.org/wiki/Jo%C3%A3o_Bernardo_Vieira
 ## Political Context
@@ -49,3 +49,6 @@ Subsequent years continued to feature political crises and international mediati
 ## Notes
 
 Some claims about trafficking and specific actors vary across sources; careful sourcing is required for detailed allegations.
+
+
+## References

@@ -23,7 +23,7 @@ Assassination of Senator Robert F. Kennedy at the Ambassador Hotel in Los Angele
 | 1968 | Died next day |
 | 1969 | Sirhan convicted |
 
-## References
+
 
 [^1]: Wikipedia, "RFK Assassination" - https://en.wikipedia.org/wiki/RFK_Assassination
 
@@ -52,3 +52,6 @@ Assassination of Senator Robert F. Kennedy at the Ambassador Hotel in Los Angele
 - Assassination of Robert F. Kennedy: https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy
 - Sirhan Sirhan: https://en.wikipedia.org/wiki/Sirhan_Sirhan
 - Ambassador Hotel (Los Angeles): https://en.wikipedia.org/wiki/Ambassador_Hotel_(Los_Angeles)
+
+
+## References

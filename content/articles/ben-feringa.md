@@ -23,7 +23,7 @@ Ben Feringa is a Dutch chemist who shared the 2016 Nobel Prize in Chemistry for 
 | 1999 | Built first molecular motor |
 | 2016 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Ben Feringa" - https://en.wikipedia.org/wiki/Ben_Feringa
 
@@ -54,3 +54,6 @@ Molecular-machine research is often discussed as a stepping stone toward:
 - improved understanding of how motion can be programmed at the molecular level
 
 These applications remain an active research area; the Nobel-recognized work is generally viewed as enabling core design principles.
+
+
+## References

@@ -23,7 +23,7 @@ Brazilian drug trafficker known as Fuminho who was PCC's top international cocai
 | 2020 | Arrested in Mozambique after years as a fugitive |
 | 2021 | Extradited to Brazil |
 
-## References
+
 
 [^1]: Wikipedia, "Gilberto Aparecido dos Santos" - https://en.wikipedia.org/wiki/Gilberto_Aparecido_dos_Santos
 
@@ -49,3 +49,6 @@ Brazilian drug trafficker known as Fuminho who was PCC's top international cocai
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
 
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+
+## References

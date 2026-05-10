@@ -25,7 +25,7 @@ Pseudonymous Syrian military photographer who smuggled out 55,000 photos documen
 | 2014–2016 | International investigative teams and human-rights organizations conducted authenticity reviews and contextual analysis of the archive. |
 | 2019 | The U.S. “Caesar Syria Civilian Protection Act” (commonly “Caesar Act”) was enacted, named after the defector’s pseudonym. |
 
-## References
+
 
 [^1]: Wikipedia, "Caesar Photographer" - https://en.wikipedia.org/wiki/Caesar_Photographer
 
@@ -58,3 +58,6 @@ Pseudonymous Syrian military photographer who smuggled out 55,000 photos documen
 ## References (Additional)
 
 [^2]: U.S. law commonly known as the “Caesar Syria Civilian Protection Act” (background and enactment details vary by source; see official U.S. legislative records and reputable summaries).
+
+
+## References

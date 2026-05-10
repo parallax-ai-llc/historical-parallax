@@ -22,7 +22,7 @@ Chinese mining tycoon and one of Sichuan's richest men who ran a criminal empire
 | 2009 | Ordered murder of rivals to protect mining interests |
 | 2015 | Executed for leading criminal organization |
 
-## References
+
 
 [^1]: Wikipedia, "Liu Han" - https://en.wikipedia.org/wiki/Liu_Han
 
@@ -55,3 +55,6 @@ Chinese mining tycoon and one of Sichuan's richest men who ran a criminal empire
 
 - The case is commonly remembered as an example of how organized-crime prosecutions can intersect with high-level business and political attention.
 - It highlights the difficulty of distinguishing legitimate commercial operations from coercive or illicit control when violence and intimidation are present.
+
+
+## References

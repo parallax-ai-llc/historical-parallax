@@ -22,7 +22,7 @@ Former president of Niger whose administration faced accusations of corruption a
 | 2014 | Imprisoned rival Hama Amadou on baby trafficking charges |
 | 2021 | Completed second term amid corruption allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Mahamadou Issoufou" - https://en.wikipedia.org/wiki/Mahamadou_Issoufou
 
@@ -76,3 +76,6 @@ Criticism of Issoufou's administration has appeared in relation to high-profile 
 ## Post-presidency
 
 After leaving office, former heads of state in the region may remain influential through party networks, advisory roles, and international engagements. Public discussion of Issoufou after 2021 has tended to focus on his legacy, ongoing political dynamics in Niger, and how subsequent governments interpret the preceding period.
+
+
+## References

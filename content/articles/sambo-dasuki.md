@@ -22,7 +22,7 @@ Former Nigerian National Security Adviser who misappropriated $2.1 billion meant
 | 2014 | Diverted $2.1 billion arms procurement funds |
 | 2015 | Arrested on charges of money laundering and arms fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Sambo Dasuki" - https://en.wikipedia.org/wiki/Sambo_Dasuki
 
@@ -49,3 +49,6 @@ Former Nigerian National Security Adviser who misappropriated $2.1 billion meant
 
 - 독자가 오해하기 쉬운 용어는 한 줄 정의로 보완합니다.
 - 동음이의/유사 개념이 있다면 구분 기준을 제시합니다.
+
+
+## References

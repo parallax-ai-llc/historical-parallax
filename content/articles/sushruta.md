@@ -43,7 +43,7 @@ Sushruta was an ancient Indian physician and surgeon who is considered the fathe
 - In South Asian medical history, Sushruta is often invoked as an emblem of early surgical sophistication.
 - Modern narratives sometimes compare the *Sushruta Samhita* to other ancient medical corpora, highlighting how different civilizations preserved and transmitted clinical knowledge.
 
-## References
+
 
 [^1]: Wikipedia, "Sushruta" - https://en.wikipedia.org/wiki/Sushruta
 
@@ -51,3 +51,6 @@ Sushruta was an ancient Indian physician and surgeon who is considered the fathe
 
 - Ayurveda
 - History of surgery
+
+
+## References

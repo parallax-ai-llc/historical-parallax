@@ -24,7 +24,7 @@ Fijian military commander who carried out a coup in 2006 and ruled as PM until 2
 | 2022 | Lost elections |
 | 2024 | Convicted and sentenced to prison |
 
-## References
+
 
 [^1]: Wikipedia, "Frank Bainimarama" - https://en.wikipedia.org/wiki/Frank_Bainimarama
 
@@ -49,3 +49,6 @@ After losing power in the 2022 election, Bainimarama remained a major political 
 - Politics of Fiji
 - 2006 Fijian coup d'état
 - Civil–military relations
+
+
+## References

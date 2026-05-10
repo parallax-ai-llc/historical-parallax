@@ -23,7 +23,7 @@ Thai national convicted of being the kingpin of a major rhino horn trafficking r
 | 2012 | Arrested in South Africa |
 | 2012 | Convicted; sentenced to 40 years |
 
-## References
+
 
 [^1]: Wikipedia, "Chumlong Lemtongthai" - https://en.wikipedia.org/wiki/Chumlong_Lemtongthai
 
@@ -50,3 +50,6 @@ The case is frequently referenced in discussions of how wildlife trafficking net
 
 - Rhino horn trafficking
 - Wildlife crime and CITES enforcement
+
+
+## References

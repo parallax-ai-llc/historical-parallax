@@ -21,7 +21,7 @@ Placeholder — fictional character.
 |------|-------|
 | 1946 | Born |
 
-## References
+
 
 [^1]: Wikipedia, "Travis Bickle" - https://en.wikipedia.org/wiki/Travis_Bickle
 
@@ -51,3 +51,6 @@ Scholarly and critical discussion often treats Travis as a study in alienation, 
 ## Notes
 
 This article describes a fictional character; biographical fields (birth/death) are best understood as approximate or narrative placeholders rather than historical records.
+
+
+## References

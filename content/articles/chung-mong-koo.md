@@ -23,7 +23,7 @@ South Korean chairman of Hyundai Motor Group who was convicted of embezzlement a
 | 2007 | Convicted; given suspended sentence |
 | 2008 | Pardoned by President Lee Myung-bak |
 
-## References
+
 
 [^1]: Wikipedia, "Chung Mong-koo" - https://en.wikipedia.org/wiki/Chung_Mong-koo
 
@@ -50,3 +50,6 @@ The episode is commonly used in commentary about *chaebol* governance: the idea 
 ### Note on occupations
 
 Despite frequent discussion in political economy contexts, he is best described as a **business magnate**, not a career politician.
+
+
+## References

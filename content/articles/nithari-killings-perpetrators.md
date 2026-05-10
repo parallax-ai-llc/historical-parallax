@@ -22,7 +22,7 @@ Moninder Singh Pandher and his servant Surinder Koli killed at least 19 women an
 | 2006 | Bodies and remains of victims discovered in drain at Nithari village |
 | 2009 | Surinder Koli sentenced to death for multiple murders |
 
-## References
+
 
 [^1]: Wikipedia, "Nithari Killings Perpetrators" - https://en.wikipedia.org/wiki/Nithari_Killings_Perpetrators
 
@@ -49,3 +49,6 @@ The case is frequently discussed in the context of:
 [^2]: Contemporary Indian court reporting and high-level summaries of the CBI investigation and subsequent appeals (various years).
 
 The episode also triggered renewed debate about oversight of forensic capacity and inter-agency coordination in complex criminal cases.
+
+
+## References

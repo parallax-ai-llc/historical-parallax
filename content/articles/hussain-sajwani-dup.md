@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1953 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Hussain Sajwani dup" - https://en.wikipedia.org/wiki/Hussain_Sajwani_dup
 
@@ -49,3 +49,6 @@ The Wikipedia link in this file appears to point to a non-standard/duplicate slu
 - DAMAC Properties (real estate development brand)
 - DAMAC Group (parent group branding used in many profiles)
 - Dubai real estate market (sector context)
+
+
+## References

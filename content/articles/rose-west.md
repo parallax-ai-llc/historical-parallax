@@ -5,7 +5,7 @@ birth: "1953-11-29"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b1/FredandRoseWest.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rose_West"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ British serial killer who with husband Fred murdered at least 12 women at their 
 | 1994 | Arrested |
 | 1995 | Sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Rose West" - https://en.wikipedia.org/wiki/Rose_West
 
@@ -50,3 +50,6 @@ British serial killer who with husband Fred murdered at least 12 women at their 
 ## Notes on Sources
 
 - Victim counts and specific attributions can vary across summaries; careful sourcing is important because some details have been debated or revised as investigations progressed.
+
+
+## References

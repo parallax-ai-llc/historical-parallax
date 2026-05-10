@@ -21,7 +21,7 @@ Chilean intelligence officer convicted of the car bomb assassination of Orlando 
 |------|-------|
 | 1993 | Convicted of Letelier assassination |
 
-## References
+
 
 [^1]: Wikipedia, "Pedro Espinoza" - https://en.wikipedia.org/wiki/Pedro_Espinoza
 
@@ -59,3 +59,6 @@ Chilean intelligence officer convicted of the car bomb assassination of Orlando 
 
 - U.S. and Chilean investigative reporting on the Letelier-Moffitt case (multiple outlets; often includes declassified material).
 - Human-rights documentation and historical summaries of DINA's internal and external operations.
+
+
+## References

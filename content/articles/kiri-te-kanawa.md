@@ -3,6 +3,7 @@ name: "Kiri Te Kanawa"
 birth: "1944-03-06"
 nationality: "New Zealand"
 occupation: ["Opera Singer", "Soprano"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kiri_Te_Kanawa_80th_birthday_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kiri_Te_Kanawa"
 lastUpdated: "2026-03-12"

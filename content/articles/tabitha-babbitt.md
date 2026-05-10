@@ -24,7 +24,7 @@ Tabitha Babbitt is credited with inventing the circular saw in 1813. As a Shaker
 | 1813 | Invented the circular saw |
 | 1853 | Died in Harvard, Massachusetts |
 
-## References
+
 
 [^1]: Wikipedia, "Tabitha Babbitt" - https://en.wikipedia.org/wiki/Tabitha_Babbitt
 
@@ -49,3 +49,6 @@ Babbitt is frequently described as a skilled toolmaker and a practical inventor 
 - Shaker craftsmanship and technology
 - Early American woodworking and sawmill history
 - The history of patents and communal invention
+
+
+## References

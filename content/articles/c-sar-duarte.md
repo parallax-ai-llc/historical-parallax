@@ -24,7 +24,7 @@ Mexican former governor of Chihuahua accused of embezzling over $6.5 billion pes
 | 2020 | Arrested in Miami |
 | 2022 | Extradited to Mexico |
 
-## References
+
 
 [^1]: Wikipedia, "César Duarte" - https://en.wikipedia.org/wiki/C%C3%A9sar_Duarte
 
@@ -49,3 +49,6 @@ High-profile corruption cases in Mexico often involve parallel issues such as as
 - PRI-era governance and post-2000 Mexican party competition
 - Extradition cooperation between Mexico and the United States
 - Anti-corruption reforms and state-level accountability
+
+
+## References

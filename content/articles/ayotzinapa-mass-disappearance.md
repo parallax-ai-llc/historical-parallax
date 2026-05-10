@@ -23,7 +23,7 @@ Forced disappearance of 43 students from the Ayotzinapa Rural Teachers College i
 | 2015 | Investigation found police-cartel collaboration |
 | 2022 | Mexican government declared it state crime |
 
-## References
+
 
 [^1]: Wikipedia, "Ayotzinapa Mass Disappearance" - https://en.wikipedia.org/wiki/Ayotzinapa_Mass_Disappearance
 
@@ -49,3 +49,6 @@ Forced disappearance of 43 students from the Ayotzinapa Rural Teachers College i
 
 ## Notes
 
+
+
+## References

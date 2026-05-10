@@ -23,7 +23,7 @@ Achilles was the greatest warrior of the Trojan War in Greek mythology. His moth
 | Mythological | Killed Hector in single combat |
 | Mythological | Killed by Paris's arrow to his heel |
 
-## References
+
 
 [^1]: Wikipedia, "Achilles" - https://en.wikipedia.org/wiki/Achilles
 
@@ -51,3 +51,6 @@ Later traditions connect Achilles with the idea of a single vulnerable point (â€
 - For biographies, award records and official competition databases are usually the most reliable for results and dates.
 - For conflicts and security topics, contemporary reporting may be incomplete; later research can revise early accounts.
 - This article keeps the overview high-level and points to the reference section for deeper sourcing.
+
+
+## References

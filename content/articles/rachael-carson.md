@@ -21,7 +21,7 @@ Already covered - see Rachel Carson. Duplicate check.
 |------|-------|
 | 1907 | Born |
 
-## References
+
 
 [^1]: Wikipedia, "Rachael Carson" - https://en.wikipedia.org/wiki/Rachael_Carson
 
@@ -63,3 +63,6 @@ Already covered - see Rachel Carson. Duplicate check.
 ## Additional References
 
 [^2]: *Silent Spring* (1962), discussed in Wikipedia overview and commonly referenced summaries of Carson's career.
+
+
+## References

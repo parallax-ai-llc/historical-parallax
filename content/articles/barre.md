@@ -23,7 +23,7 @@ See Siad Barre. Somali military dictator.
 | 1991 | Overthrown |
 | 1995 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Barre" - https://en.wikipedia.org/wiki/Barre
 
@@ -56,3 +56,6 @@ See Siad Barre. Somali military dictator.
 
 - Assessments of Barre’s rule are sharply divided: some emphasize early-state-building efforts, while others foreground repression and the role of the dictatorship in contributing to state collapse.
 - His period in power remains central to debates about Somali nationalism, clan politics, and the challenges of post-conflict reconstruction.
+
+
+## References

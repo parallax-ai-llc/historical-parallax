@@ -5,7 +5,7 @@ birth: "2018-01-01"
 death: "Unknown"
 nationality: "International"
 occupation: ["Ongoing Crime"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Mockup_Sextortion_Text.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sextortion"
 lastUpdated: "2026-02-26"
@@ -49,7 +49,7 @@ Investigations commonly involve digital forensics, platform cooperation, and coo
 - Preserve evidence (messages, usernames, transaction requests) for reporting.
 - Use platform reporting tools and consider contacting local law enforcement or child-protection hotlines when minors are involved.
 
-## References
+
 
 [^1]: Wikipedia, "Sextortion" - https://en.wikipedia.org/wiki/Sextortion
 
@@ -94,3 +94,6 @@ General advice in public safety guidance includes:
 - contact local law enforcement, and in cases involving minors, child-protection authorities or hotlines
 
 This article describes broad patterns; specific reporting options and legal definitions vary by jurisdiction.
+
+
+## References

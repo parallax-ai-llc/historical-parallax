@@ -22,7 +22,7 @@ Former President of Namibia whose government was implicated in the Fishrot corru
 | 2005 | Became President of Namibia |
 | 2019 | Fishrot scandal exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Hifikepunye Pohamba" - https://en.wikipedia.org/wiki/Hifikepunye_Pohamba
 
@@ -51,3 +51,6 @@ Public discussion has at times implicated senior figures politically; however, s
 ## Notes
 
 When summarizing corruption allegations, distinguish political criticism from court-established facts.
+
+
+## References

@@ -22,7 +22,7 @@ Gallic chieftain who sacked Rome and demanded ransom in gold, declaring 'Woe to 
 |------|-------|
 | -390 | Sacked Rome and demanded gold ransom |
 
-## References
+
 
 [^1]: Wikipedia, "Brennus" - https://en.wikipedia.org/wiki/Brennus
 
@@ -64,3 +64,6 @@ Gallic chieftain who sacked Rome and demanded ransom in gold, declaring 'Woe to 
 
 [^2]: Livy, *Ab Urbe Condita*, Book V (traditional narrative; composed later than the events).
 [^3]: Plutarch, *Camillus* (biographical tradition; composed in the Roman imperial period).
+
+
+## References

@@ -22,7 +22,7 @@ Former mayor of Nanjing convicted of accepting 11.3 million yuan in bribes. He w
 | 2013 | Removed from position and investigated for corruption |
 | 2015 | Sentenced to 15 years for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Ji Jianye" - https://en.wikipedia.org/wiki/Ji_Jianye
 ## Context and Background
@@ -48,3 +48,6 @@ Public summaries often focus on the conviction and sentence; details about speci
 ## Further Reading (General)
 
 For deeper detail, consult multiple reputable sources (academic histories, major news outlets, and primary documents where available), and compare accounts across perspectives.
+
+
+## References

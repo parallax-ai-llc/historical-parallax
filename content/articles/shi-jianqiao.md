@@ -5,7 +5,7 @@ birth: "1905-01-01"
 death: "1979-01-01"
 nationality: "China"
 occupation: ["Assassin", "Historical Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Shijianqiao.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shi_Jianqiao"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Chinese woman who assassinated warlord Sun Chuanfang in a Buddhist temple in 193
 | 1935 | Shot Sun Chuanfang dead in Tianjin Buddhist temple |
 | 1936 | Pardoned by the Nationalist government |
 
-## References
+
 
 [^1]: Wikipedia, "Shi Jianqiao" - https://en.wikipedia.org/wiki/Shi_Jianqiao
 
@@ -53,3 +53,6 @@ Her pardon by the Nationalist government is frequently interpreted as an instanc
 ## Legacy
 
 Shi Jianqiao has been remembered in multiple ways: as a folk heroine in some retellings, and as a controversial example of how personal grievance can be elevated into political myth.
+
+
+## References

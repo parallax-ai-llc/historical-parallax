@@ -21,7 +21,7 @@ French anarchist who with her boyfriend killed five people including three polic
 |------|-------|
 | 1994 | Killed five people in Paris shootout |
 
-## References
+
 
 [^1]: Wikipedia, "Florence Rey" - https://en.wikipedia.org/wiki/Florence_Rey
 
@@ -52,3 +52,6 @@ French anarchist who with her boyfriend killed five people including three polic
 - **Primary source used here**: Wikipedia summary page (see references)
 
 [^2]: Wikipedia (overview and timeline), "Florence Rey" - https://en.wikipedia.org/wiki/Florence_Rey
+
+
+## References

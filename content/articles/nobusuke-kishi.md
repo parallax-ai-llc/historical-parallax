@@ -22,7 +22,7 @@ Class A war crimes suspect who oversaw slave labor in Manchuria but was released
 | 1941 | Oversaw Manchurian forced labor |
 | 1957 | Became Prime Minister |
 
-## References
+
 
 [^1]: Wikipedia, "Nobusuke Kishi" - https://en.wikipedia.org/wiki/Nobusuke_Kishi
 
@@ -48,3 +48,6 @@ Kishi’s legacy is polarizing:
 - Critics emphasize his wartime administrative record and view his later rehabilitation as emblematic of unresolved accountability.
 
 He is also widely noted as the maternal grandfather of former prime minister Shinzo Abe, linking him to a multi-generational political lineage in modern Japan.
+
+
+## References

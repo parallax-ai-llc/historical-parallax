@@ -21,7 +21,7 @@ PNG military commander who led the Sandline affair, a botched mercenary operatio
 |------|-------|
 | 1997 | Attempted military mutiny over Sandline mercenary deal |
 
-## References
+
 
 [^1]: Wikipedia, "Jerry Singirok" - https://en.wikipedia.org/wiki/Jerry_Singirok
 
@@ -54,3 +54,6 @@ PNG military commander who led the Sandline affair, a botched mercenary operatio
 - Bougainville conflict
 - Sandline International
 - Papua New Guinea Defence Force (PNGDF)
+
+
+## References

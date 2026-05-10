@@ -23,7 +23,7 @@ Spanish serial killer known as the 'Werewolf of Allariz' who murdered at least 1
 | 1853 | Convicted; death sentence commuted |
 | 1863 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Manuel Blanco Romasanta" - https://en.wikipedia.org/wiki/Manuel_Blanco_Romasanta
 
@@ -50,3 +50,6 @@ Manuel Blanco Romasanta(마누엘 블랑코 로마산타)는 19세기 스페인 
 ## 추가 메모
 
 - 이 문서는 요약 중심으로 작성되어 있습니다. 세부 연표·인용·1차 자료는 추후 보강이 필요할 수 있습니다.
+
+
+## References

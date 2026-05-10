@@ -21,7 +21,7 @@ Tyrant of Akragas who roasted victims alive inside a bronze bull he commissioned
 |------|-------|
 | -570 | Used the bronze bull to torture and execute victims |
 
-## References
+
 
 [^1]: Wikipedia, "Phalaris" - https://en.wikipedia.org/wiki/Phalaris
 
@@ -53,3 +53,6 @@ Tyrant of Akragas who roasted victims alive inside a bronze bull he commissioned
 
 [^2]: Encyclopaedia Britannica, "Phalaris" - https://www.britannica.com/biography/Phalaris
 [^3]: Smith, *Dictionary of Greek and Roman Biography and Mythology* (entry: "Phalaris") - https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aentry%3Dphalaris-bio-1
+
+
+## References

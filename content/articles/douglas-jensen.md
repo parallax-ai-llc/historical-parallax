@@ -21,7 +21,7 @@ QAnon follower convicted of leading the mob chasing Officer Eugene Goodman up th
 |------|-------|
 | 2022 | Convicted of felonies |
 
-## References
+
 
 [^1]: Wikipedia, "Douglas Jensen" - https://en.wikipedia.org/wiki/Douglas_Jensen
 
@@ -54,3 +54,6 @@ QAnon follower convicted of leading the mob chasing Officer Eugene Goodman up th
 ## Additional References
 
 [^2]: U.S. Department of Justice press releases and court documents (case filings), as cited and summarized by Wikipedia.[^1]
+
+
+## References

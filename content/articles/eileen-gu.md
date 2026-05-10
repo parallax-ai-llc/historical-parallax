@@ -21,7 +21,7 @@ Eileen Gu won two gold and one silver at 2022 Beijing competing for China.
 |------|-------|
 | 2022 | Won two gold and one silver at Beijing |
 
-## References
+
 
 [^1]: Wikipedia, "Eileen Gu" - https://en.wikipedia.org/wiki/Eileen_Gu
 
@@ -62,3 +62,5 @@ Eileen Gu won two gold and one silver at 2022 Beijing competing for China.
 ## References
 
 [^wg]: Wikipedia section coverage of World Championships and major results (see the same page): https://en.wikipedia.org/wiki/Eileen_Gu
+
+

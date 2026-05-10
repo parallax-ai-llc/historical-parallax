@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1969 | See Dara Khosrowshahi |
 
-## References
+
 
 [^1]: Wikipedia, "Dara Khosrowshahi duplicate" - https://en.wikipedia.org/wiki/Dara_Khosrowshahi_duplicate
 
@@ -59,3 +59,6 @@ This article name indicates a duplicate/placeholder entry. The following high-le
 ## Additional References
 
 [^2]: Wikipedia, "Dara Khosrowshahi" - https://en.wikipedia.org/wiki/Dara_Khosrowshahi
+
+
+## References

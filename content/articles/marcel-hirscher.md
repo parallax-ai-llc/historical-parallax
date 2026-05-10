@@ -23,7 +23,7 @@ Marcel Hirscher won eight consecutive overall World Cup titles and two Olympic g
 | 2018 | Won two Olympic golds |
 | 2019 | Retired with eight titles |
 
-## References
+
 
 [^1]: Wikipedia, "Marcel Hirscher" - https://en.wikipedia.org/wiki/Marcel_Hirscher
 
@@ -51,3 +51,6 @@ Marcel Hirscher won eight consecutive overall World Cup titles and two Olympic g
 ## Notes
 
 - For detailed race-by-race results and discipline breakdowns, see the reference.
+
+
+## References

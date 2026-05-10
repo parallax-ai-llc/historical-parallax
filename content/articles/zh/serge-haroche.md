@@ -1,6 +1,6 @@
 ---
 id: "serge-haroche"
-name: "塞尔热·哈罗什"
+name: "塞尔日·阿罗什"
 birth: "1944-09-11"
 death: "Unknown"
 nationality: "French"
@@ -13,7 +13,7 @@ lastUpdated: "2026-02-21"
 
 ## 简介
 
-塞尔热·哈罗什（Serge Haroche）是一位法国物理学家，他因开创性的实验方法——能够测量和操纵单个量子系统——而与戴维·温兰德（David Wineland）共同获得了 2012 年诺贝尔物理学奖。他开发了捕获和研究单个光子的方法，为量子计算和量子信息的发展做出了贡献。
+塞尔日·阿罗什（Serge Haroche）是一位法国物理学家，他因开创性的实验方法而与大卫·温兰德（David Wineland）共同获得2012年诺贝尔物理学奖，这些方法能够测量和操控单个量子系统。他开发了捕获和研究单个光子的方法，为量子计算和量子信息的发展做出了贡献。
 
 ## 职业生涯时间线
 
@@ -27,4 +27,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: 维基百科，“塞尔热·哈罗什” - https://en.wikipedia.org/wiki/Serge_Haroche
+[^1]: 维基百科，“塞尔日·阿罗什” - https://en.wikipedia.org/wiki/Serge_Haroche

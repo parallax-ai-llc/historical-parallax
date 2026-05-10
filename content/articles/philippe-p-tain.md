@@ -24,7 +24,7 @@ French WWI hero who became head of the Vichy regime during WWII, collaborating w
 | 1942 | Oversaw deportation of Jews |
 | 1945 | Convicted of treason; death sentence commuted to life |
 
-## References
+
 
 [^1]: Wikipedia, "Philippe Pétain" - https://en.wikipedia.org/wiki/Philippe_P%C3%A9tain
 
@@ -51,3 +51,6 @@ Although the degree of autonomy and responsibility is debated in historical scho
 After the war, Pétain was tried and convicted of treason and related charges. His death sentence was commuted to life imprisonment, and he died in custody.
 
 Pétain remains a highly controversial figure in France: remembered both for his WWI role and for leading a regime that collaborated with Nazi Germany and participated in crimes against humanity.
+
+
+## References

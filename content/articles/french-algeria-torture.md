@@ -22,7 +22,7 @@ French forces systematically tortured Algerian independence fighters using water
 | 1957 | Battle of Algiers; widespread torture |
 | 2001 | General Aussaresses admitted to torture |
 
-## References
+
 
 [^1]: Wikipedia, "French Algeria Torture" - https://en.wikipedia.org/wiki/French_Algeria_Torture
 
@@ -53,3 +53,6 @@ French forces systematically tortured Algerian independence fighters using water
 - Algerian War (1954–1962)
 - Counterinsurgency doctrine and ethics
 - Transitional justice and historical memory
+
+
+## References

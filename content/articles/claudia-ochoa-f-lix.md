@@ -22,7 +22,7 @@ Mexican woman known as 'Empress of Antrax' who led the Los Ántrax armed wing of
 | 2014 | Identified as leader of Los Ántrax hit squad |
 | 2019 | Found dead under suspicious circumstances |
 
-## References
+
 
 [^1]: Wikipedia, "Claudia Ochoa Félix" - https://en.wikipedia.org/wiki/Claudia_Ochoa_F%C3%A9lix
 
@@ -49,3 +49,6 @@ Reports of her death emphasized uncertainty and speculation, which is common in 
 Because many claims about cartel roles circulate through unofficial channels, accounts can diverge sharply. In practice, biographies of alleged cartel figures often rely on a patchwork of court documents, investigative journalism, and statements by authorities, each with different incentives and error modes.
 
 Treat simplified "kingpin" narratives with caution.
+
+
+## References

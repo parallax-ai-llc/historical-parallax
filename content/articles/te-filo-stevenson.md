@@ -24,7 +24,7 @@ Teófilo Stevenson won three Olympic boxing golds (1972-1980). He famously refus
 | 1980 | Won third gold |
 | 2012 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Teófilo Stevenson" - https://en.wikipedia.org/wiki/Te%C3%B3filo_Stevenson
 
@@ -49,3 +49,6 @@ In Cuba and in boxing history, Stevenson is remembered as a symbol of elite amat
 ## Death
 
 Stevenson died in 2012. Obituaries and retrospectives highlighted his Olympic record and his role as a national sporting icon.
+
+
+## References

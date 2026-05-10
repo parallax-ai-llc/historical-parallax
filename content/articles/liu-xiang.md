@@ -23,7 +23,7 @@ Liu Xiang became the first Asian man to win Olympic sprint gold (110m hurdles, A
 | 2006 | Set world record of 12.88s |
 | 2008 | Withdrew from Beijing Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Liu Xiang" - https://en.wikipedia.org/wiki/Liu_Xiang
 
@@ -54,3 +54,6 @@ In Chinese sports history summaries, he appears both as an emblem of breakthroug
 ## Notes
 
 This entry tracks the core identifiers and the main arc: breakthrough Olympic victory, record-level performance, and the later injury-centered turning points.
+
+
+## References

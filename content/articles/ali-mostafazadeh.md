@@ -24,7 +24,7 @@ Ali Mostafazadeh is an Iranian theoretical physicist who made significant contri
 | 1997 | Joined Koç University in Istanbul |
 | 2002 | Published foundational papers on pseudo-Hermitian quantum mechanics |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Mostafazadeh" - https://en.wikipedia.org/wiki/Ali_Mostafazadeh
 
@@ -53,3 +53,6 @@ This article summarizes high-level themes reported in public biographies and sel
 - PT symmetry
 - Non-Hermitian Hamiltonian
 - Mathematical physics
+
+
+## References

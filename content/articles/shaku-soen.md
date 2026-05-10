@@ -5,7 +5,7 @@ birth: "1860-01-10"
 death: "1919-11-01"
 nationality: "Japanese"
 occupation: ["Zen Master", "Abbot"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Soyen_Shaku.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shaku_Soen"
 lastUpdated: "2026-02-21"

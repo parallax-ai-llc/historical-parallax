@@ -22,7 +22,7 @@ Wilson Kipketer set the 800m world record three times in 1997, running 1:41.11. 
 | 1997 | Set 800m world record three times |
 | 2000 | Won Olympic silver at Sydney |
 
-## References
+
 
 [^1]: Wikipedia, "Wilson Kipketer" - https://en.wikipedia.org/wiki/Wilson_Kipketer
 
@@ -53,3 +53,6 @@ Kipketer’s record progression and international representation make him a prom
 - One of the defining **800 m specialists** of his generation.
 - Combined record-setting speed with championship-level consistency.
 - Frequently referenced in discussions of nationality changes in elite athletics.
+
+
+## References

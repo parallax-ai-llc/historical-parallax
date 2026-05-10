@@ -3,6 +3,7 @@ name: "Kevin Magnussen"
 birth: "1992-10-05"
 nationality: "Danish"
 occupation: ["Racing Driver", "F1 Driver", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Kevin_Magnussen%2C_2019_Formula_One_Tests_Barcelona_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kevin_Magnussen"
 lastUpdated: "2026-03-12"

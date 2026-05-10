@@ -24,7 +24,7 @@ Bosnian military commander who defended Srebrenica before its fall and was charg
 | 2003 | Arrested and transferred to ICTY |
 | 2008 | Acquitted on appeal by ICTY |
 
-## References
+
 
 [^1]: Wikipedia, "Naser Orić" - https://en.wikipedia.org/wiki/Naser_Ori%C4%87
 
@@ -48,3 +48,6 @@ This page uses short labels for readability, but the events described relate to 
 - Command responsibility
 - Srebrenica in postwar memory
 - Post-conflict justice and reconciliation
+
+
+## References

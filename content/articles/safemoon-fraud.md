@@ -21,7 +21,7 @@ SEC charged SafeMoon executives with fraud for siphoning millions from investors
 |------|-------|
 | 2023 | Executives charged with fraud |
 
-## References
+
 
 [^1]: Wikipedia, "SafeMoon Fraud" - https://en.wikipedia.org/wiki/SafeMoon_Fraud
 
@@ -73,3 +73,6 @@ These are general patterns regulators and investigators often focus on in token-
 
 - U.S. Securities and Exchange Commission (SEC): enforcement news releases and litigation documents (search the SEC website for “SafeMoon”)
 - Court filings: complaints, indictments, and docket updates in relevant U.S. federal courts
+
+
+## References

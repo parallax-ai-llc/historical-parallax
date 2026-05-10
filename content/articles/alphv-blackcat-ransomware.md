@@ -22,7 +22,7 @@ Ransomware-as-a-service group that attacked healthcare organizations including C
 | 2023 | FBI temporarily disrupted ALPHV infrastructure |
 | 2024 | Attack on Change Healthcare disrupted US pharmacies for weeks |
 
-## References
+
 
 [^1]: Wikipedia, "ALPHV BlackCat Ransomware" - https://en.wikipedia.org/wiki/ALPHV_BlackCat_Ransomware
 
@@ -62,3 +62,6 @@ Attribution in ransomware cases is often based on a mix of malware analysis, inf
 - Ransomware‑as‑a‑service (RaaS)
 - Double extortion
 - Cybercrime and law‑enforcement takedowns
+
+
+## References

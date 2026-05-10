@@ -23,7 +23,7 @@ Congolese-born Belgian cult leader who co-founded the Order of the Solar Temple.
 | 1994 | Mass murder-suicide killed 48 in Switzerland and Canada |
 | 1997 | Further deaths in France |
 
-## References
+
 
 [^1]: Wikipedia, "Luc Jouret Solar Temple" - https://en.wikipedia.org/wiki/Luc_Jouret_Solar_Temple
 
@@ -52,3 +52,6 @@ Congolese-born Belgian cult leader who co-founded the Order of the Solar Temple.
 
 - How charismatic authority and inner-circle secrecy can amplify risk.
 - The role of financial control, social isolation, and escalating commitments in high-demand groups.
+
+
+## References

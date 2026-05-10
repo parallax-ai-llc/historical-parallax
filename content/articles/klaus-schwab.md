@@ -5,7 +5,7 @@ birth: "1938-03-30"
 death: "Unknown"
 nationality: "German-Swiss"
 occupation: ["Entrepreneur", "Academic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Klaus_Schwab_-_World_Economic_Forum_Annual_Meeting_2011.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Klaus_Schwab"
 lastUpdated: "2026-02-21"

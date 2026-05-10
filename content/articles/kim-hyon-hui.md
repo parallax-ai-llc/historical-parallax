@@ -5,7 +5,7 @@ birth: "1962-01-27"
 death: "Unknown"
 nationality: "North Korea"
 occupation: ["Terrorist", "Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Hiroshi_Nakai_and_Kim_Hyon-hui_20100720_13_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Hyon-hui"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ North Korean spy who bombed Korean Air Flight 858 in 1987, killing all 115 on bo
 | 1988 | Sentenced to death in South Korea |
 | 1990 | Pardoned by President Roh Tae-woo |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Hyon-hui" - https://en.wikipedia.org/wiki/Kim_Hyon-hui
 
@@ -50,3 +50,6 @@ North Korean spy who bombed Korean Air Flight 858 in 1987, killing all 115 on bo
 - Wikipedia article linked above for a starting overview.
 - Contemporary news coverage and official reports for event chronology.
 - Scholarly histories and biographies for broader political context.
+
+
+## References

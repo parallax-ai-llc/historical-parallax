@@ -24,7 +24,7 @@ Felix Bloch shared the 1952 Nobel Prize for developing nuclear magnetic resonanc
 | 1952 | Nobel Prize |
 | 1983 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Felix Bloch" - https://en.wikipedia.org/wiki/Felix_Bloch
 
@@ -49,3 +49,6 @@ Bloch spent much of his career at leading research institutions and trained or i
 - **Bloch wave:** A quantum state in a periodic potential, expressed as a plane wave modulated by a lattice-periodic function.
 - **Spin:** An intrinsic form of angular momentum carried by quantum particles, central to NMR phenomena.
 - **Relaxation:** Processes (often labeled T1 and T2) describing how nuclear spins return to equilibrium after excitation.
+
+
+## References

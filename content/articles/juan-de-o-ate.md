@@ -21,7 +21,7 @@ Spanish colonizer who massacred 800 people at Acoma Pueblo and cut off the feet 
 |------|-------|
 | 1599 | Massacred Acoma Pueblo and amputated survivors' feet |
 
-## References
+
 
 [^1]: Wikipedia, "Juan de Oñate" - https://en.wikipedia.org/wiki/Juan_de_O%C3%B1ate
 [^2]: Encyclopaedia Britannica, "Juan de Oñate" - https://www.britannica.com/biography/Juan-de-Onate
@@ -63,3 +63,6 @@ Spanish colonizer who massacred 800 people at Acoma Pueblo and cut off the feet 
 ## Notes
 
 This article summarizes widely reported historical claims in secondary references; exact counts and specific punishments can vary by source.
+
+
+## References

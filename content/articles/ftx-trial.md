@@ -21,7 +21,7 @@ Trial of Sam Bankman-Fried for the $8 billion FTX cryptocurrency fraud.
 |------|-------|
 | 2023 | Bankman-Fried convicted of fraud |
 
-## References
+
 
 [^1]: Wikipedia, "FTX Trial" - https://en.wikipedia.org/wiki/FTX_Trial
 
@@ -55,3 +55,6 @@ Trial of Sam Bankman-Fried for the $8 billion FTX cryptocurrency fraud.
 - In **2023**, a jury found Bankman-Fried **guilty** on multiple fraud-related counts.
 - Related civil/regulatory actions and bankruptcy proceedings continued in parallel, including efforts to identify assets and pursue recoveries for customers.
 - The FTX collapse and trial contributed to renewed debate around crypto exchange oversight, custody, and disclosure standards.
+
+
+## References

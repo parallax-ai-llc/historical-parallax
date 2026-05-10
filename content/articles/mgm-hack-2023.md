@@ -21,7 +21,7 @@ ALPHV/Scattered Spider ransomware gang crippled MGM Resorts operations for days,
 |------|-------|
 | 2023 | $100 million in losses |
 
-## References
+
 
 [^1]: Wikipedia, "MGM Hack 2023" - https://en.wikipedia.org/wiki/MGM_Hack_2023
 
@@ -58,3 +58,6 @@ ALPHV/Scattered Spider ransomware gang crippled MGM Resorts operations for days,
 ## Additional references
 
 [^2]: MGM Resorts, public disclosures and investor communications (as summarized by Wikipedia and major news coverage).
+
+
+## References

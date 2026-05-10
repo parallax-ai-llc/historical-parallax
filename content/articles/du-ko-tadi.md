@@ -24,7 +24,7 @@ Bosnian Serb convicted by the ICTY as the first person tried for war crimes sinc
 | 1997 | Convicted by ICTY of crimes against humanity |
 | 1999 | Sentenced to 20 years on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Duško Tadić" - https://en.wikipedia.org/wiki/Du%C5%A1ko_Tadi%C4%87
 
@@ -50,3 +50,6 @@ As the first ICTY trial to reach judgment, the case became a touchstone in legal
 ## Impact on International Criminal Procedure
 
 Commentary on the case often emphasizes that early ICTY trials had to build working practice for disclosure, witness protection, translation, and cross-examination in a multilingual post-conflict setting. Those procedural lessons later informed how other tribunals and hybrid courts designed rules to balance defendant rights with the safety of witnesses.
+
+
+## References

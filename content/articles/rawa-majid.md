@@ -21,7 +21,7 @@ Known as 'The Kurdish Fox,' a major Swedish crime boss running networks from Tur
 |------|-------|
 | 2021 | Major crime network leader operating from abroad |
 
-## References
+
 
 [^1]: Wikipedia, "Rawa Majid" - https://en.wikipedia.org/wiki/Rawa_Majid
 
@@ -73,3 +73,6 @@ The specific allegations and time ranges vary by source; the points below summar
 ## Further reading
 
 - Wikipedia entry for a starting overview and pointers to cited sources.[^1]
+
+
+## References

@@ -43,10 +43,13 @@ South Korean former director of the National Intelligence Service convicted of o
 - The episode became a touchstone in debates over intelligence-agency oversight, limits on domestic operations, and the relationship between security institutions and elected politics.
 - It also influenced public expectations about transparency and the governance of state agencies with covert capabilities.
 
-## References
+
 
 [^1]: Wikipedia, "Cho Myung-haeng" - https://en.wikipedia.org/wiki/Cho_Myung-haeng
 
 ## See also
 
 - National Intelligence Service (South Korea)
+
+
+## References

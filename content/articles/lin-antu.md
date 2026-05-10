@@ -23,7 +23,7 @@ Chinese timber baron convicted of illegal logging in Myanmar's Kachin State. He 
 | 2015 | Convicted in Myanmar; sentenced to life |
 | 2017 | Released and returned to China |
 
-## References
+
 
 [^1]: Wikipedia, "Lin Antu" - https://en.wikipedia.org/wiki/Lin_Antu
 
@@ -54,3 +54,6 @@ It is also used in discussions about accountability gaps: even when convictions 
 ## Notes
 
 This entry keeps the focus on the core facts: location (Kachin, Myanmar), offense type (illegal logging/trafficking), and the unusual combination of conviction and later release.
+
+
+## References

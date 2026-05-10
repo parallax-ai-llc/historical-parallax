@@ -22,7 +22,7 @@ Mauritania was the last country to legally abolish slavery in 1981 and the last 
 | 1981 | Slavery officially abolished |
 | 2007 | Slavery criminalized |
 
-## References
+
 
 [^1]: Wikipedia, "Mauritanian Slavery" - https://en.wikipedia.org/wiki/Mauritanian_Slavery
 
@@ -50,3 +50,6 @@ Mauritania was the last country to legally abolish slavery in 1981 and the last 
 
 - Abolitionism
 - Human trafficking
+
+
+## References

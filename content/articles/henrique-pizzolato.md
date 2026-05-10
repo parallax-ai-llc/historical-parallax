@@ -22,7 +22,7 @@ Former Banco do Brasil director convicted in the Mensalão vote-buying scandal. 
 | 2005 | Mensalão scandal exposed |
 | 2015 | Extradited from Italy |
 
-## References
+
 
 [^1]: Wikipedia, "Henrique Pizzolato" - https://en.wikipedia.org/wiki/Henrique_Pizzolato
 
@@ -52,3 +52,6 @@ The Pizzolato episode is often cited in discussions of:
 - the difficulty of enforcing white-collar sentences across borders
 - the role of dual nationality and residency claims in extradition fights
 - Brazil’s shifting anti-corruption politics in the 2000s–2010s
+
+
+## References

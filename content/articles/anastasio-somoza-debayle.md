@@ -24,7 +24,7 @@ Last of the Somoza dynasty dictators of Nicaragua. His regime's corruption and b
 | 1979 | Overthrown by Sandinista Revolution |
 | 1980 | Assassinated by bazooka in Asunción, Paraguay |
 
-## References
+
 
 [^1]: Wikipedia, "Anastasio Somoza Debayle" - https://en.wikipedia.org/wiki/Anastasio_Somoza_Debayle
 
@@ -57,3 +57,6 @@ Somoza's assassination in exile is widely reported and is often cited as emblema
 - Sandinista National Liberation Front (FSLN)
 - Nicaraguan Revolution
 - Somoza family
+
+
+## References

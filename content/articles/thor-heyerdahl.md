@@ -24,7 +24,7 @@ Thor Heyerdahl sailed the raft Kon-Tiki from South America to Polynesia in 1947 
 | 1970 | Ra II successfully crossed the Atlantic |
 | 2002 | Died in Italy |
 
-## References
+
 
 [^1]: Wikipedia, "Thor Heyerdahl" - https://en.wikipedia.org/wiki/Thor_Heyerdahl
 
@@ -54,3 +54,6 @@ Thor Heyerdahl sailed the raft Kon-Tiki from South America to Polynesia in 1947 
 - 영향: 후대에 남긴 파급(법·정책·학문·대중문화 등)
 - 참고: 1차 기록과 2차 연구의 구분
 
+
+
+## References

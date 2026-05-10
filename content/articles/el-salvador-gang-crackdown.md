@@ -21,7 +21,7 @@ President Bukele's state of exception has imprisoned 75,000+ suspected gang memb
 |------|-------|
 | 2022 | Mass detentions began |
 
-## References
+
 
 [^1]: Wikipedia, "El Salvador Gang Crackdown" - https://en.wikipedia.org/wiki/El_Salvador_Gang_Crackdown
 
@@ -67,3 +67,6 @@ President Bukele's state of exception has imprisoned 75,000+ suspected gang memb
 - Human Rights Watch: reporting on detentions and due process concerns in El Salvador.
 - Amnesty International: reporting on the state of exception and rights impacts.
 - UN human rights statements and briefings related to emergency measures.
+
+
+## References

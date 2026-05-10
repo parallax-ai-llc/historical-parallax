@@ -5,7 +5,7 @@ birth: "1314-05-03"
 death: "1392-09-25"
 nationality: "Russian"
 occupation: ["Monk", "Abbot", "Saint"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Sergius_of_Radonezh_vita_icon_%2817_c.%2C_Yaroslavl_museum%29_2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergius_of_Radonezh"
 lastUpdated: "2026-02-21"

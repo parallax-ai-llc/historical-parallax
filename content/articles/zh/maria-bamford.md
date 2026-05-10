@@ -4,58 +4,55 @@ birth: May 3, 1970
 death:
 nationality: American
 occupation:
-  - Comedian
-  - Actress
-  - Writer
-  - Producer
+- Comedian
+- Actress
+- Writer
+- Producer
 socialLinks:
-  - icon: twitter
-    link: https://twitter.com/mariabamford
-  - icon: instagram
-    link: https://www.instagram.com/mariabamford/
-  - icon: youtube
-    link: https://www.youtube.com/user/mariabamford
-lastUpdated: 2023-10-29T10:00:00.000Z
-image: /assets/images/articles/maria-bamford.webp
+  twitter: https://twitter.com/mariabamford
+  instagram: https://www.instagram.com/mariabamford/
+lastUpdated: 2024-07-15
+image: /img/maria-bamford.jpg
 ---
 
-## 简介
+## 摘要
 
-玛丽亚·班福德（Maria Bamford，1970年5月3日出生）是一位美国喜剧演员、演员、作家和制片人。她以其独特、怪诞且充满自嘲的表演风格而闻名，经常探讨心理健康、人际关系和社会习俗等话题。班福德以其模仿不同角色的能力而受到赞誉，她经常在自己的表演中运用这些模仿。
+玛丽亚·班福德（Maria Bamford）是一位美国喜剧演员、演员、作家和制片人，以其独特的、有时是神经质的表演风格而闻名。她经常探索心理健康、家庭和个人经历等主题，以其在喜剧特辑中的角色扮演和声音模仿而闻名。
 
-## 职业生涯时间表
+## 早年生活和教育
 
-| 年份 | 事件 |
-| :--- | :--- |
-| 1990年代 | 开始在美国各地的小型喜剧俱乐部表演。 |
-| 2001年 | 出演了她的第一个电视特别节目《The Maria Bamford Show》。 |
-| 2007年 | 获得了自己的网络情景喜剧《The Sarah Silverman Program》中的配角角色。 |
-| 2010年 | 出版了她的第一本书《Undateable: 311 Things I Learned About the Difference Between Men and Women》。 |
-| 2012年 | 推出播客《The Maria Bamford Show》，该播客探讨了她的生活经历和心理健康斗争。 |
-| 2017年 | 获得了Netflix特别节目《Maria Bamford: Special Special Special》的评论界赞誉。 |
-| 2019年 | 在Netflix系列剧《Lady Dynamite》中担任主演，该剧改编自她的生活经历。 |
-| 2021年 | 推出播客《Podgesterone》，这是一个与她的丈夫一起制作的关于生育和家庭的播客。 |
+玛丽亚·班福德于1970年5月3日出生于加利福尼亚州圣安娜，并在俄勒冈州波特兰长大。她从小就表现出创造力和幽默感。班福德在俄勒冈大学学习戏剧，并在纽约市寻求喜剧事业。
+
+## 职业生涯
+
+班福德的职业生涯始于在纽约市的喜剧俱乐部进行单口喜剧表演。她迅速因其独特的风格而受到关注，这种风格混合了观察性幽默、个人轶事和模仿。
+
+### 主要作品
+
+*   **《玛丽亚·班福德：好女孩》（Maria Bamford: The Special Special Special）** (2012) - 班福德在这次Netflix特别节目中，在她的家中录制了她为丈夫表演的单口喜剧，深入探讨了她的个人生活和心理健康。
+*   **《玛丽亚·班福德：超人》** (Maria Bamford: Old Baby) (2017) - 另一部备受赞誉的Netflix特别节目，班福德继续以真诚和幽默的方式探索童年创伤和家庭动力。
+*   **《愤怒的娇妻》（Lady Dynamite）** (2016-2017) - 班福德主演并联合创作了这部Netflix喜剧系列，该剧受到了评论界的高度赞扬，并探索了作为一名女喜剧演员的职业生涯及其对心理健康的挑战。
+*   **《哈洛伊》（Harlots）** (2017-2019) - 班福德在Hulu时代剧《哈洛伊》中饰演艾米莉·马林森（Emily Malcontent）。
+
+### 职业生涯时间线
+
+| 年份 | 事件                                         |
+| :--- | :------------------------------------------- |
+| 1990 年代 | 开始在纽约市进行单口喜剧表演。               |
+| 2007 年 | 发行了她的第一个喜剧专辑《The Class That Fell Asleep》。 |
+| 2012 年 | 发行了Netflix特别节目《玛丽亚·班福德：好女孩》。 |
+| 2016 年 | 主演并联合创作了Netflix剧集《愤怒的娇妻》。   |
+| 2017 年 | 发行了Netflix特别节目《玛丽亚·班福德：超人》。 |
 
 ## 个人生活
 
-玛丽亚·班福德出生于加利福尼亚州圣莫尼卡，并在马萨葡萄园长大。她公开谈论过自己与抑郁症、焦虑症和强迫症的斗争。她曾表示，她的喜剧创作是她应对心理健康问题的一种方式。
+班福德公开谈论她与双相情感障碍和强迫症的斗争。她认为公开谈论她的心理健康问题可以帮助减少污名化，并鼓励他人寻求帮助。她目前与她的丈夫，艺术家斯科特·唐纳（Scott Doon）一起居住。
 
-2017年，班福德与漫画家斯科特·希思结婚。他们目前住在洛杉矶。
+## 影响和认可
 
-## 争议
-
-班福德的喜剧风格有时会引起争议，因为她经常触及敏感话题，如心理健康、种族和宗教。然而，许多人称赞她敢于直面这些问题，并以一种幽默而有见地的方式来探讨它们。
-
-## 奖项与荣誉
-
-玛丽亚·班福德因其喜剧作品获得了多项奖项和提名。其中包括：
-
-*   **2007年：** 获得艾美奖喜剧类最佳女配角提名，感谢她在《The Sarah Silverman Program》中的表演。
-*   **2017年：** 她的Netflix特别节目《Maria Bamford: Special Special Special》获得了广泛好评，并被视为当年的最佳喜剧表演之一。
-*   **2020年：** 凭借她在Netflix剧集《Lady Dynamite》中的表演，获得了金球奖音乐/喜剧类最佳女主角提名。
+玛丽亚·班福德因其在喜剧界的独特贡献而受到广泛赞誉。她因其诚实、脆弱和幽默地处理困难主题的能力而受到赞赏。她曾获得包括评论家选择电视奖在内的多项提名和奖项。
 
 ## 参考文献
 
-[^1]: "Maria Bamford - Wikipedia". https://en.wikipedia.org/wiki/Maria_Bamford. Accessed October 29, 2023.
-[^2]: "Maria Bamford Official Website". https://mariabamford.com/. Accessed October 29, 2023.
-[^3]: "Maria Bamford's Mental Health Journey - Healthline". https://www.healthline.com/health/mental-health/maria-bamford-mental-health. Accessed October 29, 2023.
+[^1]: IMDB - Maria Bamford. [https://www.imdb.com/name/nm0051421/](https://www.imdb.com/name/nm0051421/)
+[^2]: Wikipedia - Maria Bamford. [https://en.wikipedia.org/wiki/Maria_Bamford](https://en.wikipedia.org/wiki/Maria_Bamford)

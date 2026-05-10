@@ -5,7 +5,7 @@ birth: "1990-04-20"
 death: "2017-06-03"
 nationality: "Pakistan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/London_Bridge_%289691084663%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khuram_Butt"
 lastUpdated: "2026-02-26"

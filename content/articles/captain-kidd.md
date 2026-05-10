@@ -24,7 +24,7 @@ Scottish privateer who became one of the most famous pirates in history. Origina
 | 1699 | Arrested in Boston |
 | 1701 | Hanged in London; body displayed in gibbet |
 
-## References
+
 
 [^1]: Wikipedia, "Captain Kidd" - https://en.wikipedia.org/wiki/Captain_Kidd
 
@@ -49,3 +49,6 @@ Kidd was executed in 1701. His body was displayed in an iron cage (gibbet) as a 
 Kidd’s story helped popularize the enduring image of pirates as both criminals and romantic adventurers. Legends of hidden treasure, amplified by later literature and folklore, became a major part of his cultural afterlife even though historians treat many treasure claims with skepticism.
 
 In later centuries, Kidd has been revisited as an example of how a privateer could become a scapegoat when political conditions changed, and how maritime law and imperial politics shaped the definition of “piracy.”
+
+
+## References

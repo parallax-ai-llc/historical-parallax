@@ -62,7 +62,7 @@ Vice President who briefly succeeded Charles Taylor as President of Liberia. A f
 - Some public references list **18 April 1947 – 1 April 2013** for his birth and death dates, while other datasets may differ.
 - This page preserves the existing frontmatter values above and provides this note to reflect common alternative listings.
 
-## References
+
 
 [^1]: Wikipedia, "Moses Blah" - https://en.wikipedia.org/wiki/Moses_Blah
 
@@ -77,3 +77,6 @@ Vice President who briefly succeeded Charles Taylor as President of Liberia. A f
 - Second Liberian Civil War
 - Charles Taylor
 - Transitional justice in West Africa
+
+
+## References

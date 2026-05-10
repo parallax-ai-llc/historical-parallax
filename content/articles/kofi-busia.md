@@ -5,7 +5,7 @@ birth: "1913-07-11"
 death: "1978-08-28"
 nationality: "Ghana"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/c4/KofiBusia.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kofi_Busia"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Prime Minister of Ghana whose government was overthrown for corruption and econo
 | 1969 | Became Prime Minister |
 | 1972 | Overthrown in military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Kofi Busia" - https://en.wikipedia.org/wiki/Kofi_Busia
 
@@ -55,3 +55,6 @@ Busia remains a significant figure in Ghana’s political history, often discuss
 - Second Republic of Ghana
 - 1972 Ghanaian coup d'état
 - Alien Compliance Order
+
+
+## References

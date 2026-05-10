@@ -22,7 +22,7 @@ See Lord Kelvin entry.
 | 1824 | Born |
 | 1907 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "William Thomson" - https://en.wikipedia.org/wiki/William_Thomson
 
@@ -51,3 +51,6 @@ William Thomson is best known under his peerage title, **Lord Kelvin**. Many sci
 
 - **Lord Kelvin** (primary biographical entry in many references)
 - **Kelvin (unit)** and the development of modern thermodynamic measurement
+
+
+## References

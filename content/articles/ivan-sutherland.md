@@ -23,7 +23,7 @@ Ivan Sutherland created Sketchpad, the first computer graphics program. Father o
 | 1963 | Created Sketchpad |
 | 1988 | Turing Award |
 
-## References
+
 
 [^1]: Wikipedia, "Ivan Sutherland" - https://en.wikipedia.org/wiki/Ivan_Sutherland
 
@@ -68,3 +68,6 @@ Ivan Sutherland created Sketchpad, the first computer graphics program. Father o
 ## References (Additional)
 
 [^2]: Wikipedia, "Ivan Sutherland" (Sketchpad, career, awards) - https://en.wikipedia.org/wiki/Ivan_Sutherland
+
+
+## References

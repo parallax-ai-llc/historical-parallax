@@ -21,7 +21,7 @@ Deputy defense minister of Tajikistan who led an armed mutiny before being kille
 |------|-------|
 | 2015 | Led armed mutiny in Dushanbe |
 
-## References
+
 
 [^1]: Wikipedia, "Nemat Azizov" - https://en.wikipedia.org/wiki/Nemat_Azizov
 
@@ -58,3 +58,6 @@ This article describes Azizov as having led an armed mutiny in 2015. At a high l
 
 - Tajikistan (politics and security)
 - Armed mutiny (general concept)
+
+
+## References

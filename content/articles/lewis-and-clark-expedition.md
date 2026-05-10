@@ -5,7 +5,7 @@ birth: "1804-05-14"
 death: "1806-09-23"
 nationality: "United States"
 occupation: ["Historical Event", "Discovery", "Exploration"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Lewis_and_Clark.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition"
 lastUpdated: "2026-02-21"

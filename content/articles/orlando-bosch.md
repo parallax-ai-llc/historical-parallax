@@ -24,7 +24,7 @@ Cuban exile militant who co-masterminded the 1976 bombing of Cubana Flight 455, 
 | 1990 | Pardoned by President Bush |
 | 2011 | Died in Miami |
 
-## References
+
 
 [^1]: Wikipedia, "Orlando Bosch" - https://en.wikipedia.org/wiki/Orlando_Bosch
 
@@ -58,3 +58,6 @@ Key themes in public accounts include:
 - Cubana Flight 455
 - Anti-Castro movement and Cuban exile politics
 - U.S.–Cuba relations during the Cold War
+
+
+## References

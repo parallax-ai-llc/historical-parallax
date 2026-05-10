@@ -21,7 +21,7 @@ French lawyer convicted of murdering his lover Agnès Le Roux, casino heiress.
 |------|-------|
 | 2014 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Maurice Agnelet" - https://en.wikipedia.org/wiki/Maurice_Agnelet
 
@@ -58,3 +58,6 @@ This article is intentionally high-level; French criminal procedure has features
 ## References (additional)
 
 - Contemporary French press coverage and court reporting (various outlets)
+
+
+## References

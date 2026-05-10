@@ -5,7 +5,7 @@ birth: "1959-08-03"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Engineer", "Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Koichi_Tanaka_2003.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Koichi_Tanaka"
 lastUpdated: "2026-02-21"

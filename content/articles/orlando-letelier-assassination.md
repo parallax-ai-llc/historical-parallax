@@ -21,7 +21,7 @@ Chilean diplomat and Allende minister who was assassinated in Washington DC by a
 |------|-------|
 | 1976 | Assassinated by car bomb in Washington DC |
 
-## References
+
 
 [^1]: Wikipedia, "Orlando Letelier assassination" - https://en.wikipedia.org/wiki/Orlando_Letelier_assassination
 
@@ -65,3 +65,6 @@ Chilean diplomat and Allende minister who was assassinated in Washington DC by a
 - https://en.wikipedia.org/wiki/Orlando_Letelier
 - https://en.wikipedia.org/wiki/DINA
 - https://en.wikipedia.org/wiki/Operation_Condor
+
+
+## References

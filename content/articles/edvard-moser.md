@@ -23,7 +23,7 @@ Edvard Moser is a Norwegian neuroscientist who shared the 2014 Nobel Prize for d
 | 2005 | Discovered grid cells |
 | 2014 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Edvard Moser" - https://en.wikipedia.org/wiki/Edvard_Moser
 
@@ -56,3 +56,6 @@ Open sources commonly associate Moser’s work with Norwegian research instituti
 - Hippocampus (brain)
 - Entorhinal cortex
 - Place cell
+
+
+## References

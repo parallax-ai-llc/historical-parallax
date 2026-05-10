@@ -23,7 +23,7 @@ Ronaldo 'O Fenômeno' won two World Cups and two Ballon d'Or awards. He scored b
 | 2002 | Won World Cup, scoring in final |
 | 2011 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "Ronaldo Nazário" - https://en.wikipedia.org/wiki/Ronaldo_Naz%C3%A1rio
 
@@ -51,3 +51,6 @@ Ronaldo 'O Fenômeno' won two World Cups and two Ballon d'Or awards. He scored b
 
 - Ronaldo has remained influential in football culture through public roles, business activity, and high visibility in global sports media.
 - In historical discussions, he is often used as a reference point when comparing generations of strikers and defining “peak performance” versus “career longevity.”
+
+
+## References

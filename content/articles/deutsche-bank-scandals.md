@@ -22,7 +22,7 @@ Deutsche Bank paid over $18 billion in fines for LIBOR manipulation, mortgage fr
 | 2015 | $2.5 billion LIBOR fine |
 | 2017 | $7.2 billion mortgage settlement |
 
-## References
+
 
 [^1]: Wikipedia, "Deutsche Bank Scandals" - https://en.wikipedia.org/wiki/Deutsche_Bank_Scandals
 
@@ -48,3 +48,6 @@ The bank’s repeated involvement in high-profile investigations has made it a f
 ## Notes
 
 Because the term groups many separate events, totals for “fines” or “settlements” can vary depending on which cases, years, and jurisdictions are included.
+
+
+## References

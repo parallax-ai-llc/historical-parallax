@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1946 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Narayana Murthy dup2" - https://en.wikipedia.org/wiki/Narayana_Murthy_dup2
 
@@ -56,3 +56,6 @@ He served as the company's Chief Executive Officer (CEO) and later as Chairman d
 
 [^2]: Wikipedia, "N. R. Narayana Murthy" - https://en.wikipedia.org/wiki/N._R._Narayana_Murthy
 [^3]: Infosys - Company overview / leadership information - https://www.infosys.com/
+
+
+## References

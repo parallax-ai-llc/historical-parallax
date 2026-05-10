@@ -5,7 +5,7 @@ birth: "1969-01-01"
 death: "Unknown"
 nationality: "Peru"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Emblem_of_the_PCP-Shining_Path.svg/500px-Emblem_of_the_PCP-Shining_Path.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sendero_Luminoso"
 lastUpdated: "2026-02-26"

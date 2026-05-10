@@ -23,7 +23,7 @@ Italian organized crime figure involved in the illegal dumping of toxic and radi
 | 2008 | Arrested for environmental crimes |
 | 2010 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Dino Bramante" - https://en.wikipedia.org/wiki/Dino_Bramante
 
@@ -48,3 +48,6 @@ This profile is intentionally high-level and based on the linked reference; prec
 - Environmental regulation and enforcement in waste management
 - Organized crime and "ecomafia" investigations
 - Community health monitoring in contaminated areas
+
+
+## References

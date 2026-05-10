@@ -18,7 +18,7 @@ James Holmes killed 12 and injured 70 at a movie theater in Aurora, Colorado on 
 |------|-------|
 | 1987 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -73,3 +73,6 @@ The Aurora shooting influenced national debates on gun policy, mental health, pu
 ## Caution on detail
 
 Reporting on mass violence can inadvertently amplify perpetrators; many summaries therefore focus on verified legal outcomes and the broader impact on victims, communities, and policy discussions.
+
+
+## References

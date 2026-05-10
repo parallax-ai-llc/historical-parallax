@@ -21,7 +21,7 @@ Dutch filmmaker murdered by an Islamist extremist for making a film critical of 
 |------|-------|
 | 2004 | Murdered on Amsterdam street |
 
-## References
+
 
 [^1]: Wikipedia, "Theo van Gogh" - https://en.wikipedia.org/wiki/Theo_van_Gogh
 
@@ -53,3 +53,6 @@ Dutch filmmaker murdered by an Islamist extremist for making a film critical of 
 
 [^2]: Wikipedia, "Submission (2004 film)" - https://en.wikipedia.org/wiki/Submission_(2004_film)
 [^3]: Wikipedia, "Ayaan Hirsi Ali" - https://en.wikipedia.org/wiki/Ayaan_Hirsi_Ali
+
+
+## References

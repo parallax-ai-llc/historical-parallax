@@ -21,7 +21,7 @@ Female Syrian intelligence officer accused of torturing female detainees in Assa
 |------|-------|
 | 2013 | Accused of systematic torture |
 
-## References
+
 
 [^1]: Wikipedia, "Amina al-Kadhi" - https://en.wikipedia.org/wiki/Amina_al-Kadhi
 
@@ -76,3 +76,6 @@ If reliable sources become available (court documents, sanctions lists, or major
 - Syrian security and intelligence services
 - detention and torture allegations in the Syrian conflict
 - documentation and attribution challenges in wartime reporting
+
+
+## References

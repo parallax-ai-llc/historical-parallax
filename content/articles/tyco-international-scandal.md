@@ -23,7 +23,7 @@ Corporate fraud at Tyco International where CEO Dennis Kozlowski and CFO Mark Sw
 | 2005 | Kozlowski convicted |
 | 2005 | Sentenced to 8-25 years |
 
-## References
+
 
 [^1]: Wikipedia, "Tyco International Scandal" - https://en.wikipedia.org/wiki/Tyco_International_Scandal
 
@@ -51,3 +51,6 @@ The Tyco International scandal became emblematic of early-2000s corporate govern
 - Date/period: see the summary and timeline above.
 - Place: see the summary above.
 - Key actors: see the summary above.
+
+
+## References

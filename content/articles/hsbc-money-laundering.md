@@ -22,7 +22,7 @@ HSBC was fined $1.9 billion in 2012 for laundering money for Mexican drug cartel
 | 2012 | Senate investigation revealed laundering |
 | 2012 | HSBC fined $1.9 billion |
 
-## References
+
 
 [^1]: Wikipedia, "HSBC Money Laundering" - https://en.wikipedia.org/wiki/HSBC_Money_Laundering
 
@@ -57,3 +57,6 @@ In 2012, U.S. authorities announced major penalties and a settlement framework, 
 
 - The episode was referenced in later policy conversations about strengthening AML standards.
 - It also reinforced the expectation that global banks maintain consistent controls across subsidiaries and regions.
+
+
+## References

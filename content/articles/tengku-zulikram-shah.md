@@ -23,7 +23,7 @@ Malaysian serial killer who murdered at least 4 women in Kuala Lumpur between 19
 | 1998 | Arrested by Malaysian police |
 | 2002 | Convicted and sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Tengku Zulikram Shah" - https://en.wikipedia.org/wiki/Tengku_Zulikram_Shah
 
@@ -48,3 +48,6 @@ Malaysian serial killer who murdered at least 4 women in Kuala Lumpur between 19
 ## Further Reading
 
 - See the reference link(s) above for expanded detail and primary sourcing.
+
+
+## References

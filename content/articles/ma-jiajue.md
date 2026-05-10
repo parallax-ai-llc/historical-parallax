@@ -23,7 +23,7 @@ Chinese university student who murdered four roommates at Yunnan University in 2
 | 2004 | Captured after nationwide manhunt |
 | 2004 | Executed by lethal injection |
 
-## References
+
 
 [^1]: Wikipedia, "Ma Jiajue" - https://en.wikipedia.org/wiki/Ma_Jiajue
 
@@ -50,3 +50,6 @@ Chinese university student who murdered four roommates at Yunnan University in 2
 ## Source Notes
 - This entry is currently short and should be treated as a starting point rather than a definitive account.
 - If a cited link becomes unavailable or resolves to a placeholder page, add an archived copy and alternative reputable sources.
+
+
+## References

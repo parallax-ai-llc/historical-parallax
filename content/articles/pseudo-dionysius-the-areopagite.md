@@ -24,7 +24,7 @@ Pseudo-Dionysius was an anonymous Syrian Christian theologian who wrote under th
 | 510 | Wrote The Divine Names and The Mystical Theology |
 | 525 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Pseudo-Dionysius the Areopagite" - https://en.wikipedia.org/wiki/Pseudo-Dionysius_the_Areopagite
 
@@ -54,3 +54,6 @@ The works combine Christian themes with concepts drawn from late antique Neoplat
 Pseudo-Dionysius became a major source for Byzantine theology and later entered Latin medieval thought through translation and commentary. Thinkers such as Maximus the Confessor engaged and interpreted the corpus in the East, while figures in the West cited Dionysius in scholastic and mystical contexts.
 
 The corpus also influenced Christian discussions about angels, liturgy, and the relationship between philosophy and theology.
+
+
+## References

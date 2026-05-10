@@ -23,7 +23,7 @@ Colombian criminal gang that operated from the El Vaticano neighborhood in Medel
 | 1990 | Became major contract killing operation |
 | 2002 | Major crackdown by Colombian authorities |
 
-## References
+
 
 [^1]: Wikipedia, "El Vaticano Gang" - https://en.wikipedia.org/wiki/El_Vaticano_Gang
 
@@ -51,3 +51,6 @@ The gang is frequently cited in discussions of Medellín’s history of urban vi
 
 - Sicario networks in Colombia
 - Medellín conflict and urban organized crime
+
+
+## References

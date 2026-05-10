@@ -23,7 +23,7 @@ Joseph Taylor shared the 1993 Nobel Prize for discovering a binary pulsar provid
 | 1974 | Discovered binary pulsar with Hulse |
 | 1993 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Joseph Taylor" - https://en.wikipedia.org/wiki/Joseph_Taylor
 
@@ -48,3 +48,6 @@ Taylor and Hulse received the 1993 Nobel Prize in Physics for the discovery and 
 The Hulse–Taylor system showed that careful measurement of pulse arrival times can turn an astronomical object into a high-precision experiment, linking observational radio astronomy to fundamental physics.
 
 It remains a canonical example in astrophysics courses of how theory and measurement can be matched at extraordinary precision.
+
+
+## References

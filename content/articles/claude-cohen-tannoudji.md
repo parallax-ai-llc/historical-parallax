@@ -23,7 +23,7 @@ Claude Cohen-Tannoudji shared the 1997 Nobel Prize for laser cooling and trappin
 | 1985 | Developed sub-recoil cooling |
 | 1997 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Claude Cohen-Tannoudji" - https://en.wikipedia.org/wiki/Claude_Cohen-Tannoudji
 
@@ -48,3 +48,6 @@ Beyond research papers, Cohen-Tannoudji is widely recognized for educational inf
 ### Awards and recognition
 
 In addition to the Nobel Prize, biographies frequently list major international physics awards (e.g., the Harvey Prize and other society medals) as markers of the broad impact of his work.
+
+
+## References

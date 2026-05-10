@@ -21,7 +21,7 @@ Myanmar military personnel responsible for the genocide of Rohingya Muslims kill
 |------|-------|
 | 2017 | Committed genocide against Rohingya people |
 
-## References
+
 
 [^1]: Wikipedia, "Rakhine Genocide Perpetrators" - https://en.wikipedia.org/wiki/Rakhine_Genocide_Perpetrators
 
@@ -71,3 +71,6 @@ Human-rights investigations and journalistic accounts commonly describe the foll
 - Rakhine State conflict
 - Tatmadaw (Myanmar Armed Forces)
 - International reactions to the Rohingya crisis
+
+
+## References

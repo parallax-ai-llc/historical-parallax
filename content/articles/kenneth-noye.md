@@ -55,10 +55,13 @@ Kenneth Noye was a British criminal involved in the Brink's-Mat gold laundering 
 - **Media framing:** High-profile cases can become shorthand for a wider period of organized crime, but journalistic accounts should be separated from court findings.
 - **Institutional lessons:** In retrospective analysis, such cases are frequently used to discuss investigative trade-offs, witness management, and the limits of asset recovery.
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Kenneth Noye," *Wikipedia, The Free Encyclopedia* (accessed 2026-02-26): https://en.wikipedia.org/wiki/Kenneth_Noye
 
 ## See also
 - Brink's-Mat robbery
 - Money laundering
+
+
+## References

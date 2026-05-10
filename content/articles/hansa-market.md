@@ -22,7 +22,7 @@ Dark web marketplace secretly taken over by Dutch police who monitored all trans
 | 2017 | Dutch police secretly took over Hansa Market |
 | 2017 | Market shut down after month of surveillance |
 
-## References
+
 
 [^1]: Wikipedia, "Hansa Market" - https://en.wikipedia.org/wiki/Hansa_Market
 
@@ -48,3 +48,6 @@ Dark web marketplace secretly taken over by Dutch police who monitored all trans
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
+
+
+## References

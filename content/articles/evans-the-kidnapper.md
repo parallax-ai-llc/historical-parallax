@@ -22,7 +22,7 @@ Nigeria's most notorious kidnapper whose real name is Chukwudumeme Onwuamadike. 
 | 2013 | Began sophisticated kidnapping operations targeting wealthy Nigerians |
 | 2017 | Arrested after years of evading police |
 
-## References
+
 
 [^1]: Wikipedia, "Evans the Kidnapper" - https://en.wikipedia.org/wiki/Evans_the_Kidnapper
 
@@ -53,3 +53,6 @@ Nigeria's most notorious kidnapper whose real name is Chukwudumeme Onwuamadike. 
 ## References (Additional)
 
 [^2]: See also general reporting and court coverage summarized in the Wikipedia article and its citations.
+
+
+## References

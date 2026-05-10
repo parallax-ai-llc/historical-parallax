@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 2013-10-01 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -49,3 +49,6 @@ This event had significant impact on law enforcement practices, public policy, a
 
 ## Interpretation
 The takedown is frequently cited as an early inflection point where cybercrime, crypto-finance, and federal law enforcement priorities visibly converged.
+
+
+## References

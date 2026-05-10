@@ -21,7 +21,7 @@ Saudi man sentenced to death by crucifixion for protesting as a teenager during 
 |------|-------|
 | 2015 | Facing crucifixion for teenage protest |
 
-## References
+
 
 [^1]: Wikipedia, "Ali al-Nimr" - https://en.wikipedia.org/wiki/Ali_al-Nimr
 
@@ -64,3 +64,6 @@ Ali al-Nimr is a Saudi national whose case drew international attention after a 
 
 ## Broader significance
 The case is frequently cited in discussions about human-rights norms, legal reform, and the limits of external pressure on sovereign legal systems.
+
+
+## References

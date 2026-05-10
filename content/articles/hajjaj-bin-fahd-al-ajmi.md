@@ -21,7 +21,7 @@ Kuwaiti man who publicly fundraised for al-Nusra Front in Syria.
 |------|-------|
 | 2014 | Killed in suicide bombing in Iraq |
 
-## References
+
 
 [^1]: Wikipedia, "Hajjaj bin Fahd al-Ajmi" - https://en.wikipedia.org/wiki/Hajjaj_bin_Fahd_al-Ajmi
 
@@ -56,3 +56,6 @@ Additional context around the single dated event above (without introducing unve
 
 - This article intentionally keeps claims **high-level** and tied to the existing reference, because detailed allegations (dates, venues, intermediaries, specific transactions, or legal designations) should be sourced to primary documents or reputable reporting beyond a single encyclopedia entry.
 - If additional sources are added later (e.g., government sanctions notices or major-wire reporting), this page can be expanded with precise dates and quotations.
+
+
+## References

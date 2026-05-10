@@ -5,7 +5,7 @@ birth: "1944-02-08"
 death: "Unknown"
 nationality: "Brazilian"
 occupation: ["Photographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sebasti%C3%A3o_Salgado_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sebastiao_Salgado"
 lastUpdated: "2026-02-21"

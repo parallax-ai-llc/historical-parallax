@@ -24,7 +24,7 @@ Ottoman military leader and one of the 'Three Pashas' who orchestrated the Armen
 | 1915 | Ordered deportation and massacre of Armenians |
 | 1922 | Killed fighting Bolsheviks in Turkestan |
 
-## References
+
 
 [^1]: Wikipedia, "Enver Pasha" - https://en.wikipedia.org/wiki/Enver_Pasha
 
@@ -48,3 +48,6 @@ Ottoman military leader and one of the 'Three Pashas' who orchestrated the Armen
 After the Ottoman defeat, Enver fled abroad and later pursued anti-Bolshevik and pan-Turkic projects in Central Asia, where he was killed in 1922. His historical memory remains deeply contested, particularly due to his role in mass atrocities.
 
 In Turkey and across the former Ottoman lands, debates about his reputation often track broader disputes over nationalism and historical accountability.
+
+
+## References

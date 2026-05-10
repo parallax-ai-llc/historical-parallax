@@ -24,7 +24,7 @@ Polycarp was a Christian bishop of Smyrna and an important link between the Apos
 | 135 | Wrote Letter to the Philippians |
 | 155 | Martyred by burning at the stake in Smyrna |
 
-## References
+
 
 [^1]: Wikipedia, "Polycarp of Smyrna" - https://en.wikipedia.org/wiki/Polycarp_of_Smyrna
 
@@ -49,3 +49,6 @@ Polycarp is honored as a saint in multiple Christian traditions, and his feast d
 Ancient sources and later calendars sometimes differ on exact dates for Polycarp's birth and martyrdom; modern summaries commonly present approximate years. The importance of the figure in scholarship is therefore often tied more to the surviving texts and the early reception history than to precise biographical chronology.
 
 This uncertainty is typical for many early 2nd-century Christian leaders.
+
+
+## References

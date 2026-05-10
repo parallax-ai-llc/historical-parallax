@@ -21,7 +21,7 @@ Aryan Brotherhood leader who directed murders and drug distribution from maximum
 |------|-------|
 | 2008 | Convicted of directing AB operations from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Michael Thompson" - https://en.wikipedia.org/wiki/Michael_Thompson
 
@@ -52,3 +52,6 @@ Aryan Brotherhood leader who directed murders and drug distribution from maximum
 - Aryan Brotherhood
 - Prison gangs in the United States
 - Organized crime in prisons
+
+
+## References

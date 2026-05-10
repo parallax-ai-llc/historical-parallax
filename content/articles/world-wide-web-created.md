@@ -26,7 +26,7 @@ Tim Berners-Lee launched the World Wide Web on August 6, 1991. His HTML, URL, an
 | 1994 | Amazon and Yahoo founded |
 | 2024 | 5+ billion users |
 
-## References
+
 
 [^1]: Wikipedia, "World Wide Web Created" - https://en.wikipedia.org/wiki/World_Wide_Web_Created
 
@@ -49,3 +49,6 @@ The internet is the underlying network of networks and protocols (like TCP/IP). 
 ## Early Adoption
 
 The web’s growth accelerated when web software became broadly available and when standards were published openly, enabling independent implementations and rapid expansion.
+
+
+## References

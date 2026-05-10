@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1954 | See Oprah Winfrey |
 
-## References
+
 
 [^1]: Wikipedia, "Oprah duplicate" - https://en.wikipedia.org/wiki/Oprah_duplicate
 
@@ -57,3 +57,6 @@ Duplicate.
 
 - This article is useful primarily for **internal consistency** (stable identifiers) and **searchability**.
 - When expanding the dataset, ensure that citations and timelines for the subject live in the primary article, and that this record clearly states its duplicate status.
+
+
+## References

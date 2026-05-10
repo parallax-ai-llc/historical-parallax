@@ -35,7 +35,7 @@ Ariel Castro kidnapped three women in Cleveland, Ohio between 2002-2004 and held
 | 2013 | Victims escaped; Castro arrested |
 | 2013-09 | Died by suicide in prison |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: https://en.wikipedia.org/wiki/Ariel_Castro_kidnappings
 
@@ -60,3 +60,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

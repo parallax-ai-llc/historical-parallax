@@ -5,7 +5,7 @@ birth: "1935-09-01"
 death: "2024-02-06"
 nationality: "Japanese"
 occupation: ["Conductor", "Cultural Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Seiji_Ozawa_1963.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seiji_Ozawa"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Placeholder — musician.
 |------|-------|
 | 1935 | Born in Japan |
 
-## References
+
 
 [^1]: Wikipedia, "Seiji Ozawa" - https://en.wikipedia.org/wiki/Seiji_Ozawa
 [^2]: Boston Symphony Orchestra, "Seiji Ozawa" (biographical notes and archives) - https://www.bso.org/
@@ -64,3 +64,6 @@ Seiji Ozawa is often remembered for:
 - Serving as a bridge between Japanese musical institutions and Western orchestral culture
 - Mentoring younger musicians and supporting training projects in Japan
 - Expanding the global presence of Japanese conductors in major international roles
+
+
+## References

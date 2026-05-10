@@ -23,7 +23,7 @@ Series of airplane hijackings by the Popular Front for the Liberation of Palesti
 | 1970 | Dawsons Field multiple hijackings |
 | 1976 | Entebbe hijacking |
 
-## References
+
 
 [^1]: Wikipedia, "PFLP Hijackings" - https://en.wikipedia.org/wiki/PFLP_Hijackings
 
@@ -49,3 +49,6 @@ The hijackings contributed to international attention on the Israeli–Palestini
 
 - See the linked Wikipedia entry for a starting overview and references.
 - Prefer primary documents (official statements, court records) where available.
+
+
+## References

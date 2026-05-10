@@ -23,7 +23,7 @@ Joseph Niepce produced the first known photograph around 1826.
 | 1826 | Produced first photograph |
 | 1833 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Joseph Nicephore Niepce" - https://en.wikipedia.org/wiki/Joseph_Nicephore_Niepce
 
@@ -49,3 +49,6 @@ Niepce’s experiments are foundational in the history of photography because th
 - Photographic processes could be systematized and repeated
 - Later commercial methods built on earlier, less sensitive (long-exposure) approaches
 
+
+
+## References

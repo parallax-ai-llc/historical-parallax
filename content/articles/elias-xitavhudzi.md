@@ -23,7 +23,7 @@ South African serial killer who murdered at least 18 women in the Limpopo provin
 | 2000 | Arrested after investigation |
 | 2003 | Convicted and sentenced to multiple life terms |
 
-## References
+
 
 [^1]: Wikipedia, "Elias Xitavhudzi" - https://en.wikipedia.org/wiki/Elias_Xitavhudzi
 
@@ -51,3 +51,6 @@ The case is frequently cited in discussions of:
 
 - South African criminal justice and rural policing
 - Media coverage of serial crime
+
+
+## References

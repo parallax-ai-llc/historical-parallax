@@ -21,7 +21,7 @@ Wells Fargo employees created millions of fake bank accounts without customer co
 |------|-------|
 | 2016 | 3.5 million fake accounts discovered |
 
-## References
+
 
 [^1]: Wikipedia, "Wells Fargo Fake Accounts" - https://en.wikipedia.org/wiki/Wells_Fargo_Fake_Accounts
 
@@ -61,3 +61,6 @@ The scandal led to significant reputational damage and changes in leadership. Se
 ## References (additional)
 
 [^2]: Wikipedia, "Wells Fargo" (background on corporate history and later regulatory actions) - https://en.wikipedia.org/wiki/Wells_Fargo
+
+
+## References

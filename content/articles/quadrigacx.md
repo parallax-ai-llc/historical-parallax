@@ -22,7 +22,7 @@ Canadian cryptocurrency exchange whose founder Gerald Cotten died mysteriously i
 | 2018 | Founder Cotten died; $190 million locked |
 | 2020 | Investigation revealed fraud |
 
-## References
+
 
 [^1]: Wikipedia, "QuadrigaCX" - https://en.wikipedia.org/wiki/QuadrigaCX
 
@@ -50,3 +50,6 @@ Canadian cryptocurrency exchange whose founder Gerald Cotten died mysteriously i
 - Transparency and verifiable reserves
 - Governance, recordkeeping, and separation of customer and company assets
 
+
+
+## References

@@ -43,10 +43,13 @@ Roman serial poisoner who served emperors as professional assassin. Allegedly po
 - Locusta is often cited in popular histories as an example of how poison and court intrigue featured in elite Roman politics.
 - Because the evidence is literary and politically charged, her story is also used as a case study in how Roman historians portrayed vice and tyranny.
 
-## References
+
 
 [^1]: Wikipedia, "Locusta" - https://en.wikipedia.org/wiki/Locusta
 
 ## Notes
 
 This article summarizes commonly cited claims in ancient literary sources; specifics vary by author and translation.
+
+
+## References

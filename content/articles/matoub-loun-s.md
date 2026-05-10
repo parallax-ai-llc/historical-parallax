@@ -21,7 +21,7 @@ Algerian Berber singer and activist assassinated during Algeria's Black Decade c
 |------|-------|
 | 1998 | Assassinated during civil war |
 
-## References
+
 
 [^1]: Wikipedia, "Matoub Lounès" - https://en.wikipedia.org/wiki/Matoub_Loun%C3%A8s
 
@@ -56,3 +56,6 @@ Algerian Berber singer and activist assassinated during Algeria's Black Decade c
 - Kabyle people
 - Berber languages (Amazigh)
 - Algerian Civil War (1990s)
+
+
+## References

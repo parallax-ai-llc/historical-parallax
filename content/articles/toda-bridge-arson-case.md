@@ -21,7 +21,7 @@ Arsonist set fire to homes in Toda, Saitama Prefecture, killing 5 family members
 |------|-------|
 | 2003 | 5 killed in arson attack |
 
-## References
+
 
 [^1]: Wikipedia, "Toda Bridge Arson Case" - https://en.wikipedia.org/wiki/Toda_Bridge_Arson_Case
 
@@ -63,3 +63,6 @@ Cases like this are often discussed in relation to:
 - Fire investigation
 - Mass murder methods
 - Disaster and emergency response in Japan
+
+
+## References

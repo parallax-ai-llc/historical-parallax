@@ -22,7 +22,7 @@ Steven López won two Olympic gold medals in taekwondo at 2000 Sydney and 2004 A
 | 2000 | Won Olympic gold at Sydney |
 | 2004 | Won second gold at Athens |
 
-## References
+
 
 [^1]: Wikipedia, "Steven López" - https://en.wikipedia.org/wiki/Steven_L%C3%B3pez
 
@@ -56,3 +56,6 @@ Ovett remains a reference point in discussions of:
 ## Further Reading
 
 - Wikipedia profile (overview, major results, and record notes): see reference below.
+
+
+## References

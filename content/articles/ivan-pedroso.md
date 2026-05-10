@@ -23,7 +23,7 @@ Ivan Pedroso won Olympic long jump gold at the 2000 Sydney Games and four World 
 | 2000 | Won Olympic gold at Sydney |
 | 2001 | Won fourth World Championship gold |
 
-## References
+
 
 [^1]: Wikipedia, "Ivan Pedroso" - https://en.wikipedia.org/wiki/Ivan_Pedroso
 
@@ -66,3 +66,6 @@ Ivan Pedroso won Olympic long jump gold at the 2000 Sydney Games and four World 
 ## References (Additional)
 
 [^2]: Wikipedia, "Iván Pedroso" - https://en.wikipedia.org/wiki/Ivan_Pedroso
+
+
+## References

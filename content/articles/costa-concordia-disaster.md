@@ -23,7 +23,7 @@ Sinking of the cruise ship Costa Concordia off the Italian island of Giglio on J
 | 2012 | 32 killed |
 | 2015 | Captain Schettino sentenced to 16 years |
 
-## References
+
 
 [^1]: Wikipedia, "Costa Concordia Disaster" - https://en.wikipedia.org/wiki/Costa_Concordia_Disaster
 
@@ -52,3 +52,5 @@ Sinking of the cruise ship Costa Concordia off the Italian island of Giglio on J
 ## References
 
 [^2]: Italian court reporting and maritime investigation summaries describing the grounding, evacuation, and salvage.
+
+

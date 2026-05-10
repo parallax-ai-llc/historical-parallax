@@ -21,7 +21,7 @@ Inagawa-kai yakuza leader who managed organized crime in the Kanto region.
 |------|-------|
 | 2005 | Led Inagawa-kai operations |
 
-## References
+
 
 [^1]: Wikipedia, "Fumio Shimizu" - https://en.wikipedia.org/wiki/Fumio_Shimizu
 
@@ -50,3 +50,6 @@ The term “yakuza boss” in secondary sources can refer to different levels of
 
 - This page keeps the biographical claims **minimal** because the referenced source provides limited verifiable detail in the short format captured here.
 - If additional high-quality sources (books, court records, major investigative journalism) are added, this article can be expanded with **dated events, roles, and corroborated quotations** while maintaining attribution.
+
+
+## References

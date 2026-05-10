@@ -5,7 +5,7 @@ birth: "1995-11-29"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Short Track Speed Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kim_A-Lang.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_A-lang"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Kim A-lang won multiple Olympic medals in short track speed skating for South Ko
 | 2018 | Won relay gold at PyeongChang |
 | 2022 | Won medals at Beijing Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Kim A-lang" - https://en.wikipedia.org/wiki/Kim_A-lang
 
@@ -49,3 +49,6 @@ Korea's short track program has historically had intense internal competition du
 ## Notes
 
 Short track careers are often shaped by injuries, selection trials, and relay team composition, so medal counts only partially capture an athlete's contribution. Kim's presence across multiple championship cycles reflects sustained competitiveness within a deep national program.
+
+
+## References

@@ -23,7 +23,7 @@ South Korean serial killer who murdered 5 women in Daejeon between 2004 and 2006
 | 2006 | Arrested after human remains found |
 | 2008 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Park Han-sang" - https://en.wikipedia.org/wiki/Park_Han-sang
 
@@ -50,3 +50,6 @@ Public summaries generally emphasize the confirmed legal proceedings and sentenc
 ## Further Reading
 
 For context, see overviews of notable South Korean criminal cases in the 2000s and how investigative methods and forensic practices were discussed in the public sphere.
+
+
+## References

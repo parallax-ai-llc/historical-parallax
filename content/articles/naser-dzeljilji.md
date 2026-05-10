@@ -21,7 +21,7 @@ Notorious Swedish-Balkan gang leader involved in bombings and shootings during S
 |------|-------|
 | 2019 | Major figure in Swedish gang wars |
 
-## References
+
 
 [^1]: Wikipedia, "Naser Dzeljilji" - https://en.wikipedia.org/wiki/Naser_Dzeljilji
 
@@ -62,3 +62,6 @@ Notorious Swedish-Balkan gang leader involved in bombings and shootings during S
 - Confirmed current status (alive/deceased) and any publicly documented legal outcomes.
 - Confirmed organizational affiliations (named networks, if any) with reliable citations.
 - A sourced, dated list of key incidents tied to the individual (avoiding unsourced attribution).
+
+
+## References

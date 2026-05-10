@@ -22,7 +22,7 @@ John Smeaton was the father of civil engineering who rebuilt the Eddystone Light
 | 1759 | Rebuilt Eddystone Lighthouse |
 | 1792 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "John Smeaton" - https://en.wikipedia.org/wiki/John_Smeaton
 
@@ -52,3 +52,6 @@ John Smeaton was the father of civil engineering who rebuilt the Eddystone Light
 
 - This article is a high-level summary based on publicly available reference material (see References).
 - Specific dates, roles, and names should be cross-checked against primary sources when used for research or publication.
+
+
+## References

@@ -22,7 +22,7 @@ Guinea-Bissau became a major cocaine transit hub under President Vieira's rule. 
 | 2005 | Returned to power in elections |
 | 2009 | Assassinated amid drug trade power struggles |
 
-## References
+
 
 [^1]: Wikipedia, "Nino Vieira" - https://en.wikipedia.org/wiki/Nino_Vieira
 
@@ -52,3 +52,6 @@ The Vieira era is frequently referenced in analyses of West African governance c
 - state finances are limited,
 - external criminal networks exploit weak border and maritime enforcement.
 
+
+
+## References

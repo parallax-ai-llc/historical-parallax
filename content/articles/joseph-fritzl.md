@@ -23,7 +23,7 @@ Austrian man who imprisoned his daughter in a cellar for 24 years, repeatedly ra
 | 2008 | Discovered |
 | 2009 | Sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Joseph Fritzl" - https://en.wikipedia.org/wiki/Joseph_Fritzl
 
@@ -48,3 +48,6 @@ The case became an international symbol of hidden domestic abuse and institution
 ## Notes
 
 Public reporting on the family has often emphasized privacy protections for survivors and the long-term medical and psychological recovery needs after prolonged captivity.
+
+
+## References

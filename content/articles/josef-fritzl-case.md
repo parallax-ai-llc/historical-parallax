@@ -43,7 +43,7 @@ Austrian incest and captivity case where Josef Fritzl imprisoned his daughter El
 - The case prompted broader public discussion in Austria and beyond about safeguarding, social services, and the warning signs of coercive control.
 - Media coverage raised ethical questions about privacy and the protection of victims, particularly regarding identification, long-term care, and reintegration.
 
-## References
+
 
 [^1]: Wikipedia, "Josef Fritzl Case" - https://en.wikipedia.org/wiki/Josef_Fritzl_Case
 
@@ -51,3 +51,6 @@ Austrian incest and captivity case where Josef Fritzl imprisoned his daughter El
 
 - Coercive control and long-term captivity crimes
 - Victim privacy and media ethics in high-profile criminal cases
+
+
+## References

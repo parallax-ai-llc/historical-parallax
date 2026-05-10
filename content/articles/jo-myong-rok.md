@@ -22,7 +22,7 @@ First Vice Chairman of North Korea's National Defence Commission who oversaw the
 | 2000 | Visited Washington as Kim Jong-il's envoy |
 | 2010 | Died in Pyongyang |
 
-## References
+
 
 [^1]: Wikipedia, "Jo Myong-rok" - https://en.wikipedia.org/wiki/Jo_Myong-rok
 ## Role in the North Korean System
@@ -48,3 +48,6 @@ Open-source reporting on internal responsibility within DPRK institutions is lim
 ## Further Reading (General)
 
 For deeper detail, consult multiple reputable sources (academic histories, major news outlets, and primary documents where available), and compare accounts across perspectives.
+
+
+## References

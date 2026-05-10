@@ -5,7 +5,7 @@ birth: "1899-01-01"
 death: "1971-01-01"
 nationality: "Indonesia (Java)"
 occupation: ["Labor Organizer", "Communist Revolutionary", "Writer", "Political Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Semaun_Suara_Merdeka_5_February_1955_p2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Semaun"
 lastUpdated: "2025-01-15"

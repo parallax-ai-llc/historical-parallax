@@ -21,7 +21,7 @@ Leader of Ansar al-Sunna (al-Shabaab Mozambique) directing the Cabo Delgado insu
 |------|-------|
 | 2020 | Led insurgency in northern Mozambique |
 
-## References
+
 
 [^1]: Wikipedia, "ASWJ Leader" - https://en.wikipedia.org/wiki/ASWJ_Leader
 
@@ -51,3 +51,6 @@ Leader of Ansar al-Sunna (al-Shabaab Mozambique) directing the Cabo Delgado insu
 [^2]: Wikipedia, "Insurgency in Cabo Delgado" - https://en.wikipedia.org/wiki/Insurgency_in_Cabo_Delgado
 [^3]: Wikipedia, "Ansar al-Sunna (Mozambique)" - https://en.wikipedia.org/wiki/Ansar_al-Sunna_(Mozambique)
 [^4]: Wikipedia, "Islamic State's insurgency in Mozambique" - https://en.wikipedia.org/wiki/Islamic_State%27s_insurgency_in_Mozambique
+
+
+## References

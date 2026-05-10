@@ -23,7 +23,7 @@ Bruce Lee revolutionized martial arts and brought kung fu to global audiences. H
 | 1967 | Founded Jeet Kune Do |
 | 1973 | Starred in Enter the Dragon; died at 32 |
 
-## References
+
 
 [^1]: Wikipedia, "Bruce Lee" - https://en.wikipedia.org/wiki/Bruce_Lee
 
@@ -57,3 +57,6 @@ Lee’s screen presence helped shape how global audiences perceived Chinese mart
 
 - Jeet Kune Do
 - Hong Kong cinema
+
+
+## References

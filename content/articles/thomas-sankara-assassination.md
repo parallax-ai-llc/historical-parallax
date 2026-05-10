@@ -21,7 +21,7 @@ See Blaise Compaoré. Thomas Sankara was the revolutionary president of Burkina 
 |------|-------|
 | 1987 | Assassinated in coup |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Sankara assassination" - https://en.wikipedia.org/wiki/Thomas_Sankara_assassination
 [^2]: Wikipedia, "Thomas Sankara" - https://en.wikipedia.org/wiki/Thomas_Sankara
@@ -54,3 +54,6 @@ Sankara's killing and burial became a long-running political and legal issue; Wi
 ## Notes on Page Coverage
 
 The Wikipedia link in the frontmatter and references may not always resolve as a dedicated article (it can appear as a missing/redirected title). For reliable background, use the Thomas Sankara biography and the 1987 coup article as primary starting points.[^2][^3]
+
+
+## References

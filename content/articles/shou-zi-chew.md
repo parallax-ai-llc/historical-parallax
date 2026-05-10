@@ -5,7 +5,7 @@ birth: "1983-01-01"
 death: "Unknown"
 nationality: "Singaporean"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/TikTok_CEO_Shou_Zi_Chew.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shou_Zi_Chew"
 lastUpdated: "2026-02-21"

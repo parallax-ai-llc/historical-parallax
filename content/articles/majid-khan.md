@@ -21,7 +21,7 @@ Al-Qaeda operative whose Guantanamo sentencing hearing included detailed testimo
 |------|-------|
 | 2021 | Sentenced with torture testimony |
 
-## References
+
 
 [^1]: Wikipedia, "Majid Khan" - https://en.wikipedia.org/wiki/Majid_Khan
 
@@ -56,3 +56,6 @@ Al-Qaeda operative whose Guantanamo sentencing hearing included detailed testimo
 ## Additional References
 
 - For a consolidated overview and timeline, see the Wikipedia article and its cited sources.[^1]
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1947-01-01"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Drug Trafficker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Roberto_Escobar_%28cropped%29.jpg/250px-Roberto_Escobar_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Escobar"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Brother and accountant of Pablo Escobar who managed the Medellín Cartel finance
 |------|-------|
 | 1993 | Imprisoned for drug trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Roberto Escobar" - https://en.wikipedia.org/wiki/Roberto_Escobar
 
@@ -76,3 +76,6 @@ Brother and accountant of Pablo Escobar who managed the Medellín Cartel finance
   - dated court events (arrest, conviction, sentence),
   - clear institutional citations,
   - and definitions of entities (cartel, state institutions) rather than unverifiable anecdote.
+
+
+## References

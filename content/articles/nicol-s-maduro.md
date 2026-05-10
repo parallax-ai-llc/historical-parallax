@@ -24,7 +24,7 @@ Venezuelan president since 2013 who has presided over economic collapse, mass em
 | 2019 | Juan Guaidó declared interim president; Maduro held on |
 | 2024 | Claimed victory in disputed election |
 
-## References
+
 
 [^1]: Wikipedia, "Nicolás Maduro" - https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro
 
@@ -48,3 +48,6 @@ This is a summary of widely reported issues; for specific reports, dates, and fi
 - Wikipedia (see link above)
 - Additional high-level context can be added from reliable sources.
 - Additional high-level context can be added from reliable sources.
+
+
+## References

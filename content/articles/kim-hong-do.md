@@ -5,7 +5,7 @@ birth: "1745-01-01"
 death: "1806-01-01"
 nationality: "Korean"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Kim_Hongdo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Hong-do"
 lastUpdated: "2026-02-21"

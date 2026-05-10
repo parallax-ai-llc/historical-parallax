@@ -21,7 +21,7 @@ Founder of FTX exchange who defrauded customers of billions while based in the B
 |------|-------|
 | 2022 | Arrested in Bahamas for massive crypto fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Samuel Bankman-Fried" - https://en.wikipedia.org/wiki/Samuel_Bankman-Fried
 
@@ -77,3 +77,6 @@ For more detail beyond summaries, the most reliable sources tend to be:
 - Bankruptcy filings and court-approved reports.
 - Regulator and prosecutor statements, where publicly available.
 - Trial transcripts and judicial findings.
+
+
+## References

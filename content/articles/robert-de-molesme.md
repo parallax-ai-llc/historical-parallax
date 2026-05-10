@@ -5,7 +5,7 @@ birth: "1028-01-01"
 death: "1111-04-17"
 nationality: "French"
 occupation: ["Abbot", "Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robert_de_Molesme_statue_XVIe_point_peint_08345.JPG/1920px-Robert_de_Molesme_statue_XVIe_point_peint_08345.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_de_Molesme"
 lastUpdated: "2026-02-21"

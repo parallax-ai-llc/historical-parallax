@@ -5,7 +5,7 @@ birth: "1983-12-05"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/0c/Samantha_Lewthwaite_Interpol.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samantha_Lewthwaite"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ British woman known as the White Widow who was the wife of one of the 7/7 London
 | 2013 | Linked to Westgate mall attack, though unconfirmed |
 | 2024 | Remains at large |
 
-## References
+
 
 [^1]: Wikipedia, "Samantha Lewthwaite" - https://en.wikipedia.org/wiki/Samantha_Lewthwaite
 
@@ -50,3 +50,6 @@ Her story is often referenced in broader discussions about:
 
 - 7 July 2005 London bombings
 - al-Shabaab
+
+
+## References

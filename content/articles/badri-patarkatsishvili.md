@@ -21,7 +21,7 @@ Georgian billionaire who died of a heart attack weeks after British police uncov
 |------|-------|
 | 2008 | Died under suspicious circumstances |
 
-## References
+
 
 [^1]: Wikipedia, "Badri Patarkatsishvili" - https://en.wikipedia.org/wiki/Badri_Patarkatsishvili
 
@@ -57,3 +57,6 @@ Georgian billionaire who died of a heart attack weeks after British police uncov
 
 - Patarkatsishvili is frequently cited as an example of how post-Soviet capital, media influence, and national politics could become tightly coupled.
 - Even when a death is medically attributed to natural causes, contemporaneous threats and political stakes can cause a lasting "suspicious death" narrative.
+
+
+## References

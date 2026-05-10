@@ -19,7 +19,7 @@ Umar Farouk Abdulmutallab, the 'Underwear Bomber,' attempted to detonate explosi
 |------|-------|
 | 1986 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -48,3 +48,6 @@ Umar Farouk Abdulmutallab, the 'Underwear Bomber,' attempted to detonate explosi
 ## Additional References
 [^2]: Wikipedia contributors, "Umar Farouk Abdulmutallab," *Wikipedia*. https://en.wikipedia.org/wiki/Umar_Farouk_Abdulmutallab
 [^3]: U.S. Department of Justice press materials and federal court filings related to United States v. Abdulmutallab (2010–2012).
+
+
+## References

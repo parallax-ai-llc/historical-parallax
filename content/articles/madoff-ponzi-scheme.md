@@ -23,7 +23,7 @@ Largest Ponzi scheme in history operated by Bernie Madoff who defrauded investor
 | 2008 | Scheme collapsed |
 | 2009 | Madoff sentenced to 150 years |
 
-## References
+
 
 [^1]: Wikipedia, "Madoff Ponzi Scheme" - https://en.wikipedia.org/wiki/Madoff_Ponzi_Scheme
 
@@ -50,3 +50,6 @@ Largest Ponzi scheme in history operated by Bernie Madoff who defrauded investor
 ## Source Notes
 - This entry is currently short and should be treated as a starting point rather than a definitive account.
 - If a cited link becomes unavailable or resolves to a placeholder page, add an archived copy and alternative reputable sources.
+
+
+## References

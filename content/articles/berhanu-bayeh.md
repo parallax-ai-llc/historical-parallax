@@ -22,7 +22,7 @@ Senior Derg regime member and foreign minister convicted of genocide for Red Ter
 | 1977 | Participated in Red Terror campaign |
 | 2008 | Convicted of genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Berhanu Bayeh" - https://en.wikipedia.org/wiki/Berhanu_Bayeh
 
@@ -53,3 +53,6 @@ This episode is often cited in discussions of post-regime-change insecurity, the
 ## Historical significance
 
 Bayeh’s case is typically used to illustrate how accountability processes after mass violence can stretch across decades, intertwining legal judgments, diplomatic realities, and the politics of memory.
+
+
+## References

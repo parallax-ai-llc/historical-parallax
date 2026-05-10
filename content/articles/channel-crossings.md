@@ -22,7 +22,7 @@ Tens of thousands of migrants have crossed the English Channel in small boats fr
 | 2021 | Over 28,000 crossed |
 | 2024 | Deadliest year for crossings |
 
-## References
+
 
 [^1]: Wikipedia, "Channel Crossings" - https://en.wikipedia.org/wiki/Channel_Crossings
 
@@ -49,3 +49,6 @@ Tens of thousands of migrants have crossed the English Channel in small boats fr
 ## Why It Matters
 
 - The issue is frequently used as a proxy for broader questions about immigration policy, border governance, and the balance between enforcement and humanitarian protections.
+
+
+## References

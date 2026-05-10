@@ -23,7 +23,7 @@ Sri Lankan journalist and cartoonist who was forcibly disappeared by Sri Lankan 
 | 2010 | Abducted and disappeared |
 | 2015 | Army intelligence officers arrested for his abduction |
 
-## References
+
 
 [^1]: Wikipedia, "Prageeth Eknaligoda" - https://en.wikipedia.org/wiki/Prageeth_Eknaligoda
 
@@ -49,3 +49,6 @@ This article summarizes widely reported claims and legal developments; consult c
 
 - Enforced disappearance
 - Human rights in Sri Lanka
+
+
+## References

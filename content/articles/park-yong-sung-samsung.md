@@ -22,7 +22,7 @@ Former Doosan Group chairman convicted in a massive corruption and tax evasion s
 | 2005 | Convicted of embezzlement |
 | 2008 | Pardoned |
 
-## References
+
 
 [^1]: Wikipedia, "Park Yong-sung Samsung" - https://en.wikipedia.org/wiki/Park_Yong-sung_Samsung
 
@@ -48,3 +48,6 @@ This short article is intentionally high-level. If the linked reference is unava
 When sources are available, a fuller entry would typically document: the organization(s) involved, the specific charges and court findings, the sentence and any suspension, and any subsequent pardon or reinstatement, with dates and citations.
 
 These details help distinguish between allegations, convictions, and later executive actions.
+
+
+## References

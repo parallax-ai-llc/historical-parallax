@@ -22,7 +22,7 @@ Sudanese Arab militia leader who commanded the Janjaweed forces accused of genoc
 | 2003 | Led Janjaweed militia in Darfur |
 | 2017 | Arrested by Sudanese forces |
 
-## References
+
 
 [^1]: Wikipedia, "Musa Hilal" - https://en.wikipedia.org/wiki/Musa_Hilal
 
@@ -52,3 +52,6 @@ This section adds high-level factual context to the article on **musa hilal** wi
 ### Related topics
 - Comparable events or figures in the same region or time period.
 - Institutions, laws, or movements that shaped the topic or were shaped by it.
+
+
+## References

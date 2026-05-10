@@ -21,7 +21,7 @@ Chinese executive convicted of poisoning gaming billionaire Lin Qi over a busine
 |------|-------|
 | 2020 | Poisoned Lin Qi to death |
 
-## References
+
 
 [^1]: Wikipedia, "Xu Yao" - https://en.wikipedia.org/wiki/Xu_Yao
 
@@ -54,3 +54,6 @@ Sentencing details and exact charges can vary by translation and reporting; the 
 The death of Lin Qi prompted renewed attention to corporate security, governance, and internal disputes at high-growth technology firms in China.[^1]
 
 The event also intersected with broader public interest in Yoozoo Games’ business activities and entertainment investments during that period.[^1]
+
+
+## References

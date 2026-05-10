@@ -22,7 +22,7 @@ Tribal groups in the Indian Rebellion of 1857 who joined the uprising against Br
 | 1857 | Joined Indian Rebellion against British rule |
 | 1858 | Rebellion suppressed with brutal reprisals |
 
-## References
+
 
 [^1]: Wikipedia, "Paharis Rebels of 1857" - https://en.wikipedia.org/wiki/Paharis_Rebels_of_1857
 
@@ -51,3 +51,6 @@ After the rebellion was suppressed, British authorities carried out widespread r
 ## Legacy
 
 In later historical writing, smaller or less-documented rebel formations are often difficult to reconstruct in detail. They nonetheless matter for understanding how the 1857 conflict spread through local networks and why it was experienced as both a political rupture and a social crisis in many districts.
+
+
+## References

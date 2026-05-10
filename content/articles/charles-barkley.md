@@ -23,7 +23,7 @@ Charles Barkley won the 1993 MVP and was an 11-time All-Star. Known as the 'Roun
 | 1992 | Won Olympic gold with Dream Team |
 | 1993 | Won MVP with Phoenix Suns |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Barkley" - https://en.wikipedia.org/wiki/Charles_Barkley
 
@@ -51,3 +51,6 @@ Barkley's career is often cited as an example of how **strength, skill, and bask
 - NBA Most Valuable Player Award
 - 1992 United States men's Olympic basketball team ("Dream Team")
 
+
+
+## References

@@ -23,7 +23,7 @@ Pakistani Taliban leader who founded Tehrik-i-Taliban Pakistan (TTP). He was acc
 | 2007 | Accused of ordering assassination of Benazir Bhutto |
 | 2009 | Killed by CIA drone strike in South Waziristan |
 
-## References
+
 
 [^1]: Wikipedia, "Baitullah Mehsud" - https://en.wikipedia.org/wiki/Baitullah_Mehsud
 
@@ -60,3 +60,6 @@ Pakistani Taliban leader who founded Tehrik-i-Taliban Pakistan (TTP). He was acc
 
 - Background on Pakistan’s tribal areas (FATA) and militancy in South Waziristan.
 - Reporting on the formation of the TTP and its evolving relationship with the Pakistani state.
+
+
+## References

@@ -22,7 +22,7 @@ Former Senegalese PM charged with embezzlement of billions of CFA francs during 
 | 2005 | Charged with embezzlement of construction funds |
 | 2009 | Acquitted of all charges |
 
-## References
+
 
 [^1]: Wikipedia, "Idrissa Seck" - https://en.wikipedia.org/wiki/Idrissa_Seck
 
@@ -60,3 +60,6 @@ For biographical profiles that emphasize corruption claims, it is useful to cros
 
 - Politics of Senegal
 - Thiès (Senegal)
+
+
+## References

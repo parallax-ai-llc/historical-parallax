@@ -5,7 +5,7 @@ birth: "1913-10-25"
 death: "1991-09-25"
 nationality: "Germany"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Klaus_Barbie_in_uniform.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Klaus_Barbie"
 lastUpdated: "2026-02-21"

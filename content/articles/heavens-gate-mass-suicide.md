@@ -22,7 +22,7 @@ Mass suicide of 39 members of Heavens Gate cult in Rancho Santa Fe, California o
 | 1997 | 39 members found dead |
 | 1997 | Bodies discovered by former member |
 
-## References
+
 
 [^1]: Wikipedia, "Heavens Gate Mass Suicide" - https://en.wikipedia.org/wiki/Heavens_Gate_Mass_Suicide
 
@@ -65,3 +65,6 @@ Mass suicide of 39 members of Heavens Gate cult in Rancho Santa Fe, California o
 
 - The case is referenced in discussions about warning signs for group self-harm, including escalating apocalyptic certainty and logistical preparations.
 - It also informs debates about how media coverage can unintentionally romanticize or propagate harmful narratives, versus educating the public about coercive environments.
+
+
+## References

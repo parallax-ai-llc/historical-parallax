@@ -24,7 +24,7 @@ The International Criminal Tribunal for the former Yugoslavia convicted 90 indiv
 | 2017 | Mladić convicted of genocide |
 | 2017 | ICTY closed after 24 years |
 
-## References
+
 
 [^1]: Wikipedia, "Bosnian Genocide Verdicts" - https://en.wikipedia.org/wiki/Bosnian_Genocide_Verdicts
 
@@ -51,3 +51,6 @@ These judgments contributed to:
 - building precedents for how genocide is proved in court (intent, protected group, and the scope of destruction)
 - establishing detailed factual records through trial evidence
 - shaping later debates on accountability, reconciliation, and memorialization in the region
+
+
+## References

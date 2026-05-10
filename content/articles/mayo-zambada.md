@@ -19,7 +19,7 @@ Ismael 'El Mayo' Zambada was a co-leader of the Sinaloa Cartel and one of the lo
 |------|-------|
 | 1948 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -51,3 +51,6 @@ Ismael 'El Mayo' Zambada was a co-leader of the Sinaloa Cartel and one of the lo
 ## Further Reading
 - Wikipedia: Ismael Zambada García (see link above).
 - U.S. Department of Justice / U.S. Attorney press releases (for charging and custody updates).
+
+
+## References

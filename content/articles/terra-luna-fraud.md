@@ -21,7 +21,7 @@ $60 billion collapse of TerraUSD and Luna cryptocurrencies that wiped out invest
 |------|-------|
 | 2022 | $60 billion crypto collapse |
 
-## References
+
 
 [^1]: Wikipedia, "Terra Luna Fraud" - https://en.wikipedia.org/wiki/Terra_Luna_Fraud
 
@@ -61,3 +61,6 @@ This article provides a factual, high-level summary.
 For a detailed chronology, named defendants, and the status of specific cases, consult court filings, regulator announcements, and major investigative reporting alongside the encyclopedia entry.
 
 [^2]: Additional context summarized from the Wikipedia entry and its references: https://en.wikipedia.org/wiki/Terra_Luna_Fraud
+
+
+## References

@@ -22,7 +22,7 @@ Roman empress who allegedly poisoned her husband Emperor Claudius with mushrooms
 | 54 | Allegedly poisoned Emperor Claudius to make Nero emperor |
 | 59 | Murdered on orders of her son Emperor Nero |
 
-## References
+
 
 [^1]: Wikipedia, "Agrippina the Younger" - https://en.wikipedia.org/wiki/Agrippina_the_Younger
 
@@ -54,3 +54,6 @@ Roman empress who allegedly poisoned her husband Emperor Claudius with mushrooms
 
 - Much of what is “known” about Agrippina comes from later Roman historians writing with their own agendas.
 - Interpretations vary, but the outline of her familial ties and political prominence is broadly accepted.
+
+
+## References

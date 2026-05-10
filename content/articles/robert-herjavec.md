@@ -5,7 +5,7 @@ birth: "1963-09-14"
 death: "Unknown"
 nationality: "Croatian-Canadian"
 occupation: ["Entrepreneur", "Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/RobertHerjavec2023.jpg/3840px-RobertHerjavec2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Herjavec"
 lastUpdated: "2026-02-21"

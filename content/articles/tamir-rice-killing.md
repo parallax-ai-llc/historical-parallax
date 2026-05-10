@@ -21,7 +21,7 @@ Cleveland police shot and killed 12-year-old Tamir Rice within 2 seconds of arri
 |------|-------|
 | 2014 | 12-year-old shot within 2 seconds |
 
-## References
+
 
 [^1]: Wikipedia, "Tamir Rice Killing" - https://en.wikipedia.org/wiki/Tamir_Rice_Killing
 
@@ -57,3 +57,6 @@ The killing of Tamir Rice is frequently referenced in discussions of:
 - transparency and accountability in use-of-force investigations
 
 The case remains a prominent example in public discourse about policing and community trust in the United States.
+
+
+## References

@@ -21,7 +21,7 @@ Luxury music festival promoted by influencers that collapsed spectacularly. Atte
 |------|-------|
 | 2017 | Festival disaster |
 
-## References
+
 
 [^1]: Wikipedia, "Fyre Festival" - https://en.wikipedia.org/wiki/Fyre_Festival
 
@@ -52,3 +52,6 @@ Luxury music festival promoted by influencers that collapsed spectacularly. Atte
 
 - Event management failures
 - Consumer protection and advertising standards
+
+
+## References

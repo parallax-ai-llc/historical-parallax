@@ -5,7 +5,7 @@ birth: "1964-12-25"
 death: "2017-03-22"
 nationality: "United Kingdom"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Parliament_at_Sunset.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khalid_Masood"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Drove a car into pedestrians on Westminster Bridge and stabbed a police officer,
 |------|-------|
 | 2017 | Committed Westminster Bridge attack |
 
-## References
+
 
 [^1]: Wikipedia, "Khalid Masood" - https://en.wikipedia.org/wiki/Khalid_Masood
 
@@ -77,3 +77,5 @@ Drove a car into pedestrians on Westminster Bridge and stabbed a police officer,
 ## Source note
 
 This entry stays at a descriptive level and does not attempt to reconstruct disputed motives beyond what official investigations and reputable reporting conclude.
+
+## References

@@ -5,7 +5,7 @@ birth: "1835-04-09"
 death: "1909-12-17"
 nationality: "Belgium"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Leopold_ii_garter_knight.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/King_Leopold_II"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 | 1909 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "King Leopold II" - https://en.wikipedia.org/wiki/King_Leopold_II
 
@@ -66,3 +66,6 @@ Duplicate consolidated.
 
 - This article is intentionally high-level and focused on widely reported facts; specific quantitative claims (e.g., population loss totals) differ by historian and methodology.
 - For deeper study, consult multiple scholarly histories of the Congo Free State in addition to general encyclopedic sources.
+
+
+## References

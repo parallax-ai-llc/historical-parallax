@@ -21,7 +21,7 @@ Single armed robber stole €103 million in jewels from a Leviev diamonds exhibi
 |------|-------|
 | 2013 | €103 million in jewels stolen by one man |
 
-## References
+
 
 [^1]: Wikipedia, "Carlton Hotel Cannes Robbery 2013" - https://en.wikipedia.org/wiki/Carlton_Hotel_Cannes_Robbery_2013
 
@@ -53,3 +53,6 @@ Single armed robber stole €103 million in jewels from a Leviev diamonds exhibi
 - Large-scale jewelry thefts and organized retail crime patterns
 - Hotel/venue security for luxury exhibitions
 - Insurance and risk management for traveling collections
+
+
+## References

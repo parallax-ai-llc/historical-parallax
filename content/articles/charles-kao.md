@@ -24,7 +24,7 @@ Charles Kao won the 2009 Nobel Prize for fiber optics research enabling modern t
 | 2009 | Nobel Prize |
 | 2018 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Kao" - https://en.wikipedia.org/wiki/Charles_Kao
 
@@ -51,3 +51,6 @@ Charles Kao won the 2009 Nobel Prize for fiber optics research enabling modern t
 ## See also
 
 - Optical fiber
+
+
+## References

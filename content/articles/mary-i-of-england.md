@@ -22,7 +22,7 @@ English queen known as 'Bloody Mary' who burned 280 Protestants at the stake dur
 | 1555 | Began burning Protestants, executing 280 during her reign |
 | 1558 | Died ending the Marian persecutions |
 
-## References
+
 
 [^1]: Wikipedia, "Mary I of England" - https://en.wikipedia.org/wiki/Mary_I_of_England
 
@@ -53,3 +53,6 @@ Mary is often contrasted with her successor Elizabeth I, whose religious settlem
 Her reign is frequently judged through the lens of confessional conflict rather than administrative policy.
 Modern scholarship tends to emphasize the broader European context of religious violence in the 16th century.
 Mary's reputation remains contested, balancing her pursuit of religious uniformity against the human cost of persecution.
+
+
+## References

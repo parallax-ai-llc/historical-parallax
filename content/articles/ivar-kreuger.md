@@ -23,7 +23,7 @@ Swedish financier known as the 'Match King' who built a global match monopoly an
 | 1929 | Empire began unraveling after stock market crash |
 | 1932 | Committed suicide in Paris; fraud exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Ivar Kreuger" - https://en.wikipedia.org/wiki/Ivar_Kreuger
 
@@ -58,3 +58,6 @@ Swedish financier known as the 'Match King' who built a global match monopoly an
 ## References (Additional)
 
 [^2]: Wikipedia, "Ivar Kreuger" (overview of empire, collapse, and investigations) - https://en.wikipedia.org/wiki/Ivar_Kreuger
+
+
+## References

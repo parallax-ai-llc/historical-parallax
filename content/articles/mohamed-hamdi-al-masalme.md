@@ -21,7 +21,7 @@ Syrian intelligence officer accused of torturing detainees in regime prisons.
 |------|-------|
 | 2016 | Accused of systematic torture |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Hamdi al-Masalme" - https://en.wikipedia.org/wiki/Mohamed_Hamdi_al-Masalme
 
@@ -56,3 +56,6 @@ Syrian intelligence officer accused of torturing detainees in regime prisons.
 [^2]: United Nations Human Rights Council, Independent International Commission of Inquiry on the Syrian Arab Republic — reports and documentation: https://www.ohchr.org/
 [^3]: Human Rights Watch — Syria country reporting (detention and torture documentation): https://www.hrw.org/middle-east/n-africa/syria
 [^4]: Amnesty International — Syria reporting (detention and torture documentation): https://www.amnesty.org/en/location/middle-east-and-north-africa/syria/
+
+
+## References

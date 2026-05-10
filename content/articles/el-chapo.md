@@ -22,7 +22,7 @@ See Joaquin Guzman.
 | 1989 | Led Sinaloa Cartel |
 | 2019 | Sentenced |
 
-## References
+
 
 [^1]: Wikipedia, "El Chapo" - https://en.wikipedia.org/wiki/El_Chapo
 
@@ -70,3 +70,6 @@ For a more evidence-grounded treatment, typical primary sources include:
 ## References (Extended)
 
 - [^1] offers a consolidated timeline and link-outs; detailed claims should be corroborated using court records and authoritative reporting.
+
+
+## References

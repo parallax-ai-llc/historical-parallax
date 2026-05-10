@@ -43,7 +43,7 @@ lastUpdated: "2026-02-26"
 - Became a well-known figure in true-crime media due to the combination of the crimes, surrender, and later interview material.
 - His case is frequently referenced in discussions about offender profiling and post-offense behavior (e.g., surrendering and cooperating).
 
-## References
+
 
 [^1]: Wikipedia, "Ed Kemper" - https://en.wikipedia.org/wiki/Ed_Kemper
 
@@ -51,3 +51,6 @@ lastUpdated: "2026-02-26"
 
 - "Co-ed Killer" (nickname used in some media coverage of the 1972–1973 murders)
 - Santa Cruz, California (location associated with parts of the case)
+
+
+## References

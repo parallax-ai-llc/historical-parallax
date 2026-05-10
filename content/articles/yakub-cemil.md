@@ -22,7 +22,7 @@ Ottoman special operations agent who carried out political assassinations for th
 | 1913 | Carried out political assassinations |
 | 1916 | Executed for insubordination |
 
-## References
+
 
 [^1]: Wikipedia, "Yakub Cemil" - https://en.wikipedia.org/wiki/Yakub_Cemil
 
@@ -48,3 +48,6 @@ Ottoman special operations agent who carried out political assassinations for th
 ## Notes
 
 Because many events are reconstructed from political memoirs and later histories, narratives can differ by author; readers should cross-check details such as dates, participants, and motives.
+
+
+## References

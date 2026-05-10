@@ -21,7 +21,7 @@ Most powerful crime boss in Uzbekistan, controlling organized crime through conn
 |------|-------|
 | 2000 | Controlled major organized crime operations in Uzbekistan |
 
-## References
+
 
 [^1]: Wikipedia, "Salim Abduvaliyev" - https://en.wikipedia.org/wiki/Salim_Abduvaliyev
 
@@ -67,3 +67,6 @@ Most powerful crime boss in Uzbekistan, controlling organized crime through conn
 
 - Organized crime in Central Asia (overview topic)
 - Uzbekistan politics under Islam Karimov (context topic)
+
+
+## References

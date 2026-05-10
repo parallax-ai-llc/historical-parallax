@@ -22,7 +22,7 @@ Conti ransomware group attacked Costa Rica's government systems forcing the coun
 | 2022 | Conti attacked Costa Rican government systems |
 | 2022 | Costa Rica declared national emergency |
 
-## References
+
 
 [^1]: Wikipedia, "Conti Costa Rica Attack" - https://en.wikipedia.org/wiki/Conti_Costa_Rica_Attack
 
@@ -51,3 +51,6 @@ The case is often cited in discussions of ransomware risk to critical government
 - Ransomware as national-level disruption risk
 - Multi-agency incident response and recovery
 - Extortion pressure beyond purely financial targets
+
+
+## References

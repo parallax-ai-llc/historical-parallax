@@ -21,7 +21,7 @@ Chinese police chief convicted of corruption and connections to organized crime.
 |------|-------|
 | 2021 | Convicted of corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Zhu Haibin" - https://en.wikipedia.org/wiki/Zhu_Haibin
 
@@ -49,3 +49,6 @@ Because names can have multiple romanizations, and because English-language cove
 
 [^2]: Central Commission for Discipline Inspection (CCDI) — https://www.ccdi.gov.cn/
 [^3]: National Supervisory Commission (NSC) overview (English) — https://www.gov.cn/english/
+
+
+## References

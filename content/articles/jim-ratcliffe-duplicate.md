@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1952 | See James Ratcliffe |
 
-## References
+
 
 [^1]: Wikipedia, "Jim Ratcliffe duplicate" - https://en.wikipedia.org/wiki/Jim_Ratcliffe_duplicate
 
@@ -62,3 +62,6 @@ If you maintain a clean person index, treat this file as:
 
 - Jim Ratcliffe (canonical biography entry)
 - INEOS (company)
+
+
+## References

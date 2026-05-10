@@ -22,7 +22,7 @@ lastUpdated: "2026-02-26"
 | 2010 | Elected President of the Philippines |
 | 2016 | Left office; succeeded by Rodrigo Duterte |
 
-## References
+
 
 [^1]: Wikipedia, "Benigno Aquino III" - https://en.wikipedia.org/wiki/Benigno_Aquino_III
 
@@ -61,3 +61,6 @@ Assessments of his legacy often vary by emphasis on:
 - growth and governance indicators
 - human costs of policy failures or crises
 - the broader trajectory of democratic institutions in the 2010s
+
+
+## References

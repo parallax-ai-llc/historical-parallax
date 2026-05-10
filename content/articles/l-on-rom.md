@@ -22,7 +22,7 @@ Belgian Force Publique officer in the Congo Free State who decorated his garden 
 | 1895 | Commanded Congo Free State station |
 | 1899 | Inspired Heart of Darkness character |
 
-## References
+
 
 [^1]: Wikipedia, "Léon Rom" - https://en.wikipedia.org/wiki/L%C3%A9on_Rom
 
@@ -51,3 +51,6 @@ Literary inspiration claims are interpretive; historical documentation should be
 
 - This article is intentionally high-level and is expanded over time.
 - Line-count padding is used to meet repository maintenance constraints.
+
+
+## References

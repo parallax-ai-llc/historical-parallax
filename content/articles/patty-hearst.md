@@ -24,7 +24,7 @@ American heiress kidnapped by the Symbionese Liberation Army in 1974 who later p
 | 1976 | Convicted of bank robbery, sentenced to 7 years |
 | 2001 | Pardoned by President Clinton |
 
-## References
+
 
 [^1]: Wikipedia, "Patty Hearst" - https://en.wikipedia.org/wiki/Patty_Hearst
 
@@ -49,3 +49,6 @@ Hearst's story has been retold in books, documentaries, and films, and it contin
 - Symbionese Liberation Army
 - Stockholm syndrome (popular concept)
 - Duress in criminal law
+
+
+## References

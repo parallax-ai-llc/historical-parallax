@@ -23,7 +23,7 @@ American jewel thief who has been stealing diamonds and jewelry from high-end st
 | 2013 | Arrested for stealing ring at Saks Fifth Avenue |
 | 2015 | Documentary 'The Life and Crimes of Doris Payne' released |
 
-## References
+
 
 [^1]: Wikipedia, "Doris Payne" - https://en.wikipedia.org/wiki/Doris_Payne
 
@@ -48,3 +48,6 @@ Her story has been covered in documentary and media profiles that frame her as a
 - Shoplifting
 - Confidence trick
 - Jewelry theft cases
+
+
+## References

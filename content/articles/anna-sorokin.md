@@ -37,7 +37,7 @@ Anna Sorokin's criminal career came to an end through law enforcement action or 
 | 1991 | Born |
 | ? | Career ended |
 
-## References
+
 [^1]: Encyclopedia of Criminal History.
 [^2]: International Criminal Records.
 [^3]: Court and law enforcement records.
@@ -53,3 +53,6 @@ Public reporting describes Sorokin's fraud as relying on an invented identity, f
 
 ## Media and Legacy
 Sorokin's story has been covered extensively in journalism and popular culture, including dramatized adaptations that helped popularize the term "scam heiress" in mainstream discourse.
+
+
+## References

@@ -21,7 +21,7 @@ Young Swedish-Lebanese crime boss controlling drug networks across Scandinavia.
 |------|-------|
 | 2021 | Major drug trafficking operations |
 
-## References
+
 
 [^1]: Wikipedia, "Jens Philip Lundin" - https://en.wikipedia.org/wiki/Jens_Philip_Lundin
 
@@ -73,3 +73,6 @@ Young Swedish-Lebanese crime boss controlling drug networks across Scandinavia.
 - Nordic drug trafficking routes
 - Money laundering methods in cash-based markets
 
+
+
+## References

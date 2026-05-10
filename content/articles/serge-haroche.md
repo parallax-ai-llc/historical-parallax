@@ -5,7 +5,7 @@ birth: "1944-09-11"
 death: "Unknown"
 nationality: "French"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Serge_Haroche_1_2012.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Serge_Haroche"
 lastUpdated: "2026-02-21"

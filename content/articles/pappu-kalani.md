@@ -21,7 +21,7 @@ Indian gangster-politician convicted of murder who continued to wield power from
 |------|-------|
 | 2013 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Pappu Kalani" - https://en.wikipedia.org/wiki/Pappu_Kalani
 
@@ -71,3 +71,6 @@ Kalani is reported to have emerged as a syndicate leader during the late 1980s, 
 ## Notes
 
 This article summarizes widely reported, high-level facts from the cited reference. Specific allegations, counts of cases, and detailed incident narratives should be verified against primary court records and contemporaneous reporting.
+
+
+## References

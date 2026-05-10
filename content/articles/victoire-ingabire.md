@@ -21,7 +21,7 @@ Rwandan opposition leader imprisoned for 8 years on charges of denying the genoc
 |------|-------|
 | 2012 | Convicted of genocide ideology |
 
-## References
+
 
 [^1]: Wikipedia, "Victoire Ingabire" - https://en.wikipedia.org/wiki/Victoire_Ingabire
 
@@ -63,3 +63,6 @@ Ingabire has continued to be associated with calls for greater political space i
 - Rwandan politics after the 1994 genocide
 - Genocide ideology laws and political speech
 - Political opposition movements in exile
+
+
+## References

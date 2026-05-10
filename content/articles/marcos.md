@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Marcos" - https://en.wikipedia.org/wiki/Marcos
 
@@ -69,3 +69,6 @@ Duplicate consolidated.
 
 [^2]: Encyclopaedia Britannica, "Ferdinand Marcos" - https://www.britannica.com/biography/Ferdinand-Marcos
 [^3]: Philippines official and archival collections are commonly cited in secondary histories; see Wikipedia reference for a starting bibliography.
+
+
+## References

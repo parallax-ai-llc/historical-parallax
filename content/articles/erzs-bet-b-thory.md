@@ -21,7 +21,7 @@ Hungarian countess known as the Blood Countess who allegedly tortured and killed
 |------|-------|
 | 1610 | Arrested and walled up in her castle |
 
-## References
+
 
 [^1]: Wikipedia, "Erzsébet Báthory" - https://en.wikipedia.org/wiki/Erzs%C3%A9bet_B%C3%A1thory
 
@@ -51,3 +51,6 @@ Hungarian countess known as the Blood Countess who allegedly tortured and killed
 
 - Báthory’s story became a durable part of Central European folklore and later popular culture, frequently linked (sometimes inaccurately) to vampire and gothic traditions.
 - She is often referenced as a case study in how gender, aristocratic power, and state politics can shape criminal narratives in early modern Europe.
+
+
+## References

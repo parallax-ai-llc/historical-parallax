@@ -23,7 +23,7 @@ Hanwha Group chairman convicted of assaulting a bar employee with a steel pipe a
 | 2012 | Convicted of embezzlement |
 | 2015 | Pardoned |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Seung-youn Hanwha" - https://en.wikipedia.org/wiki/Kim_Seung-youn_Hanwha
 
@@ -50,3 +50,6 @@ Hanwha Group chairman convicted of assaulting a bar employee with a steel pipe a
 - Wikipedia article linked above for a starting overview.
 - Reporting on South Korean corporate governance and chaebol legal reforms.
 - Case studies on executive accountability and the use of presidential pardons.
+
+
+## References

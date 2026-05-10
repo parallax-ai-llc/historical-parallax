@@ -23,7 +23,7 @@ American art forger who donated forged paintings to over 50 museums across the U
 | 2010 | Exposed by registrar Matthew Leininger |
 | 2014 | Documentary 'Art and Craft' released |
 
-## References
+
 
 [^1]: Wikipedia, "Mark Landis" - https://en.wikipedia.org/wiki/Mark_Landis
 
@@ -48,3 +48,6 @@ The documentary *Art and Craft* helped popularize the story, framing it as a ble
 ## Why the case is studied
 
 In practice, the Landis episode is often treated as a training case about internal controls: separation of duties for acquisitions, documentation requirements, and the value of independent review when an offer seems unusually generous.
+
+
+## References

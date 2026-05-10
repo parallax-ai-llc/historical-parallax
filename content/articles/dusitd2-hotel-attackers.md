@@ -21,7 +21,7 @@ Al-Shabaab terrorists who attacked the DusitD2 hotel complex in Nairobi killing 
 |------|-------|
 | 2019 | Attacked Nairobi hotel complex |
 
-## References
+
 
 [^1]: Wikipedia, "DusitD2 Hotel Attackers" - https://en.wikipedia.org/wiki/DusitD2_Hotel_Attackers
 
@@ -86,3 +86,6 @@ In that context, the collective label helps connect readers to:
 
 - Incident overview: https://en.wikipedia.org/wiki/2019_Nairobi_attack
 - Al-Shabaab: https://en.wikipedia.org/wiki/Al-Shabaab_(militant_group)
+
+
+## References

@@ -54,7 +54,7 @@ The case is frequently mentioned in broader context as part of:
 - Public attention to corruption in large-scale construction and transport projects
 - The political and institutional challenges of oversight in state-directed infrastructure spending
 
-## References
+
 
 [^1]: Wikipedia, "Serik Burkitbayev" - https://en.wikipedia.org/wiki/Serik_Burkitbayev
 
@@ -80,3 +80,6 @@ In policy discussions, a minister-level corruption conviction is often used to i
 - Public procurement integrity and infrastructure governance
 - Anti-corruption enforcement in post-Soviet states
 - Oversight mechanisms for state-led construction programs
+
+
+## References

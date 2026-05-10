@@ -22,7 +22,7 @@ Brigid Kosgei broke the women's marathon WR with 2:14:04 at 2019 Chicago.
 | 2019 | Set marathon WR of 2:14:04 |
 | 2021 | Won Olympic silver at Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Brigid Kosgei" - https://en.wikipedia.org/wiki/Brigid_Kosgei
 
@@ -56,3 +56,6 @@ Brigid Kosgei broke the women's marathon WR with 2:14:04 at 2019 Chicago.
 - Chicago Marathon
 - Women’s marathon world record progression
 - Kenyan distance running
+
+
+## References

@@ -24,7 +24,7 @@ Mexican drug lord known as 'Don Neto' who co-founded the Guadalajara Cartel. He 
 | 1985 | Sentenced to 40 years |
 | 2016 | Released to house arrest due to health |
 
-## References
+
 
 [^1]: Wikipedia, "Ernesto Fonseca Carrillo" - https://en.wikipedia.org/wiki/Ernesto_Fonseca_Carrillo
 
@@ -48,3 +48,6 @@ Mexican drug lord known as 'Don Neto' who co-founded the Guadalajara Cartel. He 
 Fonseca Carrillo's prosecution and later house arrest are frequently cited in discussions about impunity, institutional corruption, and the long-running evolution of organized crime in Mexico.
 
 The era he represents is often used to explain how fragmented successor organizations emerged after major arrests.
+
+
+## References

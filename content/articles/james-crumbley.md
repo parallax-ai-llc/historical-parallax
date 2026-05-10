@@ -21,7 +21,7 @@ Father of Oxford school shooter convicted of involuntary manslaughter for enabli
 |------|-------|
 | 2024 | Convicted of involuntary manslaughter |
 
-## References
+
 
 [^1]: Wikipedia, "James Crumbley" - https://en.wikipedia.org/wiki/James_Crumbley
 
@@ -56,3 +56,5 @@ Father of Oxford school shooter convicted of involuntary manslaughter for enabli
 ## References
 
 [^2]: Wikipedia, "Oxford High School shooting" - https://en.wikipedia.org/wiki/Oxford_High_School_shooting
+
+

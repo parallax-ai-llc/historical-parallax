@@ -21,7 +21,7 @@ Already covered - see Kinji Imanishi. Duplicate check.
 |------|-------|
 | 1902 | Born in Kyoto |
 
-## References
+
 
 [^1]: Wikipedia, "Imanishi Kinji" - https://en.wikipedia.org/wiki/Imanishi_Kinji
 
@@ -50,3 +50,6 @@ Already covered - see Kinji Imanishi. Duplicate check.
 - Japanese macaque (Macaca fuscata) field studies
 - Japanese primatology and long-term observational traditions
 - Ecology and the study of animal sociality
+
+
+## References

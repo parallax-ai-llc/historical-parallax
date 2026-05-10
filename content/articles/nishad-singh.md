@@ -21,7 +21,7 @@ FTX engineering director who pleaded guilty to fraud in the crypto exchange coll
 |------|-------|
 | 2023 | Pleaded guilty to FTX fraud charges |
 
-## References
+
 
 [^1]: Wikipedia, "Nishad Singh" - https://en.wikipedia.org/wiki/Nishad_Singh
 
@@ -57,3 +57,6 @@ FTX engineering director who pleaded guilty to fraud in the crypto exchange coll
 
 - Birth/death fields in this dataset may be placeholders; verify biographical details via the cited sources.
 - For a more complete timeline (employment/education, specific plea counts, and procedural milestones), consult court documents and reputable reporting.
+
+
+## References

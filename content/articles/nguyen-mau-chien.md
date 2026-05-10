@@ -21,7 +21,7 @@ Vietnamese wildlife trafficking boss who smuggled tons of ivory and rhino horn f
 |------|-------|
 | 2019 | Convicted of wildlife trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Nguyen Mau Chien" - https://en.wikipedia.org/wiki/Nguyen_Mau_Chien
 
@@ -51,3 +51,6 @@ Vietnamese wildlife trafficking boss who smuggled tons of ivory and rhino horn f
 ### Related topics
 
 - CITES and international wildlife trade regulation
+
+
+## References

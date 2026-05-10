@@ -5,7 +5,7 @@ birth: "1927-12-12"
 death: "1990-06-03"
 nationality: "American"
 occupation: ["Physicist", "Inventor", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Robert_Noyce_with_Motherboard_1959.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Noyce"
 lastUpdated: "2026-02-21"

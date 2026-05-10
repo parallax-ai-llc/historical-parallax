@@ -24,7 +24,7 @@ King of Belgium who privately owned the Congo Free State where an estimated 10 m
 | 1904 | International outcry over atrocities |
 | 1908 | Forced to hand Congo to Belgian state |
 
-## References
+
 
 [^1]: Wikipedia, "Leopold II" - https://en.wikipedia.org/wiki/Leopold_II
 ## Background
@@ -50,3 +50,6 @@ Leopold II’s memory remains contested in Belgium and internationally, with ong
 
 - This page is a high-level overview intended to be expanded with additional sources.
 - When adding detailed claims (dates, numbers, quotations), prefer primary documents or reputable historical scholarship.
+
+
+## References

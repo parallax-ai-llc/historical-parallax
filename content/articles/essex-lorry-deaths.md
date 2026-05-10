@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2019 | 39 migrants found dead in lorry |
 
-## References
+
 
 [^1]: Wikipedia, "Essex Lorry Deaths" - https://en.wikipedia.org/wiki/Essex_Lorry_Deaths
 
@@ -60,3 +60,6 @@ lastUpdated: "2026-02-26"
 - Sealed transport methods are lethal: small delays or equipment failures can become fatal when ventilation is cut off.
 - Smuggling networks often distribute tasks across many people, complicating investigation but enabling prosecutions via logistics evidence.
 
+
+
+## References

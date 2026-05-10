@@ -23,7 +23,7 @@ Rwandan historian who co-founded RTLM, the hate radio station that broadcast cal
 | 1994 | RTLM broadcast during genocide |
 | 2003 | Convicted in landmark Media Case |
 
-## References
+
 
 [^1]: Wikipedia, "Ferdinand Nahimana Media" - https://en.wikipedia.org/wiki/Ferdinand_Nahimana_Media
 
@@ -50,3 +50,6 @@ This article title uses "Media" as a descriptor; most references discuss Ferdina
 ## References (additional)
 
 [^2]: Wikipedia, "Ferdinand Nahimana" - https://en.wikipedia.org/wiki/Ferdinand_Nahimana
+
+
+## References

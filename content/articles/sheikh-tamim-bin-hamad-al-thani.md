@@ -5,7 +5,7 @@ birth: "1980-06-03"
 death: "Unknown"
 nationality: "Qatar"
 occupation: ["Controversial Ruler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Emir_of_Qatar_on_February_19%2C_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sheikh_Tamim_bin_Hamad_Al_Thani"
 lastUpdated: "2026-02-26"

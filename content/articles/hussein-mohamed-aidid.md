@@ -22,7 +22,7 @@ Son of Mohamed Farrah Aidid who succeeded his father as warlord. Born in the US 
 | 1996 | Succeeded father as warlord |
 | 2007 | Became Interior Minister |
 
-## References
+
 
 [^1]: Wikipedia, "Hussein Mohamed Aidid" - https://en.wikipedia.org/wiki/Hussein_Mohamed_Aidid
 
@@ -57,3 +57,6 @@ Biographical coverage tends to frame Aidid’s story as an example of:
 
 - Somali Civil War
 - Politics of Somalia (post-1991)
+
+
+## References

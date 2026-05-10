@@ -21,7 +21,7 @@ Wildfires destroyed the historic town of Lahaina, Maui, killing 101 people. Hawa
 |------|-------|
 | 2023 | 101 killed; Lahaina destroyed |
 
-## References
+
 
 [^1]: Wikipedia, "Maui Wildfires 2023" - https://en.wikipedia.org/wiki/Maui_Wildfires_2023
 
@@ -60,3 +60,6 @@ Wildfires destroyed the historic town of Lahaina, Maui, killing 101 people. Hawa
 - Wildfire risk can increase in island environments during drought and high-wind events.
 - Early warnings, redundant communications, and evacuation route planning are critical in fast-moving fires.
 - Utility hardening (vegetation clearance, shutoff protocols, grid resilience) is a recurring focus after major fires.
+
+
+## References

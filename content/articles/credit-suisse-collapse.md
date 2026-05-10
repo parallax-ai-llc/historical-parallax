@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2023 | Collapsed and absorbed by UBS |
 
-## References
+
 
 [^1]: Wikipedia, "Credit Suisse Collapse" - https://en.wikipedia.org/wiki/Credit_Suisse_Collapse
 
@@ -61,3 +61,6 @@ lastUpdated: "2026-02-26"
 [^2]: UBS, "UBS to acquire Credit Suisse" (press release, 2023-03-19) - https://www.ubs.com/global/en/media/display-page-ndp/en-20230319-adhoc.html
 [^3]: Swiss National Bank (SNB), press releases on Credit Suisse/UBS liquidity assistance (March 2023) - https://www.snb.ch/en/the-snb/communication/press-releases
 [^4]: FINMA, communications on the Credit Suisse takeover and AT1 write-down (March 2023) - https://www.finma.ch/en/news-and-publications/
+
+
+## References

@@ -22,7 +22,7 @@ Military dictator of Congo-Brazzaville who ruled briefly before being ousted by 
 | 1977 | Became head of state |
 | 1979 | Ousted by Sassou Nguesso |
 
-## References
+
 
 [^1]: Wikipedia, "Joachim Yhombi-Opango" - https://en.wikipedia.org/wiki/Joachim_Yhombi-Opango
 
@@ -50,3 +50,6 @@ After his release, Yhombi-Opango remained a recognized political figure and symb
 
 - Denis Sassou Nguesso
 - Republic of the Congo politics (post-independence)
+
+
+## References

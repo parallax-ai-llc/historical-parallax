@@ -23,7 +23,7 @@ W.E. Moerner is an American physical chemist who shared the 2014 Nobel Prize in 
 | 1989 | First single molecule detection |
 | 2014 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "William Moerner" - https://en.wikipedia.org/wiki/William_Moerner
 
@@ -52,3 +52,6 @@ The 2014 Nobel Prize in Chemistry recognized advances in fluorescence microscopy
 
 - Single-molecule fluorescence
 - Super-resolution microscopy
+
+
+## References

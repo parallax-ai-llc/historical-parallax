@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 1995-07-11 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -49,3 +49,6 @@ This event had significant impact on law enforcement practices, public policy, a
 
 ## Ongoing Significance
 It is frequently referenced in discussions about genocide recognition, denial, and the long-term social repair required after mass violence.
+
+
+## References

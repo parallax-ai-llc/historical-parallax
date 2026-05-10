@@ -23,7 +23,7 @@ A set of political controversies tied to inter-Korean summit diplomacy, most not
 | 2003 | Investigations and political fallout intensified in South Korea |
 | 2010s | Past allegations resurfaced in ongoing debates about engagement strategy |
 
-## References
+
 
 ## Core issues typically discussed
 
@@ -50,3 +50,6 @@ Summit diplomacy with North Korea is commonly shaped by asymmetries of informati
 ## Historical significance
 
 The scandals are frequently cited as a reminder that high-stakes diplomacy can create incentives for secrecy and unconventional bargaining. They also illustrate how inter-Korean policy is not only a foreign-policy question but a central axis of South Korean domestic political competition.
+
+
+## References

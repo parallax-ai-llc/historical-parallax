@@ -44,10 +44,13 @@ Biographical summaries also note a serious early conviction: in the 1970s he was
 - **Yamaguchi-gumi** (organization)
 - **Kodo-kai** (affiliate group)
 
-## References
+
 
 [^1]: Wikipedia, "Kenichi Shinoda" (Shinobu Tsukasa) - https://en.wikipedia.org/wiki/Kenichi_Shinoda
 
 ## Further Reading
 
 - Wikipedia overview of the Yamaguchi-gumi: https://en.wikipedia.org/wiki/Yamaguchi-gumi
+
+
+## References

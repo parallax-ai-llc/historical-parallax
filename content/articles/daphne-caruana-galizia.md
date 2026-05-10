@@ -24,7 +24,7 @@ Maltese investigative journalist who was assassinated by a car bomb for her repo
 | 2019 | Investigation led to PM Joseph Muscat's resignation |
 | 2022 | Hitman and mastermind convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Daphne Caruana Galizia" - https://en.wikipedia.org/wiki/Daphne_Caruana_Galizia
 
@@ -50,3 +50,6 @@ Maltese investigative journalist who was assassinated by a car bomb for her repo
 
 ### Related links
 - Use the Wikipedia link in `socialLinks` (if present) as a navigation hub to find additional citations.
+
+
+## References

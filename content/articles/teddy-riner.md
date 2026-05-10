@@ -23,7 +23,7 @@ Teddy Riner won three individual Olympic golds and 11 World titles, undefeated f
 | 2016 | Won gold at Rio |
 | 2024 | Won third gold at Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Teddy Riner" - https://en.wikipedia.org/wiki/Teddy_Riner
 
@@ -49,3 +49,6 @@ Teddy Riner won three individual Olympic golds and 11 World titles, undefeated f
 ## Further Reading
 
 - See the reference link(s) above for expanded detail and primary sourcing.
+
+
+## References

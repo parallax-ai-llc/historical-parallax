@@ -21,7 +21,7 @@ Russian hacker convicted of hacking LinkedIn, Dropbox, and Formspring, affecting
 |------|-------|
 | 2020 | Convicted of hacking major platforms |
 
-## References
+
 
 [^1]: Wikipedia, "Yevgeny Nikulin" - https://en.wikipedia.org/wiki/Yevgeny_Nikulin
 
@@ -61,3 +61,6 @@ Large credential theft incidents have downstream effects that extend beyond the 
 
 [^2]: U.S. Department of Justice press releases and case summaries (Nikulin/LinkedIn-related proceedings) - https://www.justice.gov/
 [^3]: Public reporting on the 2016 Czech arrest and extradition dispute - https://www.reuters.com/
+
+
+## References

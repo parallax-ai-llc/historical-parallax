@@ -22,7 +22,7 @@ Former Indonesian military commander indicted by a UN panel for crimes against h
 | 1999 | Oversaw military operations during East Timor independence violence |
 | 2003 | Indicted by UN panel for crimes against humanity |
 
-## References
+
 
 [^1]: Wikipedia, "Wiranto" - https://en.wikipedia.org/wiki/Wiranto
 
@@ -51,3 +51,6 @@ Wiranto’s biography is frequently used as a case study in civil–military rel
 
 - East Timor independence process and 1999 violence
 - Transitional justice debates in post-authoritarian states
+
+
+## References

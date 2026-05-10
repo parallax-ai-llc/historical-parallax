@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1949 | See Bernard Arnault |
 
-## References
+
 
 [^1]: Wikipedia, "Bernard Arnault dup2" - https://en.wikipedia.org/wiki/Bernard_Arnault_dup2
 
@@ -73,3 +73,6 @@ LVMH is typically described as a multi-division luxury conglomerate whose best-k
 ## References (Additional Context)
 
 - General reference: Bernard Arnault’s main Wikipedia biography (canonical page title: "Bernard Arnault").
+
+
+## References

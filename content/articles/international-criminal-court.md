@@ -22,7 +22,7 @@ Permanent international court established in 2002 to prosecute genocide, war cri
 | 2009 | First arrest warrant for sitting head of state |
 | 2023 | Warrant issued for Putin |
 
-## References
+
 
 [^1]: Wikipedia, "International Criminal Court" - https://en.wikipedia.org/wiki/International_Criminal_Court
 
@@ -54,3 +54,6 @@ Permanent international court established in 2002 to prosecute genocide, war cri
 ## Additional Reading
 
 [^2]: ICC official website (overview and cases) - https://www.icc-cpi.int/
+
+
+## References

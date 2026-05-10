@@ -5,7 +5,7 @@ birth: "1642-03-01"
 death: "1708-12-05"
 nationality: "Japanese"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Seki.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seki_Takakazu"
 lastUpdated: "2026-02-21"

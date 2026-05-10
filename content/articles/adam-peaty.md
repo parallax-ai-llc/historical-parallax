@@ -23,7 +23,7 @@ Adam Peaty dominated 100m breaststroke with gold in 2016 and 2021, first under 5
 | 2019 | Set WR of 56.88s |
 | 2021 | Won second gold at Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Adam Peaty" - https://en.wikipedia.org/wiki/Adam_Peaty
 
@@ -51,3 +51,6 @@ Peaty is often cited in discussions of modern swimming for combining elite speed
 - For biographies, award records and official competition databases are usually the most reliable for results and dates.
 - For conflicts and security topics, contemporary reporting may be incomplete; later research can revise early accounts.
 - This article keeps the overview high-level and points to the reference section for deeper sourcing.
+
+
+## References

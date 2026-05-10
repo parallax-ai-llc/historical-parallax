@@ -21,7 +21,7 @@ Led the 2004 coup against Aristide and was later convicted in the US of money la
 |------|-------|
 | 2004 | Led armed rebellion overthrowing President Aristide |
 
-## References
+
 
 [^1]: Wikipedia, "Guy Philippe" - https://en.wikipedia.org/wiki/Guy_Philippe
 
@@ -65,3 +65,6 @@ Led the 2004 coup against Aristide and was later convicted in the US of money la
 
 - U.S. Department of Justice press releases and U.S. federal court records (for plea/sentencing details).
 - Major international media coverage (e.g., Reuters/AP) around the 2017 arrest/plea and 2023 return to Haiti.
+
+
+## References

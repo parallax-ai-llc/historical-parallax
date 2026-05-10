@@ -44,10 +44,13 @@ Former Rwandan official convicted of genocide in Belgium for his role in organiz
 
 This article is a high-level summary based on publicly available reporting and the linked encyclopedia entry. For definitive details (charges, findings, and sentence), consult the court judgment and primary-source reporting.
 
-## References
+
 
 [^1]: Wikipedia, "Philibert Muzima" - https://en.wikipedia.org/wiki/Philibert_Muzima
 
 ## See also
 
 - Universal jurisdiction prosecutions for genocide and crimes against humanity.
+
+
+## References

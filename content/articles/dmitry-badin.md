@@ -24,7 +24,7 @@ Russian GRU officer identified as the hacker behind the 2015 attack on the Germa
 | 2020 | German arrest warrant issued |
 | 2020 | US indicted him as part of GRU Unit 26165 |
 
-## References
+
 
 [^1]: Wikipedia, "Dmitry Badin" - https://en.wikipedia.org/wiki/Dmitry_Badin
 
@@ -50,3 +50,6 @@ Badin’s name appears in a wider pattern of attribution where specific individu
 ## See also
 
 - APT28 / Fancy Bear
+
+
+## References

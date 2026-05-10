@@ -21,7 +21,7 @@ Crew members of the Sewol ferry convicted of manslaughter for abandoning 304 pas
 |------|-------|
 | 2014 | Captain and crew convicted of negligence |
 
-## References
+
 
 [^1]: Wikipedia, "Sewol Ferry Crew" - https://en.wikipedia.org/wiki/Sewol_Ferry_Crew
 
@@ -80,3 +80,6 @@ The crew convictions were part of a wider set of investigations and proceedings 
 - the state’s disaster-response coordination and communication practices
 
 The overall societal impact extended beyond individual criminal outcomes to debates over prevention, oversight, and institutional reform.
+
+
+## References

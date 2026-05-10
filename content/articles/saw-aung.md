@@ -5,6 +5,7 @@ birth: "1850"
 death: "1939"
 nationality: "Myanmar"
 occupation: ["Historian", "Intellectual", "Writer", "Educator"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/A_Karen_woman.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karen_people"
 lastUpdated: "2026-01-08"

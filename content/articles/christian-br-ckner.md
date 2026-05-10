@@ -23,7 +23,7 @@ German convicted sex offender named as the prime suspect in the 2007 disappearan
 | 2020 | Named as suspect by German prosecutors |
 | 2024 | Trial for unrelated sexual offenses in Germany |
 
-## References
+
 
 [^1]: Wikipedia, "Christian Brückner" - https://en.wikipedia.org/wiki/Christian_Br%C3%BCckner
 
@@ -52,3 +52,6 @@ German convicted sex offender named as the prime suspect in the 2007 disappearan
 - Controversies or critical challenges (if applicable)
 - Later years and reassessment
 - Further reading: biographies, primary documents, or governing-body records (as applicable)
+
+
+## References

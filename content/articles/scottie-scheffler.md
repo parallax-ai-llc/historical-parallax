@@ -3,6 +3,7 @@ name: "Scottie Scheffler"
 birth: "1996-06-21"
 nationality: "American"
 occupation: ["Golfer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Scottie_Scheffler_Ryder_Cup_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Scottie_Scheffler"
 lastUpdated: "2026-03-12"

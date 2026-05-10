@@ -24,7 +24,7 @@ Clinton Davisson shared the 1937 Nobel Prize for experimentally proving electron
 | 1937 | Nobel Prize |
 | 1958 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Clinton Davisson" - https://en.wikipedia.org/wiki/Clinton_Davisson
 
@@ -49,3 +49,6 @@ Clinton Davisson shared the 1937 Nobel Prize for experimentally proving electron
 - **Famous experiment:** Davisson–Germer electron diffraction
 - **Key implication:** electrons behave as waves under certain conditions
 - **Field:** experimental physics / early quantum mechanics
+
+
+## References

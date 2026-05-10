@@ -5,7 +5,7 @@ birth: "1871-02-07"
 death: "1957-01-25"
 nationality: "Japanese"
 occupation: ["Physician", "Bacteriologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiyoshi_Shiga.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kiyoshi_Shiga"
 lastUpdated: "2026-02-21"

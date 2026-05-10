@@ -21,7 +21,7 @@ Sudanese Janjaweed leader convicted by ICC of war crimes in Darfur.
 |------|-------|
 | 2024 | Convicted by ICC of Darfur war crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Muhammad Ali Abd-Al-Rahman" - https://en.wikipedia.org/wiki/Ali_Muhammad_Ali_Abd-Al-Rahman
 
@@ -71,3 +71,6 @@ Sudanese Janjaweed leader convicted by ICC of war crimes in Darfur.
 - **Janjaweed**: A label commonly used for Arab militias linked to violence in Darfur; definitions vary by source and over time.
 - **ICC arrest warrant / surrender**: Mechanisms by which suspects may be transferred to The Hague.
 - **War crimes vs. crimes against humanity**: Legal categories that differ in required elements and contextual thresholds.
+
+
+## References

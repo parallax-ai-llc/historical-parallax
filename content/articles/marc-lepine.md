@@ -5,7 +5,7 @@ birth: "1964-10-26"
 death: "1989-12-06"
 nationality: "Canada"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e9/Marclepine.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marc_L%C3%A9pine"
 lastUpdated: "2026-02-26"
@@ -19,7 +19,7 @@ Marc Lépine murdered 14 women at École Polytechnique in Montreal on December 6
 |------|-------|
 | 1964 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Context
@@ -49,3 +49,6 @@ Marc Lépine murdered 14 women at École Polytechnique in Montreal on December 6
 ## Additional references
 [^2]: Government of Canada — National Day of Remembrance and Action on Violence Against Women (December 6).
 [^3]: Wikipedia contributors, “Marc Lépine,” *Wikipedia* (overview and references).
+
+
+## References

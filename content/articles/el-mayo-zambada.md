@@ -21,7 +21,7 @@ Duplicate consolidated. See Ismael Zambada García.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "El Mayo Zambada" - https://en.wikipedia.org/wiki/El_Mayo_Zambada
 
@@ -55,3 +55,6 @@ For a fuller biography, prefer the canonical article for **Ismael Zambada Garcí
 ## Additional References
 
 - Wikipedia (primary consolidation source for this stub) [^1]
+
+
+## References

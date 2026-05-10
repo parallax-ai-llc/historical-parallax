@@ -22,7 +22,7 @@ Thai billionaire and former PM who returned from 15 years in exile and was immed
 | 2008 | Convicted of corruption in absentia |
 | 2023 | Returned from exile and immediately hospitalized |
 
-## References
+
 
 [^1]: Wikipedia, "Thaksin Shinawatra Return" - https://en.wikipedia.org/wiki/Thaksin_Shinawatra_Return
 
@@ -51,3 +51,6 @@ Thai billionaire and former PM who returned from 15 years in exile and was immed
 ## Notes
 
 This entry is intentionally high level. Specific legal outcomes (e.g., sentence modifications, pardons, or administrative decisions) should be stated with reference to official announcements.
+
+
+## References

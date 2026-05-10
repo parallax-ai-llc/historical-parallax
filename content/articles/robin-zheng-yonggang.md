@@ -73,7 +73,7 @@ The following are **common confusions** to check against during verification (li
 - entrepreneurs whose English name is “Robin” and whose surname is “Zheng/Cheng,”
 - similarly spelled names in battery, manufacturing, or textiles sectors.
 
-## References
+
 
 [^1]: Wikipedia (title missing), “Robin Zheng Yonggang” — https://en.wikipedia.org/wiki/Robin_Zheng_Yonggang
 
@@ -98,3 +98,6 @@ Examples of artifacts that can support a factual expansion (listed as research t
 - a regulatory filing that lists executive officers/directors,
 - a major media profile in Chinese or English with matching biographical anchors,
 - or a corrected Wikipedia page title that exists and clearly matches the same person.
+
+
+## References

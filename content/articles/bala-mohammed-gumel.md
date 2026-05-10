@@ -22,7 +22,7 @@ Former Nigerian comptroller-general of customs convicted of money laundering and
 | 2011 | Investigated for illegal enrichment |
 | 2015 | Convicted of money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Bala Mohammed Gumel" - https://en.wikipedia.org/wiki/Bala_Mohammed_Gumel
 
@@ -59,3 +59,6 @@ The comptroller-general role is a flagship position; enforcement actions against
 ### Limits of short summaries
 
 Brief encyclopedic entries may omit specifics such as the investigative agencies involved, the asset-tracing process, and the full list of charges. More detailed information typically appears in court records, anti-corruption agency releases, and contemporaneous reporting.
+
+
+## References

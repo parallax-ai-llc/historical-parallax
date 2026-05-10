@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1946 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "N. R. Narayana Murthy dup99" - https://en.wikipedia.org/wiki/N._R._Narayana_Murthy_dup99
 
@@ -55,3 +55,6 @@ This article is marked as a duplicate placeholder ("dup99"). The biographical no
 ## Additional references
 
 [^2]: Wikipedia, "N. R. Narayana Murthy" - https://en.wikipedia.org/wiki/N._R._Narayana_Murthy
+
+
+## References

@@ -24,7 +24,7 @@ Narada is a divine sage (devarishi) who appears throughout Hindu mythology as a 
 | Ancient | Composed the Narada Bhakti Sutra on divine love |
 | Ancient | Appeared in major events of the Mahabharata and Puranas |
 
-## References
+
 
 [^1]: Wikipedia, "Narada Muni" - https://en.wikipedia.org/wiki/Narada_Muni
 
@@ -51,3 +51,6 @@ Because Narada is a mythological and religious figure, details vary by tradition
 
 - Bhakti (devotion)
 - Hindu epics and Puranas
+
+
+## References

@@ -20,7 +20,7 @@ Metropolitan Police officer who kidnapped, raped, and murdered Sarah Everard whi
 |------|-------|
 | 2021 | Convicted of Sarah Everard's murder |
 
-## References
+
 
 [^1]: Wikipedia, "Wayne Couzens" - https://en.wikipedia.org/wiki/Wayne_Couzens
 
@@ -49,3 +49,6 @@ The murder and the fact that it was committed by a police officer prompted inter
 ## Notes
 
 Most published summaries emphasize the case as an example of an offender leveraging institutional authority to facilitate a violent crime, which is one reason it became a touchstone for policy and cultural discussion in the UK.[^1]
+
+
+## References

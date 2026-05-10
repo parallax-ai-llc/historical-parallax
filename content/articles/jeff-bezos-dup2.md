@@ -20,7 +20,7 @@ Duplicate.
 |------|-------|
 | 1964 | See Jeff Bezos |
 
-## References
+
 
 [^1]: Wikipedia, "Jeff Bezos dup2" - https://en.wikipedia.org/wiki/Jeff_Bezos_dup2
 
@@ -69,3 +69,6 @@ This article appears to be a duplicate placeholder entry ("dup2"). The sections 
 
 [^2]: Wikipedia, "Jeff Bezos" - https://en.wikipedia.org/wiki/Jeff_Bezos
 [^3]: Amazon, "About Amazon" - https://www.aboutamazon.com/
+
+
+## References

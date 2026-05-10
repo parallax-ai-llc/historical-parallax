@@ -21,7 +21,7 @@ Bulgarian businessman known as 'Tractor' accused of heading an organized crime g
 |------|-------|
 | 2010 | Arrested for leading criminal organization |
 
-## References
+
 
 [^1]: Wikipedia, "Alexei Petrov" - https://en.wikipedia.org/wiki/Alexei_Petrov
 
@@ -57,3 +57,6 @@ If more sources are added later, typical sections that can be filled without cha
 - Investigations and prosecutions (chronology, charges, outcomes)
 - Political and public connections (only if reliably sourced)
 - Legacy / public debate (summary of viewpoints with citations)
+
+
+## References

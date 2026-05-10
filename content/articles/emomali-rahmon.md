@@ -24,7 +24,7 @@ Tajik president since 1992 who has created a personality cult and authoritarian 
 | 2015 | Declared 'Founder of Peace and National Unity' |
 | 2020 | Won fifth term with 90% of vote |
 
-## References
+
 
 [^1]: Wikipedia, "Emomali Rahmon" - https://en.wikipedia.org/wiki/Emomali_Rahmon
 
@@ -49,3 +49,6 @@ Tajik president since 1992 who has created a personality cult and authoritarian 
 Rahmon's legacy is closely tied to the post-war stabilization of the Tajik state and the long-running trade-off between political order and political pluralism.
 
 This dynamic has made his tenure a recurring case study in post-Soviet authoritarian durability.
+
+
+## References

@@ -21,7 +21,7 @@ Israeli PM Yitzhak Rabin was assassinated by right-wing Israeli extremist Yigal 
 |------|-------|
 | 1995 | Rabin assassinated at peace rally |
 
-## References
+
 
 [^1]: Wikipedia, "Yitzhak Rabin Assassination" - https://en.wikipedia.org/wiki/Yitzhak_Rabin_Assassination
 
@@ -51,3 +51,6 @@ Israeli PM Yitzhak Rabin was assassinated by right-wing Israeli extremist Yigal 
 
 - The assassination is commonly cited as a major turning point in modern Israeli politics.
 - Rabin's death became a symbolic marker for the fragility of the peace process and the risks posed by internal extremist violence.
+
+
+## References

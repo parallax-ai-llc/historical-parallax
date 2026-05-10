@@ -5,7 +5,7 @@ birth: "1518-07-03"
 death: "1593-01-01"
 nationality: "Chinese"
 occupation: ["Physician", "Pharmacologist", "Naturalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Li_Shizhen_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Shizhen"
 lastUpdated: "2026-02-21"

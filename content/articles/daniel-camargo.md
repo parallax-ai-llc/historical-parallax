@@ -24,7 +24,7 @@ Colombian serial killer who raped and murdered over 150 young girls in Colombia 
 | 1986 | Arrested in Ecuador after killing 54 more victims |
 | 1994 | Murdered by a fellow inmate's nephew in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Camargo" - https://en.wikipedia.org/wiki/Daniel_Camargo
 
@@ -50,3 +50,6 @@ Colombian serial killer who raped and murdered over 150 young girls in Colombia 
 
 ### Related links
 - Use the Wikipedia link in `socialLinks` (if present) as a navigation hub to find additional citations.
+
+
+## References

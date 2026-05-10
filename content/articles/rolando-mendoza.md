@@ -21,7 +21,7 @@ Former Philippine police officer who hijacked a tourist bus in Manila, killing 8
 |------|-------|
 | 2010 | Hijacked tourist bus, killing 8 hostages |
 
-## References
+
 
 [^1]: Wikipedia, "Rolando Mendoza" - https://en.wikipedia.org/wiki/Rolando_Mendoza
 
@@ -54,3 +54,6 @@ Former Philippine police officer who hijacked a tourist bus in Manila, killing 8
 ## Notes
 
 - This article summarizes widely reported facts at a high level; detailed operational timelines and specific responsibility assessments vary by investigative reporting and official reviews.[^1]
+
+
+## References

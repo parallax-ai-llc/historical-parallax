@@ -22,7 +22,7 @@ Madagascar president who first came to power in a 2009 coup at age 34. His gover
 | 2009 | Seized power in coup |
 | 2018 | Elected president |
 
-## References
+
 
 [^1]: Wikipedia, "Andry Rajoelina" - https://en.wikipedia.org/wiki/Andry_Rajoelina
 
@@ -54,3 +54,6 @@ Madagascar president who first came to power in a 2009 coup at age 34. His gover
 ## Additional References
 
 [^2]: Britannica, "Andry Rajoelina" - https://www.britannica.com/biography/Andry-Rajoelina
+
+
+## References

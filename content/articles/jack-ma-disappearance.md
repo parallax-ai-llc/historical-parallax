@@ -22,7 +22,7 @@ Alibaba founder who disappeared from public view for three months after criticiz
 | 2020 | Criticized regulators and disappeared from public view |
 | 2021 | Reappeared after three months following government pressure on his companies |
 
-## References
+
 
 [^1]: Wikipedia, "Jack Ma Disappearance" - https://en.wikipedia.org/wiki/Jack_Ma_Disappearance
 
@@ -51,3 +51,6 @@ Alibaba founder who disappeared from public view for three months after criticiz
 
 [^2]: Ant Group (company site; general background): https://www.antgroup.com/
 [^3]: China platform regulation overview materials (general context): https://en.wikipedia.org/wiki/Regulation_of_large_technology_companies_in_China
+
+
+## References

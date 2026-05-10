@@ -22,7 +22,7 @@ lastUpdated: "2026-02-26"
 | 2015 | Led Hatton Garden heist at age 76 |
 | 2016 | Sentenced to 6 years |
 
-## References
+
 
 [^1]: Wikipedia, "Brian Reader" - https://en.wikipedia.org/wiki/Brian_Reader
 
@@ -56,3 +56,6 @@ lastUpdated: "2026-02-26"
 ## Why it matters
 
 - Reader’s story is frequently used to illustrate persistence of organized property crime networks over decades, and how older criminal contacts can remain operational.
+
+
+## References

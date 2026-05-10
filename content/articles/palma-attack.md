@@ -22,7 +22,7 @@ ISIS-linked militants attacked the coastal town of Palma in Cabo Delgado killing
 | 2021 | ISIS-linked militants attacked Palma killing dozens |
 | 2021 | Total Energies suspended gas project operations |
 
-## References
+
 
 [^1]: Wikipedia, "Palma Attack" - https://en.wikipedia.org/wiki/Palma_Attack
 
@@ -53,3 +53,6 @@ The Palma attack added to an already severe displacement crisis in the region. I
 ## Significance
 
 The event is often cited as a case study in how insurgent violence can intersect with extractive-industry megaprojects: the symbolic value of targeting a high-profile investment can be as consequential as the direct tactical gains.
+
+
+## References

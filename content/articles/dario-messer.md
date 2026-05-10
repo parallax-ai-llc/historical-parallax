@@ -22,7 +22,7 @@ lastUpdated: "2026-02-26"
 | 2018 | Identified as mastermind of laundering network |
 | 2019 | Captured in São Paulo |
 
-## References
+
 
 [^1]: Wikipedia, "Dario Messer" - https://en.wikipedia.org/wiki/Dario_Messer
 
@@ -51,3 +51,6 @@ The Messer case is frequently cited as an example of how financial “infrastruc
 
 - Money laundering
 - Operation Car Wash (Lava Jato)
+
+
+## References

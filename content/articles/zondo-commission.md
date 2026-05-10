@@ -22,7 +22,7 @@ Judicial commission investigated state capture in South Africa, revealing how th
 | 2018 | Commission began |
 | 2022 | Report recommended prosecutions |
 
-## References
+
 
 [^1]: Wikipedia, "Zondo Commission" - https://en.wikipedia.org/wiki/Zondo_Commission
 
@@ -51,3 +51,6 @@ Key areas covered in public reporting include:
 - How procurement systems can be exploited via complex contracting structures.
 - The difficulty of accountability when influence is exercised through informal networks rather than formal instructions.
 - The long institutional recovery required after sustained corruption.
+
+
+## References

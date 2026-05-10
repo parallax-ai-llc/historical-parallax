@@ -22,7 +22,7 @@ Josef Fritzl imprisoned his daughter in a basement for 24 years, fathering 7 chi
 | 1984 | Imprisoned daughter in cellar |
 | 2008 | Case discovered |
 
-## References
+
 
 [^1]: Wikipedia, "Fritzl Case" - https://en.wikipedia.org/wiki/Fritzl_Case
 
@@ -52,3 +52,6 @@ Josef Fritzl imprisoned his daughter in a basement for 24 years, fathering 7 chi
 ## Caution on Coverage
 
 - Reporting and retellings may be sensationalized; careful summaries focus on verified facts and the broader lessons for prevention and victim support.
+
+
+## References

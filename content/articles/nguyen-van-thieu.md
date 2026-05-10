@@ -23,7 +23,7 @@ South Vietnamese president who ruled during the most intense period of the Vietn
 | 1975 | Resigned and fled with national gold reserves |
 | 2001 | Died in exile in Boston |
 
-## References
+
 
 [^1]: Wikipedia, "Nguyen Van Thieu" - https://en.wikipedia.org/wiki/Nguyen_Van_Thieu
 
@@ -50,3 +50,6 @@ Thieu is commonly evaluated in the context of South Vietnam’s broader strategi
 ## Related Topics
 
 Vietnam War; ARVN; Paris Peace Accords (1973); Fall of Saigon (1975).
+
+
+## References

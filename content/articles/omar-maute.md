@@ -40,7 +40,7 @@ The 2017 siege of Marawi became one of the most significant urban battles in the
 
 Omar Maute was reported killed during the final phases of the Marawi battle. The collapse of the siege did not end extremist violence in the region, but it was widely treated as a strategic defeat for IS-aligned militants in the Philippines.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Omar Maute" - https://en.wikipedia.org/wiki/Omar_Maute
 
@@ -49,3 +49,6 @@ Omar Maute was reported killed during the final phases of the Marawi battle. The
 The Maute Group’s rise is often discussed alongside other militant organizations in Mindanao and the Sulu archipelago, where long-running separatist conflict, clan politics, and criminal economies have sometimes intersected with jihadist mobilization.[^1]
 
 Marawi’s reconstruction and the return of displaced residents became major post-siege policy challenges, highlighting the long tail of humanitarian and governance impacts after urban conflict.[^1]
+
+
+## References

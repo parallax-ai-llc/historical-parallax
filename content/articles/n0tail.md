@@ -22,7 +22,7 @@ N0tail (Johan Sundstein) won two consecutive Dota 2 The International championsh
 | 2018 | Won The International with OG |
 | 2019 | Won second consecutive The International |
 
-## References
+
 
 [^1]: Wikipedia, "N0tail" - https://en.wikipedia.org/wiki/N0tail
 
@@ -50,3 +50,6 @@ N0tail (Johan Sundstein) won two consecutive Dota 2 The International championsh
 
 - Esports biographies often focus on tournament results; additional context can include coaching, organization ownership, and post-competition roles.
 
+
+
+## References

@@ -24,7 +24,7 @@ Daniel Mendoza was a Sephardic Jewish boxer who became the 16th bare-knuckle box
 | 1795 | Lost championship to John Jackson |
 | 1836 | Died in London |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Mendoza" - https://en.wikipedia.org/wiki/Daniel_Mendoza
 
@@ -50,3 +50,6 @@ Daniel Mendoza was a Sephardic Jewish boxer who became the 16th bare-knuckle box
 
 ### Related links
 - Use the Wikipedia link in `socialLinks` (if present) as a navigation hub to find additional citations.
+
+
+## References

@@ -26,7 +26,7 @@ On December 17, 1903, the Wright Brothers made the first sustained powered fligh
 | 1905 | First practical airplane |
 | 1909 | Military contracts |
 
-## References
+
 
 [^1]: Wikipedia, "Wright Brothers Flight" - https://en.wikipedia.org/wiki/Wright_Brothers_Flight
 
@@ -49,3 +49,6 @@ The Wrights’ work helped establish key expectations for aviation progress:
 - measured testing and iteration
 - public demonstrations and documentation
 - rapid diffusion of ideas into military and civilian applications
+
+
+## References

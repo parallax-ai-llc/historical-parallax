@@ -23,7 +23,7 @@ Jay-Jay Okocha was one of the most skillful African footballers, famous for his 
 | 2002 | Joined Bolton Wanderers |
 | 2004 | Captained Nigeria at African Cup of Nations |
 
-## References
+
 
 [^1]: Wikipedia, "Jay-Jay Okocha" - https://en.wikipedia.org/wiki/Jay-Jay_Okocha
 ## Overview
@@ -48,3 +48,6 @@ He was a key figure for the Nigeria national team across multiple tournaments, i
 
 ## Style and legacy
 Okocha is frequently cited as an influential entertainer on the pitch, with highlights that remain widely shared. His reputation extends beyond statistics, reflecting the impact of memorable performances and technical artistry on how fans evaluate attacking players.
+
+
+## References

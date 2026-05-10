@@ -21,7 +21,7 @@ Burundian rebel leader accused of war crimes during the civil war, later became 
 |------|-------|
 | 2000 | Led rebel forces accused of atrocities |
 
-## References
+
 
 [^1]: Wikipedia, "Agathon Rwasa" - https://en.wikipedia.org/wiki/Agathon_Rwasa
 
@@ -63,3 +63,6 @@ After armed hostilities decreased and peace processes advanced, Rwasa shifted fr
 ## Further Reading
 
 - Wikipedia contributors. “Agathon Rwasa.” (Overview of biography, FNL involvement, and later political career.)[^1]
+
+
+## References

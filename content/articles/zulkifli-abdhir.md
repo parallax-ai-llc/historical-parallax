@@ -22,7 +22,7 @@ Malaysian bomb-maker known as Marwan who was one of the FBI's most wanted terror
 | 2007 | Placed on FBI Most Wanted Terrorists list |
 | 2015 | Killed in Mamasapano operation that also killed 44 police |
 
-## References
+
 
 [^1]: Wikipedia, "Zulkifli Abdhir" - https://en.wikipedia.org/wiki/Zulkifli_Abdhir
 
@@ -51,3 +51,6 @@ Accounts typically connect him to:
 ## Sources note
 
 This article is based on widely cited public summaries; details may vary across official reports and investigative journalism.
+
+
+## References

@@ -61,7 +61,7 @@ High-level themes that frequently appear in accounts of Ekpemupolo’s influence
 - **Critics** emphasize allegations of criminality, violence, and the entrenchment of armed patronage networks.
 - **Policy relevance**: His prominence is frequently used as a case study for the trade-offs in amnesty, demobilization, and outsourcing security functions.
 
-## References
+
 
 [^1]: Wikipedia, "Government Ekpemupolo" - https://en.wikipedia.org/wiki/Government_Ekpemupolo
 
@@ -78,3 +78,6 @@ Discussions of Ekpemupolo frequently include competing narratives:
 
 ## Notes on sourcing
 Details can vary by source and period. It is common to see differences between contemporaneous news coverage, government statements, and later retrospective accounts.
+
+
+## References

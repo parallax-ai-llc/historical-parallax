@@ -3,6 +3,7 @@ name: "Sean Baker"
 birth: "1971-02-26"
 nationality: "American"
 occupation: ["Film Director", "Screenwriter", "Editor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sean_Baker_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sean_Baker_(filmmaker)"
 lastUpdated: "2026-03-12"

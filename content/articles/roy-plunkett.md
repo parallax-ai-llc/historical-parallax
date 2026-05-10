@@ -5,7 +5,7 @@ birth: "1910-06-26"
 death: "1994-05-12"
 nationality: "American"
 occupation: ["Chemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/EL-1994-00019.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roy_Plunkett"
 lastUpdated: "2026-02-21"

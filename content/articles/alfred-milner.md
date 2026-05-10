@@ -62,7 +62,7 @@ British High Commissioner in South Africa who engineered the Boer War and oversa
 - In Britain, he is remembered as a significant imperial strategist and wartime minister, but also as a symbol of the moral costs of empire.
 - His protégés helped shape later debates about dominion status, imperial governance, and the transition from empire toward a Commonwealth-style structure.
 
-## References
+
 
 [^1]: Wikipedia, "Alfred Milner" - https://en.wikipedia.org/wiki/Alfred_Milner
 
@@ -80,3 +80,6 @@ Alfred Milner (1854–1925) was a British statesman and colonial administrator, 
 ## Historical debates
 - Admirers emphasize administrative capacity and strategic focus.
 - Critics highlight coercive dimensions of imperial policy and the costs borne by local populations.
+
+
+## References

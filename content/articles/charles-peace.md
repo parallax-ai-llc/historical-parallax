@@ -24,7 +24,7 @@ Victorian-era British criminal who was a master burglar and murderer. He led a d
 | 1879 | Attempted dramatic escape during transport |
 | 1879 | Hanged at Armley Gaol |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Peace" - https://en.wikipedia.org/wiki/Charles_Peace
 
@@ -51,3 +51,6 @@ Peace’s story has been retold in popular culture as an example of the “doubl
 ## See Also
 
 Victorian-era burglary, early metropolitan detective work, and the growth of mass-circulation newspapers that amplified sensational criminal cases.
+
+
+## References

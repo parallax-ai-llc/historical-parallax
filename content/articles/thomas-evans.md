@@ -44,7 +44,7 @@ The Evans case is frequently referenced in discussions of:
 - how militant groups use foreign recruits for publicity and perceived legitimacy,
 - and the policy debates around prevention, surveillance, and prosecution for returnees.
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Evans" - https://en.wikipedia.org/wiki/Thomas_Evans
 
@@ -52,3 +52,6 @@ The Evans case is frequently referenced in discussions of:
 
 - Al-Shabaab
 - Foreign fighters
+
+
+## References

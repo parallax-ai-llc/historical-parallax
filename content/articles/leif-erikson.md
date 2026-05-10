@@ -23,7 +23,7 @@ Leif Erikson was the first European to reach North America, approximately 500 ye
 | c.1000 | Established Norse settlement at L'Anse aux Meadows |
 | c.1020 | Died in Greenland |
 
-## References
+
 
 [^1]: Wikipedia, "Leif Erikson" - https://en.wikipedia.org/wiki/Leif_Erikson
 
@@ -51,3 +51,6 @@ Leif Erikson was the first European to reach North America, approximately 500 ye
 
 - This entry is a high-level overview intended to capture widely reported facts and commonly cited context.
 - For deeper detail, consult the linked references and specialized histories or investigative reports where relevant.
+
+
+## References

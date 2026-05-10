@@ -24,7 +24,7 @@ Taiho was one of the greatest sumo wrestlers in history, winning 32 tournament c
 | 1971 | Retired with 32 tournament victories |
 | 2013 | Died in Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Taiho" - https://en.wikipedia.org/wiki/Taiho
 
@@ -49,3 +49,6 @@ After retirement from active competition, a leading yokozuna often remains conne
 ## Legacy
 
 Taihō’s name is frequently invoked in lists of all-time great yokozuna because his achievements are both quantitative (championship totals) and qualitative (multi-year dominance). He is also an example of how a single athlete can define a competitive period and set standards that later champions are measured against.
+
+
+## References

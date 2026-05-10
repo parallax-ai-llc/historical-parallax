@@ -21,7 +21,7 @@ Note: This is not a real separate criminal. Entry removed.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Ahmad al-Bashir" - https://en.wikipedia.org/wiki/Ahmad_al-Bashir
 
@@ -59,3 +59,6 @@ If you were looking for Sudan’s former president, see:
 - Disambiguation and entity resolution
 - Name transliteration (Arabic → Latin alphabets)
 - Data provenance and citation standards
+
+
+## References

@@ -22,7 +22,7 @@ Shoko Asahara founded Aum Shinrikyo cult that carried out the 1995 Tokyo subway 
 | 1995 | Carried out sarin gas attack on Tokyo subway |
 | 2018 | Asahara and 12 members executed |
 
-## References
+
 
 [^1]: Wikipedia, "Aum Shinrikyo Attack Perpetrators" - https://en.wikipedia.org/wiki/Aum_Shinrikyo_Attack_Perpetrators
 
@@ -51,3 +51,5 @@ The Tokyo subway sarin attack became a defining case study in modern domestic te
 
 [^2]: Encyclopaedia Britannica, "Aum Shinrikyo" - https://www.britannica.com/topic/Aum-Shinrikyo
 [^3]: BBC News, "Japan executes Aum Shinrikyo cult leader Shoko Asahara" (2018-07-06) - https://www.bbc.com/news/world-asia-44714780
+
+

@@ -23,7 +23,7 @@ American cult leader who founded the Lord Our Righteousness Church and claimed t
 | 2008 | Arrested for criminal sexual contact with minors |
 | 2008 | Convicted and sentenced to 18 years |
 
-## References
+
 
 [^1]: Wikipedia, "Wayne Bent" - https://en.wikipedia.org/wiki/Wayne_Bent
 
@@ -50,3 +50,6 @@ The case is often cited in discussions of:
 ## Related themes
 
 Cases like Bent's are sometimes discussed alongside broader topics such as coercive control, spiritual abuse, and safeguarding policies for minors in communities where leadership authority is treated as unquestionable.
+
+
+## References

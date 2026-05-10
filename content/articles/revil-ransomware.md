@@ -24,7 +24,7 @@ Russian-based ransomware gang responsible for high-profile attacks including JBS
 | 2021 | Attacked Kaseya; demanded $70 million |
 | 2022 | FSB arrested 14 members |
 
-## References
+
 
 [^1]: Wikipedia, "REvil ransomware" - https://en.wikipedia.org/wiki/REvil_ransomware
 
@@ -51,3 +51,6 @@ Russian-based ransomware gang responsible for high-profile attacks including JBS
 ## Notes
 
 - Open reporting sometimes uses multiple names for the same cluster (e.g., REvil/Sodinokibi), reflecting attribution uncertainty and shifting branding over time.
+
+
+## References

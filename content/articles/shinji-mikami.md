@@ -3,6 +3,7 @@ name: "Shinji Mikami"
 birth: "1965-08-11"
 nationality: "Japanese"
 occupation: ["Game Designer", "Game Director", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Shinji_Mikami_April_2013_3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shinji_Mikami"
 lastUpdated: "2026-03-12"

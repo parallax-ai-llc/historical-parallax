@@ -22,7 +22,7 @@ British terrorist known as the 'Shoe Bomber' who attempted to detonate explosive
 | 2001 | Attempted to bomb American Airlines Flight 63 |
 | 2003 | Convicted; sentenced to life in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Richard Reid" - https://en.wikipedia.org/wiki/Richard_Reid
 
@@ -49,3 +49,5 @@ The attempted attack contributed to long-term changes in aviation security pract
 ## References
 
 [^2]: U.S. Department of Justice (case and sentencing releases; background context) - https://www.justice.gov/
+
+

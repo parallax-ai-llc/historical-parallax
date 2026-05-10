@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 | 1993 | Killed |
 
-## References
+
 
 [^1]: Wikipedia, "Pablo Escobar Gaviria" - https://en.wikipedia.org/wiki/Pablo_Escobar_Gaviria
 
@@ -70,3 +70,6 @@ Duplicate consolidated.
 ## References (Additional)
 
 [^2]: Encyclopaedia Britannica, "Pablo Escobar" - https://www.britannica.com/biography/Pablo-Escobar
+
+
+## References

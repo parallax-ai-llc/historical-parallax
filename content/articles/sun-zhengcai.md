@@ -23,7 +23,7 @@ Chinese former Politburo member and Chongqing party chief who was once seen as a
 | 2017 | Removed from all positions |
 | 2018 | Convicted of bribery; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Sun Zhengcai" - https://en.wikipedia.org/wiki/Sun_Zhengcai
 
@@ -48,3 +48,6 @@ He was convicted of bribery and received a life sentence. Public reports typical
 ### Notes
 
 In elite Chinese political cases, official announcements, court statements, and state media coverage are key primary sources, while outside analysis often focuses on factional dynamics and succession implications that may not be directly verifiable.
+
+
+## References

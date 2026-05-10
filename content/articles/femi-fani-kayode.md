@@ -21,7 +21,7 @@ Nigerian politician charged with laundering billions of naira in government fund
 |------|-------|
 | 2016 | Charged with money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Femi Fani-Kayode" - https://en.wikipedia.org/wiki/Femi_Fani-Kayode
 
@@ -55,3 +55,6 @@ Nigerian politician charged with laundering billions of naira in government fund
 
 [^2]: BBC News, search results/coverage mentioning his Aviation Minister role (contextual). https://www.bbc.com/search?q=Femi%20Fani-Kayode%20minister%20of%20aviation
 [^3]: EFCC (Nigeria), news/search page results referencing Fani-Kayode case reporting (contextual). https://www.efcc.gov.ng/
+
+
+## References

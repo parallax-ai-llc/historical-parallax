@@ -21,7 +21,7 @@ Norwegian convicted of the gruesome murder known as the 'Orderud case,' one of N
 |------|-------|
 | 1999 | Convicted in the Orderud farm murders |
 
-## References
+
 
 [^1]: Wikipedia, "Vegard Bjerck" - https://en.wikipedia.org/wiki/Vegard_Bjerck
 
@@ -49,3 +49,6 @@ This page is intended as a short biographical placeholder within a larger collec
 ## Notes
 
 When expanding true-crime articles, the safest approach is to stick to court outcomes and clearly sourced facts, avoiding speculation or sensational detail.
+
+
+## References

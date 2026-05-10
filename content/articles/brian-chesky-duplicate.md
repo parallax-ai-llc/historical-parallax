@@ -22,7 +22,7 @@ Duplicate.
 |------|-------|
 | 1981 | See Brian Chesky |
 
-## References
+
 
 [^1]: Wikipedia, "Brian Chesky duplicate" - https://en.wikipedia.org/wiki/Brian_Chesky_duplicate
 
@@ -62,3 +62,6 @@ If this repository also contains a non-duplicate profile for Brian Chesky, treat
 
 [^2]: Wikipedia, "Brian Chesky" - https://en.wikipedia.org/wiki/Brian_Chesky
 [^3]: Airbnb, "About" (company overview) - https://www.airbnb.com/about
+
+
+## References

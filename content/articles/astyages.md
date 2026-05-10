@@ -21,7 +21,7 @@ Last king of the Median Empire whose cruelty, including feeding a nobleman his o
 |------|-------|
 | -550 | Overthrown by Cyrus the Great |
 
-## References
+
 
 [^1]: Wikipedia, "Astyages" - https://en.wikipedia.org/wiki/Astyages
 
@@ -53,3 +53,6 @@ Last king of the Median Empire whose cruelty, including feeding a nobleman his o
 
 - Dates in this article are conventionally given in **BCE** (negative years in the timeline).
 - Because early Iranian history is reconstructed from limited evidence, many fine-grained claims about policies and internal politics remain **probabilistic** rather than certain.
+
+
+## References

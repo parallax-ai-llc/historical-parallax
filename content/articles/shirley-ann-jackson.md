@@ -5,7 +5,7 @@ birth: "1946-08-05"
 death: "living"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Jackson-medal-of-science.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shirley_Ann_Jackson"
 lastUpdated: "2026-02-21"

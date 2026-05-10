@@ -22,7 +22,7 @@ First President of Croatia who oversaw ethnic cleansing of Serbs during Operatio
 | 1991 | Led Croatia to independence |
 | 1995 | Ordered Operation Storm ethnic cleansing |
 
-## References
+
 
 [^1]: Wikipedia, "Franjo Tuđman" - https://en.wikipedia.org/wiki/Franjo_Tu%C4%91man
 
@@ -49,3 +49,6 @@ First President of Croatia who oversaw ethnic cleansing of Serbs during Operatio
 ## Notes
 
 This article provides a high-level summary of widely discussed public issues; it is not a substitute for court records or detailed historical scholarship.
+
+
+## References

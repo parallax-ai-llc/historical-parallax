@@ -21,7 +21,7 @@ Athenian metalworker who invented the Brazen Bull torture device, then became it
 |------|-------|
 | -554 | Created and became victim of the Brazen Bull |
 
-## References
+
 
 [^1]: Wikipedia, "Perillos of Athens" - https://en.wikipedia.org/wiki/Perillos_of_Athens
 
@@ -61,3 +61,6 @@ Modern readers generally treat the account as a moralized anecdote rather than a
 
 - Primary/ancient references to Phalaris and later retellings often appear in moral and rhetorical contexts (e.g., exempla about tyranny and justice).
 - Scholarly discussions typically focus on how such stories functioned as propaganda or moral instruction rather than as documentary history.
+
+
+## References

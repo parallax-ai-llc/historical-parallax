@@ -21,7 +21,7 @@ Placeholder for additional Korean tech coverage.
 |------|-------|
 | 1970 | Born in South Korea |
 
-## References
+
 
 [^1]: Wikipedia, "Park Geun-hee" - https://en.wikipedia.org/wiki/Park_Geun-hee
 
@@ -58,3 +58,6 @@ When expanding this article, prefer primary or high-quality secondary sources:
 
 [^2]: Wikipedia, "Park Geun-hye" - https://en.wikipedia.org/wiki/Park_Geun-hye
 [^3]: National Institute of Korean Language (NIKL), Korean romanization guidance (overview) - https://www.korean.go.kr/
+
+
+## References

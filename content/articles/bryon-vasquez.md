@@ -21,7 +21,7 @@ SafeMoon CEO charged by SEC with securities fraud and money laundering.
 |------|-------|
 | 2023 | Charged with crypto fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Bryon Vasquez" - https://en.wikipedia.org/wiki/Bryon_Vasquez
 
@@ -58,3 +58,6 @@ When the SEC or federal prosecutors bring actions of this type, the process ofte
 - U.S. Securities and Exchange Commission (SEC)
 - Unregistered securities offerings (U.S.)
 - Crypto enforcement actions (U.S.)
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1948-08-29"
 death: "living"
 nationality: "American"
 occupation: ["Chemical Engineer", "Biomedical Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Robert_Langer_in_2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Langer"
 lastUpdated: "2026-02-21"

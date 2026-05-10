@@ -24,7 +24,7 @@ Last Shah of Iran whose authoritarian rule and SAVAK secret police suppressed di
 | 1979 | Overthrown in Islamic Revolution |
 | 1980 | Died of cancer in Egypt |
 
-## References
+
 
 [^1]: Wikipedia, "Mohammed Reza Pahlavi" - https://en.wikipedia.org/wiki/Mohammed_Reza_Pahlavi
 ## Historical Context
@@ -54,3 +54,6 @@ This article is a concise overview. Detailed histories often rely on archival ma
 
 - Iranian constitutional history
 - US–Iran relations in the 20th century
+
+
+## References

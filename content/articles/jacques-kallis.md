@@ -23,7 +23,7 @@ Jacques Kallis is the greatest all-rounder in cricket history with over 13,000 T
 | 2007 | Won ICC Player of the Year |
 | 2013 | Retired from Test cricket |
 
-## References
+
 
 [^1]: Wikipedia, "Jacques Kallis" - https://en.wikipedia.org/wiki/Jacques_Kallis
 
@@ -51,3 +51,6 @@ Kallis is frequently used as a benchmark when comparing all-rounders across eras
 
 - List of South Africa Test cricketers (general)
 - Cricket all-rounders (comparisons across eras)
+
+
+## References

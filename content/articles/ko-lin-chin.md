@@ -22,7 +22,7 @@ Taiwanese-American criminologist who documented Chinese organized crime and huma
 | 1996 | Published groundbreaking research on Chinese organized crime |
 | 2000 | Documented Chinese human smuggling networks to the US |
 
-## References
+
 
 [^1]: Wikipedia, "Ko-lin Chin" - https://en.wikipedia.org/wiki/Ko-lin_Chin
 
@@ -56,3 +56,6 @@ Within criminology, Chin is frequently referenced as a scholar who helped make c
 - Human smuggling
 - Triads
 - Transnational organized crime
+
+
+## References

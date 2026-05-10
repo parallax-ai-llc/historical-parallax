@@ -22,7 +22,7 @@ Malaysian-born terrorist who was Southeast Asia's most wanted man, masterminding
 | 2003 | Began bombing campaign in Indonesia |
 | 2009 | Killed in Indonesian police raid |
 
-## References
+
 
 [^1]: Wikipedia, "Noordin Top" - https://en.wikipedia.org/wiki/Noordin_Top
 
@@ -58,3 +58,6 @@ The Noordin Top case is frequently referenced in discussions of:
 ## Additional References
 
 [^2]: Contemporary reporting and Indonesian police statements from 2003–2009 (widely cited in regional and international news coverage)
+
+
+## References

@@ -22,7 +22,7 @@ Uzbek terrorist who drove a hijacked truck into pedestrians on Drottninggatan in
 | 2017 | Drove truck into pedestrians in Stockholm; killed 5 |
 | 2018 | Sentenced to life imprisonment plus deportation |
 
-## References
+
 
 [^1]: Wikipedia, "Rakhmat Akilov" - https://en.wikipedia.org/wiki/Rakhmat_Akilov
 
@@ -52,3 +52,6 @@ The attack is often cited in European security discussions as an example of a lo
 - **Method:** Vehicle-ramming using a truck.
 - **Fatalities:** Five people were killed.
 - **Legal outcome:** Convicted of terrorism-related charges and given a life sentence.
+
+
+## References

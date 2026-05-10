@@ -5,7 +5,7 @@ birth: "1943-08-23"
 death: "2021-07-24"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Rodney_Alcala_1979_mugshot.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rodney_Alcala"
 lastUpdated: "2026-02-21"

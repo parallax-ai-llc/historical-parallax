@@ -44,7 +44,7 @@ Lee Jun-seok is primarily known publicly in connection with the sinking of the S
 - The Sewol disaster remains a defining event in modern South Korean public life.
 - Discussions about maritime safety standards and crisis management frequently reference the incident.
 
-## References
+
 
 [^1]: Wikipedia, "Lee Jun-seok" - https://en.wikipedia.org/wiki/Lee_Jun-seok
 
@@ -52,3 +52,6 @@ Lee Jun-seok is primarily known publicly in connection with the sinking of the S
 
 - MV *Sewol*
 - 2014 South Korean ferry disaster
+
+
+## References

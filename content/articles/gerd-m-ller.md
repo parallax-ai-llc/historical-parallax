@@ -23,7 +23,7 @@ Gerd Müller scored 68 goals in 62 internationals and the winning 1974 World Cup
 | 1974 | Scored winning WC final goal |
 | 2021 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Gerd Müller" - https://en.wikipedia.org/wiki/Gerd_M%C3%BCller
 
@@ -48,3 +48,6 @@ After retiring as a player, he remained connected to football through coaching a
 He is widely remembered as one of the defining goal-scorers of the 20th century and a benchmark for striker efficiency.
 
 In statistical comparisons, he is often highlighted for an unusually high goals-per-game rate across both club and international play.
+
+
+## References

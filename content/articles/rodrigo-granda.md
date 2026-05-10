@@ -21,7 +21,7 @@ FARC guerrilla leader known as the 'foreign minister' of the rebel group.
 |------|-------|
 | 2004 | Captured in Venezuela |
 
-## References
+
 
 [^1]: Wikipedia, "Rodrigo Granda" - https://en.wikipedia.org/wiki/Rodrigo_Granda
 
@@ -51,3 +51,6 @@ FARC guerrilla leader known as the 'foreign minister' of the rebel group.
 - FARC
 - Colombian armed conflict
 
+
+
+## References

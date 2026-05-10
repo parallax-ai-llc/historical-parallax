@@ -23,7 +23,7 @@ Ukrainian serial killer and core member of the Dnepropetrovsk maniacs who filmed
 | 2007 | Arrested by Ukrainian police |
 | 2009 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Igor Suprunyuk" - https://en.wikipedia.org/wiki/Igor_Suprunyuk
 
@@ -48,3 +48,6 @@ The case is commonly cited in media and criminology commentary because of the fi
 - Dnepropetrovsk maniacs
 - Digital forensics
 - Content moderation and harmful online media
+
+
+## References

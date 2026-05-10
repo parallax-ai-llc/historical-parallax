@@ -23,7 +23,7 @@ Indonesian serial killer who murdered at least 10 women in Medan, North Sumatra 
 | 2007 | Arrested after bodies found buried near his home |
 | 2009 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Suriadi" - https://en.wikipedia.org/wiki/Suriadi
 
@@ -50,3 +50,6 @@ Public summaries of this case are relatively short and sometimes inconsistent on
 ## See also
 
 - Serial crime investigations in Indonesia (overview)
+
+
+## References

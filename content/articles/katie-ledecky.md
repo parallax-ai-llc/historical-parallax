@@ -5,7 +5,7 @@ birth: "1997-03-17"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Katie_Ledecky_at_the_Paris_2024_Summer_Olympics.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katie_Ledecky"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Katie Ledecky is the most decorated female Olympic swimmer, dominating distance 
 | 2016 | Won four gold at Rio |
 | 2021 | Won two gold at Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Katie Ledecky" - https://en.wikipedia.org/wiki/Katie_Ledecky
 
@@ -60,3 +60,6 @@ Katie Ledecky is the most decorated female Olympic swimmer, dominating distance 
 - Her sustained success across multiple Olympic cycles is frequently cited when comparing modern-era swimmers by longevity, peak dominance, and versatility.
 - Beyond medals, her public profile has contributed to increased visibility for women’s swimming, especially in endurance-oriented events.
 - In historical discussion, she is commonly included among the defining swimmers of the 2010s–2020s era.
+
+
+## References

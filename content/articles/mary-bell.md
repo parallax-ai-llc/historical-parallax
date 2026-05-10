@@ -19,7 +19,7 @@ Mary Flora Bell strangled two young boys in Newcastle in 1968 when she was only 
 |------|-------|
 | 1957 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: "Mary Bell" (biographical overview), Wikipedia: https://en.wikipedia.org/wiki/Mary_Bell
 
@@ -65,3 +65,6 @@ Mary Flora Bell strangled two young boys in Newcastle in 1968 when she was only 
 - Juvenile justice in the United Kingdom
 - Indeterminate sentencing for juveniles ("at Her Majesty’s pleasure")
 - Media reporting restrictions and anonymity orders
+
+
+## References

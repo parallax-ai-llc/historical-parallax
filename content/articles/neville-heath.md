@@ -24,7 +24,7 @@ British serial killer who tortured and murdered two women in London and Bournemo
 | 1946 | Arrested and convicted |
 | 1946 | Hanged at Pentonville Prison |
 
-## References
+
 
 [^1]: Wikipedia, "Neville Heath" - https://en.wikipedia.org/wiki/Neville_Heath
 
@@ -48,3 +48,6 @@ This page summarizes the case at a high level and is not a substitute for court 
 - Additional high-level context can be added from reliable sources.
 - Additional high-level context can be added from reliable sources.
 - Additional high-level context can be added from reliable sources.
+
+
+## References

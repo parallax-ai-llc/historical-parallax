@@ -21,7 +21,7 @@ Leader of the Thirty Tyrants who killed 1,500 Athenian citizens during eight mon
 |------|-------|
 | -404 | Led the Thirty Tyrants' reign of terror |
 
-## References
+
 
 [^1]: Wikipedia, "Critias" - https://en.wikipedia.org/wiki/Critias
 
@@ -53,3 +53,6 @@ Leader of the Thirty Tyrants who killed 1,500 Athenian citizens during eight mon
 
 - Background on the Thirty Tyrants: https://en.wikipedia.org/wiki/Thirty_Tyrants
 - Background on the Peloponnesian War: https://en.wikipedia.org/wiki/Peloponnesian_War
+
+
+## References

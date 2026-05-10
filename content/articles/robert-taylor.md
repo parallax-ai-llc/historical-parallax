@@ -47,7 +47,7 @@ High-level, factual milestones commonly associated with Charles Taylor (Liberia)
 
 - Charles Taylor (Liberia) — consolidated biography and extended timeline.
 
-## References
+
 
 [^1]: Wikipedia, "Robert Taylor" - https://en.wikipedia.org/wiki/Robert_Taylor
 [^2]: Wikipedia, "Charles Taylor (Liberian politician)" - https://en.wikipedia.org/wiki/Charles_Taylor_(Liberian_politician)
@@ -71,3 +71,6 @@ High-level, factual milestones commonly associated with Charles Taylor (Liberia)
 - Liberian Civil Wars
 - Sierra Leone Civil War
 - Special Court for Sierra Leone (SCSL)
+
+
+## References

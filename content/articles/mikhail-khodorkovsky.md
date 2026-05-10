@@ -21,7 +21,7 @@ Once Russia's richest man as head of Yukos oil company, imprisoned for 10 years 
 | 2003 | Arrested on fraud charges |
 | 2013 | Pardoned and released after 10 years |
 
-## References
+
 
 [^1]: Wikipedia, "Mikhail Khodorkovsky" - https://en.wikipedia.org/wiki/Mikhail_Khodorkovsky
 ## Additional Context
@@ -51,3 +51,6 @@ Once Russia's richest man as head of Yukos oil company, imprisoned for 10 years 
 - This entry is a high-level summary intended for quick reference.
 - For deeper detail, consult primary documents and the linked reference.
 - Dates are recorded as reported by widely available public sources.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1931-10-25"
 death: "Unknown"
 nationality: "German"
 occupation: ["Physicist", "Oceanographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hasselmann_thesis.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Klaus_Hasselmann"
 lastUpdated: "2026-02-21"

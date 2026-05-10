@@ -21,7 +21,7 @@ Mass shooting at Pulse nightclub in Orlando on June 12, 2016 killing 49 people.
 |------|-------|
 | 2016 | 49 killed, 53 wounded |
 
-## References
+
 
 [^1]: Wikipedia, "Pulse Nightclub Shooting" - https://en.wikipedia.org/wiki/Pulse_Nightclub_Shooting
 
@@ -65,3 +65,6 @@ Mass shooting at Pulse nightclub in Orlando on June 12, 2016 killing 49 people.
 ## Notes
 
 - This article summarizes widely reported facts at a high level; details (exact timeline, tactical decisions, and investigative findings) are covered more fully in the reference.
+
+
+## References

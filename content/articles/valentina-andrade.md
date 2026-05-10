@@ -23,7 +23,7 @@ Brazilian UFO cult leader accused of ordering the castration and murder of young
 | 1989 | Series of child mutilations in Altamira |
 | 2003 | Acquitted due to insufficient evidence |
 
-## References
+
 
 [^1]: Wikipedia, "Valentina Andrade" - https://en.wikipedia.org/wiki/Valentina_Andrade
 
@@ -48,3 +48,6 @@ Brazilian UFO cult leader accused of ordering the castration and murder of young
 
 - The Altamira case is often cited in discussions of moral panic, cult allegations, and miscarriages-of-justice risks.
 - It also illustrates the challenges of prosecuting complex serial crimes with fragmented evidence and multiple suspects.
+
+
+## References

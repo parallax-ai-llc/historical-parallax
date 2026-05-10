@@ -37,7 +37,7 @@ After the sale, planned public exhibitions were reported and then changed, and t
 ## Notes on Sources
 
 Attribution debates evolve as scholarship and technical studies are published; readers should consult current catalogues, conservation reports, and museum statements for the latest positions rather than relying on a single summary.
-## References
+
 
 [^1]: Wikipedia, "Salvator Mundi Controversy" - https://en.wikipedia.org/wiki/Salvator_Mundi_Controversy
 
@@ -54,3 +54,6 @@ Attribution debates evolve as scholarship and technical studies are published; r
 - Names, dates, and claims should be cross-checked against the cited reference(s).
 - Where events involve crimes or violence, summaries avoid unnecessary graphic detail.
 - For full context, consult multiple reputable sources (official records, major news archives, and scholarly works when available).
+
+
+## References

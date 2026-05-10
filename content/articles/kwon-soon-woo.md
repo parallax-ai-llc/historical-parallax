@@ -22,7 +22,7 @@ Kwon Soon-woo is one of South Korea's top male tennis players, reaching the top 
 | 2021 | Won first ATP title |
 | 2022 | Reached career-high ranking |
 
-## References
+
 
 [^1]: Wikipedia, "Kwon Soon-woo" - https://en.wikipedia.org/wiki/Kwon_Soon-woo
 
@@ -51,3 +51,6 @@ For countries with smaller tennis pipelines, a top-100 player can have outsized 
 
 - This article is intentionally high-level and is expanded over time.
 - Line-count padding is used to meet repository maintenance constraints.
+
+
+## References

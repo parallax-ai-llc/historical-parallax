@@ -22,7 +22,7 @@ Jakob Ingebrigtsen won 1,500m gold at 2021 Tokyo and 5,000m gold at 2024 Paris.
 | 2021 | Won 1,500m gold at Tokyo |
 | 2024 | Won 5,000m gold at Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Jakob Ingebrigtsen" - https://en.wikipedia.org/wiki/Jakob_Ingebrigtsen
 
@@ -49,3 +49,6 @@ Jakob Ingebrigtsen won 1,500m gold at 2021 Tokyo and 5,000m gold at 2024 Paris.
 ## Notes
 
 This entry highlights major milestones and does not list every record or seasonal best.
+
+
+## References

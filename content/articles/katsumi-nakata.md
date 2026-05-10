@@ -21,7 +21,7 @@ Japanese serial killer who poisoned multiple people with tainted food.
 |------|-------|
 | 2005 | Convicted of serial poisoning |
 
-## References
+
 
 [^1]: Wikipedia, "Katsumi Nakata" - https://en.wikipedia.org/wiki/Katsumi_Nakata
 
@@ -61,3 +61,6 @@ Public English-language sources on Nakata are limited; most summaries rely on th
 ## References (Expanded)
 
 - Wikipedia contributors. "Katsumi Nakata." *Wikipedia, The Free Encyclopedia*. <https://en.wikipedia.org/wiki/Katsumi_Nakata>
+
+
+## References

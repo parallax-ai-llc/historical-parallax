@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1989 | See Whitney Wolfe Herd |
 
-## References
+
 
 [^1]: Wikipedia, "Whitney Wolfe Herd dup2" - https://en.wikipedia.org/wiki/Whitney_Wolfe_Herd_dup2
 
@@ -55,3 +55,6 @@ As a founder-CEO figure, Wolfe Herd became one of the most visible leaders in th
 ## Notes on This Entry
 
 This file is labeled as a duplicate variant. The biographical subject overlaps with the primary Whitney Wolfe Herd article(s) in the collection; readers should treat this page as a secondary reference and prefer the canonical entry for a single, consolidated narrative.
+
+
+## References

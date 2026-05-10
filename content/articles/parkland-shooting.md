@@ -22,7 +22,7 @@ Mass shooting at Marjory Stoneman Douglas High School in Parkland, Florida on Fe
 | 2018 | 17 killed at high school |
 | 2018 | March for Our Lives movement |
 
-## References
+
 
 [^1]: Wikipedia, "Parkland Shooting" - https://en.wikipedia.org/wiki/Parkland_Shooting
 
@@ -50,3 +50,6 @@ Reporting on the aftermath commonly covers:
 ## Notes
 
 This entry summarizes widely reported, high-level outcomes; details may vary by source and should be verified against primary reporting and official records.
+
+
+## References

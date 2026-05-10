@@ -21,7 +21,7 @@ The crew of the slave ship Zong threw 132 enslaved Africans overboard to collect
 |------|-------|
 | 1781 | 132 enslaved people thrown overboard |
 
-## References
+
 
 [^1]: Wikipedia, "Zong Massacre" - https://en.wikipedia.org/wiki/Zong_Massacre
 
@@ -56,3 +56,6 @@ Today, the Zong massacre is referenced in studies of:
 ## Additional Reading
 
 [^2]: Encyclopaedia Britannica, "Zong massacre" - https://www.britannica.com/event/Zong-massacre
+
+
+## References

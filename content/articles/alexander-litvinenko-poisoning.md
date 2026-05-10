@@ -23,7 +23,7 @@ Former Russian spy Alexander Litvinenko was poisoned with polonium-210 in London
 | 2006 | Died 22 days later |
 | 2016 | UK inquiry blamed Putin |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Litvinenko Poisoning" - https://en.wikipedia.org/wiki/Alexander_Litvinenko_Poisoning
 
@@ -48,3 +48,6 @@ Alexander Litvinenko's poisoning is commonly cited as a high-profile case involv
 - Public inquiry processes
 - Radiological safety and contamination response
 - International diplomatic disputes
+
+
+## References

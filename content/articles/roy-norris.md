@@ -5,7 +5,7 @@ birth: "1948-02-02"
 death: "2020-02-24"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/0e/Lawrence_Sigmund_Bittaker_trial_1981.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roy_Norris"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ American serial killer who partnered with Lawrence Bittaker as the 'Toolbox Kill
 | 1980 | Sentenced to life imprisonment |
 | 2020 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Roy Norris" - https://en.wikipedia.org/wiki/Roy_Norris
 
@@ -48,3 +48,6 @@ Norris remained incarcerated for decades and died in prison in 2020. The case is
 ## Notes on Coverage
 
 This article intentionally stays at a high level and avoids graphic detail. For precise timelines, legal filings, trial transcripts, and contemporaneous news reporting are typically used alongside secondary summaries.
+
+
+## References

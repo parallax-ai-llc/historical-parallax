@@ -21,7 +21,7 @@ Greek traitor who showed the Persians the secret mountain path at Thermopylae, d
 |------|-------|
 | -480 | Betrayed Greeks at Battle of Thermopylae |
 
-## References
+
 
 [^1]: Wikipedia, "Ephialtes of Trachis" - https://en.wikipedia.org/wiki/Ephialtes_of_Trachis
 
@@ -48,3 +48,6 @@ Greek traitor who showed the Persians the secret mountain path at Thermopylae, d
 - Dating for individuals from antiquity is often approximate; the commonly cited event anchoring Ephialtes in history is the **Battle of Thermopylae (480 BCE)**.
 - The mountain route is sometimes referred to as a “secret path,” though in practical terms it is best understood as a lesser-known track that local knowledge could exploit.
 - In Herodotus’ *Histories*, Ephialtes is named as the informant who guided the Persians via the path—one of the key ancient narrative sources for the episode.
+
+
+## References

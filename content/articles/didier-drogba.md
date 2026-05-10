@@ -21,7 +21,7 @@ Didier Drogba scored the equalizer and winning penalty in Chelsea's 2012 CL fina
 |------|-------|
 | 2012 | Won CL final for Chelsea |
 
-## References
+
 
 [^1]: Wikipedia, "Didier Drogba" - https://en.wikipedia.org/wiki/Didier_Drogba
 
@@ -66,3 +66,6 @@ Didier Drogba scored the equalizer and winning penalty in Chelsea's 2012 CL fina
 - Often cited as an emblematic “big-game” player for club and country.
 - Has been associated with philanthropic work and broader public influence beyond football.
 
+
+
+## References

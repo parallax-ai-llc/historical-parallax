@@ -21,7 +21,7 @@ Indian gangster involved in major crime operations in Punjab and Haryana.
 |------|-------|
 | 2020 | Major crime operations |
 
-## References
+
 
 [^1]: Wikipedia, "Dawood Brar" - https://en.wikipedia.org/wiki/Dawood_Brar
 
@@ -52,3 +52,6 @@ Indian gangster involved in major crime operations in Punjab and Haryana.
 
 - What specific cases (FIRs/charges) are most consistently attributed across reputable reporting?
 - Are there corroborated court documents or official statements that clarify current status and confirmed affiliations?
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1989-01-24"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/240609_FC_%EC%84%9C%EC%9A%B8_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_%28%EA%B8%B0%EC%84%B1%EC%9A%A9%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ki_Sung-yueng"
 lastUpdated: "2026-02-26"

@@ -22,7 +22,7 @@ Moroccan opposition leader who was kidnapped and murdered in Paris in 1965 by Mo
 | 1965 | Kidnapped outside Brasserie Lipp in Paris |
 | 1965 | Presumed murdered; body never found |
 
-## References
+
 
 [^1]: Wikipedia, "Mehdi Ben Barka" - https://en.wikipedia.org/wiki/Mehdi_Ben_Barka
 
@@ -49,3 +49,6 @@ The affair is often cited in discussions of:
 ## Legacy
 
 Ben Barka's disappearance remains a reference point in Moroccan political history and in French debates about state secrecy. It also became a symbol for families of the disappeared and for campaigns seeking accountability in politically sensitive cases.
+
+
+## References

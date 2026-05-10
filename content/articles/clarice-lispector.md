@@ -24,7 +24,7 @@ Ukrainian-born Brazilian writer whose intensely introspective novels explore con
 | 1964 | Publishes The Passion According to G.H. |
 | 1977 | Publishes The Hour of the Star; dies in Rio de Janeiro |
 
-## References
+
 
 [^1]: Wikipedia, "Clarice Lispector" - https://en.wikipedia.org/wiki/Clarice_Lispector
 
@@ -50,3 +50,6 @@ Ukrainian-born Brazilian writer whose intensely introspective novels explore con
 - **Languages:** Portuguese (primary publication language)
 - **Common classification:** Brazilian modernist / experimental fiction
 - **Hallmarks:** introspection, philosophical inquiry, innovative narrative voice
+
+
+## References

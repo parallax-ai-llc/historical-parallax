@@ -22,7 +22,7 @@ Leader of the Unité pour la Paix en Centrafrique armed group and member of the 
 | 2014 | Led UPC armed group in eastern CAR |
 | 2021 | Joined CPC rebel coalition against government |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Darassa" - https://en.wikipedia.org/wiki/Ali_Darassa
 
@@ -54,3 +54,6 @@ Leader of the Unité pour la Paix en Centrafrique armed group and member of the 
 
 - Biographical details (including exact birthdate and spelling variants of the name) vary across sources; this article keeps the existing frontmatter and records commonly cited alternates here for reference.[^1]
 - Name variants reported include: Ali Daras, Ali Darrassa, and Ali Ndarass.[^1]
+
+
+## References

@@ -1,6 +1,6 @@
 ---
 id: "jay-chaudhry"
-name: "杰伊·乔杜里"
+name: "杰·乔杜里"
 birth: "1958-08-17"
 death: "Unknown"
 nationality: "Indian-American"
@@ -11,21 +11,21 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 简介
+## 摘要
 
-杰伊·乔杜里是Zscaler的创始人兼首席执行官，这是一家开创了零信任网络架构的云安全公司。他创立了多家网络安全公司，包括AirDefense、CipherTrust、CoreHarbor和SecureIT。Zscaler于2018年上市，市值增长至超过300亿美元。他的零信任网络安全方法成为企业网络安全的行业标准。
+杰·乔杜里（Jay Chaudhry）是云安全公司 Zscaler 的创始人兼首席执行官，该公司率先推出了零信任网络架构。他创立了多家网络安全公司，包括 AirDefense、CipherTrust、CoreHarbor 和 SecureIT。Zscaler 于 2018 年上市，市值超过 300 亿美元。他提出的零信任网络安全方法已成为企业网络安全行业的标准。
 
 ## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
 | 1958 | 出生于印度喜马偕尔邦 |
-| 1996 | 创立SecureIT（出售给VeriSign） |
-| 2000 | 创立CipherTrust（出售给Secure Computing） |
-| 2008 | 创立Zscaler |
-| 2018 | Zscaler上市 |
-| 2024 | Zscaler市值超过250亿美元 |
+| 1996 | 创立 SecureIT（后出售给 VeriSign） |
+| 2000 | 创立 CipherTrust（后出售给 Secure Computing） |
+| 2008 | 创立 Zscaler |
+| 2018 | Zscaler 上市 |
+| 2024 | Zscaler 市值突破 250 亿美元 |
 
 ## 参考资料
 
-[^1]: 维基百科，"Jay Chaudhry" - https://en.wikipedia.org/wiki/Jay_Chaudhry
+[^1]: 维基百科，“杰·乔杜里” - https://en.wikipedia.org/wiki/Jay_Chaudhry

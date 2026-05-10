@@ -5,7 +5,7 @@ birth: "1860-08-12"
 death: "1924-12-22"
 nationality: "Germany"
 occupation: ["Serial Killer", "Cannibal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Karl_Denke.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Denke"
 lastUpdated: "2026-02-21"

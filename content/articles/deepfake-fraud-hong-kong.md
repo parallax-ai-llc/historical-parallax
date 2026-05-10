@@ -22,7 +22,7 @@ Fraudsters used deepfake video technology to impersonate a company's CFO in a vi
 | 2024 | Deepfake video call tricked worker into $25 million transfer |
 | 2024 | Hong Kong police investigated the sophisticated fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Deepfake Fraud Hong Kong" - https://en.wikipedia.org/wiki/Deepfake_Fraud_Hong_Kong
 
@@ -51,3 +51,6 @@ Organizations often respond by strengthening process controls rather than relyin
 ## Significance
 
 The Hong Kong case was widely discussed because of the reported amount and the implied sophistication of the coordinated impersonation. It helped push deepfakes from a reputational concern into a concrete financial-risk category for companies, auditors, and insurers.
+
+
+## References

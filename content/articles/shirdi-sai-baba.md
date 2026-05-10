@@ -5,7 +5,7 @@ birth: "1838-01-01"
 death: "1918-10-15"
 nationality: "Indian"
 occupation: ["Saint", "Fakir"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Shirdi_Sai_Baba_3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shirdi_Sai_Baba"
 lastUpdated: "2026-02-21"

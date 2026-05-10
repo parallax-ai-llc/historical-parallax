@@ -45,10 +45,13 @@ He is often cited in discussions about the bridge between basic physics and real
 The integer quantum Hall effect is a frequently taught example of a macroscopic quantum phenomenon.
 It shows that material systems can produce exact numerical values tied to universal physics, not to the details of a particular sample.
 
-## References
+
 [^1]: Wikipedia, "Klaus von Klitzing" - https://en.wikipedia.org/wiki/Klaus_von_Klitzing
 
 ## Further Reading
 
 - Overviews of the quantum Hall effect in condensed-matter textbooks and review articles.
 - Materials from national metrology institutes on quantum electrical standards.
+
+
+## References

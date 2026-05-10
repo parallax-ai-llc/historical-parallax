@@ -21,7 +21,7 @@ Inspired by real Congo Free State agents, the archetype of colonial horror. Real
 |------|-------|
 | 1890 | Congo Free State atrocities |
 
-## References
+
 
 [^1]: Wikipedia, "Kurtz" - https://en.wikipedia.org/wiki/Kurtz
 
@@ -59,3 +59,6 @@ Inspired by real Congo Free State agents, the archetype of colonial horror. Real
 - Adam Hochschild, *King Leopold’s Ghost* (1998) — accessible overview of the Congo Free State.
 - Joseph Conrad, *Heart of Darkness* (1899) — primary literary text most associated with the name "Kurtz".
 - Primary-source collections and Congo Reform Association materials (where available) for contemporary documentation.
+
+
+## References

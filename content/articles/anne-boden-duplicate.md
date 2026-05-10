@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1960 | See Anne Boden |
 
-## References
+
 
 [^1]: Wikipedia, "Anne Boden duplicate" - https://en.wikipedia.org/wiki/Anne_Boden_duplicate
 
@@ -62,3 +62,6 @@ If you are maintaining the repository content, this entry is a candidate for one
 - Record type: duplicate placeholder
 - Intended use: prevents broken links during normalization
 - Source of truth: canonical Anne Boden entry + reliable secondary sources
+
+
+## References

@@ -22,7 +22,7 @@ Denis Law won the 1964 Ballon d'Or — the only Scottish winner — and formed U
 | 1964 | Won Ballon d'Or |
 | 1968 | Won European Cup |
 
-## References
+
 
 [^1]: Wikipedia, "Denis Law" - https://en.wikipedia.org/wiki/Denis_Law
 
@@ -51,3 +51,6 @@ Law is remembered for instinctive finishing, clever positioning, and high-impact
 ## See Also
 
 Related topics include the history of Manchester United in the 1960s and the Ballon d’Or’s early-era winners.
+
+
+## References

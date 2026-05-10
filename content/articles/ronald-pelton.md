@@ -21,7 +21,7 @@ NSA analyst who sold highly classified intelligence to the Soviet Union.
 |------|-------|
 | 1986 | Convicted of espionage |
 
-## References
+
 
 [^1]: Wikipedia, "Ronald Pelton" - https://en.wikipedia.org/wiki/Ronald_Pelton
 
@@ -63,3 +63,6 @@ Ronald William Pelton was a U.S. National Security Agency (NSA) employee who was
 - Signals intelligence (SIGINT)
 - Cold War espionage cases involving U.S. intelligence agencies
 - Operation Ivy Bells
+
+
+## References

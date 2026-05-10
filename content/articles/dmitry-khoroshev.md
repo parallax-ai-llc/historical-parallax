@@ -23,7 +23,7 @@ Russian national identified by the US, UK, and Australia as the leader of the Lo
 | 2024 | LockBit infrastructure seized in Operation Cronos |
 | 2024 | Unmasked and sanctioned; $10 million reward offered |
 
-## References
+
 
 [^1]: Wikipedia, "Dmitry Khoroshev" - https://en.wikipedia.org/wiki/Dmitry_Khoroshev
 
@@ -48,3 +48,6 @@ Public reporting around LockBit emphasizes the scale of victims and the financia
 - LockBit (ransomware)
 - Ransomware-as-a-service
 - International cybercrime enforcement
+
+
+## References

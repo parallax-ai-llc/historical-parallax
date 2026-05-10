@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1918 | See Sam Walton |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Walton duplicate" - https://en.wikipedia.org/wiki/Sam_Walton_duplicate
 
@@ -54,3 +54,6 @@ He is often cited for building a low-cost, high-volume retail model focused on o
 
 - The canonical article for Sam Walton (if present in this repository)
 - Walmart history and corporate timeline sources
+
+
+## References

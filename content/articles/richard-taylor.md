@@ -24,7 +24,7 @@ Richard Taylor shared the 1990 Nobel Prize for deep inelastic scattering experim
 | 1990 | Nobel Prize |
 | 2018 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Richard Taylor" - https://en.wikipedia.org/wiki/Richard_Taylor
 
@@ -48,3 +48,6 @@ Richard Taylor shared the 1990 Nobel Prize for deep inelastic scattering experim
 - The 1990 Nobel Prize in Physics recognized the experimental discovery of the nucleon’s internal constituents, shared with collaborators for the overall body of work.
 - Taylor’s career is often cited as an example of how large-scale accelerator facilities and collaborative experimental teams drive progress in fundamental physics.
 - The SLAC deep inelastic scattering results remain a cornerstone dataset in the history of high-energy physics.
+
+
+## References

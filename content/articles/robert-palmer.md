@@ -5,7 +5,7 @@ birth: "1970-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Insurrectionist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Robert_Palmer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Palmer"
 lastUpdated: "2026-02-26"

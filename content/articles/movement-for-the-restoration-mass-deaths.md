@@ -22,7 +22,7 @@ Mass killing of over 700 members of the Movement for the Restoration of the Ten 
 | 2000 | Over 700 killed in fire and poisoning |
 | 2000 | Mass graves discovered nearby |
 
-## References
+
 
 [^1]: Wikipedia, "Movement for the Restoration Mass Deaths" - https://en.wikipedia.org/wiki/Movement_for_the_Restoration_Mass_Deaths
 
@@ -48,3 +48,6 @@ The case is frequently referenced in discussions of how isolated communities can
 ## Legacy
 
 The Kanungu deaths remain one of the most widely cited mass-fatality incidents associated with a new religious movement in modern African history, and it is often used as a cautionary example in studies of charismatic authority, group isolation, and apocalyptic belief systems.
+
+
+## References

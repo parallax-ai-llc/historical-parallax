@@ -5,7 +5,7 @@ birth: "1869-04-09"
 death: "1951-05-06"
 nationality: "French"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/e8/Elie_Cartan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/%C3%89lie_Cartan"
 lastUpdated: "2026-02-21"

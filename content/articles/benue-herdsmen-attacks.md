@@ -21,7 +21,7 @@ Attacks by armed herders on farming communities in Benue State killing hundreds.
 |------|-------|
 | 2018 | Dozens killed in New Year's Day attacks |
 
-## References
+
 
 [^1]: Wikipedia, "Benue Herdsmen Attacks" - https://en.wikipedia.org/wiki/Benue_Herdsmen_Attacks
 
@@ -70,3 +70,6 @@ Attacks by armed herders on farming communities in Benue State killing hundreds.
 ## Additional references (for expansion)
 
 - Reports and situation updates from major news organizations and humanitarian briefings may provide context and timelines beyond encyclopedia summaries.
+
+
+## References

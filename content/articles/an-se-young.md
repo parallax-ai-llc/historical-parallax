@@ -23,7 +23,7 @@ An Se-young won the Olympic gold medal in women's singles badminton at the 2024 
 | 2022 | Won multiple major titles |
 | 2024 | Won Olympic gold at Paris |
 
-## References
+
 
 [^1]: Wikipedia, "An Se-young" - https://en.wikipedia.org/wiki/An_Se-young
 
@@ -48,3 +48,6 @@ Her Olympic win is often discussed as part of South Korea’s broader strength i
 ## Notes
 
 This article is intentionally high-level and focuses on widely reported milestones rather than match-by-match detail. As her career continues, additional major titles and rankings changes can be added to the timeline.
+
+
+## References

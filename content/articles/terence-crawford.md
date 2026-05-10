@@ -23,7 +23,7 @@ Terence Crawford became the undisputed welterweight champion and is considered o
 | 2017 | Won WBO super lightweight title |
 | 2023 | Became undisputed welterweight champion |
 
-## References
+
 
 [^1]: Wikipedia, "Terence Crawford" - https://en.wikipedia.org/wiki/Terence_Crawford
 
@@ -48,3 +48,6 @@ Terence Crawford became the undisputed welterweight champion and is considered o
 ## Further Reading
 
 - See the reference link(s) above for expanded detail and primary sourcing.
+
+
+## References

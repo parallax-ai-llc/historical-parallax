@@ -21,7 +21,7 @@ South African mining executive convicted of fraud in a multi-billion dollar mini
 |------|-------|
 | 2018 | Convicted of fraud |
 
-## References
+
 
 [^1]: Wikipedia, "André Pienaar" - https://en.wikipedia.org/wiki/Andr%C3%A9_Pienaar
 
@@ -70,3 +70,6 @@ Mining-related fraud cases often involve (not specific to this person):
 - Corporate governance failures
 - Mining sector finance and disclosure
 - Investor fraud and due diligence
+
+
+## References

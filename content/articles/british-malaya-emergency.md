@@ -22,7 +22,7 @@ British forces used forced resettlement, aerial bombing, and the Batang Kali mas
 | 1948 | Emergency declared |
 | 1960 | Emergency ended |
 
-## References
+
 
 [^1]: Wikipedia, "British Malaya Emergency" - https://en.wikipedia.org/wiki/British_Malaya_Emergency
 
@@ -62,3 +62,6 @@ British forces used forced resettlement, aerial bombing, and the Batang Kali mas
 - Decolonization in Southeast Asia
 - Counter-insurgency
 - Batang Kali massacre
+
+
+## References

@@ -23,7 +23,7 @@ Collapse of Lehman Brothers on September 15, 2008 was the largest bankruptcy fil
 | 2008 | Triggered global financial crisis |
 | 2010 | Examiner found accounting fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Lehman Brothers Collapse" - https://en.wikipedia.org/wiki/Lehman_Brothers_Collapse
 
@@ -53,3 +53,6 @@ Collapse of Lehman Brothers on September 15, 2008 was the largest bankruptcy fil
 
 - Stress-testing, liquidity buffers, and resolution planning became much more central to bank supervision after 2008.
 - The event remains a case study in systemic risk: how the failure of one institution can transmit shocks through interconnected markets.
+
+
+## References

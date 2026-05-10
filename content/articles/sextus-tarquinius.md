@@ -5,7 +5,7 @@ birth: "-550-01-01"
 death: "-509-01-01"
 nationality: "Ancient Rome"
 occupation: ["Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Tizian_094.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sextus_Tarquinius"
 lastUpdated: "2026-02-26"
@@ -48,7 +48,7 @@ The Lucretia narrative also influenced later discussions of civic virtue, the et
 - **Lucius Junius Brutus**: Leading figure in the expulsion of the Tarquins and early Republic.
 - **Tarquinius Superbus**: Last king of Rome and Sextus’s father in the tradition.
 
-## References
+
 
 [^1]: Wikipedia, "Sextus Tarquinius" - https://en.wikipedia.org/wiki/Sextus_Tarquinius
 
@@ -75,3 +75,6 @@ This reception is part of why Sextus Tarquinius remains known far beyond what th
 ## Notes on Names and Chronology
 
 Because the narrative is transmitted through later sources, details such as exact dates, family relationships, and sequence of events can vary across retellings. Modern summaries typically keep the account at a high level, focusing on the story’s role in the transition myth from kingship to republic.
+
+
+## References

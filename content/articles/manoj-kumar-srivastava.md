@@ -23,7 +23,7 @@ Indian serial killer known as Psycho Shankar who murdered at least 20 taxi drive
 | 2009 | Arrested in Lucknow |
 | 2012 | Convicted and sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Manoj Kumar Srivastava" - https://en.wikipedia.org/wiki/Manoj_Kumar_Srivastava
 
@@ -49,3 +49,6 @@ Indian serial killer known as Psycho Shankar who murdered at least 20 taxi drive
 - For detailed case chronology and citations, consult the linked reference.
 
 - This entry summarizes widely reported elements; it does not reproduce full court records.
+
+
+## References

@@ -40,7 +40,7 @@ During Colombia’s internal armed conflict, multiple actors—including guerril
 
 Carranza’s legacy is often described as dual: a symbol of wealth and regional power in the emerald sector, and a figure surrounded by persistent allegations connected to violence during the conflict era.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Víctor Carranza" - https://en.wikipedia.org/wiki/V%C3%ADctor_Carranza
 
@@ -48,3 +48,6 @@ Carranza’s legacy is often described as dual: a symbol of wealth and regional 
 
 - Emerald mining in Colombia
 - Colombian armed conflict (context for paramilitary and guerrilla violence)
+
+
+## References

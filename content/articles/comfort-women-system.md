@@ -22,7 +22,7 @@ Imperial Japan forced an estimated 200,000 women from occupied territories into 
 | 1937 | Comfort women system expanded across occupied territories |
 | 1945 | System ended with Japan's surrender |
 
-## References
+
 
 [^1]: Wikipedia, "Comfort Women System" - https://en.wikipedia.org/wiki/Comfort_Women_System
 
@@ -48,3 +48,6 @@ The comfort women issue is widely discussed as a case study in wartime sexual vi
 - Survivor testimony and archival evidence underpin modern understanding of the system.
 - The issue remains a major subject of diplomacy and public memory in East Asia.
 - It is commonly analyzed within the broader framework of wartime sexual violence and transitional justice.
+
+
+## References

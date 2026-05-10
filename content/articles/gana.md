@@ -22,7 +22,7 @@ Benue State militia leader Terwase Akwaza, known as 'Gana', who terrorized commu
 | 2018 | Led attacks killing dozens in Benue State |
 | 2020 | Killed by military during surrender process |
 
-## References
+
 
 [^1]: Wikipedia, "Gana" - https://en.wikipedia.org/wiki/Gana
 
@@ -71,3 +71,6 @@ Benue State sits within Nigeria’s “Middle Belt,” where clashes have often 
 ## Terminology Note
 
 Some sources treat “Gana” as a single commander; others describe a broader network operating under that name. Reporting can vary based on local politics and security narratives.
+
+
+## References

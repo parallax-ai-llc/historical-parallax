@@ -24,7 +24,7 @@ Nhat Chi Mai was a Vietnamese Buddhist peace activist who self-immolated in 1967
 | 1965 | Joined the School of Youth for Social Service |
 | 1967 | Self-immolated at the Tu Nghiem Pagoda in Saigon on May 16 |
 
-## References
+
 
 [^1]: Wikipedia, "Nhat Chi Mai" - https://en.wikipedia.org/wiki/Nhat_Chi_Mai
 
@@ -48,3 +48,6 @@ For the wording and recipients of her letters, and the contemporaneous reporting
 - Wikipedia (see link above)
 - Additional high-level context can be added from reliable sources.
 - Additional high-level context can be added from reliable sources.
+
+
+## References

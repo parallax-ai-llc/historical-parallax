@@ -24,7 +24,7 @@ Anwar Raslan, a former Syrian intelligence officer convicted by a German court o
 | 2019 | Arrested in Germany under universal jurisdiction |
 | 2022 | Convicted and sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Omar al-Marwan" - https://en.wikipedia.org/wiki/Omar_al-Marwan
 
@@ -55,3 +55,6 @@ High-level allegations connected to Branch 251 in public sources include:
 - Syrian civil war detention system
 - Branch 251 / Al-Khatib detention center
 - Universal jurisdiction prosecutions in Europe
+
+
+## References

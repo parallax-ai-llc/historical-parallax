@@ -21,7 +21,7 @@ Pakistani police officer known for encounter killings who was himself killed by 
 |------|-------|
 | 2014 | Killed by Taliban car bomb |
 
-## References
+
 
 [^1]: Wikipedia, "Chaudhry Aslam" - https://en.wikipedia.org/wiki/Chaudhry_Aslam
 
@@ -52,3 +52,6 @@ Pakistani police officer known for encounter killings who was himself killed by 
 
 - Basic biographical fields (e.g., birth date/place) can vary across sources; treat summary facts as approximate unless corroborated.
 - This article is intended as a high-level reference and should be cross-checked with primary reporting for sensitive claims.
+
+
+## References

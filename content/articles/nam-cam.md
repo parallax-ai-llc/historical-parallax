@@ -22,7 +22,7 @@ Vietnamese crime boss who ran Ho Chi Minh City's largest criminal empire with po
 | 2001 | Arrested along with dozens of corrupt officials |
 | 2004 | Executed by firing squad |
 
-## References
+
 
 [^1]: Wikipedia, "Nam Cam" - https://en.wikipedia.org/wiki/Nam_Cam
 
@@ -49,3 +49,6 @@ Vietnamese crime boss who ran Ho Chi Minh City's largest criminal empire with po
 
 - Such cases are frequently used in comparative criminology to discuss state capture and anti-corruption enforcement.
 
+
+
+## References

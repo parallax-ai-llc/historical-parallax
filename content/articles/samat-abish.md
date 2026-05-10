@@ -21,7 +21,7 @@ Deputy security chief and Nazarbayev nephew suspected of involvement in the Janu
 |------|-------|
 | 2022 | Implicated in deadly January events |
 
-## References
+
 
 [^1]: Wikipedia, "Samat Abish" - https://en.wikipedia.org/wiki/Samat_Abish
 
@@ -51,3 +51,6 @@ Where allegations are discussed, they are generally framed as suspicion or impli
 
 - When writing about living public figures, it is important to distinguish between verified facts (e.g., offices held) and claims under investigation.
 - If additional sources beyond Wikipedia are added later, this article should be updated to reflect them with clear attribution.
+
+
+## References

@@ -23,7 +23,7 @@ American spiritual influencer accused of running a cult-like organization that e
 | 2020 | Documentary exposed concerning practices |
 | 2022 | Multiple former followers reported manipulation |
 
-## References
+
 
 [^1]: Wikipedia, "Teal Swan" - https://en.wikipedia.org/wiki/Teal_Swan
 
@@ -50,3 +50,6 @@ The Teal Swan controversy is frequently discussed alongside wider questions abou
 ## Broader Significance
 
 The case is often referenced in discussions about where self-help content ends and mental-health treatment begins, and what disclosures or guardrails audiences should expect when advice is delivered outside regulated clinical settings.
+
+
+## References

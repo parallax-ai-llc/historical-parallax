@@ -21,7 +21,7 @@ Masumi Hayashi poisoned a community curry pot with arsenic at a summer festival 
 |------|-------|
 | 1998 | Festival curry poisoned |
 
-## References
+
 
 [^1]: Wikipedia, "Wakayama Curry Poisoning" - https://en.wikipedia.org/wiki/Wakayama_Curry_Poisoning
 
@@ -56,3 +56,6 @@ Masumi Hayashi poisoned a community curry pot with arsenic at a summer festival 
 ## Notes on Data Quality
 
 - This article is a high-level summary. For precise counts, dates, and procedural details (appeals, evidentiary disputes), consult the primary reference and court-reporting sources.
+
+
+## References

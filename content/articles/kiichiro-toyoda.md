@@ -5,7 +5,7 @@ birth: "1894-06-11"
 death: "1952-03-27"
 nationality: "Japanese"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Kiichiro_Toyoda.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kiichiro_Toyoda"
 lastUpdated: "2026-02-21"

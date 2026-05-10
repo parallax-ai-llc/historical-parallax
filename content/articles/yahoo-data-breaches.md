@@ -23,7 +23,7 @@ Two massive data breaches at Yahoo in 2013 and 2014 that compromised all 3 billi
 | 2016 | Breaches disclosed |
 | 2017 | FSB officers charged |
 
-## References
+
 
 [^1]: Wikipedia, "Yahoo Data Breaches" - https://en.wikipedia.org/wiki/Yahoo_Data_Breaches
 
@@ -56,3 +56,6 @@ Security practitioners and business leaders often cite the Yahoo breaches when t
 - Large-scale consumer account breaches
 - Incident disclosure practices
 - Attribution and state-linked cyber operations
+
+
+## References

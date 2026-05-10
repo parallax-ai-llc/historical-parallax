@@ -22,7 +22,7 @@ Former Philippine presidential spokesman who defended Duterte's drug war killing
 | 2017 | Became presidential spokesman defending drug war |
 | 2024 | Sanctioned by US for corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Duterte Harry Roque" - https://en.wikipedia.org/wiki/Duterte_Harry_Roque
 
@@ -50,3 +50,6 @@ Former Philippine presidential spokesman who defended Duterte's drug war killing
 - Rodrigo Duterte
 - Philippine drug war
 - Office of the President of the Philippines (communications and spokesperson roles)
+
+
+## References

@@ -22,7 +22,7 @@ Libyan militia leader who controlled armed groups in Misrata after the fall of G
 | 2011 | Led militia forces during Libyan civil war |
 | 2014 | Continued controlling armed groups in post-Gaddafi Libya |
 
-## References
+
 
 [^1]: Wikipedia, "Taher Elgadi" - https://en.wikipedia.org/wiki/Taher_Elgadi
 
@@ -49,3 +49,6 @@ Elgadi is primarily notable as an example of how localized armed leadership emer
 
 - Many details about individual militia leaders are inconsistently reported, and public biographical information may be limited.
 - When writing about armed groups in Libya, context on the specific brigade, command structure, and relevant human-rights reporting is important.
+
+
+## References

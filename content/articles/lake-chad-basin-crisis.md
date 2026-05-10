@@ -21,7 +21,7 @@ Boko Haram and ISWAP operations across northeastern Nigeria, Niger, Chad, and Ca
 |------|-------|
 | 2015 | Multinational Joint Task Force formed |
 
-## References
+
 
 [^1]: Wikipedia, "Lake Chad Basin Crisis" - https://en.wikipedia.org/wiki/Lake_Chad_Basin_Crisis
 
@@ -78,3 +78,6 @@ The Lake Chad Basin spans parts of northeastern Nigeria (including Borno State),
 [^2]: UN OCHA, Lake Chad Basin humanitarian updates and situation reports - https://www.unocha.org/
 [^3]: International Crisis Group (ICG), reporting on the Boko Haram/ISWAP insurgency - https://www.crisisgroup.org/
 [^4]: ACLED (Armed Conflict Location & Event Data), conflict event data for the Lake Chad region - https://acleddata.com/
+
+
+## References

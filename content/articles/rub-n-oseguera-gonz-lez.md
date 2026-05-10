@@ -5,7 +5,7 @@ birth: "1987-01-27"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Drug Lord"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/68/Menchito.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rub%C3%A9n_Oseguera_Gonz%C3%A1lez"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Son of CJNG leader El Mencho known as 'El Menchito' who served as a key lieutena
 | 2015 | Arrested in Mexico |
 | 2020 | Extradited to the United States |
 
-## References
+
 
 [^1]: Wikipedia, "Rubén Oseguera González" - https://en.wikipedia.org/wiki/Rub%C3%A9n_Oseguera_Gonz%C3%A1lez
 
@@ -51,3 +51,6 @@ Son of CJNG leader El Mencho known as 'El Menchito' who served as a key lieutena
 
 - Case frequently cited as an example of targeting cartel networks through family-linked lieutenants.
 - Illustrates the role of extradition in cross-border organized-crime enforcement.
+
+
+## References

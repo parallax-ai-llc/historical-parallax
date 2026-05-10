@@ -21,7 +21,7 @@ Qatari businessman designated by the US Treasury for financing al-Qaeda operatio
 |------|-------|
 | 2013 | Designated as terrorism financier |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmad Abdulaziz al-Jassim" - https://en.wikipedia.org/wiki/Ahmad_Abdulaziz_al-Jassim
 
@@ -58,3 +58,6 @@ Qatari businessman designated by the US Treasury for financing al-Qaeda operatio
 
 [^2]: U.S. Department of the Treasury, OFAC — SDN List (primary list source): https://ofac.treasury.gov/specially-designated-nationals-list-data-formats
 [^3]: Executive Order 13224 (counterterrorism sanctions framework): https://ofac.treasury.gov/sanctions-programs-and-country-information/terrorism-sanctions
+
+
+## References

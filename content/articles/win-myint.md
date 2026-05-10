@@ -22,7 +22,7 @@ President of Myanmar overthrown in the 2021 military coup along with Aung San Su
 | 2021 | Overthrown in military coup |
 | 2022 | Convicted in sham trial |
 
-## References
+
 
 [^1]: Wikipedia, "Win Myint" - https://en.wikipedia.org/wiki/Win_Myint
 
@@ -48,3 +48,6 @@ Win Myint’s public profile is closely tied to the 2021 rupture in Myanmar’s 
 - 2021 Myanmar coup d’état and subsequent political repression
 - Political prisoner designations and due-process concerns
 - Civil–military power balance under Myanmar’s constitutional framework
+
+
+## References

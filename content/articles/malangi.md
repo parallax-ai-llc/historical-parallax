@@ -22,7 +22,7 @@ Feared dacoit of the Bundelkhand region of Uttar Pradesh who carried out robberi
 | 1990 | Began dacoit career in Bundelkhand region |
 | 2004 | Killed in police encounter |
 
-## References
+
 
 [^1]: Wikipedia, "Malangi" - https://en.wikipedia.org/wiki/Malangi
 
@@ -48,3 +48,6 @@ Figures labeled as dacoits sometimes acquire mythic or folk reputations in local
 - Bundelkhand
 - Police encounters and accountability debates
 - Rural crime and insurgency-adjacent violence in North India
+
+
+## References

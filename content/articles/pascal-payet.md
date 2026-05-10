@@ -22,7 +22,7 @@ French gangster who holds the record for most helicopter prison escapes, escapin
 | 2001 | First helicopter prison escape |
 | 2007 | Third helicopter escape |
 
-## References
+
 
 [^1]: Wikipedia, "Pascal Payet" - https://en.wikipedia.org/wiki/Pascal_Payet
 
@@ -50,3 +50,6 @@ For an overview focused specifically on the incidents and their mechanics, see: 
 ## References (additional)
 
 [^2]: Prison escape by helicopter (overview) - https://en.wikipedia.org/wiki/Prison_escape#Helicopter_escapes
+
+
+## References

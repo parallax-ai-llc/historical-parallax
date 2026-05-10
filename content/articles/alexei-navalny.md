@@ -23,7 +23,7 @@ Russian opposition leader and anti-corruption activist who was poisoned with Nov
 | 2021 | Imprisoned upon return to Russia |
 | 2024 | Died in Arctic penal colony |
 
-## References
+
 
 [^1]: Wikipedia, "Alexei Navalny" - https://en.wikipedia.org/wiki/Alexei_Navalny
 
@@ -49,3 +49,6 @@ Alexei Navalny is widely known as a Russian opposition politician and anti-corru
 - Russian politics
 - Anti-corruption movements
 - Political prisoners and human-rights advocacy
+
+
+## References

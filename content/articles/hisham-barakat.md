@@ -21,7 +21,7 @@ Egyptian prosecutor general assassinated by a car bomb in Cairo.
 |------|-------|
 | 2015 | Killed by car bomb |
 
-## References
+
 
 [^1]: Wikipedia, "Hisham Barakat" - https://en.wikipedia.org/wiki/Hisham_Barakat
 
@@ -60,3 +60,6 @@ Egyptian prosecutor general assassinated by a car bomb in Cairo.
 ## Further Reading
 
 - Wikipedia entry (overview and citations): https://en.wikipedia.org/wiki/Hisham_Barakat
+
+
+## References

@@ -21,7 +21,7 @@ See terrorists batch for Kouachi brothers entry.
 |------|-------|
 | 2015 | Charlie Hebdo attack |
 
-## References
+
 
 [^1]: Wikipedia, "Chérif Kouachi" - https://en.wikipedia.org/wiki/Ch%C3%A9rif_Kouachi
 
@@ -61,3 +61,6 @@ See terrorists batch for Kouachi brothers entry.
 ## Additional References
 
 [^2]: Wikipedia, "Charlie Hebdo shooting" - https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting
+
+
+## References

@@ -38,7 +38,7 @@ Japanese forces used 180,000 Asian laborers and 60,000 Allied POWs to build the 
 - **War crimes legacy:** The treatment of laborers and POWs became part of post-war accountability efforts and broader historical discussions of Japanese wartime conduct in Southeast Asia.
 - **Commemoration:** Cemeteries, museums, and memorials in Thailand and Myanmar (and in veterans’ communities abroad) preserve the history of the railway and those who died building it.
 
-## References
+
 
 [^1]: Wikipedia, "Burma Railway" - https://en.wikipedia.org/wiki/Burma_Railway
 
@@ -62,3 +62,6 @@ Japanese forces used 180,000 Asian laborers and 60,000 Allied POWs to build the 
 
 - **War crimes proceedings:** The abuses associated with the railway became evidence in postwar trials and investigations into Japanese military conduct in Southeast Asia.
 - **Remembering romusha:** Modern scholarship and memorial practice increasingly emphasizes the experiences of Asian laborers, whose suffering historically received less attention than Allied POW narratives in some Western public memory.
+
+
+## References

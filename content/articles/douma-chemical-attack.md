@@ -22,7 +22,7 @@ Alleged chemical weapons attack in Douma, Syria on April 7, 2018 that killed ove
 | 2018 | Chemical attack killed 40+ |
 | 2018 | Western allies launched airstrikes |
 
-## References
+
 
 [^1]: Wikipedia, "Douma Chemical Attack" - https://en.wikipedia.org/wiki/Douma_Chemical_Attack
 
@@ -53,3 +53,6 @@ Alleged chemical weapons attack in Douma, Syria on April 7, 2018 that killed ove
   - Enforcement of the global taboo against **chemical weapons**.
   - The limits of international accountability mechanisms during civil wars.
   - How disputed incidents can shape escalation decisions by external powers.
+
+
+## References

@@ -21,7 +21,7 @@ Lebanese-Australian crime boss convicted of drug trafficking and directing crimi
 |------|-------|
 | 2019 | Convicted of drug trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Nihad Alameddine" - https://en.wikipedia.org/wiki/Nihad_Alameddine
 
@@ -51,3 +51,6 @@ Lebanese-Australian crime boss convicted of drug trafficking and directing crimi
 
 - Australian court records / sentencing remarks (where publicly available).
 - Credible press coverage citing case numbers, dates, and the court jurisdiction.
+
+
+## References

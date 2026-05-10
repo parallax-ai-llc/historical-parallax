@@ -23,7 +23,7 @@ British model at the center of the 1963 Profumo Affair. Her simultaneous relatio
 | 1963 | Profumo Affair became public scandal |
 | 2017 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Christine Keeler" - https://en.wikipedia.org/wiki/Christine_Keeler
 
@@ -53,3 +53,6 @@ British model at the center of the 1963 Profumo Affair. Her simultaneous relatio
 - Controversies or critical challenges (if applicable)
 - Later years and reassessment
 - Further reading: biographies, primary documents, or governing-body records (as applicable)
+
+
+## References

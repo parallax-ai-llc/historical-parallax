@@ -5,7 +5,7 @@ birth: "1853-12-22"
 death: "1920-07-20"
 nationality: "Indian"
 occupation: ["Saint", "Spiritual Mother"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Sri_Ma_Sarada_Devi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sarada_Devi"
 lastUpdated: "2026-02-21"

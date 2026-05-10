@@ -21,7 +21,7 @@ New York architect arrested as the suspected Gilgo Beach serial killer. Charged 
 |------|-------|
 | 2023 | Arrested for Gilgo Beach murders |
 
-## References
+
 
 [^1]: Wikipedia, "Rex Heuermann" - https://en.wikipedia.org/wiki/Rex_Heuermann
 
@@ -66,3 +66,6 @@ New York architect arrested as the suspected Gilgo Beach serial killer. Charged 
 ## Additional References
 
 - Wikipedia: Rex Heuermann — https://en.wikipedia.org/wiki/Rex_Heuermann[^1]
+
+
+## References

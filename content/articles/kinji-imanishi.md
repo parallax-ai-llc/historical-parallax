@@ -5,7 +5,7 @@ birth: "1902-01-06"
 death: "1992-06-15"
 nationality: "Japanese"
 occupation: ["Ecologist", "Primatologist", "Anthropologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Imanishi_Kinji.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kinji_Imanishi"
 lastUpdated: "2026-02-21"

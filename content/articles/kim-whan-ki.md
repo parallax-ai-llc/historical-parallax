@@ -5,7 +5,7 @@ birth: "1913-04-01"
 death: "1974-01-01"
 nationality: "Korean"
 occupation: ["Artist", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/9/9b/Portrait_of_Kim_Hwangi-Lim_Eungsik-1961.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Whan-ki"
 lastUpdated: "2026-02-21"

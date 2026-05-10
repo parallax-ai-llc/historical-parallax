@@ -21,7 +21,7 @@ Swedish serial killer who murdered multiple people in the 1980s.
 |------|-------|
 | 1987 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Lars-Erik Dyvik" - https://en.wikipedia.org/wiki/Lars-Erik_Dyvik
 
@@ -62,3 +62,6 @@ To make this page more historically robust, editors typically look for:
 - Serial homicide typologies (organized/disorganized, mission-oriented, etc.)
 - Forensic investigation practices in Scandinavia
 - Swedish corrections and sentencing policy in the late 20th century
+
+
+## References

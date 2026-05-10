@@ -24,7 +24,7 @@ Danish serial killer and baby farmer who murdered between 9 and 25 infants left 
 | 1921 | Convicted of 9 murders; death sentence commuted to life |
 | 1929 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Dagmar Overbye" - https://en.wikipedia.org/wiki/Dagmar_Overbye
 
@@ -49,3 +49,6 @@ The Overbye case has appeared in historical discussions of child protection, cri
 - Baby farming
 - Child welfare history
 - Serial killer (historical cases)
+
+
+## References

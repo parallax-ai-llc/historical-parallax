@@ -21,7 +21,7 @@ South African Bitcoin Ponzi scheme that defrauded investors of $1.7 billion.
 |------|-------|
 | 2020 | Collapsed as Ponzi scheme |
 
-## References
+
 
 [^1]: Wikipedia, "Mirror Trading International" - https://en.wikipedia.org/wiki/Mirror_Trading_International
 
@@ -81,3 +81,6 @@ These signals are commonly associated with Ponzi-style operations and were discu
 ## References (Additional)
 
 [^2]: Wikipedia (overview, reported leadership and collapse details) - https://en.wikipedia.org/wiki/Mirror_Trading_International
+
+
+## References

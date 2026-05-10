@@ -23,7 +23,7 @@ Thailands role as a major transit point for methamphetamine from Myanmar and Lao
 | 2000s | Shift to methamphetamine |
 | 2021 | Record seizures of crystal meth |
 
-## References
+
 
 [^1]: Wikipedia, "Thai Drug Trade" - https://en.wikipedia.org/wiki/Thai_Drug_Trade
 
@@ -49,3 +49,6 @@ Thailands role as a major transit point for methamphetamine from Myanmar and Lao
 ## Further Reading
 
 - See the reference link(s) above for expanded detail and primary sourcing.
+
+
+## References

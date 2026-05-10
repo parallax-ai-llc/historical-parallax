@@ -21,7 +21,7 @@ Finnish serial killer who murdered an entire family in Sweden while on the run.
 |------|-------|
 | 1988 | Murdered three family members in Åmsele, Sweden |
 
-## References
+
 
 [^1]: Wikipedia, "Juha Valjakkala" - https://en.wikipedia.org/wiki/Juha_Valjakkala
 
@@ -56,3 +56,6 @@ Finnish serial killer who murdered an entire family in Sweden while on the run.
 - Primary known offense: 1988 Åmsele family murders (Sweden).
 - Jurisdiction: Sweden (investigation, trial, sentencing).
 - Primary public reference: Wikipedia entry linked above.
+
+
+## References

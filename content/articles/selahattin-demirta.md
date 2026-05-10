@@ -5,7 +5,7 @@ birth: "1973-04-10"
 death: "Unknown"
 nationality: "Turkey"
 occupation: ["Political Prisoner"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Selahattin_Demirta%C5%9F_2015-12-18_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Selahattin_Demirta%C5%9F"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Kurdish politician imprisoned since 2016 despite European Court of Human Rights 
 |------|-------|
 | 2016 | Imprisoned on terrorism charges |
 
-## References
+
 
 [^1]: Wikipedia, "Selahattin Demirtaş" - https://en.wikipedia.org/wiki/Selahattin_Demirta%C5%9F
 
@@ -50,3 +50,6 @@ Kurdish politician imprisoned since 2016 despite European Court of Human Rights 
 - Peoples' Democratic Party (HDP)
 - European Court of Human Rights (ECHR)
 - Kurdish–Turkish political relations
+
+
+## References

@@ -22,7 +22,7 @@ Former Interpol president who disappeared while visiting China and was later con
 | 2018 | Disappeared in China while serving as Interpol president |
 | 2020 | Sentenced to 13.5 years for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Meng Hongwei" - https://en.wikipedia.org/wiki/Meng_Hongwei
 
@@ -49,3 +49,6 @@ Meng's case mattered beyond one individual because it intersected with:
 ## Notes
 
 Public reporting on the details of Meng's detention and communications during the initial period is limited; most high-level summaries rely on official statements and later court outcomes.
+
+
+## References

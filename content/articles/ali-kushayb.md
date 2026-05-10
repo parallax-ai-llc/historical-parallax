@@ -24,7 +24,7 @@ Sudanese Janjaweed militia leader charged by the ICC with 31 counts of war crime
 | 2020 | Surrendered to ICC in The Hague |
 | 2024 | Trial ongoing at ICC |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Kushayb" - https://en.wikipedia.org/wiki/Ali_Kushayb
 
@@ -57,3 +57,6 @@ Kushayb's case is frequently referenced in discussions of:
 - International Criminal Court
 - War in Darfur
 - Omar al-Bashir (ICC case)
+
+
+## References

@@ -21,7 +21,7 @@ Polish serial killer known as the 'Red Spider' who murdered at least 6 women.
 |------|-------|
 | 1967 | Arrested for serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Lucian Staniak" - https://en.wikipedia.org/wiki/Lucian_Staniak
 
@@ -59,3 +59,6 @@ Polish serial killer known as the 'Red Spider' who murdered at least 6 women.
 ## Further Reading
 
 - Wikipedia (overview and references): https://en.wikipedia.org/wiki/Lucian_Staniak
+
+
+## References

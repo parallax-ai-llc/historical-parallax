@@ -21,7 +21,7 @@ Spanish bishop who destroyed virtually all Mayan manuscripts and tortured indige
 |------|-------|
 | 1562 | Burned Mayan codices and tortured thousands |
 
-## References
+
 
 [^1]: Wikipedia, "Diego de Landa" - https://en.wikipedia.org/wiki/Diego_de_Landa
 
@@ -58,3 +58,6 @@ Spanish bishop who destroyed virtually all Mayan manuscripts and tortured indige
 - Spanish colonization of Yucatán and missionary activity
 - Colonial-era inquisitorial practices in the Americas
 
+
+
+## References

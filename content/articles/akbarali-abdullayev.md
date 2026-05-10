@@ -21,7 +21,7 @@ Uzbek security official involved in systematic torture of dissidents under the K
 |------|-------|
 | 2005 | Participated in post-Andijan crackdown |
 
-## References
+
 
 [^1]: Wikipedia, "Akbarali Abdullayev" - https://en.wikipedia.org/wiki/Akbarali_Abdullayev
 
@@ -53,3 +53,6 @@ The 2005 events in Andijan are frequently cited as a turning point in Uzbekistan
 ## Notes on Sources
 
 This profile currently relies primarily on a single, general reference and should be expanded with additional independent reporting (e.g., reputable NGO reports, investigative journalism, or official sanctions listings) as they become available.
+
+
+## References

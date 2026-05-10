@@ -22,7 +22,7 @@ Elderly Fulani herder leader accused of masterminding kidnapping, robbery, and h
 | 2019 | Accused of directing criminal operations from base in Oyo State |
 | 2021 | Arrested by Amotekun vigilante group |
 
-## References
+
 
 [^1]: Wikipedia, "Iskilu Wakili" - https://en.wikipedia.org/wiki/Iskilu_Wakili
 
@@ -48,3 +48,6 @@ Elderly Fulani herder leader accused of masterminding kidnapping, robbery, and h
 - **Context:** political, social, and geographic framing.
 - **Aftermath:** investigations, reforms, and legacy.
 - **Sources:** prioritize primary documents and reputable reporting.
+
+
+## References

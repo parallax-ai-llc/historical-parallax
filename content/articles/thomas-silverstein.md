@@ -24,7 +24,7 @@ American prisoner who spent 36 years in solitary confinement, the longest stretc
 | 1983 | Placed in permanent solitary confinement |
 | 2019 | Died in prison after 36 years in solitary |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Silverstein" - https://en.wikipedia.org/wiki/Thomas_Silverstein
 
@@ -54,3 +54,6 @@ American prisoner who spent 36 years in solitary confinement, the longest stretc
 - 영향: 후대에 남긴 파급(법·정책·학문·대중문화 등)
 - 참고: 1차 기록과 2차 연구의 구분
 
+
+
+## References

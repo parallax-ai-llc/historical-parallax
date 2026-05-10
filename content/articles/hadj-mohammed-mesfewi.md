@@ -23,7 +23,7 @@ Moroccan serial killer and cobbler who murdered at least 36 women in Marrakech i
 | 1906 | Arrested after decomposing remains found in his shop |
 | 1906 | Walled up alive as punishment |
 
-## References
+
 
 [^1]: Wikipedia, "Hadj Mohammed Mesfewi" - https://en.wikipedia.org/wiki/Hadj_Mohammed_Mesfewi
 
@@ -52,3 +52,6 @@ The case tends to persist in historical memory because it combines:
 - an urban setting with a localized series of crimes
 - the dramatic nature of the alleged concealment and later discovery
 - its role in popular discussions of “early” serial crime narratives in North Africa
+
+
+## References

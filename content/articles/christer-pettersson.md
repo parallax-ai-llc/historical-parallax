@@ -21,7 +21,7 @@ Convicted then acquitted of the 1986 assassination of Swedish PM Olof Palme in o
 |------|-------|
 | 1989 | Convicted then acquitted of Palme assassination |
 
-## References
+
 
 [^1]: Wikipedia, "Christer Pettersson" - https://en.wikipedia.org/wiki/Christer_Pettersson
 
@@ -55,3 +55,6 @@ Convicted then acquitted of the 1986 assassination of Swedish PM Olof Palme in o
 ## Further Reading
 
 - Wikipedia overview: see reference above for a consolidated summary of the investigation, legal process, and biographical context.
+
+
+## References

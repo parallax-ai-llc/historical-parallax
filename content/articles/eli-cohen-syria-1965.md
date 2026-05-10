@@ -38,7 +38,7 @@ Despite pleas from the Pope and governments worldwide, Syria publicly hanged him
 
 ---
 
-## References
+
 
 - **The Spy** (Netflix Series)
 - **Our Man in Damascus** (Eli Ben-Hanan)
@@ -52,3 +52,6 @@ Despite pleas from the Pope and governments worldwide, Syria publicly hanged him
 
 In Israel, Cohen is remembered as a symbol of strategic intelligence work and personal sacrifice; periodic diplomatic efforts have sought the return of his remains, which Syria has not provided.
 
+
+
+## References

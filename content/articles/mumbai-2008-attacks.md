@@ -21,7 +21,7 @@ Ten Pakistani terrorists from Lashkar-e-Taiba attacked multiple locations across
 | 2008 | Coordinated attacks killed 166 across Mumbai |
 | 2012 | Lone surviving attacker Ajmal Kasab executed |
 
-## References
+
 
 [^1]: Wikipedia, "Mumbai 2008 Attacks" - https://en.wikipedia.org/wiki/Mumbai_2008_Attacks
 
@@ -48,3 +48,6 @@ Ten Pakistani terrorists from Lashkar-e-Taiba attacked multiple locations across
 ## Suggested follow-up
 - Look for: official reports, court documents (if any), reputable investigative journalism, and academic/think-tank overviews.
 - If multiple credible accounts disagree, summarize the competing claims and cite the best available evidence on each side.
+
+
+## References

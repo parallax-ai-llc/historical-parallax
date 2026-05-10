@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2023 | Arrested for massive intelligence leak |
 
-## References
+
 
 [^1]: Wikipedia, "Jack Teixeira" - https://en.wikipedia.org/wiki/Jack_Teixeira
 
@@ -52,3 +52,6 @@ lastUpdated: "2026-02-26"
 - Insider threat
 - Discord and private online communities
 - OSINT (open-source intelligence)
+
+
+## References

@@ -43,7 +43,7 @@ Sultan bin Salman Al Saud became the first Arab and first Muslim in space when h
 - His spaceflight is frequently referenced in regional discussions about representation in STEM and the history of Arab participation in space.
 - Public narratives around his mission often emphasize the diplomatic and cultural impact alongside the technical aspects of the shuttle program.
 
-## References
+
 
 [^1]: Wikipedia, "Sultan bin Salman" - https://en.wikipedia.org/wiki/Sultan_bin_Salman
 
@@ -51,3 +51,6 @@ Sultan bin Salman Al Saud became the first Arab and first Muslim in space when h
 
 - STS-51-G
 - Payload specialist
+
+
+## References

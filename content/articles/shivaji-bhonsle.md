@@ -5,7 +5,7 @@ birth: "1630-02-19"
 death: "1680-04-03"
 nationality: "India"
 occupation: ["Historical Criminal", "Rebel"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Shivaji_British_Museum.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shivaji_Bhonsle"
 lastUpdated: "2026-02-26"

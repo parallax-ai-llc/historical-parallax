@@ -5,7 +5,7 @@ birth: "1961-11-10"
 death: "Unknown"
 nationality: "Costa Rica"
 occupation: ["Controversial Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rodrigo_Chaves_2022-5-16_Foto_by_Julieth_Mendez_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rodrigo_Chaves_Robles"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Costa Rican president who was sanctioned by the World Bank for sexual harassment
 | 2019 | Sanctioned by World Bank for sexual harassment |
 | 2022 | Elected president despite misconduct allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Rodrigo Chaves Robles" - https://en.wikipedia.org/wiki/Rodrigo_Chaves_Robles
 
@@ -63,3 +63,6 @@ Chaves' case is frequently cited as an example of how:
 
 - Politics of Costa Rica
 - Executive power and constitutional constraints
+
+
+## References

@@ -23,7 +23,7 @@ French fraudster who posed as a doctor for years treating patients without a med
 | 2008 | Arrested |
 | 2010 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Luca Chancel" - https://en.wikipedia.org/wiki/Luca_Chancel
 
@@ -50,3 +50,6 @@ French fraudster who posed as a doctor for years treating patients without a med
 ## Source Notes
 - This entry is currently short and should be treated as a starting point rather than a definitive account.
 - If a cited link becomes unavailable or resolves to a placeholder page, add an archived copy and alternative reputable sources.
+
+
+## References

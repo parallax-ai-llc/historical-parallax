@@ -21,7 +21,7 @@ Series of jihadist massacres in Burkina Faso killing hundreds of civilians.
 |------|-------|
 | 2022 | Multiple mass killings by jihadists |
 
-## References
+
 
 [^1]: Wikipedia, "Burkina Faso Massacres" - https://en.wikipedia.org/wiki/Burkina_Faso_Massacres
 
@@ -50,3 +50,6 @@ Series of jihadist massacres in Burkina Faso killing hundreds of civilians.
 
 [^2]: Wikipedia, "Insurgency in Burkina Faso" - https://en.wikipedia.org/wiki/Insurgency_in_Burkina_Faso
 [^3]: Wikipedia, "Jihadist insurgency in the Sahel" - https://en.wikipedia.org/wiki/Jihadist_insurgency_in_the_Sahel
+
+
+## References

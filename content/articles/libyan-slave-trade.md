@@ -23,7 +23,7 @@ Modern slave markets in Libya where sub-Saharan African migrants are bought and 
 | 2017 | UN Security Council condemned trade |
 | 2023 | Trafficking continues |
 
-## References
+
 
 [^1]: Wikipedia, "Libyan Slave Trade" - https://en.wikipedia.org/wiki/Libyan_Slave_Trade
 
@@ -52,3 +52,6 @@ Modern slave markets in Libya where sub-Saharan African migrants are bought and 
 ## Documentation Notes
 
 - Reported prices and specific incidents can vary by time and location; many accounts come from survivor testimony and investigative reporting.
+
+
+## References

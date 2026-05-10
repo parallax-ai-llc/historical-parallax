@@ -21,7 +21,7 @@ Leader of the One Order gang in Montego Bay responsible for hundreds of murders.
 |------|-------|
 | 2018 | Led major gang operations in Montego Bay |
 
-## References
+
 
 [^1]: Wikipedia, "Joel Andem" - https://en.wikipedia.org/wiki/Joel_Andem
 
@@ -54,3 +54,6 @@ This entry is intentionally high-level:
 
 [^2]: Encyclopaedia Britannica, "Montego Bay" (city overview) – https://www.britannica.com/place/Montego-Bay
 [^3]: Jamaica Constabulary Force (JCF) — public information and releases – https://www.jcf.gov.jm/
+
+
+## References

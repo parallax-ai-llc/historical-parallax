@@ -5,7 +5,7 @@ birth: "1990-01-20"
 death: "N/A (Death Row)"
 nationality: "Japan"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Tsukui_Yamayuri_En_2021-11-11.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sagamihara_stabbings"
 lastUpdated: "2026-02-26"
@@ -19,7 +19,7 @@ Satoshi Uematsu killed 19 disabled people and wounded 26 at the Tsukui Yamayuri 
 |------|-------|
 | 1990 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -56,3 +56,6 @@ Satoshi Uematsu killed 19 disabled people and wounded 26 at the Tsukui Yamayuri 
 
 ## Notes
 - This article summarizes widely reported public information; details can vary by source and translation.
+
+
+## References

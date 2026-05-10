@@ -23,7 +23,7 @@ Thierry Henry was Arsenal's all-time top scorer and led the 'Invincibles' unbeat
 | 2004 | Led Arsenal's unbeaten season |
 | 2009 | Won CL with Barcelona |
 
-## References
+
 
 [^1]: Wikipedia, "Thierry Henry" - https://en.wikipedia.org/wiki/Thierry_Henry
 
@@ -48,3 +48,6 @@ After retiring as a player, Henry worked in coaching and media roles, including 
 ## Legacy
 
 Henry is often cited among the top forwards of his era, particularly for his peak years in the Premier League and his influence on how modern wide-forward roles developed.
+
+
+## References

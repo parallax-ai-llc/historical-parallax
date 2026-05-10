@@ -21,7 +21,7 @@ Zimbabwean president who replaced Mugabe but continued authoritarian rule and ec
 |------|-------|
 | 2017 | Replaced Mugabe after military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Emmerson Mnangagwa" - https://en.wikipedia.org/wiki/Emmerson_Mnangagwa
 
@@ -68,3 +68,6 @@ Foreign relations
 
 [^2]: BBC News profile coverage and reporting on Zimbabwe politics during Mnangagwa era - https://www.bbc.com/news/topics/c7zgz2j1rxgt/zimbabwe
 [^3]: World Bank country overview and data for Zimbabwe (macroeconomic context) - https://www.worldbank.org/en/country/zimbabwe/overview
+
+
+## References

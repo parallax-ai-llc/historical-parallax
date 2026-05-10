@@ -22,7 +22,7 @@ Kérékou's Marxist-Leninist regime in Benin renamed the country and suppressed 
 | 1972 | Seized power; imposed Marxism |
 | 1990 | Forced to accept multiparty democracy |
 
-## References
+
 
 [^1]: Wikipedia, "Mathieu Kérékou Regime" - https://en.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou_Regime
 
@@ -50,3 +50,6 @@ When fiscal crisis deepens, regimes often become more vulnerable to mass protest
 The 1990 political transition is widely described as a shift to multiparty democracy.
 Such transitions often involve negotiated settlements and constitutional reforms rather than total rupture.
 The Benin case is frequently cited in discussions of peaceful democratization in West Africa.
+
+
+## References

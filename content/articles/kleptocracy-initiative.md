@@ -21,7 +21,7 @@ US DOJ Kleptocracy Asset Recovery Initiative recovers assets stolen by corrupt f
 |------|-------|
 | 2010 | Initiative launched |
 
-## References
+
 
 [^1]: Wikipedia, "Kleptocracy Initiative" - https://en.wikipedia.org/wiki/Kleptocracy_Initiative
 
@@ -75,3 +75,6 @@ Commonly discussed challenges include:
 ## References (Additional)
 
 [^2]: U.S. Department of Justice, Criminal Division (Money Laundering and Asset Recovery Section) — Kleptocracy Asset Recovery Initiative overview: https://www.justice.gov/criminal/criminal-fraud/kleptocracy-asset-recovery-initiative
+
+
+## References

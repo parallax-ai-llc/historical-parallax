@@ -23,7 +23,7 @@ Vietnamese serial killer who murdered at least 6 women in Ho Chi Minh City durin
 | 2006 | Arrested |
 | 2008 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Le Thanh Van" - https://en.wikipedia.org/wiki/Le_Thanh_Van
 
@@ -50,3 +50,6 @@ Court proceedings resulted in a conviction and a death sentence. Vietnamese crim
 ## Notability
 
 The case is frequently cited in discussions of violent crime targeting marginalized victims in large cities, and in broader summaries of notable criminal cases in Vietnam in the 2000s.
+
+
+## References

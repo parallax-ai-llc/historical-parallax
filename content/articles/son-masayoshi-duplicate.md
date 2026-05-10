@@ -50,7 +50,7 @@ Masayoshi Son is a Japanese entrepreneur and investor best known for founding **
 - Emphasis on long-horizon bets in platforms, networks, and companies positioned to scale rapidly.
 - Portfolio focus areas have included telecommunications infrastructure, semiconductors, internet platforms, and AI-adjacent technology companies.
 
-## References
+
 
 [^1]: Wikipedia, "Son Masayoshi duplicate" - https://en.wikipedia.org/wiki/Son_Masayoshi_duplicate
 
@@ -70,3 +70,6 @@ For historical or biographical datasets, duplicate entries often arise from:
 - Import pipelines that treat redirects, mirrors, or scraped headings as separate records.
 
 This article preserves the original minimal text ("Duplicate") while adding context so readers understand that it likely refers to the better-known canonical subject.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1919-04-11"
 death: "1945-08-15"
 nationality: "China"
 occupation: ["Historical Event", "Government", "Korean History"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_the_Provisional_Government_of_the_Republic_of_Korea.svg/960px-Flag_of_the_Provisional_Government_of_the_Republic_of_Korea.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Korean_Provisional_Government"
 lastUpdated: "2026-02-21"

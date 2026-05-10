@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2021 | 9 killed at school in Kazan |
 
-## References
+
 
 [^1]: Wikipedia, "Kazan School Shooting" - https://en.wikipedia.org/wiki/Kazan_School_Shooting
 
@@ -59,3 +59,6 @@ lastUpdated: "2026-02-26"
 - **Location:** School No. 175, Kazan, Tatarstan, Russia
 - **Fatalities:** 9
 - **Type:** School shooting / mass shooting
+
+
+## References

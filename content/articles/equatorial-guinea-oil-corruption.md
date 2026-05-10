@@ -22,7 +22,7 @@ Equatorial Guinea's oil revenues of $4 billion annually are controlled by the Ob
 | 1996 | Oil boom began |
 | 2019 | Vice President convicted of corruption in France |
 
-## References
+
 
 [^1]: Wikipedia, "Equatorial Guinea Oil Corruption" - https://en.wikipedia.org/wiki/Equatorial_Guinea_Oil_Corruption
 
@@ -55,3 +55,6 @@ Equatorial Guinea's oil revenues of $4 billion annually are controlled by the Ob
 [^4]: Wikipedia, "Teodoro Obiang Nguema Mbasogo" - https://en.wikipedia.org/wiki/Teodoro_Obiang_Nguema_Mbasogo
 [^5]: Wikipedia, "Teodoro Nguema Obiang Mangue" - https://en.wikipedia.org/wiki/Teodoro_Nguema_Obiang_Mangue
 [^6]: Wikipedia, "Money laundering" - https://en.wikipedia.org/wiki/Money_laundering
+
+
+## References

@@ -55,7 +55,7 @@ These are the major categories of activity widely associated with the Outfit dur
 - **Era**: Prohibition and its aftermath
 - **Public profile**: Less flamboyant than Capone, often portrayed as an organizational operator
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Overview
@@ -72,3 +72,6 @@ These are the major categories of activity widely associated with the Outfit dur
 - Nitti and related figures appear frequently in American cultural memory through journalism, popular histories, and film/television portrayals of Prohibition-era crime.
 - The era is also used to study how policy choices can create lucrative illegal markets and the downstream institutional effects of widespread corruption.
 
+
+
+## References

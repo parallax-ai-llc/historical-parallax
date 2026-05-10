@@ -21,7 +21,7 @@ Syrian intelligence chief sanctioned for overseeing systematic torture and deten
 |------|-------|
 | 2012 | Sanctioned for human rights abuses |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Mamluk" - https://en.wikipedia.org/wiki/Ali_Mamluk
 
@@ -76,3 +76,6 @@ Syrian intelligence chief sanctioned for overseeing systematic torture and deten
 - Syrian intelligence services (general)
 - Syria civil war (context)
 - International sanctions (mechanisms)
+
+
+## References

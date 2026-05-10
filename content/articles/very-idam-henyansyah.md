@@ -23,7 +23,7 @@ Indonesian serial killer known as 'Ryan' who murdered 11 people and buried their
 | 2008 | Arrested; bodies found in backyard |
 | 2008 | Executed by firing squad |
 
-## References
+
 
 [^1]: Wikipedia, "Very Idam Henyansyah" - https://en.wikipedia.org/wiki/Very_Idam_Henyansyah
 
@@ -48,3 +48,6 @@ Because some circulating summaries include potentially conflicting claims (for e
 The case is sometimes referenced in discussions about investigative capacity and missing-person reporting, particularly when multiple victims are connected to a single suspect. It also illustrates how sensational coverage can shape public perception of crime, sometimes compressing complex legal timelines into simplified narratives.
 
 This article avoids adding unverified biographical claims beyond what is consistently documented in major sources.
+
+
+## References

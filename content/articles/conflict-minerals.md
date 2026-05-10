@@ -21,7 +21,7 @@ Armed groups in eastern Congo fund their operations through control of tin, tant
 |------|-------|
 | 2010 | Dodd-Frank Act addressed conflict minerals |
 
-## References
+
 
 [^1]: Wikipedia, "Conflict Minerals" - https://en.wikipedia.org/wiki/Conflict_Minerals
 
@@ -59,3 +59,6 @@ The core concern is not only the origin of minerals, but the **human rights and 
 ## Notes
 
 “Conflict minerals” is a policy and compliance term; it does not imply that all mining in the region is illicit, nor that every supply chain link is directly controlled by armed groups.
+
+
+## References

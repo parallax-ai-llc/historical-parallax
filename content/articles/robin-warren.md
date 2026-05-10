@@ -5,7 +5,7 @@ birth: "1937-06-11"
 death: "Unknown"
 nationality: "Australian"
 occupation: ["Pathologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Robin_Warren.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robin_Warren"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Robin Warren is an Australian pathologist who shared the 2005 Nobel Prize for di
 | 1979 | Identified spiral bacteria |
 | 2005 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Robin Warren" - https://en.wikipedia.org/wiki/Robin_Warren
 
@@ -49,3 +49,6 @@ More broadly, it became a landmark example of infectious causes contributing to 
 
 Warren and Marshall received the Nobel Prize in Physiology or Medicine in 2005 for their contributions.
 Their work is frequently cited as a case study in careful clinical observation, persistence in research, and paradigm change in medicine.
+
+
+## References

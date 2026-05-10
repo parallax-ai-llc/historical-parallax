@@ -21,7 +21,7 @@ Second known protester executed during Iran's 2022 protests, publicly hanged fro
 |------|-------|
 | 2022 | Publicly hanged during protest crackdown |
 
-## References
+
 
 [^1]: Wikipedia, "Majidreza Rahnavard" - https://en.wikipedia.org/wiki/Majidreza_Rahnavard
 
@@ -61,3 +61,6 @@ Second known protester executed during Iran's 2022 protests, publicly hanged fro
 
 - Mahsa Amini and the 2022 Iranian protests
 - Use of capital punishment in Iran (protest-related cases)
+
+
+## References

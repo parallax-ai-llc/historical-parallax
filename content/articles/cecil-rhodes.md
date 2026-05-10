@@ -24,7 +24,7 @@ British mining magnate and politician who founded Rhodesia and De Beers diamonds
 | 1895 | Organized failed Jameson Raid |
 | 1902 | Died; left fortune to establish Rhodes Scholarships |
 
-## References
+
 
 [^1]: Wikipedia, "Cecil Rhodes" - https://en.wikipedia.org/wiki/Cecil_Rhodes
 
@@ -49,3 +49,6 @@ Rhodes left a bequest that established the Rhodes Scholarships, which have suppo
 At the same time, his beliefs in racial hierarchy and his role in colonial violence and extraction have made him a focal point of debate about memorialization, especially in controversies over statues, building names, and institutional ties to colonial-era benefactors.
 
 In historical writing, Rhodes often symbolizes the fusion of finance, ideology, and state power that characterized late-19th-century imperialism.
+
+
+## References

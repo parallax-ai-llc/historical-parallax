@@ -21,7 +21,7 @@ South Korean transgender soldier dismissed from military who was later found dea
 |------|-------|
 | 2021 | Found dead after military dismissal |
 
-## References
+
 
 [^1]: Wikipedia, "Byeon Hui-su" - https://en.wikipedia.org/wiki/Byeon_Hui-su
 
@@ -57,3 +57,6 @@ South Korean transgender soldier dismissed from military who was later found dea
 - Transgender rights in South Korea
 - LGBT rights in South Korea
 - Transgender people and military service
+
+
+## References

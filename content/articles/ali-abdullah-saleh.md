@@ -24,7 +24,7 @@ Yemeni president who ruled for 33 years through corruption and tribal alliances.
 | 2012 | Forced to resign during Arab Spring |
 | 2017 | Killed by Houthi forces after switching allegiances |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Abdullah Saleh" - https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh
 
@@ -61,3 +61,6 @@ Saleh remains a polarizing figure. Supporters have argued he provided continuity
 - Yemen unification
 - Yemeni Civil War (2014–present)
 - General People's Congress (Yemen)
+
+
+## References

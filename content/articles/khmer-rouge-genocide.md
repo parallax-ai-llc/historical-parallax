@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Cambodia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Skulls_from_the_killing_fields.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khmer_Rouge_Genocide"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Genocide by the Khmer Rouge from 1975-1979 that killed 1.5-2 million Cambodians 
 | 1975 | Khmer Rouge took power |
 | 1979 | Vietnamese invasion ended regime |
 
-## References
+
 
 [^1]: Wikipedia, "Khmer Rouge Genocide" - https://en.wikipedia.org/wiki/Khmer_Rouge_Genocide
 
@@ -54,3 +54,6 @@ The genocide is a central case in studies of mass atrocity, revolutionary violen
 - S-21 (Tuol Sleng)
 - Cambodian Civil War
 - Extraordinary Chambers in the Courts of Cambodia
+
+
+## References

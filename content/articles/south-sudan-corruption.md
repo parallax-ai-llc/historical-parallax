@@ -22,7 +22,7 @@ South Sudan lost $4 billion to corruption in its first two years of independence
 | 2012 | Kiir wrote to 75 officials demanding stolen money back |
 | 2013 | Civil war began |
 
-## References
+
 
 [^1]: Wikipedia, "South Sudan Corruption" - https://en.wikipedia.org/wiki/South_Sudan_Corruption
 
@@ -56,3 +56,6 @@ Sustained corruption can:
 - reduce the capacity to deliver health, education, and basic services,
 - amplify conflict incentives by turning control of the state into control of rents, and
 - complicate international aid by raising fiduciary risk.
+
+
+## References

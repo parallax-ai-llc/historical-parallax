@@ -22,7 +22,7 @@ Chadian rebel leader who founded the Movement for Democracy and Justice in Chad.
 | 1998 | Founded MDJT rebel movement against Déby |
 | 2002 | Killed by landmine in northern Chad |
 
-## References
+
 
 [^1]: Wikipedia, "Youssouf Togoïmi" - https://en.wikipedia.org/wiki/Youssouf_Togo%C3%AFmi
 
@@ -53,3 +53,6 @@ Attribution for specific incidents should be verified against contemporaneous re
 ## Notes
 
 This article offers a short overview of a rebel leader and movement. For a fuller account, consult academic histories of Chadian insurgencies and reporting on Tibesti-region conflicts in the late 1990s and early 2000s.
+
+
+## References

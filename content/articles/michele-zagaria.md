@@ -23,7 +23,7 @@ Italian Camorra boss of the Casalesi clan who was one of Italy's most wanted fug
 | 2000 | Became most wanted Camorra boss |
 | 2011 | Captured in underground bunker after 16 years |
 
-## References
+
 
 [^1]: Wikipedia, "Michele Zagaria" - https://en.wikipedia.org/wiki/Michele_Zagaria
 
@@ -50,3 +50,6 @@ Following his arrest, coverage typically focuses on the disruption of local clan
 ## Broader Context
 
 The Casalesi clan is often cited in discussions of how Camorra groups blend territorial control with participation in formal markets, especially where public works and permitting create leverage points for corruption.
+
+
+## References

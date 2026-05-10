@@ -22,7 +22,7 @@ Murder of anti-Mafia judge Giovanni Falcone on May 23, 1992 when Cosa Nostra det
 | 1992 | Bomb detonated on highway |
 | 1992 | Falcone, wife, and 3 guards killed |
 
-## References
+
 
 [^1]: Wikipedia, "Giovanni Falcone Assassination" - https://en.wikipedia.org/wiki/Giovanni_Falcone_Assassination
 
@@ -49,3 +49,6 @@ Major Mafia attacks in this period spurred intensified investigations, prosecuti
 - It highlighted the risks faced by magistrates, police, and witnesses confronting entrenched criminal organizations
 
 The event is frequently discussed alongside subsequent attacks in 1992 as part of a broader campaign of Mafia violence.
+
+
+## References

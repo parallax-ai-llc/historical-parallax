@@ -24,7 +24,7 @@ Powerful Sicilian Mafia clan from Siculiana that built a global criminal network
 | 1998 | Alfonso Caruana arrested in Toronto |
 | 2008 | Paolo Cuntrera arrested in Italy |
 
-## References
+
 
 [^1]: Wikipedia, "Cuntrera-Caruana Mafia clan" - https://en.wikipedia.org/wiki/Cuntrera-Caruana_Mafia_clan
 
@@ -53,3 +53,6 @@ Descriptions of the clan commonly include involvement in:
 ## Law Enforcement Attention
 
 Multiple members have been the subject of investigations and arrests in different jurisdictions, reflecting the cross-border nature of the network. Publicly reported cases in Canada and Italy have been used to illustrate how Mafia families can operate through diaspora communities while retaining links to Sicily.
+
+
+## References

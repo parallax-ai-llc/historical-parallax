@@ -22,7 +22,7 @@ Japanese prisoner famous for escaping from four maximum-security prisons through
 | 1936 | First prison escape |
 | 1944 | Fourth escape; recaptured after stabbing citizen |
 
-## References
+
 
 [^1]: Wikipedia, "Yoshie Shiratori" - https://en.wikipedia.org/wiki/Yoshie_Shiratori
 
@@ -56,3 +56,6 @@ Shiratori’s story has been cited as an extreme example of:
 ## Notes
 
 This article summarizes widely repeated claims in secondary sources. For precise dates, charges, and official documentation, consult court and corrections archives where available.
+
+
+## References

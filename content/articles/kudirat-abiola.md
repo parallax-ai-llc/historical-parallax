@@ -5,7 +5,7 @@ birth: "1951-01-01"
 death: "1996-06-04"
 nationality: "Nigeria"
 occupation: ["Assassination Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/40/Kudirat_Abiola_fair_use.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kudirat_Abiola"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Nigerian pro-democracy activist assassinated during the military dictatorship.
 |------|-------|
 | 1996 | Assassinated by military agents |
 
-## References
+
 
 [^1]: Wikipedia, "Kudirat Abiola" - https://en.wikipedia.org/wiki/Kudirat_Abiola
 
@@ -67,3 +67,6 @@ Nigerian pro-democracy activist assassinated during the military dictatorship.
 
 - Wikipedia: Kudirat Abiola
 - Overviews of the June 12 crisis and Nigeria’s transition to civilian rule
+
+
+## References

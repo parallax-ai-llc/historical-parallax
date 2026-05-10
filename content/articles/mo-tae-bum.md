@@ -22,7 +22,7 @@ Mo Tae-bum won 500m speed skating gold at the 2010 Vancouver Olympics.
 | 2010 | Won 500m gold at Vancouver Olympics |
 | 2010 | Won silver in 1000m |
 
-## References
+
 
 [^1]: Wikipedia, "Mo Tae-bum" - https://en.wikipedia.org/wiki/Mo_Tae-bum
 
@@ -49,3 +49,6 @@ Mo's gold medal is part of a broader South Korean tradition of producing world-c
 ## Further reading
 
 - Wikipedia overview and sources in the linked entry[^1]
+
+
+## References

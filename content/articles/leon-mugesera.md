@@ -5,7 +5,7 @@ birth: "1952-01-01"
 death: "Unknown"
 nationality: "Rwanda"
 occupation: ["Genocide Inciter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/L%C3%A9on_Mugesera.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leon_Mugesera"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Rwandan politician whose 1992 speech calling Tutsis 'cockroaches' and urging Hut
 | 1992 | Delivered inflammatory speech considered a precursor to genocide |
 | 2012 | Deported from Canada to Rwanda after 16-year legal battle |
 
-## References
+
 
 [^1]: Wikipedia, "Leon Mugesera" - https://en.wikipedia.org/wiki/Leon_Mugesera
 
@@ -52,3 +52,6 @@ Rwandan politician whose 1992 speech calling Tutsis 'cockroaches' and urging Hut
 - Mugesera is most often remembered not for holding executive power, but for a speech that became emblematic of political incitement.
 - The cross-border legal history is frequently cited as a case study in accountability efforts decades after alleged crimes.
 - The episode is commonly used to illustrate how propaganda and dehumanizing language can precede mass atrocity.
+
+
+## References

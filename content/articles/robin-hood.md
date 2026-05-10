@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "England"
 occupation: ["Outlaw", "Legendary Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Robin_Hood_on_a_Horse.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robin_Hood"
 lastUpdated: "2026-02-21"

@@ -22,7 +22,7 @@ Former President of Benin whose administration was criticized for nepotism and c
 | 1991 | Became President |
 | 1996 | Lost re-election |
 
-## References
+
 
 [^1]: Wikipedia, "Nicéphore Soglo" - https://en.wikipedia.org/wiki/Nic%C3%A9phore_Soglo
 
@@ -48,3 +48,6 @@ Soglo’s rise and defeat are frequently cited in discussions of democratic alte
 ## References (Additional)
 
 [^2]: Britannica, "Benin" (political history context) - https://www.britannica.com/place/Benin
+
+
+## References

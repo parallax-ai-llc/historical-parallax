@@ -21,7 +21,7 @@ See Samy Amimour. French terrorist who was one of three suicide bombers at the B
 |------|-------|
 | 2015 | Participated in Bataclan theater attack; killed himself |
 
-## References
+
 
 [^1]: Wikipedia, "Amimour" - https://en.wikipedia.org/wiki/Amimour
 
@@ -57,3 +57,6 @@ See Samy Amimour. French terrorist who was one of three suicide bombers at the B
 
 [^2]: Wikipedia, "November 2015 Paris attacks" - https://en.wikipedia.org/wiki/November_2015_Paris_attacks
 [^3]: Wikipedia, "Bataclan" (venue context) - https://en.wikipedia.org/wiki/Bataclan
+
+
+## References

@@ -22,7 +22,7 @@ This is a duplicate entry for Tu Youyou - please see the existing entry.
 | 1930 | Born |
 | 2015 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Youyou Tu" - https://en.wikipedia.org/wiki/Youyou_Tu
 
@@ -49,3 +49,6 @@ Artemisinin is derived from *Artemisia annua* (sweet wormwood). Modern malaria t
 This stub can serve as a redirect-like landing page. If the repository maintains a separate article with fuller details, that file should be treated as the primary narrative, while this one can focus on disambiguation and indexing stability.
 
 If no primary article exists, this page should be expanded into a full biography rather than remaining a duplicate stub.
+
+
+## References

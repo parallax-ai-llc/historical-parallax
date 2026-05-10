@@ -22,7 +22,7 @@ Australian bushranger active in New South Wales in the early 1860s, associated w
 | 1862 | Began bushranging activities after disputes with police |
 | 1865 | Shot and killed by police near Forbes, NSW |
 
-## References
+
 
 [^1]: Wikipedia, "Ben Hall (bushranger)" - https://en.wikipedia.org/wiki/Ben_Hall_(bushranger)
 
@@ -54,3 +54,6 @@ His story remains a recurring subject in Australian cultural history, where bush
 
 - criminals preying on communities
 - symbols used in narratives of resistance and national identity
+
+
+## References

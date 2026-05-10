@@ -21,7 +21,7 @@ Congolese warlord who built the Yeke Kingdom through slave trading before being 
 |------|-------|
 | 1891 | Killed by Belgian officer Bodson |
 
-## References
+
 
 [^1]: Wikipedia, "Msiri" - https://en.wikipedia.org/wiki/Msiri
 
@@ -58,3 +58,6 @@ Congolese warlord who built the Yeke Kingdom through slave trading before being 
 ## Notes
 
 - Spellings vary in historical and secondary sources (e.g., Msiri, M’Siri), which can affect searchability across archives and translations.[^1]
+
+
+## References

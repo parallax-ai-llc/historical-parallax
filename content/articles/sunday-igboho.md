@@ -22,7 +22,7 @@ Nigerian Yoruba activist who led agitation for Oduduwa Republic and attacked Ful
 | 2021 | Led anti-herder operations and Yoruba separatist movement |
 | 2021 | Arrested in Benin Republic while fleeing Nigeria |
 
-## References
+
 
 [^1]: Wikipedia, "Sunday Igboho" - https://en.wikipedia.org/wiki/Sunday_Igboho
 
@@ -50,3 +50,6 @@ Igboho is frequently discussed as an example of how non-state actors can gain in
 ## Notes
 
 This entry summarizes commonly reported themes at a high level; specific allegations and timelines may vary across sources and legal filings.
+
+
+## References

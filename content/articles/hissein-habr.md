@@ -22,7 +22,7 @@ Former President of Chad whose political police DDS tortured and killed 40,000 p
 | 1982 | Seized power |
 | 2016 | Convicted by Extraordinary African Chambers |
 
-## References
+
 
 [^1]: Wikipedia, "Hissein Habré" - https://en.wikipedia.org/wiki/Hissein_Habr%C3%A9
 
@@ -51,3 +51,6 @@ In 2016, the EAC convicted Habré of crimes against humanity, war crimes, and to
 ## Notes
 
 For quantitative claims (victim counts), prefer figures tied to cited reports or court findings.
+
+
+## References

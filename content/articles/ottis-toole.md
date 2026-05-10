@@ -47,7 +47,7 @@ Ottis Toole was the criminal partner of Henry Lee Lucas. He confessed to the 198
 - Henry Lee Lucas
 - Adam Walsh case
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Ottis Toole," Wikipedia, The Free Encyclopedia.
 
@@ -55,3 +55,6 @@ Ottis Toole was the criminal partner of Henry Lee Lucas. He confessed to the 198
 - **Confession reliability:** The Toole/Lucas era is often used as a cautionary example of how confessions can proliferate without strong corroboration.
 - **Media amplification:** High-profile cases connected to television coverage can intensify pressure on investigators to provide closure, sometimes distorting priorities.
 - **Record fragmentation:** Transient lifestyles and cross-jurisdiction crimes complicate evidence collection and case linkage, especially before modern data-sharing systems.
+
+
+## References

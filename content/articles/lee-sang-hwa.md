@@ -23,7 +23,7 @@ Lee Sang-hwa won consecutive Olympic 500m speed skating golds at 2010 Vancouver 
 | 2014 | Won 500m gold at Sochi |
 | 2018 | Won silver at PyeongChang |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Sang-hwa" - https://en.wikipedia.org/wiki/Lee_Sang-hwa
 
@@ -50,3 +50,6 @@ Lee is commonly described as one of South Korea's most accomplished winter Olymp
 ## Competitive Era
 
 Her peak years overlapped with an era of rapid performance improvements in women's sprint skating, driven by advances in technique, ice preparation, and equipment. Season narratives often frame her results in the context of intense World Cup competition where margins were frequently decided by hundredths of a second.
+
+
+## References

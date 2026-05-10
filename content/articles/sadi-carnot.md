@@ -39,7 +39,7 @@ He introduced the idealized reversible engine cycle (now called the Carnot cycle
 
 Carnot’s early death limited his direct output, but the conceptual framework he introduced influenced later scientists who developed thermodynamics in its modern form. His work is frequently cited in physics and engineering education as the cleanest route to understanding why heat engines face unavoidable constraints.
 
-## References
+
 
 [^1]: Wikipedia, "Sadi Carnot" - https://en.wikipedia.org/wiki/Sadi_Carnot
 
@@ -48,3 +48,6 @@ Carnot’s early death limited his direct output, but the conceptual framework h
 - **Reversibility:** an ideal limit used to define maximum efficiency.
 - **Temperature reservoirs:** hot and cold bodies between which heat flows.
 - **Efficiency bound:** depends on temperature difference, not engine design.
+
+
+## References

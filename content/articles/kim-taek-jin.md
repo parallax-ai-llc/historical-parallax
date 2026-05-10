@@ -5,7 +5,7 @@ birth: "1967-02-08"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Software engineer", "Game developer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/T.J._Kim_%28the_CEO_of_NC_Soft%29_from_acrofan.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Taek-jin"
 lastUpdated: "2026-02-21"

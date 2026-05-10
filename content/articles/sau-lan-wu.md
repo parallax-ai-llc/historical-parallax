@@ -5,7 +5,7 @@ birth: "1940-05-15"
 death: "living"
 nationality: "Chinese-American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Physicist_Sau_Lan_Wu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sau_Lan_Wu"
 lastUpdated: "2026-02-21"

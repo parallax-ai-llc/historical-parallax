@@ -21,7 +21,7 @@ Serbian-Swedish crime boss murdered in a car bombing, linked to major drug traff
 |------|-------|
 | 2018 | Killed in car bomb attack |
 
-## References
+
 
 [^1]: Wikipedia, "Dragomir Pecanac" - https://en.wikipedia.org/wiki/Dragomir_Pecanac
 
@@ -53,3 +53,6 @@ Serbian-Swedish crime boss murdered in a car bombing, linked to major drug traff
 ## Notes on sources
 
 - This article prioritizes high-level, non-speculative statements. For granular details (locations, suspects, investigative leads), verify against current, reputable news reporting and official releases.
+
+
+## References

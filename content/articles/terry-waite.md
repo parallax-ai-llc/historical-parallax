@@ -23,7 +23,7 @@ British humanitarian and Church of England envoy who was kidnapped in Beirut by 
 | 1991 | Released after 4 years and 10 months |
 | 1993 | Published autobiography Taken on Trust |
 
-## References
+
 
 [^1]: Wikipedia, "Terry Waite" - https://en.wikipedia.org/wiki/Terry_Waite
 
@@ -49,3 +49,6 @@ British humanitarian and Church of England envoy who was kidnapped in Beirut by 
 ## Further Reading
 
 - See the reference link(s) above for expanded detail and primary sourcing.
+
+
+## References

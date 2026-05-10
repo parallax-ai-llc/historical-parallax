@@ -23,7 +23,7 @@ Data breach of extramarital affairs website Ashley Madison in 2015 by hackers ca
 | 2015 | 32 million accounts leaked |
 | 2017 | Company settled for $11.2 million |
 
-## References
+
 
 [^1]: Wikipedia, "Ashley Madison Hack" - https://en.wikipedia.org/wiki/Ashley_Madison_Hack
 
@@ -51,3 +51,6 @@ Reports about the leak commonly mention:
 - “Sensitive” services must treat **data minimization** and strong access controls as core requirements.
 - Breach response planning matters because leaked data spreads quickly and is difficult to contain once published.
 
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1954 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Oprah dup3" - https://en.wikipedia.org/wiki/Oprah_dup3
 
@@ -51,3 +51,6 @@ This file appears to be a duplicate/placeholder entry (see the summary and the n
 ## Integration Note
 
 If this repository maintains a canonical person record, consider linking this duplicate id (`oprah-dup3`) to the canonical Oprah Winfrey entry to avoid fragmented references.
+
+
+## References

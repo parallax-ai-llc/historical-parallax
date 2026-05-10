@@ -23,7 +23,7 @@ Hijacking of Air France Flight 139 by PFLP and German revolutionaries on June 27
 | 1976 | Israeli commandos rescued hostages |
 | 1976 | Only 3 hostages and 1 commando killed |
 
-## References
+
 
 [^1]: Wikipedia, "Entebbe Hijacking" - https://en.wikipedia.org/wiki/Entebbe_Hijacking
 
@@ -48,3 +48,6 @@ The Entebbe episode is frequently cited in discussions of:
 
 [^2]: Wikipedia, "Operation Entebbe" - https://en.wikipedia.org/wiki/Operation_Entebbe
 [^3]: Wikipedia, "Idi Amin" - https://en.wikipedia.org/wiki/Idi_Amin
+
+
+## References

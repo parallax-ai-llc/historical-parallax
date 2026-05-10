@@ -44,7 +44,7 @@ British author and politician who was convicted of perjury and perverting the co
 
 - The summary line above states he was "stripped of his peerage." Sources commonly describe him as a life peer who faced consequences and reputational damage after conviction; readers should confirm the precise parliamentary status details in the reference link.
 
-## References
+
 
 [^1]: Wikipedia, "Jeffrey Archer" - https://en.wikipedia.org/wiki/Jeffrey_Archer
 
@@ -52,3 +52,6 @@ British author and politician who was convicted of perjury and perverting the co
 
 - Archer wrote a number of commercially successful novels; bibliographies typically highlight long-running series and political thrillers.
 - For a definitive list of titles and publication dates, refer to the linked reference source.
+
+
+## References

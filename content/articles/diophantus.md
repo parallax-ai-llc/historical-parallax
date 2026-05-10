@@ -24,7 +24,7 @@ Diophantus of Alexandria was a Greek mathematician sometimes called the 'father 
 | c. 250 AD | Developed methods for solving algebraic equations |
 | c. 284 AD | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Diophantus" - https://en.wikipedia.org/wiki/Diophantus
 
@@ -51,3 +51,6 @@ Because sources from late antiquity are limited, several biographical details ab
 ## See also
 
 - Algebra
+
+
+## References

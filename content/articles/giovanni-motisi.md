@@ -23,7 +23,7 @@ Italian Cosa Nostra boss from Palermo who has been a fugitive since 1998. He is 
 | 1998 | Went into hiding |
 | 2023 | Still fugitive |
 
-## References
+
 
 [^1]: Wikipedia, "Giovanni Motisi" - https://en.wikipedia.org/wiki/Giovanni_Motisi
 
@@ -51,3 +51,6 @@ Common features of long-term fugitive cases in Italy include:
 
 - Italian “most wanted” fugitive reporting and press releases (varies by year)
 - Background on Cosa Nostra’s Palermo families and leadership structure
+
+
+## References

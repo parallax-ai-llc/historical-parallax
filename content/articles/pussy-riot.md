@@ -21,7 +21,7 @@ Russian feminist punk rock group whose members were imprisoned for performing a 
 |------|-------|
 | 2012 | Cathedral protest; members imprisoned |
 
-## References
+
 
 [^1]: Wikipedia, "Pussy Riot" - https://en.wikipedia.org/wiki/Pussy_Riot
 
@@ -56,3 +56,6 @@ Russian feminist punk rock group whose members were imprisoned for performing a 
 ## Additional References
 
 [^2]: Encyclopaedia Britannica, "Pussy Riot" - https://www.britannica.com/topic/Pussy-Riot
+
+
+## References

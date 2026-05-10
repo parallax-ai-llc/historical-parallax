@@ -21,7 +21,7 @@ Shot 10 people on a Brooklyn subway train in a mass shooting attack.
 |------|-------|
 | 2022 | Committed Brooklyn subway shooting |
 
-## References
+
 
 [^1]: Wikipedia, "Frank James" - https://en.wikipedia.org/wiki/Frank_James
 
@@ -63,3 +63,6 @@ Because charging decisions and case posture can change over time, this article k
 
 - New York City Police Department / U.S. Department of Justice press briefings and charging documents (April 2022).
 - Major wire-service reporting (e.g., Associated Press, Reuters) summarizing the incident and arrest.
+
+
+## References

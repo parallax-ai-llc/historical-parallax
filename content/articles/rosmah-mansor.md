@@ -22,7 +22,7 @@ Malaysian former first lady and wife of Najib Razak who was convicted of corrupt
 | 2018 | Charged with corruption |
 | 2022 | Convicted of corruption; sentenced to 10 years |
 
-## References
+
 
 [^1]: Wikipedia, "Rosmah Mansor" - https://en.wikipedia.org/wiki/Rosmah_Mansor
 
@@ -50,3 +50,6 @@ Malaysian former first lady and wife of Najib Razak who was convicted of corrupt
 
 - High-profile political spouse associated with Najib Razak’s administration.
 - Widely discussed as a symbol in Malaysian anti-corruption discourse during and after the 1MDB period.
+
+
+## References

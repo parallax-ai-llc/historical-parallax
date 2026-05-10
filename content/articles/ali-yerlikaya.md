@@ -50,7 +50,7 @@ Turkish interior minister overseeing crackdowns on opposition and media.
 - Governor (Turkey)
 - Politics of Turkey
 
-## References
+
 
 [^1]: Wikipedia, "Ali Yerlikaya" - https://en.wikipedia.org/wiki/Ali_Yerlikaya
 
@@ -69,3 +69,6 @@ Turkish interior minister overseeing crackdowns on opposition and media.
 - Counterterrorism operations in Turkey
 - Press freedom and legal environment
 - Policing, protests, and public-order policy
+
+
+## References

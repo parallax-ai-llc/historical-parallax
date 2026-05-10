@@ -36,7 +36,7 @@ Chandrasekhar received major scientific honors, including the **Nobel Prize in P
 | 1910 | Born |
 | 1995 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Subrahmanyam Chandrasekhar" - https://en.wikipedia.org/wiki/Subrahmanyam_Chandrasekhar
 
@@ -49,3 +49,6 @@ Chandrasekhar’s work helped connect quantum statistics, relativity, and thermo
 - **White dwarf**: A dense stellar remnant supported by electron degeneracy pressure.
 - **Degeneracy pressure**: Quantum-mechanical pressure arising from the Pauli exclusion principle.
 - **Compact object**: A high-density remnant such as a white dwarf, neutron star, or black hole.
+
+
+## References

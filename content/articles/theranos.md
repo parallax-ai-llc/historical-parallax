@@ -41,7 +41,7 @@ Reporting and subsequent investigations concluded that many claims about the cor
 
 The Theranos case is frequently cited in discussions about governance, diligence, and regulatory oversight in health technology. It also became a cautionary example of how secrecy, charismatic leadership, and incentive misalignment can coexist with patient-safety risk in clinical settings.
 
-## References
+
 
 [^1]: Wikipedia, "Theranos" - https://en.wikipedia.org/wiki/Theranos
 
@@ -49,3 +49,6 @@ The Theranos case is frequently cited in discussions about governance, diligence
 
 - Elizabeth Holmes — founder and public face of Theranos.
 - Ramesh "Sunny" Balwani — senior executive charged in the related fraud case.
+
+
+## References

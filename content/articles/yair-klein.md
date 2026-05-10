@@ -22,7 +22,7 @@ Israeli mercenary who trained Colombian paramilitary death squads in the 1980s. 
 | 1988 | Trained Colombian paramilitary groups in warfare techniques |
 | 2012 | Sentenced by Colombia to 10 years for training paramilitaries |
 
-## References
+
 
 [^1]: Wikipedia, "Yair Klein" - https://en.wikipedia.org/wiki/Yair_Klein
 
@@ -48,3 +48,6 @@ Israeli mercenary who trained Colombian paramilitary death squads in the 1980s. 
 
 - Public accounts differ on exact locations, participants, and the chain of contracting in Colombia; corroboration is important.
 - Later legal actions in different jurisdictions are often summarized differently depending on the reporting outlet.
+
+
+## References

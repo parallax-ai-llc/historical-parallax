@@ -21,7 +21,7 @@ Sent 16 pipe bombs to prominent Democrats and media figures, called the 'MAGA Bo
 |------|-------|
 | 2019 | Pleaded guilty to mailing pipe bombs |
 
-## References
+
 
 [^1]: Wikipedia, "Cesar Sayoc" - https://en.wikipedia.org/wiki/Cesar_Sayoc
 
@@ -55,3 +55,6 @@ Sent 16 pipe bombs to prominent Democrats and media figures, called the 'MAGA Bo
 
 - Mail bombing
 - Domestic terrorism in the United States
+
+
+## References

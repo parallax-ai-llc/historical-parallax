@@ -22,7 +22,7 @@ Houston Astros used a camera system to steal signs during their 2017 World Serie
 | 2019 | Scandal exposed |
 | 2020 | Manager and GM fired |
 
-## References
+
 
 [^1]: Wikipedia, "Houston Astros Sign-Stealing Scandal" - https://en.wikipedia.org/wiki/Houston_Astros_Sign-Stealing_Scandal
 
@@ -68,3 +68,6 @@ Penalties described in MLB’s response included:
 - **Catcher signs:** hand signals to communicate pitch selection.
 - **Real-time electronic assistance:** prohibited use of technology to decode and relay signs during games.
 - **Competitive integrity:** the principle that outcomes should be determined by lawful play and fair conditions.
+
+
+## References

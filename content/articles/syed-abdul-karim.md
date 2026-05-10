@@ -41,10 +41,13 @@ Because the target was India’s legislature, the incident became a defining ref
 - 2001 Indian Parliament attack
 - Indian counterterrorism and protective security
 
-## References
+
 
 [^1]: Wikipedia, "Syed Abdul Karim" - https://en.wikipedia.org/wiki/Syed_Abdul_Karim
 
 ## Notes on sources
 
 Many summaries of this incident are compiled from government statements and contemporary news reporting. When details differ across accounts, higher-level descriptions of the event and its immediate consequences are generally more consistent than individual biographical claims.
+
+
+## References

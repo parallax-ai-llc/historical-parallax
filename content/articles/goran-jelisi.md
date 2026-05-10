@@ -40,7 +40,7 @@ Bosnian Serb war criminal who called himself the Serbian Adolf and personally ex
 - For precise findings (counts, dates, and locations), prefer tribunal judgments and official court documents over secondary summaries.
 - When expanding this article, keep language careful about allegations versus adjudicated facts, and cite the underlying judgment where possible.
 
-## References
+
 
 [^1]: Wikipedia, "Goran Jelisić" - https://en.wikipedia.org/wiki/Goran_Jelisi%C4%87
 
@@ -49,3 +49,6 @@ Bosnian Serb war criminal who called himself the Serbian Adolf and personally ex
 - Identify the specific tribunal/court and link to the primary judgment.
 - Add a brief description of the Luka camp’s role in the conflict (kept strictly to sourced facts).
 - Include any appeal outcomes and confirmed detention status, if available from reliable sources.
+
+
+## References

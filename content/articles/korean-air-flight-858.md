@@ -5,7 +5,7 @@ birth: "1987-01-01"
 death: "1987-11-29"
 nationality: "North Korea"
 occupation: ["State Terrorism"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Korean_Air_HL7406_Boeing_707-3B5C_at_Nagoya_Airport%2C_October_1987.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Korean_Air_Flight_858"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ North Korean agents bombed a Korean Air passenger jet killing 115 people to disr
 |------|-------|
 | 1987 | All 115 aboard killed by bomb |
 
-## References
+
 
 [^1]: Wikipedia, "Korean Air Flight 858" - https://en.wikipedia.org/wiki/Korean_Air_Flight_858
 
@@ -60,3 +60,6 @@ North Korean agents bombed a Korean Air passenger jet killing 115 people to disr
 ## References (Additional)
 
 - See the main Wikipedia overview for a consolidated narrative, investigative claims, and cited sources.[^1]
+
+
+## References

@@ -24,7 +24,7 @@ American singer-songwriter whose albums Brown Sugar, Voodoo, and Black Messiah h
 | 2000 | Releases Voodoo |
 | 2014 | Releases Black Messiah after 14-year hiatus |
 
-## References
+
 
 [^1]: Wikipedia, "D'Angelo" - https://en.wikipedia.org/wiki/D'Angelo
 
@@ -53,3 +53,6 @@ Long gaps between releases (notably between 2000 and 2014) contributed to a publ
 - Neo-soul
 - Rhythm and blues (R&B)
 - Funk
+
+
+## References

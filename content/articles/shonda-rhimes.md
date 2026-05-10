@@ -3,6 +3,7 @@ name: "Shonda Rhimes"
 birth: "1970-01-13"
 nationality: "American"
 occupation: ["Television Producer", "Screenwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Shonda_Rhimes_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shonda_Rhimes"
 lastUpdated: "2026-03-12"

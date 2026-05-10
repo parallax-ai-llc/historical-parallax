@@ -22,7 +22,7 @@ The Unification Church's exploitation of Japanese followers was exposed after Sh
 | 1954 | Church established in Japan |
 | 2022 | Exploitation exposed after Abe assassination |
 
-## References
+
 
 [^1]: Wikipedia, "Unification Church Japan" - https://en.wikipedia.org/wiki/Unification_Church_Japan
 
@@ -58,3 +58,6 @@ The controversy is frequently cited in debates about "spiritual sales" (sales pr
 - Civil litigation by former members and relatives over donations and solicitation
 - Counseling and support networks for people exiting high-control groups
 - Party and politician policies on disclosure of organizational links
+
+
+## References

@@ -21,7 +21,7 @@ Pakistani hitman whose pre-execution confession implicating MQM party leader Alt
 |------|-------|
 | 2015 | Executed after confession went viral |
 
-## References
+
 
 [^1]: Wikipedia, "Saulat Mirza" - https://en.wikipedia.org/wiki/Saulat_Mirza
 
@@ -60,3 +60,6 @@ Mirza's case is often discussed as an example of how criminal proceedings, media
 
 - Muttahida Qaumi Movement (MQM)
 - Capital punishment in Pakistan
+
+
+## References

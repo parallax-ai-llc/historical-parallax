@@ -24,7 +24,7 @@ Bosnian Serb paramilitary leader convicted of burning alive 120 Bosniak civilian
 | 2005 | Arrested in Argentina |
 | 2009 | Convicted by ICTY and sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Milan Lukić" - https://en.wikipedia.org/wiki/Milan_Luki%C4%87
 
@@ -50,3 +50,6 @@ Bosnian Serb paramilitary leader convicted of burning alive 120 Bosniak civilian
 - This article is a high-level overview intended as a starting point.
 - For detailed chronology and primary sources, consult reputable historical references.
 - When multiple narratives exist, prefer well-sourced scholarship and contemporaneous records.
+
+
+## References

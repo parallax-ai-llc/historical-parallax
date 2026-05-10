@@ -5,7 +5,7 @@ birth: "1949-10-24"
 death: "N/A (Imprisoned)"
 nationality: "Canada"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/0b/RobertPickton.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Pickton"
 lastUpdated: "2026-02-21"

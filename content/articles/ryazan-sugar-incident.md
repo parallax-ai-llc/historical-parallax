@@ -21,7 +21,7 @@ FSB agents were caught planting what appeared to be a bomb in a Ryazan apartment
 |------|-------|
 | 1999 | FSB agents caught planting apparent bomb |
 
-## References
+
 
 [^1]: Wikipedia, "Ryazan Sugar Incident" - https://en.wikipedia.org/wiki/Ryazan_Sugar_Incident
 
@@ -58,3 +58,6 @@ FSB agents were caught planting what appeared to be a bomb in a Ryazan apartment
 ## Additional References
 
 [^2]: Britannica (overview context), "Russian apartment bombings of 1999" - https://www.britannica.com/event/Russian-apartment-bombings-of-1999
+
+
+## References

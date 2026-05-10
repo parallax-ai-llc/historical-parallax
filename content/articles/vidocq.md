@@ -21,7 +21,7 @@ French criminal turned police chief who founded the Sûreté, inspiring the char
 |------|-------|
 | 1811 | Founded the Sûreté national detective agency |
 
-## References
+
 
 [^1]: Wikipedia, "Vidocq" - https://en.wikipedia.org/wiki/Vidocq
 
@@ -57,3 +57,6 @@ Vidocq is commonly cited in histories of criminal investigation as an early prac
 ## Notes
 
 This article is a high-level overview. For detailed chronology and historiography, consult dedicated biographies and archival-focused scholarship.[^1]
+
+
+## References

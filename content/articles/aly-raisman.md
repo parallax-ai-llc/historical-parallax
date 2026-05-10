@@ -23,7 +23,7 @@ Aly Raisman won six Olympic medals, captaining the US 'Fierce Five' and 'Final F
 | 2016 | Won silver in all-around at Rio |
 | 2018 | Testified against Larry Nassar |
 
-## References
+
 
 [^1]: Wikipedia, "Aly Raisman" - https://en.wikipedia.org/wiki/Aly_Raisman
 ## Background
@@ -48,3 +48,6 @@ After retiring from competition, Raisman became widely known for public testimon
 
 - **Primary source**: the linked Wikipedia article in References.
 - **Article type**: short biographical overview intended for high-level context.
+
+
+## References

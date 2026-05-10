@@ -23,7 +23,7 @@ E.J. Corey won the 1990 Nobel Prize in Chemistry for developing retrosynthetic a
 | 1967 | Published retrosynthetic analysis |
 | 1990 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Elias James Corey" - https://en.wikipedia.org/wiki/Elias_James_Corey
 
@@ -58,3 +58,6 @@ Corey’s work is frequently invoked in discussions of:
 - how formal planning frameworks accelerate innovation,
 - the relationship between chemical theory, experiment, and route design,
 - the evolution of synthesis from craft toward more systematic engineering.
+
+
+## References

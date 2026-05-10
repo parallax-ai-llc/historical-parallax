@@ -22,7 +22,7 @@ Mozambican officials secretly borrowed $2 billion in government-guaranteed loans
 | 2013 | Secret loans of $2 billion arranged with Credit Suisse |
 | 2016 | Hidden debts revealed, triggering economic crisis |
 
-## References
+
 
 [^1]: Wikipedia, "Mozambique Hidden Debts Scandal" - https://en.wikipedia.org/wiki/Mozambique_Hidden_Debts_Scandal
 
@@ -53,3 +53,6 @@ In public reporting, the case is frequently referenced in connection with prosec
 ## Legacy
 
 The hidden debts scandal is often cited as a major governance and transparency failure with lasting economic consequences. It is also used in policy discussions as an example of the risks associated with opaque sovereign guarantees, weak parliamentary oversight, and complex cross-border financing structures.
+
+
+## References

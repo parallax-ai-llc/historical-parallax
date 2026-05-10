@@ -21,7 +21,7 @@ Tongan prime minister whose government was marked by corruption allegations and 
 |------|-------|
 | 2019 | Government faced corruption allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Pohiva Tu'i'onetoa" - https://en.wikipedia.org/wiki/Pohiva_Tu'i'onetoa
 
@@ -57,3 +57,6 @@ The following positions are frequently listed in summary biographies (dates and 
 
 - Some structured datasets and secondary summaries may disagree on **birth/death dates** or the precise labeling of roles.
 - For a canonical, citable baseline, use the Wikipedia entry linked above and cross-check with official Tongan government or parliamentary records when available.
+
+
+## References

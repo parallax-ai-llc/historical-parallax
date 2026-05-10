@@ -23,7 +23,7 @@ Medellín Cartel hitman convicted in the US for the bombing of Avianca Flight 20
 | 1991 | Arrested (reported in U.S. and Colombian accounts as occurring in late September 1991) | 
 | 1994 | Convicted in U.S. federal court for offenses including conspiracy related to the Avianca Flight 203 bombing |
 
-## References
+
 
 [^1]: Wikipedia, "La Quica" - https://en.wikipedia.org/wiki/La_Quica
 
@@ -54,3 +54,6 @@ Medellín Cartel hitman convicted in the US for the bombing of Avianca Flight 20
 [^3]: U.S. Department of Justice (DOJ) press materials and case summaries (historical). https://www.justice.gov/ (search: "Avianca Flight 203" "Muñoz Mosquera")
 [^4]: Bureau of Prisons (BOP) facility information (for publicly listed incarceration context). https://www.bop.gov/
 [^5]: Aviation Safety Network — Avianca Flight 203 incident summary. https://aviation-safety.net/
+
+
+## References

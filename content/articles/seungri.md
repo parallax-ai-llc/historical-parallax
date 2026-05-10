@@ -5,7 +5,7 @@ birth: "1990-12-12"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/181001_%EC%8A%B9%EB%A6%AC_02.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seungri"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Former BIGBANG K-pop star convicted of organizing prostitution and embezzlement 
 | 2019 | Burning Sun scandal broke |
 | 2021 | Convicted and sentenced |
 
-## References
+
 
 [^1]: Wikipedia, "Seungri" - https://en.wikipedia.org/wiki/Seungri
 
@@ -48,3 +48,6 @@ Former BIGBANG K-pop star convicted of organizing prostitution and embezzlement 
 - It highlighted how complex investigations can involve overlapping allegations, multiple defendants, and long legal timelines.
 - The investigation’s prominence reflected South Korea’s intense public scrutiny of celebrity-linked scandals.
 - The episode contributed to renewed discussion about victim protection and reporting mechanisms in nightlife-related cases.
+
+
+## References

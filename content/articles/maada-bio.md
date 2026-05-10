@@ -22,7 +22,7 @@ Sierra Leone president who briefly seized power as a military leader in 1996 and
 | 1996 | Brief military ruler |
 | 2018 | Elected President |
 
-## References
+
 
 [^1]: Wikipedia, "Maada Bio" - https://en.wikipedia.org/wiki/Maada_Bio
 
@@ -53,3 +53,6 @@ These notes add high-level, factual context based on widely available public sum
 ## References (additional)
 
 - The linked Wikipedia page in the frontmatter is a starting point and typically aggregates citations to other sources.
+
+
+## References

@@ -23,7 +23,7 @@ Discovery of the secret Propaganda Due Masonic lodge in Italy in 1981. Its 962 m
 | 1981 | Italian government fell |
 | 1982 | P2 disbanded by law |
 
-## References
+
 
 [^1]: Wikipedia, "P2 Lodge Scandal" - https://en.wikipedia.org/wiki/P2_Lodge_Scandal
 
@@ -51,3 +51,6 @@ The P2 scandal remains a recurring reference point in modern Italian history bec
 
 - Italian political corruption (postwar period)
 - Intelligence oversight and accountability
+
+
+## References

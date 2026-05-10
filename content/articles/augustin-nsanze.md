@@ -22,7 +22,7 @@ Burundian military officer implicated in the massacres during the 1993 crisis th
 | 1993 | Implicated in post-coup massacres |
 | 1994 | Civil war erupted |
 
-## References
+
 
 [^1]: Wikipedia, "Augustin Nsanze" - https://en.wikipedia.org/wiki/Augustin_Nsanze
 
@@ -53,3 +53,6 @@ The Burundi case is frequently cited as an example of how political assassinatio
 ## Notes
 
 This article is intentionally high-level due to limited easily verifiable public detail about Nsanze in mainstream sources.
+
+
+## References

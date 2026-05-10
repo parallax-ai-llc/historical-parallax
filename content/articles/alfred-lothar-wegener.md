@@ -22,7 +22,7 @@ See earlier entry.
 | 1880 | Born |
 | 1930 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Alfred Lothar Wegener" - https://en.wikipedia.org/wiki/Alfred_Lothar_Wegener
 
@@ -54,3 +54,6 @@ Wegener’s name is commonly associated with several concepts and terms across E
 - Plate tectonics
 - Paleomagnetism
 - Seafloor spreading
+
+
+## References

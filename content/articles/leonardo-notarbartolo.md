@@ -5,7 +5,7 @@ birth: "1955-01-01"
 death: "Unknown"
 nationality: "Italy"
 occupation: ["Thief"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Antwerpen_Hoveniersstraat.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonardo_Notarbartolo"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Italian master thief who led the team that pulled off the $100 million Antwerp D
 | 2003 | Led Antwerp Diamond Heist |
 | 2005 | Convicted and sentenced to 10 years |
 
-## References
+
 
 [^1]: Wikipedia, "Leonardo Notarbartolo" - https://en.wikipedia.org/wiki/Leonardo_Notarbartolo
 
@@ -53,3 +53,6 @@ Italian master thief who led the team that pulled off the $100 million Antwerp D
 - The heist is remembered less for violence and more for meticulous planning and operational discipline.
 - It remains a reference point for physical-security professionals evaluating layered defenses.
 - Notarbartolo’s public profile is largely defined by association with the “heist of the century” narrative.
+
+
+## References

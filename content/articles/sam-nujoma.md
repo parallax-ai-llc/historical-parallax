@@ -22,7 +22,7 @@ Founding President of Namibia whose liberation hero status was tainted by corrup
 | 1990 | Became first president of independent Namibia |
 | 2004 | Stepped down after three terms |
 
-## References
+
 
 [^1]: Wikipedia, "Sam Nujoma" - https://en.wikipedia.org/wiki/Sam_Nujoma
 
@@ -49,3 +49,6 @@ Founding President of Namibia whose liberation hero status was tainted by corrup
 
 - 독자가 오해하기 쉬운 용어는 한 줄 정의로 보완합니다.
 - 동음이의/유사 개념이 있다면 구분 기준을 제시합니다.
+
+
+## References

@@ -21,7 +21,7 @@ Proud Boys leader convicted of seditious conspiracy for the January 6 Capitol at
 |------|-------|
 | 2023 | Convicted of seditious conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Enrique Tarrio" - https://en.wikipedia.org/wiki/Enrique_Tarrio
 
@@ -56,3 +56,6 @@ Proud Boys leader convicted of seditious conspiracy for the January 6 Capitol at
 
 [^2]: U.S. Department of Justice (press releases / case summaries) - https://www.justice.gov/
 [^3]: Wikipedia, "Proud Boys" - https://en.wikipedia.org/wiki/Proud_Boys
+
+
+## References

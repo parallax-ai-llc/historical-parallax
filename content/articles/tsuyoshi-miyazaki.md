@@ -22,7 +22,7 @@ Murdered four young girls in Tokyo and Saitama prefectures, sending body parts a
 | 1988 | Murdered four girls |
 | 2008 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Tsuyoshi Miyazaki" - https://en.wikipedia.org/wiki/Tsuyoshi_Miyazaki
 
@@ -48,3 +48,6 @@ Murdered four young girls in Tokyo and Saitama prefectures, sending body parts a
 - Critics later argued that this framing unfairly stigmatized “otaku” culture by implying a causal link between fandom and violent crime.
 - The case is therefore frequently cited in discussions of moral panic, sensational reporting, and how societies explain rare but extreme violence.
 - It also prompted discussions about child safety, policing, and victim support in Japan.
+
+
+## References

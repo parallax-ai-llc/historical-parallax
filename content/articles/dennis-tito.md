@@ -21,7 +21,7 @@ Dennis Tito became the first space tourist in 2001, paying $20 million to visit 
 |------|-------|
 | 2001 | First space tourist; spent 8 days on ISS |
 
-## References
+
 
 [^1]: Wikipedia, "Dennis Tito" - https://en.wikipedia.org/wiki/Dennis_Tito
 
@@ -53,3 +53,6 @@ Dennis Tito became the first space tourist in 2001, paying $20 million to visit 
 - Known for: First widely recognized paying passenger to orbit and visit the ISS (2001)
 - Field: Aerospace engineering; investment management/consulting
 - Nationality: American
+
+
+## References

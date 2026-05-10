@@ -21,7 +21,7 @@ Russian governor and Putin ally accused of massive land grab corruption.
 |------|-------|
 | 2015 | Accused of massive land corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Nikolai Tkachyov" - https://en.wikipedia.org/wiki/Nikolai_Tkachyov
 
@@ -70,3 +70,6 @@ This article’s summary describes a “Putin ally” framing; however, that spe
 - **Beneficial ownership:** The natural person(s) who ultimately own or control an asset, even if it is held through companies.
 - **Shell company:** An entity with no real operations used to hold assets or move money.
 - **State capture:** Systemic influence over institutions to advance private interests.
+
+
+## References

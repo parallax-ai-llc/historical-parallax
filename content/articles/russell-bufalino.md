@@ -5,7 +5,7 @@ birth: "1903-09-29"
 death: "1994-02-25"
 nationality: "Italy"
 occupation: ["Mafia"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/2/2b/Russell_Bufalino.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russell_Bufalino"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Italian-American mobster who was boss of the Bufalino crime family in northeaste
 | 1981 | Convicted of extortion |
 | 1994 | Died in nursing home |
 
-## References
+
 
 [^1]: Wikipedia, "Russell Bufalino" - https://en.wikipedia.org/wiki/Russell_Bufalino
 
@@ -51,3 +51,6 @@ For organized-crime history, biographies often blend confirmed legal records wit
 ## See also
 
 - Jimmy Hoffa disappearance
+
+
+## References

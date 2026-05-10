@@ -5,7 +5,7 @@ birth: "1905-09-24"
 death: "1993-11-01"
 nationality: "Spanish-American"
 occupation: ["Biochemist", "Molecular Biologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Severo_Ochoa_1958b.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Severo_Ochoa"
 lastUpdated: "2026-02-21"

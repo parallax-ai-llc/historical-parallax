@@ -21,7 +21,7 @@ US Army soldiers massacred approximately 300 Lakota men, women, and children at 
 |------|-------|
 | 1890 | 300 Lakota massacred |
 
-## References
+
 
 [^1]: Wikipedia, "Wounded Knee Massacre" - https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
 
@@ -53,3 +53,6 @@ The name "Wounded Knee" resurfaced in 1973 during the Wounded Knee Occupation by
 - Lakota people
 - 7th Cavalry Regiment
 - American Indian Movement
+
+
+## References

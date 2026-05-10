@@ -24,7 +24,7 @@ Indian conglomerate led by Subrata Roy that raised $3.5 billion from 30 million 
 | 2016 | Released on parole |
 | 2023 | Subrata Roy died |
 
-## References
+
 
 [^1]: Wikipedia, "Sahara Group" - https://en.wikipedia.org/wiki/Sahara_Group
 
@@ -53,3 +53,6 @@ Indian conglomerate led by Subrata Roy that raised $3.5 billion from 30 million 
 
 - Wikipedia (overview)
 - Reputable news and academic references
+
+
+## References

@@ -5,7 +5,7 @@ birth: "-1040-01-01"
 death: "-0970-01-01"
 nationality: "Israelite"
 occupation: ["King", "Poet", "Prophet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/King_David%2C_the_King_of_Israel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/King_David"
 lastUpdated: "2026-02-21"

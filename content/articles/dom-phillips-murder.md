@@ -21,7 +21,7 @@ British journalist Dom Phillips and Brazilian indigenous expert Bruno Pereira we
 |------|-------|
 | 2022 | Phillips and Pereira murdered |
 
-## References
+
 
 [^1]: Wikipedia, "Dom Phillips Murder" - https://en.wikipedia.org/wiki/Dom_Phillips_Murder
 
@@ -60,3 +60,6 @@ British journalist Dom Phillips and Brazilian indigenous expert Bruno Pereira we
 
 - Wikipedia overview and references: https://en.wikipedia.org/wiki/Dom_Phillips_Murder
 - Related topics: journalist safety, environmental crime, and Indigenous rights in the Amazon
+
+
+## References

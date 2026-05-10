@@ -24,7 +24,7 @@ Iraqi politician who served as foreign minister and deputy PM under Saddam Husse
 | 2010 | Sentenced to death |
 | 2015 | Died of heart attack in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Tariq Aziz" - https://en.wikipedia.org/wiki/Tariq_Aziz
 
@@ -49,3 +49,6 @@ Aziz died in prison in 2015. Accounts commonly describe health complications in 
 ## Historical Significance
 
 Aziz’s career is often used as a case study of how authoritarian systems rely on internationally legible civilian figures—diplomats and ministers—to communicate legitimacy abroad while operating within a coercive domestic apparatus.
+
+
+## References

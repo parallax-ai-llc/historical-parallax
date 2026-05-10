@@ -40,7 +40,7 @@ Accounts describe his reign as brief. Narratives often focus on the court and mi
 
 Varazdat’s modern prominence comes less from administrative achievements than from the symbolic pairing of athlete and king. In popular history he appears as a bridge between the classical sporting world and late antique Armenian political history.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Varazdat of Armenia" - https://en.wikipedia.org/wiki/Varazdat_of_Armenia
 
@@ -48,3 +48,6 @@ Varazdat’s modern prominence comes less from administrative achievements than 
 
 - Ancient Olympic Games
 - Arsacid Armenia
+
+
+## References

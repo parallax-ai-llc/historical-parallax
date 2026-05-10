@@ -22,7 +22,7 @@ French terrorist who was one of three attackers at the Bataclan theater during t
 | 2013 | Traveled to Syria |
 | 2015 | Attacked Bataclan theater; detonated suicide vest |
 
-## References
+
 
 [^1]: Wikipedia, "Foued Mohamed-Aggad" - https://en.wikipedia.org/wiki/Foued_Mohamed-Aggad
 
@@ -49,3 +49,6 @@ French terrorist who was one of three attackers at the Bataclan theater during t
 ## Notes
 
 This article provides a high-level summary based on major public sources; it does not add unverified biographical details.
+
+
+## References

@@ -23,7 +23,7 @@ German neo-Nazi terrorist and member of the NSU who personally carried out most 
 | 2000 | Began killing immigrants across Germany |
 | 2011 | Committed suicide in camper van after failed bank robbery |
 
-## References
+
 
 [^1]: Wikipedia, "Uwe Böhnhardt" - https://en.wikipedia.org/wiki/Uwe_B%C3%B6hnhardt
 
@@ -49,3 +49,6 @@ German neo-Nazi terrorist and member of the NSU who personally carried out most 
 
 - The NSU revelations led to parliamentary inquiries and extensive debate over far-right violence.
 - The case is frequently cited in discussions of intelligence oversight and policing of extremist networks.
+
+
+## References

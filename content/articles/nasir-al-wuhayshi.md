@@ -23,7 +23,7 @@ Yemeni jihadist who served as leader of al-Qaeda in the Arabian Peninsula (AQAP)
 | 2009 | Founded AQAP in Yemen |
 | 2015 | Killed by US drone strike in Yemen |
 
-## References
+
 
 [^1]: Wikipedia, "Nasir al-Wuhayshi" - https://en.wikipedia.org/wiki/Nasir_al-Wuhayshi
 
@@ -54,3 +54,6 @@ He was reported killed in Yemen in 2015 in a U.S. drone strike. Leadership losse
 ## Relevance
 
 Al-Wuhayshi is often mentioned in counterterrorism literature as an example of how prison breaks and weak governance can accelerate the regeneration of militant organizations.
+
+
+## References

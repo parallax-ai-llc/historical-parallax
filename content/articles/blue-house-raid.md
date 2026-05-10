@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 1968 | North Korean assassination attempt |
 
-## References
+
 
 [^1]: Wikipedia, "Blue House Raid" - https://en.wikipedia.org/wiki/Blue_House_Raid
 
@@ -66,3 +66,6 @@ lastUpdated: "2026-02-26"
 - Location: Seoul, South Korea (near the Blue House/Cheong Wa Dae)
 - Date: January 1968
 - Outcome: Attack prevented; most infiltrators killed or captured
+
+
+## References

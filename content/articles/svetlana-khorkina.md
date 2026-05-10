@@ -24,7 +24,7 @@ Svetlana Khorkina won Olympic gold on uneven bars in 1996 and 2000 and was a two
 | 2000 | Won second Olympic bars gold at Sydney |
 | 2004 | Won Olympic silver at Athens |
 
-## References
+
 
 [^1]: Wikipedia, "Svetlana Khorkina" - https://en.wikipedia.org/wiki/Svetlana_Khorkina
 
@@ -49,3 +49,6 @@ Khorkina is frequently cited in discussions of late-1990s and early-2000s womenâ
 ## See Also
 
 - Womenâ€™s artistic gymnastics at the Olympic Games
+
+
+## References

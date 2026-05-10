@@ -24,7 +24,7 @@ American former Army intelligence analyst who leaked hundreds of thousands of cl
 | 2017 | Sentence commuted by President Obama |
 | 2019 | Jailed for refusing to testify before grand jury |
 
-## References
+
 
 [^1]: Wikipedia, "Chelsea Manning" - https://en.wikipedia.org/wiki/Chelsea_Manning
 
@@ -51,3 +51,6 @@ Manning’s case is frequently cited in discussions of whistleblowing versus una
 ## Related Topics
 
 Classified information handling, military justice, press freedom, and the ethics of publishing leaked materials.
+
+
+## References

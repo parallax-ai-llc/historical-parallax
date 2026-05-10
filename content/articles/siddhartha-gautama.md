@@ -5,7 +5,7 @@ birth: "0563-01-01"
 death: "0483-01-01"
 nationality: "Indian (Shakya)"
 occupation: ["Religious Founder", "Philosopher", "Ascetic"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siddhartha_Gautama"
 lastUpdated: "2026-02-21"

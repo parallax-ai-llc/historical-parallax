@@ -22,7 +22,7 @@ Former Guangzhou party secretary convicted of accepting 114 million yuan in brib
 | 2014 | Removed during anti-corruption campaign |
 | 2016 | Sentenced to life for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Wan Qingliang" - https://en.wikipedia.org/wiki/Wan_Qingliang
 
@@ -49,3 +49,6 @@ The case is frequently cited as an example of how anti-corruption enforcement in
 Observers often connect cases like this to structural incentives in local administration, where scarce approvals and discretionary authority can create markets for influence.
 
 Anti-corruption campaigns, in turn, are used to reset expectations within bureaucracies, punish high-profile violations, and project institutional control.
+
+
+## References

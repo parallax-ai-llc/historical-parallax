@@ -21,7 +21,7 @@ Ugandan rebel group allied with ISIS responsible for bombings and massacres in C
 |------|-------|
 | 2021 | Committed Kampala bombings |
 
-## References
+
 
 [^1]: Wikipedia, "Allied Democratic Forces" - https://en.wikipedia.org/wiki/Allied_Democratic_Forces
 
@@ -62,3 +62,6 @@ Ugandan rebel group allied with ISIS responsible for bombings and massacres in C
 
 [^2]: Wikipedia, "Islamic State – Central Africa Province" (context on regional Islamic State claims/branding) - https://en.wikipedia.org/wiki/Islamic_State%E2%80%93Central_Africa_Province
 [^3]: United Nations reporting and briefings on armed groups in eastern DRC (overview context; see MONUSCO-related public reports) - https://monusco.unmissions.org/
+
+
+## References

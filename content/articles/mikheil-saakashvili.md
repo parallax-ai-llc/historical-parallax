@@ -21,7 +21,7 @@ Former Georgian president convicted in absentia of abuse of power and embezzleme
 | 2004 | Became President after Rose Revolution |
 | 2021 | Arrested upon return to Georgia |
 
-## References
+
 
 [^1]: Wikipedia, "Mikheil Saakashvili" - https://en.wikipedia.org/wiki/Mikheil_Saakashvili
 ## Additional Context
@@ -50,3 +50,6 @@ Former Georgian president convicted in absentia of abuse of power and embezzleme
 - This entry is a high-level summary intended for quick reference.
 - For deeper detail, consult primary documents and the linked reference.
 - Dates are recorded as reported by widely available public sources.
+
+
+## References

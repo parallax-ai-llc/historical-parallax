@@ -5,7 +5,7 @@ birth: "1897-03-17"
 death: "1974-04-18"
 nationality: "Japan"
 occupation: ["Political Scholar", "Philosopher", "Legal Scholar", "Nationalist Leader", "University Professor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/KishuoSatomi002.jpg"
 socialLinks:
   wikipedia: "https://ja.wikipedia.org/wiki/%E9%87%8C%E8%A6%8B%E5%B2%B8%E9%9B%84"
 lastUpdated: "2026-01-08"

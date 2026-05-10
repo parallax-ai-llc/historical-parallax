@@ -5,7 +5,7 @@ birth: "1933-10-24"
 death: "1995-03-17"
 nationality: "United Kingdom"
 occupation: ["Mafia"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/07/Krays.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronnie_Kray"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ British gangster who, with twin brother Reggie, controlled organized crime in Lo
 | 1969 | Convicted of murder; sentenced to life |
 | 1995 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Ronnie Kray" - https://en.wikipedia.org/wiki/Ronnie_Kray
 
@@ -51,3 +51,6 @@ This short profile focuses on widely reported, high-level points: identity, the 
 ## See also
 
 - Reggie Kray
+
+
+## References

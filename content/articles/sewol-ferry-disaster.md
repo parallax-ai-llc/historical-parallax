@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b2/Korean_Ferry_Sewol_Capsized%2C_2014.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sewol_Ferry_Disaster"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Sinking of the MV Sewol ferry on April 16, 2014 that killed 304 people, mostly h
 | 2014 | 304 killed, mostly students |
 | 2014 | Captain sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Sewol Ferry Disaster" - https://en.wikipedia.org/wiki/Sewol_Ferry_Disaster
 
@@ -58,3 +58,6 @@ Investigations, trials, and inquiries followed, examining responsibility across 
 ## Legacy
 
 The Sewol disaster remains a defining reference point in South Korea for discussions about public safety, government responsibility, and crisis communication.
+
+
+## References

@@ -21,7 +21,7 @@ Former Sachsenhausen camp guard convicted at age 101, the oldest person tried fo
 |------|-------|
 | 2022 | Convicted at age 101 |
 
-## References
+
 
 [^1]: Wikipedia, "Josef Schütz" - https://en.wikipedia.org/wiki/Josef_Sch%C3%BCtz
 
@@ -53,3 +53,6 @@ Former Sachsenhausen camp guard convicted at age 101, the oldest person tried fo
 
 - Many details in English-language summaries of this case (exact sentencing dates, victim counts, and appeal status) vary slightly across outlets.
 - For a consistent baseline, the linked Wikipedia entry provides a consolidated summary with citations.
+
+
+## References

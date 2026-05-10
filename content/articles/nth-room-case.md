@@ -22,7 +22,7 @@ Cho Ju-bin and others ran encrypted chat rooms where they blackmailed dozens of 
 | 2020 | Cho Ju-bin arrested |
 | 2020 | Sentenced to 40 years |
 
-## References
+
 
 [^1]: Wikipedia, "Nth Room Case" - https://en.wikipedia.org/wiki/Nth_Room_Case
 
@@ -62,3 +62,6 @@ It is frequently cited as a turning point in public awareness of technology-faci
 
 [^2]: South Korean court coverage and sentencing reporting (2020 onward)
 [^3]: Policy and legislative reporting on reforms addressing digital sex crimes
+
+
+## References

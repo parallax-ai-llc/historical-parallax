@@ -23,7 +23,7 @@ Iraqi governments systematic campaign against Kurds in 1986-1989 that killed 50,
 | 1988 | Halabja chemical attack killed 5,000 |
 | 2006 | Iraqi tribunal convicted perpetrators |
 
-## References
+
 
 [^1]: Wikipedia, "Anfal Genocide" - https://en.wikipedia.org/wiki/Anfal_Genocide
 
@@ -48,3 +48,6 @@ In the post-2003 period, Iraqi courts prosecuted senior officials for crimes con
 ## Memory and Documentation
 
 Documentation about Anfal draws on survivor testimony, human-rights investigations, and forensic work at mass grave sites. The event continues to shape Kurdish political identity and debates over state violence and minority protection in the region.
+
+
+## References

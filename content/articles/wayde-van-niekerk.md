@@ -23,7 +23,7 @@ Wayde van Niekerk set the 400m WR of 43.03s at the 2016 Rio Olympics. He was coa
 | 2016 | Set 400m WR at Rio Olympics |
 | 2017 | Suffered knee injury |
 
-## References
+
 
 [^1]: Wikipedia, "Wayde van Niekerk" - https://en.wikipedia.org/wiki/Wayde_van_Niekerk
 
@@ -50,3 +50,6 @@ A serious knee injury in 2017 disrupted his competition schedule. Subsequent sea
 ## Significance
 
 Van Niekerk is commonly referenced as one of the defining 400m athletes of his era, with the Rio world record serving as a benchmark for the event.
+
+
+## References

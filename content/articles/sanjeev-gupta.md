@@ -5,7 +5,7 @@ birth: "1971-05-25"
 death: "Unknown"
 nationality: "India"
 occupation: ["Suspected Fraud"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/70/17.03.16_mh_Simec_Newport_263.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sanjeev_Gupta"
 lastUpdated: "2026-02-26"

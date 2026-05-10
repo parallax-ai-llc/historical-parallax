@@ -5,7 +5,7 @@ birth: "1185-01-01"
 death: "1248-01-01"
 nationality: "Persian"
 occupation: ["Sufi Mystic", "Wandering Dervish"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Miniature_of_Shams_Tabrizi_by_Hossein_Behzad%2C_dated_1963.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shams_Tabrizi"
 lastUpdated: "2026-02-21"

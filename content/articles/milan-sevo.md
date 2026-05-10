@@ -20,7 +20,7 @@ Serbian-Swedish crime boss who led organized crime operations in Malmö before b
 |------|-------|
 | 2010 | Murdered in gang conflict |
 
-## References
+
 
 [^1]: Wikipedia, "Milan Sevo" - https://en.wikipedia.org/wiki/Milan_Sevo
 
@@ -58,3 +58,6 @@ The public record most often associates Ševo with organized crime in Malmö, in
 ## References (additional)
 
 [^2]: Wikipedia contributors, "Milan Sevo" (accessed 2026-03-04) - https://en.wikipedia.org/wiki/Milan_Sevo
+
+
+## References

@@ -25,7 +25,7 @@ Zimbabwean opposition leader repeatedly beaten and arrested by Mugabe's regime.
 |------|-------|
 | 2007 | Brutally beaten by police |
 
-## References
+
 
 [^1]: Wikipedia, "Morgan Tsvangirai" - https://en.wikipedia.org/wiki/Morgan_Tsvangirai
 
@@ -77,3 +77,6 @@ Zimbabwean opposition leader repeatedly beaten and arrested by Mugabe's regime.
 - **Regional diplomacy:** Zimbabwe’s political crisis period involved mediation and pressure from regional bodies (notably the Southern African Development Community), with neighboring states balancing stability concerns and democratic norms.
 - **Sanctions and economic collapse:** International sanctions debates and severe domestic economic conditions (including hyperinflation) formed the backdrop for opposition strategy and public expectations of government.
 - **Power-sharing tradeoffs:** Unity governments can reduce immediate violence but often create blurred accountability and slow reforms when security institutions remain politically contested.
+
+
+## References

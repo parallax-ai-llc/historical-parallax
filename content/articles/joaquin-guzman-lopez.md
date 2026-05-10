@@ -22,7 +22,7 @@ Mexican drug lord and son of El Chapo who allegedly tricked El Mayo Zambada into
 | 2024 | Allegedly lured El Mayo onto plane to US |
 | 2024 | Surrendered to US authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Joaquin Guzman Lopez" - https://en.wikipedia.org/wiki/Joaquin_Guzman_Lopez
 
@@ -51,3 +51,6 @@ High-profile cartel cases can affect U.S.–Mexico security cooperation, extradi
 ## Notes
 
 Because many cartel-related investigations involve classified sources and sealed filings, early narratives can change as court records and official documents become public.
+
+
+## References

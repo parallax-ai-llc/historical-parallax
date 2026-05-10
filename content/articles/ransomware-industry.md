@@ -22,7 +22,7 @@ Ransomware attacks cost the world over $20 billion annually. Criminal groups, of
 | 2021 | Colonial Pipeline; JBS attacks |
 | 2023 | $20 billion annual cost |
 
-## References
+
 
 [^1]: Wikipedia, "Ransomware Industry" - https://en.wikipedia.org/wiki/Ransomware_Industry
 
@@ -63,3 +63,6 @@ Governments and security agencies periodically disrupt ransomware operations via
 ## Defensive Themes (High Level)
 
 Commonly emphasized mitigations include maintaining offline backups, patching exposed services, tightening identity and access controls, monitoring for lateral movement, and rehearsing incident response so organizations can recover without paying.
+
+
+## References

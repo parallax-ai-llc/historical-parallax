@@ -40,7 +40,7 @@ Campaign of political repression by Stalin from 1936-1938. An estimated 750,000 
 - Estimates for executions, arrests, and camp populations vary depending on archival access, definitions, and the period being counted.
 - When expanding this article, attribute figures to specific historians or archival compilations rather than presenting a single number as uncontested.
 
-## References
+
 
 [^1]: Wikipedia, "Great Purge" - https://en.wikipedia.org/wiki/Great_Purge
 
@@ -49,3 +49,6 @@ Campaign of political repression by Stalin from 1936-1938. An estimated 750,000 
 - Add a short subsection on the NKVD’s role and institutional changes during 1936–1938 (with sources).
 - Add a subsection on the officer corps purges and debated impact on military readiness (with careful attribution).
 - Include a brief historiography note distinguishing Soviet-era narratives from post-archive scholarship.
+
+
+## References

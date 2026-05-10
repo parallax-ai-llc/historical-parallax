@@ -21,7 +21,7 @@ Pennsylvania man who died of a stroke during the January 6 Capitol attack.
 |------|-------|
 | 2021 | Died during Capitol riot |
 
-## References
+
 
 [^1]: Wikipedia, "Benjamin Phillips" - https://en.wikipedia.org/wiki/Benjamin_Phillips
 
@@ -49,3 +49,6 @@ Pennsylvania man who died of a stroke during the January 6 Capitol attack.
 
 - This article is intentionally limited to high-level, verifiable facts available in widely cited sources.
 - If additional reliable sources (e.g., local obituaries, court filings, or major investigative reporting) are added, this page can be expanded with more precise context.
+
+
+## References

@@ -21,7 +21,7 @@ Last German governor of East Africa who continued colonial exploitation until Wo
 |------|-------|
 | 1912 | Governed German East Africa |
 
-## References
+
 
 [^1]: Wikipedia, "Heinrich Schnee" - https://en.wikipedia.org/wiki/Heinrich_Schnee
 
@@ -63,3 +63,6 @@ Last German governor of East Africa who continued colonial exploitation until Wo
 [^3]: Edward Paice, *Tip and Run: The Untold Tragedy of the Great War in Africa* (overview of the East African campaign and its human consequences).
 [^4]: Hew Strachan, *The First World War in Africa* (military and political context across African theaters).
 [^5]: Frederick Cooper, *Colonialism in Question* (conceptual framing for colonial governance and its aftermath).
+
+
+## References

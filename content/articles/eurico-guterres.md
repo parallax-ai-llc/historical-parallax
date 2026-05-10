@@ -22,7 +22,7 @@ Indonesian militia leader in East Timor who commanded the Aitarak militia respon
 | 1999 | Led Aitarak militia in East Timor massacres |
 | 2002 | Convicted of crimes against humanity |
 
-## References
+
 
 [^1]: Wikipedia, "Eurico Guterres" - https://en.wikipedia.org/wiki/Eurico_Guterres
 
@@ -53,3 +53,6 @@ The events surrounding the referendum are remembered not only for immediate loss
 ## Note on Sources
 
 Descriptions of militia structures and responsibility are contested in some narratives; comparative reading across UN reporting, human-rights investigations, and court records is often necessary to understand the period.
+
+
+## References

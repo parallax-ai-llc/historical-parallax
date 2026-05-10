@@ -22,7 +22,7 @@ Bulgarian drug lord known as 'Brendo' who ran one of Europe's largest cocaine tr
 | 2007 | Arrested for cocaine trafficking from South America |
 | 2012 | Convicted in Romania and Italy |
 
-## References
+
 
 [^1]: Wikipedia, "Evelin Banev" - https://en.wikipedia.org/wiki/Evelin_Banev
 
@@ -52,3 +52,6 @@ Bulgarian drug lord known as 'Brendo' who ran one of Europe's largest cocaine tr
 ## References (Additional)
 
 [^2]: Wikipedia’s citations provide pointers to contemporaneous reporting and court-related coverage across several countries.
+
+
+## References

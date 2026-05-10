@@ -22,7 +22,7 @@ German colonial administrator in East Africa known for extreme brutality who han
 | 1885 | Founded German East Africa |
 | 1897 | Dismissed for brutality |
 
-## References
+
 
 [^1]: Wikipedia, "Carl Peters" - https://en.wikipedia.org/wiki/Carl_Peters
 
@@ -49,3 +49,6 @@ Peters is frequently cited in studies of colonial atrocity, the legal ambiguity 
 ## References (Additional)
 
 [^2]: German Colonial Encyclopedia / historical overviews of German East Africa (context; secondary sources vary) - https://en.wikipedia.org/wiki/German_East_Africa
+
+
+## References

@@ -40,7 +40,7 @@ Brazil periodically uses **federal maximum-security facilities** to isolate high
 
 This article is a short biographical stub focused on public, high-level milestones and commonly cited context. Detailed allegations, case files, and operational specifics are outside scope here.
 
-## References
+
 
 [^1]: Wikipedia, "Marcos Willians Herbas Camacho" - https://en.wikipedia.org/wiki/Marcos_Willians_Herbas_Camacho
 
@@ -49,3 +49,6 @@ This article is a short biographical stub focused on public, high-level mileston
 - Organized crime in Brazil
 - Prison gangs and carceral governance
 - Public security policy in São Paulo state
+
+
+## References

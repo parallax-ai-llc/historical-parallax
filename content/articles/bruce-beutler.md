@@ -37,7 +37,7 @@ Beutler is best known for work that helped clarify how the innate immune system 
 
 - **Nobel Prize in Physiology or Medicine (2011):** Shared for discoveries concerning activation of innate immunity.
 
-## References
+
 
 [^1]: Wikipedia, "Bruce Beutler" - https://en.wikipedia.org/wiki/Bruce_Beutler
 
@@ -50,3 +50,6 @@ Key keywords often associated with this work include **innate immunity**, **patt
 ## See also
 
 - Innate immune system
+
+
+## References

@@ -22,7 +22,7 @@ Bosnian Serb camp commander at the Keraterm detention camp near Prijedor where B
 | 1992 | Commanded Keraterm detention camp |
 | 1999 | Convicted by Bosnian court |
 
-## References
+
 
 [^1]: Wikipedia, "Murad Saraj" - https://en.wikipedia.org/wiki/Murad_Saraj
 
@@ -52,3 +52,6 @@ This section adds high-level factual context to the article on **murad saraj** w
 ### Related topics
 - Comparable events or figures in the same region or time period.
 - Institutions, laws, or movements that shaped the topic or were shaped by it.
+
+
+## References

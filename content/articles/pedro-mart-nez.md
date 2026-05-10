@@ -23,7 +23,7 @@ Pedro Martínez won three Cy Young Awards and was the most dominant pitcher of h
 | 1999 | Won Cy Young with Boston |
 | 2000 | Won third Cy Young; posted 1.74 ERA |
 
-## References
+
 
 [^1]: Wikipedia, "Pedro Martínez" - https://en.wikipedia.org/wiki/Pedro_Mart%C3%ADnez
 
@@ -67,3 +67,6 @@ He was elected to the National Baseball Hall of Fame, reflecting sustained excel
 ## Additional References
 
 [^2]: National Baseball Hall of Fame, “Pedro Martínez” — https://baseballhall.org/hall-of-famers/martinez-pedro
+
+
+## References

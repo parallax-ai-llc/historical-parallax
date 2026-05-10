@@ -22,7 +22,7 @@ Chilean dictator who headed Operation Condor, a campaign of political repression
 | 1973 | Military coup against Allende |
 | 1975 | Operation Condor established |
 
-## References
+
 
 [^1]: Wikipedia, "Augusto Pinochet Ugarte" - https://en.wikipedia.org/wiki/Augusto_Pinochet_Ugarte
 
@@ -60,3 +60,6 @@ Pinochet remains one of Chile’s most polarizing figures. Public memory and pol
 
 [^2]: Wikipedia, "Operation Condor" - https://en.wikipedia.org/wiki/Operation_Condor
 [^3]: Wikipedia, "National Commission for Truth and Reconciliation" - https://en.wikipedia.org/wiki/National_Commission_for_Truth_and_Reconciliation
+
+
+## References

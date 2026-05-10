@@ -5,7 +5,7 @@ birth: "1748-01-01"
 death: "1785-01-01"
 nationality: "Japanese"
 occupation: ["Feudal lord", "Scientist", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Satake_Yoshiatsu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Satake_Shozan"
 lastUpdated: "2026-02-21"

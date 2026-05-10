@@ -45,7 +45,7 @@ The “Mexican Drug War” is a commonly used label for overlapping conflicts in
 - Measurement is contested: different datasets and definitions can yield different counts and interpretations.
 
 
-## References
+
 [^1]: Wikipedia, "Mexican Drug War" - https://en.wikipedia.org/wiki/Mexican_Drug_War
 
 ## Notes
@@ -53,3 +53,6 @@ The “Mexican Drug War” is a commonly used label for overlapping conflicts in
 - This page is intentionally high-level and focuses on widely reported context.
 - Exact figures and attributions can vary by source and methodology.
 - For primary detail, consult the references and contemporaneous reporting.
+
+
+## References

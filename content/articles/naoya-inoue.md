@@ -24,7 +24,7 @@ Naoya Inoue, 'The Monster,' became the undisputed bantamweight and super bantamw
 | 2022 | Became undisputed bantamweight champion |
 | 2023 | Became undisputed super bantamweight champion |
 
-## References
+
 
 [^1]: Wikipedia, "Naoya Inoue" - https://en.wikipedia.org/wiki/Naoya_Inoue
 
@@ -51,3 +51,6 @@ This article is a high-level overview and is intentionally limited to widely rep
 
 - Undisputed championship (boxing)
 - World Boxing Super Series (WBSS)
+
+
+## References

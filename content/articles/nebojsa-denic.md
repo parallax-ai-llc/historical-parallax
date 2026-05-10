@@ -21,7 +21,7 @@ Serbian-Swedish organized crime boss involved in drug trafficking and violence.
 |------|-------|
 | 2016 | Major organized crime operations in Sweden |
 
-## References
+
 
 [^1]: Wikipedia, "Nebojsa Denic" - https://en.wikipedia.org/wiki/Nebojsa_Denic
 
@@ -63,3 +63,6 @@ This context is included to frame what “organized crime” typically refers to
 - Organized crime in Sweden
 - Drug trafficking networks
 - Criminal justice proceedings and sentencing
+
+
+## References

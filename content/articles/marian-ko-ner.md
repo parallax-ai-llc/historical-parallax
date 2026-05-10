@@ -21,7 +21,7 @@ Slovak businessman acquitted of ordering journalist Ján Kuciak's murder despite
 |------|-------|
 | 2020 | Acquitted of ordering journalist's murder |
 
-## References
+
 
 [^1]: Wikipedia, "Marian Kočner" - https://en.wikipedia.org/wiki/Marian_Ko%C4%8Dner
 
@@ -58,3 +58,6 @@ Slovak businessman acquitted of ordering journalist Ján Kuciak's murder despite
 
 - This short profile is intended to remain factual and high-level; details should be verified against primary court documents or reputable reporting.
 - Wikipedia provides a starting point and includes a consolidated overview of the main events and proceedings.
+
+
+## References

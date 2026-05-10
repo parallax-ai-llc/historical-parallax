@@ -19,7 +19,7 @@ Peter R. de Vries was a Dutch investigative journalist murdered in Amsterdam in 
 |------|-------|
 | 1956 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -68,3 +68,6 @@ Peter R. de Vries was a Dutch investigative journalist murdered in Amsterdam in 
 ## Documentation notes
 - Public summaries typically distinguish between (a) established court findings and (b) allegations or investigative reporting.
 - When updating biographical entries like this, prioritize court documents and official statements for claims about motive, planning, and attribution.
+
+
+## References

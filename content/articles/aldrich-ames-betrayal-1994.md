@@ -35,7 +35,7 @@ When arrested, he said simply: *"You're making a big mistake! You must have the 
 
 ---
 
-## References
+
 
 - **Circle of Treason** (Sandra Grimes & Jeanne Vertefeuille)
 - **Confessions of a Spy** (Pete Earley)
@@ -55,3 +55,6 @@ Several themes recur in retrospective analyses:
 ## Reforms and Legacy
 
 After the arrest, U.S. intelligence organizations tightened financial review procedures, improved interagency coordination, and expanded counterintelligence awareness programs. The Ames case remains a benchmark incident in discussions of insider threats and the limits of technical security controls when human trust is exploited.
+
+
+## References

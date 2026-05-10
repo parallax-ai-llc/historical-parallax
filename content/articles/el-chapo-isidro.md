@@ -23,7 +23,7 @@ Mexican drug lord named Isidro Meza Flores who controls the Mazatlán faction of
 | 2015 | Became target of Mexican and US operations |
 | 2020 | $5 million US bounty issued |
 
-## References
+
 
 [^1]: Wikipedia, "El Chapo Isidro" - https://en.wikipedia.org/wiki/El_Chapo_Isidro
 
@@ -56,3 +56,6 @@ The Sinaloa region’s trafficking landscape has often been characterized by shi
 ## References (Additional)
 
 [^2]: U.S. Department of State / Rewards for Justice listings and press materials (public reward announcements), accessed 2026-02-26.
+
+
+## References

@@ -23,7 +23,7 @@ Lebanese-American arms dealer known as the 'Merchant of Death' who supplied Sadd
 | 1991 | Arrested for illegal arms sales |
 | 2011 | Died in Miami |
 
-## References
+
 
 [^1]: Wikipedia, "Sarkis Soghanalian" - https://en.wikipedia.org/wiki/Sarkis_Soghanalian
 
@@ -50,3 +50,6 @@ He is often cited in popular histories of arms dealing as an example of how priv
 ## Historical Context
 
 His story is frequently placed alongside broader debates about export controls, end-user monitoring, and the difficulty of regulating weapons flows across multiple jurisdictions.
+
+
+## References

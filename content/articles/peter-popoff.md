@@ -23,7 +23,7 @@ German-American televangelist exposed by James Randi in 1986 for using a radio e
 | 1987 | Filed for bankruptcy |
 | 2005 | Returned selling miracle spring water, earning $23 million |
 
-## References
+
 
 [^1]: Wikipedia, "Peter Popoff" - https://en.wikipedia.org/wiki/Peter_Popoff
 
@@ -67,3 +67,6 @@ In the United States, religious broadcasting and fundraising operate within a mi
 ## Additional References
 
 [^2]: James Randi Educational Foundation (archived materials and reporting) — https://web.randi.org/
+
+
+## References

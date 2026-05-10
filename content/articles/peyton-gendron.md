@@ -23,7 +23,7 @@ American white supremacist who killed 10 Black people in a mass shooting at a su
 | 2022 | Arrested at the scene |
 | 2023 | Sentenced to life without parole |
 
-## References
+
 
 [^1]: Wikipedia, "Peyton Gendron" - https://en.wikipedia.org/wiki/Peyton_Gendron
 
@@ -67,3 +67,6 @@ High-level summaries should avoid amplifying extremist propaganda or operational
 ## Additional References
 
 [^2]: U.S. Department of Justice, Civil Rights Division — https://www.justice.gov/crt
+
+
+## References

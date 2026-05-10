@@ -25,7 +25,7 @@ Leader of the 400 Mawozo gang responsible for mass kidnappings in Haiti.
 | 2021 | Negotiations and international attention focus on hostage releases and the broader kidnapping crisis. |
 | 2022 | Haitian authorities and international partners continue public efforts aimed at reducing gang control and kidnapping. |
 
-## References
+
 
 [^1]: Wikipedia, "Wilson Joseph" - https://en.wikipedia.org/wiki/Wilson_Joseph
 
@@ -68,3 +68,6 @@ Biographical details about alleged gang leaders can be sparse or disputed in ope
 ## Broader Significance
 
 - The 400 Mawozo case is often used in broader discussions of Haiti’s security situation, including the limits of state capacity, the humanitarian impact of violence, and debates over the role of international assistance.
+
+
+## References

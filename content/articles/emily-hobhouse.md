@@ -21,7 +21,7 @@ British activist who exposed the horrific conditions in British concentration ca
 |------|-------|
 | 1901 | Exposed Boer War concentration camp conditions |
 
-## References
+
 
 [^1]: Wikipedia, "Emily Hobhouse" - https://en.wikipedia.org/wiki/Emily_Hobhouse
 
@@ -57,3 +57,6 @@ British activist who exposed the horrific conditions in British concentration ca
 - Primary historical association: exposing conditions in Boer War concentration camps.
 - Method: first-hand observation, documentation, and public reporting.
 - Enduring theme: protection of civilians and humanitarian oversight during conflict.
+
+
+## References

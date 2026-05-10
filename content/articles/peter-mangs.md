@@ -21,7 +21,7 @@ Swedish serial shooter who targeted immigrants in Malmö, killing three and inju
 |------|-------|
 | 2010 | Convicted of racist serial shootings in Malmö |
 
-## References
+
 
 [^1]: Wikipedia, "Peter Mangs" - https://en.wikipedia.org/wiki/Peter_Mangs
 
@@ -64,3 +64,5 @@ Swedish serial shooter who targeted immigrants in Malmö, killing three and inju
 
 [^2]: The Guardian (2010), reporting on police hunt and community impact - https://www.theguardian.com/world/2010/oct/22/swedish-police-hunt-gunman
 [^3]: BBC News (2010), reporting on linked racist shootings - https://www.bbc.co.uk/news/world-europe-11606019
+
+

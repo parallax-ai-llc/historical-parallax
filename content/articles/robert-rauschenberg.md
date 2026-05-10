@@ -5,7 +5,7 @@ birth: "1925-10-22"
 death: "2008-05-12"
 nationality: "American"
 occupation: ["Painter", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Robert_Rauschenberg_%281968%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Rauschenberg"
 lastUpdated: "2026-02-21"

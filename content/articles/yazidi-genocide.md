@@ -22,7 +22,7 @@ ISIS attacked the Yazidi community in Sinjar killing thousands of men, enslaving
 | 2014 | ISIS attacked Yazidis in Sinjar |
 | 2023 | Germany convicted ISIS member of Yazidi genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Yazidi Genocide" - https://en.wikipedia.org/wiki/Yazidi_Genocide
 
@@ -64,3 +64,6 @@ Even after ISIS lost territorial control, key issues remained:
 - Safe return, reconstruction, and security guarantees in Sinjar.
 - Legal recognition and reparations.
 
+
+
+## References

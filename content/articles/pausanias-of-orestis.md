@@ -21,7 +21,7 @@ Bodyguard who assassinated King Philip II of Macedon, father of Alexander the Gr
 |------|-------|
 | -336 | Assassinated Philip II of Macedon |
 
-## References
+
 
 [^1]: Wikipedia, "Pausanias of Orestis" - https://en.wikipedia.org/wiki/Pausanias_of_Orestis
 
@@ -62,3 +62,6 @@ Bodyguard who assassinated King Philip II of Macedon, father of Alexander the Gr
 [^2]: Diodorus Siculus, *Library of History*, Book 16 (account of Philip II’s death).
 [^3]: Justin, *Epitome of the Philippic History of Pompeius Trogus*, Book 9 (summary narrative of Macedonian history).
 [^4]: Plutarch, *Life of Alexander* (context for the transition from Philip to Alexander).
+
+
+## References

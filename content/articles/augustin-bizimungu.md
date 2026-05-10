@@ -23,7 +23,7 @@ Rwandan Army chief of staff during the 1994 genocide who directed military force
 | 2002 | Arrested in Angola |
 | 2011 | Convicted of genocide; sentenced to 30 years |
 
-## References
+
 
 [^1]: Wikipedia, "Augustin Bizimungu" - https://en.wikipedia.org/wiki/Augustin_Bizimungu
 
@@ -49,3 +49,6 @@ Rwandan Army chief of staff during the 1994 genocide who directed military force
 
 ## Notes
 
+
+
+## References

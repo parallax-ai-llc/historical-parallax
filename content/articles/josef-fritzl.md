@@ -19,7 +19,7 @@ Josef Fritzl was an Austrian man who imprisoned his daughter in a cellar for 24 
 |------|-------|
 | 1978 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Data Note
@@ -60,3 +60,6 @@ Some metadata fields at the top of this article (e.g., `name`, `birth`, `occupat
 ## References (Additional)
 - Wikipedia: Fritzl case.
 - Austrian court reporting and contemporaneous investigative journalism (2008–2009).
+
+
+## References

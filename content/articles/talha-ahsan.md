@@ -21,7 +21,7 @@ British man extradited to US and convicted of running jihadist websites supporti
 |------|-------|
 | 2013 | Pleaded guilty to terrorism support |
 
-## References
+
 
 [^1]: Wikipedia, "Talha Ahsan" - https://en.wikipedia.org/wiki/Talha_Ahsan
 
@@ -48,3 +48,6 @@ The case became a touchpoint in UK discussions about:
 - Babar Ahmad (a co-defendant in related reporting)
 - Extradition law (UK–US)
 - Material support for terrorism (U.S. federal law)
+
+
+## References

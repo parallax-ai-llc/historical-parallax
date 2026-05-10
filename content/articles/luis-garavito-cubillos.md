@@ -42,10 +42,13 @@ He was prosecuted in Colombia and received a very long prison sentence under Col
 
 The Garavito case is frequently cited in discussions about child protection, policing coordination between regions, and the long-term effects of violence on communities. It also influenced public awareness campaigns and calls for stronger investigative resources for missing-children cases.
 
-## References
+
 
 [^1]: Wikipedia, "Luis Garavito Cubillos" - https://en.wikipedia.org/wiki/Luis_Garavito_Cubillos
 
 ## See also
 
 Related topics include the broader Luis Garavito entry, serial crime investigations in Colombia during the 1990s, and comparative discussions of sentencing policy for mass-casualty offenders.
+
+
+## References

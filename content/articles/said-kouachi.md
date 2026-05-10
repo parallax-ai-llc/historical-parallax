@@ -37,7 +37,7 @@ In the weeks that followed, France saw mass public demonstrations and heightened
 ## Notes on Sources
 
 Public reporting includes allegations about travel, training, and organizational ties; for careful attribution, readers should consult official investigative summaries and reputable journalistic reconstructions in addition to encyclopedic overviews.
-## References
+
 
 [^1]: Wikipedia, "Said Kouachi" - https://en.wikipedia.org/wiki/Said_Kouachi
 
@@ -54,3 +54,6 @@ Public reporting includes allegations about travel, training, and organizational
 - Names, dates, and claims should be cross-checked against the cited reference(s).
 - Where events involve crimes or violence, summaries avoid unnecessary graphic detail.
 - For full context, consult multiple reputable sources (official records, major news archives, and scholarly works when available).
+
+
+## References

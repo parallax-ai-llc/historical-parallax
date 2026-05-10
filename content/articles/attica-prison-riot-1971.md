@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 1971 | Inmates seized prison; police assault killed 43 |
 
-## References
+
 
 [^1]: Wikipedia, "Attica Prison Riot 1971" - https://en.wikipedia.org/wiki/Attica_Prison_Riot_1971
 
@@ -74,3 +74,6 @@ Commonly summarized themes included:
 
 [^2]: Encyclopedia Britannica, "Attica Prison riot" - https://www.britannica.com/event/Attica-Prison-riot
 [^3]: The New York Times (archive coverage), "Attica" topic pages and retrospectives - https://www.nytimes.com/topic/subject/attica-prison-riot
+
+
+## References

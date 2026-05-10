@@ -22,7 +22,7 @@ Mohamed Bouazizi's self-immolation sparked the Tunisian revolution that overthre
 | 2010 | Bouazizi self-immolation |
 | 2011 | Ben Ali fled |
 
-## References
+
 
 [^1]: Wikipedia, "Tunisian Revolution" - https://en.wikipedia.org/wiki/Tunisian_Revolution
 
@@ -56,3 +56,6 @@ Even after the initial transition, Tunisia faced continuing debates over economi
 - Corruption and patronage networks associated with the pre-2011 political order
 - The role of digital media and satellite television in spreading information
 - The importance of organized civil society, including labor and professional associations
+
+
+## References

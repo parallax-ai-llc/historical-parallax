@@ -22,7 +22,7 @@ Indian guru whose followers carried out the largest bioterror attack in US histo
 | 1984 | Followers poisoned salad bars in Oregon |
 | 1985 | Arrested; deported from US |
 
-## References
+
 
 [^1]: Wikipedia, "Rajneesh" - https://en.wikipedia.org/wiki/Rajneesh
 
@@ -49,3 +49,6 @@ Rajneesh remains notable both for the global reach of his teachings and for the 
 ## Additional References
 
 [^2]: US CDC and historical reporting on the 1984 The Dalles salmonellosis outbreak - https://www.cdc.gov/mmwr/preview/mmwrhtml/00000367.htm
+
+
+## References

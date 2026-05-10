@@ -23,7 +23,7 @@ The Marc Dutroux affair in 1996 exposed a pedophile ring and massive failures in
 | 1996 | White March of 300,000 |
 | 2004 | Dutroux sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Belgian Pedophile Scandal" - https://en.wikipedia.org/wiki/Belgian_Pedophile_Scandal
 
@@ -53,3 +53,6 @@ The scandal influenced reforms and public debate around policing, judicial proce
 - Dates, counts, and interpretations can vary by source; consult references for detail.
 - The topic is commonly discussed in terms of institutions, incentives, and long-term impact.
 
+
+
+## References

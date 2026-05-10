@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1971 | See Elon Musk |
 
-## References
+
 
 [^1]: Wikipedia, "Elon Musk dup3" - https://en.wikipedia.org/wiki/Elon_Musk_dup3
 
@@ -58,3 +58,6 @@ Duplicate.
 ## See Also
 
 - The canonical Elon Musk article (if present) for a more complete biography, timeline, and references.
+
+
+## References

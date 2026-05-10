@@ -5,7 +5,7 @@ birth: "1988-09-20"
 death: "Unknown"
 nationality: "Russian"
 occupation: ["Athlete", "MMA Fighter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Khabib_nurmagomedov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khabib_Nurmagomedov"
 lastUpdated: "2026-02-26"
@@ -50,7 +50,7 @@ Khabib Nurmagomedov retired undefeated at 29-0, one of the most dominant champio
 - Often discussed among the most dominant champions due to an undefeated record and consistent control-based victories.
 - His career is frequently referenced in debates about peak dominance versus longevity in MMA.
 
-## References
+
 
 [^1]: Wikipedia, "Khabib Nurmagomedov" - https://en.wikipedia.org/wiki/Khabib_Nurmagomedov
 
@@ -68,3 +68,6 @@ Khabib Nurmagomedov retired undefeated at 29-0, one of the most dominant champio
 
 - Beyond the unbeaten record, his influence is often discussed in terms of popularizing Dagestan-style wrestling dominance in mainstream MMA.
 - Post-retirement, he has remained a visible figure in the sport as a coach/mentor, reinforcing the idea of a training “system” rather than a single standout athlete.
+
+
+## References

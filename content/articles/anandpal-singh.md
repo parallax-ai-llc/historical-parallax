@@ -21,7 +21,7 @@ Indian gangster killed in a police encounter that triggered violent caste-based 
 |------|-------|
 | 2017 | Killed in police encounter |
 
-## References
+
 
 [^1]: Wikipedia, "Anandpal Singh" - https://en.wikipedia.org/wiki/Anandpal_Singh
 
@@ -52,3 +52,6 @@ Indian gangster killed in a police encounter that triggered violent caste-based 
 ## Further reading
 
 - Wikipedia overview and cited sources: https://en.wikipedia.org/wiki/Anandpal_Singh
+
+
+## References

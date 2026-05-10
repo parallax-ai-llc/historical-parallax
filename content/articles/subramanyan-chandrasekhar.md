@@ -34,7 +34,7 @@ Chandrasekhar’s theoretical work is central to modern astrophysics, particular
 | 1910 | Born |
 | 1995 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Subramanyan Chandrasekhar" - https://en.wikipedia.org/wiki/Subramanyan_Chandrasekhar
 
@@ -50,3 +50,6 @@ When building datasets or knowledge bases, it is useful to normalize name varian
 
 - **Romanization**: Rendering a name from a non-Latin script into the Latin alphabet.
 - **Canonical name**: The chosen standard form used for indexing and deduplication.
+
+
+## References

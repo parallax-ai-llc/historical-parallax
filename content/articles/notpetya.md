@@ -21,7 +21,7 @@ Russian military cyberattack disguised as ransomware that caused $10 billion in 
 |------|-------|
 | 2017 | $10 billion in global damages |
 
-## References
+
 
 [^1]: Wikipedia, "NotPetya" - https://en.wikipedia.org/wiki/NotPetya
 
@@ -68,3 +68,6 @@ Russian military cyberattack disguised as ransomware that caused $10 billion in 
 
 - UK National Cyber Security Centre (NCSC) and US government statements on NotPetya attribution (see official advisories).
 - Technical analyses by major security vendors (e.g., ESET, Microsoft, Kaspersky) describing propagation and wiper characteristics.
+
+
+## References

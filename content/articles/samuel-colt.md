@@ -23,7 +23,7 @@ Samuel Colt patented the revolving firearm mechanism.
 | 1836 | Patented revolver |
 | 1862 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Samuel Colt" - https://en.wikipedia.org/wiki/Samuel_Colt
 
@@ -48,3 +48,6 @@ In general terms, the revolver’s appeal was its ability to fire multiple shots
 The “Colt” brand remained influential after his death, and later Colt products continued to be widely recognized.
 Colt’s work is frequently cited in discussions of how patents, marketing, and manufacturing systems shaped the U.S. arms industry.
 Colt is also remembered as an early example of aggressive product promotion and brand-building in American manufacturing.
+
+
+## References

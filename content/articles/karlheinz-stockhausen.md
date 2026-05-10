@@ -5,7 +5,7 @@ birth: "1928-08-22"
 death: "2007-12-05"
 nationality: "German"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Stockhausen_1994_WDR.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karlheinz_Stockhausen"
 lastUpdated: "2026-02-21"

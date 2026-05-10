@@ -50,10 +50,13 @@ London has become a global hub for money laundering through real estate, luxury 
 - Concerns include corruption proceeds being parked in stable jurisdictions, distortion of local property markets, and weakened trust in institutions.
 - The issue is often framed as both a national security problem and a governance problem, not only a financial-crime problem.
 
-## References
+
 
 [^1]: Wikipedia, "London Laundromat" - https://en.wikipedia.org/wiki/London_Laundromat
 
 ## Notes
 
 This article is intentionally high-level; specific cases and totals change over time as reporting, prosecutions, and laws evolve.
+
+
+## References

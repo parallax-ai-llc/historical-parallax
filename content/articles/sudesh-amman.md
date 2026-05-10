@@ -23,7 +23,7 @@ British terrorist who stabbed two people in Streatham, London, just 10 days afte
 | 2020 | Released from prison 10 days before attack |
 | 2020 | Stabbed two people; shot dead by police |
 
-## References
+
 
 [^1]: Wikipedia, "Sudesh Amman" - https://en.wikipedia.org/wiki/Sudesh_Amman
 
@@ -50,3 +50,6 @@ The incident became part of a broader public debate about:
 ### Notes
 
 Public accounts emphasize that the speed of the attack and the presence of armed surveillance teams were central to limiting further casualties.
+
+
+## References

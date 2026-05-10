@@ -34,7 +34,7 @@ Colombian drug trafficker associated with the Norte del Valle Cartel who was one
 - High-profile cartel prosecutions in the 2000s frequently involved international cooperation, including intelligence sharing and coordinated arrests.
 - Indictments in the United States often centered on trafficking quantities and organizational role, with cases supported by wiretaps, informants, and seizures.
 
-## References
+
 
 [^1]: Wikipedia, "Jorge Alberto Rodriguez" - https://en.wikipedia.org/wiki/Jorge_Alberto_Rodriguez
 
@@ -49,3 +49,6 @@ Colombian drug trafficker associated with the Norte del Valle Cartel who was one
 This article provides a high-level overview and may omit case-specific details when they are not consistently available across public sources.
 
 Where possible, primary court records and contemporaneous reporting are useful for validating individual allegations.
+
+
+## References

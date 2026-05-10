@@ -22,7 +22,7 @@ Congolese militia leader whose real name is Banaloki who commanded forces respon
 | 2012 | Led militia attacks killing civilians in Ituri |
 | 2016 | Convicted by Congolese military court |
 
-## References
+
 
 [^1]: Wikipedia, "Cobra Matata" - https://en.wikipedia.org/wiki/Cobra_Matata
 
@@ -48,3 +48,6 @@ Cobra Matata’s name is often cited in discussions of militia leadership in Itu
 - Congolese military justice and war‑crimes trials
 - Civilian protection in UN peacekeeping missions
 - Resource conflict and armed group financing
+
+
+## References

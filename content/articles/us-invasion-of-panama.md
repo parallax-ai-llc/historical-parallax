@@ -23,7 +23,7 @@ US military invasion of Panama on December 20, 1989 codenamed Operation Just Cau
 | 1990 | Noriega surrendered |
 | 1992 | Noriega convicted in Miami |
 
-## References
+
 
 [^1]: Wikipedia, "US Invasion of Panama" - https://en.wikipedia.org/wiki/US_Invasion_of_Panama
 
@@ -51,3 +51,6 @@ The U.S. invasion of Panama (1989), commonly known as **Operation Just Cause**, 
 - Date/period: see the summary and timeline above.
 - Place: see the summary above.
 - Key actors: see the summary above.
+
+
+## References

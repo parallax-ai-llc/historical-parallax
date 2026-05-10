@@ -21,7 +21,7 @@ Convicted of felony murder and hate crimes for filming and participating in Ahma
 |------|-------|
 | 2022 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "William Bryan" - https://en.wikipedia.org/wiki/William_Bryan
 [^2]: Georgia Judicial Branch / local reporting summaries of the Ahmaud Arbery trial and sentencing (state case).
@@ -63,3 +63,6 @@ Bryan’s case is frequently discussed in the context of:
 - Ahmaud Arbery
 - Travis McMichael
 - Gregory McMichael
+
+
+## References

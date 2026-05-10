@@ -5,7 +5,7 @@ birth: "1904-11-19"
 death: "1971-08-29"
 nationality: "United States"
 occupation: ["Criminal Mastermind"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bundesarchiv_Bild_102-00652%2C_Richard_Loeb_und_Nathan_Leopold.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leopold_and_Loeb"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Nathan Leopold and Richard Loeb were wealthy Chicago teenagers who murdered 14-y
 | 1936 | Loeb murdered in prison |
 | 1958 | Leopold paroled |
 
-## References
+
 
 [^1]: Wikipedia, "Leopold and Loeb" - https://en.wikipedia.org/wiki/Leopold_and_Loeb
 ## Background
@@ -50,3 +50,6 @@ The case inspired numerous later works in literature, theater, and film that rei
 
 - This page is a high-level overview intended to be expanded with additional sources.
 - When adding detailed claims (dates, numbers, quotations), prefer primary documents or reputable historical scholarship.
+
+
+## References

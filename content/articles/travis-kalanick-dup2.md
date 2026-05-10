@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1976 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Travis Kalanick dup2" - https://en.wikipedia.org/wiki/Travis_Kalanick_dup2
 
@@ -59,3 +59,6 @@ After leaving the CEO position, Kalanick remained associated with technology inv
 ## Notes on Sources
 
 The social link in this file points to a “dup2” Wikipedia URL which may not exist as a canonical page. For factual verification, the main Travis Kalanick Wikipedia article is typically used.
+
+
+## References

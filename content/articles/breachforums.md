@@ -22,7 +22,7 @@ Cybercrime forum for buying and selling stolen data created by Conor Brian Fitzp
 | 2022 | BreachForums became largest data breach marketplace |
 | 2023 | Founder Pompompurin arrested by FBI |
 
-## References
+
 
 [^1]: Wikipedia, "BreachForums" - https://en.wikipedia.org/wiki/BreachForums
 
@@ -64,3 +64,6 @@ Cybercrime forum for buying and selling stolen data created by Conor Brian Fitzp
 - Data breach marketplace
 - Cybercrime forums
 - Conor Brian Fitzpatrick (Pompompurin)
+
+
+## References

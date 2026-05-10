@@ -25,7 +25,7 @@ See Martin Winterkorn. German automaker installed 'defeat devices' in 11 million
 | 2017 | VW pleaded guilty in the U.S. to criminal charges related to the emissions scheme as part of a broader resolution. |
 | 2020s | Ongoing litigation and individual prosecutions continued in multiple jurisdictions, including Germany. |
 
-## References
+
 
 [^1]: Wikipedia, "Volkswagen emissions scandal" - https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal
 
@@ -48,3 +48,6 @@ See Martin Winterkorn. German automaker installed 'defeat devices' in 11 million
 - Prompted expanded use of real-world testing frameworks (and greater scrutiny of laboratory-only certification).
 - Became a prominent example in discussions of corporate governance, compliance incentives, and the enforcement capacity of environmental regulation.
 - Contributed to strategic shifts in the auto industry toward electrification and away from light-duty diesel in several markets.
+
+
+## References

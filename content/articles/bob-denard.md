@@ -22,7 +22,7 @@ French mercenary who staged multiple coups in the Comoros Islands and other Afri
 | 1975 | First coup in Comoros |
 | 1995 | Final coup attempt in Comoros; arrested by France |
 
-## References
+
 
 [^1]: Wikipedia, "Bob Denard" - https://en.wikipedia.org/wiki/Bob_Denard
 
@@ -68,3 +68,6 @@ The Comoros episodes drew attention because they involved a sovereign state repe
 ## Legacy and debate
 
 Denard remains a contentious figure. Some portray him as an emblem of a transitional era in which informal armed actors filled gaps left by weak institutions; others emphasize the human cost and the destabilizing impact of coups on state capacity and civil life. The disagreement itself is part of why his name persists in discussions of mercenarism.
+
+
+## References

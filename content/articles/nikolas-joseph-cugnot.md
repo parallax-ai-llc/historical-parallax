@@ -24,7 +24,7 @@ Nicolas-Joseph Cugnot was a French inventor who built the first self-propelled m
 | 1770 | Built improved larger vehicle |
 | 1804 | Died in Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Nikolas Joseph Cugnot" - https://en.wikipedia.org/wiki/Nikolas_Joseph_Cugnot
 
@@ -49,3 +49,6 @@ The project is also tied to military logistics: moving heavy equipment such as a
 
 - Surveys of early steam engineering and pre-industrial transportation
 - Museum descriptions of the Conservatoire national des arts et métiers collections
+
+
+## References

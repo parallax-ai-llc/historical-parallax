@@ -23,7 +23,7 @@ Canadian cult leader who tortured followers, performed crude surgeries, and murd
 | 1993 | Arrested |
 | 2011 | Murdered in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Roch Theriault" - https://en.wikipedia.org/wiki/Roch_Theriault
 
@@ -49,3 +49,6 @@ He remained incarcerated until his death in prison in 2011.
 
 The case is often discussed in Canada as an extreme example of cult dynamics and the risks of closed, authoritarian communities.
 It has been referenced in media and research on coercive control, victim vulnerability, and the challenges of timely intervention.
+
+
+## References

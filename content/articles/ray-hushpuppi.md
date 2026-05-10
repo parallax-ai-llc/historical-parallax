@@ -21,7 +21,7 @@ Nigerian cybercriminal who lived a lavish lifestyle funded by business email com
 |------|-------|
 | 2020 | Arrested in Dubai for massive cyber fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Ray Hushpuppi" - https://en.wikipedia.org/wiki/Ray_Hushpuppi
 
@@ -59,3 +59,5 @@ Business Email Compromise (BEC) schemes typically involve:
 ## References
 
 [^2]: U.S. Department of Justice (press releases), case updates on "Ramon Abbas" / "Hushpuppi" - https://www.justice.gov/
+
+

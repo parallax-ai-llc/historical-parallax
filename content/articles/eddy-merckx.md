@@ -23,7 +23,7 @@ Eddy Merckx won the Tour de France five times and is considered the greatest cyc
 | 1970 | Won second Tour; set record for most wins in a season |
 | 1974 | Won fifth Tour de France |
 
-## References
+
 
 [^1]: Wikipedia, "Eddy Merckx" - https://en.wikipedia.org/wiki/Eddy_Merckx
 
@@ -50,3 +50,6 @@ He was known for aggressive racing and willingness to attack from long range, of
 - Tour de France
 - Giro d’Italia
 - Cycling classics
+
+
+## References

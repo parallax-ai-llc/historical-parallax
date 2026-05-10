@@ -5,7 +5,7 @@ birth: "1914-11-15"
 death: "1987-03-17"
 nationality: "United States"
 occupation: ["Mafia"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Santo_Trafficante%2C_Jr.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Santo_Trafficante_Jr."
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ American mobster who was boss of the Trafficante crime family in Tampa, Florida.
 | 1978 | Testified before House Select Committee on Assassinations |
 | 1987 | Died of heart failure |
 
-## References
+
 
 [^1]: Wikipedia, "Santo Trafficante Jr." - https://en.wikipedia.org/wiki/Santo_Trafficante_Jr.
 
@@ -49,3 +49,6 @@ Because much of the historical record comes from testimony, investigative report
 ## Further reading
 
 - Wikipedia entry and its reference list for HSCA and Cuba-era sourcing.
+
+
+## References

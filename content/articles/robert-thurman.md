@@ -5,7 +5,7 @@ birth: "1941-12-03"
 death: "N/A"
 nationality: "American"
 occupation: ["Scholar", "Author", "Buddhist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Robert_Thurman_in_2016_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Thurman"
 lastUpdated: "2026-02-21"

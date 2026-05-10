@@ -21,7 +21,7 @@ Duplicate — see Masaru Ibuka.
 |------|-------|
 | 1908 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Ibuka Masaru duplicate" - https://en.wikipedia.org/wiki/Ibuka_Masaru_duplicate
 
@@ -67,3 +67,6 @@ The table in this duplicate page is intentionally minimal; the following list pr
 
 [^2]: Wikipedia, "Masaru Ibuka" - https://en.wikipedia.org/wiki/Masaru_Ibuka
 [^3]: Sony Group, corporate history overview - https://www.sony.com/en/SonyInfo/CorporateInfo/History/
+
+
+## References

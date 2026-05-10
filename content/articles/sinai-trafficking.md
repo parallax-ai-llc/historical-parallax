@@ -23,7 +23,7 @@ Human trafficking network in the Sinai Peninsula where Eritrean and Ethiopian re
 | 2013 | Estimated 30,000 victims |
 | 2015 | Egyptian crackdown reduced trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Sinai Trafficking" - https://en.wikipedia.org/wiki/Sinai_Trafficking
 
@@ -55,3 +55,6 @@ Accounts describe an eventual reduction in large-scale trafficking activity foll
 ## Why it mattered
 
 Sinai Trafficking became a widely cited example of how irregular migration corridors can evolve into markets for kidnapping and extortion when armed actors, corrupt facilitators, and transnational payment channels converge. It also shaped later discussions about protection for refugees in transit and responsibilities of states along migration routes.
+
+
+## References

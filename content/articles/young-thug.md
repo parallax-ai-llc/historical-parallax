@@ -3,6 +3,7 @@ name: "Young Thug"
 birth: "1991-08-16"
 nationality: "American"
 occupation: ["Rapper", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Young_Thug_in_2021.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Young_Thug"
 lastUpdated: "2026-03-12"

@@ -24,7 +24,7 @@ American contract killer known as 'The Iceman' who claimed to have murdered over
 | 1988 | Convicted of multiple murders; sentenced to life |
 | 2006 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Richard Kuklinski" - https://en.wikipedia.org/wiki/Richard_Kuklinski
 
@@ -48,3 +48,6 @@ American contract killer known as 'The Iceman' who claimed to have murdered over
 
 - The case is frequently cited in criminology and media studies as an example of how true-crime narratives can shape public perception of organized crime and serial violence.
 - His interviews also raised questions about reliability, incentives, and the role of interrogation context in eliciting expansive confessions.
+
+
+## References

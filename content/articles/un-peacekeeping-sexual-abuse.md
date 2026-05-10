@@ -22,7 +22,7 @@ UN peacekeepers have committed thousands of sexual exploitation and abuse incide
 | 2004 | Congo sexual abuse scandal |
 | 2017 | Haiti abuse revelations |
 
-## References
+
 
 [^1]: Wikipedia, "UN Peacekeeping Sexual Abuse" - https://en.wikipedia.org/wiki/UN_Peacekeeping_Sexual_Abuse
 
@@ -53,3 +53,6 @@ The issue continues to shape debates about peacekeeping mandates, oversight, and
 - Misconduct allegations can undermine local trust and operational legitimacy.
 - Prevention requires both field-level enforcement and follow-through by member states.
 - Transparency about outcomes is a recurring demand from journalists and civil-society monitors.
+
+
+## References

@@ -23,7 +23,7 @@ Social engineering attack on July 15, 2020 that hijacked Twitter accounts of Bar
 | 2020 | $120,000 in bitcoin stolen |
 | 2021 | Graham Ivan Clark sentenced to 3 years |
 
-## References
+
 
 [^1]: Wikipedia, "Twitter Bitcoin Scam" - https://en.wikipedia.org/wiki/Twitter_Bitcoin_Scam
 
@@ -52,3 +52,6 @@ The 2020 Twitter Bitcoin scam was a high-profile social engineering incident in 
 - Date/period: see the summary and timeline above.
 - Place: see the summary above.
 - Key actors: see the summary above.
+
+
+## References

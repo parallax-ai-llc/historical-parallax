@@ -22,7 +22,7 @@ Russian-language dark web marketplace that was the world's largest, processing $
 | 2022 | German police seized Hydra's servers |
 | 2022 | $5.2 billion in crypto transactions disrupted |
 
-## References
+
 
 [^1]: Wikipedia, "Hydra Market" - https://en.wikipedia.org/wiki/Hydra_Market
 
@@ -65,3 +65,6 @@ When a dominant market is disrupted, the usual pattern is rapid emergence of alt
 - Darknet market
 - Cryptocurrency and cybercrime
 - International law-enforcement cooperation
+
+
+## References

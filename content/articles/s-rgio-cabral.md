@@ -41,7 +41,7 @@ The Cabral cases are often discussed as a cautionary example of:
 - How mega-events can intensify contracting volume and opportunities for illicit payments.
 - The role of courts and prosecutors in political accountability—along with the limits and controversies of such processes.
 
-## References
+
 
 [^1]: Wikipedia, "Sérgio Cabral" - https://en.wikipedia.org/wiki/S%C3%A9rgio_Cabral
 
@@ -50,3 +50,6 @@ The Cabral cases are often discussed as a cautionary example of:
 - State-level procurement and contracting oversight.
 - Political patronage networks and enforcement capacity.
 - Institutional trust and the role of high-profile prosecutions.
+
+
+## References

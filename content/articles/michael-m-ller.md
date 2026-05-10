@@ -21,7 +21,7 @@ Prominent Hells Angels leader in Finland who built organized crime networks.
 |------|-------|
 | 2003 | Led Hells Angels operations in Finland |
 
-## References
+
 
 [^1]: Wikipedia, "Michael Möller" - https://en.wikipedia.org/wiki/Michael_M%C3%B6ller
 
@@ -56,3 +56,5 @@ Prominent Hells Angels leader in Finland who built organized crime networks.
 - Finnish court decisions (when public) referencing the individual by name.
 - Reputable Finnish newspapers and investigative reporting with named sources.
 - Official police / government reports on organized crime in Finland (annual threat assessments).
+
+## References

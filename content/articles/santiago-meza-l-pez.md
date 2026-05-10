@@ -42,7 +42,7 @@ Mexican cartel hitman known as 'El Pozolero' (The Stewmaker) who confessed to di
 - Mexican prosecutions in such cases often involve a mix of homicide-related charges and organized-crime statutes.
 - Sentencing can be driven by the number of victims attributed, the nature of the acts, and evidentiary standards.
 
-## References
+
 
 [^1]: Wikipedia, "Santiago Meza López" - https://en.wikipedia.org/wiki/Santiago_Meza_L%C3%B3pez
 
@@ -50,3 +50,6 @@ Mexican cartel hitman known as 'El Pozolero' (The Stewmaker) who confessed to di
 
 - The nickname "El Pozolero" is widely cited in Spanish-language reporting about the case.
 - Publicly available accounts may differ on victim counts and specific affiliations; summaries usually present approximate figures.
+
+
+## References

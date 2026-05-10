@@ -21,7 +21,7 @@ Burundian military officer accused of ordering massacres during the civil war.
 |------|-------|
 | 1993 | Accused of ordering ethnic massacres |
 
-## References
+
 
 [^1]: Wikipedia, "Pio Nzeyimana" - https://en.wikipedia.org/wiki/Pio_Nzeyimana
 
@@ -63,3 +63,6 @@ Burundian military officer accused of ordering massacres during the civil war.
   - contemporaneous reporting,
   - named investigative bodies,
   - and verifiable citations (documents, testimonies, or court filings).
+
+
+## References

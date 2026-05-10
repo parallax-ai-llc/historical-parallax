@@ -23,7 +23,7 @@ Rwandan president whose assassination when his plane was shot down triggered the
 | 1993 | Signed Arusha Accords |
 | 1994 | Plane shot down near Kigali airport, triggering genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Juvénal Habyarimana" - https://en.wikipedia.org/wiki/Juv%C3%A9nal_Habyarimana
 
@@ -50,3 +50,6 @@ Habyarimana’s legacy is widely discussed in scholarship on genocide and state 
 ## Additional References
 
 [^2]: United Nations documentation and reports on Rwanda (background and chronology) - https://www.un.org
+
+
+## References

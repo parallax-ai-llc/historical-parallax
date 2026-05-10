@@ -23,7 +23,7 @@ Afghan serial killer who murdered at least 65 people in Kabul during the 1990s c
 | 2001 | Captured |
 | 2002 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Abul Djabar" - https://en.wikipedia.org/wiki/Abul_Djabar
 
@@ -51,3 +51,6 @@ Open sources describe a late capture and prosecution after the fall of the Talib
 - For biographies, award records and official competition databases are usually the most reliable for results and dates.
 - For conflicts and security topics, contemporary reporting may be incomplete; later research can revise early accounts.
 - This article keeps the overview high-level and points to the reference section for deeper sourcing.
+
+
+## References

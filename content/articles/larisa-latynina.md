@@ -23,7 +23,7 @@ Larisa Latynina held the Olympic medal record (18) for 48 years until Phelps sur
 | 1960 | Won three gold at Rome |
 | 1964 | Retired with 18 Olympic medals |
 
-## References
+
 
 [^1]: Wikipedia, "Larisa Latynina" - https://en.wikipedia.org/wiki/Larisa_Latynina
 
@@ -50,3 +50,6 @@ Her medal record is frequently cited in comparisons across eras, especially in d
 ## Additional References
 
 [^2]: International Gymnastics Federation (FIG) results archives and Olympic historical summaries (see FIG/Olympic databases for event-by-event listings).
+
+
+## References

@@ -23,7 +23,7 @@ Lee Dong-gook scored 200+ K-League goals and played in the 2002 World Cup.
 | 2002 | Played in World Cup |
 | 2020 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Dong-gook" - https://en.wikipedia.org/wiki/Lee_Dong-gook
 
@@ -50,3 +50,6 @@ K League goal totals are a central part of his legacy, and he is often reference
 ## Honors (Overview)
 
 Season-by-season honors vary by source, but summaries commonly mention domestic scoring titles and league recognition during peak years, alongside team trophies won with leading K League clubs.
+
+
+## References

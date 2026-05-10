@@ -23,7 +23,7 @@ Hijacking of Pan Am Flight 73 at Karachi airport by Abu Nidal Organization on Se
 | 1986 | 20 killed, 150 injured |
 | 1988 | Hijackers convicted in Pakistan |
 
-## References
+
 
 [^1]: Wikipedia, "Pan Am Flight 73 Hijacking" - https://en.wikipedia.org/wiki/Pan_Am_Flight_73_Hijacking
 
@@ -57,3 +57,6 @@ Flight 73 is frequently cited in discussions of:
 
 - Abu Nidal Organization
 - Aviation security (1980s)
+
+
+## References

@@ -23,7 +23,7 @@ Somali militant commander who was a founding member of al-Shabaab and its first 
 | 2006 | Led military operations during Ethiopian intervention |
 | 2008 | Killed by US airstrike in Dhusamareb |
 
-## References
+
 
 [^1]: Wikipedia, "Aden Hashi Farah Ayro" - https://en.wikipedia.org/wiki/Aden_Hashi_Farah_Ayro
 
@@ -51,3 +51,6 @@ He was killed in 2008 during a U.S. airstrike in Somalia, an event widely report
 - For biographies, award records and official competition databases are usually the most reliable for results and dates.
 - For conflicts and security topics, contemporary reporting may be incomplete; later research can revise early accounts.
 - This article keeps the overview high-level and points to the reference section for deeper sourcing.
+
+
+## References

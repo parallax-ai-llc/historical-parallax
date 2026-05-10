@@ -21,7 +21,7 @@ British-Indian al-Qaeda operative who planned attacks on the New York Stock Exch
 |------|-------|
 | 2006 | Convicted of conspiracy to murder |
 
-## References
+
 
 [^1]: Wikipedia, "Dhiren Barot" - https://en.wikipedia.org/wiki/Dhiren_Barot
 
@@ -49,3 +49,6 @@ British-Indian al-Qaeda operative who planned attacks on the New York Stock Exch
 ## Notes
 
 - This article summarizes widely cited open-source reporting at a high level and avoids operational detail.
+
+
+## References

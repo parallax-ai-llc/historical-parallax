@@ -37,7 +37,7 @@ In retrospective discussions, the event is sometimes placed alongside broader th
 ## Notes on Sources
 
 High-level summaries of the case are widely circulated in secondary sources; readers seeking specifics should consult detailed historical treatments and primary legal records where available.
-## References
+
 
 [^1]: Wikipedia, "Sada Abe" - https://en.wikipedia.org/wiki/Sada_Abe
 
@@ -54,3 +54,6 @@ High-level summaries of the case are widely circulated in secondary sources; rea
 - Names, dates, and claims should be cross-checked against the cited reference(s).
 - Where events involve crimes or violence, summaries avoid unnecessary graphic detail.
 - For full context, consult multiple reputable sources (official records, major news archives, and scholarly works when available).
+
+
+## References

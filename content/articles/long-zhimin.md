@@ -48,10 +48,13 @@ Chinese serial killer from Yunnan who murdered multiple women and dumped their b
 - The case is referenced in discussions of violence against women and the heightened risks faced by sex workers.
 - It also illustrates investigative challenges when victims lack strong social visibility or consistent reporting channels.
 
-## References
+
 
 [^1]: Wikipedia, "Long Zhimin" - https://en.wikipedia.org/wiki/Long_Zhimin
 
 ## Notes
 
 This article intentionally avoids graphic detail and focuses on high-level context; consult court records and reputable reporting for case-specific evidence and victim counts.
+
+
+## References

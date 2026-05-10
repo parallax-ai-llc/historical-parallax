@@ -22,7 +22,7 @@ Boko Haram militants razed the town of Baga and surrounding villages killing up 
 | 2015 | Boko Haram destroyed Baga killing up to 2,000 |
 | 2015 | Amnesty International released satellite images of destruction |
 
-## References
+
 
 [^1]: Wikipedia, "Lake Chad Basin Massacre" - https://en.wikipedia.org/wiki/Lake_Chad_Basin_Massacre
 
@@ -57,3 +57,6 @@ In discussions of the Boko Haram insurgency, the Baga attack is frequently cited
 - The scale of community destruction relative to what could be independently verified.
 - The role of remote sensing and open-source analysis in atrocity documentation.
 - The long-term displacement effects on lakeshore and border communities.
+
+
+## References

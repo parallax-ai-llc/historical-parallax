@@ -22,7 +22,7 @@ Cali Cartel leader known as 'Chepe' who was the organization's logistics genius.
 | 1990 | Managed Cali Cartel's logistics network |
 | 1996 | Killed by police after prison escape |
 
-## References
+
 
 [^1]: Wikipedia, "José Santacruz Londoño" - https://en.wikipedia.org/wiki/Jos%C3%A9_Santacruz_Londo%C3%B1o
 
@@ -49,3 +49,6 @@ Cali Cartel leader known as 'Chepe' who was the organization's logistics genius.
 ## Notes on sources
 
 - Accounts of internal cartel roles can vary; summaries typically reflect a combination of court records, government reporting, and investigative journalism.
+
+
+## References

@@ -21,7 +21,7 @@ Medellín Cartel co-founder who turned Norman's Cay into a cocaine transshipment
 |------|-------|
 | 1987 | Convicted and sentenced to life plus 135 years |
 
-## References
+
 
 [^1]: Wikipedia, "Lehder Carlos" - https://en.wikipedia.org/wiki/Lehder_Carlos
 
@@ -50,3 +50,6 @@ Medellín Cartel co-founder who turned Norman's Cay into a cocaine transshipment
 ## Additional Reading
 
 - Wikipedia overview and citations provide the most accessible starting point and link out to contemporaneous reporting and books covering the period.[^1]
+
+
+## References

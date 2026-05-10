@@ -24,7 +24,7 @@ Roy Glauber was an American physicist who won the 2005 Nobel Prize in Physics fo
 | 2005 | Awarded Nobel Prize |
 | 2018 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Roy Glauber" - https://en.wikipedia.org/wiki/Roy_Glauber
 
@@ -50,3 +50,6 @@ Quantum optics is central to fields such as precision measurement, photonics, an
 ## Notes on Sources
 
 This article is a compact overview intended to capture the basic identity, Nobel context, and the general area of contribution. Biographical and technical details are typically supported by Nobel materials, university histories, and primary research papers.
+
+
+## References

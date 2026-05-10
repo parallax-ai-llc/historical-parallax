@@ -5,7 +5,7 @@ birth: "1903-11-07"
 death: "1989-02-27"
 nationality: "Austrian"
 occupation: ["Zoologist", "Ethologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Konrad_Lorenz.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Konrad_Lorenz"
 lastUpdated: "2026-02-21"

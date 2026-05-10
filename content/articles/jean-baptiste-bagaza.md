@@ -23,7 +23,7 @@ Burundian military dictator who overthrew Micombero and ruled from 1976 to 1987.
 | 1987 | Overthrown while abroad |
 | 2016 | Died in Brussels |
 
-## References
+
 
 [^1]: Wikipedia, "Jean-Baptiste Bagaza" - https://en.wikipedia.org/wiki/Jean-Baptiste_Bagaza
 ## Overview
@@ -48,3 +48,6 @@ His administration pursued infrastructure and administrative reforms, but it als
 
 ## Removal and later years
 Bagaza was ousted in another coup in 1987 led by Pierre Buyoya. He later lived outside Burundi for periods of time and remained a figure in Burundian political history, often discussed in analyses of the country’s cycles of coups, reforms, and unrest.
+
+
+## References

@@ -21,7 +21,7 @@ Wave of white supremacist attacks inspired by the Christchurch shooter's manifes
 |------|-------|
 | 2019 | Multiple copycat attacks worldwide |
 
-## References
+
 
 [^1]: Wikipedia, "Tarrant Manifesto Inspired Attacks" - https://en.wikipedia.org/wiki/Tarrant_Manifesto_Inspired_Attacks
 
@@ -57,3 +57,6 @@ This article describes the phenomenon at a high level and avoids operational det
 - Copycat crime and contagion effects
 - White supremacist terrorism
 
+
+
+## References

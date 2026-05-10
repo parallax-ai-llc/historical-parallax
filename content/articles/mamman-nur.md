@@ -22,7 +22,7 @@ Boko Haram commander who orchestrated the 2011 bombing of the UN headquarters in
 | 2011 | Masterminded UN headquarters bombing in Abuja |
 | 2018 | Reportedly killed by own fighters |
 
-## References
+
 
 [^1]: Wikipedia, "Mamman Nur" - https://en.wikipedia.org/wiki/Mamman_Nur
 
@@ -53,3 +53,6 @@ Nur is often referenced in discussions of:
 ## Notes on verification
 
 Biographical details about clandestine actors are frequently fragmented. Researchers typically weigh claims against contemporaneous statements, captured documents where available, and multi-source reporting, while acknowledging uncertainty when confirmation is lacking.
+
+
+## References

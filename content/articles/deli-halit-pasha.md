@@ -22,7 +22,7 @@ Ottoman commander notorious for massacres during the Greek War of Independence. 
 | 1821 | Led massacres during Greek revolt |
 | 1826 | Executed during Auspicious Incident |
 
-## References
+
 
 [^1]: Wikipedia, "Deli Halit Pasha" - https://en.wikipedia.org/wiki/Deli_Halit_Pasha
 
@@ -50,3 +50,6 @@ Descriptions of Deli Halit Pasha in modern overviews are typically brief and rel
 ## See Also
 
 Related topics include the Greek War of Independence, Ottoman counterinsurgency practices in the early 19th century, and the Auspicious Incident (1826).
+
+
+## References

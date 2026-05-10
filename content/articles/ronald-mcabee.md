@@ -21,7 +21,7 @@ Off-duty Tennessee sheriff's deputy convicted of assaulting officers during Janu
 |------|-------|
 | 2023 | Convicted of assault |
 
-## References
+
 
 [^1]: Wikipedia, "Ronald McAbee" - https://en.wikipedia.org/wiki/Ronald_McAbee
 
@@ -62,3 +62,6 @@ Off-duty Tennessee sheriff's deputy convicted of assaulting officers during Janu
 
 [^2]: U.S. Department of Justice, press releases and case summaries related to January 6 prosecutions (browse/search): https://www.justice.gov
 [^3]: U.S. District Court docket materials (PACER) for primary-source verification: https://pacer.uscourts.gov
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1908-01-22"
 death: "1968-04-01"
 nationality: "Soviet"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Landau.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lev_Landau"
 lastUpdated: "2026-02-21"

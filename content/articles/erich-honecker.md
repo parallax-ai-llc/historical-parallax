@@ -24,7 +24,7 @@ East German leader who ordered the construction of the Berlin Wall's shoot-to-ki
 | 1989 | Forced to resign as Berlin Wall fell |
 | 1993 | Charges dropped due to ill health; exiled to Chile |
 
-## References
+
 
 [^1]: Wikipedia, "Erich Honecker" - https://en.wikipedia.org/wiki/Erich_Honecker
 
@@ -48,3 +48,6 @@ East German leader who ordered the construction of the Berlin Wall's shoot-to-ki
 The rapid political changes of 19891990 ended his rule. Post-reunification, legal proceedings and public debate focused on responsibility for border killings and the broader harms of the authoritarian system.
 
 His period in office is also discussed in relation to the GDR's social guarantees and the costs of maintaining them under a closed political order.
+
+
+## References

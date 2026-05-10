@@ -22,7 +22,7 @@ Senator Joseph McCarthy led a campaign of political persecution accusing hundred
 | 1950 | McCarthy's Wheeling speech |
 | 1954 | Senate censured McCarthy |
 
-## References
+
 
 [^1]: Wikipedia, "McCarthyism" - https://en.wikipedia.org/wiki/McCarthyism
 
@@ -56,3 +56,6 @@ Senator Joseph McCarthy led a campaign of political persecution accusing hundred
 - House Un-American Activities Committee (HUAC)
 - Hollywood blacklist
 - Loyalty oaths and security clearances
+
+
+## References

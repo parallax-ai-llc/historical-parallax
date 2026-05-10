@@ -21,7 +21,7 @@ Dutch-Moroccan hitman convicted of murder linked to the Mocro-maffia drug wars.
 |------|-------|
 | 2017 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Naoufal Fassih" - https://en.wikipedia.org/wiki/Naoufal_Fassih
 
@@ -52,3 +52,6 @@ Dutch-Moroccan hitman convicted of murder linked to the Mocro-maffia drug wars.
 
 - Mocro Maffia (topic)
 - Dutch organized crime reporting (topic)
+
+
+## References

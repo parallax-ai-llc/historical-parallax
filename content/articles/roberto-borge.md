@@ -5,7 +5,7 @@ birth: "1975-05-18"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Gobernador_Roberto_Borge_Angulo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Borge"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Mexican former governor of Quintana Roo who was convicted of embezzlement and fr
 | 2017 | Arrested in Panama |
 | 2021 | Convicted; sentenced to prison |
 
-## References
+
 
 [^1]: Wikipedia, "Roberto Borge" - https://en.wikipedia.org/wiki/Roberto_Borge
 
@@ -51,3 +51,6 @@ Mexican former governor of Quintana Roo who was convicted of embezzlement and fr
 
 - Cases involving former governors are often analyzed as tests of prosecutorial independence and anti-corruption enforcement in Mexico.
 - Quintana Roo’s economic profile (tourism and real-estate development) has made governance and land/property decisions especially politically sensitive.
+
+
+## References

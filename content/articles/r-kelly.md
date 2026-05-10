@@ -5,7 +5,7 @@ birth: "1967-01-08"
 death: "N/A (Imprisoned)"
 nationality: "United States"
 occupation: ["Sex Trafficker", "Singer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/R._Kelly_in_2017.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/R._Kelly"
 lastUpdated: "2026-02-21"

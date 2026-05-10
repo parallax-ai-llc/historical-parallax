@@ -22,7 +22,7 @@ Head of the Tijuana Cartel who along with his brothers controlled drug trafficki
 | 1990 | Led Tijuana Cartel with his brothers |
 | 2011 | Sentenced to 25 years in US prison |
 
-## References
+
 
 [^1]: Wikipedia, "Benjamín Arellano Félix" - https://en.wikipedia.org/wiki/Benjam%C3%ADn_Arellano_F%C3%A9lix
 
@@ -59,3 +59,6 @@ Crackdowns and internal fragmentation in subsequent years contributed to shifts 
 - Tijuana Cartel / Arellano Félix Organization
 - Mexican Drug War
 - U.S.–Mexico border drug trafficking routes
+
+
+## References

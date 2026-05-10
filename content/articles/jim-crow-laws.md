@@ -22,7 +22,7 @@ System of racial segregation laws in the southern United States that enforced wh
 | 1877 | Jim Crow era began |
 | 1964 | Civil Rights Act ended legal segregation |
 
-## References
+
 
 [^1]: Wikipedia, "Jim Crow Laws" - https://en.wikipedia.org/wiki/Jim_Crow_Laws
 ## What "Jim Crow" Covered
@@ -49,3 +49,6 @@ Many historians treat Jim Crow as a continuation of racial control after slavery
 ## Further Reading (General)
 
 For deeper detail, consult multiple reputable sources (academic histories, major news outlets, and primary documents where available), and compare accounts across perspectives.
+
+
+## References

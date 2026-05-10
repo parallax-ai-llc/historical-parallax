@@ -22,7 +22,7 @@ Japanese-run POW camp in Singapore where Allied prisoners were subjected to brut
 | 1942 | POW camp established |
 | 1945 | Liberated |
 
-## References
+
 
 [^1]: Wikipedia, "Changi Prison" - https://en.wikipedia.org/wiki/Changi_Prison
 
@@ -48,3 +48,6 @@ Japanese-run POW camp in Singapore where Allied prisoners were subjected to brut
 
 - Changi Prison is frequently cited in discussions of wartime incarceration, military occupation, and the treatment of prisoners under international norms.
 - The site is also used as a case study for how societies commemorate traumatic events through museums, memorials, and public history.
+
+
+## References

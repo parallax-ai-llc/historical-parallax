@@ -43,10 +43,13 @@ Bukele's government pursued high-profile economic initiatives intended to attrac
 
 Bukele has faced scrutiny from foreign governments and international organizations over civil liberties and constitutional norms. At the same time, his administration has used improved security metrics and public approval to defend its approach and to claim a mandate for continued governance.
 
-## References
+
 
 [^1]: Wikipedia, "Nayib Bukele" - https://en.wikipedia.org/wiki/Nayib_Bukele
 
 ## Notes
 
 - Assessments of Bukele's tenure vary sharply depending on emphasis on security outcomes versus civil-liberties and rule-of-law concerns.
+
+
+## References

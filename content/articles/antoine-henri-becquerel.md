@@ -22,7 +22,7 @@ See Henri Becquerel entry.
 | 1852 | Born |
 | 1908 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Antoine-Henri Becquerel" - https://en.wikipedia.org/wiki/Antoine-Henri_Becquerel
 
@@ -53,3 +53,6 @@ Becquerel is best known for discovering evidence of spontaneous radioactivity in
 ## Additional References
 
 [^2]: Nobel Prize, "The Nobel Prize in Physics 1903" - https://www.nobelprize.org/prizes/physics/1903/summary/
+
+
+## References

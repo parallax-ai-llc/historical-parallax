@@ -11,23 +11,23 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 摘要
+## 简介
 
-马克·贝尼奥夫于 1999 年创立了 Salesforce，开创了软件即服务 (SaaS) 商业模式，彻底改变了企业计算。他引入了通过互联网交付业务应用程序的概念，消除了对昂贵本地软件的需求。Salesforce 成为全球最大的 CRM 平台。他还以其慈善事业和对企业社会责任的倡导而闻名。
+马克·贝尼奥夫于1999年创立了Salesforce，开创了软件即服务（SaaS）的商业模式，彻底改变了企业计算。他提出了通过互联网交付商业应用程序的概念，消除了对昂贵的本地部署软件的需求。Salesforce已成为全球最大的CRM平台。他还以其慈善事业和社会企业责任倡导而闻名。
 
 ## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
 | 1964 | 出生于加利福尼亚州旧金山 |
-| 1986 | 23 岁时加入 Oracle |
-| 1999 | 创立 Salesforce |
-| 2004 | Salesforce 上市 |
-| 2006 | 推出 AppExchange 平台 |
-| 2018 | 以 65 亿美元收购 MuleSoft |
-| 2021 | 以 277 亿美元收购 Slack |
-| 2024 | Salesforce 将 AI 集成到其平台 |
+| 1986 | 23岁时加入Oracle |
+| 1999 | 创立Salesforce |
+| 2004 | Salesforce上市 |
+| 2006 | 推出AppExchange平台 |
+| 2018 | 以65亿美元收购MuleSoft |
+| 2021 | 以277亿美元收购Slack |
+| 2024 | Salesforce在其平台中整合了AI |
 
 ## 参考资料
 
-[^1]: Wikipedia, "Marc Benioff" - https://en.wikipedia.org/wiki/Marc_Benioff
+[^1]: 维基百科，“马克·贝尼奥夫” - https://en.wikipedia.org/wiki/Marc_Benioff

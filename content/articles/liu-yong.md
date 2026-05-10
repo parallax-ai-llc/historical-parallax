@@ -22,7 +22,7 @@ Chinese gangster who ran a powerful organized crime syndicate in Shenyang with p
 | 2000 | Arrested in crackdown on Shenyang organized crime |
 | 2003 | Executed after Supreme Court overturned commutation |
 
-## References
+
 
 [^1]: Wikipedia, "Liu Yong" - https://en.wikipedia.org/wiki/Liu_Yong
 
@@ -55,3 +55,6 @@ Chinese gangster who ran a powerful organized crime syndicate in Shenyang with p
 
 - Organized-crime enforcement can be complicated by corruption and informal protection networks.
 - The Liu Yong case is remembered both for the scale of the syndicate and for the legal and political symbolism attached to the final sentence.
+
+
+## References

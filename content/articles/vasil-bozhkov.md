@@ -40,7 +40,7 @@ After leaving Bulgaria, he was reported to be in the United Arab Emirates. In 20
 
 High-profile cases involving oligarch figures in Bulgaria are often treated as signals of shifting political coalitions and pressure for institutional reform. Bozhkov’s case is commonly referenced in discussions about the relationship between business power, law enforcement, and public trust.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Vasil Bozhkov" - https://en.wikipedia.org/wiki/Vasil_Bozhkov
 
@@ -48,3 +48,6 @@ High-profile cases involving oligarch figures in Bulgaria are often treated as s
 
 - Global Magnitsky sanctions
 - Corruption and state capture debates in Bulgaria
+
+
+## References

@@ -22,7 +22,7 @@ Mexican serial killer and cannibal known as 'The Cannibal Poet' who murdered at 
 | 2007 | Arrested after police found human remains in his apartment |
 | 2007 | Found dead in prison cell under suspicious circumstances |
 
-## References
+
 
 [^1]: Wikipedia, "José Luis Calva" - https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Calva
 
@@ -49,3 +49,6 @@ Mexican serial killer and cannibal known as 'The Cannibal Poet' who murdered at 
 ## Notes on naming
 
 - English-language coverage sometimes translates or stylizes nicknames; Spanish-language sources may present different wording.
+
+
+## References

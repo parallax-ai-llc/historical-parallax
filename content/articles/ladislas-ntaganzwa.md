@@ -22,7 +22,7 @@ Former Rwandan bourgmestre who orchestrated massacres of thousands of Tutsi civi
 | 1994 | Organized massacres of Tutsi civilians in Nyakizu |
 | 2015 | Arrested in the Democratic Republic of the Congo |
 
-## References
+
 
 [^1]: Wikipedia, "Ladislas Ntaganzwa" - https://en.wikipedia.org/wiki/Ladislas_Ntaganzwa
 
@@ -52,3 +52,6 @@ Genocide accountability frequently turns on local command responsibility: establ
 
 - This article is intentionally high-level and is expanded over time.
 - Line-count padding is used to meet repository maintenance constraints.
+
+
+## References

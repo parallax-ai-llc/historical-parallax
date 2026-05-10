@@ -22,7 +22,7 @@ German fintech company Wirecard collapsed after revealing that €1.9 billion in
 | 2020 | Wirecard collapsed with €1.9 billion missing |
 | 2020 | COO Marsalek fled to Russia |
 
-## References
+
 
 [^1]: Wikipedia, "Wirecard Fraud" - https://en.wikipedia.org/wiki/Wirecard_Fraud
 
@@ -48,3 +48,6 @@ The case also influenced debates over market transparency, analyst incentives, a
 A recurring lesson in commentary on Wirecard is that complex, cross-border structures can create opportunities for manipulation.
 Another is that governance, independent oversight, and skeptical verification can matter as much as headline growth metrics.
 In many summaries, Wirecard is treated as a reference case for fraud risk in high-velocity financial services.
+
+
+## References

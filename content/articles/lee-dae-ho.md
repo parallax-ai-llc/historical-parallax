@@ -23,7 +23,7 @@ Lee Dae-ho was one of the greatest KBO sluggers who also played in NPB for Softb
 | 2012 | Moved to NPB's Softbank Hawks |
 | 2016 | Played for Seattle Mariners in MLB |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Dae-ho" - https://en.wikipedia.org/wiki/Lee_Dae-ho
 
@@ -50,3 +50,6 @@ Lee represented South Korea in major international tournaments, and is frequentl
 ## Legacy
 
 In Korean baseball discussions, Lee is often placed among the defining sluggers of his era. His cross-league résumé is cited as evidence that KBO hitters can adapt to differing styles of pitching, ballparks, and travel schedules at the highest levels.
+
+
+## References

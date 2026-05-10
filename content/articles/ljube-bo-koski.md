@@ -21,7 +21,7 @@ Macedonian interior minister acquitted of war crimes committed during the 2001 e
 |------|-------|
 | 2008 | Acquitted of war crimes at ICTY |
 
-## References
+
 
 [^1]: Wikipedia, "Ljube Boškoski" - https://en.wikipedia.org/wiki/Ljube_Bo%C5%A1koski
 
@@ -63,3 +63,6 @@ Boškoski was tried at the International Criminal Tribunal for the former Yugosl
 
 [^2]: ICTY, case information and judgments (official archive) - https://www.icty.org/
 [^3]: ICTY, "Prosecutor v. Ljube Boškoski and Johan Tarčulovski" (case materials/summary pages) - https://www.icty.org/en/cases
+
+
+## References

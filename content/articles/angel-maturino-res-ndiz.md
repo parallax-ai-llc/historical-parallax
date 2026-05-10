@@ -23,7 +23,7 @@ Mexican serial killer known as the 'Railroad Killer' who murdered at least 15 pe
 | 1999 | Surrendered to Texas Rangers |
 | 2006 | Executed by lethal injection |
 
-## References
+
 
 [^1]: Wikipedia, "Angel Maturino Reséndiz" - https://en.wikipedia.org/wiki/Angel_Maturino_Res%C3%A9ndiz
 
@@ -51,3 +51,6 @@ Accounts of the case describe a pattern of improvised weapons and theft from vic
 
 - serial murder investigations spanning multiple jurisdictions
 - manhunts and fugitive apprehension
+
+
+## References

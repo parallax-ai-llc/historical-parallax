@@ -22,7 +22,7 @@ Indian tribal rebel leader who led the Rampa Rebellion against British colonial 
 | 1922 | Led tribal uprising against British in Rampa region |
 | 1924 | Captured and executed by British colonial police |
 
-## References
+
 
 [^1]: Wikipedia, "Alluri Sitarama Raju" - https://en.wikipedia.org/wiki/Alluri_Sitarama_Raju
 
@@ -57,3 +57,6 @@ Commemorations and retellings vary by source, blending historical documentation 
 ## References (additional)
 
 [^2]: Wikipedia, "Rampa Rebellion of 1922" (context and timeline) - https://en.wikipedia.org/wiki/Rampa_Rebellion_of_1922
+
+
+## References

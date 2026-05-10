@@ -5,7 +5,7 @@ birth: "1947-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Robotics engineer", "Factory automation specialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Large_format_camera_lens.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seo_Jeong-min"
 lastUpdated: "2026-02-21"

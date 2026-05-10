@@ -22,7 +22,7 @@ Haitian paramilitary leader who founded FRAPH death squad responsible for thousa
 | 1993 | Founded FRAPH paramilitary group that killed thousands |
 | 2008 | Convicted of mortgage fraud in New York after avoiding extradition |
 
-## References
+
 
 [^1]: Wikipedia, "Emmanuel Constant" - https://en.wikipedia.org/wiki/Emmanuel_Constant
 
@@ -51,3 +51,6 @@ Haitian paramilitary leader who founded FRAPH death squad responsible for thousa
 
 [^2]: Wikipedia, "1991 Haitian coup d'état" - https://en.wikipedia.org/wiki/1991_Haitian_coup_d%27%C3%A9tat
 [^3]: Wikipedia, "FRAPH" - https://en.wikipedia.org/wiki/FRAPH
+
+
+## References

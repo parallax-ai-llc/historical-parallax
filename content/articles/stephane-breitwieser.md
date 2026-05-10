@@ -24,7 +24,7 @@ French art thief who stole 239 artworks and objects worth over €1.4 billion fr
 | 2003 | Convicted; sentenced to 3 years |
 | 2005 | Mother convicted for destroying artworks |
 
-## References
+
 
 [^1]: Wikipedia, "Stephane Breitwieser" - https://en.wikipedia.org/wiki/Stephane_Breitwieser
 
@@ -49,3 +49,6 @@ Because the stolen items included a wide variety of regional artworks and artifa
 - Stole hundreds of artworks from museums across Europe (1995–2001).
 - Often exploited low-security environments and routine visitor access.
 - Destruction of many works made full recovery impossible.
+
+
+## References

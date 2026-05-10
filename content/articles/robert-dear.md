@@ -21,7 +21,7 @@ Attacked a Planned Parenthood clinic in Colorado Springs killing 3 and injuring 
 |------|-------|
 | 2015 | Attacked Planned Parenthood; killed 3 |
 
-## References
+
 
 [^1]: Wikipedia, "Robert Dear" - https://en.wikipedia.org/wiki/Robert_Dear
 
@@ -54,3 +54,6 @@ Attacked a Planned Parenthood clinic in Colorado Springs killing 3 and injuring 
 
 [^2]: Britannica, "Colorado Springs Planned Parenthood shooting" (overview) - https://www.britannica.com/event/Colorado-Springs-Planned-Parenthood-shooting
 [^3]: U.S. Department of Justice (general overview of domestic terrorism; contextual) - https://www.justice.gov/archives/jm/criminal-resource-manual-1576-terrorism-definition
+
+
+## References

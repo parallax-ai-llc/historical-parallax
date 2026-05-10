@@ -24,7 +24,7 @@ Olga Hepnarová was the last woman executed in Czechoslovakia. She drove a truck
 | 1973–1975 | Investigation, trial, and sentencing (death penalty). |
 | 1975-03-12 | Executed by hanging at Pankrác Prison in Prague; last woman executed in Czechoslovakia. |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Olga Hepnarová" (accessed 2026-02-26): https://en.wikipedia.org/wiki/Olga_Hepnarov%C3%A1
 [^3]: Contemporary reporting and later historical summaries commonly cited in Czech criminal-justice histories (see linked encyclopedia/Wikipedia for a bibliography trail).
@@ -55,3 +55,6 @@ Olga Hepnarová was the last woman executed in Czechoslovakia. She drove a truck
 
 ## Further reading (starting points)
 - The Wikipedia entry provides a bibliography trail into Czech-language reporting and later historical summaries.[^2]
+
+
+## References

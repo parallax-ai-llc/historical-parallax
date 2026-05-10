@@ -21,7 +21,7 @@ Al-Qaeda assassinated Afghan resistance leader Ahmad Shah Massoud on September 9
 |------|-------|
 | 2001 | Massoud assassinated by fake journalists |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmad Shah Massoud Assassination" - https://en.wikipedia.org/wiki/Ahmad_Shah_Massoud_Assassination
 
@@ -70,3 +70,6 @@ This article summarizes widely reported, high-level facts. Specific claims (e.g.
 - Massoud’s broader role in Afghanistan’s conflicts.
 - The Northern Alliance’s structure and leadership after 2001.
 - Al-Qaeda’s operational presence in Afghanistan before 9/11.
+
+
+## References

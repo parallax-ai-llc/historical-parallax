@@ -22,7 +22,7 @@ Former CAF president convicted of corruption and financial misconduct. Banned by
 | 2019 | Arrested in Paris on corruption charges |
 | 2021 | Banned by FIFA for five years |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmad Ahmad" - https://en.wikipedia.org/wiki/Ahmad_Ahmad
 
@@ -50,3 +50,6 @@ His case is frequently cited in discussions about governance reform, compliance 
 
 [^2]: FIFA disciplinary coverage and sanction reporting (see summary details in FIFA releases and reputable sports governance reporting).
 [^3]: Media reporting on the 2019 Paris arrest connected to corruption allegations.
+
+
+## References

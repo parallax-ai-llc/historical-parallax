@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1963 | See Li Shufu |
 
-## References
+
 
 [^1]: Wikipedia, "Li Shufu duplicate" - https://en.wikipedia.org/wiki/Li_Shufu_duplicate
 
@@ -50,3 +50,6 @@ When reconciling duplicates, the following checks typically reduce future duplic
 ## See Also
 
 - Li Shufu (canonical article, if present in `content/articles/`)
+
+
+## References

@@ -24,7 +24,7 @@ British PM who was found to have misled Parliament over 'Partygate'—social gat
 | 2022 | Resigned amid multiple scandals |
 | 2023 | Found to have deliberately misled Parliament |
 
-## References
+
 
 [^1]: Wikipedia, "Boris Johnson" - https://en.wikipedia.org/wiki/Boris_Johnson
 
@@ -57,3 +57,6 @@ British PM who was found to have misled Parliament over 'Partygate'—social gat
 
 - His premiership is commonly discussed in relation to Brexit implementation, COVID-era governance, and standards in public life.
 - The scandals that culminated in his resignation renewed attention on parliamentary accountability and ministerial conduct.
+
+
+## References

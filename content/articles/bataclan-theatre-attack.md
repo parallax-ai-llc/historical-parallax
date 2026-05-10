@@ -22,7 +22,7 @@ ISIS-coordinated attacks across Paris killed 130 people and wounded over 400. Th
 | 2015 | ISIS attacks killed 130 across Paris |
 | 2022 | Twenty defendants convicted in mass trial |
 
-## References
+
 
 [^1]: Wikipedia, "Bataclan Theatre Attack" - https://en.wikipedia.org/wiki/Bataclan_Theatre_Attack
 
@@ -50,3 +50,6 @@ The Bataclan later reopened and hosted performances again, an act often describe
 
 - Venue: Bataclan theatre (Paris)
 - Date: 13 November 2015 (part of coordinated attacks)
+
+
+## References

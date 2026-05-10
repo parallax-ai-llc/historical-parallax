@@ -23,7 +23,7 @@ Venezuelan politician and former military officer who is one of the most powerfu
 | 2017 | Sanctioned by US |
 | 2020 | Indicted by US for narcotics trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Diosdado Cabello" - https://en.wikipedia.org/wiki/Diosdado_Cabello
 
@@ -51,3 +51,6 @@ This short profile is based on the linked reference and is intentionally high-le
 
 - Venezuelan executive and party institutions
 - International sanctions and designation regimes
+
+
+## References

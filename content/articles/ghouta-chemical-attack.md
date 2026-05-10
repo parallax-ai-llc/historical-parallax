@@ -23,7 +23,7 @@ Chemical weapons attack using sarin gas on suburbs of Damascus on August 21, 201
 | 2013 | 1,400+ killed |
 | 2013 | Obama decided not to strike Syria |
 
-## References
+
 
 [^1]: Wikipedia, "Ghouta Chemical Attack" - https://en.wikipedia.org/wiki/Ghouta_Chemical_Attack
 
@@ -49,3 +49,6 @@ Chemical weapons attack using sarin gas on suburbs of Damascus on August 21, 201
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
 
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+
+## References

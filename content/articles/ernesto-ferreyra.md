@@ -21,7 +21,7 @@ Argentine man whose murder of his wife became a landmark femicide case in Argent
 |------|-------|
 | 2015 | Convicted of femicide |
 
-## References
+
 
 [^1]: Wikipedia, "Ernesto Ferreyra" - https://en.wikipedia.org/wiki/Ernesto_Ferreyra
 
@@ -52,3 +52,6 @@ The available short source material only confirms the conviction year. The timel
 - **Femicide** — term used for gender-based killings of women
 - **Gender-based violence** — broader category of violence linked to gender inequality
 - **Argentina (law)** — for the legal framework governing homicide classifications
+
+
+## References

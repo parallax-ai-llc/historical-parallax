@@ -24,7 +24,7 @@ Former US congressman and Vietnam War flying ace convicted of accepting $2.4 mil
 | 2006 | Sentenced to 8 years and 4 months |
 | 2013 | Released from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Randy Duke Cunningham" - https://en.wikipedia.org/wiki/Randy_Duke_Cunningham
 
@@ -49,3 +49,6 @@ The case triggered broader attention to congressional ethics, earmarks, and over
 The Wikipedia biography provides more detail on his naval career, committee roles in Congress, the mechanics of the bribery scheme, and sentencing/restitution.
 
 Related topics include U.S. congressional ethics investigations and defense procurement oversight.
+
+
+## References

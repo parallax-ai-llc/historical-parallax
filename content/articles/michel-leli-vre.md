@@ -21,7 +21,7 @@ Accomplice of Marc Dutroux in the kidnapping and imprisonment of young girls in 
 |------|-------|
 | 2004 | Convicted as Dutroux accomplice |
 
-## References
+
 
 [^1]: Wikipedia, "Michel Lelièvre" - https://en.wikipedia.org/wiki/Michel_Leli%C3%A8vre
 
@@ -54,3 +54,6 @@ Accomplice of Marc Dutroux in the kidnapping and imprisonment of young girls in 
 ## Additional references
 
 [^2]: Wikipedia, "Marc Dutroux" (accomplices and sentencing summaries) - https://en.wikipedia.org/wiki/Marc_Dutroux
+
+
+## References

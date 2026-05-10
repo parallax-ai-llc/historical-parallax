@@ -22,7 +22,7 @@ British-Pakistani terrorist convicted of the kidnapping and murder of journalist
 | 2002 | Masterminded kidnapping and murder of journalist Daniel Pearl |
 | 2020 | Murder conviction overturned, later reinstated by Supreme Court |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmad Omar Saeed Sheikh" - https://en.wikipedia.org/wiki/Ahmad_Omar_Saeed_Sheikh
 
@@ -50,3 +50,6 @@ The Pearl murder occurred during a period of heightened global focus on militanc
 
 [^2]: Reporting and court coverage concerning the Daniel Pearl case, including Pakistani trial and appellate decisions.
 [^3]: Background reporting on the international response to the kidnapping and murder of Daniel Pearl.
+
+
+## References

@@ -24,7 +24,7 @@ Ranulph Fiennes is called the 'world's greatest living explorer.' He was the fir
 | 1993 | Completed first unsupported crossing of Antarctica |
 | 2009 | Summited Everest at age 65 |
 
-## References
+
 
 [^1]: Wikipedia, "Ranulph Fiennes" - https://en.wikipedia.org/wiki/Ranulph_Fiennes
 
@@ -50,3 +50,6 @@ The Wikipedia article includes additional biographical material (family backgrou
 
 - Polar exploration
 - Endurance expeditions
+
+
+## References

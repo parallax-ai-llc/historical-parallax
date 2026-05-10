@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2017 | 56 inmates killed in gang massacre |
 
-## References
+
 
 [^1]: Wikipedia, "Manaus Prison Massacre 2017" - https://en.wikipedia.org/wiki/Manaus_Prison_Massacre_2017
 
@@ -55,3 +55,6 @@ lastUpdated: "2026-02-26"
 ## Notes on Sources
 
 - This article summarizes high-level, widely reported elements. For precise casualty breakdowns, named perpetrators, and confirmed timelines, consult primary reporting and official statements referenced by the Wikipedia article.
+
+
+## References

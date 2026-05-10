@@ -21,7 +21,7 @@ Uzbek organized crime figure who controlled major racketeering operations in Tas
 |------|-------|
 | 2005 | Controlled organized crime in Tashkent |
 
-## References
+
 
 [^1]: Wikipedia, "Shuhrat Gulyamov" - https://en.wikipedia.org/wiki/Shuhrat_Gulyamov
 
@@ -53,3 +53,6 @@ If expanded later, the following would typically be needed to keep the entry fac
 
 - Organized crime in Central Asia
 - Uzbekistan law enforcement and judiciary
+
+
+## References

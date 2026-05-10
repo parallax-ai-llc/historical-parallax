@@ -21,7 +21,7 @@ Duplicate — see Daniel Ek.
 |------|-------|
 | 1983 | See Daniel Ek entry |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Ek duplicate" - https://en.wikipedia.org/wiki/Daniel_Ek_duplicate
 [^2]: Wikipedia, "Daniel Ek" - https://en.wikipedia.org/wiki/Daniel_Ek
@@ -73,3 +73,6 @@ When building knowledge bases, it is common to keep the duplicate record but add
 - **Duplicate record:** `daniel-ek-duplicate`
 - **Canonical target:** `daniel-ek`
 - **Rule of thumb:** resolve all references to the duplicate `id` to the canonical `id` unless a system explicitly needs to preserve provenance.
+
+
+## References

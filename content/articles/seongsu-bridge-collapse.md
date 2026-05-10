@@ -5,7 +5,7 @@ birth: "1994-10-21"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2000%EB%85%84%EB%8C%80_%EC%B4%88%EB%B0%98_%EC%84%9C%EC%9A%B8%EC%86%8C%EB%B0%A9_%EC%86%8C%EB%B0%A9%EA%B3%B5%EB%AC%B4%EC%9B%90%28%EC%86%8C%EB%B0%A9%EA%B4%80%29_%ED%99%9C%EB%8F%99_%EC%82%AC%EC%A7%84_1994%EB%85%84_%EC%84%B1%EC%88%98%EB%8C%80%EA%B5%90%EB%B6%95%EA%B4%B4.JPG/3840px-2000%EB%85%84%EB%8C%80_%EC%B4%88%EB%B0%98_%EC%84%9C%EC%9A%B8%EC%86%8C%EB%B0%A9_%EC%86%8C%EB%B0%A9%EA%B3%B5%EB%AC%B4%EC%9B%90%28%EC%86%8C%EB%B0%A9%EA%B4%80%29_%ED%99%9C%EB%8F%99_%EC%82%AC%EC%A7%84_1994%EB%85%84_%EC%84%B1%EC%88%98%EB%8C%80%EA%B5%90%EB%B6%95%EA%B4%B4.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seongsu_Bridge_Collapse"
 lastUpdated: "2026-02-26"

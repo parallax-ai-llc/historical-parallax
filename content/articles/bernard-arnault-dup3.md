@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1949 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Bernard Arnault dup3" - https://en.wikipedia.org/wiki/Bernard_Arnault_dup3
 
@@ -62,3 +62,6 @@ At a high level, Arnault’s public biography is typically summarized around:
 ## Additional References
 
 [^2]: Wikipedia, "Bernard Arnault" - https://en.wikipedia.org/wiki/Bernard_Arnault
+
+
+## References

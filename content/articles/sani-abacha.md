@@ -5,7 +5,7 @@ birth: "1943-09-20"
 death: "1998-06-08"
 nationality: "Nigeria"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Mausoleum_of_General_Sani_Abacha_in_Kano.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sani_Abacha"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Nigerian military dictator who embezzled up to $5 billion during his rule from 1
 | 1995 | Executed Ken Saro-Wiwa and eight Ogoni activists |
 | 1998 | Died suddenly in Abuja |
 
-## References
+
 
 [^1]: Wikipedia, "Sani Abacha" - https://en.wikipedia.org/wiki/Sani_Abacha
 
@@ -48,3 +48,6 @@ The period is often used as an example of how human-rights concerns and governan
 
 Abacha died in office in 1998, after which Nigeria entered a short transition that eventually led to the return of civilian rule in 1999.
 His death is sometimes described as a turning point that enabled political opening, though structural challenges persisted.
+
+
+## References

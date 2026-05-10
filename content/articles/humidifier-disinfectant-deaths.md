@@ -22,7 +22,7 @@ Toxic chemicals in humidifier disinfectants killed over 1,600 people and injured
 | 2011 | Deaths linked to humidifier chemicals |
 | 2016 | Major prosecutions began |
 
-## References
+
 
 [^1]: Wikipedia, "Humidifier Disinfectant Deaths" - https://en.wikipedia.org/wiki/Humidifier_Disinfectant_Deaths
 
@@ -55,3 +55,6 @@ Toxic chemicals in humidifier disinfectants killed over 1,600 people and injured
 - **Indoor air exposure:** risk pathways that differ from ingestion or skin contact.
 - **Consumer product regulation:** how safety evaluation is structured before and after products reach the market.
 - **Environmental health justice:** unequal burdens when harm affects vulnerable groups.
+
+
+## References

@@ -19,7 +19,7 @@ Los Pepes (People Persecuted by Pablo Escobar) was a vigilante group that target
 |------|-------|
 | 1992 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -62,3 +62,6 @@ Los Pepes (People Persecuted by Pablo Escobar) was a vigilante group that target
 ## Notes on Sources
 - Public narratives rely heavily on **journalistic reporting**, **testimony**, and **retrospective investigations**, which can conflict.
 - For a careful read, compare **multiple independent accounts** and distinguish between documented events and attribution claims.
+
+
+## References

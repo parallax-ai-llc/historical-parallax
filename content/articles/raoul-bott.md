@@ -24,7 +24,7 @@ Raoul Bott was a mathematician who proved the Bott periodicity theorem.
 | 2000 | Wolf Prize |
 | 2005 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Raoul Bott" - https://en.wikipedia.org/wiki/Raoul_Bott
 
@@ -49,3 +49,6 @@ Major recognitions associated with Bott include the National Medal of Science (1
 
 - K-theory
 - Algebraic topology
+
+
+## References

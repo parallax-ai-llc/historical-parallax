@@ -22,7 +22,7 @@ Saudi journalist Jamal Khashoggi was murdered and dismembered inside the Saudi c
 | 2018 | Khashoggi murdered in Saudi consulate in Istanbul |
 | 2021 | US intelligence report implicated Crown Prince MBS |
 
-## References
+
 
 [^1]: Wikipedia, "Khashoggi Murder" - https://en.wikipedia.org/wiki/Khashoggi_Murder
 
@@ -51,3 +51,6 @@ The killing damaged Saudi Arabia's international reputation and became a referen
 - Jamal Khashoggi
 - Saudi Arabia–Turkey relations
 - Transnational repression
+
+
+## References

@@ -21,7 +21,7 @@ Los Zetas cartel members set fire to the Casino Royale in Monterrey, killing 52 
 |------|-------|
 | 2011 | 52 killed in casino arson |
 
-## References
+
 
 [^1]: Wikipedia, "Casino Royale Attack 2011" - https://en.wikipedia.org/wiki/Casino_Royale_Attack_2011
 
@@ -62,3 +62,6 @@ Los Zetas cartel members set fire to the Casino Royale in Monterrey, killing 52 
 ## Notes
 
 - This article summarizes high-level, widely reported facts; details (exact sequence of events, number of injured, and investigative outcomes) can vary by source and over time.
+
+
+## References

@@ -21,7 +21,7 @@ Major Norwegian methamphetamine trafficker convicted of large-scale drug importa
 |------|-------|
 | 2012 | Convicted of drug trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Julius Kure" - https://en.wikipedia.org/wiki/Julius_Kure
 
@@ -66,3 +66,6 @@ While specific investigative steps in Kure's case are not fully documented in th
 ## Additional References
 
 [^2]: Wikipedia page availability check: as of 2026-03-03, the URL returned a "Wikipedia does not have an article with this exact name" notice.
+
+
+## References

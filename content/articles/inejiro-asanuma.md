@@ -21,7 +21,7 @@ Japanese socialist leader assassinated on live television by a teenage ultranati
 |------|-------|
 | 1960 | Assassinated on live TV |
 
-## References
+
 
 [^1]: Wikipedia, "Inejiro Asanuma" - https://en.wikipedia.org/wiki/Inejiro_Asanuma
 
@@ -57,3 +57,6 @@ Japanese socialist leader assassinated on live television by a teenage ultranati
 ## References (additional)
 
 [^2]: Pulitzer Prize, "Photography" (1961) — associated coverage of the Asanuma assassination image.
+
+
+## References

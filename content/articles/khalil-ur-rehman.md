@@ -21,7 +21,7 @@ Pakistani serial killer who murdered 17 boys in Lahore.
 |------|-------|
 | 2001 | Convicted of 17 murders |
 
-## References
+
 
 [^1]: Wikipedia, "Khalil Ur Rehman" - https://en.wikipedia.org/wiki/Khalil_Ur_Rehman
 
@@ -92,3 +92,5 @@ Because the victims are minors, summaries should avoid sensational detail and fo
 ## Source note
 
 This article remains intentionally brief on specifics because widely available sources often provide only the conviction headline. Expansion should rely on reputable Pakistani reporting and court documentation where accessible.
+
+## References

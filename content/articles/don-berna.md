@@ -22,7 +22,7 @@ Colombian paramilitary commander whose real name is Diego Fernando Murillo Bejar
 | 2003 | Controlled criminal operations in Medellín as AUC leader |
 | 2008 | Extradited to US and sentenced to 31 years |
 
-## References
+
 
 [^1]: Wikipedia, "Don Berna" - https://en.wikipedia.org/wiki/Don_Berna
 
@@ -50,3 +50,6 @@ Colombian paramilitary commander whose real name is Diego Fernando Murillo Bejar
   - The blurred boundary between **political paramilitarism** and **organized crime**.
   - The evolution of **urban armed governance** in Medellín after the decline of the Medellín Cartel.
   - The role of extradition as a tool in the Colombian state’s strategy against high-level traffickers.
+
+
+## References

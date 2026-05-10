@@ -24,7 +24,7 @@ Palestinian commander of Hamas's military wing, the Izz ad-Din al-Qassam Brigade
 | 2014 | Survived Israeli airstrike |
 | 2023 | Helped plan October 7 attack on Israel |
 
-## References
+
 
 [^1]: Wikipedia, "Mohammed Deif" - https://en.wikipedia.org/wiki/Mohammed_Deif
 ## Position and Organizational Role
@@ -54,3 +54,6 @@ For figures involved in ongoing conflict, open-source information may be incompl
 
 - Israeli–Palestinian conflict
 - Gaza wars and ceasefire negotiations
+
+
+## References

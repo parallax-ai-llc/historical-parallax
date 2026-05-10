@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1964 | See Jack Ma |
 
-## References
+
 
 [^1]: Wikipedia, "Jack Ma dup2" - https://en.wikipedia.org/wiki/Jack_Ma_dup2
 
@@ -64,3 +64,6 @@ If expanded into a complete entry, a Jack Ma biography-style article typically i
 
 [^2]: Wikipedia, "Jack Ma" - https://en.wikipedia.org/wiki/Jack_Ma
 [^3]: Wikipedia, "Alibaba Group" - https://en.wikipedia.org/wiki/Alibaba_Group
+
+
+## References

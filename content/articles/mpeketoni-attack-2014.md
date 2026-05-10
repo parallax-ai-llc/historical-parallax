@@ -21,7 +21,7 @@ Al-Shabaab militants attacked the coastal Kenyan town of Mpeketoni, killing 48 p
 |------|-------|
 | 2014 | 48 killed in town attack |
 
-## References
+
 
 [^1]: Wikipedia, "Mpeketoni Attack 2014" - https://en.wikipedia.org/wiki/Mpeketoni_Attack_2014
 
@@ -70,3 +70,6 @@ Al-Shabaab militants attacked the coastal Kenyan town of Mpeketoni, killing 48 p
 - Terrorism in Kenya
 - Lamu County
 
+
+
+## References

@@ -23,7 +23,7 @@ Federica Pellegrini won 200m freestyle gold at 2008 Beijing and competed in five
 | 2009 | Set 200m freestyle WR of 1:52.98 |
 | 2021 | Competed at fifth Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Federica Pellegrini" - https://en.wikipedia.org/wiki/Federica_Pellegrini
 
@@ -48,3 +48,6 @@ Federica Pellegrini won 200m freestyle gold at 2008 Beijing and competed in five
 - Women’s 200 m freestyle (Olympics and World Championships)
 - High-tech swimsuit era (2008–2009) and rule changes
 - Italian swimming in the 2000s–2020s
+
+
+## References

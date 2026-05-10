@@ -24,7 +24,7 @@ Somali pirate kingpin known as Afweyne (Big Mouth) who was the godfather of mode
 | 2013 | Arrested in Belgium through sting operation |
 | 2016 | Convicted and sentenced to 20 years |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Abdi Hassan" - https://en.wikipedia.org/wiki/Mohamed_Abdi_Hassan
 
@@ -49,3 +49,6 @@ Somali pirate kingpin known as Afweyne (Big Mouth) who was the godfather of mode
 - Dervish movement (Somaliland/Somalia)
 - Anti-colonial resistance in the Horn of Africa
 - Early 20th-century Somali history
+
+
+## References

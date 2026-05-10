@@ -5,7 +5,7 @@ birth: "1967-03-15"
 death: "2006-05-10"
 nationality: "Kyrgyzstan"
 occupation: ["Crime Boss", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/86/Rysbek_Akmatbayev.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rysbek_Akmatbayev"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Major Kyrgyz crime boss who became a member of parliament before being assassina
 |------|-------|
 | 2006 | Assassinated after becoming parliamentarian |
 
-## References
+
 
 [^1]: Wikipedia, "Rysbek Akmatbayev" - https://en.wikipedia.org/wiki/Rysbek_Akmatbayev
 
@@ -49,3 +49,6 @@ Major Kyrgyz crime boss who became a member of parliament before being assassina
 
 - Organized crime in Kyrgyzstan
 - Jogorku Kenesh (Parliament of Kyrgyzstan)
+
+
+## References

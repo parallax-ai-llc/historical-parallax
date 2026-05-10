@@ -22,7 +22,7 @@ Brother of Manchester Arena bomber Salman Abedi who was convicted of 22 counts o
 | 2017 | Helped plan Manchester Arena bombing |
 | 2020 | Convicted of 22 counts of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Hashem Abedi" - https://en.wikipedia.org/wiki/Hashem_Abedi
 
@@ -48,3 +48,6 @@ Brother of Manchester Arena bomber Salman Abedi who was convicted of 22 counts o
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
+
+
+## References

@@ -21,7 +21,7 @@ The horrific sea journey in which enslaved Africans were transported across the 
 |------|-------|
 | 1500 | Middle Passage began |
 
-## References
+
 
 [^1]: Wikipedia, "Middle Passage" - https://en.wikipedia.org/wiki/Middle_Passage
 
@@ -59,3 +59,6 @@ The horrific sea journey in which enslaved Africans were transported across the 
 ## Additional References
 
 [^2]: Encyclopaedia Britannica, "Middle Passage" - https://www.britannica.com/topic/Middle-Passage
+
+
+## References

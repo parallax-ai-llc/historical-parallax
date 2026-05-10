@@ -23,7 +23,7 @@ British counterfeiter who led a gang that produced over £4 million in fake bank
 | 2009 | Arrested by police |
 | 2010 | Convicted; sentenced to 8 years |
 
-## References
+
 
 [^1]: Wikipedia, "Anatasios Arnaouti" - https://en.wikipedia.org/wiki/Anatasios_Arnaouti
 
@@ -48,3 +48,6 @@ He was convicted and sentenced to a multi-year prison term. The case has been ci
 ## Broader Context
 
 High-volume counterfeiting can undermine trust in cash and forces periodic design upgrades, public awareness campaigns, and enhanced detection measures by banks and retailers.
+
+
+## References

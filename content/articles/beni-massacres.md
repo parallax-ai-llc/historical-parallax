@@ -22,7 +22,7 @@ Series of killings in and around Beni territory in North Kivu, eastern DRC, begi
 | 2014 | Large-scale attacks and massacres reported in Beni territory |
 | 2019 | ADF-linked violence continued amid broader insecurity in eastern DRC |
 
-## References
+
 
 [^1]: Wikipedia, "Beni massacres" - https://en.wikipedia.org/wiki/Beni_massacres
 
@@ -55,3 +55,6 @@ Calls from civil society and international observers have emphasized:
 - credible investigations and transparent reporting
 - protection of civilians and early-warning mechanisms
 - support for survivors and community-level recovery
+
+
+## References

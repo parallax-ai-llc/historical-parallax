@@ -5,7 +5,7 @@ birth: "1968-02-21"
 death: "2022-02-25"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kim_Jung-ju_presenting_in_2016_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Jung-ju"
 lastUpdated: "2026-02-21"

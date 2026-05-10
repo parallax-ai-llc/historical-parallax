@@ -21,7 +21,7 @@ British military commander who ordered troops to fire on unarmed protesters at t
 |------|-------|
 | 1919 | Ordered Amritsar massacre |
 
-## References
+
 
 [^1]: Wikipedia, "Edward Dyer" - https://en.wikipedia.org/wiki/Edward_Dyer
 
@@ -56,3 +56,6 @@ High-level biography (as summarized in major reference sources):
 [^2]: History of Parliament Online, "DYER, Edward (1543–1607)" - http://www.historyofparliamentonline.org/volume/1558-1603/member/dyer-edward-1543-1607
 [^3]: Steven W. May, "The Authorship of 'My Mind to Me a Kingdom Is'" (1975) (scholarly discussion referenced by Wikipedia)
 
+
+
+## References

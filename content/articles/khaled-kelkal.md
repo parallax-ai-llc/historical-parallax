@@ -5,7 +5,7 @@ birth: "1971-08-26"
 death: "1995-09-29"
 nationality: "Algeria"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/58/Khalid_Kelkal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khaled_Kelkal"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Franco-Algerian terrorist behind the 1995 Paris Metro bombings, shot dead by pol
 |------|-------|
 | 1995 | Shot dead during manhunt |
 
-## References
+
 
 [^1]: Wikipedia, "Khaled Kelkal" - https://en.wikipedia.org/wiki/Khaled_Kelkal
 
@@ -78,3 +78,5 @@ Many summaries situate the 1995 France bombing campaign within the broader conte
 ## Source note
 
 This article intentionally stays at a high level and avoids operational detail. For authoritative specifics (exact attribution of incidents, legal findings, and investigative chronology), consult court records and major contemporaneous reporting.
+
+## References

@@ -22,7 +22,7 @@ Congolese businessman connected to the Sassou Nguesso regime accused of particip
 | 2007 | French investigation into ill-gotten gains began |
 | 2017 | Charges expanded |
 
-## References
+
 
 [^1]: Wikipedia, "André Blaze Matsangou" - https://en.wikipedia.org/wiki/Andr%C3%A9_Blaze_Matsangou
 
@@ -54,3 +54,6 @@ Individuals described as businesspeople “connected to” a political regime ma
 ## Source Notes
 
 The linked Wikipedia URL may not always resolve (pages can be moved, renamed, or deleted). Where possible, primary documentation (court records, official statements, and reputable investigative reporting) should be used to corroborate specifics such as dates, charges, and asset details.
+
+
+## References

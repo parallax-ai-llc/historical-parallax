@@ -26,7 +26,7 @@ WWII (1939-45) killed 70-85 million. The Allies defeated the Axis. The Holocaust
 | 1945-05 | V-E Day |
 | 1945-09 | V-J Day |
 
-## References
+
 
 [^1]: Wikipedia, "World War II" - https://en.wikipedia.org/wiki/World_War_II
 
@@ -50,3 +50,6 @@ The war ended with the defeat of the Axis powers and led to major geopolitical r
 ## Lasting Significance
 
 WWII remains a major reference point for international law, human rights discourse, and security institutions, as well as for collective memory and education.
+
+
+## References

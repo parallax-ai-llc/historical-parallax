@@ -38,7 +38,7 @@ The conflict has often been discussed in connection with regional security polit
 | 2012 | Led M23 forces capturing Goma, displacing hundreds of thousands |
 | 2013 | Fled to Uganda after M23 military defeat |
 
-## References
+
 
 [^1]: Wikipedia, "Sultani Makenga" - https://en.wikipedia.org/wiki/Sultani_Makenga
 
@@ -50,3 +50,6 @@ Goma is a strategic hub near international borders and key transport routes, so 
 
 - **North Kivu**: A province in eastern DRC frequently affected by armed conflict.
 - **Laws of war**: Rules under international humanitarian law governing conduct in armed conflict.
+
+
+## References

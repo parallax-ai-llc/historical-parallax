@@ -5,7 +5,7 @@ birth: "1758-01-01"
 death: "1813-01-01"
 nationality: "Korean"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Hyewon-Wolha.jeongin-3.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shin_Yun-bok"
 lastUpdated: "2026-02-21"

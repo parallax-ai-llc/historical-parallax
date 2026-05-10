@@ -22,7 +22,7 @@ Born Kenichi Shinoda, led the Yamaguchi-gumi as its sixth kumicho. Released from
 | 2005 | Named sixth kumicho while imprisoned |
 | 2011 | Released from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Tsukasa Shinobu" - https://en.wikipedia.org/wiki/Tsukasa_Shinobu
 
@@ -48,3 +48,6 @@ Born Kenichi Shinoda, led the Yamaguchi-gumi as its sixth kumicho. Released from
 
 - Leadership figures in major yakuza groups are frequently discussed in relation to shifts in Japan’s underworld economy and the state’s evolving approach to organized crime.
 - The Yamaguchi-gumi has also been associated with internal disputes and factional tensions over time, which can affect violence levels and policing priorities.
+
+
+## References

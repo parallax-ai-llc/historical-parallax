@@ -22,7 +22,7 @@ Pakistani gang leader who controlled large parts of Karachi's Lyari neighborhood
 | 2010 | Controlled Lyari through gang warfare |
 | 2016 | Arrested and faced multiple murder charges |
 
-## References
+
 
 [^1]: Wikipedia, "Uzair Baloch" - https://en.wikipedia.org/wiki/Uzair_Baloch
 
@@ -48,3 +48,6 @@ The case is often referenced in discussions of:
 - Organized crime in Karachi and the challenges of sustained law enforcement
 - The blurred line between criminal organizations and political influence
 - Human-rights concerns raised during security operations and interrogations
+
+
+## References

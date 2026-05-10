@@ -23,7 +23,7 @@ Brazilian drug lord known as Nem da Rocinha who controlled drug trafficking in R
 | 2011 | Arrested during police pacification operation |
 | 2013 | Sentenced to 12 years in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Elton Brito da Silva" - https://en.wikipedia.org/wiki/Elton_Brito_da_Silva
 
@@ -50,3 +50,6 @@ Brazilian drug lord known as Nem da Rocinha who controlled drug trafficking in R
 ## Legacy (high level)
 
 - The Rocinha episode remains a reference point in debates about public security, governance, and community impact in Rio de Janeiro.
+
+
+## References

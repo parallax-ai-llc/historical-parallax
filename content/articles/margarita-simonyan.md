@@ -21,7 +21,7 @@ Editor-in-chief of RT sanctioned for leading Russian state propaganda operations
 |------|-------|
 | 2022 | Sanctioned for propaganda |
 
-## References
+
 
 [^1]: Wikipedia, "Margarita Simonyan" - https://en.wikipedia.org/wiki/Margarita_Simonyan
 
@@ -52,3 +52,6 @@ Editor-in-chief of RT sanctioned for leading Russian state propaganda operations
 ## Notes
 
 This article is a high-level profile focused on public roles and major designations; details may change as new sanctions lists, court filings, or official statements are updated.
+
+
+## References

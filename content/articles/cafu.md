@@ -42,7 +42,7 @@ Cafu appeared in three consecutive WC finals (1994, 1998, 2002) and captained Br
 
 - Cafu is commonly listed among the greatest right-backs in football history, both for his trophy record and for the influence of his role in shaping expectations for the position.
 
-## References
+
 
 [^1]: Wikipedia, "Cafu" - https://en.wikipedia.org/wiki/Cafu
 
@@ -62,3 +62,6 @@ Cafu appeared in three consecutive WC finals (1994, 1998, 2002) and captained Br
 
 - **Major trophies:** Across club and country, Cafu’s career is associated with top-level domestic league titles and continental competitions, alongside World Cup success.
 - **Positional legacy:** In discussions of right-backs, he is often referenced as a benchmark for endurance, overlapping play, and disciplined defending.
+
+
+## References

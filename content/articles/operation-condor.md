@@ -23,7 +23,7 @@ Secret intelligence network coordinating political repression by South American 
 | 1976 | Letelier assassinated in Washington DC |
 | 1992 | Archives discovered in Paraguay |
 
-## References
+
 
 [^1]: Wikipedia, "Operation Condor" - https://en.wikipedia.org/wiki/Operation_Condor
 
@@ -54,3 +54,6 @@ Secret intelligence network coordinating political repression by South American 
 ## Notes on Sources
 
 This article is an overview. For a detailed list of operations, institutions, and legal cases, consult the referenced Wikipedia page and its citations.
+
+
+## References

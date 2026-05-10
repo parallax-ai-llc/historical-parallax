@@ -39,7 +39,7 @@ Peruvian guerrilla leader who heads the remnants of the Shining Path in the VRAE
 - Insurgent-criminal hybrid groups may blend political rhetoric with pragmatic control of territory, logistics, and local enforcement.
 - Such groups often rely on small-unit tactics, knowledge of terrain, and intimidation of communities and local authorities.
 
-## References
+
 
 [^1]: Wikipedia, "Jorge Rufino Quispe Palomino" - https://en.wikipedia.org/wiki/Jorge_Rufino_Quispe_Palomino
 
@@ -48,3 +48,6 @@ Peruvian guerrilla leader who heads the remnants of the Shining Path in the VRAE
 - Peru's internal conflict and post-conflict security challenges
 - Narcoterrorism and illicit-economy financing
 - Sanctions designations and counterterrorism policy
+
+
+## References

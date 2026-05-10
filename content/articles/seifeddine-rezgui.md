@@ -5,7 +5,7 @@ birth: "1992-10-06"
 death: "2015-06-26"
 nationality: "Tunisia"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Port_El_Kantaoui_Beach_%28348954999%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2015_Sousse_attacks"
 lastUpdated: "2026-02-21"

@@ -23,7 +23,7 @@ German man accused of murdering 85 women during the Nazi era, making him suppose
 | 1943 | Arrested by Kriminalkommissar Franz |
 | 1944 | Killed through medical experimentation in Vienna hospital |
 
-## References
+
 
 [^1]: Wikipedia, "Bruno Lüdke" - https://en.wikipedia.org/wiki/Bruno_L%C3%BCdke
 
@@ -50,3 +50,6 @@ The Lüdke case is often cited in broader conversations about:
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

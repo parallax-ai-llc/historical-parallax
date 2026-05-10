@@ -23,7 +23,7 @@ Saudi Crown Prince who US intelligence concluded approved the operation that mur
 | 2018 | Journalist Jamal Khashoggi murdered in Istanbul consulate |
 | 2019 | CIA concluded MBS approved Khashoggi operation |
 
-## References
+
 
 [^1]: Wikipedia, "Mohammad bin Salman" - https://en.wikipedia.org/wiki/Mohammad_bin_Salman
 
@@ -52,3 +52,6 @@ Saudi Crown Prince who US intelligence concluded approved the operation that mur
 - Jamal Khashoggi
 - Politics of Saudi Arabia
 - Saudi Vision 2030
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1889-10-26"
 death: "1971-04-29"
 nationality: "Chinese"
 occupation: ["Geologist", "Geomechanist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Li_Siguang.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Siguang"
 lastUpdated: "2026-02-21"

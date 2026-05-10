@@ -23,7 +23,7 @@ Chinese serial killer who murdered 10 boys in Heilongjiang Province between 1999
 | 2004 | Arrested |
 | 2005 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Gong Runbo" - https://en.wikipedia.org/wiki/Gong_Runbo
 
@@ -59,3 +59,6 @@ Gong was ultimately arrested and prosecuted, receiving a death sentence and bein
 
 - Contemporary Chinese news coverage and court reporting (where available)
 - Comparative studies of serial crime investigations and child-safety policy
+
+
+## References

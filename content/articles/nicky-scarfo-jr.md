@@ -23,7 +23,7 @@ American mobster and son of Philadelphia boss Nicodemo Scarfo. He was a key figu
 | 1989 | Shot 7 times in a restaurant; survived |
 | 2014 | Convicted of racketeering; sentenced to 30 years |
 
-## References
+
 
 [^1]: Wikipedia, "Nicky Scarfo Jr." - https://en.wikipedia.org/wiki/Nicky_Scarfo_Jr.
 
@@ -50,3 +50,6 @@ Scarfo Jr.’s career is frequently used as an example in modern U.S. organized-
 ## Related Topics
 
 Philadelphia crime family; Lucchese crime family; U.S. RICO statute; illegal gambling networks.
+
+
+## References

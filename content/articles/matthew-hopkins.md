@@ -21,7 +21,7 @@ Self-appointed Witchfinder General who was responsible for the execution of over
 |------|-------|
 | 1645 | Height of witch-hunting campaign |
 
-## References
+
 
 [^1]: Wikipedia, "Matthew Hopkins" - https://en.wikipedia.org/wiki/Matthew_Hopkins
 
@@ -68,3 +68,6 @@ In later centuries Hopkins became a symbol of judicial abuse and moral panic aro
 - English witch trials
 - East Anglia (regional history)
 - John Gaule
+
+
+## References

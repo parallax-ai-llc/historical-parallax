@@ -1,6 +1,6 @@
 ---
 id: "tom-waits"
-name: "汤姆·威茨"
+name: "汤姆·韦茨"
 birth: "1949-12-07"
 death: "Unknown"
 nationality: "American"
@@ -13,9 +13,9 @@ lastUpdated: "2026-02-21"
 
 ## 简介
 
-汤姆·威茨是美国创作歌手和演员,以其独特的沙哑嗓音和涵盖爵士、布鲁斯、实验音乐及工业音乐的多元音乐风格而闻名。他的专辑《Rain Dogs》、《Swordfishtrombones》和《Mule Variations》是美国音乐的杰作。
+汤姆·韦茨是一位美国创作歌手和演员，以其独特的沙哑嗓音和跨越爵士、蓝调、实验和工业音乐的折衷音乐风格而闻名。他的专辑《Rain Dogs》、《Swordfishtrombones》和《Mule Variations》被誉为美国音乐的杰作。
 
-## 职业生涯年表
+## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
@@ -26,6 +26,6 @@ lastUpdated: "2026-02-21"
 | 1999 | 发行《Mule Variations》 |
 | 2011 | 入选摇滚名人堂 |
 
-## 参考文献
+## 参考资料
 
-[^1]: 维基百科,"Tom Waits" - https://en.wikipedia.org/wiki/Tom_Waits
+[^1]: Wikipedia, "Tom Waits" - https://en.wikipedia.org/wiki/Tom_Waits

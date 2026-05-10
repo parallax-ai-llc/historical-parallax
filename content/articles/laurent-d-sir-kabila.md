@@ -23,7 +23,7 @@ Congolese revolutionary who overthrew Mobutu in 1997 with Rwandan and Ugandan su
 | 1998 | Second Congo War began |
 | 2001 | Assassinated by bodyguard |
 
-## References
+
 
 [^1]: Wikipedia, "Laurent-Désiré Kabila" - https://en.wikipedia.org/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila
 
@@ -54,3 +54,6 @@ Kabila remains a polarizing figure: credited by supporters with ending Mobutu’
 ## Additional References
 
 [^2]: United Nations and academic conflict histories covering the First and Second Congo Wars (for broader regional context and timelines).
+
+
+## References

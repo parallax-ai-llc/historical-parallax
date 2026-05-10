@@ -5,7 +5,7 @@ birth: "1917-04-06"
 death: "2011-05-25"
 nationality: "British-Mexican"
 occupation: ["Painter", "Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a5/Leonora_Carrington.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonora_Carrington"
 lastUpdated: "2026-02-21"

@@ -20,7 +20,7 @@ Duplicate.
 |------|-------|
 | 1930 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Warren Buffett dup99" - https://en.wikipedia.org/wiki/Warren_Buffett_dup99
 
@@ -67,3 +67,6 @@ Buffett has made prominent philanthropic commitments, including plans to donate 
 
 [^2]: Berkshire Hathaway Inc., annual reports and shareholder letters (official archive).
 [^3]: U.S. SEC filings (Form 10-K/13F) for Berkshire Hathaway, for portfolio disclosures.
+
+
+## References

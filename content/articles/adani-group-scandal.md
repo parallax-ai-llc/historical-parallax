@@ -21,7 +21,7 @@ Hindenburg Research accused India's Adani Group of stock manipulation and accoun
 |------|-------|
 | 2023 | Hindenburg report; $150 billion lost |
 
-## References
+
 
 [^1]: Wikipedia, "Adani Group Scandal" - https://en.wikipedia.org/wiki/Adani_Group_Scandal
 
@@ -66,3 +66,6 @@ Adani Group publicly rejected the allegations and characterized them as misleadi
 
 - Adani Group (company profile)
 - Hindenburg Research (publisher of the January 2023 report)
+
+
+## References

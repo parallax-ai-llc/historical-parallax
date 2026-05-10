@@ -21,7 +21,7 @@ Brazilian indigenous affairs expert murdered alongside journalist Dom Phillips w
 |------|-------|
 | 2022 | Murdered in Amazon |
 
-## References
+
 
 [^1]: Wikipedia, "Bruno Pereira Murder" - https://en.wikipedia.org/wiki/Bruno_Pereira_Murder
 
@@ -59,3 +59,6 @@ Brazilian indigenous affairs expert murdered alongside journalist Dom Phillips w
 - Environmental crime in the Amazon (illegal fishing, logging, mining)
 - Protection of Indigenous territories and community-led monitoring
 - Press freedom and safety for journalists covering organized crime and environmental issues
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1971 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Sara Blakely duplicate" - https://en.wikipedia.org/wiki/Sara_Blakely_duplicate
 
@@ -51,3 +51,6 @@ If you intend to keep a distinct entry here, confirm the following with primary 
 ## Curation Status
 
 Unverified duplicate placeholder pending consolidation or correction.
+
+
+## References

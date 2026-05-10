@@ -46,7 +46,7 @@ The disaster and inquiry contributed to major changes in UK building-safety poli
 - High-rise fire safety depends on both materials and the integrity of "defence in depth" measures such as compartmentation and doors.
 - Post-incident recommendations often drive regulatory change and large-scale remediation programs.
 
-## References
+
 
 [^1]: Wikipedia, "Grenfell Tower Inquiry" - https://en.wikipedia.org/wiki/Grenfell_Tower_Inquiry
 [^2]: Grenfell Tower Inquiry (official site) - https://www.grenfelltowerinquiry.org.uk/
@@ -67,3 +67,6 @@ The Grenfell Tower fire became a watershed moment for UK building safety policy.
 - High-rise building fire compartmentation and external wall systems
 - Product testing, certification, and regulatory oversight
 - Resident safety concerns and how they are escalated within housing management
+
+
+## References

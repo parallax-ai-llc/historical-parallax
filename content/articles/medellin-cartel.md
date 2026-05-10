@@ -44,7 +44,7 @@ The Medellín Cartel was part of the broader expansion of the transnational coca
 - The cartel remains a reference point in debates about drug policy, state capacity, and the costs of militarized enforcement.
 
 
-## References
+
 [^1]: Wikipedia, "Medellin Cartel" - https://en.wikipedia.org/wiki/Medellin_Cartel
 
 ## Notes
@@ -52,3 +52,6 @@ The Medellín Cartel was part of the broader expansion of the transnational coca
 - This page is intentionally high-level and focuses on widely reported context.
 - Exact figures and attributions can vary by source and methodology.
 - For primary detail, consult the references and contemporaneous reporting.
+
+
+## References

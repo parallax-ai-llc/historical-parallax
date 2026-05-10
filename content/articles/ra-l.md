@@ -22,7 +22,7 @@ French cult leader born Claude Vorilhon who founded the Raëlian Movement, claim
 | 1974 | Founded Raëlian Movement |
 | 2002 | Claimed to have produced first human clone (never verified) |
 
-## References
+
 
 [^1]: Wikipedia, "Raël" - https://en.wikipedia.org/wiki/Ra%C3%ABl
 
@@ -48,3 +48,6 @@ French cult leader born Claude Vorilhon who founded the Raëlian Movement, claim
 - The Raëlian Movement is frequently cited in discussions of how modern media ecosystems can amplify fringe claims.
 - It is also used as a case study in the sociology of religion: charismatic leadership, identity formation, and the boundaries between belief, science, and spectacle.
 
+
+
+## References

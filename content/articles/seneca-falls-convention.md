@@ -5,7 +5,7 @@ birth: "1848-07-19"
 death: "1848-07-20"
 nationality: "United States"
 occupation: ["Historical Event", "Social Movement", "Women's Rights"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Woman%27s_Rights_Convention.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seneca_Falls_Convention"
 lastUpdated: "2026-02-21"

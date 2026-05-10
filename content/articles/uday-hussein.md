@@ -22,7 +22,7 @@ Saddam Hussein's eldest son known for extreme sadism including torture of athlet
 | 1988 | Murdered father's valet at a party |
 | 2003 | Killed with brother Qusay in US military operation |
 
-## References
+
 
 [^1]: Wikipedia, "Uday Hussein" - https://en.wikipedia.org/wiki/Uday_Hussein
 
@@ -58,3 +58,6 @@ Uday Hussein is frequently discussed as an example of how authoritarian family r
 - Concentration of influence within ruling families
 - Politicization of sports and public culture
 - Use of security services and patronage to deter dissent
+
+
+## References

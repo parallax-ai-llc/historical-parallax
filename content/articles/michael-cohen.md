@@ -21,7 +21,7 @@ Trump's former personal lawyer convicted of campaign finance violations and lyin
 |------|-------|
 | 2018 | Convicted of campaign finance crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Michael Cohen" - https://en.wikipedia.org/wiki/Michael_Cohen
 
@@ -54,3 +54,6 @@ Trump's former personal lawyer convicted of campaign finance violations and lyin
 - U.S. campaign finance law and disclosure requirements
 - Federal investigations and congressional testimony
 - The role of personal counsel in high-profile political and business environments
+
+
+## References

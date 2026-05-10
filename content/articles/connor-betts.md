@@ -21,7 +21,7 @@ Shot and killed 9 people including his sister in a mass shooting in Dayton, Ohio
 |------|-------|
 | 2019 | Committed Dayton mass shooting |
 
-## References
+
 
 [^1]: Wikipedia, "Connor Betts" - https://en.wikipedia.org/wiki/Connor_Betts
 
@@ -54,3 +54,6 @@ Shot and killed 9 people including his sister in a mass shooting in Dayton, Ohio
 
 [^2]: Dayton Police Department / City of Dayton public briefings and releases (2019).
 [^3]: Major U.S. news coverage contemporaneous with the shooting (2019).
+
+
+## References

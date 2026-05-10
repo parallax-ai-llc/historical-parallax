@@ -23,7 +23,7 @@ Indian gangster known as Daddy who led BRA gang in Mumbai. Later entered politic
 | 2004 | Elected to state assembly |
 | 2012 | Convicted of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Arun Gawli" - https://en.wikipedia.org/wiki/Arun_Gawli
 
@@ -48,3 +48,6 @@ The broader story is frequently used to discuss:
 - How local patronage and intimidation can shape voting blocs.
 - The challenges of policing and witness protection in gang-related prosecutions.
 
+
+
+## References

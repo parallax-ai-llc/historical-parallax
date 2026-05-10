@@ -21,7 +21,7 @@ NSA contractor leaked classified documents revealing mass surveillance programs 
 |------|-------|
 | 2013 | Mass surveillance programs revealed |
 
-## References
+
 
 [^1]: Wikipedia, "Edward Snowden Revelations" - https://en.wikipedia.org/wiki/Edward_Snowden_Revelations
 
@@ -51,3 +51,6 @@ Edward Snowden’s 2013 disclosures centered on classified U.S. National Securit
 ## Legacy
 
 The Snowden revelations are often cited as a turning point in how the public understands modern digital surveillance: shifting the conversation from “individual wiretaps” toward **data infrastructure, legal authorities, and automated analysis at population scale**. The disclosures continue to shape privacy regulation, intelligence oversight debates, and product/security decisions across the tech industry.
+
+
+## References

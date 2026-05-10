@@ -22,7 +22,7 @@ Belgian-Moroccan ISIS bomb-maker who constructed the explosives used in both the
 | 2015 | Built bombs used in Paris attacks |
 | 2016 | Killed himself in Brussels Airport bombing |
 
-## References
+
 
 [^1]: Wikipedia, "Najim Laachraoui" - https://en.wikipedia.org/wiki/Najim_Laachraoui
 
@@ -50,3 +50,6 @@ Belgian-Moroccan ISIS bomb-maker who constructed the explosives used in both the
 
 - The events intensified debates about balancing civil liberties with counterterrorism powers and about preventing radicalization.
 
+
+
+## References

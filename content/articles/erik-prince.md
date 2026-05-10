@@ -24,7 +24,7 @@ American businessman and founder of Blackwater (now Academi), a private military
 | 2017 | Met with Russian official in Seychelles meeting |
 | 2020 | Under investigation for arms trafficking in Libya |
 
-## References
+
 
 [^1]: Wikipedia, "Erik Prince" - https://en.wikipedia.org/wiki/Erik_Prince
 
@@ -49,3 +49,6 @@ American businessman and founder of Blackwater (now Academi), a private military
 Prince remains a polarizing figure in debates over the outsourcing of force, the relationship between commerce and conflict, and the long-term consequences of privatized security industries.
 
 His career is frequently cited when assessing how states manage contractor oversight in high-risk environments.
+
+
+## References

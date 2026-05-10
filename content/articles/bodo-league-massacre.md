@@ -21,7 +21,7 @@ South Korean military and police killed an estimated 100,000-200,000 suspected c
 |------|-------|
 | 1950 | 100,000-200,000 suspected communists killed |
 
-## References
+
 
 [^1]: Wikipedia, "Bodo League Massacre" - https://en.wikipedia.org/wiki/Bodo_League_Massacre
 
@@ -59,3 +59,6 @@ South Korean military and police killed an estimated 100,000-200,000 suspected c
 ## Additional References
 
 [^2]: Truth and Reconciliation Commission, Republic of Korea (TRCK) — overview materials and case findings (various reports, 2000s).
+
+
+## References

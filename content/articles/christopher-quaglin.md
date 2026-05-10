@@ -21,7 +21,7 @@ Proud Boy convicted of assaulting officers during the January 6 Capitol breach.
 |------|-------|
 | 2023 | Convicted of assault |
 
-## References
+
 
 [^1]: Wikipedia, "Christopher Quaglin" - https://en.wikipedia.org/wiki/Christopher_Quaglin
 
@@ -50,3 +50,6 @@ Common charge categories in January 6 cases (not specific to any one defendant) 
 
 - The linked Wikipedia URL in the frontmatter and references may not consistently resolve to an active article. If the page is unavailable, corroboration typically requires reviewing federal court records, U.S. Department of Justice press releases, or contemporaneous reporting.
 - This page intentionally avoids adding unverified specifics (e.g., exact location, travel details, specific officer names, sentence length) without a stable, citable primary or reputable secondary source.
+
+
+## References

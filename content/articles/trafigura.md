@@ -23,7 +23,7 @@ Dutch commodity trading company responsible for the 2006 Côte d'Ivoire toxic wa
 | 2007 | Over 100,000 people sought medical treatment |
 | 2007 | Trafigura paid $198 million in settlement |
 
-## References
+
 
 [^1]: Wikipedia, "Trafigura" - https://en.wikipedia.org/wiki/Trafigura
 
@@ -48,3 +48,6 @@ Dutch commodity trading company responsible for the 2006 Côte d'Ivoire toxic wa
 - Hazardous waste regulation
 - Corporate environmental responsibility
 - Global commodity trading and supply-chain governance
+
+
+## References

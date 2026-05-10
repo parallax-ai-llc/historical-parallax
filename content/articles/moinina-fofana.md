@@ -24,7 +24,7 @@ Sierra Leonean Civil Defence Forces leader convicted of war crimes for the CDF m
 | 2007 | Convicted of war crimes |
 | 2007 | Sentenced to 15 years |
 
-## References
+
 
 [^1]: Wikipedia, "Moinina Fofana" - https://en.wikipedia.org/wiki/Moinina_Fofana
 ## Civil War Context
@@ -55,3 +55,6 @@ Summaries of the war and tribunal outcomes can be sensitive to phrasing; for pre
 
 - Revolutionary United Front (RUF)
 - Transitional justice mechanisms
+
+
+## References

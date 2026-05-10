@@ -21,7 +21,7 @@ Elizabeth Short was found murdered and bisected in Los Angeles, her body drained
 |------|-------|
 | 1947 | Body found bisected in LA |
 
-## References
+
 
 [^1]: Wikipedia, "Black Dahlia Murder" - https://en.wikipedia.org/wiki/Black_Dahlia_Murder
 
@@ -58,3 +58,6 @@ Elizabeth Short was found murdered and bisected in Los Angeles, her body drained
 ## Additional Reading
 
 - Contemporary reporting and later summaries often differ in tone and detail; secondary accounts should be compared against primary records when possible.
+
+
+## References

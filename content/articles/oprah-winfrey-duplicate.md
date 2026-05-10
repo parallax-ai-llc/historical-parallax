@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1954 | See Oprah Winfrey |
 
-## References
+
 
 [^1]: Wikipedia, "Oprah Winfrey duplicate" - https://en.wikipedia.org/wiki/Oprah_Winfrey_duplicate
 
@@ -61,3 +61,6 @@ Commonly cited areas of influence include:
 - Harpo Productions
 - Oprah Winfrey Network (OWN)
 
+
+
+## References

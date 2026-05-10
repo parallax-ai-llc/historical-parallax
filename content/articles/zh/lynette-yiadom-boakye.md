@@ -1,6 +1,6 @@
 ---
 id: "lynette-yiadom-boakye"
-name: "琳内特·伊多姆-博阿凯"
+name: "莱内特·伊阿多姆-博阿凯"
 birth: "1977-01-01"
 death: "Unknown"
 nationality: "British"
@@ -13,18 +13,18 @@ lastUpdated: "2026-02-21"
 
 ## 简介
 
-一位英籍加纳裔画家，以描绘虚构的黑人肖像而闻名。她笔下的人物创作迅速，不受特定时间和地点的限制，挑战了人们对肖像画和种族的固有观念。
+莱内特·伊阿多姆-博阿凯是一位英籍加纳裔画家，以其虚构的黑人肖像画而闻名。她笔下的人物通过快速的绘画技法创作，存在于特定的时间和地点之外，挑战着人们对肖像画和种族的固有观念。
 
 ## 职业生涯时间线
 
 | 年份 | 事件 |
-|------|-------|
+|------|------|
 | 1977 | 出生于伦敦 |
-| 2003 | 首次个展 |
+| 2003 | 首次个人展览 |
 | 2013 | 特纳奖提名 |
 | 2015 | 荣获卡内基奖 |
-| 2020 | 在泰特不列颠举办大型展览 |
+| 2020 | 在泰特不列颠美术馆举办大型展览 |
 
-## 参考资料
+## 参考文献
 
-[^1]: 维基百科，“Lynette Yiadom-Boakye” - https://en.wikipedia.org/wiki/Lynette_Yiadom-Boakye
+[^1]: Wikipedia, "Lynette Yiadom-Boakye" - https://en.wikipedia.org/wiki/Lynette_Yiadom-Boakye

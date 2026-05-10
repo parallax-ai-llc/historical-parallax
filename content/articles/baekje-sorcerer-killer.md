@@ -23,7 +23,7 @@ Nickname for Yoon Hyung-ho, a South Korean serial killer from Buyeo who murdered
 | 1995 | Arrested after farmland excavation |
 | 1997 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Baekje Sorcerer Killer" - https://en.wikipedia.org/wiki/Baekje_Sorcerer_Killer
 
@@ -50,3 +50,6 @@ The case is commonly referenced in broader conversations in South Korea about:
 - offender profiling and investigative methods
 - how sensational nicknames shape public perception of crimes
 - victim protection and community safety in non-urban areas
+
+
+## References

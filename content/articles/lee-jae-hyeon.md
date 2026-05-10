@@ -5,7 +5,7 @@ birth: "1959-06-06"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Baseball_%28crop%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Jae-hyeon"
 lastUpdated: "2026-02-21"

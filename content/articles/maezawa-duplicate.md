@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1975 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Maezawa duplicate" - https://en.wikipedia.org/wiki/Maezawa_duplicate
 
@@ -56,3 +56,6 @@ If and only if identity is verified, expand the timeline with high-level milesto
 - major awards or recognitions (year)
 
 (Do not add specific claims without sources.)
+
+
+## References

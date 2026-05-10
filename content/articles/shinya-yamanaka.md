@@ -5,7 +5,7 @@ birth: "1962-09-04"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Biologist", "Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Shinya_Yamanaka_20141226.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shinya_Yamanaka"
 lastUpdated: "2026-02-21"

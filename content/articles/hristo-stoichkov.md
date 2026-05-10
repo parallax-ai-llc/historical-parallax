@@ -22,7 +22,7 @@ Hristo Stoichkov won the 1994 Ballon d'Or after leading Bulgaria to the WC semis
 | 1992 | Won European Cup with Barcelona |
 | 1994 | Won Ballon d'Or |
 
-## References
+
 
 [^1]: Wikipedia, "Hristo Stoichkov" - https://en.wikipedia.org/wiki/Hristo_Stoichkov
 
@@ -59,3 +59,6 @@ Commonly cited attributes include:
 
 - **Ballon d’Or:** an annual award recognizing a leading football player (format and eligibility have varied over time).
 - **FIFA World Cup 1994:** tournament hosted in the United States, remembered for several upsets and landmark performances.
+
+
+## References

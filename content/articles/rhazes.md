@@ -22,7 +22,7 @@ Already added as Al-Razi.
 | 854 | Born |
 | 925 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Rhazes" - https://en.wikipedia.org/wiki/Rhazes
 
@@ -52,3 +52,5 @@ Because the name “Rhazes” can be used as a synonym for al-Razi, readers shou
 ## References
 
 [^2]: Encyclopaedia Britannica, "al-Rāzī" (overview of life and work) - https://www.britannica.com/
+
+

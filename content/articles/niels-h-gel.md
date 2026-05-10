@@ -24,7 +24,7 @@ German nurse who is one of the most prolific serial killers in history, convicte
 | 2015 | Convicted of 2 murders |
 | 2019 | Convicted of 85 murders; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Niels Högel" - https://en.wikipedia.org/wiki/Niels_H%C3%B6gel
 
@@ -51,3 +51,6 @@ Counts and legal findings can vary by case stage; consult the linked reference f
 ## Further Reading
 
 - Wikipedia (see link above)
+
+
+## References

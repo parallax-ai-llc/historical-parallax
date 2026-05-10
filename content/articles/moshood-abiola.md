@@ -22,7 +22,7 @@ Winner of Nigeria's 1993 presidential election that was annulled by the military
 | 1993 | Won annulled presidential election |
 | 1998 | Died in military custody |
 
-## References
+
 
 [^1]: Wikipedia, "Moshood Abiola" - https://en.wikipedia.org/wiki/Moshood_Abiola
 
@@ -51,3 +51,6 @@ Abiola’s legacy is closely tied to the June 12 election and the broader pro-de
 
 This article focuses on high-level context around the 1993 election and its significance in Nigeria’s modern political history.
 
+
+
+## References

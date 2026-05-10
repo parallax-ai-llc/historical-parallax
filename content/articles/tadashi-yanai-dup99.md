@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1949 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Tadashi Yanai dup99" - https://en.wikipedia.org/wiki/Tadashi_Yanai_dup99
 
@@ -55,3 +55,6 @@ If/when this repo is curated further:
 
 Because the current Wikipedia link includes a non-standard suffix (e.g., `_dup99`), treat it as **non-authoritative** until verified.
 Use primary or well-known secondary sources when enriching the canonical profile (e.g., corporate filings, official company pages, major news profiles).
+
+
+## References

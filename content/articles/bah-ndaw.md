@@ -22,7 +22,7 @@ Transitional president of Mali who was arrested and removed from power by Colone
 | 2020 | Appointed transitional president of Mali |
 | 2021 | Arrested and removed by Goïta in second coup |
 
-## References
+
 
 [^1]: Wikipedia, "Bah Ndaw" - https://en.wikipedia.org/wiki/Bah_Ndaw
 
@@ -61,3 +61,6 @@ Ndaw’s brief presidency is frequently discussed in terms of:
 - 2020 Malian coup d'état
 - 2021 Malian coup d'état
 - Assimi Goïta
+
+
+## References

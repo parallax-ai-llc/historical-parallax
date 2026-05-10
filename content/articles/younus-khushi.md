@@ -21,7 +21,7 @@ Not enough verifiable information; removing.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Younus Khushi" - https://en.wikipedia.org/wiki/Younus_Khushi
 
@@ -48,3 +48,6 @@ At present, the only explicit reference in this article is the Wikipedia URL abo
 ## References (expanded)
 
 [^2]: Wikipedia page-title check (no article under this exact title as of 2026-02-26): https://en.wikipedia.org/wiki/Younus_Khushi
+
+
+## References

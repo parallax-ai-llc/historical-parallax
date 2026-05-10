@@ -22,7 +22,7 @@ Haitian gang leader known as 'Barbecue' who leads the G9 alliance of armed gangs
 | 2020 | United gangs into G9 alliance controlling much of Port-au-Prince |
 | 2024 | Led gang uprising that effectively overthrew the government |
 
-## References
+
 
 [^1]: Wikipedia, "Jimmy Cherizier" - https://en.wikipedia.org/wiki/Jimmy_Cherizier
 ## Background and Rise
@@ -48,3 +48,6 @@ Reliable detail can be hard to verify in real time due to limited on-the-ground 
 ## Further Reading (General)
 
 For deeper detail, consult multiple reputable sources (academic histories, major news outlets, and primary documents where available), and compare accounts across perspectives.
+
+
+## References

@@ -21,7 +21,7 @@ Dutch colonial governor who imposed the Cultivation System, forcing Javanese int
 |------|-------|
 | 1830 | Imposed forced Cultivation System in Java |
 
-## References
+
 
 [^1]: Wikipedia, "Joannes van den Bosch" - https://en.wikipedia.org/wiki/Joannes_van_den_Bosch
 
@@ -58,3 +58,6 @@ High-level features commonly associated with the system introduced under van den
 ## Notes
 
 This article focuses on high-level historical consensus themes (coercion, extraction, and social harm) while keeping details minimal; more precise regional impacts and administrative variations can differ by source.
+
+
+## References

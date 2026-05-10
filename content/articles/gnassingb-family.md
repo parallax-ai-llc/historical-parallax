@@ -22,7 +22,7 @@ The Gnassingbé family has ruled Togo since 1967, first through father Eyadéma'
 | 1967 | Eyadéma seized power |
 | 2005 | Son Faure installed as president |
 
-## References
+
 
 [^1]: Wikipedia, "Gnassingbé Family" - https://en.wikipedia.org/wiki/Gnassingb%C3%A9_Family
 
@@ -50,3 +50,6 @@ Commentary on the Gnassingbé era frequently focuses on:
 ## Significance
 
 The family’s extended hold on power is cited in comparative politics as an example of regime durability, where leadership succession occurs within an entrenched ruling coalition rather than through open alternation of parties.
+
+
+## References

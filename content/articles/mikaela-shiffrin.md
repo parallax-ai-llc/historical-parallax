@@ -21,7 +21,7 @@ Mikaela Shiffrin holds the all-time World Cup wins record. She won Olympic slalo
 | 2014 | Won Olympic slalom gold at 18 |
 | 2023 | Broke all-time World Cup wins record |
 
-## References
+
 
 [^1]: Wikipedia, "Mikaela Shiffrin" - https://en.wikipedia.org/wiki/Mikaela_Shiffrin
 ## Additional Context
@@ -50,3 +50,6 @@ Mikaela Shiffrin holds the all-time World Cup wins record. She won Olympic slalo
 ### Legacy
 
 - Often cited among the most accomplished alpine skiers based on longevity, win totals, and technical dominance.
+
+
+## References

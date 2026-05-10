@@ -23,7 +23,7 @@ Croatian Serb political leader who was president of the self-proclaimed Republic
 | 2004 | Pleaded guilty at ICTY; sentenced to 13 years |
 | 2006 | Committed suicide in UN detention |
 
-## References
+
 
 [^1]: Wikipedia, "Milan Babić" - https://en.wikipedia.org/wiki/Milan_Babi%C4%87
 
@@ -54,3 +54,6 @@ In 2006, Babić died by suicide while in UN detention. His death highlighted the
 ## Legacy
 
 Babić’s guilty plea and sentencing are commonly cited in historical accounts of the Yugoslav wars and in legal scholarship on international criminal justice.
+
+
+## References

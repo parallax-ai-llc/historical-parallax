@@ -5,7 +5,7 @@ birth: "1902-09-07"
 death: "1934-12-24"
 nationality: "Korean"
 occupation: ["Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kim_Sowol.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Sowol"
 lastUpdated: "2026-02-21"

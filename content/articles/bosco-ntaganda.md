@@ -24,7 +24,7 @@ Congolese-Rwandan warlord known as 'The Terminator' convicted by the ICC of war 
 | 2013 | Surrendered to US embassy in Kigali |
 | 2019 | Convicted by ICC; sentenced to 30 years |
 
-## References
+
 
 [^1]: Wikipedia, "Bosco Ntaganda" - https://en.wikipedia.org/wiki/Bosco_Ntaganda
 
@@ -48,3 +48,6 @@ It also illustrates the way international courts rely on extensive witness testi
 - Ituri conflict
 - UPC (Union of Congolese Patriots) and other armed groups active in eastern DRC
 - International Criminal Court (ICC) jurisprudence on child soldiers and attacks on civilians
+
+
+## References

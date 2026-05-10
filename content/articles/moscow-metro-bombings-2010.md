@@ -22,7 +22,7 @@ Two suicide bombings on Moscow Metro trains on March 29, 2010 that killed 40 peo
 | 2010 | Two stations bombed |
 | 2010 | 40 killed, 100+ injured |
 
-## References
+
 
 [^1]: Wikipedia, "Moscow Metro Bombings 2010" - https://en.wikipedia.org/wiki/Moscow_Metro_Bombings_2010
 
@@ -62,3 +62,6 @@ Two suicide bombings on Moscow Metro trains on March 29, 2010 that killed 40 peo
 
 ### Sources
 - The reference link(s) listed above are the primary source pointer used for this short profile.
+
+
+## References

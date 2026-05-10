@@ -23,7 +23,7 @@ Massive 2016 leak of 11.5 million documents from law firm Mossack Fonseca reveal
 | 2016 | Icelandic PM resigned |
 | 2018 | Mossack Fonseca shut down |
 
-## References
+
 
 [^1]: Wikipedia, "Panama Papers" - https://en.wikipedia.org/wiki/Panama_Papers
 
@@ -48,3 +48,6 @@ The Panama Papers became a landmark example of cross-border investigative journa
 ## Related Reporting
 
 Subsequent offshore-data investigations (often compared in the public discourse) include the **Paradise Papers** and **Pandora Papers**, which similarly focused on beneficial ownership opacity and offshore financial services.
+
+
+## References

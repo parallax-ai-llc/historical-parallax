@@ -24,7 +24,7 @@ Pascual Jordan was a German theoretical physicist who made foundational contribu
 | 1927 | Developed quantum field theory foundations |
 | 1980 | Died in Hamburg |
 
-## References
+
 
 [^1]: Wikipedia, "Pascual Jordan" - https://en.wikipedia.org/wiki/Pascual_Jordan
 
@@ -49,3 +49,6 @@ Jordan was part of the first generation to formalize quantum mechanics into a co
 - Wikipedia article linked above for a detailed chronology and additional references.
 - Biographical dictionaries or subject-specific histories (physics, sport, art history, cybersecurity, or philosophy) for broader context.
 
+
+
+## References

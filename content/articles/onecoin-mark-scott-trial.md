@@ -21,7 +21,7 @@ US trial of lawyer who laundered $400 million from the OneCoin cryptocurrency Po
 |------|-------|
 | 2019 | Convicted of laundering OneCoin proceeds |
 
-## References
+
 
 [^1]: Wikipedia, "OneCoin Mark Scott Trial" - https://en.wikipedia.org/wiki/OneCoin_Mark_Scott_Trial
 
@@ -64,3 +64,6 @@ US trial of lawyer who laundered $400 million from the OneCoin cryptocurrency Po
 ## Additional references
 
 [^2]: Wikipedia, "OneCoin" - https://en.wikipedia.org/wiki/OneCoin
+
+
+## References

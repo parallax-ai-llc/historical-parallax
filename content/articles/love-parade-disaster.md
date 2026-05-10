@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2010 | 21 killed in crowd crush |
 
-## References
+
 
 [^1]: Wikipedia, "Love Parade Disaster" - https://en.wikipedia.org/wiki/Love_Parade_Disaster
 
@@ -62,3 +62,6 @@ These factors are frequently discussed in official reviews and public reporting,
 
 - Love Parade (festival)
 - Crowd management and crowd crush incidents
+
+
+## References

@@ -22,7 +22,7 @@ New Orleans socialite who kept enslaved people chained in her attic and subjecte
 | 1834 | Torture chamber discovered after house fire |
 | 1834 | Fled to Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Delphine LaLaurie" - https://en.wikipedia.org/wiki/Delphine_LaLaurie
 
@@ -50,3 +50,6 @@ The LaLaurie story has been repeatedly retold in newspapers, local histories, an
 ## See Also
 
 Related topics include the history of slavery in Louisiana, antebellum New Orleans society, and historical memory vs. folklore in crime narratives.
+
+
+## References

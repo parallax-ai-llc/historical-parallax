@@ -21,7 +21,7 @@ Congolese militia leader convicted by a Congolese military court for recruiting 
 |------|-------|
 | 2006 | Convicted of recruiting child soldiers |
 
-## References
+
 
 [^1]: Wikipedia, "Jean-Pierre Biyoyo" - https://en.wikipedia.org/wiki/Jean-Pierre_Biyoyo
 
@@ -51,3 +51,6 @@ Congolese militia leader convicted by a Congolese military court for recruiting 
 
 - DRC armed groups (1990s–2000s)
 - Child protection and demobilization / reintegration (DDR)
+
+
+## References

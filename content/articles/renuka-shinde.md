@@ -24,7 +24,7 @@ Indian serial killer who, with her sister Seema Gavit, kidnapped and murdered 13
 | 2001 | Convicted; sentenced to death |
 | 2014 | Death sentence confirmed by Supreme Court |
 
-## References
+
 
 [^1]: Wikipedia, "Renuka Shinde" - https://en.wikipedia.org/wiki/Renuka_Shinde
 
@@ -49,3 +49,6 @@ Indian serial killer who, with her sister Seema Gavit, kidnapped and murdered 13
 
 - Public sources have periodically reported that Shinde and Gavit remained on death row for years after the Supreme Court judgment, amid India’s lengthy clemency and review processes.
 - The case is frequently referenced in Indian media as an example of serial child abduction linked to organized petty crime.
+
+
+## References

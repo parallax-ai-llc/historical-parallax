@@ -44,10 +44,13 @@ Igbinedion's governorship is typically described in terms of state-level politic
 
 Beyond the specifics of the charges, the enduring importance of the Igbinedion case is that it became a shorthand example in Nigerian public discourse for "soft" consequences for high-ranking officials. Researchers and journalists often use it to illustrate the gap between anti-corruption rhetoric and the practical outcomes of enforcement.
 
-## References
+
 
 [^1]: Wikipedia, "Lucky Igbinedion" - https://en.wikipedia.org/wiki/Lucky_Igbinedion
 
 ## See also
 
 Related topics include the EFCC, corruption prosecutions involving former Nigerian governors, and debates over plea bargains and asset recovery.
+
+
+## References

@@ -21,7 +21,7 @@ Romanian serial killer who murdered and mutilated four women in Bucharest in the
 |------|-------|
 | 1971 | Executed for serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Ion Rîmaru" - https://en.wikipedia.org/wiki/Ion_R%C3%AEmaru
 
@@ -62,3 +62,6 @@ Romanian serial killer who murdered and mutilated four women in Bucharest in the
 ## Further Reading
 
 - Wikipedia article (overview, citations, and external links).[^1]
+
+
+## References

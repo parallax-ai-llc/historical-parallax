@@ -21,7 +21,7 @@ Chinese foreign minister who mysteriously disappeared from public life and was r
 |------|-------|
 | 2023 | Mysteriously disappeared from public |
 
-## References
+
 
 [^1]: Wikipedia, "Qin Gang" - https://en.wikipedia.org/wiki/Qin_Gang
 
@@ -59,3 +59,6 @@ Public reporting generally agrees on the sequence (absence → replacement → l
 
 - Wikipedia overview: https://en.wikipedia.org/wiki/Qin_Gang
 - For contemporaneous reporting, consult major international news outlets’ July–Oct 2023 coverage and any official PRC announcements.
+
+
+## References

@@ -21,7 +21,7 @@ Indian gangster who controlled organized crime operations in Rajasthan.
 |------|-------|
 | 2016 | Major organized crime operations |
 
-## References
+
 
 [^1]: Wikipedia, "Sanjeev Maheshwari Jeeva" - https://en.wikipedia.org/wiki/Sanjeev_Maheshwari_Jeeva
 
@@ -54,3 +54,6 @@ Indian gangster who controlled organized crime operations in Rajasthan.
 ## References (additional)
 
 [^2]: If the Wikipedia page remains unavailable, replace the link with an archived copy or an alternative authoritative source.
+
+
+## References

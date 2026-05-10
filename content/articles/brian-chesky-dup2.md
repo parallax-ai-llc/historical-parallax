@@ -22,7 +22,7 @@ Duplicate.
 |------|-------|
 | 1981 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Brian Chesky dup2" - https://en.wikipedia.org/wiki/Brian_Chesky_dup2
 
@@ -71,3 +71,6 @@ This article is marked as a duplicate stub ("dup2"). The sections below provide 
 
 [^2]: Wikipedia, "Brian Chesky" - https://en.wikipedia.org/wiki/Brian_Chesky
 [^3]: Wikipedia, "Airbnb" - https://en.wikipedia.org/wiki/Airbnb
+
+
+## References

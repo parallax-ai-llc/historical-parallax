@@ -22,7 +22,7 @@ Brazen 2015 jewelry heist in London where a gang of elderly men drilled into the
 | 2015 | Gang broke into Hatton Garden vault; stole £14 million |
 | 2016 | Ringleaders convicted; sentenced to 7 years |
 
-## References
+
 
 [^1]: Wikipedia, "Hatton Garden heist" - https://en.wikipedia.org/wiki/Hatton_Garden_heist
 
@@ -66,3 +66,6 @@ Brazen 2015 jewelry heist in London where a gang of elderly men drilled into the
 
 - The “elderly gang” framing contributed to a lasting narrative in British tabloids and documentaries, blending true-crime fascination with generational stereotypes.
 - The case continues to be referenced as a modern example of an old-fashioned, tool-heavy burglary rather than a purely digital financial crime.
+
+
+## References

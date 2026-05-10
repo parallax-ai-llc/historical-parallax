@@ -23,7 +23,7 @@ Japanese organized crime syndicates that have existed since the 17th century. At
 | 1992 | Anti-yakuza laws enacted |
 | 2020s | Membership declined to under 25,000 |
 
-## References
+
 
 [^1]: Wikipedia, "Yakuza" - https://en.wikipedia.org/wiki/Yakuza
 
@@ -58,3 +58,6 @@ Japan has adopted legal and administrative measures aimed at limiting yakuza inf
 - Major syndicates (e.g., Yamaguchi-gumi)
 - Japanese organized crime legislation
 - Postwar underworld and political scandals
+
+
+## References

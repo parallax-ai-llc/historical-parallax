@@ -22,7 +22,7 @@ British soldiers killed 24 unarmed Chinese plantation workers at Batang Kali, Ma
 | 1948 | 24 civilians killed |
 | 2012 | UK Supreme Court blocked further investigation |
 
-## References
+
 
 [^1]: Wikipedia, "Batang Kali Massacre" - https://en.wikipedia.org/wiki/Batang_Kali_Massacre
 
@@ -48,3 +48,6 @@ Batang Kali is frequently cited in discussions of colonial-era violence, histori
 - UK court rulings in later decades limited further official inquiries, leaving the event unresolved for many families.
 - The massacre remains a reference point in debates about archives, transparency, and state accountability for historic abuses.
 - In Malaysia, it is discussed as part of the broader history of the Emergency and its civilian costs.
+
+
+## References

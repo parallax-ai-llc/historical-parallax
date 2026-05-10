@@ -22,7 +22,7 @@ Beltrán-Leyva Cartel leader known as 'El Mochomo' whose arrest triggered a viol
 | 2008 | Arrested triggering Beltrán-Leyva split from Sinaloa |
 | 2017 | Sentenced to life in US prison |
 
-## References
+
 
 [^1]: Wikipedia, "Alfredo Beltrán Leyva" - https://en.wikipedia.org/wiki/Alfredo_Beltr%C3%A1n_Leyva
 
@@ -55,3 +55,6 @@ The Beltrán-Leyva Organization’s conflicts with former allies and rivals are 
 ## References (additional)
 
 [^2]: U.S. Department of Justice (press releases and case summaries on major cartel prosecutions) - https://www.justice.gov/
+
+
+## References

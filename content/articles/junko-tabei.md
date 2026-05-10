@@ -23,7 +23,7 @@ Junko Tabei was the first woman to reach the summit of Mount Everest in 1975 and
 | 1992 | First woman to complete the Seven Summits |
 | 2016 | Died in Kawagoe, Japan |
 
-## References
+
 
 [^1]: Wikipedia, "Junko Tabei" - https://en.wikipedia.org/wiki/Junko_Tabei
 
@@ -48,3 +48,6 @@ In later years she worked as an **author and teacher** and became known for orga
 ### Recognition
 
 Her name has been commemorated in scientific and geographic naming (for example, an asteroid and later a named feature on Pluto), reflecting the international reach of her story.
+
+
+## References

@@ -23,7 +23,7 @@ Tyson Fury, the 'Gypsy King,' upset Wladimir Klitschko in 2015 and became one of
 | 2018 | Returned from mental health struggles |
 | 2020 | Won WBC heavyweight title from Deontay Wilder |
 
-## References
+
 
 [^1]: Wikipedia, "Tyson Fury" - https://en.wikipedia.org/wiki/Tyson_Fury
 
@@ -51,3 +51,6 @@ Tyson Fury is an English professional boxer known for competing at heavyweight a
 - Date/period: see the summary and timeline above.
 - Place: see the summary above.
 - Key actors: see the summary above.
+
+
+## References

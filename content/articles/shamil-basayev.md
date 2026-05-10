@@ -5,7 +5,7 @@ birth: "1965-01-14"
 death: "2006-07-10"
 nationality: "Russia / Chechnya"
 occupation: ["Terrorist", "Rebel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Shamil_Basaev2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shamil_Basayev"
 lastUpdated: "2026-02-21"

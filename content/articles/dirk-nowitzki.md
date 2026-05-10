@@ -23,7 +23,7 @@ Dirk Nowitzki won the 2011 championship with Dallas and spent 21 years with one 
 | 2011 | Won championship |
 | 2019 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "Dirk Nowitzki" - https://en.wikipedia.org/wiki/Dirk_Nowitzki
 
@@ -51,3 +51,6 @@ Nowitzki is widely cited as one of the most influential European players in NBA 
 - Dallas Mavericks
 - NBA Finals MVP Award
 - European players in the NBA
+
+
+## References

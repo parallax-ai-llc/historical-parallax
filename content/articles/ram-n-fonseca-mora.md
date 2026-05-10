@@ -21,7 +21,7 @@ Co-founder of Mossack Fonseca who died before Panama Papers trial concluded.
 |------|-------|
 | 2024 | Died before trial concluded |
 
-## References
+
 
 [^1]: Wikipedia, "Ramón Fonseca Mora" - https://en.wikipedia.org/wiki/Ram%C3%B3n_Fonseca_Mora
 
@@ -56,3 +56,6 @@ Co-founder of Mossack Fonseca who died before Panama Papers trial concluded.
 
 - **Date fields in this file may require verification against primary sources.** Wikipedia lists a birth date of **14 July 1952** and a death date of **8 May 2024**; this differs from the frontmatter dates currently recorded above.[^1]
 - This article is intended as a high-level factual overview; details of allegations and proceedings can vary by jurisdiction and reporting source.
+
+
+## References

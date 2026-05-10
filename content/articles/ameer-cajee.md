@@ -21,7 +21,7 @@ Co-founder of AfriCrypt who allegedly disappeared with $3.6 billion in investor 
 |------|-------|
 | 2021 | Vanished with $3.6 billion |
 
-## References
+
 
 [^1]: Wikipedia, "Ameer Cajee" - https://en.wikipedia.org/wiki/Ameer_Cajee
 
@@ -80,3 +80,6 @@ The figure often cited in coverage is **up to $3.6 billion** in Bitcoin, typical
 ## Further reading
 
 - Wikipedia entry (overview and citations): https://en.wikipedia.org/wiki/Ameer_Cajee
+
+
+## References

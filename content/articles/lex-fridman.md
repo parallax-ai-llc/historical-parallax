@@ -3,6 +3,7 @@ name: "Lex Fridman"
 birth: "1986-08-15"
 nationality: "American"
 occupation: ["Podcaster", "AI Researcher"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Lex_Fridman_teaching_at_MIT_in_2018.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lex_Fridman"
 lastUpdated: "2026-03-12"

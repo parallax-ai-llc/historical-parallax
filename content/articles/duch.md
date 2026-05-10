@@ -55,7 +55,7 @@ Duch was prosecuted by the **Extraordinary Chambers in the Courts of Cambodia (E
 
 This entry is kept intentionally concise because many article sets consolidate Duch under **Kaing Guek Eav** as the canonical name.
 
-## References
+
 
 [^1]: Wikipedia, "Duch" - https://en.wikipedia.org/wiki/Duch
 
@@ -75,3 +75,6 @@ This entry is kept intentionally concise because many article sets consolidate D
 ## External Links
 
 - Wikipedia: https://en.wikipedia.org/wiki/Duch
+
+
+## References

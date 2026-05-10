@@ -5,7 +5,7 @@ birth: "1887-07-16"
 death: "1951-12-05"
 nationality: "United States"
 occupation: ["Sports Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Shoeless_Joe_Jackson_by_Conlon%2C_1913.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shoeless_Joe_Jackson"
 lastUpdated: "2026-02-26"

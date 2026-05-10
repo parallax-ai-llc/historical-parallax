@@ -5,7 +5,7 @@ birth: "1889-12-21"
 death: "1988-03-03"
 nationality: "American"
 occupation: ["Geneticist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/8/8d/Sewall_Wright-en.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sewall_Wright"
 lastUpdated: "2026-02-21"

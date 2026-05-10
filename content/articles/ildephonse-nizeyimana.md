@@ -23,7 +23,7 @@ Rwandan military intelligence officer who orchestrated the targeted killing of Q
 | 2009 | Arrested in Uganda |
 | 2012 | Convicted of genocide and sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Ildephonse Nizeyimana" - https://en.wikipedia.org/wiki/Ildephonse_Nizeyimana
 
@@ -50,3 +50,6 @@ The ICTR convicted him of genocide and related crimes and imposed a life sentenc
 ## Notes
 
 ICTR cases such as this are commonly used in later legal and academic work to illustrate how international courts evaluate individual responsibility within broader campaigns of mass violence, including the use of witness testimony, documentary records, and contextual evidence about events on the ground.
+
+
+## References

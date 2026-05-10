@@ -22,7 +22,7 @@ Illicit fentanyl primarily manufactured in Mexico using Chinese precursors has k
 | 2013 | Fentanyl deaths began rising |
 | 2023 | Over 100,000 annual drug overdose deaths |
 
-## References
+
 
 [^1]: Wikipedia, "Fentanyl Crisis" - https://en.wikipedia.org/wiki/Fentanyl_Crisis
 
@@ -76,3 +76,6 @@ The balance between enforcement and treatment remains a contested policy questio
 - Opioid epidemic in the United States
 - Naloxone
 - Medication-assisted treatment (MAT)
+
+
+## References

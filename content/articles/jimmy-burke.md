@@ -22,7 +22,7 @@ Irish-American gangster who masterminded the Lufthansa heist and then systematic
 | 1978 | Masterminded Lufthansa heist |
 | 1979 | Murdered associates to cover tracks |
 
-## References
+
 
 [^1]: Wikipedia, "Jimmy Burke" - https://en.wikipedia.org/wiki/Jimmy_Burke
 ## Criminal Context
@@ -51,3 +51,6 @@ Organized crime cases of this era often relied on:
 ## Notes
 
 Public narratives vary in the assignment of exact responsibilities across participants; many reconstructions depend on testimonies that can conflict.
+
+
+## References

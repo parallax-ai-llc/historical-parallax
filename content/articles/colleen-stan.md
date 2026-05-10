@@ -23,7 +23,7 @@ American woman known as the Girl in the Box who was kidnapped by Cameron Hooker 
 | 1984 | Escaped captivity |
 | 1985 | Cameron Hooker convicted and sentenced to 104 years |
 
-## References
+
 
 [^1]: Wikipedia, "Colleen Stan" - https://en.wikipedia.org/wiki/Colleen_Stan
 
@@ -44,11 +44,13 @@ American woman known as the Girl in the Box who was kidnapped by Cameron Hooker 
 - **Hitchhiking risk:** The abduction is often cited in discussions of the dangers associated with hitchhiking in the 1970s.
 - **Captivity narratives:** The case is referenced alongside other high-profile captivity cases to illustrate patterns of offender manipulation and victim isolation.
 
-## References
-
-[^2]: Court reporting and secondary accounts summarized in documentary and print coverage of the Hooker trial (1980s).
-
 ## See Also
 
 - Coercive control (domestic abuse framework)
 - Kidnapping in the United States (criminal law)
+
+
+## References
+
+[^2]: Court reporting and secondary accounts summarized in documentary and print coverage of the Hooker trial (1980s).
+

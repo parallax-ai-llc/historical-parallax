@@ -5,7 +5,7 @@ birth: "1894-01-01"
 death: "1974-02-04"
 nationality: "Indian"
 occupation: ["Physicist", "Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/SatyenBose1925.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose"
 lastUpdated: "2026-02-21"

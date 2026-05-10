@@ -21,7 +21,7 @@ Assassinated Swedish Foreign Minister Anna Lindh by stabbing her in a Stockholm 
 |------|-------|
 | 2003 | Murdered Swedish Foreign Minister Anna Lindh |
 
-## References
+
 
 [^1]: Wikipedia, "Mijailo Mijailovic" - https://en.wikipedia.org/wiki/Mijailo_Mijailovic
 
@@ -50,3 +50,6 @@ Assassinated Swedish Foreign Minister Anna Lindh by stabbing her in a Stockholm 
 
 - The killing of a sitting foreign minister prompted national mourning in Sweden and renewed debate on political security.
 - The case is also frequently referenced in discussions about mental health evaluations, criminal responsibility, and media coverage during major national crises.
+
+
+## References

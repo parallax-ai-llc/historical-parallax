@@ -21,7 +21,7 @@ Duplicate — see Masayoshi Son.
 |------|-------|
 | 1957 | See Masayoshi Son entry |
 
-## References
+
 
 [^1]: Wikipedia, "Masayoshi Son duplicate" - https://en.wikipedia.org/wiki/Masayoshi_Son_duplicate
 
@@ -58,3 +58,6 @@ If you are maintaining the article set:
 - SoftBank Group corporate site (biographical and leadership information)
 - Reputable profiles and interviews archived by major business publications
 - The canonical Masayoshi Son article within this repository
+
+
+## References

@@ -21,7 +21,7 @@ Western governments seized over $58 billion in Russian oligarch assets after the
 |------|-------|
 | 2022 | Superyacht seizures began |
 
-## References
+
 
 [^1]: Wikipedia, "Russian Yacht Seizures" - https://en.wikipedia.org/wiki/Russian_Yacht_Seizures
 
@@ -71,3 +71,6 @@ Outcomes generally fell into a few buckets:
 [^2]: U.S. Department of Justice, Task Force KleptoCapture (overview and press materials) - https://www.justice.gov/kleptocapture
 [^3]: European Council / EU sanctions policy (Russia-related restrictive measures) - https://www.consilium.europa.eu/en/policies/sanctions/restrictive-measures-against-russia-over-ukraine/
 [^4]: UK Government, Russia sanctions guidance (policy and enforcement context) - https://www.gov.uk/government/collections/russia-sanctions
+
+
+## References

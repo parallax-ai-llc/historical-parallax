@@ -19,7 +19,7 @@ Warren Steed Jeffs is the president of the Fundamentalist Church of Jesus Christ
 |------|-------|
 | 1955 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, “Warren Jeffs.” https://en.wikipedia.org/wiki/Warren_Jeffs
 [^3]: Texas Department of Criminal Justice / public court records (sentencing and incarceration details).
@@ -55,3 +55,6 @@ Warren Steed Jeffs is the president of the Fundamentalist Church of Jesus Christ
 - Jeffs’ case became a high-profile example of criminal prosecution intersecting with closed religious communities.
 - It accelerated legal, social-service, and media scrutiny of the FLDS and similar groups, especially regarding child protection, forced marriage, and coercive control.
 - The prosecutions also contributed to leadership fragmentation and ongoing disputes over FLDS governance and assets.
+
+
+## References

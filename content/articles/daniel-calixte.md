@@ -21,7 +21,7 @@ Haitian gang leader who controlled territory in Port-au-Prince during the period
 |------|-------|
 | 2019 | Controlled major gang territory in Port-au-Prince |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Calixte" - https://en.wikipedia.org/wiki/Daniel_Calixte
 
@@ -54,3 +54,6 @@ Haitian gang leader who controlled territory in Port-au-Prince during the period
 ## Additional Reading
 
 - Wikipedia entry (summary + citations): https://en.wikipedia.org/wiki/Daniel_Calixte
+
+
+## References

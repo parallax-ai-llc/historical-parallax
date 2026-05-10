@@ -22,7 +22,7 @@ Burkina Faso military officer who seized power in a 2022 coup at age 34. He beca
 | 2022 | Seized power in military coup |
 | 2023 | Allied with Russian Wagner Group |
 
-## References
+
 
 [^1]: Wikipedia, "Ibrahim Traoré" - https://en.wikipedia.org/wiki/Ibrahim_Traor%C3%A9
 
@@ -57,3 +57,6 @@ Because this is an evolving, contemporary political topic, many details are repo
 - 2022 Burkina Faso coup d'état
 - Sahel insurgency
 - Politics of Burkina Faso
+
+
+## References

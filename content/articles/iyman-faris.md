@@ -21,7 +21,7 @@ Pakistani-American truck driver convicted of plotting to destroy the Brooklyn Br
 |------|-------|
 | 2003 | Convicted of plotting bridge attack |
 
-## References
+
 
 [^1]: Wikipedia, "Iyman Faris" - https://en.wikipedia.org/wiki/Iyman_Faris
 
@@ -53,3 +53,6 @@ Pakistani-American truck driver convicted of plotting to destroy the Brooklyn Br
 - Brooklyn Bridge (New York City)
 - Al-Qaeda
 - U.S. federal terrorism prosecutions (post-2001)
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1956-09-29"
 death: "Unknown"
 nationality: "British"
 occupation: ["Athlete", "Olympic Champion", "Middle-Distance Runner", "Sports Administrator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Lord_Coe_-_World_Economic_Forum_Annual_Meeting_2012_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sebastian_Coe"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Sebastian Coe won 1,500m gold at both 1980 and 1984 Olympics. He set eight outdo
 | 1984 | Won second 1,500m gold at LA |
 | 2015 | Became World Athletics president |
 
-## References
+
 
 [^1]: Wikipedia, "Sebastian Coe" - https://en.wikipedia.org/wiki/Sebastian_Coe
 
@@ -48,3 +48,6 @@ Sebastian Coe won 1,500m gold at both 1980 and 1984 Olympics. He set eight outdo
 
 - In athletics history, Coe is frequently discussed alongside other leading runners of his era, with emphasis on tactical racing and record pace capabilities.
 - His administrative tenure is commonly associated with governance and integrity debates within track and field, reflecting the broader pressures on the sport in the 2010s.
+
+
+## References

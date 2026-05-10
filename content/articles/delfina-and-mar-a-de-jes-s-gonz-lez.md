@@ -23,7 +23,7 @@ Mexican serial killers known as Las Poquianchis who operated a brothel network i
 | 1964 | Arrested after escaped victim reported them |
 | 1964 | Convicted and sentenced to 40 years each |
 
-## References
+
 
 [^1]: Wikipedia, "Delfina and María de Jesús González" - https://en.wikipedia.org/wiki/Delfina_and_Mar%C3%ADa_de_Jes%C3%BAs_Gonz%C3%A1lez
 
@@ -57,3 +57,6 @@ The sisters were tried and convicted in the 1960s, receiving long prison sentenc
 ## Notes on Sources
 
 Many details circulate through a mix of court reporting, journalistic retellings, and later popular accounts. For high-confidence facts, summaries typically rely on contemporaneous legal records and established reference sources.
+
+
+## References

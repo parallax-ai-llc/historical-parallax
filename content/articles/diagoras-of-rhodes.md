@@ -23,7 +23,7 @@ Diagoras of Rhodes won the Olympic boxing event in 464 BC and was celebrated by 
 | 464 BC | Celebrated in Pindar's Seventh Olympian Ode |
 | 448 BC | Carried by his champion sons at Olympia |
 
-## References
+
 
 [^1]: Wikipedia, "Diagoras of Rhodes" - https://en.wikipedia.org/wiki/Diagoras_of_Rhodes
 
@@ -48,3 +48,6 @@ Rhodes, as a major Aegean island polis, used high-profile victories to project s
 ## Notes on Sources
 
 Because evidence is fragmentary and often mediated through later writers, many anecdotes should be treated as traditional narratives rather than fully verifiable reportage.
+
+
+## References

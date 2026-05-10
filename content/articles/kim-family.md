@@ -21,7 +21,7 @@ See Kim Il-sung, Kim Jong-il, Kim Jong-un. North Korean ruling dynasty. Duplicat
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Kim family" - https://en.wikipedia.org/wiki/Kim_family
 
@@ -51,3 +51,6 @@ The "Kim family" commonly refers to the hereditary leadership lineage that has d
 [^2]: Britannica, "Kim Il-sung" - https://www.britannica.com/biography/Kim-Il-sung
 [^3]: Britannica, "Kim Jong-il" - https://www.britannica.com/biography/Kim-Jong-il
 [^4]: Britannica, "Kim Jong-un" - https://www.britannica.com/biography/Kim-Jong-un
+
+
+## References

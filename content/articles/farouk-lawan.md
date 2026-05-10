@@ -22,7 +22,7 @@ Nigerian lawmaker convicted of soliciting $620,000 in bribes from businessman Fe
 | 2012 | Caught on camera taking bribe |
 | 2021 | Convicted of bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Farouk Lawan" - https://en.wikipedia.org/wiki/Farouk_Lawan
 
@@ -69,3 +69,6 @@ The case became a reference point in Nigerian public debate about:
 - Fuel subsidy policy in Nigeria
 - Corruption and political accountability in Nigeria
 - High-profile bribery prosecutions
+
+
+## References

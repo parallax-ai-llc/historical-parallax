@@ -42,7 +42,7 @@ The story circulated widely in Indian news outlets and online media, contributin
 
 Many commonly repeated details about the case come from secondary reporting and summaries. For careful work, readers typically compare multiple outlets and, where available, court records or official police statements.
 
-## References
+
 
 [^1]: Wikipedia, "Ravinder Kumar" - https://en.wikipedia.org/wiki/Ravinder_Kumar
 
@@ -50,3 +50,6 @@ Many commonly repeated details about the case come from secondary reporting and 
 
 - Criminal investigation and forensics
 - Missing persons cases in urban settings
+
+
+## References

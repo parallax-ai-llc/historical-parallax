@@ -40,7 +40,7 @@ Loughlin initially pleaded not guilty and contested the allegations. In 2020, sh
 
 Following the scandal, Loughlin faced reputational and career consequences, including the loss of some professional affiliations and projects. Public discussion around the case frequently focused on the ethics of admissions advantages, the role of donations and influence, and enforcement consistency across socioeconomic lines.
 
-## References
+
 
 [^1]: Wikipedia, "Lori Loughlin" - https://en.wikipedia.org/wiki/Lori_Loughlin
 
@@ -49,3 +49,6 @@ Following the scandal, Loughlin faced reputational and career consequences, incl
 Related entries include the broader "Operation Varsity Blues" investigation, other high-profile defendants in the admissions scandal, and policy debates about transparency and fairness in competitive university admissions.
 
 The scandal remains a frequently referenced case study in the intersection of wealth, influence, and education.
+
+
+## References

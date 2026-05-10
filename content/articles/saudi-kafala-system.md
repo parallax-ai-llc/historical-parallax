@@ -23,7 +23,7 @@ Sponsorship system in Saudi Arabia that ties migrant workers to their employers,
 | 2021 | Some reforms announced |
 | 2023 | System largely unchanged |
 
-## References
+
 
 [^1]: Wikipedia, "Saudi Kafala System" - https://en.wikipedia.org/wiki/Saudi_Kafala_System
 
@@ -49,3 +49,6 @@ Saudi authorities have periodically announced reforms intended to increase labor
 Because Saudi Arabia hosts a very large migrant workforce across construction, services, and domestic labor, small changes in sponsorship rules can affect millions of people’s day-to-day autonomy, income security, and ability to seek redress for abuse.
 
 International scrutiny has also focused on how recruitment and sponsorship practices interact across sending and receiving countries.
+
+
+## References

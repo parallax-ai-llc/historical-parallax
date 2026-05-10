@@ -24,7 +24,7 @@ British neonatal nurse convicted of murdering 7 babies and attempting to murder 
 | 2023 | Convicted of 7 murders; whole life order |
 | 2024 | Convicted of additional attempted murder |
 
-## References
+
 
 [^1]: Wikipedia, "Lucy Letby" - https://en.wikipedia.org/wiki/Lucy_Letby
 
@@ -51,3 +51,6 @@ High-profile criminal cases involving complex medical evidence often lead to con
 - Neonatal care
 - Whole life order (UK)
 - Forensic medicine and expert testimony
+
+
+## References

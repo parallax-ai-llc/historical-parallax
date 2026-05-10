@@ -24,7 +24,7 @@ Russian noblewoman who tortured and murdered at least 38 of her serfs, most of w
 | 1768 | Sentenced to life imprisonment |
 | 1801 | Died after 33 years in chains |
 
-## References
+
 
 [^1]: Wikipedia, "Darya Saltykova" - https://en.wikipedia.org/wiki/Darya_Saltykova
 
@@ -48,3 +48,6 @@ Russian noblewoman who tortured and murdered at least 38 of her serfs, most of w
 - Saltykova remains a frequently cited example in discussions of gender, aristocratic power, and violence within the serfdom era.
 - In popular history, she is often referenced as one of the most infamous Russian serial killers.
 - The case is also used as a lens for understanding the legal and moral boundaries of noble authority in 18th-century Russia.
+
+
+## References

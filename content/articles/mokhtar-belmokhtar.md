@@ -23,7 +23,7 @@ Algerian jihadist and smuggler known as the Uncatchable and Mr. Marlboro who mas
 | 2013 | Led In Amenas hostage crisis |
 | 2015 | Organization merged with AQIM affiliate |
 
-## References
+
 
 [^1]: Wikipedia, "Mokhtar Belmokhtar" - https://en.wikipedia.org/wiki/Mokhtar_Belmokhtar
 
@@ -51,3 +51,6 @@ Algerian jihadist and smuggler known as the Uncatchable and Mr. Marlboro who mas
 - In Amenas hostage crisis
 - Al-Qaeda in the Islamic Maghreb (AQIM)
 - Militancy in the Sahel
+
+
+## References

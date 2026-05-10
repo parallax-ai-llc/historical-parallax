@@ -21,7 +21,7 @@ CEO of Rosneft and Putin ally accused of massive corruption and personal enrichm
 |------|-------|
 | 2006 | Became Rosneft CEO amid corruption allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Igor Sechin" - https://en.wikipedia.org/wiki/Igor_Sechin
 
@@ -72,3 +72,6 @@ CEO of Rosneft and Putin ally accused of massive corruption and personal enrichm
 - Rosneft
 - Russian energy sector
 - State-owned enterprises in Russia
+
+
+## References

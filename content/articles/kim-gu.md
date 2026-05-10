@@ -5,7 +5,7 @@ birth: "1876-08-29"
 death: "1949-06-26"
 nationality: "Korean"
 occupation: ["Independence leader", "Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Kim_Gu_in_1949.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Gu"
 lastUpdated: "2026-02-21"

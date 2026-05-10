@@ -23,7 +23,7 @@ South African serial killer known as the Donnybrook Serial Killer who murdered 1
 | 1997 | Arrested |
 | 1999 | Convicted and sentenced to 18 life terms |
 
-## References
+
 
 [^1]: Wikipedia, "Christopher Mhlengwa Zikode" - https://en.wikipedia.org/wiki/Christopher_Mhlengwa_Zikode
 
@@ -48,3 +48,6 @@ The case has been discussed in South African true-crime and profiling contexts, 
 - List of serial killers in South Africa
 - Criminal profiling in South Africa
 - Rural violent crime in KwaZulu-Natal (context)
+
+
+## References

@@ -57,7 +57,7 @@ In memory politics, the events are invoked as an example of the brutality of lat
 | 1945-05 to 1945-06 | Arrests, trials, and punishments follow as colonial authorities reassert control |
 | 1954 | The events are later remembered as a key antecedent to the Algerian War of Independence |
 
-## References
+
 
 [^1]: Wikipedia, "Setif Massacre 1945" - https://en.wikipedia.org/wiki/Setif_Massacre_1945
 
@@ -82,3 +82,6 @@ The event’s legacy is frequently discussed in relation to:
 - French colonial rule in Algeria
 - Algerian nationalism in the 20th century
 - Algerian War of Independence (1954–1962)
+
+
+## References

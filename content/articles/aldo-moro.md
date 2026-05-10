@@ -24,7 +24,7 @@ Italian prime minister who was kidnapped by the Red Brigades in Rome in 1978 and
 | 1978 | Murdered after 54 days in captivity |
 | 1978 | Body found in car trunk in central Rome |
 
-## References
+
 
 [^1]: Wikipedia, "Aldo Moro" - https://en.wikipedia.org/wiki/Aldo_Moro
 
@@ -49,3 +49,6 @@ Moro’s murder had long-lasting effects on Italian politics and public trust. T
 Multiple investigations and public inquiries have examined aspects of the kidnapping, including security failures and contested theories about outside involvement, making the case a persistent subject of historical and political analysis.
 
 In international context, the Moro affair is often used as a reference point for how democratic states respond to political kidnapping and terrorism under intense public pressure.
+
+
+## References

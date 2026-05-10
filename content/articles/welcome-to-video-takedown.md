@@ -20,7 +20,7 @@ International operation took down one of the largest CSAM websites run by South 
 |------|-------|
 | 2019 | 337 arrested in 23 countries |
 
-## References
+
 
 [^1]: Wikipedia, "Welcome to Video Takedown" - https://en.wikipedia.org/wiki/Welcome_to_Video_Takedown
 
@@ -55,3 +55,6 @@ This section is intentionally high-level and is meant to be expanded with reliab
 ## See Also
 
 - Related topics and comparable incidents (add as sourced references become available).
+
+
+## References

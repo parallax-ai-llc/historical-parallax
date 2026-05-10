@@ -22,7 +22,7 @@ Former chairman of PetroChina and head of SASAC convicted of bribery and abuse o
 | 2013 | Removed from SASAC and investigated for corruption |
 | 2015 | Sentenced to 16 years for bribery and abuse of power |
 
-## References
+
 
 [^1]: Wikipedia, "Jiang Jiemin" - https://en.wikipedia.org/wiki/Jiang_Jiemin
 ## Institutional Context
@@ -48,3 +48,6 @@ Open sources tend to summarize charges, sentencing, and the senior posts held; g
 ## Further Reading (General)
 
 For deeper detail, consult multiple reputable sources (academic histories, major news outlets, and primary documents where available), and compare accounts across perspectives.
+
+
+## References

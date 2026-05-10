@@ -22,7 +22,7 @@ Grünenthal's thalidomide drug prescribed to pregnant women caused 10,000+ child
 | 1957 | Thalidomide introduced |
 | 1961 | Drug withdrawn after birth defects discovered |
 
-## References
+
 
 [^1]: Wikipedia, "Thalidomide Scandal" - https://en.wikipedia.org/wiki/Thalidomide_Scandal
 
@@ -55,3 +55,6 @@ Grünenthal's thalidomide drug prescribed to pregnant women caused 10,000+ child
 ## Notes
 
 Estimates of affected births vary by source. This entry summarizes widely cited historical claims; detailed country-by-country timelines are available in specialized histories and official inquiries.
+
+
+## References

@@ -23,7 +23,7 @@ Austrian woman kidnapped at age 10 and held in a cellar for 8 years by Wolfgang 
 | 2006 | Escaped after 3,096 days |
 | 2010 | Published autobiography 3,096 Days |
 
-## References
+
 
 [^1]: Wikipedia, "Kampusch Natascha" - https://en.wikipedia.org/wiki/Kampusch_Natascha
 
@@ -48,3 +48,6 @@ Austrian woman kidnapped at age 10 and held in a cellar for 8 years by Wolfgang 
 
 - This article is a short, high-level overview intended for quick reference.
 - For detailed chronology, primary sources, and broader context, consult the linked Wikipedia entry and its citations.
+
+
+## References

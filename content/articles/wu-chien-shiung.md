@@ -22,7 +22,7 @@ Duplicate of Chien-Shiung Wu.
 | 1912 | Born |
 | 1997 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Wu Chien-Shiung" - https://en.wikipedia.org/wiki/Wu_Chien-Shiung
 
@@ -48,3 +48,6 @@ Her work is frequently cited in accounts of 20th-century physics where experimen
 Wu’s career is used as an example in discussions of both scientific excellence and gender equity in the sciences.
 Her name is frequently invoked when analyzing how credit is assigned between theoretical proposals and experimental confirmation.
 In popular science writing, she is sometimes called the “First Lady of Physics,” reflecting her stature as an experimentalist.
+
+
+## References

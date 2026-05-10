@@ -22,7 +22,7 @@ Tang dynasty rebel leader whose rebellion devastated China and contributed to th
 | 878 | Sacked Guangzhou massacring 120,000 foreign merchants |
 | 880 | Captured Chang'an and declared himself emperor |
 
-## References
+
 
 [^1]: Wikipedia, "Huang Chao" - https://en.wikipedia.org/wiki/Huang_Chao
 
@@ -53,3 +53,6 @@ Tang dynasty rebel leader whose rebellion devastated China and contributed to th
 - **Late Tang politics:** shifting power from the court to regional commanders and factions.
 - **Rebel regimes:** short-lived states that emerged during periods of dynastic fragmentation.
 - **Five Dynasties and Ten Kingdoms (after Tang):** the era of division that followed the dynasty’s fall.
+
+
+## References

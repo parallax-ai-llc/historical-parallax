@@ -23,7 +23,7 @@ Gabonese president who succeeded his father in 2009, continuing the Bongo dynast
 | 2016 | Won disputed election; opposition buildings burned |
 | 2023 | Overthrown in military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Bongo Ondimba" - https://en.wikipedia.org/wiki/Ali_Bongo_Ondimba
 
@@ -48,3 +48,6 @@ In 2023, senior military officers announced a coup following an election, ending
 ## References (additional)
 
 [^2]: Gabon 2016 election and 2023 coup reporting summaries, via Wikipedia and linked sources.
+
+
+## References

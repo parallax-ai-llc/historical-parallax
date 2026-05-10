@@ -22,7 +22,7 @@ Duplicate.
 |------|-------|
 | 1940 | See Dietmar Hopp |
 
-## References
+
 
 [^1]: Wikipedia, "Dietmar Hopp duplicate" - https://en.wikipedia.org/wiki/Dietmar_Hopp_duplicate
 
@@ -60,3 +60,6 @@ If the dataset supports entity resolution, a practical approach is:
 
 [^2]: Wikipedia, "Dietmar Hopp" - https://en.wikipedia.org/wiki/Dietmar_Hopp
 [^3]: Wikipedia, "TSG 1899 Hoffenheim" - https://en.wikipedia.org/wiki/TSG_1899_Hoffenheim
+
+
+## References

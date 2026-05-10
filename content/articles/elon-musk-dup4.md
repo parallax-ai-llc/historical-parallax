@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1971 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Elon Musk dup4" - https://en.wikipedia.org/wiki/Elon_Musk_dup4
 
@@ -59,3 +59,6 @@ When cleaning historical datasets, a typical approach is:
 ## Additional References
 
 [^2]: Wikipedia, "Elon Musk" - https://en.wikipedia.org/wiki/Elon_Musk
+
+
+## References

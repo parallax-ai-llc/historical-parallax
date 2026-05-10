@@ -22,7 +22,7 @@ Nigerian civil war caused by Biafra's secession that killed 1-3 million people. 
 | 1967 | War began |
 | 1970 | Biafra surrendered |
 
-## References
+
 
 [^1]: Wikipedia, "Biafra War" - https://en.wikipedia.org/wiki/Biafra_War
 
@@ -69,3 +69,6 @@ It is also frequently referenced in scholarship on famine, siege warfare, and ho
 Estimates of total deaths vary widely across sources, in part because many deaths were indirect (disease and starvation) and because wartime record-keeping was limited.
 
 For detailed historiography, consult academic works and archival reporting in addition to general reference summaries.
+
+
+## References

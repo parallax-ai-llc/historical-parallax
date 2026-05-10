@@ -59,7 +59,7 @@ Crypto Ponzi scheme that defrauded Latino communities of millions with false min
 - Vague explanations of the underlying trading/mining operations.
 - Difficulty withdrawing funds or frequent “technical” delays.
 
-## References
+
 
 [^1]: Wikipedia (link status may change), "IcomTech Ponzi" - https://en.wikipedia.org/wiki/IcomTech_Ponzi
 
@@ -74,3 +74,6 @@ Crypto Ponzi scheme that defrauded Latino communities of millions with false min
 - Ponzi schemes and pyramid/MLM-style recruiting structures
 - Affinity fraud (targeting communities through trust networks)
 - Common withdrawal-delay patterns in investment fraud
+
+
+## References

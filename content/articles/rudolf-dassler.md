@@ -5,7 +5,7 @@ birth: "1898-03-26"
 death: "1974-10-27"
 nationality: "German"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/e/ea/Rudolf_Dassler.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rudolf_Dassler"
 lastUpdated: "2026-02-21"

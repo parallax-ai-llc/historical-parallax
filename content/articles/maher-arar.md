@@ -23,7 +23,7 @@ Canadian engineer born in Syria who was deported by the US to Syria under the ex
 | 2006 | Canadian inquiry cleared him completely |
 | 2007 | Canada apologized and paid $10.5 million |
 
-## References
+
 
 [^1]: Wikipedia, "Maher Arar" - https://en.wikipedia.org/wiki/Maher_Arar
 
@@ -48,3 +48,6 @@ Arar 사례는 고문 위험이 있는 국가로의 송환을 금지하는 ‘no
 ## 추가 메모
 
 - 이 문서는 요약 중심으로 작성되어 있습니다. 세부 연표·인용·1차 자료는 추후 보강이 필요할 수 있습니다.
+
+
+## References

@@ -24,7 +24,7 @@ American college student who co-created the Mirai botnet that launched the large
 | 2017 | Arrested and pleaded guilty |
 | 2018 | Sentenced to probation and community service |
 
-## References
+
 
 [^1]: Wikipedia, "Paras Jha" - https://en.wikipedia.org/wiki/Paras_Jha
 
@@ -49,3 +49,6 @@ Jha is primarily noted in cybersecurity history because Mirai demonstrated, at l
 - Wikipedia article linked above for a detailed chronology and additional references.
 - Biographical dictionaries or subject-specific histories (physics, sport, art history, cybersecurity, or philosophy) for broader context.
 
+
+
+## References

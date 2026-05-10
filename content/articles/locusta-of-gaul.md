@@ -23,7 +23,7 @@ Roman professional poisoner who served Emperor Nero and was responsible for some
 | 0055 | Poisoned Britannicus at Nero's banquet |
 | 0069 | Executed after Nero's fall |
 
-## References
+
 
 [^1]: Wikipedia, "Locusta of Gaul" - https://en.wikipedia.org/wiki/Locusta_of_Gaul
 
@@ -54,3 +54,6 @@ In later cultural memory, she is often depicted as an archetype of the court poi
 ## Notes
 
 This entry summarizes the commonly cited outline from secondary summaries: professional poisoner, association with Nero, alleged role in high-profile deaths, and execution after regime change.
+
+
+## References

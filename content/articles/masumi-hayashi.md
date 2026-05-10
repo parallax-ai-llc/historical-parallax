@@ -22,7 +22,7 @@ Japanese woman convicted of poisoning a community curry pot with arsenic at a su
 | 1998 | Curry poisoning killed 4 |
 | 2009 | Death sentence upheld |
 
-## References
+
 
 [^1]: Wikipedia, "Masumi Hayashi" - https://en.wikipedia.org/wiki/Masumi_Hayashi
 
@@ -50,3 +50,6 @@ Community-food events and school or festival meals can become focal points for s
 
 Open-source summaries tend to compress complex evidentiary disputes.
 For detailed legal reasoning, primary court documents and contemporaneous reporting are typically required.
+
+
+## References

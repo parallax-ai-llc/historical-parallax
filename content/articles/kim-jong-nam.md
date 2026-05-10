@@ -5,7 +5,7 @@ birth: "1971-05-10"
 death: "2017-02-13"
 nationality: "North Korea"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/1/18/Kim_Jong-nam.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Jong-nam"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ North Korean heir assassinated at Kuala Lumpur airport by two women who smeared 
 | 2001 | Fell from favor after caught at Tokyo Disneyland |
 | 2017 | Assassinated with VX agent at KLIA2 airport |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Jong-nam" - https://en.wikipedia.org/wiki/Kim_Jong-nam
 
@@ -54,3 +54,6 @@ Kim Jong-nam's life and death are frequently referenced in broader narratives ab
 
 - Kim Jong-nam assassination (2017)
 - North Korean succession and elite politics
+
+
+## References

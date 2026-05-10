@@ -5,7 +5,7 @@ birth: "1400-01-01"
 death: "1435-01-01"
 nationality: "United Kingdom"
 occupation: ["Serial Killer", "Historical Figure"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sawney_Beane_and_his_wife_outside_their_cave_in_Scotland._Engraving_by_I._Basire_after_J._Nicholls.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sawney_Bean"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Legendary Scottish cannibal who allegedly led a 48-member clan that lived in a c
 | 1400 | Allegedly established cave dwelling with family |
 | 1435 | Clan allegedly discovered and executed by King James I |
 
-## References
+
 
 [^1]: Wikipedia, "Sawney Bean" - https://en.wikipedia.org/wiki/Sawney_Bean
 
@@ -51,3 +51,6 @@ Legendary Scottish cannibal who allegedly led a 48-member clan that lived in a c
 
 - Modern historians often treat the Sawney Bean narrative as part of a broader genre of early-modern sensational crime literature.
 - The lack of contemporary corroboration is one reason the story is frequently classified as legend rather than verified history.
+
+
+## References

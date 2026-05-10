@@ -22,7 +22,7 @@ Leader of the Fuk Ching gang in New York's Chinatown who ran extortion and human
 | 1990 | Led Fuk Ching gang's criminal operations in Chinatown |
 | 1994 | Arrested and cooperated with federal authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Ah Kay" - https://en.wikipedia.org/wiki/Ah_Kay
 
@@ -53,3 +53,6 @@ Leader of the Fuk Ching gang in New York's Chinatown who ran extortion and human
 
 - Names and personal details may appear inconsistently across sources due to aliases, transliteration differences, and reporting practices.
 - For a definitive chronology, court records and contemporaneous reporting are typically more specific than later summaries.
+
+
+## References

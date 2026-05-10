@@ -21,7 +21,7 @@ Two-time PNG Prime Minister whose leadership was marked by serious corruption al
 |------|-------|
 | 1993 | Second term as PM marred by corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Paias Wingti" - https://en.wikipedia.org/wiki/Paias_Wingti
 
@@ -65,3 +65,6 @@ Two-time PNG Prime Minister whose leadership was marked by serious corruption al
 ## Notes on Allegations and Reputation
 
 This article’s short descriptor reflects the existence of controversy and allegations reported in public sources. For an accurate view, allegations should be distinguished from proven findings, and primary documents (court decisions, commission reports, parliamentary records) should be consulted in addition to secondary summaries.
+
+
+## References

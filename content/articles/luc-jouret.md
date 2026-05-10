@@ -23,7 +23,7 @@ Congolese-Belgian cult leader who co-founded the Order of the Solar Temple. His 
 | 1994 | 53 members died in murder-suicides in Switzerland and Quebec |
 | 1994 | Died in fire at Cheiry, Switzerland |
 
-## References
+
 
 [^1]: Wikipedia, "Luc Jouret" - https://en.wikipedia.org/wiki/Luc_Jouret
 
@@ -51,3 +51,6 @@ Congolese-Belgian cult leader who co-founded the Order of the Solar Temple. His 
 ## See Also
 
 - Order of the Solar Temple
+
+
+## References

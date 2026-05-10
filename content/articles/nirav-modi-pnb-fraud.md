@@ -24,7 +24,7 @@ Indian billionaire jeweler who defrauded Punjab National Bank of $2 billion in t
 | 2019 | Arrested in London |
 | 2024 | Extradition to India approved |
 
-## References
+
 
 [^1]: Wikipedia, "Nirav Modi PNB Fraud" - https://en.wikipedia.org/wiki/Nirav_Modi_PNB_Fraud
 
@@ -57,3 +57,6 @@ Because key actions and assets can span multiple jurisdictions, large financial 
 
 - General references on trade finance, bank guarantees, and operational risk
 - Indian banking regulation and audit practices (for broader context)
+
+
+## References

@@ -22,7 +22,7 @@ Former Rwandan intelligence chief convicted of genocide and complicity in crimes
 | 1994 | Led intelligence operations facilitating genocide |
 | 2014 | First person convicted of Rwandan genocide by a French court |
 
-## References
+
 
 [^1]: Wikipedia, "Pascal Simbikangwa" - https://en.wikipedia.org/wiki/Pascal_Simbikangwa
 
@@ -50,3 +50,6 @@ The case is frequently referenced in discussions of:
 ## Notes
 
 This entry is intentionally non-graphic and focuses on legal and historical framing; detailed claims should be cross-checked against court records and reputable investigative reporting.
+
+
+## References

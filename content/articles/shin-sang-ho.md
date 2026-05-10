@@ -5,7 +5,7 @@ birth: "1947-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Ceramicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/98/1%282%29Dream_series%2CBuncheong_Ware%2C70x46x46cm%2C1991.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shin_Sang-ho"
 lastUpdated: "2026-02-21"

@@ -23,7 +23,7 @@ Comorian terrorist who masterminded the 1998 US embassy bombings in Kenya and Ta
 | 2002 | Planned Mombasa attacks |
 | 2011 | Killed at a checkpoint in Mogadishu |
 
-## References
+
 
 [^1]: Wikipedia, "Fazul Abdullah Mohammed" - https://en.wikipedia.org/wiki/Fazul_Abdullah_Mohammed
 
@@ -48,3 +48,6 @@ Comorian terrorist who masterminded the 1998 US embassy bombings in Kenya and Ta
 - East Africa embassy bombings (1998)
 - Al-Qaeda in East Africa
 - Counterterrorism cooperation in the Horn of Africa
+
+
+## References

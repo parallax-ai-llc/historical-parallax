@@ -21,7 +21,7 @@ Russian military chief of staff overseeing operations in Ukraine.
 |------|-------|
 | 2022 | Oversaw Ukraine military operations |
 
-## References
+
 
 [^1]: Wikipedia, "Valery Gerasimov" - https://en.wikipedia.org/wiki/Valery_Gerasimov
 
@@ -55,3 +55,6 @@ The term "Gerasimov doctrine" is widely used in some Western analysis to describ
 ## Notes
 
 This article is a brief biographical sketch focused on public roles and widely reported context. For detailed unit assignments, exact dates, and primary-source speeches, consult the reference link(s) and specialized military histories.
+
+
+## References

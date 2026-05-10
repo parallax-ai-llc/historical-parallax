@@ -5,7 +5,7 @@ birth: "0073-01-01"
 death: "0073-04-16"
 nationality: "Judea"
 occupation: ["Historical Event", "Siege", "Ancient War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Israel-2013-Aerial_21-Masada.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siege_of_Masada"
 lastUpdated: "2026-02-21"

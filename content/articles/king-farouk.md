@@ -5,7 +5,7 @@ birth: "1920-02-11"
 death: "1965-03-18"
 nationality: "Egypt"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Farouk-King-.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/King_Farouk"
 lastUpdated: "2026-02-21"

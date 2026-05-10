@@ -21,7 +21,7 @@ Japanese woman convicted of poisoning multiple victims using arsenic. Her case w
 |------|-------|
 | 1998 | Poisoning discovered |
 
-## References
+
 
 [^1]: Wikipedia, "Yuko Nishimura" - https://en.wikipedia.org/wiki/Yuko_Nishimura
 
@@ -62,3 +62,6 @@ Cases involving covert poisoning typically draw attention because they:
 
 - The linked Wikipedia URL in the frontmatter may not always resolve to a stable article.
 - When available, prefer corroboration from court reporting, reputable journalism, and Japanese-language primary or archival sources.
+
+
+## References

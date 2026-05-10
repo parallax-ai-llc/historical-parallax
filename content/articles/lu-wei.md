@@ -42,10 +42,13 @@ In 2019, a Chinese court sentenced him to a lengthy prison term for bribery, wit
 
 Lu's career is commonly referenced in analyses of how China built institutions for internet control and how leadership changes can rapidly reshape the personnel at the top of sensitive regulatory agencies.
 
-## References
+
 
 [^1]: Wikipedia, "Lu Wei" - https://en.wikipedia.org/wiki/Lu_Wei
 
 ## See also
 
 Related topics include the Cyberspace Administration of China, Chinese internet censorship and platform regulation, and the broader anti-corruption campaign under Xi Jinping.
+
+
+## References

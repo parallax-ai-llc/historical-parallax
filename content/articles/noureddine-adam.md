@@ -22,7 +22,7 @@ Military coordinator of the Séléka rebel coalition that seized power in CAR in
 | 2013 | Led Séléka military operations overthrowing President Bozizé |
 | 2014 | UN imposed sanctions for directing forces responsible for atrocities |
 
-## References
+
 
 [^1]: Wikipedia, "Noureddine Adam" - https://en.wikipedia.org/wiki/Noureddine_Adam
 
@@ -51,3 +51,6 @@ In subsequent years, Adam has continued to appear in reporting related to armed 
 ## Notes on Attribution
 
 Biographical details for armed-group leaders in CAR can be inconsistent across sources. When extending this article, prefer primary documents (sanctions notices, UN reports) and clearly separate allegations from court-established facts.
+
+
+## References

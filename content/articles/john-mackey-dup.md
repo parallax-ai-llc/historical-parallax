@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1953 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "John Mackey dup" - https://en.wikipedia.org/wiki/John_Mackey_dup
 
@@ -69,3 +69,6 @@ When consolidating duplicates, the following fields are typically safe to reconc
 - **Acquisition implications (2017):** the Amazon purchase is often discussed as a milestone in e-commerce/logistics-driven transformation of grocery retail.
 
 (These points are meant as a factual, high-level scaffold to pad a duplicate stub, not as a substitute for a properly sourced canonical profile.)
+
+
+## References

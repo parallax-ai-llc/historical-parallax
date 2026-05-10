@@ -19,7 +19,7 @@ Chérif Kouachi, with his brother Saïd, attacked the Charlie Hebdo office in Pa
 |------|-------|
 | 1982 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -59,3 +59,6 @@ Chérif Kouachi, with his brother Saïd, attacked the Charlie Hebdo office in Pa
 ## Additional References
 - Wikipedia: Charlie Hebdo shooting (overview and sourcing)
 - Major contemporaneous coverage and official communiqués from French authorities (2015)
+
+
+## References

@@ -24,7 +24,7 @@ Colombian paramilitary leader known as Don Berna who controlled Medellín's crim
 | 2008 | Extradited to US for drug trafficking |
 | 2014 | Sentenced to 31 years in US prison |
 
-## References
+
 
 [^1]: Wikipedia, "Diego Fernando Murillo" - https://en.wikipedia.org/wiki/Diego_Fernando_Murillo
 
@@ -51,3 +51,6 @@ Murillo is often cited as an example of how Colombia’s armed conflict and orga
 ## See also
 
 - Office of Envigado
+
+
+## References

@@ -22,7 +22,7 @@ Former Khmer Rouge district chief accused of overseeing mass executions and forc
 | 1975 | Administered Khmer Rouge district where thousands died |
 | 2017 | ECCC dismissed case against her |
 
-## References
+
 
 [^1]: Wikipedia, "Im Chaem" - https://en.wikipedia.org/wiki/Im_Chaem
 
@@ -53,3 +53,6 @@ Im Chaem’s public profile is less about notoriety during the regime and more a
 - How district-level authority could be central to the implementation of mass violence.
 - How post-conflict justice mechanisms may leave many victims without courtroom accountability.
 - How legal outcomes can diverge from historical narratives of culpability.
+
+
+## References

@@ -21,7 +21,7 @@ Leader of the 2017 London Bridge terror attack that killed 8 people.
 |------|-------|
 | 2017 | Committed London Bridge attack |
 
-## References
+
 
 [^1]: Wikipedia, "Khurram Butt" - https://en.wikipedia.org/wiki/Khurram_Butt
 
@@ -61,3 +61,6 @@ Leader of the 2017 London Bridge terror attack that killed 8 people.
 ## Additional Notes
 
 This article is a concise factual summary focused on high-level context and does not provide operational detail.
+
+
+## References

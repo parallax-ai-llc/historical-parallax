@@ -5,7 +5,7 @@ birth: "1848-09-04"
 death: "1928-12-11"
 nationality: "American"
 occupation: ["Inventor", "Electrical Engineer", "Draftsman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lewis_latimer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lewis_Latimer"
 lastUpdated: "2026-02-21"

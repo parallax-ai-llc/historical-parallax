@@ -19,7 +19,7 @@ Carlos Castaño Gil was the leader of the AUC (United Self-Defense Forces of Col
 |------|-------|
 | 1965 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -51,3 +51,6 @@ Carlos Castaño Gil was the leader of the AUC (United Self-Defense Forces of Col
 ## References (additional)
 [^2]: Wikipedia contributors, "Carlos Castaño Gil," Wikipedia, https://en.wikipedia.org/wiki/Carlos_Casta%C3%B1o_Gil
 [^3]: Human Rights Watch reports and academic histories of Colombian paramilitaries (overview sources).
+
+
+## References

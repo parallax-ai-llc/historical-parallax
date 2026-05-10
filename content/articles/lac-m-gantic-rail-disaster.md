@@ -21,7 +21,7 @@ See Ed Burkhardt. A runaway train carrying crude oil derailed in Lac-Mégantic, 
 |------|-------|
 | 2013 | Runaway train destroyed Lac-Mégantic; 47 killed |
 
-## References
+
 
 [^1]: Wikipedia, "Lac-Mégantic rail disaster" - https://en.wikipedia.org/wiki/Lac-M%C3%A9gantic_rail_disaster
 
@@ -72,3 +72,6 @@ Public reporting and investigations highlighted a combination of risks, includin
   - **Train securement rules** and operating practices
   - **Tank car standards** (phase-out/retrofits of older cars)
 - Commonly referenced in broader debates about the safety of moving crude oil by rail.
+
+
+## References

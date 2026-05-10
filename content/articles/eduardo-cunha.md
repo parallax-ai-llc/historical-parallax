@@ -23,7 +23,7 @@ Brazilian politician who as Speaker of the House led the impeachment of Presiden
 | 2016 | Arrested for corruption |
 | 2017 | Convicted; sentenced to 15 years |
 
-## References
+
 
 [^1]: Wikipedia, "Eduardo Cunha" - https://en.wikipedia.org/wiki/Eduardo_Cunha
 
@@ -52,3 +52,6 @@ Open sources describe convictions and sentencing for corruption-related offenses
 
 - Operation Car Wash (Lava Jato)
 - Impeachment of Dilma Rousseff
+
+
+## References

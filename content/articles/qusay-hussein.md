@@ -22,7 +22,7 @@ Saddam Hussein's younger son who oversaw the Republican Guard and intelligence s
 | 1991 | Led suppression of Shia uprising |
 | 2003 | Killed by US military alongside brother Uday |
 
-## References
+
 
 [^1]: Wikipedia, "Qusay Hussein" - https://en.wikipedia.org/wiki/Qusay_Hussein
 
@@ -49,3 +49,6 @@ Saddam Hussein's younger son who oversaw the Republican Guard and intelligence s
 - Qusay is often cited as an example of dynastic succession planning inside authoritarian systems, where security institutions double as political power centers.
 - His notoriety is tied to the regime’s internal repression and the broader legacy of state violence in late-20th-century Iraq.
 
+
+
+## References

@@ -21,7 +21,7 @@ Syrian brigadier general who defected from Assad's army in 2012.
 |------|-------|
 | 2012 | Defected from Assad regime |
 
-## References
+
 
 [^1]: Wikipedia, "Manaf Tlass" - https://en.wikipedia.org/wiki/Manaf_Tlass
 
@@ -50,3 +50,6 @@ Syrian brigadier general who defected from Assad's army in 2012.
 - Syrian civil war
 - Defections from the Syrian Arab Army
 - Assad family and associated elites
+
+
+## References

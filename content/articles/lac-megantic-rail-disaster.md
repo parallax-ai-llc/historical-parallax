@@ -23,7 +23,7 @@ Runaway train carrying crude oil derailed and exploded in Lac-Megantic, Quebec o
 | 2013 | 47 killed |
 | 2018 | Three employees acquitted |
 
-## References
+
 
 [^1]: Wikipedia, "Lac-Megantic Rail Disaster" - https://en.wikipedia.org/wiki/Lac-Megantic_Rail_Disaster
 
@@ -52,3 +52,6 @@ The Lac-Megantic disaster is often cited as one of the deadliest rail disasters 
 ## Additional References
 
 [^2]: Transportation Safety Board of Canada (TSB), investigation summaries and safety recommendations (see public TSB materials related to the event).
+
+
+## References

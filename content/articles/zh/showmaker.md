@@ -1,58 +1,64 @@
 ---
 name: "ShowMaker"
-birth: 1999-07-19
+birth: 1999-07-28
 death:
 nationality: "South Korean"
-occupation: "Esports Player"
+occupation: "League of Legends Player"
 socialLinks:
-  - platform: "Twitch"
-    link: "https://www.twitch.tv/showmaker"
-  - platform: "Twitter"
-    link: "https://twitter.com/showmaker99"
-lastUpdated: "2023-10-27T07:32:17.000Z"
-image: "articles/showmaker.webp"
-id: "showmaker"
+  twitter: "https://twitter.com/DK_ShowMaker"
+  twitch: "https://www.twitch.tv/showmaker"
+lastUpdated: "2023-11-29T18:00:00Z"
+image: "showmaker.webp"
 ---
 
 ## 简介
 
-许秀（Heo Su，1999年7月19日出生），以其标志性的游戏ID“ShowMaker”而闻名，是韩国一名杰出的《英雄联盟》职业选手，目前效力于Dplus KIA战队，司职中路。他被广泛认为是电子竞技史上最伟大的中路选手之一，以其出色的操作、深刻的游戏理解以及强大的游戏心理而闻名。ShowMaker是2020年英雄联盟世界赛的冠军，并带领DAMWON Gaming（后来的DWG KIA / Dplus KIA）在2021年再次闯入决赛，显示了他作为一支顶级战队的基石作用。
+许秀（Heo Su），以其标志性的游戏ID **ShowMaker** 而闻名，是一位在《英雄联盟》电子竞技界享有盛誉的韩国职业选手。他以其出色的中路技术、深厚的英雄池以及在关键时刻的冷静表现而闻名，被广泛认为是其一代中最优秀的选手之一。ShowMaker 的职业生涯与 DWG Gaming (后更名为 DWG KIA，现为 Dplus KIA) 紧密相连，他在这支队伍中取得了巨大的成功，包括在 2020 年英雄联盟全球总决赛 (Worlds 2020) 上夺冠。
 
 ## 职业生涯时间线
 
-ShowMaker于2017年开始了他的职业生涯，最初效力于KeG Gangwon。之后，他加入了DAMWON Gaming，并在2019年帮助队伍晋升至LCK（韩国顶级联赛）。尽管在2019年有所表现，但真正让他声名鹊起的是2020赛季。
+ShowMaker 的职业生涯在 2019 年初真正起飞，当时他加入了 DWG Gaming。尽管队伍在初期面临挑战，但 ShowMaker 的到来为队伍注入了新的活力。他很快就确立了自己作为队伍核心和主要输出点的地位，凭借其出色的个人能力和对游戏的深刻理解，带领队伍在国内外赛事中屡创佳绩。
 
 | 年份 | 事件 |
 |---|---|
-| 2017 | 加入KeG Gangwon |
-| 2019 | 加入DAMWON Gaming；晋升至LCK |
-| 2020 | 赢得LCK夏季赛冠军；赢得英雄联盟世界赛冠军 |
-| 2021 | 赢得LCK春季赛冠军；闯入英雄联盟世界赛决赛 |
-| 2023 | 参加英雄联盟世界赛 |
+| 2019 | 加入 DWG Gaming，开始崭露头角。 |
+| 2020 | 随 DWG Gaming 夺得 LCK 夏季赛冠军，并在英雄联盟全球总决赛 (Worlds 2020) 上以统治级的表现夺得冠军。 |
+| 2021 | 随队伍再次进入英雄联盟全球总决赛决赛，惜败于 EDward Gaming。 |
+| 2022 | 随队伍进入英雄联盟全球总决赛八强。 |
+| 2023 | 随队伍进入英雄联盟全球总决赛四强。 |
 
-## 2020年世界赛的辉煌
+## 巅峰时刻：2020 年全球总决赛
 
-ShowMaker在2020年英雄联盟世界赛上的表现堪称传奇。在LCK夏季赛夺冠后，DAMWON Gaming以极高的期望值进入了世界赛。ShowMaker在中路的位置上展现了统治级的表现，以其精湛的卡牌大师、塞拉斯和阿狸等英雄操作征服了观众。DAMWON Gaming一路过关斩将，最终在决赛中以3-1击败了来自中国的JD Gaming，为队伍和ShowMaker本人赢得了他们职业生涯中的首个世界冠军。他的MVP级表现为他赢得了“2020年全球总决赛MVP”的称号。
+ShowMaker 最为辉煌的成就无疑是在 2020 年英雄联盟全球总决赛上带领 DWG Gaming 夺得冠军。那届赛事中，ShowMaker 的表现堪称完美，他在中路位置上展现出了前所未有的统治力。无论是对线压制、团战切入还是关键决策，他都做得近乎无可挑剔。DWG Gaming 以一种令人信服的方式赢得了最终的冠军，而 ShowMaker 也被认为是队伍夺冠的最大功臣之一，他的名字从此被载入《英雄联盟》电竞史册。
 
-## 持续的统治力与巅峰
+## 持续的统治力与影响力
 
-2020年的成功并没有让ShowMaker止步不前。在2021年，他继续带领DWG KIA（DAMWON Gaming的新名称）保持着极高的竞技水平。队伍赢得了LCK春季赛的冠军，并再次闯入了英雄联盟世界赛的决赛，尽管在决赛中不敌EDward Gaming，但ShowMaker再次证明了他作为世界级选手的实力。他以其多样的英雄池和在高压环境下保持冷静的能力而闻名，能够适应各种战术风格。
+在 2020 年夺冠之后，ShowMaker 并未停下前进的脚步。他继续以顶尖水平征战 LCK 和国际赛场，并带领 DWG KIA/Dplus KIA 连续两年进入全球总决赛的决赛（2021 年）和四强（2023 年）。他不仅是一位技术精湛的选手，还是一位极具魅力的职业选手。他的游戏理解、英雄选择以及在赛场上的风度，都为他赢得了无数粉丝的喜爱和尊重。
 
-## 争议与低谷
+ShowMaker 的影响力不仅体现在他的个人成就上，更在于他为后来的中路选手树立了榜样。他的打法风格、英雄池的深度以及对游戏节奏的把控，都成为了许多新晋选手的学习对象。他证明了，凭借天赋、努力和对胜利的渴望，一位选手可以达到怎样的高度。
 
-尽管ShowMaker拥有辉煌的职业生涯，但他和他的队伍也经历过一些低谷。例如，在2022年，DWG KIA未能进入世界赛，这是自2019年以来首次。ShowMaker本人也曾面临因健康问题（如手腕伤势）而影响表现的挑战。然而，他总能克服困难，重新回到顶尖水平。
+## 个人风格与英雄池
 
-## 风格与游戏理解
+ShowMaker 以其出色的“Carry”能力而闻名，他擅长使用各种类型的法师和刺客型英雄，并且能将它们发挥到极致。他的英雄池极其广泛，从传统的 AP carry 如 Orianna、Viktor，到具有高机动性的刺客如 LeBlanc、Ahri，再到一些出人意料的奇招，他都能熟练掌握并运用于比赛中。这种多样的英雄选择能力，使得对手难以针对，也让 DWG KIA/Dplus KIA 的战术更加灵活多变。
 
-ShowMaker的游戏风格以激进、高风险高回报的打法为特点，但其背后是深刻的游戏理解和对时机的精准把握。他能够通过线上的压制来为队伍创造优势，并擅长在团战中找到最佳的切入时机。他不仅能驾驭刺客型英雄，也能熟练运用法师型英雄，并且对版本强势英雄的理解和运用总是走在前面。
+## 荣誉与成就
 
-## 遗产与未来
+*   **英雄联盟全球总决赛 (Worlds)**: 冠军 (2020)
+*   **英雄联盟全球总决赛 (Worlds)**: 亚军 (2021)
+*   **英雄联盟全球总决赛 (Worlds)**: 四强 (2023)
+*   **League of Legends Champions Korea (LCK)**: 夏季赛冠军 (2020)
+*   **League of Legends Champions Korea (LCK)**: 春季赛亚军 (2021)
+*   **League of Legends Champions Korea (LCK)**: 夏季赛亚军 (2021)
 
-ShowMaker被誉为“时代的中路选手”，他的职业生涯已经深刻地影响了《英雄联盟》电子竞技。他不仅是Dplus KIA的核心，也是LCK的代表人物之一。他的名字常常与《英雄联盟》历史上最伟大的中路选手相提并论，他的比赛视频被无数玩家学习和模仿。
+## 个人生活与幕后
 
-尽管职业生涯已步入后期，ShowMaker依然是世界上最顶尖的中路选手之一。他继续在LCK和国际舞台上展现着他的才华，并有望继续为Dplus KIA带来更多荣誉。他的故事激励着无数年轻的电竞选手，证明了通过努力、天赋和坚韧不拔的精神，可以达到电子竞技的巅峰。
+ShowMaker 在赛场之外，以其谦逊和认真赢得尊重。尽管在游戏中表现出强大的统治力，但他在采访中和直播中也常常展现出其阳光和略带羞涩的一面。他对于游戏的专注和对自身技术的不断打磨，是他能够长期保持顶尖水平的关键。
+
+## 总结
+
+ShowMaker 作为一名职业选手，在《英雄联盟》电竞界留下了深刻的印记。他不仅是一位伟大的冠军，更是一位激励人心的选手。他的职业生涯故事，是关于天赋、努力、团队合作以及永不放弃精神的完美诠释。随着他职业生涯的继续，ShowMaker 必将继续书写属于自己的传奇。
 
 ## 参考文献
 
-[^1]: Leaguepedia - ShowMaker
-[^2]: LoL Esports - Archives
+[^1]: LoL Esports. (2023). *ShowMaker Player Page*. Retrieved from [https://www.lolesports.com/player/showmaker](https://www.lolesports.com/player/showmaker)
+[^2]: Liquipedia. (2023). *ShowMaker*. Retrieved from [https://liquipedia.net/leagueoflegends/ShowMaker](https://liquipedia.net/leagueoflegends/ShowMaker)

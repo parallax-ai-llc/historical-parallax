@@ -5,7 +5,7 @@ birth: "1986-02-21"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/5/52/Leiby_Kletzky.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Levi_Aron"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ American child killer who abducted, suffocated, and dismembered 8-year-old Leiby
 | 2011 | Kidnapped and murdered Kletzky |
 | 2012 | Sentenced to 40 years to life |
 
-## References
+
 
 [^1]: Wikipedia, "Levi Aron" - https://en.wikipedia.org/wiki/Levi_Aron
 
@@ -51,3 +51,6 @@ American child killer who abducted, suffocated, and dismembered 8-year-old Leiby
 - The case became widely known due to the rapid identification of a suspect and the intensity of the search.
 - It remains a reference point in public conversations about missing-child response protocols.
 - Legal resolution through a guilty plea produced a lengthy prison sentence.
+
+
+## References

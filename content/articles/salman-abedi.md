@@ -37,7 +37,7 @@ In the years following, the attack was repeatedly referenced in policy discussio
 ## Notes on Sources
 
 Detailed timelines and the scope of prior contacts with authorities have been subjects of public reporting and inquiry; readers should consult official inquiry materials for the most carefully substantiated accounts.
-## References
+
 
 [^1]: Wikipedia, "Salman Abedi" - https://en.wikipedia.org/wiki/Salman_Abedi
 
@@ -54,3 +54,6 @@ Detailed timelines and the scope of prior contacts with authorities have been su
 - Names, dates, and claims should be cross-checked against the cited reference(s).
 - Where events involve crimes or violence, summaries avoid unnecessary graphic detail.
 - For full context, consult multiple reputable sources (official records, major news archives, and scholarly works when available).
+
+
+## References

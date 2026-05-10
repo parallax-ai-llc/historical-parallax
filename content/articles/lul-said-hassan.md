@@ -23,7 +23,7 @@ Somali pirate commander who led one of the most prolific hijacking groups during
 | 2010 | Captured MV Iceberg 1 for 1,000 days |
 | 2012 | Arrested by Somali authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Lul Said Hassan" - https://en.wikipedia.org/wiki/Lul_Said_Hassan
 
@@ -50,3 +50,6 @@ Somali pirate commander who led one of the most prolific hijacking groups during
 ## Source Notes
 - This entry is currently short and should be treated as a starting point rather than a definitive account.
 - If a cited link becomes unavailable or resolves to a placeholder page, add an archived copy and alternative reputable sources.
+
+
+## References

@@ -21,7 +21,7 @@ Australian financial adviser who defrauded clients of $25 million and disappeare
 |------|-------|
 | 2020 | Disappeared after ASIC raid; foot found months later |
 
-## References
+
 
 [^1]: Wikipedia, "Melissa Caddick" - https://en.wikipedia.org/wiki/Melissa_Caddick
 
@@ -61,3 +61,5 @@ Australian financial adviser who defrauded clients of $25 million and disappeare
 ## References
 
 [^1]: Wikipedia, "Melissa Caddick" - https://en.wikipedia.org/wiki/Melissa_Caddick
+
+

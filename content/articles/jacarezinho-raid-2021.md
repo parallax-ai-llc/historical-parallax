@@ -21,7 +21,7 @@ Rio police killed 28 people during a raid on the Jacarezinho favela, the deadlie
 |------|-------|
 | 2021 | 28 killed in police raid |
 
-## References
+
 
 [^1]: Wikipedia, "Jacarezinho Raid 2021" - https://en.wikipedia.org/wiki/Jacarezinho_Raid_2021
 
@@ -53,3 +53,6 @@ Rio police killed 28 people during a raid on the Jacarezinho favela, the deadlie
 
 - This article summarizes a **named incident** rather than a single individual; the fields above are retained for schema consistency.
 - The term “raid” is used descriptively for the event commonly referenced as the Jacarezinho operation of May 2021.
+
+
+## References

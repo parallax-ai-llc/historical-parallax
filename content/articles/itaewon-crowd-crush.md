@@ -22,7 +22,7 @@ Deadly crowd crush in the Itaewon nightlife district of Seoul on October 29, 202
 | 2022 | 159 killed in crowd crush |
 | 2023 | Police leadership charged with negligence |
 
-## References
+
 
 [^1]: Wikipedia, "Itaewon Crowd Crush" - https://en.wikipedia.org/wiki/Itaewon_Crowd_Crush
 
@@ -48,3 +48,6 @@ Deadly crowd crush in the Itaewon nightlife district of Seoul on October 29, 202
 - **Context:** political, social, and geographic framing.
 - **Aftermath:** investigations, reforms, and legacy.
 - **Sources:** prioritize primary documents and reputable reporting.
+
+
+## References

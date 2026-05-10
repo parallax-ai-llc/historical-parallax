@@ -5,7 +5,7 @@ birth: "1898-01-01"
 death: "1964-01-01"
 nationality: "Korean"
 occupation: ["Physicist", "Educator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Portraits_of_kings_at_Tongiljeon.jpg/3840px-Portraits_of_kings_at_Tongiljeon.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Beopmin"
 lastUpdated: "2026-02-21"

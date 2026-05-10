@@ -22,7 +22,7 @@ American utilities magnate whose $500 million empire collapsed in the Great Depr
 | 1907 | Built massive utilities empire |
 | 1932 | Empire collapsed; fled to Europe |
 
-## References
+
 
 [^1]: Wikipedia, "Samuel Insull" - https://en.wikipedia.org/wiki/Samuel_Insull
 
@@ -49,3 +49,6 @@ American utilities magnate whose $500 million empire collapsed in the Great Depr
 
 - 독자가 오해하기 쉬운 용어는 한 줄 정의로 보완합니다.
 - 동음이의/유사 개념이 있다면 구분 기준을 제시합니다.
+
+
+## References

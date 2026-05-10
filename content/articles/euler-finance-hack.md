@@ -22,7 +22,7 @@ Hacker exploited Euler Finance DeFi protocol stealing $197 million before return
 | 2023 | $197 million stolen from Euler Finance |
 | 2023 | Hacker returned all funds after negotiations |
 
-## References
+
 
 [^1]: Wikipedia, "Euler Finance Hack" - https://en.wikipedia.org/wiki/Euler_Finance_Hack
 
@@ -67,3 +67,6 @@ The Euler Finance hack is frequently cited in discussions about:
 - the limits of automated risk controls under adversarial conditions,
 - the difficulty of auditing emergent behaviors in composable DeFi systems,
 - and the practical role of off-chain coordination (public pressure, negotiation) in “decentralized” incident response.
+
+
+## References

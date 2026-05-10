@@ -22,7 +22,7 @@ Russian forces occupying Bucha, Ukraine killed hundreds of civilians through exe
 | 2022 | Russian forces committed mass killings in Bucha |
 | 2022 | ICC opened investigation into war crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Russian Bucha Massacre" - https://en.wikipedia.org/wiki/Russian_Bucha_Massacre
 
@@ -50,3 +50,6 @@ Russian forces occupying Bucha, Ukraine killed hundreds of civilians through exe
 
 [^2]: Wikipedia, "Bucha massacre" - https://en.wikipedia.org/wiki/Bucha_massacre
 [^3]: Wikipedia, "International Criminal Court investigation in Ukraine" - https://en.wikipedia.org/wiki/International_Criminal_Court_investigation_in_Ukraine
+
+
+## References

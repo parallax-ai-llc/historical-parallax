@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1954 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Oprah dup2" - https://en.wikipedia.org/wiki/Oprah_dup2
 
@@ -69,3 +69,6 @@ When the subject is verified, expand using a consistent high-level structure:
 
 - Dataset hygiene: deduplication and entity resolution
 - Disambiguation pages and naming conventions in biographical datasets
+
+
+## References

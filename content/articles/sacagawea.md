@@ -24,7 +24,7 @@ Sacagawea served as interpreter and guide for the Lewis and Clark Expedition. He
 | 1805 | Reached the Pacific Ocean with the expedition |
 | 1812 | Died at Fort Manuel |
 
-## References
+
 
 [^1]: Wikipedia, "Sacagawea" - https://en.wikipedia.org/wiki/Sacagawea
 
@@ -48,3 +48,6 @@ Sacagawea served as interpreter and guide for the Lewis and Clark Expedition. He
 ## See also
 
 - Related topics and primary sources linked in the References section.
+
+
+## References

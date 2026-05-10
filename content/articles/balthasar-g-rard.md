@@ -22,7 +22,7 @@ French Catholic who assassinated William the Silent, Prince of Orange, on July 1
 | 1584 | Assassinated William the Silent in Delft |
 | 1584 | Tortured and executed over four days |
 
-## References
+
 
 [^1]: Wikipedia, "Balthasar Gérard" - https://en.wikipedia.org/wiki/Balthasar_G%C3%A9rard
 
@@ -51,3 +51,6 @@ The event had major political consequences for the rebel cause and for successio
 - the role of confessional conflict in political legitimacy
 - the evolution of state security and protection of leaders
 - the relationship between propaganda, martyr narratives, and political violence
+
+
+## References

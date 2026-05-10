@@ -22,7 +22,7 @@ Mauritanian AQIM commander who led attacks against Mauritanian security forces. 
 | 2009 | Led AQIM operations targeting Mauritanian forces |
 | 2011 | Captured by Mauritanian security forces |
 
-## References
+
 
 [^1]: Wikipedia, "Hasane Ould Khalil" - https://en.wikipedia.org/wiki/Hasane_Ould_Khalil
 
@@ -48,3 +48,6 @@ Mauritanian AQIM commander who led attacks against Mauritanian security forces. 
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
+
+
+## References

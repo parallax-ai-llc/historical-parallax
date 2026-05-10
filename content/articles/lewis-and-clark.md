@@ -5,7 +5,7 @@ birth: "1770-08-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Explorer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Lewis_and_Clark.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lewis_and_Clark"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Meriwether Lewis and William Clark led the Corps of Discovery expedition across 
 | 1805 | Reached the Pacific Ocean |
 | 1806 | Returned to St. Louis |
 
-## References
+
 
 [^1]: Wikipedia, "Lewis and Clark" - https://en.wikipedia.org/wiki/Lewis_and_Clark
 ## Background
@@ -50,3 +50,6 @@ The expedition became a foundational narrative in U.S. westward expansion histor
 
 - This page is a high-level overview intended to be expanded with additional sources.
 - When adding detailed claims (dates, numbers, quotations), prefer primary documents or reputable historical scholarship.
+
+
+## References

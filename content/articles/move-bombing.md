@@ -21,7 +21,7 @@ Philadelphia police dropped a bomb on the MOVE organization's house, killing 11 
 |------|-------|
 | 1985 | Police bombed residential neighborhood |
 
-## References
+
 
 [^1]: Wikipedia, "MOVE Bombing" - https://en.wikipedia.org/wiki/MOVE_Bombing
 
@@ -59,3 +59,6 @@ Philadelphia police dropped a bomb on the MOVE organization's house, killing 11 
 ## Additional References
 
 [^2]: MOVE Commission (Philadelphia), public investigation and findings (commonly summarized in secondary sources).
+
+
+## References

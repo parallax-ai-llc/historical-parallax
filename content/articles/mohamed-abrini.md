@@ -22,7 +22,7 @@ Belgian-Moroccan terrorist known as the 'Man in the Hat' who was involved in bot
 | 2015 | Involved in planning and logistics for Paris attacks |
 | 2022 | Sentenced to 30 years for Paris and Brussels attacks |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Abrini" - https://en.wikipedia.org/wiki/Mohamed_Abrini
 
@@ -49,3 +49,6 @@ The "Man in the Hat" identification became a prominent visual marker in the Brus
 ## Further reading
 
 - Wikipedia overview and citations in the linked entry[^1]
+
+
+## References

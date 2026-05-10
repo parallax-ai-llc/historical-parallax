@@ -5,7 +5,7 @@ birth: "1974-01-21"
 death: "N/A"
 nationality: "Germany / New Zealand"
 occupation: ["Cybercriminal", "Internet Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Kim_Dotcom-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Dotcom"
 lastUpdated: "2026-02-21"

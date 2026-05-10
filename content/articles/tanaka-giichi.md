@@ -24,7 +24,7 @@ While primarily a military and political figure, Tanaka Giichi as Prime Minister
 | 1927 | Became Prime Minister of Japan |
 | 1929 | Died in Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Tanaka Giichi" - https://en.wikipedia.org/wiki/Tanaka_Giichi
 
@@ -53,3 +53,6 @@ Tanaka Giichi is remembered as a figure at the intersection of Japan’s militar
 - Taishō democracy and early Shōwa politics
 - Civil–military relations in Imperial Japan
 - Japanese policy in China and Manchuria
+
+
+## References

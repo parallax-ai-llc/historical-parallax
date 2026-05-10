@@ -23,7 +23,7 @@ Indonesian military occupation of East Timor from 1975-1999 that killed an estim
 | 1991 | Santa Cruz massacre |
 | 1999 | Independence referendum, militia violence |
 
-## References
+
 
 [^1]: Wikipedia, "East Timor Genocide" - https://en.wikipedia.org/wiki/East_Timor_Genocide
 
@@ -52,3 +52,6 @@ In 1999, a UN-sponsored referendum supported independence. The period around the
 - Indonesian invasion of East Timor
 - Santa Cruz massacre
 - East Timor independence referendum, 1999
+
+
+## References

@@ -44,10 +44,13 @@ In later years he periodically made public statements about security and governa
 
 Allegations connected to the coup era and political violence have followed Danjuma’s public profile for decades, with critics asserting complicity in or knowledge of killings during periods of military rule. Such claims are politically charged and are often discussed in the broader context of Nigeria’s unresolved accountability for coup-period abuses.
 
-## References
+
 
 [^1]: Wikipedia, "Theophilus Yakubu Danjuma" - https://en.wikipedia.org/wiki/Theophilus_Yakubu_Danjuma
 
 ## See also
 
 - Nigerian military coups (1960s–1970s)
+
+
+## References

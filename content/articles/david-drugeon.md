@@ -21,7 +21,7 @@ French al-Qaeda bomb maker killed in US airstrike in Syria.
 |------|-------|
 | 2015 | Killed in US airstrike |
 
-## References
+
 
 [^1]: Wikipedia, "David Drugeon" - https://en.wikipedia.org/wiki/David_Drugeon
 
@@ -58,3 +58,6 @@ French al-Qaeda bomb maker killed in US airstrike in Syria.
 ## Additional References
 
 [^2]: Wikipedia, "Khorasan group" - https://en.wikipedia.org/wiki/Khorasan_group
+
+
+## References

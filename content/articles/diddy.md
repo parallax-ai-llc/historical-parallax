@@ -21,7 +21,7 @@ Music mogul Sean Combs arrested on federal charges of racketeering, sex traffick
 |------|-------|
 | 2024 | Arrested on federal charges |
 
-## References
+
 
 [^1]: Wikipedia, "Diddy" - https://en.wikipedia.org/wiki/Diddy
 
@@ -58,3 +58,6 @@ Music mogul Sean Combs arrested on federal charges of racketeering, sex traffick
 ## Further Reading
 
 - Wikipedia overview and chronology: https://en.wikipedia.org/wiki/Diddy
+
+
+## References

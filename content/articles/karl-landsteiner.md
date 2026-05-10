@@ -5,7 +5,7 @@ birth: "1868-06-14"
 death: "1943-06-26"
 nationality: "Austrian-American"
 occupation: ["Biologist", "Physician", "Immunologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Karl_Landsteiner_nobel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Landsteiner"
 lastUpdated: "2026-02-21"

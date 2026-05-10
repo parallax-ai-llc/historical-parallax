@@ -5,7 +5,7 @@ birth: "1972-06-25"
 death: "Unknown"
 nationality: "Libya"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Saif_al-Islam_Gaddafi_2021.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seif_al-Islam_Gaddafi"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Son of Muammar Gaddafi who was convicted in absentia of war crimes during the 20
 | 2017 | Released by Zintan militia |
 | 2021 | Attempted to run for president |
 
-## References
+
 
 [^1]: Wikipedia, "Seif al-Islam Gaddafi" - https://en.wikipedia.org/wiki/Seif_al-Islam_Gaddafi
 
@@ -48,3 +48,6 @@ Son of Muammar Gaddafi who was convicted in absentia of war crimes during the 20
 - Later attempts to re-enter politics—including efforts linked to elections—have been framed as part of a broader contest over Libya’s post-Gaddafi identity and the durability of old-regime networks.
 - His candidacy efforts also intersect with ongoing questions about legal eligibility, security conditions, and international recognition.
 - In many summaries, his continued visibility is treated as evidence that unresolved civil-war outcomes can keep former elites politically relevant for years.
+
+
+## References

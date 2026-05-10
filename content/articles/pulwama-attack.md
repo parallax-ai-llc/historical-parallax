@@ -22,7 +22,7 @@ Suicide car bombing by Jaish-e-Mohammed that killed 40 Indian CRPF personnel in 
 | 2019 | 40 CRPF personnel killed |
 | 2019 | India conducted retaliatory Balakot airstrikes |
 
-## References
+
 
 [^1]: Wikipedia, "Pulwama Attack" - https://en.wikipedia.org/wiki/Pulwama_Attack
 
@@ -51,3 +51,6 @@ Pulwama remains a key case study in discussions of militant violence in Kashmir,
 - Kashmir conflict
 - Jaish-e-Mohammed
 - 2019 India–Pakistan standoff
+
+
+## References

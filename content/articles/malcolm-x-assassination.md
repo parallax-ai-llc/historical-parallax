@@ -22,7 +22,7 @@ Malcolm X was assassinated by Nation of Islam members while giving a speech in M
 | 1965 | Malcolm X assassinated |
 | 2021 | Two convictions overturned |
 
-## References
+
 
 [^1]: Wikipedia, "Malcolm X Assassination" - https://en.wikipedia.org/wiki/Malcolm_X_Assassination
 
@@ -51,3 +51,6 @@ Malcolm X's assassination remains a defining moment in the history of the U.S. c
 - Civil rights movement in the United States
 - Nation of Islam (history)
 - Wrongful convictions and post-conviction review
+
+
+## References

@@ -21,7 +21,7 @@ British troops under General Dyer fired on a peaceful gathering of thousands in 
 |------|-------|
 | 1919 | British troops massacred civilians |
 
-## References
+
 
 [^1]: Wikipedia, "Amritsar Jallianwala Bagh Massacre" - https://en.wikipedia.org/wiki/Amritsar_Jallianwala_Bagh_Massacre
 
@@ -76,3 +76,6 @@ British troops under General Dyer fired on a peaceful gathering of thousands in 
 - **1919-04 (early):** arrests and unrest in Punjab; restrictions on gatherings.
 - **1919-04-13:** firing at Jallianwala Bagh in Amritsar.
 - **1919 (late):** Hunter Commission hearings and report; Dyer relieved of duties.
+
+
+## References

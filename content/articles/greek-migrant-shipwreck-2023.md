@@ -21,7 +21,7 @@ A fishing trawler carrying up to 750 migrants sank off the Greek coast killing a
 |------|-------|
 | 2023 | Approximately 600 drowned |
 
-## References
+
 
 [^1]: Wikipedia, "Greek Migrant Shipwreck 2023" - https://en.wikipedia.org/wiki/Greek_Migrant_Shipwreck_2023
 
@@ -72,3 +72,6 @@ After major shipwrecks, discussion and investigation commonly focus on:
 
 ## Humanitarian impact
 Beyond immediate loss of life, such disasters affect families across multiple countries and can prompt renewed calls for safer pathways, improved rescue capacity, and coordinated international policy.
+
+
+## References

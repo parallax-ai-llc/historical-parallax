@@ -5,7 +5,7 @@ birth: "1975-05-25"
 death: "Unknown"
 nationality: "Peru"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/260406-MITIN-KEIKO-PIURA-064_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Keiko_Fujimori"
 lastUpdated: "2026-02-21"

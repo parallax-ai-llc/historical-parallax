@@ -5,7 +5,7 @@ birth: "1986-12-27"
 death: "Unknown"
 nationality: "Jamaican"
 occupation: ["Athlete", "Olympic Champion", "Sprinter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Women%27s_100_m-_Beijing_2015.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shelly-Ann_Fraser-Pryce"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Shelly-Ann Fraser-Pryce won back-to-back Olympic 100m titles in 2008 and 2012. S
 | 2012 | Won second consecutive 100m gold |
 | 2022 | Ran 10.60s at age 35 |
 
-## References
+
 
 [^1]: Wikipedia, "Shelly-Ann Fraser-Pryce" - https://en.wikipedia.org/wiki/Shelly-Ann_Fraser-Pryce
 
@@ -54,3 +54,6 @@ Fraser-Pryce is commonly discussed alongside other Jamaican sprint legends as pa
 ## Legacy
 
 Her legacy is often summarized as a blend of Olympic titles, sustained championship performance, and an example of elite longevity in women’s sprinting.
+
+
+## References

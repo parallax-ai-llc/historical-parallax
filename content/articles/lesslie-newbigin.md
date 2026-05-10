@@ -5,7 +5,7 @@ birth: "1909-12-08"
 death: "1998-01-30"
 nationality: "British"
 occupation: ["Bishop", "Theologian", "Missionary"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/77/BishopLesslieNewbigin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lesslie_Newbigin"
 lastUpdated: "2026-02-21"

@@ -6,7 +6,7 @@ location: "Tonbridge, England"
 coordinates: [-0.27, 51.19]
 category: ["Crime", "United Kingdom"]
 outcome: "£53 million stolen; largest cash robbery in UK"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Securitas_Depot%2C_Vale_Road%2C_Tonbridge%2C_Kent_-_geograph.org.uk_-_1124839-Optimised.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Securitas_depot_robbery"
 lastUpdated: "2026-02-26"
@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 2006-02-22 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -48,3 +48,6 @@ This event had significant impact on law enforcement practices, public policy, a
 
 ## Why It Matters
 The case is often cited as a benchmark for UK cash-robbery risk and as an example of how coercion against families can bypass conventional physical security.
+
+
+## References

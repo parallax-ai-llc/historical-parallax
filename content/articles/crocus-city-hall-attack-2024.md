@@ -21,7 +21,7 @@ ISIS-K gunmen attacked the Crocus City Hall concert venue near Moscow, killing 1
 |------|-------|
 | 2024 | 145 killed in concert hall attack |
 
-## References
+
 
 [^1]: Wikipedia, "Crocus City Hall Attack 2024" - https://en.wikipedia.org/wiki/Crocus_City_Hall_Attack_2024
 
@@ -61,3 +61,6 @@ In the aftermath, Russian authorities reported detentions and arrests of suspect
 - **Method**: Firearms attack and arson
 - **Reported death toll**: 145
 - **Claim**: ISIS-K
+
+
+## References

@@ -23,7 +23,7 @@ Sudanese serial killer who murdered at least 7 people in the Minneapolis area be
 | 2006 | Arrested by FBI |
 | 2009 | Sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Mohammad Adam Omar" - https://en.wikipedia.org/wiki/Mohammad_Adam_Omar
 
@@ -48,3 +48,6 @@ Sudanese serial killer who murdered at least 7 people in the Minneapolis area be
 - Minneapolis–Saint Paul crime history
 - Federal criminal prosecution
 - Forensic evidence
+
+
+## References

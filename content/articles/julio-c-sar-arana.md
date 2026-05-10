@@ -21,7 +21,7 @@ Peruvian rubber baron who enslaved and murdered tens of thousands of indigenous 
 |------|-------|
 | 1907 | Putumayo atrocities exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Julio César Arana" - https://en.wikipedia.org/wiki/Julio_C%C3%A9sar_Arana
 
@@ -70,3 +70,6 @@ These abuses are commonly summarized under the term “Putumayo atrocities.”
 
 [^2]: Britannica (biographical reference where available) - https://www.britannica.com/
 [^3]: Historical overviews of the Putumayo scandal (various authors; commonly cited in scholarship)
+
+
+## References

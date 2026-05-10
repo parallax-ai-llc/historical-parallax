@@ -22,7 +22,7 @@ Congolese warlord who led NDC militia and ordered mass rape of over 300 civilian
 | 2010 | Ordered mass rape of over 300 civilians in Walikale territory |
 | 2020 | Convicted of war crimes by Congolese military court |
 
-## References
+
 
 [^1]: Wikipedia, "Ntabo Ntaberi Sheka" - https://en.wikipedia.org/wiki/Ntabo_Ntaberi_Sheka
 
@@ -48,3 +48,6 @@ The conviction has been cited as a notable example of domestic accountability fo
 
 [^2]: Coverage of the 2010 Walikale events by international organizations and major media outlets
 [^3]: Reporting on the 2020 Congolese military court verdict and sentencing
+
+
+## References

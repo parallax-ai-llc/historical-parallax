@@ -19,7 +19,7 @@ Not a well-documented enough figure. Skip.
 |------|-------|
 | 1930 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Research Notes (Data Quality)
@@ -83,3 +83,6 @@ When researching, search for:
 - **Verified location of activity:** (unknown)
 - **Verified primary identifier:** (unknown)
 - **Verified major cases / convictions:** (unknown)
+
+
+## References

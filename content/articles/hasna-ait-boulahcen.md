@@ -21,7 +21,7 @@ French woman initially reported to be Europe's first female suicide bomber durin
 |------|-------|
 | 2015 | Killed in Saint-Denis raid linked to Paris attacks |
 
-## References
+
 
 [^1]: Wikipedia, "Hasna Ait Boulahcen" - https://en.wikipedia.org/wiki/Hasna_Ait_Boulahcen
 
@@ -56,3 +56,6 @@ French woman initially reported to be Europe's first female suicide bomber durin
 
 [^2]: Wikipedia, "Abdelhamid Abaaoud" - https://en.wikipedia.org/wiki/Abdelhamid_Abaaoud
 [^3]: Wikipedia, "2015 Saint-Denis raid" - https://en.wikipedia.org/wiki/2015_Saint-Denis_raid
+
+
+## References

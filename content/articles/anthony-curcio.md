@@ -23,7 +23,7 @@ American bank robber who orchestrated an elaborate Brink's armored car heist usi
 | 2009 | Arrested after an accomplice cooperated |
 | 2009 | Sentenced to 6 years in federal prison |
 
-## References
+
 
 [^1]: Wikipedia, "Anthony Curcio" - https://en.wikipedia.org/wiki/Anthony_Curcio
 
@@ -51,3 +51,6 @@ The planning also highlights how criminals can outsource small tasks (assembling
 
 - social engineering
 - misdirection tactics in crime
+
+
+## References

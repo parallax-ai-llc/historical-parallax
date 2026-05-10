@@ -21,7 +21,7 @@ British brigadier who ordered the Jallianwala Bagh massacre in Amritsar, killing
 |------|-------|
 | 1919 | Ordered Amritsar massacre killing hundreds |
 
-## References
+
 
 [^1]: Wikipedia, "Reginald Dyer" - https://en.wikipedia.org/wiki/Reginald_Dyer
 
@@ -57,3 +57,6 @@ British brigadier who ordered the Jallianwala Bagh massacre in Amritsar, killing
 ## Additional References
 
 [^2]: Encyclopaedia Britannica, "Amritsar Massacre" - https://www.britannica.com/event/Amritsar-Massacre
+
+
+## References

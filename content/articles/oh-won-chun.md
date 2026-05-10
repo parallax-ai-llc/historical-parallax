@@ -21,7 +21,7 @@ South Korean murderer who killed and dismembered a Chinese woman, consuming part
 |------|-------|
 | 2012 | Convicted of murder and cannibalism |
 
-## References
+
 
 [^1]: Wikipedia, "Oh Won-chun" - https://en.wikipedia.org/wiki/Oh_Won-chun
 
@@ -54,3 +54,6 @@ This article contains references to extreme violence (murder, dismemberment) and
 - Arrest details and investigative timeline.
 - Specific charges, sentence length, and any appeals.
 - Confirmed spelling/romanization and Korean name (Hangul) for cross-referencing sources.
+
+
+## References

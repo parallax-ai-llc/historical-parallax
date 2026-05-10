@@ -24,7 +24,7 @@ South African president who enforced apartheid and authorized cross-border milit
 | 1989 | Resigned after stroke |
 | 1998 | Convicted of contempt for refusing to appear before TRC |
 
-## References
+
 
 [^1]: Wikipedia, "Pieter Willem Botha" - https://en.wikipedia.org/wiki/Pieter_Willem_Botha
 
@@ -51,3 +51,6 @@ Botha’s legacy is widely viewed through the lens of apartheid’s repression a
 ## Related Terms
 
 - **Apartheid**: South Africa’s system of institutionalized racial segregation and discrimination (1948–1994).
+
+
+## References

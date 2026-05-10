@@ -21,7 +21,7 @@ Founder of Archegos Capital convicted of fraud after his fund's collapse caused 
 |------|-------|
 | 2021 | Archegos collapsed causing $36 billion market losses |
 
-## References
+
 
 [^1]: Wikipedia, "Bill Hwang" - https://en.wikipedia.org/wiki/Bill_Hwang
 
@@ -61,3 +61,6 @@ Founder of Archegos Capital convicted of fraud after his fund's collapse caused 
 - Archegos Capital Management[^1]
 - Prime brokerage (risk management)
 - Total return swap (equity derivatives)
+
+
+## References

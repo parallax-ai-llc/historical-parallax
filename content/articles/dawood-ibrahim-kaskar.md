@@ -23,7 +23,7 @@ Indian crime lord who heads D-Company, one of the world's most powerful criminal
 | 1993 | Orchestrated serial bombings in Bombay |
 | 2003 | Designated as global terrorist by US and India |
 
-## References
+
 
 [^1]: Wikipedia, "Dawood Ibrahim Kaskar" - https://en.wikipedia.org/wiki/Dawood_Ibrahim_Kaskar
 
@@ -62,3 +62,6 @@ Public sources frequently state that Ibrahim is believed to be outside India, wi
 
 - His profile is often cited in discussions about the relationship between organized crime, illicit finance, and regional security.
 - The 1993 bombings remain a major reference point in India’s modern history of terrorism and urban violence.
+
+
+## References

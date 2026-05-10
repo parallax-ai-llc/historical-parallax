@@ -5,7 +5,7 @@ birth: "1912-08-29"
 death: "2002-11-15"
 nationality: "Korean"
 occupation: ["Marathon runner", "Sports scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sohn_Kee-chung_1936.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sohn_Kee-chung"
 lastUpdated: "2026-02-21"

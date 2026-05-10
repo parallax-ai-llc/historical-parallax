@@ -47,7 +47,7 @@ Al-Qaeda operative and Guantanamo detainee who became an AQAP leader after relea
   - The role of **media/propaganda** in establishing or signaling status within militant groups.
   - The difficulty of separating verified court record facts from later claims in conflict-zone reporting.
 
-## References
+
 
 [^1]: Wikipedia, "Ibrahim al-Qosi" - https://en.wikipedia.org/wiki/Ibrahim_al-Qosi
 
@@ -62,3 +62,6 @@ Al-Qaeda operative and Guantanamo detainee who became an AQAP leader after relea
 - Guantánamo Bay detention policy and transfer mechanisms
 - AQAP’s media strategy and propaganda outputs
 - Challenges of verification in conflict-zone reporting
+
+
+## References

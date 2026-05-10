@@ -23,7 +23,7 @@ American businesswoman convicted of conspiracy, obstruction, and lying to federa
 | 2004 | Convicted of obstruction and lying; sentenced to 5 months |
 | 2005 | Released from prison; rebuilt brand |
 
-## References
+
 
 [^1]: Wikipedia, "Martha Stewart" - https://en.wikipedia.org/wiki/Martha_Stewart
 
@@ -48,3 +48,6 @@ In business-history discussions, her trajectory is often used to highlight how b
 ## Broader significance
 
 The episode is frequently referenced in conversations about white-collar prosecution, the consequences of misleading investigators, and how high-profile cases can shape public perceptions of fairness in financial regulation.
+
+
+## References

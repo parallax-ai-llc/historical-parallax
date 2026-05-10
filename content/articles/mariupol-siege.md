@@ -42,10 +42,13 @@ Mariupol is a strategic port city on the Sea of Azov. During Russia's full-scale
 
 Following the city's capture, questions about civilian deaths, deportations, and treatment of prisoners became part of broader international investigations and debates. Multiple governments and international bodies have discussed potential war-crime allegations related to attacks on civilian infrastructure; legal determinations depend on evidence gathering and judicial proceedings.
 
-## References
+
 
 [^1]: Wikipedia, "Mariupol Siege" - https://en.wikipedia.org/wiki/Mariupol_Siege
 
 ## See also
 
 - Russian invasion of Ukraine (2022)
+
+
+## References

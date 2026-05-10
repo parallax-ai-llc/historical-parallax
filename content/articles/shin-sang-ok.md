@@ -5,7 +5,7 @@ birth: "1926-10-18"
 death: "2006-04-11"
 nationality: "South Korea"
 occupation: ["Kidnap Victim"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/19660529%E7%94%B3%E7%9B%B8%E7%8E%89.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shin_Sang-ok"
 lastUpdated: "2026-02-26"

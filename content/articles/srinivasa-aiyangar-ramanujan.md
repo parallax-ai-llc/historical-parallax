@@ -21,7 +21,7 @@ Duplicate - see Srinivasa Ramanujan.
 |------|-------|
 | 1887 | Born in Erode |
 
-## References
+
 
 [^1]: Wikipedia, "Srinivasa Aiyangar Ramanujan" - https://en.wikipedia.org/wiki/Srinivasa_Aiyangar_Ramanujan
 
@@ -54,3 +54,6 @@ This entry duplicates the better-known spelling "Srinivasa Ramanujan"; however, 
 ### Suggested Internal Link
 
 If your site has a separate canonical article, consider linking readers to the main "Srinivasa Ramanujan" page for a full biography and bibliography.
+
+
+## References

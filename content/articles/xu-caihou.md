@@ -22,7 +22,7 @@ Former vice chairman of China's Central Military Commission who sold military pr
 | 2014 | Expelled from CPC for corruption |
 | 2015 | Died of bladder cancer before trial |
 
-## References
+
 
 [^1]: Wikipedia, "Xu Caihou" - https://en.wikipedia.org/wiki/Xu_Caihou
 
@@ -50,3 +50,6 @@ Former vice chairman of China's Central Military Commission who sold military pr
 - 연도/지명/기관명/직함 등 고유명사와 시계열을 교차 검증합니다.
 - 핵심 수치(금액, 인원, 기간)는 원출처 또는 다수 출처에서 일치하는지 확인합니다.
 - 판결문, 공식 보고서, 학술 논문, 기업 공시 등은 요약의 안정적인 근거가 됩니다.
+
+
+## References

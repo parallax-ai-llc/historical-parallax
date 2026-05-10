@@ -23,7 +23,7 @@ Explosion at BPs Texas City refinery on March 23, 2005 that killed 15 workers an
 | 2007 | BP fined $21 million by OSHA |
 | 2010 | BP agreed to $50.6 million fine |
 
-## References
+
 
 [^1]: Wikipedia, "Texas City Refinery Explosion" - https://en.wikipedia.org/wiki/Texas_City_Refinery_Explosion
 
@@ -49,3 +49,6 @@ Explosion at BPs Texas City refinery on March 23, 2005 that killed 15 workers an
 ## Further Reading
 
 - See the reference link(s) above for expanded detail and primary sourcing.
+
+
+## References

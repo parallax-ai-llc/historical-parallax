@@ -22,7 +22,7 @@ Russian opposition leader and former deputy PM who was shot dead near the Kremli
 | 2015 | Shot dead near Kremlin |
 | 2017 | Five Chechens convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Boris Nemtsov" - https://en.wikipedia.org/wiki/Boris_Nemtsov
 
@@ -75,3 +75,6 @@ Nemtsov's assassination is frequently discussed as an inflection point illustrat
 ## Ongoing debate
 
 Even after convictions for the direct perpetrators, debate has persisted about who ordered the killing and why. This gap between court outcomes and public satisfaction has contributed to the enduring resonance of the case.
+
+
+## References

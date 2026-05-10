@@ -24,7 +24,7 @@ French physicist and chemist who, with Frédéric Joliot-Curie, helped establish
 | 1935 | Shared Nobel Prize in Chemistry with Frédéric Joliot-Curie |
 | 1950s | Senior scientific leadership and public responsibilities |
 
-## References
+
 
 [^1]: Wikipedia, "Irène Joliot-Curie" - https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie
 
@@ -53,3 +53,6 @@ Her career unfolded amid major events including two world wars and rapid shifts 
 ## Legacy
 
 Joliot-Curie is remembered as a bridge figure: connected to the foundational Curie discoveries through family and institution, while also representing the next phase in which radioactivity became a tool for creating new substances and probing the structure of matter. Her Nobel-recognized work remains a core reference point in the history of nuclear science.
+
+
+## References

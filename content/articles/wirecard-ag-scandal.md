@@ -22,7 +22,7 @@ German payment company that fabricated €1.9 billion in non-existent cash balan
 | 2019 | FT investigation exposed fraud |
 | 2020 | Company collapsed; €1.9 billion missing |
 
-## References
+
 
 [^1]: Wikipedia, "Wirecard AG Scandal" - https://en.wikipedia.org/wiki/Wirecard_AG_Scandal
 
@@ -48,3 +48,6 @@ The collapse prompted inquiries into the roles of the company’s auditor, regul
 The Wirecard case is widely cited as a landmark corporate-fraud episode in modern Germany.
 It highlighted how complex international payment structures and reliance on counterparties can be used to obscure financial reality.
 It also influenced debates over whistleblowing, short-selling restrictions, and the supervision of financial reporting.
+
+
+## References

@@ -23,7 +23,7 @@ South Korean serial killer who poisoned at least 6 people with cyanide-laced dri
 | 1994 | Arrested |
 | 1997 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Sun-ja" - https://en.wikipedia.org/wiki/Kim_Sun-ja
 
@@ -50,3 +50,6 @@ South Korean serial killer who poisoned at least 6 people with cyanide-laced dri
 - Wikipedia article linked above for a starting overview.
 - Forensic toxicology references on cyanide detection and poisoning investigations.
 - Korean crime-history compilations for comparative context.
+
+
+## References

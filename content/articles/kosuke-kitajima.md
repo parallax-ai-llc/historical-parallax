@@ -5,7 +5,7 @@ birth: "1982-09-22"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Olympic Champion", "Swimmer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kitajima-2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kosuke_Kitajima"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Kosuke Kitajima won double breaststroke gold at both 2004 and 2008 Olympics.
 | 2004 | Won double gold at Athens |
 | 2008 | Won double gold at Beijing |
 
-## References
+
 
 [^1]: Wikipedia, "Kosuke Kitajima" - https://en.wikipedia.org/wiki/Kosuke_Kitajima
 
@@ -54,3 +54,6 @@ He is frequently cited in discussions of Japan’s modern swimming era as an exa
 ## Notes
 
 This article is intentionally high-level and can be expanded further with meet-by-meet results and verified record progressions.
+
+
+## References

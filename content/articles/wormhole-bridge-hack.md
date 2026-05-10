@@ -22,7 +22,7 @@ Hackers exploited a vulnerability in the Wormhole cross-chain bridge to steal $3
 | 2022 | $320 million stolen from Wormhole bridge |
 | 2023 | Hacker wallet identified but funds not recovered |
 
-## References
+
 
 [^1]: Wikipedia, "Wormhole Bridge Hack" - https://en.wikipedia.org/wiki/Wormhole_Bridge_Hack
 
@@ -48,3 +48,6 @@ The reported loss figure of roughly $320 million made it one of the larger DeFi 
 
 The hack reinforced a broader lesson in crypto security: interoperability layers can concentrate risk.
 It is frequently cited in discussions about audit quality, defense-in-depth, and the difficulty of securing complex cross-chain designs.
+
+
+## References

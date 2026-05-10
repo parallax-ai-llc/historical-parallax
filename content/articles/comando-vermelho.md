@@ -22,7 +22,7 @@ Red Command, one of Brazil's oldest criminal organizations controlling drug traf
 | 1979 | Founded in Ilha Grande prison |
 | 2010 | Controlled major Rio favelas |
 
-## References
+
 
 [^1]: Wikipedia, "Comando Vermelho" - https://en.wikipedia.org/wiki/Comando_Vermelho
 
@@ -49,3 +49,6 @@ The organization is frequently cited in analyses of Brazilian public security be
 
 - Prison dynamics can strongly shape organized crime on the outside.
 - Territorial control and illicit revenue streams reinforce faction longevity.
+
+
+## References

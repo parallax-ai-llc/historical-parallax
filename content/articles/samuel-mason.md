@@ -22,7 +22,7 @@ American river pirate who terrorized travelers along the Natchez Trace and Ohio 
 | 1797 | Began river piracy |
 | 1803 | Beheaded by former associates |
 
-## References
+
 
 [^1]: Wikipedia, "Samuel Mason" - https://en.wikipedia.org/wiki/Samuel_Mason
 
@@ -49,3 +49,6 @@ American river pirate who terrorized travelers along the Natchez Trace and Ohio 
 
 - 독자가 오해하기 쉬운 용어는 한 줄 정의로 보완합니다.
 - 동음이의/유사 개념이 있다면 구분 기준을 제시합니다.
+
+
+## References

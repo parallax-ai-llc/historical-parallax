@@ -22,7 +22,7 @@ Former President of Ecuador convicted of embezzlement for mishandling the 1999 b
 | 1998 | Became President |
 | 2000 | Overthrown amid economic crisis |
 
-## References
+
 
 [^1]: Wikipedia, "Jamil Mahuad" - https://en.wikipedia.org/wiki/Jamil_Mahuad
 
@@ -50,3 +50,6 @@ Former President of Ecuador convicted of embezzlement for mishandling the 1999 b
 ## Notes
 
 This entry is a high-level summary and does not quantify losses or enumerate all policy decrees.
+
+
+## References

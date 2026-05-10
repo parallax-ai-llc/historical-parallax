@@ -21,7 +21,7 @@ Swedish woman manipulated by pastor Helge Fossmo into committing murder in the K
 |------|-------|
 | 2004 | Convicted of murder in Knutby cult case |
 
-## References
+
 
 [^1]: Wikipedia, "Sara Svensson" - https://en.wikipedia.org/wiki/Sara_Svensson
 
@@ -55,3 +55,6 @@ The Knutby case remained a touchstone in Swedish public debate about:
 - Media portrayals of "cult" dynamics versus ordinary religious life
 
 Over time, the events have been revisited through books, documentaries, and dramatizations, keeping Svensson’s name closely associated with the case rather than any later public role.
+
+
+## References

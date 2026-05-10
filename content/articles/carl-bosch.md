@@ -24,7 +24,7 @@ Carl Bosch industrialized the Haber process for ammonia synthesis and shared the
 | 1931 | Nobel Prize |
 | 1940 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Carl Bosch" - https://en.wikipedia.org/wiki/Carl_Bosch
 
@@ -51,3 +51,6 @@ In scientific history, Bosch is remembered as an engineer-chemist who helped def
 Biographical accounts often emphasize Bosch’s role as a “scale-up” pioneer: he translated a fragile laboratory reaction into a robust industrial platform, which is a distinct technical skill from discovery science.
 
 The long-run impact of ammonia synthesis is sometimes summarized in demographic terms, because modern fertilizer availability is closely linked to 20th-century food production.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1905-09-30"
 death: "1982-10-22"
 nationality: "France"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Savitri_Devi%2C_circa_1937_%283x4_cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Savitri_Devi"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ French-Greek Nazi sympathizer who merged Hinduism with Nazism and became a key f
 | 1958 | Published 'The Lightning and the Sun' |
 | 1982 | Died in England |
 
-## References
+
 
 [^1]: Wikipedia, "Savitri Devi" - https://en.wikipedia.org/wiki/Savitri_Devi
 
@@ -49,3 +49,6 @@ Biographical datasets sometimes use coarse occupation labels (e.g., “terrorist
 ## Further reading
 
 - Wikipedia entry and cited academic works discussing her role in post-war extremist networks.
+
+
+## References

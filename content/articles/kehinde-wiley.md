@@ -5,7 +5,7 @@ birth: "1977-02-28"
 death: "Unknown"
 nationality: "American"
 occupation: ["Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kehinde_Wiley_%282015%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kehinde_Wiley"
 lastUpdated: "2026-02-21"

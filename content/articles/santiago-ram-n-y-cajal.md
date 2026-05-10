@@ -5,7 +5,7 @@ birth: "1852-05-01"
 death: "1934-10-17"
 nationality: "Spanish"
 occupation: ["Neuroscientist", "Pathologist", "Histologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Santiago_Ram%C3%B3n_y_Cajal_%281852-1934%29_portrait_%28restored%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal"
 lastUpdated: "2026-02-21"

@@ -23,7 +23,7 @@ William Campbell is an Irish-American parasitologist who shared the 2015 Nobel P
 | 1978 | Developed ivermectin |
 | 2015 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "William Campbell" - https://en.wikipedia.org/wiki/William_Campbell
 
@@ -55,3 +55,6 @@ Campbell is frequently discussed in the context of how targeted drug discovery c
 
 - Onchocerciasis (river blindness)
 - Antiparasitic drug discovery
+
+
+## References

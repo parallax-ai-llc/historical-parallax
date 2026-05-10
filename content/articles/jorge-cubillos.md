@@ -35,7 +35,7 @@ Colombian cocaine smuggler who pioneered the use of narco-submarines to transpor
 - Interdiction cases commonly include charges for conspiracy to manufacture or operate unregistered vessels for trafficking purposes, alongside drug trafficking counts.
 - Seizures of semi-submersibles have been used by authorities to illustrate the engineering adaptation of trafficking networks in response to enforcement pressure.
 
-## References
+
 
 [^1]: Wikipedia, "Jorge Cubillos" - https://en.wikipedia.org/wiki/Jorge_Cubillos
 
@@ -48,3 +48,6 @@ Colombian cocaine smuggler who pioneered the use of narco-submarines to transpor
 ## Notes
 
 This entry summarizes commonly reported characteristics of narco-submersibles and interdiction practices, in addition to the individual profile.
+
+
+## References

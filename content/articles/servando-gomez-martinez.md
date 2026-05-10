@@ -5,7 +5,7 @@ birth: "1966-02-06"
 death: "N/A (Imprisoned)"
 nationality: "Mexico"
 occupation: ["Drug Lord", "Knights Templar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Servando_G%C3%B3mez_Mart%C3%ADnez.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Servando_G%C3%B3mez_Mart%C3%ADnez"
 lastUpdated: "2026-02-21"

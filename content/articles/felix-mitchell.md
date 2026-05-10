@@ -23,7 +23,7 @@ American drug lord who controlled the heroin trade in East Oakland in the 1980s.
 | 1985 | Convicted of drug conspiracy; sentenced to life |
 | 1986 | Stabbed to death in Leavenworth prison |
 
-## References
+
 
 [^1]: Wikipedia, "Felix Mitchell" - https://en.wikipedia.org/wiki/Felix_Mitchell
 
@@ -48,3 +48,6 @@ American drug lord who controlled the heroin trade in East Oakland in the 1980s.
 - Oakland (California) drug market history
 - U.S. federal drug conspiracy law (general overview)
 - Street-gang organizational structures
+
+
+## References

@@ -23,7 +23,7 @@ Raiden Tameemon had the highest winning percentage in sumo history (96.2%) with 
 | 1794 | Won first tournament championship |
 | 1811 | Retired with 254-10 record |
 
-## References
+
 
 [^1]: Wikipedia, "Raiden Tameemon" - https://en.wikipedia.org/wiki/Raiden_Tameemon
 
@@ -51,3 +51,6 @@ Raiden Tameemon had the highest winning percentage in sumo history (96.2%) with 
 
 - Sumo rankings (banzuke)
 - Yokozuna (sumo)
+
+
+## References

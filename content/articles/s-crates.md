@@ -22,7 +22,7 @@ Sócrates captained Brazil's 1982 WC team and led the Corinthians Democracy move
 | 1982 | Captained Brazil at World Cup |
 | 2011 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Sócrates" - https://en.wikipedia.org/wiki/S%C3%B3crates
 
@@ -62,3 +62,6 @@ Sócrates captained Brazil's 1982 WC team and led the Corinthians Democracy move
 
 [^2]: Wikipedia, "Sport Club Corinthians Paulista" - https://en.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista
 [^3]: Wikipedia, "1982 FIFA World Cup" - https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+
+
+## References

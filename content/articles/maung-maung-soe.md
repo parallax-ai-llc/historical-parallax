@@ -22,7 +22,7 @@ Myanmar general who commanded the Western Command during the 2017 Rohingya genoc
 | 2017 | Commanded forces during Rohingya genocide operations |
 | 2018 | Sanctioned by US Treasury for genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Maung Maung Soe" - https://en.wikipedia.org/wiki/Maung_Maung_Soe
 
@@ -49,3 +49,6 @@ Myanmar general who commanded the Western Command during the 2017 Rohingya genoc
 
 - Rohingya crisis
 - Targeted sanctions
+
+
+## References

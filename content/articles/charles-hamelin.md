@@ -22,7 +22,7 @@ Charles Hamelin won five Olympic medals including gold in 1500m at both 2010 and
 | 2010 | Won 500m and relay gold at Vancouver |
 | 2014 | Won 1500m gold at Sochi |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Hamelin" - https://en.wikipedia.org/wiki/Charles_Hamelin
 
@@ -49,3 +49,6 @@ Charles Hamelin won five Olympic medals including gold in 1500m at both 2010 and
 ## Related Topics
 
 - Short track rules, penalty systems, and relay formats strongly shape medal outcomes and are often essential context when reviewing race results.
+
+
+## References

@@ -23,7 +23,7 @@ American arms dealer who founded Interarms, once the world's largest private arm
 | 1960 | Became largest private arms dealer in the world |
 | 1998 | Died in Monaco |
 
-## References
+
 
 [^1]: Wikipedia, "Samuel Cummings" - https://en.wikipedia.org/wiki/Samuel_Cummings
 
@@ -49,3 +49,6 @@ Such debates typically involve export licensing, embargo compliance, and the cha
 
 Cummings remains a frequently cited figure in histories of private arms dealing because Interarms became a reference point for scale.
 His name is also used as an example in discussions about how private actors can influence conflict dynamics through supply.
+
+
+## References

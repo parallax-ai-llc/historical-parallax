@@ -22,7 +22,7 @@ Chinese artist and activist detained by authorities for 81 days without charge a
 | 2011 | Detained for 81 days without charge |
 | 2014 | Had passport returned and left China |
 
-## References
+
 
 [^1]: Wikipedia, "Ai Weiwei Persecution" - https://en.wikipedia.org/wiki/Ai_Weiwei_Persecution
 
@@ -61,3 +61,6 @@ The persecution narrative is often presented as both a personal experience and a
 - Ai Weiwei
 - Freedom of expression in China
 - Censorship and surveillance
+
+
+## References

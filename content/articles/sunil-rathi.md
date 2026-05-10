@@ -21,7 +21,7 @@ Indian gang leader who allegedly murdered gangster Munna Bajrangi inside Baghpat
 |------|-------|
 | 2018 | Alleged murder of rival in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Sunil Rathi" - https://en.wikipedia.org/wiki/Sunil_Rathi
 
@@ -56,3 +56,6 @@ Sunil Rathi’s name is commonly mentioned in connection with this incident as a
 
 [^2]: Wikipedia, "Munna Bajrangi" - https://en.wikipedia.org/wiki/Munna_Bajrangi
 [^3]: Wikipedia, "Baghpat district" (context for location) - https://en.wikipedia.org/wiki/Baghpat_district
+
+
+## References

@@ -22,7 +22,7 @@ American who assassinated President Garfield in 1881. Shot him at a train statio
 | 1881 | Shot Garfield |
 | 1882 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Guiteau" - https://en.wikipedia.org/wiki/Charles_Guiteau
 
@@ -50,3 +50,6 @@ American who assassinated President Garfield in 1881. Shot him at a train statio
 
 - The event is frequently revisited in biographies of Garfield and in histories of the Gilded Age.
 - Primary sources include trial transcripts and contemporary newspaper coverage.
+
+
+## References

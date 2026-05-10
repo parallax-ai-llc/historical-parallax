@@ -22,7 +22,7 @@ Founder of Abraaj Group convicted of defrauding investors including the Bill & M
 | 2018 | Arrested |
 | 2023 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Arif Naqvi" - https://en.wikipedia.org/wiki/Arif_Naqvi
 
@@ -60,3 +60,6 @@ The Abraaj collapse is often discussed for its implications in:
 ## Additional Reading
 
 [^2]: Wikipedia (background), "Abraaj Group" - https://en.wikipedia.org/wiki/Abraaj_Group
+
+
+## References

@@ -22,7 +22,7 @@ Tijuana Cartel enforcer known as 'El Teo' notorious for dissolving victims in ac
 | 2008 | Led faction responsible for extreme violence in Tijuana |
 | 2010 | Arrested by Mexican authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Teodoro García Simental" - https://en.wikipedia.org/wiki/Teodoro_Garc%C3%ADa_Simental
 
@@ -50,3 +50,6 @@ After his arrest, García Simental became part of broader narratives about Mexic
 - Tijuana Cartel
 - Mexican Drug War
 - Organized crime in Baja California
+
+
+## References

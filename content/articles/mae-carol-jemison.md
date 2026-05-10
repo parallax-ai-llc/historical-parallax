@@ -22,7 +22,7 @@ Duplicate.
 | 1956 | Born |
 | 1992 | Flew |
 
-## References
+
 
 [^1]: Wikipedia, "Mae Carol Jemison" - https://en.wikipedia.org/wiki/Mae_Carol_Jemison
 
@@ -53,3 +53,6 @@ These notes add high-level, factual context based on widely available public sum
 ## References (additional)
 
 - The linked Wikipedia page in the frontmatter is a starting point and typically aggregates citations to other sources.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1898-11-01"
 death: "1972-12-31"
 nationality: "Indian"
 occupation: ["Physicist", "Spectroscopist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Kotcherlakota_Rangadhama_Rao.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kotcherlakota_Rangadhama_Rao"
 lastUpdated: "2026-02-21"

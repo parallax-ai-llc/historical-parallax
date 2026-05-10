@@ -21,7 +21,7 @@ French investigation into Congo atrocities that was suppressed to protect coloni
 |------|-------|
 | 1905 | Report on Congo atrocities suppressed |
 
-## References
+
 
 [^1]: Wikipedia, "Savorgnan de Brazza Mission" - https://en.wikipedia.org/wiki/Savorgnan_de_Brazza_Mission
 
@@ -52,3 +52,6 @@ Later historians and commentators have treated the Savorgnan de Brazza mission a
 - Concessionary company regimes in Central Africa
 - Colonial forced labor systems
 - International criticism of Congo Free State and neighboring colonial administrations
+
+
+## References

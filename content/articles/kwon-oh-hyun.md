@@ -5,7 +5,7 @@ birth: "1952-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Electrical engineer", "Semiconductor executive"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Crystal_Clear_app_Login_Manager_2.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kwon_Oh-hyun"
 lastUpdated: "2026-02-21"

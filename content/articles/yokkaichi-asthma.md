@@ -22,7 +22,7 @@ Industrial air pollution in Yokkaichi caused severe respiratory illness in thous
 | 1960 | Pollution-related illness became epidemic |
 | 1972 | Companies found liable |
 
-## References
+
 
 [^1]: Wikipedia, "Yokkaichi Asthma" - https://en.wikipedia.org/wiki/Yokkaichi_Asthma
 
@@ -52,3 +52,6 @@ Key themes in the aftermath include:
 - Industrial emissions control and monitoring.
 - Broader public awareness of the health costs of rapid industrial growth.
 
+
+
+## References

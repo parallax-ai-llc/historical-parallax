@@ -23,7 +23,7 @@ Mexican drug lord known as 'El Azul' (The Blue One) who was a key leader of the 
 | 2000 | Mediated cartel conflicts |
 | 2014 | Reportedly died of heart attack; unconfirmed |
 
-## References
+
 
 [^1]: Wikipedia, "Juan José Esparragoza Moreno" - https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Esparragoza_Moreno
 
@@ -72,3 +72,6 @@ The unresolved nature of the 2014 death reports is frequently cited as an exampl
 ## Place in Mexico’s cartel history
 
 “El Azul” is typically mentioned in timelines that track the transition from older cartel structures into shifting alliances and “federation” models, especially as the Mexican drug-war period intensified and organizations fractured into competing splinters.
+
+
+## References

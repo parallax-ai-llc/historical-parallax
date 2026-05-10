@@ -23,7 +23,7 @@ Robbery of $5.8 million from the Lufthansa cargo terminal at JFK Airport on Dece
 | 1979 | Most participants murdered |
 | 2014 | Vincent Asaro charged |
 
-## References
+
 
 [^1]: Wikipedia, "Lufthansa Heist" - https://en.wikipedia.org/wiki/Lufthansa_Heist
 
@@ -50,3 +50,6 @@ Robbery of $5.8 million from the Lufthansa cargo terminal at JFK Airport on Dece
 ## Source Notes
 - This entry is currently short and should be treated as a starting point rather than a definitive account.
 - If a cited link becomes unavailable or resolves to a placeholder page, add an archived copy and alternative reputable sources.
+
+
+## References

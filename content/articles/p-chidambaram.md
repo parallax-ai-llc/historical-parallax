@@ -21,7 +21,7 @@ Indian finance minister arrested for money laundering in the INX Media case.
 |------|-------|
 | 2019 | Arrested for money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "P. Chidambaram" - https://en.wikipedia.org/wiki/P._Chidambaram
 
@@ -55,3 +55,6 @@ This profile is often summarized through the lens of high-profile investigations
 
 - Wikipedia overview and timeline: https://en.wikipedia.org/wiki/P._Chidambaram
 - Rajya Sabha member profile (official): https://rajyasabha.nic.in (search: "P. Chidambaram")
+
+
+## References

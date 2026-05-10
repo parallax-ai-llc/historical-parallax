@@ -24,7 +24,7 @@ Prominent Laotian civil society leader and recipient of the Ramon Magsaysay Awar
 | 2013 | Laotian government denied involvement |
 | 2024 | Fate remains unknown |
 
-## References
+
 
 [^1]: Wikipedia, "Sombath Somphone" - https://en.wikipedia.org/wiki/Sombath_Somphone
 
@@ -53,3 +53,6 @@ Somphone’s disappearance remains a notable unresolved case in Southeast Asia a
 - Civil society leader recognized for community development work.
 - Disappeared in Vientiane in 2012; CCTV footage is widely discussed.
 - Case remains unresolved and is a focus of international advocacy.
+
+
+## References

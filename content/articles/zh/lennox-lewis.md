@@ -1,6 +1,6 @@
 ---
 id: "lennox-lewis"
-name: "兰尼·刘易斯"
+name: "伦诺克斯·刘易斯"
 birth: "1965-09-02"
 death: "Unknown"
 nationality: "British/Canadian"
@@ -13,7 +13,7 @@ lastUpdated: "2026-02-21"
 
 ## 简介
 
-兰尼·刘易斯是20世纪最后一位无可争议的重量级拳王。他赢得了1988年奥运会金牌，并击败了泰森、霍利菲尔德和克里琴科。
+伦诺克斯·刘易斯是20世纪最后一位无可争议的重量级冠军。他赢得了1988年奥运金牌，并击败了泰森、霍利菲尔德和克利琴科。
 
 ## 职业生涯时间线
 
@@ -26,4 +26,4 @@ lastUpdated: "2026-02-21"
 
 ## 参考资料
 
-[^1]: 维基百科，“兰尼·刘易斯” - https://en.wikipedia.org/wiki/Lennox_Lewis
+[^1]: Wikipedia, "Lennox Lewis" - https://en.wikipedia.org/wiki/Lennox_Lewis

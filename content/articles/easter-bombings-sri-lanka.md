@@ -22,7 +22,7 @@ ISIS-inspired suicide bombers attacked three churches and three luxury hotels in
 | 2019 | Six coordinated bombings killed 269 people |
 | 2019 | Government blamed NTJ with ISIS links |
 
-## References
+
 
 [^1]: Wikipedia, "Easter Bombings Sri Lanka" - https://en.wikipedia.org/wiki/Easter_Bombings_Sri_Lanka
 
@@ -50,3 +50,6 @@ ISIS-inspired suicide bombers attacked three churches and three luxury hotels in
 
 - National Thowheeth Jama’ath (NTJ)
 - Islamic State (ISIS)
+
+
+## References

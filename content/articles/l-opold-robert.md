@@ -21,7 +21,7 @@ Swiss serial killer who poisoned multiple people in Geneva.
 |------|-------|
 | 1903 | Convicted of serial poisoning |
 
-## References
+
 
 [^1]: Wikipedia, "Léopold Robert" - https://en.wikipedia.org/wiki/L%C3%A9opold_Robert
 
@@ -68,3 +68,6 @@ If this repo intends to document criminals rather than artists, the following ar
 ## Additional References
 
 - Encyclopædia Britannica (1911) entry mentioned by Wikipedia (public domain text), via the Wikipedia article.
+
+
+## References

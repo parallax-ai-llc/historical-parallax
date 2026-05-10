@@ -5,7 +5,7 @@ birth: "1642-03-01"
 death: "1708-12-05"
 nationality: "Japanese"
 occupation: ["Mathematician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Seki.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seki_Kowa"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Duplicate of Seki Takakazu.
 | 1642 | Born |
 | 1708 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Seki Kowa" - https://en.wikipedia.org/wiki/Seki_Kowa
 
@@ -49,3 +49,6 @@ Because much of Seki’s work circulated in manuscript form and through later co
 ## References (additional)
 
 [^2]: General overviews of Edo-period wasan and Seki’s role (see academic histories of Japanese mathematics that discuss Seki Takakazu / Seki Kōwa).
+
+
+## References

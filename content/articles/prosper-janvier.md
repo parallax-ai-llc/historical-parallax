@@ -22,7 +22,7 @@ Haitian military commander who participated in violent repression during the Duv
 | 1963 | Participated in Tonton Macoutes operations targeting opponents |
 | 1971 | Continued military operations under Jean-Claude Duvalier |
 
-## References
+
 
 [^1]: Wikipedia, "Prosper Janvier" - https://en.wikipedia.org/wiki/Prosper_Janvier
 
@@ -49,3 +49,6 @@ Biographical entries like Janvier’s are often used to illustrate how military 
 This article is a high-level stub based on widely cited secondary summaries. For detailed claims, consult specialized histories of Haiti’s security forces and contemporaneous documentation.
 
 Where sources disagree, prefer the most transparent accounts that cite primary evidence.
+
+
+## References

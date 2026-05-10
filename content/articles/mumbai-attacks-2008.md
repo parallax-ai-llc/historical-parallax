@@ -38,7 +38,7 @@ It took days for the NSG (National Security Guard) commandos to arrive from Delh
 
 ---
 
-## References
+
 
 - **The Siege: 68 Hours Inside the Taj Hotel** (Cathy Scott-Clark & Adrian Levy)
 - **Hotel Mumbai** (Film)
@@ -51,3 +51,6 @@ India’s investigation linked the attackers to Pakistan-based militant networks
 
 The event is frequently cited as a turning point in modern terrorism coverage: a multi-site assault designed to maximize duration, media visibility, and tactical complexity rather than a single, instantaneous blast.
 
+
+
+## References

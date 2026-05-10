@@ -24,7 +24,7 @@ Serbian and Yugoslav president who instigated the Yugoslav Wars of the 1990s, le
 | 2001 | Arrested and sent to The Hague |
 | 2006 | Died in detention during trial |
 
-## References
+
 
 [^1]: Wikipedia, "Slobodan Milošević" - https://en.wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87
 
@@ -63,3 +63,6 @@ In post-Yugoslav politics, his era is often used as a reference point in debates
 - Yugoslav Wars
 - Kosovo War
 - Dayton Agreement
+
+
+## References

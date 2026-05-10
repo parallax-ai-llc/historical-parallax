@@ -22,7 +22,7 @@ Hidilyn Diaz won the first Olympic gold medal for the Philippines in weightlifti
 | 2016 | Won Olympic silver at Rio |
 | 2021 | Won Olympic gold at Tokyo — Philippines' first |
 
-## References
+
 
 [^1]: Wikipedia, "Hidilyn Diaz" - https://en.wikipedia.org/wiki/Hidilyn_Diaz
 
@@ -50,3 +50,6 @@ Media coverage around Diaz has emphasized the importance of coaching, internatio
 ## Legacy
 
 Diaz is widely remembered as a pioneer for Philippine Olympic achievement and a reference point for subsequent generations of Filipino lifters and multi-sport athletes aiming for podium finishes.
+
+
+## References

@@ -21,7 +21,7 @@ Bastille Day 2016 truck attack on Promenade des Anglais in Nice killing 86 peopl
 |------|-------|
 | 2016 | 86 killed |
 
-## References
+
 
 [^1]: Wikipedia, "Nice Truck Attack" - https://en.wikipedia.org/wiki/Nice_Truck_Attack
 
@@ -52,3 +52,6 @@ Bastille Day 2016 truck attack on Promenade des Anglais in Nice killing 86 peopl
 ## Notes on Sources
 
 - For verifiable specifics (perpetrator identity, exact injury totals, court outcomes, and timelines), consult the linked Wikipedia entry and its cited primary sources.
+
+
+## References

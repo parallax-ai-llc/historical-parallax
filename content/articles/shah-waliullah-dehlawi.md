@@ -5,7 +5,7 @@ birth: "1703-02-21"
 death: "1762-08-20"
 nationality: "Indian"
 occupation: ["Scholar", "Reformer", "Sufi"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Grave_of_Shah_Waliullah_Dehlawi.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shah_Waliullah_Dehlawi"
 lastUpdated: "2026-02-21"

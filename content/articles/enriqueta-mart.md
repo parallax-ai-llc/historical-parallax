@@ -23,7 +23,7 @@ Spanish serial killer known as the 'Vampire of Barcelona' who kidnapped, prostit
 | 1912 | Arrested after neighbor saw captive child |
 | 1913 | Found dead in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Enriqueta Martí" - https://en.wikipedia.org/wiki/Enriqueta_Mart%C3%AD
 
@@ -50,3 +50,6 @@ Spanish serial killer known as the 'Vampire of Barcelona' who kidnapped, prostit
 
 - Barcelona social history in the early 1900s
 - Urban legends and sensational crime reporting
+
+
+## References

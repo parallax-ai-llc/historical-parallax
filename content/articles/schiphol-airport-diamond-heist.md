@@ -21,7 +21,7 @@ Armed men stole $118 million worth of diamonds from an armoured KLM cargo truck 
 |------|-------|
 | 2005 | $118 million in diamonds stolen |
 
-## References
+
 
 [^1]: Wikipedia, "Schiphol Airport Diamond Heist" - https://en.wikipedia.org/wiki/Schiphol_Airport_Diamond_Heist
 
@@ -70,3 +70,6 @@ In broader context, the heist illustrates how insider knowledge, timing, and cre
 ## Further Reading
 
 - Wikipedia's overview aggregates a basic narrative and links to external reporting. See [^1].
+
+
+## References

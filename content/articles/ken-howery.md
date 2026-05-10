@@ -3,6 +3,7 @@ name: Ken Howery
 birth: "1975"
 nationality: American
 occupation: ["Entrepreneur", "Venture Capitalist", "Diplomat"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/77/United_States_Ambassador_to_Denmark_Kenneth_Alan_Howery.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ken_Howery"
 lastUpdated: "2025-12-22"

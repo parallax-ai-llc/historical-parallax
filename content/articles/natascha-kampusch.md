@@ -44,10 +44,13 @@ Her case is often cited in discussions about:
 - long-term support needs for survivors of prolonged captivity
 - responsible media coverage of victims of violent crime
 
-## References
+
 
 [^1]: Wikipedia, "Natascha Kampusch" - https://en.wikipedia.org/wiki/Natascha_Kampusch
 
 ## See Also
 
 - Missing-person investigations in Europe (case-study discussions)
+
+
+## References

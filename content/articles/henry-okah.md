@@ -21,7 +21,7 @@ Nigerian militant leader convicted in South Africa of car bombings that killed 1
 |------|-------|
 | 2013 | Convicted of Abuja bombings |
 
-## References
+
 
 [^1]: Wikipedia, "Henry Okah" - https://en.wikipedia.org/wiki/Henry_Okah
 
@@ -66,3 +66,6 @@ Okah’s case is frequently referenced in discussions of:
 ## Notes on Sources
 
 This article summarizes high-level facts from the linked Wikipedia entry and commonly reported public context around the Niger Delta conflict. For detailed, claim-by-claim verification, consult primary court records and contemporaneous reporting.
+
+
+## References

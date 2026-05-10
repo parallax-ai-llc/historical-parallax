@@ -21,7 +21,7 @@ Private security guards stole $282 million from the Dar Es Salaam bank in Baghda
 |------|-------|
 | 2007 | $282 million stolen from Baghdad bank |
 
-## References
+
 
 [^1]: Wikipedia, "Baghdad Bank Robbery 2007" - https://en.wikipedia.org/wiki/Baghdad_Bank_Robbery_2007
 
@@ -58,3 +58,6 @@ Private security guards stole $282 million from the Dar Es Salaam bank in Baghda
 ## Notes on Sources
 
 Many short summaries of this event trace back to a small number of secondary accounts; where different retellings disagree on details, the most consistent claims are the **inside-job involvement** and the **~$282M figure**.
+
+
+## References

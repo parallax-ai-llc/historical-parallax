@@ -21,7 +21,7 @@ Iranian human rights lawyer sentenced to 38 years and 148 lashes for defending w
 |------|-------|
 | 2019 | Sentenced to 38 years in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Nasrin Sotoudeh" - https://en.wikipedia.org/wiki/Nasrin_Sotoudeh
 
@@ -58,3 +58,6 @@ Sotoudeh is especially associated with legal defense work involving:
 
 [^2]: *Nasrin* (documentary) — overview referenced in Wikipedia: https://en.wikipedia.org/wiki/Nasrin_Sotoudeh
 [^3]: Sakharov Prize (2012) — referenced in Wikipedia: https://en.wikipedia.org/wiki/Nasrin_Sotoudeh
+
+
+## References

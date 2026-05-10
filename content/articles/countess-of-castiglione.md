@@ -21,7 +21,7 @@ Italian noblewoman employed as a spy and seductress by Napoleon III to influence
 |------|-------|
 | 1856 | Sent to seduce Napoleon III |
 
-## References
+
 
 [^1]: Wikipedia, "Countess of Castiglione" - https://en.wikipedia.org/wiki/Countess_of_Castiglione
 
@@ -81,3 +81,6 @@ To keep this article factual at a high level:
 
 [^2]: Britannica, "Virginia Oldoini, Countess of Castiglione" - https://www.britannica.com/biography/Virginia-Oldoini-Countess-of-Castiglione
 [^3]: Metropolitan Museum of Art (Heilbrunn Timeline of Art History), "The Countess de Castiglione" (collection and context; where available) - https://www.metmuseum.org/toah/
+
+
+## References

@@ -22,7 +22,7 @@ Ivorian warlord known as 'IB' who led the Invisible Commandos militia during the
 | 2011 | Led Invisible Commandos during Ivorian civil crisis |
 | 2011 | Killed under mysterious circumstances by pro-Ouattara forces |
 
-## References
+
 
 [^1]: Wikipedia, "Ibrahim Coulibaly" - https://en.wikipedia.org/wiki/Ibrahim_Coulibaly
 
@@ -56,3 +56,6 @@ Coverage typically frames Coulibaly as a figure illustrating:
 
 - Ivorian Civil War
 - 2010–2011 Ivorian crisis
+
+
+## References

@@ -24,7 +24,7 @@ Alexander Karelin went undefeated for 13 years in Greco-Roman wrestling, winning
 | 1996 | Won third Olympic gold at Atlanta |
 | 2000 | Lost to Rulon Gardner at Sydney; retired |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Karelin" - https://en.wikipedia.org/wiki/Alexander_Karelin
 
@@ -63,3 +63,6 @@ Karelin’s career is frequently used as a case study in:
 - how long-term **training systems** and specialization shape elite performance
 - the relationship between rule changes and tactics in Greco-Roman wrestling
 - the cultural role of Olympic champions as national symbols
+
+
+## References

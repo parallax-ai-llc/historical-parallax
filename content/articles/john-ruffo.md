@@ -22,7 +22,7 @@ American who orchestrated a $353 million bank fraud and disappeared while on bai
 | 1998 | Convicted; fled before reporting to prison |
 | 2022 | Case featured on TV; remains at large |
 
-## References
+
 
 [^1]: Wikipedia, "John Ruffo" - https://en.wikipedia.org/wiki/John_Ruffo
 
@@ -52,3 +52,6 @@ American who orchestrated a $353 million bank fraud and disappeared while on bai
 
 - This article is a high-level summary based on publicly available reference material (see References).
 - Specific dates, roles, and names should be cross-checked against primary sources when used for research or publication.
+
+
+## References

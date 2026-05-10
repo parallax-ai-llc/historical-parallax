@@ -21,7 +21,7 @@ Elizabeth Holmes claimed Theranos could run 200+ tests from a single drop of blo
 |------|-------|
 | 2015 | WSJ exposed the fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Theranos Blood Testing Fraud" - https://en.wikipedia.org/wiki/Theranos_Blood_Testing_Fraud
 
@@ -56,3 +56,6 @@ Elizabeth Holmes claimed Theranos could run 200+ tests from a single drop of blo
 
 [^2]: Wikipedia, "Theranos" - https://en.wikipedia.org/wiki/Theranos
 [^3]: Wikipedia, "Elizabeth Holmes" - https://en.wikipedia.org/wiki/Elizabeth_Holmes
+
+
+## References

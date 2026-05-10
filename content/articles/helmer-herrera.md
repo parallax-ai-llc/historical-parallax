@@ -19,7 +19,7 @@ Helmer 'Pacho' Herrera was the fourth leader of the Cali Cartel, running its New
 |------|-------|
 | 1951 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background (High-Level)
@@ -59,3 +59,6 @@ Helmer 'Pacho' Herrera was the fourth leader of the Cali Cartel, running its New
 
 ## Notes
 - This article is intentionally high-level; details such as specific routes, front companies, and individual cases vary by source and are best supported with primary court records or reputable investigative reporting.
+
+
+## References

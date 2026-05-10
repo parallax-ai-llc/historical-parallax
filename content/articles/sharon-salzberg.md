@@ -5,7 +5,7 @@ birth: "1952-08-05"
 death: "N/A"
 nationality: "American"
 occupation: ["Author", "Meditation Teacher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sharon_Salzberg_%2849614105351%29.jpg/3840px-Sharon_Salzberg_%2849614105351%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sharon_Salzberg"
 lastUpdated: "2026-02-21"

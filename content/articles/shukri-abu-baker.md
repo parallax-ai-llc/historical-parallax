@@ -21,7 +21,7 @@ CEO of Holy Land Foundation convicted of funneling $12 million to Hamas.
 |------|-------|
 | 2008 | Convicted of material support for Hamas |
 
-## References
+
 
 [^1]: Wikipedia, "Shukri Abu Baker" - https://en.wikipedia.org/wiki/Shukri_Abu_Baker
 
@@ -74,3 +74,6 @@ The summary above includes a dollar amount attributed to the case narrative. In 
 - or amounts argued by one side versus another in court.
 
 For precision, readers should consult court documents and contemporaneous reporting that specify the exact definitions and time windows used for any figure.
+
+
+## References

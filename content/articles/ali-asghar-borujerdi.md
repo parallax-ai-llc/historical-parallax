@@ -23,7 +23,7 @@ Iranian serial killer who murdered at least 19 people in Tehran between 1994 and
 | 1997 | Arrested |
 | 2002 | Executed by hanging |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Asghar Borujerdi" - https://en.wikipedia.org/wiki/Ali_Asghar_Borujerdi
 
@@ -48,3 +48,6 @@ Victim counts in serial cases can vary by source (confirmed convictions vs. susp
 ## References (additional)
 
 [^2]: Case overview and reporting notes, via Wikipedia and linked sources.
+
+
+## References

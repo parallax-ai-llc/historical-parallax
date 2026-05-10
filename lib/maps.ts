@@ -35,6 +35,11 @@ import genocidesMassAtrocitiesLocations from "@/lib/json/genocides-locations.jso
 import heistsLocations from "@/lib/json/heists-locations.json";
 import piratesLocations from "@/lib/json/pirates-locations.json";
 import revolutionsLocations from "@/lib/json/revolutions-locations.json";
+import japanHistoryLocations from "@/lib/json/japan-history-locations.json";
+import chinaHistoryLocations from "@/lib/json/china-history-locations.json";
+import franceHistoryLocations from "@/lib/json/france-history-locations.json";
+import germanyHistoryLocations from "@/lib/json/germany-history-locations.json";
+import italyHistoryLocations from "@/lib/json/italy-history-locations.json";
 
 export interface UfoLocation {
   id: string;
@@ -84,6 +89,11 @@ const mapData: Record<string, UfoLocation[]> = {
   "heists": heistsLocations as UfoLocation[],
   "pirates": piratesLocations as UfoLocation[],
   "revolutions": revolutionsLocations as UfoLocation[],
+  "japan-history": japanHistoryLocations as UfoLocation[],
+  "china-history": chinaHistoryLocations as UfoLocation[],
+  "france-history": franceHistoryLocations as UfoLocation[],
+  "germany-history": germanyHistoryLocations as UfoLocation[],
+  "italy-history": italyHistoryLocations as UfoLocation[],
 };
 
 // Custom initial view for specific maps
@@ -111,6 +121,26 @@ const mapViewConfigs: Record<string, MapViewConfig> = {
   "religious-conflicts": {
     center: [20.0, 40.0], // Europe / Middle East centered
     zoom: 1.8,
+  },
+  "japan-history": {
+    center: [138.0, 36.0], // Japan
+    zoom: 4,
+  },
+  "china-history": {
+    center: [105.0, 35.0], // China
+    zoom: 3,
+  },
+  "france-history": {
+    center: [2.5, 46.5], // France
+    zoom: 5,
+  },
+  "germany-history": {
+    center: [10.0, 51.0], // Germany
+    zoom: 5,
+  },
+  "italy-history": {
+    center: [12.0, 42.0], // Italy
+    zoom: 5,
   },
 };
 
@@ -243,6 +273,31 @@ export const MAP_CATEGORIES = [
     description: "Major events and figures from the Joseon Dynasty to modern Korea.",
   },
   {
+    id: "japan-history",
+    name: "Japanese History",
+    description: "Key figures in Japanese history from samurai warriors to modern leaders and innovators.",
+  },
+  {
+    id: "china-history",
+    name: "Chinese History",
+    description: "Important figures in Chinese history spanning imperial dynasties to modern era — philosophers, emperors, and revolutionaries.",
+  },
+  {
+    id: "france-history",
+    name: "French History",
+    description: "Influential figures in French history from kings and emperors to revolutionaries and intellectuals.",
+  },
+  {
+    id: "germany-history",
+    name: "German History",
+    description: "Key figures in German history from medieval rulers to modern politicians and scientists.",
+  },
+  {
+    id: "italy-history",
+    name: "Italian History",
+    description: "Important figures in Italian history from Roman emperors to Renaissance masters and modern leaders.",
+  },
+  {
     id: "revolutions",
     name: "Revolutions & Independence",
     description: "From the American and French Revolutions to the Arab Spring — the uprisings, independence movements, and regime changes that redrew the political map.",
@@ -326,4 +381,4 @@ export const MAP_CATEGORIES = [
     name: "UFOs & Mysteries",
     description: "Visualizing verified historic anomalies and close encounters.",
   },
-];
+].sort((a, b) => a.name.localeCompare(b.name));

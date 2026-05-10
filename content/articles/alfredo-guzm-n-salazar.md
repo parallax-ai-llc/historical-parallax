@@ -21,7 +21,7 @@ Son of El Chapo who co-leads Los Chapitos faction of the Sinaloa Cartel.
 |------|-------|
 | 2023 | Arrested as Los Chapitos leader |
 
-## References
+
 
 [^1]: Wikipedia, "Alfredo Guzmán Salazar" - https://en.wikipedia.org/wiki/Alfredo_Guzm%C3%A1n_Salazar
 
@@ -79,3 +79,6 @@ Specific claims about roles, timelines, and operational responsibility can vary 
 
 ## Broader significance
 High-profile cartel-family narratives are often used to discuss larger issues: state capacity, corruption risk, U.S.–Mexico security cooperation, and the evolution of synthetic-drug markets.
+
+
+## References

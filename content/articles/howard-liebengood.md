@@ -21,7 +21,7 @@ Capitol Police officer who died by suicide three days after the January 6 attack
 |------|-------|
 | 2021 | Died by suicide after J6 |
 
-## References
+
 
 [^1]: Wikipedia, "Howard Liebengood" - https://en.wikipedia.org/wiki/Howard_Liebengood
 
@@ -49,3 +49,6 @@ Capitol Police officer who died by suicide three days after the January 6 attack
 
 - Liebengood’s death has been cited in public discussions about trauma exposure, occupational stress, and mental health support for law enforcement.
 - In the post–January 6 period, the well-being of frontline security personnel became a recurring topic alongside operational and leadership accountability.
+
+
+## References

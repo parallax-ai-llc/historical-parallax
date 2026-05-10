@@ -22,7 +22,7 @@ Italian revolutionary who attempted to assassinate Napoleon III on January 14, 1
 | 1858 | Attempted assassination of Napoleon III in Paris |
 | 1858 | Executed by guillotine |
 
-## References
+
 
 [^1]: Wikipedia, "Félice Orsini" - https://en.wikipedia.org/wiki/F%C3%A9lice_Orsini
 
@@ -51,3 +51,6 @@ Italian revolutionary who attempted to assassinate Napoleon III on January 14, 1
 ## References (Additional)
 
 [^2]: For context on Napoleon III and Italian unification politics, see standard histories of mid-19th-century France and the Risorgimento.
+
+
+## References

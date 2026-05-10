@@ -5,7 +5,7 @@ birth: "1936-03-10"
 death: "Unknown"
 nationality: "Switzerland"
 occupation: ["Corrupt Sports Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/%D0%99%D0%BE%D0%B7%D0%B5%D1%84_%D0%91%D0%BB%D0%B0%D1%82%D1%82%D0%B5%D1%80.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sepp_Blatter"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ FIFA president for 17 years who resigned amid a massive corruption scandal. Bann
 | 1998 | Became FIFA president |
 | 2015 | Resigned amid corruption scandal |
 
-## References
+
 
 [^1]: Wikipedia, "Sepp Blatter" - https://en.wikipedia.org/wiki/Sepp_Blatter
 
@@ -48,3 +48,6 @@ Assessments of Blatter’s legacy tend to split between:
 ## References (additional)
 
 [^2]: U.S. Department of Justice press releases and case summaries related to the 2015 FIFA investigation (for the broader context of the scandal).
+
+
+## References

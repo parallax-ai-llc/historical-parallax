@@ -22,7 +22,7 @@ Guinea's founding president created a totalitarian regime that used Camp Boiro d
 | 1958 | Established authoritarian regime upon independence |
 | 1984 | Died after 26 years of brutal one-party rule |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmed Sékou Touré Regime" - https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9_Regime
 
@@ -52,3 +52,6 @@ The regime’s legacy remains contested inside and outside Guinea: it is remembe
 
 [^2]: Britannica, "Ahmed Sékou Touré" (background on Guinea’s post-1958 political system) - https://www.britannica.com/biography/Ahmed-Sekou-Toure
 [^3]: Human Rights Watch / historical reporting on detention practices in Guinea (context on political imprisonment; see publications and country histories) - https://www.hrw.org/
+
+
+## References

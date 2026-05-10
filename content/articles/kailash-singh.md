@@ -23,7 +23,7 @@ Indian wildlife smuggler known as the 'Tiger Man' who was one of India's most no
 | 2005 | Arrested for tiger poaching |
 | 2010 | Convicted; sentenced to prison |
 
-## References
+
 
 [^1]: Wikipedia, "Kailash Singh" - https://en.wikipedia.org/wiki/Kailash_Singh
 
@@ -51,3 +51,6 @@ The killing of large predators has ecological effects beyond population counts, 
 ## Notes
 
 Coverage of alleged networks and impacts varies by source; official court records and enforcement statements provide the most reliable chronology for specific claims.
+
+
+## References

@@ -19,7 +19,7 @@ Rajendra Sadashiv Nikalje, known as Chhota Rajan, was an Indian crime boss who s
 |------|-------|
 | 1960 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -60,3 +60,6 @@ Rajendra Sadashiv Nikalje, known as Chhota Rajan, was an Indian crime boss who s
 
 ## External links
 - Wikipedia: https://en.wikipedia.org/wiki/Chhota_Rajan
+
+
+## References

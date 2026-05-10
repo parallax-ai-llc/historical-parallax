@@ -22,7 +22,7 @@ Chinese pirate lord who commanded a fleet of over 400 ships and attempted to con
 | 1574 | Attacked Manila with 3,000 men |
 | 1575 | Defeated by Spanish forces |
 
-## References
+
 
 [^1]: Wikipedia, "Limahong" - https://en.wikipedia.org/wiki/Limahong
 
@@ -50,3 +50,6 @@ Chinese pirate lord who commanded a fleet of over 400 ships and attempted to con
 - Limahong is best remembered for the attempted seizure of Manila in 1574.
 - The episode highlights the vulnerability of early colonial settlements to large-scale maritime raiding.
 - Later details of his fate are often summarized cautiously due to uneven historical documentation.
+
+
+## References

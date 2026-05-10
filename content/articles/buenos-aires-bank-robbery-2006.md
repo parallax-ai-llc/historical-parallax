@@ -21,7 +21,7 @@ Gang used a toy gun and a fake pizza delivery to rob the Banco Río in Acassuso,
 |------|-------|
 | 2006 | $19 million stolen from Banco Río via tunnel |
 
-## References
+
 
 [^1]: Wikipedia, "Buenos Aires Bank Robbery 2006" - https://en.wikipedia.org/wiki/Buenos_Aires_Bank_Robbery_2006
 
@@ -58,3 +58,6 @@ Gang used a toy gun and a fake pizza delivery to rob the Banco Río in Acassuso,
 - Safe deposit box security and audit trails
 - Physical security vs. perimeter response time
 - Tunnel-based escapes in modern robbery planning
+
+
+## References

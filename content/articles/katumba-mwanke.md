@@ -22,7 +22,7 @@ Powerful Congolese political figure and close adviser to President Kabila who wi
 | 2006 | Became Joseph Kabila's most powerful political adviser |
 | 2012 | Died in plane crash in Bukavu |
 
-## References
+
 
 [^1]: Wikipedia, "Katumba Mwanke" - https://en.wikipedia.org/wiki/Katumba_Mwanke
 
@@ -55,3 +55,6 @@ Within analyses of Congolese governance, Mwanke is often used as an example of h
 - Politics of the Kabila era in the DRC
 - Governance and transparency in extractive industries
 - Eastern DRC security dynamics and regional diplomacy
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1504-01-01"
 death: "1551-01-01"
 nationality: "Korean"
 occupation: ["Artist", "Scholar", "Calligrapher"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/41/50000_won_banknote_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shin_Saimdang"
 lastUpdated: "2026-02-21"

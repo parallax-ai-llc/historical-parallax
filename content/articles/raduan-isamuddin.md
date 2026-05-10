@@ -22,7 +22,7 @@ Indonesian terrorist known as Hambali who was the operational chief of Jemaah Is
 | 2002 | Masterminded Bali bombings killing 202 |
 | 2003 | Captured in Thailand |
 
-## References
+
 
 [^1]: Wikipedia, "Raduan Isamuddin" - https://en.wikipedia.org/wiki/Raduan_Isamuddin
 
@@ -49,3 +49,6 @@ Indonesian terrorist known as Hambali who was the operational chief of Jemaah Is
 - The Bali bombings and related attacks prompted significant counterterrorism reforms and regional coordination efforts in Southeast Asia.
 - Hambali’s network connections are commonly used as a case study in how local militant groups can align with global jihadist branding and resources.
 
+
+
+## References

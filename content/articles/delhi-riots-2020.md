@@ -22,7 +22,7 @@ Communal violence in northeast Delhi killed 53 people during protests against th
 | 2020 | Communal riots killed 53 people in northeast Delhi |
 | 2020 | Rights groups alleged police complicity in attacks |
 
-## References
+
 
 [^1]: Wikipedia, "Delhi Riots 2020" - https://en.wikipedia.org/wiki/Delhi_Riots_2020
 
@@ -51,3 +51,6 @@ The 2020 Delhi riots are widely cited in discussions about communal relations in
 ## See Also
 
 Related topics commonly linked to the riots include the CAA protests, communal violence in India, and debates over police accountability.
+
+
+## References

@@ -21,7 +21,7 @@ American actress involved in ski crash lawsuit in Utah.
 |------|-------|
 | 2023 | Won ski crash lawsuit |
 
-## References
+
 
 [^1]: Wikipedia, "Gwyneth Paltrow" - https://en.wikipedia.org/wiki/Gwyneth_Paltrow
 
@@ -52,3 +52,6 @@ Selected widely cited projects include:
 
 - This article is a short biographical stub intended for quick reference.
 - For detailed filmography, awards, and sources beyond Wikipedia, consult the linked reference.
+
+
+## References

@@ -24,7 +24,7 @@ Pierre de Coubertin founded the modern Olympic Games in 1896 and served as presi
 | 1925 | Resigned as IOC president |
 | 1937 | Died in Geneva |
 
-## References
+
 
 [^1]: Wikipedia, "Pierre de Coubertin" - https://en.wikipedia.org/wiki/Pierre_de_Coubertin
 
@@ -55,3 +55,6 @@ Coubertin promoted "Olympism" as an ideal that linked sport to education and int
 Coubertin’s influence on global sport institutions is enduring, but his views have also been criticized. Historians note that some of his positions reflected the social norms of his era, including elitist assumptions and restrictive attitudes toward women’s participation in sport.
 
 Despite these controversies, his central role in founding and shaping the modern Olympics makes him a major figure in the history of international sport.
+
+
+## References

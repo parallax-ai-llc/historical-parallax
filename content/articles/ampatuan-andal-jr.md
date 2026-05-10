@@ -22,7 +22,7 @@ Filipino clan leader who orchestrated the Maguindanao massacre, the deadliest at
 | 2009 | Orchestrated Maguindanao massacre killing 58 |
 | 2019 | Convicted of 57 counts of murder |
 
-## References
+
 
 [^1]: Wikipedia, "Ampatuan Andal Jr." - https://en.wikipedia.org/wiki/Ampatuan_Andal_Jr.
 
@@ -67,3 +67,6 @@ In many accounts of the Maguindanao case, the Ampatuan clan is discussed within 
 ## Notes on counts and totals
 
 Different summaries may report counts (e.g., numbers of victims or counts of conviction) with small variations depending on classification, later court rulings, or how charges were consolidated. When expanding, prefer court judgments or clearly dated reputable reporting.
+
+
+## References

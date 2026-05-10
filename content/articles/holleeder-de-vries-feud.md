@@ -21,7 +21,7 @@ Dutch underworld feud between crime boss Willem Holleeder and journalist Peter d
 |------|-------|
 | 2019 | Holleeder convicted of ordering murders |
 
-## References
+
 
 [^1]: Wikipedia, "Holleeder-De Vries Feud" - https://en.wikipedia.org/wiki/Holleeder-De_Vries_Feud
 
@@ -67,3 +67,6 @@ High-level takeaways that are commonly cited in summaries of the episode include
 - The linked Wikipedia entry is a starting point for names and dates, but it is not itself a primary source.[^1]
 
 [^2]: Wikipedia, "Peter R. de Vries" - https://en.wikipedia.org/wiki/Peter_R._de_Vries
+
+
+## References

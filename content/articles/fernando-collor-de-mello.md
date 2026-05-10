@@ -22,7 +22,7 @@ First directly elected Brazilian president after military rule, impeached for co
 | 1990 | Became President |
 | 1992 | Impeached for corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Fernando Collor de Mello" - https://en.wikipedia.org/wiki/Fernando_Collor_de_Mello
 
@@ -49,3 +49,6 @@ First directly elected Brazilian president after military rule, impeached for co
 ## Notes
 
 This article summarizes widely reported public facts and does not attempt to adjudicate contested claims beyond the public record.
+
+
+## References

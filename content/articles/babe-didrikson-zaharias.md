@@ -23,7 +23,7 @@ Babe Didrikson Zaharias won two Olympic track golds in 1932 then became the grea
 | 1946 | Won first LPGA major |
 | 1956 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Babe Didrikson Zaharias" - https://en.wikipedia.org/wiki/Babe_Didrikson_Zaharias
 
@@ -51,3 +51,6 @@ Didrikson Zaharias is often discussed in the context of:
 ## Additional Notes
 
 In historical rankings and retrospectives, she is frequently used as a reference point for “crossover” athletic greatness—elite performance across materially different sports with different skill demands and competitive circuits.
+
+
+## References

@@ -22,7 +22,7 @@ US Congressman investigated for sex trafficking of a minor. House Ethics Committ
 | 2021 | Investigation revealed |
 | 2024 | Ethics report released |
 
-## References
+
 
 [^1]: Wikipedia, "Matt Gaetz Investigation" - https://en.wikipedia.org/wiki/Matt_Gaetz_Investigation
 
@@ -50,3 +50,6 @@ US Congressman investigated for sex trafficking of a minor. House Ethics Committ
 
 - Congressional ethics
 - Federal criminal investigations
+
+
+## References

@@ -3,6 +3,7 @@ name: "Shane Gillis"
 birth: "1987-12-11"
 nationality: "American"
 occupation: ["Stand-up Comedian", "Actor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Shane_Gillis_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shane_Gillis"
 lastUpdated: "2026-03-12"

@@ -5,7 +5,7 @@ birth: "1949-03-10"
 death: "2015-11-22"
 nationality: "Bangladesh"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/43/Salahuddin_Quader_Chowdhury_press_conference_2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salauddin_Quader_Chowdhury"
 lastUpdated: "2026-02-26"

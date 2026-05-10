@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1968 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Chung Yong-jin dup" - https://en.wikipedia.org/wiki/Chung_Yong-jin_dup
 
@@ -58,3 +58,6 @@ If this entry is kept (instead of merged), it should be expanded with:
 ## Additional References
 
 [^2]: Wikipedia, "Chung Yong-jin" - https://en.wikipedia.org/wiki/Chung_Yong-jin
+
+
+## References

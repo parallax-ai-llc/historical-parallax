@@ -23,7 +23,7 @@ Valerie Adams won Olympic gold at 2008 and 2012 and four consecutive World title
 | 2012 | Won gold at London |
 | 2021 | Won bronze at Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Valerie Adams" - https://en.wikipedia.org/wiki/Valerie_Adams
 
@@ -48,3 +48,6 @@ Valerie Adams won Olympic gold at 2008 and 2012 and four consecutive World title
 - In New Zealand sport, Adams is often cited as a flagship athlete for track and field in the modern era.
 - Her sustained success contributed to the visibility of field events and women’s athletics in Oceania.
 - She is also noted for longevity at the top level, competing across multiple Olympic cycles.
+
+
+## References

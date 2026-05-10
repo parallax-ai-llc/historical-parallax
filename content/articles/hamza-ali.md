@@ -21,7 +21,7 @@ Young Swedish gang leader convicted of murder during Malmö's gang warfare.
 |------|-------|
 | 2021 | Convicted of murder in Malmö gang conflict |
 
-## References
+
 
 [^1]: Wikipedia, "Hamza Ali" - https://en.wikipedia.org/wiki/Hamza_Ali
 
@@ -57,3 +57,6 @@ As a result, parts of this article may reflect an unresolved identity mismatch i
 ## References (additional)
 
 [^2]: Wikipedia (readability extract), "Hamza Ali" — biographical and career details for Hamza Sultan Ali / Hamza Shabbir. https://en.wikipedia.org/wiki/Hamza_Ali
+
+
+## References

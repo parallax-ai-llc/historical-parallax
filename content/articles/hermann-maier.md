@@ -35,7 +35,7 @@ Hermann Maier survived a spectacular Olympic crash then won two golds at 1998 Na
 - **Austrian skiing tradition:** part of a national culture where World Cup and Olympic results carry major public attention.
 - **Performance under pressure:** his success is often framed around execution in championship moments.
 
-## References
+
 
 [^1]: Wikipedia, "Hermann Maier" - https://en.wikipedia.org/wiki/Hermann_Maier
 
@@ -50,3 +50,6 @@ Hermann Maier survived a spectacular Olympic crash then won two golds at 1998 Na
 - Alpine skiing
 - FIS Alpine Ski World Cup
 - Winter Olympic Games
+
+
+## References

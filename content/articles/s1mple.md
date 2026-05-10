@@ -24,7 +24,7 @@ s1mple (Oleksandr Kostyliev) is widely considered the greatest Counter-Strike pl
 | 2021 | Won first CS Major |
 | 2022 | Named HLTV Player of the Year again |
 
-## References
+
 
 [^1]: Wikipedia, "s1mple" - https://en.wikipedia.org/wiki/s1mple
 
@@ -51,3 +51,6 @@ s1mple (Oleksandr Kostyliev) is widely considered the greatest Counter-Strike pl
 
 - a
 - b
+
+
+## References

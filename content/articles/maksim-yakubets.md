@@ -40,7 +40,7 @@ Russian cybercriminal who led the Evil Corp hacking group responsible for steali
 - The case is often cited in discussions about the challenges of cross-border cybercrime enforcement, especially when suspects reside in jurisdictions where extradition is unlikely.
 - The Evil Corp ecosystem is frequently discussed alongside the broader trend of criminal groups blending traditional banking theft with other forms of digital extortion.
 
-## References
+
 
 [^1]: Wikipedia, "Maksim Yakubets" - https://en.wikipedia.org/wiki/Maksim_Yakubets
 
@@ -52,3 +52,6 @@ Russian cybercriminal who led the Evil Corp hacking group responsible for steali
 
 - Dridex
 - Evil Corp
+
+
+## References

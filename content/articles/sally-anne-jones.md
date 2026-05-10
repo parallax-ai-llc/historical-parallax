@@ -37,7 +37,7 @@ She was reported killed in a U.S. strike in 2017. Her case is often cited in dis
 ## Notes on Sources
 
 Specific operational claims vary across reports; readers should prioritize official statements and reputable investigative journalism when evaluating details beyond the broad outline.
-## References
+
 
 [^1]: Wikipedia, "Sally-Anne Jones" - https://en.wikipedia.org/wiki/Sally-Anne_Jones
 
@@ -54,3 +54,6 @@ Specific operational claims vary across reports; readers should prioritize offic
 - Names, dates, and claims should be cross-checked against the cited reference(s).
 - Where events involve crimes or violence, summaries avoid unnecessary graphic detail.
 - For full context, consult multiple reputable sources (official records, major news archives, and scholarly works when available).
+
+
+## References

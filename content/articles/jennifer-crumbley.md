@@ -21,7 +21,7 @@ Mother of Oxford school shooter, first US parent convicted of involuntary mansla
 |------|-------|
 | 2024 | Convicted of involuntary manslaughter |
 
-## References
+
 
 [^1]: Wikipedia, "Jennifer Crumbley" - https://en.wikipedia.org/wiki/Jennifer_Crumbley
 
@@ -62,3 +62,6 @@ Mother of Oxford school shooter, first US parent convicted of involuntary mansla
 - Oxford High School shooting
 - Parental responsibility in criminal negligence cases
 - Involuntary manslaughter (United States)
+
+
+## References

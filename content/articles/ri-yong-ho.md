@@ -21,7 +21,7 @@ North Korean military chief purged early in Kim Jong-un's rule, likely executed.
 |------|-------|
 | 2012 | Purged from all positions |
 
-## References
+
 
 [^1]: Wikipedia, "Ri Yong-ho" - https://en.wikipedia.org/wiki/Ri_Yong-ho
 
@@ -59,3 +59,6 @@ North Korean military chief purged early in Kim Jong-un's rule, likely executed.
 - Kim Jong-un
 - Korean People's Army (KPA)
 - Politics of North Korea
+
+
+## References

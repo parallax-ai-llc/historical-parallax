@@ -59,7 +59,7 @@ The resulting directives established requirements for major-accident hazard cont
 | 1982 | First "Seveso Directive" adopted in Europe, influenced by lessons from the incident |
 | 1996 | Seveso II updates the framework, strengthening requirements for high-risk industrial sites |
 
-## References
+
 
 [^1]: Wikipedia, "Seveso Disaster" - https://en.wikipedia.org/wiki/Seveso_Disaster
 
@@ -86,3 +86,6 @@ The accident’s policy legacy is frequently summarized as:
 - Industrial process safety and major accident hazards
 - European Union chemical safety and environmental regulation
 - Risk communication during public health emergencies
+
+
+## References

@@ -22,7 +22,7 @@ Japan's pachinko industry generates $200 billion annually in a legal gray area. 
 | 1930 | Pachinko industry began |
 | 2000 | North Korean funding connections exposed |
 
-## References
+
 
 [^1]: Wikipedia, "Pachinko Industry" - https://en.wikipedia.org/wiki/Pachinko_Industry
 
@@ -69,3 +69,6 @@ Public health discussions often focus on problem gambling behaviors, household f
 ## Political sensitivity and diaspora narratives
 
 The industry is sometimes discussed in connection with diaspora communities and geopolitical narratives (including claims about remittances). These topics are politically charged, and treatments can vary significantly by source quality and time period.
+
+
+## References

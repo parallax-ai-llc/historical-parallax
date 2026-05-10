@@ -23,7 +23,7 @@ King of Eswatini and Africa's last absolute monarch whose lavish lifestyle contr
 | 2018 | Renamed country from Swaziland to Eswatini |
 | 2021 | Ordered security forces to crack down on pro-democracy protesters |
 
-## References
+
 
 [^1]: Wikipedia, "Mswati III" - https://en.wikipedia.org/wiki/Mswati_III
 
@@ -52,3 +52,6 @@ Periods of protest and unrest, including in 2021, drew attention from regional a
 ## Additional Notes
 
 This article is intended as a concise reference. For deeper detail, consult multiple sources and primary reporting where available, and compare timelines across independent accounts.
+
+
+## References

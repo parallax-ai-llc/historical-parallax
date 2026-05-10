@@ -23,7 +23,7 @@ See Sudesh Amman. British terrorist who stabbed two people in Streatham, London 
 | 2020 | Released from prison |
 | 2020 | Stabbed people in Streatham; shot dead by police |
 
-## References
+
 
 [^1]: Wikipedia, "Amman attacker Sudesh Faraz" - https://en.wikipedia.org/wiki/Amman_attacker_Sudesh_Faraz
 ## Incident Overview
@@ -48,3 +48,6 @@ This article title redirects attention to **Sudesh Amman**, the commonly used na
 
 - **Primary source**: the linked Wikipedia article in References.
 - **Article type**: short biographical overview intended for high-level context.
+
+
+## References

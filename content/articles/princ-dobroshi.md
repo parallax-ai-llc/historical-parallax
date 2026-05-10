@@ -23,7 +23,7 @@ Kosovar Albanian drug lord convicted of running a major heroin trafficking netwo
 | 2006 | Arrested in Czech Republic |
 | 2010 | Convicted in Norway and sentenced to 21 years |
 
-## References
+
 
 [^1]: Wikipedia, "Princ Dobroshi" - https://en.wikipedia.org/wiki/Princ_Dobroshi
 
@@ -49,3 +49,6 @@ This entry is a brief summary; specific allegations, evidentiary details, and ap
 
 - Balkan route
 - Heroin trafficking
+
+
+## References

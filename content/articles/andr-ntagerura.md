@@ -23,7 +23,7 @@ Rwandan transport minister acquitted by the ICTR of genocide charges. Despite hi
 | 1999 | Arrested |
 | 2004 | Acquitted by ICTR of all charges |
 
-## References
+
 
 [^1]: Wikipedia, "André Ntagerura" - https://en.wikipedia.org/wiki/Andr%C3%A9_Ntagerura
 
@@ -48,3 +48,6 @@ Publicly available summaries typically note the acquittal and release; detailed 
 ## Significance
 
 Ntagerura’s case is part of the broader record created by the ICTR, which helped define legal standards and historical narratives about responsibility during the 1994 genocide. Tribunal decisions—both convictions and acquittals—continue to be studied in international criminal law and transitional justice.
+
+
+## References

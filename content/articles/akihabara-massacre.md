@@ -21,7 +21,7 @@ Tomohiro Katō drove a truck into a crowd in Tokyo's Akihabara district and then
 |------|-------|
 | 2008 | 7 killed in vehicle and stabbing attack |
 
-## References
+
 
 [^1]: Wikipedia, "Akihabara Massacre" - https://en.wikipedia.org/wiki/Akihabara_Massacre
 
@@ -53,3 +53,6 @@ Tomohiro Katō drove a truck into a crowd in Tokyo's Akihabara district and then
 - This article treats the event as a single incident entry; exact victim counts and some details can vary slightly across secondary sources.
 
 [^2]: BBC News and other contemporaneous reporting (2008) summarized casualty counts and the sequence of vehicle-then-knife attacks (see also Wikipedia citations).
+
+
+## References

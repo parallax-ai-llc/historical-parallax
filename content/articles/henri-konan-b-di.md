@@ -22,7 +22,7 @@ Former President of Ivory Coast who promoted the xenophobic concept of 'Ivoirit�
 | 1993 | Became President |
 | 1999 | Overthrown in military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Henri Konan Bédié" - https://en.wikipedia.org/wiki/Henri_Konan_B%C3%A9di%C3%A9
 
@@ -59,3 +59,6 @@ Assessments of Bédié’s legacy often focus on two themes:
 
 1. **Institutional continuity vs. accountability:** the transition after 1993 and the durability of patronage structures.
 2. **Identity politics:** how “Ivoirité” contributed to long-running arguments over citizenship and belonging.
+
+
+## References

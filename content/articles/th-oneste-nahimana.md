@@ -22,7 +22,7 @@ Rwandan academic and co-founder of Radio Télévision Libre des Mille Collines w
 | 1994 | Used RTLM radio to incite genocide against Tutsi population |
 | 2003 | Convicted of genocide by ICTR in the landmark 'Media Trial' |
 
-## References
+
 
 [^1]: Wikipedia, "Théoneste Nahimana" - https://en.wikipedia.org/wiki/Th%C3%A9oneste_Nahimana
 
@@ -51,3 +51,6 @@ Rwandan academic and co-founder of Radio Télévision Libre des Mille Collines w
 ## Notes
 
 This article provides high-level context. For precise holdings (counts, standards applied, and appellate modifications), consult the ICTR trial and appeals judgments.
+
+
+## References

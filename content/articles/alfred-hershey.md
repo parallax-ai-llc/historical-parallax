@@ -24,7 +24,7 @@ Alfred Hershey shared the 1969 Nobel Prize and proved that DNA is the genetic ma
 | 1969 | Nobel Prize |
 | 1997 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Alfred Hershey" - https://en.wikipedia.org/wiki/Alfred_Hershey
 
@@ -60,3 +60,6 @@ Hershey shared the **1969 Nobel Prize in Physiology or Medicine** (with Salvador
 ## Legacy
 
 The Hershey–Chase experiment is frequently taught as a “hinge” moment in biology education: it did not by itself create molecular biology, but it provided an influential line of evidence that aligned with other findings and helped make DNA-centered genetics the dominant framework.
+
+
+## References

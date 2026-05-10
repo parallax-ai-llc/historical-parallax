@@ -22,7 +22,7 @@ Sinaloa Cartel co-founder Juan José Esparragoza Moreno known as 'El Azul' who w
 | 1990 | Co-founded Sinaloa Cartel alliance |
 | 2014 | Reportedly died; death never officially confirmed |
 
-## References
+
 
 [^1]: Wikipedia, "El Azul" - https://en.wikipedia.org/wiki/El_Azul
 
@@ -71,3 +71,6 @@ To strengthen a factual record beyond brief summaries, typical verification targ
 ## References (Extended)
 
 - [^1] provides an entry point to names, dates, and linked sources; corroboration from official documents and credible investigative outlets is recommended for any detailed claims.
+
+
+## References

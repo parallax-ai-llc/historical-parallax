@@ -23,7 +23,7 @@ Canelo Álvarez became the undisputed super middleweight champion and one of the
 | 2018 | Won middleweight title from GGG |
 | 2021 | Became undisputed super middleweight champion |
 
-## References
+
 
 [^1]: Wikipedia, "Canelo Álvarez" - https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez
 
@@ -49,3 +49,6 @@ Canelo Álvarez became the undisputed super middleweight champion and one of the
 - Winning major titles in multiple weight classes is often used to summarize his place among contemporary champions.
 - His undisputed championship at super middleweight is a recurring reference point in modern boxing history discussions.
 - Analysts frequently highlight the mix of technical refinement and physical strength that allowed him to compete above his early-career weight.
+
+
+## References

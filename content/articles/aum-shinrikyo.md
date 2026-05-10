@@ -21,7 +21,7 @@ See Shoko Asahara. Japanese doomsday cult responsible for multiple terrorist att
 |------|-------|
 | 1995 | Tokyo subway sarin attack |
 
-## References
+
 
 [^1]: Wikipedia, "Aum Shinrikyo" - https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
@@ -58,3 +58,6 @@ See Shoko Asahara. Japanese doomsday cult responsible for multiple terrorist att
 
 [^2]: Wikipedia, "Tokyo subway sarin attack" - https://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack
 [^3]: Wikipedia, "Shoko Asahara" - https://en.wikipedia.org/wiki/Shoko_Asahara
+
+
+## References

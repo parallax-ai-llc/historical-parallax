@@ -5,7 +5,7 @@ birth: "1979-10-17"
 death: "Unknown"
 nationality: "Finnish"
 occupation: ["Athlete", "Racing Driver"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Kimi Räikkönen, the 'Iceman,' won the 2007 F1 World Championship with Ferrari.
 | 2007 | Won World Championship with Ferrari |
 | 2021 | Retired from F1 after 21 seasons |
 
-## References
+
 
 [^1]: Wikipedia, "Kimi Räikkönen" - https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen
 
@@ -50,3 +50,6 @@ Kimi Räikkönen, the 'Iceman,' won the 2007 F1 World Championship with Ferrari.
 - Wikipedia article linked above for a starting overview.
 - FIA/F1 season summaries for results, regulations, and competitive context.
 - Driver biographies and team histories for a broader motorsport perspective.
+
+
+## References

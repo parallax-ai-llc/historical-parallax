@@ -21,7 +21,7 @@ Union Carbide's pesticide plant leaked methyl isocyanate gas, immediately killin
 |------|-------|
 | 1984 | Gas leak killed thousands |
 
-## References
+
 
 [^1]: Wikipedia, "Bhopal Gas Tragedy" - https://en.wikipedia.org/wiki/Bhopal_Gas_Tragedy
 
@@ -79,3 +79,6 @@ Union Carbide's pesticide plant leaked methyl isocyanate gas, immediately killin
 
 - Encyclopedia Britannica, "Bhopal disaster" - https://www.britannica.com/event/Bhopal-disaster
 - U.S. EPA (general chemical accident prevention background) - https://www.epa.gov/rmp
+
+
+## References

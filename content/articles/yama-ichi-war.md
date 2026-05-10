@@ -22,7 +22,7 @@ Yakuza war between the Yamaguchi-gumi and breakaway Ichiwa-kai that lasted over 
 | 1985 | War began after group split |
 | 1989 | Ichiwa-kai disbanded |
 
-## References
+
 
 [^1]: Wikipedia, "Yama-Ichi War" - https://en.wikipedia.org/wiki/Yama-Ichi_War
 
@@ -48,3 +48,6 @@ Yakuza war between the Yamaguchi-gumi and breakaway Ichiwa-kai that lasted over 
 ## Significance
 
 - The Yama-Ichi War is often referenced as a turning point that intensified public and police focus on large-scale yakuza violence.
+
+
+## References

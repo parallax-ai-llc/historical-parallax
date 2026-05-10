@@ -21,7 +21,7 @@ Last highwayman executed in the United States, originally from Ireland.
 |------|-------|
 | 1822 | Executed as last US highwayman |
 
-## References
+
 
 [^1]: Wikipedia, "Captain Lightfoot" - https://en.wikipedia.org/wiki/Captain_Lightfoot
 
@@ -51,3 +51,6 @@ Last highwayman executed in the United States, originally from Ireland.
 ## Further reading
 
 [^2]: Wikipedia, "Highwayman" - https://en.wikipedia.org/wiki/Highwayman
+
+
+## References

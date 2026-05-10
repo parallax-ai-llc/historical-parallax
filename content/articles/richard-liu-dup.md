@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1973 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Richard Liu dup" - https://en.wikipedia.org/wiki/Richard_Liu_dup
 
@@ -77,3 +77,6 @@ The repository currently cites a single Wikipedia link.
 If that link does not resolve, the citation should be updated to the canonical page title for the intended individual.
 
 [^2]: Repository note: The suffix "dup" commonly denotes a duplicate or temporary record in datasets (interpretation based on filename and in-file summary text, not an external source).
+
+
+## References

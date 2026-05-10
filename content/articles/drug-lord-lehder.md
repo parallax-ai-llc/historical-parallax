@@ -24,7 +24,7 @@ Carlos Lehder, Colombian drug lord and co-founder of the Medellín Cartel who pi
 | 1987 | Sentenced to life plus 135 years |
 | 2020 | Released and deported to Germany |
 
-## References
+
 
 [^1]: Wikipedia, "Drug Lord Lehder" - https://en.wikipedia.org/wiki/Drug_Lord_Lehder
 
@@ -49,3 +49,6 @@ Lehder’s trajectory is used to illustrate how cocaine trafficking in the late 
 - International supply chains
 - Money-laundering infrastructure
 - Violence and corruption as operational tools
+
+
+## References

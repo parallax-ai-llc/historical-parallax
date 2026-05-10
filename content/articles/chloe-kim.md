@@ -43,10 +43,13 @@ Chloe Kim won Olympic halfpipe gold at 2018 and 2022, the youngest female snowbo
 - Media coverage has noted her public profile beyond competitions, including endorsements and appearances that positioned her as one of the most recognizable American winter-sport athletes of her generation.
 - Like many elite athletes, she has managed training cycles around Olympics, world championships, and major invitational events.
 
-## References
+
 
 [^1]: Wikipedia, "Chloe Kim" - https://en.wikipedia.org/wiki/Chloe_Kim
 
 ## See also
 
 - Snowboarding at the Winter Olympics (women’s halfpipe)
+
+
+## References

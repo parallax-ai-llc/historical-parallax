@@ -22,7 +22,7 @@ Cynisca of Sparta was the first woman to win at the ancient Olympics, winning th
 | 396 BC | First woman to win at the ancient Olympics |
 | 392 BC | Won second Olympic chariot victory |
 
-## References
+
 
 [^1]: Wikipedia, "Cynisca of Sparta" - https://en.wikipedia.org/wiki/Cynisca_of_Sparta
 
@@ -50,3 +50,6 @@ Cynisca’s wins are frequently discussed in studies of gender, sport, and statu
 
 - First recorded female Olympic victor (as owner) in ancient tradition
 - Example of Spartan elite women’s comparatively distinctive social position
+
+
+## References

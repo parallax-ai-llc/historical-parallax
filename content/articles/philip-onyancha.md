@@ -23,7 +23,7 @@ Kenyan serial killer who confessed to murdering at least 19 people in Nairobi an
 | 2010 | Arrested in Nairobi |
 | 2012 | Trial began |
 
-## References
+
 
 [^1]: Wikipedia, "Philip Onyancha" - https://en.wikipedia.org/wiki/Philip_Onyancha
 
@@ -57,3 +57,6 @@ Most easily accessible summaries are secondary sources (news coverage and encycl
 
 [^2]: BBC News (archived coverage as cited by secondary sources), reporting on arrest and investigation context.
 [^3]: Kenyan press coverage (various outlets), trial updates and public reaction summaries.
+
+
+## References

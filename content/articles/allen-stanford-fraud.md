@@ -24,7 +24,7 @@ American financier who ran a $7 billion Ponzi scheme through his Stanford Intern
 | 2012 | Convicted of 13 felony counts |
 | 2012 | Sentenced to 110 years in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Allen Stanford Fraud" - https://en.wikipedia.org/wiki/Allen_Stanford_Fraud
 
@@ -61,3 +61,6 @@ The case is frequently referenced in conversations about:
 - Ponzi scheme
 - Securities fraud
 - Stanford Financial Group
+
+
+## References

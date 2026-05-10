@@ -22,7 +22,7 @@ Modern slavery in global supply chains involving forced labor in fishing, agricu
 | 2015 | Slavery exposed in Thai fishing industry |
 | 2022 | ILO estimated 49.6 million in modern slavery |
 
-## References
+
 
 [^1]: Wikipedia, "Supply Chain Slavery" - https://en.wikipedia.org/wiki/Supply_Chain_Slavery
 
@@ -58,3 +58,6 @@ Even when a brand commits to ethical sourcing, complex subcontracting, cross-bor
 - Forced labor
 - Human trafficking
 - Corporate social responsibility
+
+
+## References

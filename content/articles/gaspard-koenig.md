@@ -21,7 +21,7 @@ Rwandan businessman who financed Interahamwe militia during the genocide.
 |------|-------|
 | 2004 | Convicted of financing genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Gaspard Koenig" - https://en.wikipedia.org/wiki/Gaspard_Koenig
 
@@ -50,3 +50,6 @@ High-level details commonly summarized on the Wikipedia page (verify before reus
 - Is there a separate individual with the same name connected to Rwanda, or is this entry a mistaken merge?
 - If the intent is genocide-related documentation, what primary sources (court records, tribunal documents, reputable journalism) support the claims?
 - If the intent is the French philosopher, what are the correct biographical fields (birth date/place, nationality, occupation categories)?
+
+
+## References

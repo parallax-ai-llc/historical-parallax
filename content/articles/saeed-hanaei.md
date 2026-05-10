@@ -43,10 +43,13 @@ The Hanaei case is often referenced in discussions of:
 - The social conditions that increase vulnerability to predation.
 - How moral narratives can be weaponized to rationalize criminal behavior.
 
-## References
+
 
 [^1]: Wikipedia, "Saeed Hanaei" - https://en.wikipedia.org/wiki/Saeed_Hanaei
 
 ## Notes on terminology
 
 The nickname "Spider Killer" is a media label associated with the case and is not a formal legal designation.
+
+
+## References

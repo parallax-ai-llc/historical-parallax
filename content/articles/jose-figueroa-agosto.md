@@ -43,7 +43,7 @@ Puerto Rican drug lord who led a major Caribbean cocaine network operating from 
 
 - Some public sources list his birth date as 28 June 1964; biographical and case-summary details can differ across secondary reporting.
 
-## References
+
 
 [^1]: Wikipedia, "Jose Figueroa Agosto" - https://en.wikipedia.org/wiki/Jose_Figueroa_Agosto
 
@@ -51,3 +51,6 @@ Puerto Rican drug lord who led a major Caribbean cocaine network operating from 
 
 - Caribbean drug trafficking routes and transshipment hubs
 - Plea agreements and sentencing in federal drug cases
+
+
+## References

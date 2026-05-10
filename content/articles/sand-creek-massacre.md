@@ -5,7 +5,7 @@ birth: "1864-11-29"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/12/At_the_Sand_Creek_Massacre%2C_1874-1875.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sand_Creek_Massacre"
 lastUpdated: "2026-02-26"

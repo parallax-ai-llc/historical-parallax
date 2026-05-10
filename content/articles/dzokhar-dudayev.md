@@ -21,7 +21,7 @@ First president of the Chechen Republic of Ichkeria killed by a Russian missile 
 |------|-------|
 | 1996 | Killed by Russian missile |
 
-## References
+
 
 [^1]: Wikipedia, "Dzokhar Dudayev" - https://en.wikipedia.org/wiki/Dzokhar_Dudayev
 
@@ -70,3 +70,6 @@ Dudayev was killed in 1996 during the conflict. Accounts commonly describe his d
 ## References (Additional)
 
 [^2]: Encyclopaedia Britannica, "Dzokhar Dudayev" - https://www.britannica.com/biography/Dzhokhar-Dudayev
+
+
+## References

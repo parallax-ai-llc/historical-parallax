@@ -22,7 +22,7 @@ Seven inmates escaped from a Texas maximum-security prison and went on a crime s
 | 2000 | Seven inmates escaped from Connally Unit |
 | 2001 | Six captured; one killed himself |
 
-## References
+
 
 [^1]: Wikipedia, "Texas Seven Prison Break" - https://en.wikipedia.org/wiki/Texas_Seven_Prison_Break
 
@@ -52,3 +52,6 @@ Seven inmates escaped from a Texas maximum-security prison and went on a crime s
 ## Notes
 
 This entry summarizes the event at a high level; details vary by reporting source and official records.
+
+
+## References

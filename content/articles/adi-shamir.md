@@ -23,7 +23,7 @@ Adi Shamir co-invented RSA and Shamir secret sharing. 2002 Turing Award.
 | 1977 | Co-invented RSA |
 | 2002 | Turing Award |
 
-## References
+
 
 [^1]: Wikipedia, "Adi Shamir" - https://en.wikipedia.org/wiki/Adi_Shamir
 
@@ -51,3 +51,6 @@ He has received major honors in computing and cryptography, including the Turing
 - For biographies, award records and official competition databases are usually the most reliable for results and dates.
 - For conflicts and security topics, contemporary reporting may be incomplete; later research can revise early accounts.
 - This article keeps the overview high-level and points to the reference section for deeper sourcing.
+
+
+## References

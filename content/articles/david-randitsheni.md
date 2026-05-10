@@ -21,7 +21,7 @@ South African serial killer who murdered 6 women in Limpopo province.
 |------|-------|
 | 2009 | Convicted of six murders |
 
-## References
+
 
 [^1]: Wikipedia, "David Randitsheni" - https://en.wikipedia.org/wiki/David_Randitsheni
 
@@ -49,3 +49,6 @@ South African serial killer who murdered 6 women in Limpopo province.
 ## Notes on Sources
 
 This short profile is based on an overview-style secondary source (Wikipedia). For court-level documentation or detailed reporting (charges, exact dates, victim-by-victim chronology, investigative methods), consult additional primary or contemporaneous sources beyond Wikipedia.
+
+
+## References

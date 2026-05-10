@@ -23,7 +23,7 @@ IRA bombing of the Grand Brighton Hotel on October 12, 1984 targeting British PM
 | 1984 | 5 killed, Thatcher survived |
 | 1986 | Patrick Magee convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Brighton Hotel Bombing" - https://en.wikipedia.org/wiki/Brighton_Hotel_Bombing
 
@@ -56,3 +56,6 @@ Despite the attack, the conference proceeded, and Thatcher publicly emphasized c
 - The Troubles
 - Provisional Irish Republican Army
 - Counterterrorism in the United Kingdom
+
+
+## References

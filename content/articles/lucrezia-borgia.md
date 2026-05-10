@@ -21,7 +21,7 @@ Italian noblewoman from the infamous Borgia family, rumored to have poisoned pol
 |------|-------|
 | 1501 | Married into powerful families amid poisoning rumors |
 
-## References
+
 
 [^1]: Wikipedia, "Lucrezia Borgia" - https://en.wikipedia.org/wiki/Lucrezia_Borgia
 
@@ -56,3 +56,6 @@ Italian noblewoman from the infamous Borgia family, rumored to have poisoned pol
 ## Additional References
 
 [^2]: Encyclopaedia Britannica, "Lucrezia Borgia" - https://www.britannica.com/biography/Lucrezia-Borgia
+
+
+## References

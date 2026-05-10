@@ -22,7 +22,7 @@ Colombian-French politician kidnapped by FARC guerrillas while campaigning for p
 | 2003 | Proof of life video emerged |
 | 2008 | Rescued in Operation Jaque, a military deception |
 
-## References
+
 
 [^1]: Wikipedia, "Ingrid Betancourt" - https://en.wikipedia.org/wiki/Ingrid_Betancourt
 
@@ -53,3 +53,6 @@ Colombian-French politician kidnapped by FARC guerrillas while campaigning for p
 ## Additional Reading
 
 [^2]: BBC News archive coverage of the 2008 rescue and context - https://www.bbc.co.uk/search?q=Ingrid+Betancourt+Operation+Jaque
+
+
+## References

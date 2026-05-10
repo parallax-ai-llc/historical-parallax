@@ -24,7 +24,7 @@ Indonesian bomb maker for Jemaah Islamiyah who was responsible for the 2000 Riza
 | 2003 | Escaped from prison |
 | 2003 | Shot dead by Philippine police |
 
-## References
+
 
 [^1]: Wikipedia, "Fathur Rahman al-Ghozi" - https://en.wikipedia.org/wiki/Fathur_Rahman_al-Ghozi
 
@@ -51,3 +51,6 @@ The case is often cited in discussions of:
 ## Further Reading
 
 - Contemporary reporting and court filings in the Philippines provide additional operational detail, but accounts may vary by source.
+
+
+## References

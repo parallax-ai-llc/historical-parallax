@@ -23,7 +23,7 @@ Mass killing of civilians in Bucha, Ukraine by Russian forces during the 2022 in
 | 2022 | Over 400 civilian bodies discovered |
 | 2022 | War crimes investigations launched |
 
-## References
+
 
 [^1]: Wikipedia, "Bucha Massacre" - https://en.wikipedia.org/wiki/Bucha_Massacre
 
@@ -50,3 +50,6 @@ Because active conflicts generate propaganda and misinformation, careful sourcin
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

@@ -22,7 +22,7 @@ Credit Suisse collapsed amid decades of scandals including helping clients evade
 | 2021 | Archegos and Greensill losses |
 | 2023 | Absorbed by UBS |
 
-## References
+
 
 [^1]: Wikipedia, "Credit Suisse Scandals" - https://en.wikipedia.org/wiki/Credit_Suisse_Scandals
 
@@ -49,3 +49,6 @@ By 2022–2023, the combination of losses, scandals, and market stress contribut
 The episode is frequently referenced in discussions of “too big to fail” policy, bank supervision, and the difficulty of rebuilding trust after repeated compliance and risk incidents. It also highlights how reputational problems can become liquidity problems when counterparties and depositors react quickly.
 
 - The UBS integration phase raised additional questions about liabilities, remediation, and future Swiss banking regulation.
+
+
+## References

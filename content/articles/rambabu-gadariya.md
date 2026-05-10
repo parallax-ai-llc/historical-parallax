@@ -22,7 +22,7 @@ One of the last notorious dacoits of the Chambal Valley in Madhya Pradesh who ca
 | 1990 | Led dacoit gang in Chambal Valley |
 | 2002 | Killed in police encounter in Madhya Pradesh |
 
-## References
+
 
 [^1]: Wikipedia, "Rambabu Gadariya" - https://en.wikipedia.org/wiki/Rambabu_Gadariya
 
@@ -51,3 +51,6 @@ Available biographical detail in English-language sources is limited and often s
 - **Region:** Chambal Valley, Madhya Pradesh (India).
 - **Reported crimes:** Robbery and kidnapping for ransom.
 - **Death:** 2002, killed in a reported police encounter.
+
+
+## References

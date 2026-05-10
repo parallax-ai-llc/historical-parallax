@@ -38,7 +38,7 @@ Following exposure, investigations and court proceedings addressed questions of 
 
 Recruit is frequently cited in discussions of political reform in Japan, including debates about campaign finance, transparency in ties between business and government, and public trust in institutions. It also contributed to a broader narrative of late-Shōwa era political scandals and their role in reshaping party dynamics.
 
-## References
+
 
 [^1]: Wikipedia, "Recruit Scandal" - https://en.wikipedia.org/wiki/Recruit_Scandal
 
@@ -52,3 +52,6 @@ Recruit is frequently cited in discussions of political reform in Japan, includi
 
 - Political corruption in Japan
 - Campaign finance reform
+
+
+## References

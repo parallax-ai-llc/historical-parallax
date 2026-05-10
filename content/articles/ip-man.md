@@ -23,7 +23,7 @@ Ip Man was the grandmaster of Wing Chun who trained Bruce Lee and other notable 
 | 1954 | Began training Bruce Lee |
 | 1972 | Died in Hong Kong |
 
-## References
+
 
 [^1]: Wikipedia, "Ip Man" - https://en.wikipedia.org/wiki/Ip_Man
 
@@ -50,3 +50,6 @@ Ip Man was the grandmaster of Wing Chun who trained Bruce Lee and other notable 
 ## Additional Reading
 
 [^2]: Hong Kong Film Archive / film reference sources (for cultural portrayals) - https://www.filmarchive.gov.hk/
+
+
+## References

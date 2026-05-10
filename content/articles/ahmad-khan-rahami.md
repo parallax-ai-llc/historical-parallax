@@ -35,7 +35,7 @@ Ahmad Khan Rahami planted pressure cooker bombs in New York City and New Jersey 
 | 2016-09 | Captured after manhunt |
 | (later) | Sentenced to life |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: https://en.wikipedia.org/wiki/2016_New_York_and_New_Jersey_bombings
 
@@ -60,3 +60,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

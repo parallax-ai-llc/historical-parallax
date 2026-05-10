@@ -21,7 +21,7 @@ Belgian-Rwandan convicted of genocide in Belgium for killing a Tutsi family.
 |------|-------|
 | 2019 | Convicted of genocide in Belgium |
 
-## References
+
 
 [^1]: Wikipedia, "Fabien Neretsé" - https://en.wikipedia.org/wiki/Fabien_Nerets%C3%A9
 
@@ -79,3 +79,6 @@ Specific data fields that are often available in reliable sources:
 
 - This page is intentionally conservative: it records only the high-level fact of conviction already reflected in the existing summary/timeline.
 - Add narrative detail only with citations that clearly support each claim.
+
+
+## References

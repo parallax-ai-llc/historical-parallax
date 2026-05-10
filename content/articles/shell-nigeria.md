@@ -5,7 +5,7 @@ birth: "1958-01-01"
 death: "Unknown"
 nationality: "Netherlands"
 occupation: ["Environmental Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Shell_wordmark_2019.svg/960px-Shell_wordmark_2019.svg.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shell_Nigeria"
 lastUpdated: "2026-02-26"

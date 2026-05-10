@@ -22,7 +22,7 @@ Song Dae-nam won Olympic judo gold at the 2004 Athens Olympics in the 90kg categ
 | 2003 | Won World Championship gold |
 | 2004 | Won Olympic gold at Athens |
 
-## References
+
 
 [^1]: Wikipedia, "Song Dae-nam" - https://en.wikipedia.org/wiki/Song_Dae-nam
 
@@ -49,3 +49,6 @@ When summarizing a judoka’s career, common high-level signals include:
 - progression through continental championships,
 - peak performance timing relative to an Olympic cycle, and
 - whether the athlete maintained competitiveness across multiple weight classes.
+
+
+## References

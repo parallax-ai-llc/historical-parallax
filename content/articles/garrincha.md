@@ -23,7 +23,7 @@ Garrincha won the 1958 and 1962 World Cups and never lost with Pelé. Born with 
 | 1962 | Won WC; named Player of Tournament |
 | 1983 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Garrincha" - https://en.wikipedia.org/wiki/Garrincha
 
@@ -48,3 +48,6 @@ Biographical summaries often note a difficult post-peak period, including health
 ## Legacy
 
 In Brazilian memory, Garrincha is often positioned alongside Pelé as a defining figure of the national team’s rise to global prominence. He remains an enduring reference point for the art of dribbling and for the idea that unconventional physical traits can coexist with athletic brilliance.
+
+
+## References

@@ -20,7 +20,7 @@ South Korean government forces killed an estimated 30,000 residents of Jeju isla
 |------|-------|
 | 1948 | 30,000 killed on Jeju island |
 
-## References
+
 
 [^1]: Wikipedia, "Jeju Massacre" - https://en.wikipedia.org/wiki/Jeju_Massacre
 
@@ -58,3 +58,6 @@ South Korean government forces killed an estimated 30,000 residents of Jeju isla
 - Jeju 4·3 Peace Foundation materials and exhibits (institutional background and memorialization)
 - South Korean government investigation/report summaries (when available in English)
 - Academic histories of early Republic of Korea politics and counterinsurgency
+
+
+## References

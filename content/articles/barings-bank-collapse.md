@@ -23,7 +23,7 @@ Collapse of Britains oldest merchant bank in 1995 after rogue trader Nick Leeson
 | 1995 | Barings declared bankrupt |
 | 1999 | Leeson released from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Barings Bank Collapse" - https://en.wikipedia.org/wiki/Barings_Bank_Collapse
 
@@ -59,3 +59,6 @@ Collapse of Britains oldest merchant bank in 1995 after rogue trader Nick Leeson
   - governance of complex products,
   - stress testing and capital adequacy,
   - accountability for supervisory failures.
+
+
+## References

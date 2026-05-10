@@ -22,7 +22,7 @@ Herodoros of Megara won ten consecutive Olympic victories in the trumpet competi
 | 500s BC | Began competing at the Olympics |
 | 480s-460s BC | Won ten consecutive Olympic trumpet contests |
 
-## References
+
 
 [^1]: Wikipedia, "Herodoros of Megara" - https://en.wikipedia.org/wiki/Herodoros_of_Megara
 
@@ -50,3 +50,6 @@ Even niche contests could carry status because Olympic victors were celebrated i
 ## Notes on chronology
 
 The dates for Herodoros are approximate and are usually inferred from the era in which the relevant Olympic victories were said to occur.
+
+
+## References

@@ -24,7 +24,7 @@ Malaysian communist leader who led the Malayan Communist Party's insurgency agai
 | 1989 | Signed peace treaty with Malaysian government |
 | 2013 | Died in exile in Thailand |
 
-## References
+
 
 [^1]: Wikipedia, "Chin Peng" - https://en.wikipedia.org/wiki/Chin_Peng
 
@@ -49,3 +49,6 @@ Chin Peng remains a polarizing figure. Some view him primarily through the lens 
 Malayan Emergency; Briggs Plan and “hearts and minds” counterinsurgency; postcolonial state formation in Malaysia; Communist movements in Southeast Asia.
 
 These framing debates often hinge on how to weigh anti-colonial claims against the costs of armed insurgency.
+
+
+## References

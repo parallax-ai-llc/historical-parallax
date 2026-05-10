@@ -21,7 +21,7 @@ French serial killer convicted of murdering three women after meeting them in in
 |------|-------|
 | 2012 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Yoni Palmier" - https://en.wikipedia.org/wiki/Yoni_Palmier
 
@@ -57,3 +57,6 @@ Biographical and procedural details may differ across secondary sources and tran
 ## See also
 
 - "Serial murders in Essonne" (case overview) — https://en.wikipedia.org/wiki/Serial_murders_in_Essonne
+
+
+## References

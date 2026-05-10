@@ -3,6 +3,7 @@ name: "Seo In-guk"
 birth: "1987-10-23"
 nationality: "South Korean"
 occupation: ["Actor", "Singer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Seo_In-Guk_210601.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seo_In-guk"
 lastUpdated: "2026-03-12"

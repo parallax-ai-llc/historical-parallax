@@ -23,7 +23,7 @@ Pedro Álvares Cabral was the first European to reach Brazil in 1500. He claimed
 | 1500 | Continued voyage to India |
 | 1501 | Returned to Portugal |
 
-## References
+
 
 [^1]: Wikipedia, "Pedro Álvares Cabral" - https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral
 
@@ -48,3 +48,6 @@ Cabral’s voyage is central to Portuguese imperial history: it is tied to the f
 - (Context) This article is a high-level overview and should be verified against reliable sources for exact dates and claims.
 
 - (Context) This article is a high-level overview and should be verified against reliable sources for exact dates and claims.
+
+
+## References

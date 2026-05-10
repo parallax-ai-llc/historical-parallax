@@ -23,7 +23,7 @@ Monica Seles won nine Grand Slam titles before being stabbed on court by a fan o
 | 1993 | Stabbed on court in Hamburg |
 | 1995 | Returned to professional tennis |
 
-## References
+
 
 [^1]: Wikipedia, "Monica Seles" - https://en.wikipedia.org/wiki/Monica_Seles
 
@@ -52,3 +52,6 @@ Seles is remembered both for her extraordinary early achievements and for the br
 ## Additional Notes
 
 This article is intended as a concise reference. For deeper detail, consult multiple sources and primary reporting where available, and compare timelines across independent accounts.
+
+
+## References

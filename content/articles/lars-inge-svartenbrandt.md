@@ -21,7 +21,7 @@ Sweden's most notorious bank robber, dubbed 'the king of escape' for his multipl
 |------|-------|
 | 1970 | Began prolific bank robbery career |
 
-## References
+
 
 [^1]: Wikipedia, "Lars Inge Svartenbrandt" - https://en.wikipedia.org/wiki/Lars_Inge_Svartenbrandt
 
@@ -54,3 +54,6 @@ Svartenbrandt is widely cited in Swedish media and popular accounts as one of th
 
 - Online biographies and encyclopedic entries about Svartenbrandt may vary in detail and may move or change over time.
 - Where possible, prefer contemporary Swedish-language reporting and archival sources for specific dates, case names, and counts.
+
+
+## References

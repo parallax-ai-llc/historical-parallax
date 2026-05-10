@@ -35,7 +35,7 @@ The massacre took place during the Prohibition era, when organized crime groups 
 Although Al Capone’s organization was widely suspected, the killings were never definitively solved in a way that produced universally accepted convictions for the planners. The case influenced popular culture for decades and is frequently referenced in books and films about Prohibition-era Chicago.
 
 The event also contributed to the national profile of federal and local efforts against organized crime, shaping narratives about law enforcement’s capacity (and limits) in confronting powerful criminal syndicates.
-## References
+
 
 [^1]: Wikipedia, "Saint Valentines Day Massacre" - https://en.wikipedia.org/wiki/Saint_Valentines_Day_Massacre
 
@@ -52,3 +52,6 @@ The event also contributed to the national profile of federal and local efforts 
 - Names, dates, and claims should be cross-checked against the cited reference(s).
 - Where events involve crimes or violence, summaries avoid unnecessary graphic detail.
 - For full context, consult multiple reputable sources (official records, major news archives, and scholarly works when available).
+
+
+## References

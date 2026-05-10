@@ -5,7 +5,7 @@ birth: "1900-01-01"
 death: "1967-12-28"
 nationality: "Japanese"
 occupation: ["Religious Founder"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sayo_Kitamura_1948_cropped.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kitamura_Sayo"
 lastUpdated: "2026-02-21"

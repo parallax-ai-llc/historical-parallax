@@ -22,7 +22,7 @@ Legendary Indian dacoit of the Chambal ravines who led a gang for over two decad
 | 1948 | Began dacoit career in the Chambal Valley |
 | 1972 | Surrendered to authorities after decades |
 
-## References
+
 
 [^1]: Wikipedia, "Mohar Singh" - https://en.wikipedia.org/wiki/Mohar_Singh
 
@@ -62,3 +62,6 @@ Legendary Indian dacoit of the Chambal ravines who led a gang for over two decad
 
 ### Sources
 - The reference link(s) listed above are the primary source pointer used for this short profile.
+
+
+## References

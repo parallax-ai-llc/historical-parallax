@@ -44,10 +44,13 @@ Former Vice President of Angola and head of Sonangol who was charged with corrup
 - The case is frequently cited in discussions about transnational anti-corruption enforcement, especially when allegations involve officials and institutions across borders.
 - It also highlights how state-owned enterprises can become central nodes in patronage and political power.
 
-## References
+
 
 [^1]: Wikipedia, "Manuel Vicente" - https://en.wikipedia.org/wiki/Manuel_Vicente
 
 ## Notes
 
 - Cross-border corruption cases can hinge on mutual legal assistance and political cooperation, which may affect where evidence is gathered and tried.
+
+
+## References

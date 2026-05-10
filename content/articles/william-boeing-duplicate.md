@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1881 | See William Boeing |
 
-## References
+
 
 [^1]: Wikipedia, "William Boeing duplicate" - https://en.wikipedia.org/wiki/William_Boeing_duplicate
 
@@ -53,3 +53,6 @@ William Boeing’s name remains closely associated with:
 - William Boeing (primary entry)
 - Boeing (company)
 - Early aviation industry (United States)
+
+
+## References

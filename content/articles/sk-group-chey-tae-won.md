@@ -21,7 +21,7 @@ SK Group chairman convicted of embezzlement but later pardoned by the president.
 |------|-------|
 | 2013 | Convicted of embezzlement |
 
-## References
+
 
 [^1]: Wikipedia, "SK Group Chey Tae-won" - https://en.wikipedia.org/wiki/SK_Group_Chey_Tae-won
 
@@ -51,3 +51,6 @@ SK Group chairman convicted of embezzlement but later pardoned by the president.
 ## Data Notes
 
 - The frontmatter occupation tag is intentionally terse; the linked Wikipedia entry provides broader context on business leadership, legal proceedings, and subsequent roles.
+
+
+## References

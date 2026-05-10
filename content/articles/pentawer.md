@@ -21,7 +21,7 @@ Egyptian prince who conspired to murder his father Ramesses III and was forced t
 |------|-------|
 | -1155 | Forced to kill himself for regicide conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Pentawer" - https://en.wikipedia.org/wiki/Pentawer
 
@@ -61,3 +61,6 @@ Some modern studies have proposed a possible link between Pentawer and an uniden
 ## Additional References
 
 [^2]: Encyclopaedia Britannica, "Ramesses III" (context on reign and late New Kingdom politics) - https://www.britannica.com/biography/Ramses-III
+
+
+## References

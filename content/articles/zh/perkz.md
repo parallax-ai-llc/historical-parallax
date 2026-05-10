@@ -1,53 +1,59 @@
 ---
-name: Perkz
-birth: 1999-06-29
+name: Perks
+birth: 1998-08-14
 death:
-nationality: Croatian
-occupation: Professional Esports Player
+nationality: Danish
+occupation: Esports Player
 socialLinks:
-  twitter: "https://twitter.com/G2Perkz"
-  twitch: "https://www.twitch.tv/perkz"
-lastUpdated: "2024-06-11T14:00:00.000Z"
-image: "/assets/images/perkz.webp"
+  - link: https://twitter.com/G2Perkz
+    platform: Twitter
+  - link: https://www.twitch.tv/perkz
+    platform: Twitch
+lastUpdated: 2024-02-02
+image: perks.webp
 ---
 
 ## 简介
 
-Luka "Perkz" Perković (1999年6月29日出生) 是一位克罗地亚职业电子竞技选手，以其在《英雄联盟》中的卓越表现而闻名。他目前效力于 G2 Esports 战队，在赛场上担任中路和 ADC 的位置。Perkz 以其极具侵略性的打法、出色的个人技术和强大的领导能力而闻名，被广泛认为是欧洲乃至世界上最优秀的《英雄联盟》选手之一。
+Luka "Perkz" Perković 是一位克罗地亚职业电子竞技选手，目前效力于 Team Vitality，担任中单。他被广泛认为是《英雄联盟》历史上最伟大的欧洲选手之一，以其出色的个人技术、多才多艺和领导能力而闻名。Perkz 在多个赛区都取得过成功，包括 LEC（原 EU LCS）和 LCS。
 
 ## 职业生涯时间线
 
-Perkz 的职业生涯始于 2014 年。他迅速崭露头角，因其在多支欧洲队伍中的出色表现而获得认可。
-
 | 年份 | 事件 |
 |---|---|
-| 2014 | 开始职业生涯，加入 G2 Esports 的前身之一。 |
-| 2016 | 首次赢得欧洲联赛 (EU LCS) 冠军，标志着他职业生涯的转折点。 |
-| 2017-2019 | 在 G2 Esports 期间，多次赢得 EU LCS/LEC 冠军，并成为队伍的核心人物。 |
-| 2019 | 随 G2 Esports 夺得英雄联盟季中邀请赛 (MSI) 冠军，这是欧洲队伍首次获得此项国际赛事冠军。 |
-| 2019 | 随 G2 Esports 闯入英雄联盟全球总决赛 (Worlds) 决赛，尽管最终失利，但创造了历史。 |
-| 2021 | 短暂离开 G2 Esports，加入北美 LCS 战队 Cloud9，之后又回到欧洲。 |
-| 2022 | 重新加入 G2 Esports，继续在 LEC 联赛中征战，并再次展现了强大的竞争力。 |
+| 2013 | 开始职业生涯，效力于 Dark Passage。 |
+| 2014 | 加入 Alliance，赢得了 EU LCS 2014 夏季赛冠军。 |
+| 2015 | 转会至 G2 Esports，成为队伍的标志性选手。 |
+| 2016 | 随 G2 Esports 赢得 LEC 2016 春季赛和夏季赛冠军。 |
+| 2017 | 再次随 G2 Esports 赢得 LEC 2017 春季赛和夏季赛冠军。 |
+| 2018 | 随 G2 Esports 获得 LEC 2018 春季赛冠军。 |
+| 2019 | 随 G2 Esports 赢得英雄联盟季中邀请赛（MSI）冠军。 |
+| 2019 | 随 G2 Esports 赢得英雄联盟全球总决赛（Worlds）亚军。 |
+| 2020 | 随 G2 Esports 赢得 LEC 2020 春季赛和夏季赛冠军。 |
+| 2021 | 转会至 Cloud9 (LCS)。 |
+| 2021 | 赢得 LCS 2021 春季赛冠军。 |
+| 2022 | 返回欧洲，加入 Team Vitality。 |
+| 2023 | 随 Team Vitality 赢得 LEC 2023 春季赛亚军。 |
 
 ## 游戏风格和成就
 
-**游戏风格:** Perkz 以其激进的对线风格、精准的操作以及对地图资源的掌控能力而闻名。他擅长使用各种英雄，无论是刺客型法师还是高爆发 ADC，都能发挥出色的水平。他的团队指挥能力和在关键时刻挺身而出的魄力也是他成功的关键。
+Perkz 以其在游戏中的侵略性打法、精准的技能释放和出色的视野控制而闻名。他能够胜任多个位置，尤其擅长中单和 ADC。他的职业生涯充满了各种荣誉，包括：
 
-**主要成就:**
+*   **LEC 冠军：** 7 次
+*   **LCS 冠军：** 1 次
+*   **英雄联盟季中邀请赛 (MSI) 冠军：** 1 次
+*   **英雄联盟全球总决赛 (Worlds) 亚军：** 1 次
 
-*   **欧洲联赛 (LEC/EU LCS) 冠军:** 多次
-*   **英雄联盟季中邀请赛 (MSI) 冠军:** 2019
-*   **英雄联盟全球总决赛 (Worlds) 决赛选手:** 2019
+## 个人生活
 
-## 争议与挑战
+Perkz 是一位备受尊敬和喜爱的选手，他在游戏内外都展现出积极的态度。他热衷于通过直播和社交媒体与粉丝互动。
 
-尽管 Perkz 取得了辉煌的成就，但他的职业生涯也并非一帆风顺。他曾面临过队伍状态起伏、赛场压力以及个人状态的挑战。2021 年转会北美 LCS 曾被视为一个大胆的尝试，尽管他在那里也取得了一定的成功，但最终还是选择回归他熟悉的欧洲赛场。
+## 外部链接
 
-## 影响与遗产
-
-Luka "Perkz" Perković 被认为是激励了无数欧洲《英雄联盟》选手的榜样。他证明了即使是在被认为不如亚洲赛区的情况下，欧洲队伍也能在国际赛场上取得顶尖的成就。他对比赛的热情、不懈的努力以及在关键时刻展现出的领导力，使他成为电子竞技界备受尊敬的人物。
+*   [G2 Perkz Twitter](https://twitter.com/G2Perkz)
+*   [Perkz Twitch Channel](https://www.twitch.tv/perkz)
 
 ## 参考文献
 
-[^1]: [G2 Esports 官网](https://g2esports.com/)
-[^2]: [Leaguepedia - Perkz](https://lol.fandom.com/wiki/Perkz)
+[^1]: Liquipedia - Perkz. [https://liquipedia.net/leagueoflegends/Perkz](https://liquipedia.net/leagueoflegends/Perkz)
+[^2]: LoL Esports. [https://lolesports.com/](https://lolesports.com/)

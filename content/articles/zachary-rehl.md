@@ -21,7 +21,7 @@ Proud Boys chapter president convicted of seditious conspiracy for January 6.
 |------|-------|
 | 2023 | Convicted of seditious conspiracy |
 
-## References
+
 
 [^1]: Wikipedia, "Zachary Rehl" - https://en.wikipedia.org/wiki/Zachary_Rehl
 
@@ -60,3 +60,6 @@ In the United States, “seditious conspiracy” is a federal offense tied to co
 
 - Biographical details in open sources may be incomplete or inconsistently reported; the public record is dominated by coverage of the January 6-related prosecution.
 - If additional primary documents (indictment, verdict forms, sentencing memorandum) are available, they typically provide the most precise case timeline and legal framing.
+
+
+## References

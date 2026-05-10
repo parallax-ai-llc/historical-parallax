@@ -5,7 +5,7 @@ birth: "1972-03-06"
 death: "Unknown"
 nationality: "American"
 occupation: ["Athlete", "Basketball Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/TechCrunch_Disrupt_2023_-_Day_1_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shaquille_O'Neal"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Shaquille O'Neal was one of the most dominant centers ever, winning four champio
 | 2000 | Won MVP and first of three titles |
 | 2006 | Won fourth title with Miami |
 
-## References
+
 
 [^1]: Wikipedia, "Shaquille O'Neal" - https://en.wikipedia.org/wiki/Shaquille_O'Neal
 
@@ -48,3 +48,6 @@ Shaquille O'Neal was one of the most dominant centers ever, winning four champio
 - O’Neal’s career is often used to illustrate the impact a physically dominant center can have on team construction and strategy.
 - His post-playing media presence helped keep him among the most recognizable figures in modern basketball.
 - His peak years are commonly cited in comparisons of modern big-man play, efficiency, and defensive impact.
+
+
+## References

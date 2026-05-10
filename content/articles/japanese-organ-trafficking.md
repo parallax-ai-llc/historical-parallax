@@ -21,7 +21,7 @@ Cases of Japanese nationals traveling abroad for organ transplants from executed
 |------|-------|
 | 2000 | Organ tourism concerns raised |
 
-## References
+
 
 [^1]: Wikipedia, "Japanese Organ Trafficking" - https://en.wikipedia.org/wiki/Japanese_Organ_Trafficking
 
@@ -61,3 +61,6 @@ Cases of Japanese nationals traveling abroad for organ transplants from executed
 ## Notes
 
 This article summarizes widely discussed concerns about transplant tourism involving Japanese patients; specific allegations and case details vary by source and time period.
+
+
+## References

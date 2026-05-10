@@ -5,7 +5,7 @@ birth: "1867-07-08"
 death: "1945-04-22"
 nationality: "German"
 occupation: ["Painter", "Printmaker", "Sculptor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/K%C3%A4the_Kollwitz_by_Hugo_Erfurth%2C_1927.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kathe_Kollwitz"
 lastUpdated: "2026-02-21"

@@ -23,7 +23,7 @@ Series of murder-suicides by members of the Order of the Solar Temple in 1994, 1
 | 1995 | 16 more died in France |
 | 1997 | Final 5 deaths in Quebec |
 
-## References
+
 
 [^1]: Wikipedia, "Solar Temple Mass Deaths" - https://en.wikipedia.org/wiki/Solar_Temple_Mass_Deaths
 
@@ -52,3 +52,6 @@ The Solar Temple case is often studied for what it reveals about:
 - How apocalyptic narratives can motivate extreme action.
 - The vulnerability of followers under intense group pressure.
 - The investigative difficulty of disentangling suicide, coercion, and murder in closed communities.
+
+
+## References

@@ -23,7 +23,7 @@ Armenian assassin who killed Ottoman Grand Vizier Talat Pasha in Berlin in 1921 
 | 1921 | Shot and killed Talat Pasha on a Berlin street |
 | 1921 | Acquitted by German court |
 
-## References
+
 
 [^1]: Wikipedia, "Soghomon Tehlirian" - https://en.wikipedia.org/wiki/Soghomon_Tehlirian
 
@@ -51,3 +51,6 @@ The story continues to appear in debates about transitional justice, collective 
 ## Cultural memory
 
 Tehlirian's trial and acquittal have been retold in books, documentaries, and political discourse, often as a narrative about the limits of legal accountability after mass atrocity. The way the episode is remembered varies significantly by community and by the broader politics of genocide recognition.
+
+
+## References

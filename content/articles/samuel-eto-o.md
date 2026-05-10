@@ -22,7 +22,7 @@ Samuel Eto'o won consecutive CLs with different clubs — Barcelona (2009) and I
 | 2009 | Won treble with Barcelona |
 | 2010 | Won treble with Inter Milan |
 
-## References
+
 
 [^1]: Wikipedia, "Samuel Eto'o" - https://en.wikipedia.org/wiki/Samuel_Eto'o
 
@@ -49,3 +49,6 @@ Samuel Eto'o won consecutive CLs with different clubs — Barcelona (2009) and I
 
 - 독자가 오해하기 쉬운 용어는 한 줄 정의로 보완합니다.
 - 동음이의/유사 개념이 있다면 구분 기준을 제시합니다.
+
+
+## References

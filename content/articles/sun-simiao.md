@@ -43,7 +43,7 @@ Sun Simiao was one of the most revered physicians in Chinese history, known as t
 - Later generations elevated Sun Simiao as a model healer; temples, folklore, and medical lineages sometimes refer to him with honorific titles such as “King of Medicine.”
 - Modern discussions of traditional Chinese medicine sometimes cite his works as examples of early encyclopedic synthesis.
 
-## References
+
 
 [^1]: Wikipedia, "Sun Simiao" - https://en.wikipedia.org/wiki/Sun_Simiao
 
@@ -51,3 +51,6 @@ Sun Simiao was one of the most revered physicians in Chinese history, known as t
 
 - History of Chinese medicine
 - Tang dynasty science and scholarship
+
+
+## References

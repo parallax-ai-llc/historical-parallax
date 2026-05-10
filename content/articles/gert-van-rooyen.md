@@ -23,7 +23,7 @@ South African serial kidnapper and killer who abducted at least 6 girls in Preto
 | 1990 | Cornered by police, killed accomplice and himself |
 | 1990 | Victims' remains never recovered |
 
-## References
+
 
 [^1]: Wikipedia, "Gert van Rooyen" - https://en.wikipedia.org/wiki/Gert_van_Rooyen
 
@@ -49,3 +49,6 @@ South African serial kidnapper and killer who abducted at least 6 girls in Preto
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
 
 - Additional high-level context: see linked reference for detailed chronology and sourcing.
+
+
+## References

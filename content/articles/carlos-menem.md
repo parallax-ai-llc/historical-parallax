@@ -24,7 +24,7 @@ Argentine president who presided over widespread corruption and was convicted of
 | 2013 | Convicted of arms trafficking |
 | 2021 | Died while serving as senator with immunity |
 
-## References
+
 
 [^1]: Wikipedia, "Carlos Menem" - https://en.wikipedia.org/wiki/Carlos_Menem
 
@@ -49,3 +49,6 @@ The 1994 AMIA bombing remains one of Argentina’s most traumatic terrorist atta
 Menem remains a polarizing figure: remembered for modernization and stabilization by some, and for corruption and damaged institutions by others. His long career, spanning the presidency and later Senate service, also shows how Argentine political coalitions evolved after the return to democracy.
 
 In retrospective analyses, his presidency is frequently paired with debates about the limits of privatization, the role of foreign debt, and the durability of institutional checks.
+
+
+## References

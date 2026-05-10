@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "Cambodia"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cambodia_2011_monuments_20.jpg/3840px-Cambodia_2011_monuments_20.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Killing_Fields"
 lastUpdated: "2026-02-26"

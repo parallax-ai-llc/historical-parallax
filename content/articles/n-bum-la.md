@@ -22,7 +22,7 @@ Kachin drug lord who controlled methamphetamine production in Myanmar's Kachin S
 | 2005 | Built major methamphetamine production network in Kachin State |
 | 2010 | Operations expanded across northern Myanmar |
 
-## References
+
 
 [^1]: Wikipedia, "N Bum La" - https://en.wikipedia.org/wiki/N_Bum_La
 
@@ -51,3 +51,6 @@ Kachin drug lord who controlled methamphetamine production in Myanmar's Kachin S
 - Northern Myanmar's borderlands have long been shaped by conflict, rugged terrain, and cross-border commerce.
 - These conditions can enable illicit economies when state services and policing are limited.
 
+
+
+## References

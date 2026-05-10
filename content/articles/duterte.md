@@ -50,7 +50,7 @@ Rodrigo Duterte is best known internationally for his presidency (2016–2022) a
 
 Duterte’s legacy is widely debated: supporters credit reduced visible street crime in some areas and decisive leadership, while critics emphasize damage to institutions, due process, and human rights norms. The long-term legal and political consequences of the anti-drug campaign—including investigations and accountability efforts—remain a central topic in assessments of his administration.
 
-## References
+
 
 [^1]: Wikipedia, "Duterte" - https://en.wikipedia.org/wiki/Duterte
 
@@ -84,3 +84,6 @@ In mainstream summaries, Duterte is frequently characterized in terms of:
 - and a foreign-policy posture described as more flexible or less traditionally aligned than prior administrations.
 
 (These are descriptors of coverage patterns rather than endorsements of any specific framing.)[^1]
+
+
+## References

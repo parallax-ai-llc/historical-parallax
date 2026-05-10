@@ -22,7 +22,7 @@ Russian operator of BTC-e cryptocurrency exchange convicted of money laundering 
 | 2017 | Arrested in Greece for money laundering |
 | 2024 | Extradited to US and sentenced |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Vinnik" - https://en.wikipedia.org/wiki/Alexander_Vinnik
 
@@ -60,3 +60,6 @@ After court proceedings and custody in multiple jurisdictions, public reporting 
 - Cryptocurrency exchange regulation
 - Anti-money laundering (AML) enforcement
 - International extradition proceedings
+
+
+## References

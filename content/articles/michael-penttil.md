@@ -21,7 +21,7 @@ Finnish Bandidos MC leader involved in organized crime and the Nordic biker conf
 |------|-------|
 | 2001 | Led Bandidos operations in Finland |
 
-## References
+
 
 [^1]: Wikipedia, "Michael Penttilä" - https://en.wikipedia.org/wiki/Michael_Penttil%C3%A4
 
@@ -63,3 +63,6 @@ The following is a condensed outline of major events as presented in the Wikiped
 ## Additional References
 
 - See also the citation list on the linked Wikipedia page for Finnish-language reporting and court-related coverage.
+
+
+## References

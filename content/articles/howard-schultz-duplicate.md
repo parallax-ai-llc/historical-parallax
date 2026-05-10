@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1953 | See Howard Schultz |
 
-## References
+
 
 [^1]: Wikipedia, "Howard Schultz duplicate" - https://en.wikipedia.org/wiki/Howard_Schultz_duplicate
 
@@ -71,3 +71,6 @@ Because this page is labeled as a duplicate, readers should rely on the canonica
 - Confirm whether a non-duplicate article exists at a path like `content/articles/howard-schultz.md`.
 - If a canonical record exists, consider adding a short redirect note here (or removing this file) in a future cleanup pass.
 - Replace the reference with a valid canonical source link if the duplicate Wikipedia page is not reachable.
+
+
+## References

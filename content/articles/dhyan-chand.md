@@ -24,7 +24,7 @@ Dhyan Chand is the greatest field hockey player in history, leading India to thr
 | 1936 | Won Olympic gold at Berlin; scored 6 goals in final |
 | 1979 | Died in Delhi |
 
-## References
+
 
 [^1]: Wikipedia, "Dhyan Chand" - https://en.wikipedia.org/wiki/Dhyan_Chand
 
@@ -48,3 +48,6 @@ Dhyan Chand is the greatest field hockey player in history, leading India to thr
 - India marks his birthday (29 August) as **National Sports Day**.
 - The **Major Dhyan Chand Khel Ratna Award** (India’s top sporting honor) uses his name as part of its title.
 - Chand is also associated with the **Padma Bhushan** honor in Indian national awards.
+
+
+## References

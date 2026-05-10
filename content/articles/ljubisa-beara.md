@@ -24,7 +24,7 @@ Bosnian Serb military security chief convicted of genocide for his central role 
 | 2010 | Convicted of genocide and sentenced to life |
 | 2017 | Died in detention |
 
-## References
+
 
 [^1]: Wikipedia, "Ljubisa Beara" - https://en.wikipedia.org/wiki/Ljubisa_Beara
 ## Background
@@ -49,3 +49,6 @@ Srebrenica is recognized internationally as a genocide. Beara’s conviction is 
 
 - This page is a high-level overview intended to be expanded with additional sources.
 - When adding detailed claims (dates, numbers, quotations), prefer primary documents or reputable historical scholarship.
+
+
+## References

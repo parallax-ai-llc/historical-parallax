@@ -21,7 +21,7 @@ Arthur Andersen, one of the 'Big Five' accounting firms, was convicted of obstru
 |------|-------|
 | 2002 | Convicted of obstruction; firm collapsed |
 
-## References
+
 
 [^1]: Wikipedia, "Arthur Andersen Collapse" - https://en.wikipedia.org/wiki/Arthur_Andersen_Collapse
 
@@ -73,3 +73,6 @@ The Arthur Andersen collapse is widely cited as a case study in how:
 - reputational risk can destroy a professional services firm faster than financial losses,
 - audit quality and independence are foundational to capital markets,
 - legal outcomes (including later reversals) may not undo organizational collapse once trust and clients are lost.
+
+
+## References

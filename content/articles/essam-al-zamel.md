@@ -21,7 +21,7 @@ Saudi economist detained for opposing Saudi Arabia's IPO of Aramco.
 |------|-------|
 | 2017 | Detained for economic criticism |
 
-## References
+
 
 [^1]: Wikipedia, "Essam al-Zamel" - https://en.wikipedia.org/wiki/Essam_al-Zamel
 
@@ -57,3 +57,6 @@ Saudi economist detained for opposing Saudi Arabia's IPO of Aramco.
 - Saudi Aramco IPO / privatization policy
 - 2017 arrests of Saudi clerics, academics, and public commentators
 - Freedom of expression and political detention in Saudi Arabia
+
+
+## References

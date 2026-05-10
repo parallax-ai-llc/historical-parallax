@@ -21,7 +21,7 @@ German-Tunisian footballer dropped by clubs for alleged extremist ties.
 |------|-------|
 | 2017 | Dropped for alleged extremist connections |
 
-## References
+
 
 [^1]: Wikipedia, "Anis Ben Hatira" - https://en.wikipedia.org/wiki/Anis_Ben_Hatira
 
@@ -51,3 +51,6 @@ German-Tunisian footballer dropped by clubs for alleged extremist ties.
 
 - Reputational risk management in professional sports
 - "Sportswashing" and athlete/club political controversies
+
+
+## References

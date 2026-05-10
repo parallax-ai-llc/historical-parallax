@@ -5,7 +5,7 @@ birth: "1963-08-06"
 death: "2023-07-16"
 nationality: "United States"
 occupation: ["Hacker", "Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kevin_Mitnick_ex_hacker_y_ahora_famoso_consultor_en_redes_en_Campus_Party_M%C3%A9xico_2010.jpg/3840px-Kevin_Mitnick_ex_hacker_y_ahora_famoso_consultor_en_redes_en_Campus_Party_M%C3%A9xico_2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kevin_Mitnick"
 lastUpdated: "2026-02-21"

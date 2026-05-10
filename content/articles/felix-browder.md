@@ -23,7 +23,7 @@ Felix Browder was an American mathematician who made fundamental contributions t
 | 1948 | PhD from Princeton at 20 |
 | 2016 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Felix Browder" - https://en.wikipedia.org/wiki/Felix_Browder
 
@@ -48,3 +48,6 @@ Felix Browder was an American mathematician who made fundamental contributions t
 - Nonlinear functional analysis
 - Partial differential equations (PDEs) and variational methods
 - U.S. mathematical societies and research institutes
+
+
+## References

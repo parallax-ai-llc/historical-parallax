@@ -21,7 +21,7 @@ North Korean deputy minister allegedly executed by flamethrower for falling asle
 |------|-------|
 | 2016 | Allegedly executed by flamethrower |
 
-## References
+
 
 [^1]: Wikipedia, "O Sang-hon" - https://en.wikipedia.org/wiki/O_Sang-hon
 
@@ -56,3 +56,6 @@ North Korean deputy minister allegedly executed by flamethrower for falling asle
 - The linked Wikipedia URL may not always resolve to a stable biography page; availability and redirects can change over time.
 
 [^2]: Note: As of 2026-03-04 (Asia/Seoul), the linked Wikipedia URL returned a “page does not exist” notice in one automated fetch attempt; this does not by itself confirm or disprove the underlying claim.
+
+
+## References

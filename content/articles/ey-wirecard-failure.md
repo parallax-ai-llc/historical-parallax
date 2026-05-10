@@ -21,7 +21,7 @@ Ernst & Young audited Wirecard for over a decade without detecting that €1.9 b
 |------|-------|
 | 2020 | Wirecard fraud exposed; EY blamed |
 
-## References
+
 
 [^1]: Wikipedia, "EY Wirecard Failure" - https://en.wikipedia.org/wiki/EY_Wirecard_Failure
 
@@ -68,3 +68,6 @@ These are common, non-technical takeaways cited in discussions of the scandal:
 - **Confirmations must be independent**: Strong audit evidence requires confirmations routed through controlled channels and corroborated by multiple sources.
 - **Partner-heavy models need extra scrutiny**: When profits depend on counterparties and intermediaries, the auditor’s understanding of controls, contracts, and settlement flows becomes critical.
 - **Escalation culture matters**: A checklist approach can fail when an engagement requires professional judgment and sustained skepticism.
+
+
+## References

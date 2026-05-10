@@ -21,7 +21,7 @@ White supremacist rally in Charlottesville, Virginia turned deadly when a neo-Na
 |------|-------|
 | 2017 | Counter-protester killed by car attack |
 
-## References
+
 
 [^1]: Wikipedia, "Charlottesville Rally" - https://en.wikipedia.org/wiki/Charlottesville_Rally
 
@@ -62,3 +62,6 @@ White supremacist rally in Charlottesville, Virginia turned deadly when a neo-Na
 
 - U.S. Department of Justice press releases and court filings related to the federal prosecution of James Alex Fields Jr.
 - Reporting and after-action reviews examining policing, crowd control, and emergency response during the rally weekend.
+
+
+## References

@@ -41,7 +41,7 @@ Lochte’s career illustrates how elite swimming careers are shaped by both indi
 
 He also drew substantial media attention beyond competition results, which affected public perception of his career in addition to his athletic accomplishments.
 
-## References
+
 
 [^1]: Wikipedia, "Ryan Lochte" - https://en.wikipedia.org/wiki/Ryan_Lochte
 
@@ -50,3 +50,6 @@ He also drew substantial media attention beyond competition results, which affec
 - National teams and major meets: continued presence across multiple Olympic cycles.
 - Media profile: frequently covered in U.S. sports media during peak years.
 - Comparison point: often referenced in discussions of the Phelps-era depth in U.S. swimming.
+
+
+## References

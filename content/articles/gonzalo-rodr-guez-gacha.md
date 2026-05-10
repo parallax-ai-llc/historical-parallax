@@ -36,7 +36,7 @@ Colombian drug lord known as 'The Mexican' who was a founding member of the Mede
 - **Political and security spillover:** organized crime activity can reshape local governance and security dynamics.
 - **Escalation cycles:** attacks, counterattacks, and crackdowns often increase civilian risk.
 
-## References
+
 
 [^1]: Wikipedia, "Gonzalo Rodríguez Gacha" - https://en.wikipedia.org/wiki/Gonzalo_Rodr%C3%ADguez_Gacha
 
@@ -48,3 +48,6 @@ Colombian drug lord known as 'The Mexican' who was a founding member of the Mede
 - Avoid over-specific numbers (e.g., estimated wealth) unless the source is explicit and attributable.
 - Keep timelines anchored to dated, verifiable events.
 - Prefer neutral language that distinguishes allegations from confirmed findings.
+
+
+## References

@@ -24,7 +24,7 @@ Liberian warlord who captured and tortured President Samuel Doe to death while d
 | 2005 | Elected senator in Liberia |
 | 2024 | Remains a senator despite war crimes allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Prince Johnson" - https://en.wikipedia.org/wiki/Prince_Johnson
 
@@ -51,3 +51,6 @@ Liberia's Truth and Reconciliation Commission (TRC) collected testimony about ab
 ## Notes
 
 Some summaries describe Johnson in highly graphic terms; historical overviews typically focus on the broader political and humanitarian context, the documented public record, and the institutional efforts (such as the TRC) aimed at addressing wartime abuses.
+
+
+## References

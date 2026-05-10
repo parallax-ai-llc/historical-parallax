@@ -23,7 +23,7 @@ Mas Oyama founded Kyokushin karate and was famous for fighting bulls barehanded.
 | 1964 | Officially established Kyokushin karate |
 | 1994 | Died in Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Mas Oyama" - https://en.wikipedia.org/wiki/Mas_Oyama
 
@@ -48,3 +48,6 @@ Many notable fighters in kickboxing and mixed striking sports trained in Kyokush
 ## Enduring identity
 
 Kyokushin remains a recognizable global brand within karate, and "Osu" culture and hard training are often cited as defining elements of the community associated with Oyama.
+
+
+## References

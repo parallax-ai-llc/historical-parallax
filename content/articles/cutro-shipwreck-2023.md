@@ -21,7 +21,7 @@ Migrant boat broke apart off Cutro, Calabria, killing at least 94 people includi
 |------|-------|
 | 2023 | 94 killed including 35 children |
 
-## References
+
 
 [^1]: Wikipedia, "Cutro Shipwreck 2023" - https://en.wikipedia.org/wiki/Cutro_Shipwreck_2023
 
@@ -55,3 +55,6 @@ Migrant boat broke apart off Cutro, Calabria, killing at least 94 people includi
 ## Notes
 
 - Counts of fatalities and survivors in maritime disasters can vary over time as recovery and identification progress; figures above reflect widely cited reporting summarized by the reference article.[^1]
+
+
+## References

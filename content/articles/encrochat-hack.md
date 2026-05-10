@@ -21,7 +21,7 @@ French and Dutch police hacked EncroChat encrypted phones used by criminals, rea
 |------|-------|
 | 2020 | 100 million criminal messages intercepted |
 
-## References
+
 
 [^1]: Wikipedia, "Encrochat Hack" - https://en.wikipedia.org/wiki/Encrochat_Hack
 
@@ -59,3 +59,6 @@ French and Dutch police hacked EncroChat encrypted phones used by criminals, rea
 
 - End-to-end encryption
 - Lawful hacking / equipment interference (terms vary by jurisdiction)
+
+
+## References

@@ -22,7 +22,7 @@ Known as 'El Coss,' successor to Osiel Cárdenas as Gulf Cartel leader. His arre
 | 2003 | Became Gulf Cartel leader |
 | 2012 | Captured by Mexican marines |
 
-## References
+
 
 [^1]: Wikipedia, "Jorge Eduardo Costilla Sánchez" - https://en.wikipedia.org/wiki/Jorge_Eduardo_Costilla_S%C3%A1nchez
 
@@ -50,3 +50,6 @@ Known as 'El Coss,' successor to Osiel Cárdenas as Gulf Cartel leader. His arre
 
 - Much of the public record on cartel leadership comes from indictments, press releases, and investigative journalism; details can vary by source and jurisdiction.
 - Names, roles, and dates are often reported in the context of ongoing investigations and may be revised as cases proceed.
+
+
+## References

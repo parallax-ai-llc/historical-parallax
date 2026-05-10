@@ -21,7 +21,7 @@ Burkinabè military officer who overthrew President Kaboré in January 2022 befo
 |------|-------|
 | 2022 | Led coup; overthrown 8 months later |
 
-## References
+
 
 [^1]: Wikipedia, "Paul-Henri Sandaogo Damiba" - https://en.wikipedia.org/wiki/Paul-Henri_Sandaogo_Damiba
 
@@ -64,3 +64,6 @@ Burkinabè military officer who overthrew President Kaboré in January 2022 befo
 
 [^2]: Wikipedia, "January 2022 Burkina Faso coup d'état" - https://en.wikipedia.org/wiki/January_2022_Burkina_Faso_coup_d%27%C3%A9tat
 [^3]: Wikipedia, "September 2022 Burkina Faso coup d'état" - https://en.wikipedia.org/wiki/September_2022_Burkina_Faso_coup_d%27%C3%A9tat
+
+
+## References

@@ -21,7 +21,7 @@ Austrian serial killer who murdered travelers and buried them on his property.
 |------|-------|
 | 1960 | Convicted of multiple murders |
 
-## References
+
 
 [^1]: Wikipedia, "Josef Schwab" - https://en.wikipedia.org/wiki/Josef_Schwab
 
@@ -60,3 +60,6 @@ Austrian serial killer who murdered travelers and buried them on his property.
 
 - Serial killer (definition and classification)
 - Austrian criminal justice system (for sentencing context)
+
+
+## References

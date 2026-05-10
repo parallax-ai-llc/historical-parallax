@@ -5,7 +5,7 @@ birth: "1965-01-01"
 death: "2014-05-18"
 nationality: "India"
 occupation: ["Smuggler"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Brooklyn_Museum_-_Portrait_of_Raja_Sansar_Chand_of_Kangra.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sansar_Chand"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Indian wildlife smuggler who was India's most notorious wildlife criminal. He wa
 | 2005 | Arrested with leopard skins and tiger bones |
 | 2014 | Died of oral cancer in Agra |
 
-## References
+
 
 [^1]: Wikipedia, "Sansar Chand" - https://en.wikipedia.org/wiki/Sansar_Chand
 
@@ -49,3 +49,6 @@ This article summarizes high-level, widely reported details; specific case numbe
 ## Further reading
 
 - Wikipedia entry and its cited sources provide a starting point for case-by-case details.
+
+
+## References

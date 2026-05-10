@@ -21,7 +21,7 @@ Illegal gold miners (garimpeiros) have devastated the Amazon, contaminating rive
 |------|-------|
 | 2022 | Peak illegal mining in Amazon |
 
-## References
+
 
 [^1]: Wikipedia, "Garimpo Amazon" - https://en.wikipedia.org/wiki/Garimpo_Amazon
 
@@ -63,3 +63,6 @@ Illegal gold miners (garimpeiros) have devastated the Amazon, contaminating rive
 
 [^2]: U.S. EPA, "Mercury and Health" - https://www.epa.gov/mercury/health-effects-exposures-mercury
 [^3]: UNEP, "Global Mercury Assessment" - https://www.unep.org/resources/report/global-mercury-assessment-2018
+
+
+## References

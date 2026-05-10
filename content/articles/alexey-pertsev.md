@@ -58,7 +58,7 @@ Tornado Cash developer convicted in Netherlands of money laundering via the cryp
 - **Open-source accountability**: It is used as an example in arguments about whether “code is speech” and where liability attaches when software is used for illicit finance.
 - **Protocol governance**: Raises practical questions about control, maintenance, and the meaning of “operator” for decentralized projects.
 
-## References
+
 
 [^1]: Wikipedia, "Alexey Pertsev" - https://en.wikipedia.org/wiki/Alexey_Pertsev
 
@@ -80,3 +80,6 @@ Alexey Pertsev is a developer associated with Tornado Cash, a cryptocurrency mix
 - Whether claims refer to smart contracts, a web interface, relay infrastructure, or identifiable operators.
 - The specific alleged predicate crimes connected to the laundering allegations.
 - The degree of practical control or influence attributed to developers.
+
+
+## References

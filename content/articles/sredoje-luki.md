@@ -23,7 +23,7 @@ Bosnian Serb convicted of participation in the Višegrad house burnings alongsid
 | 2005 | Arrested |
 | 2009 | Convicted and sentenced to 27 years, reduced to 20 on appeal |
 
-## References
+
 
 [^1]: Wikipedia, "Sredoje Lukić" - https://en.wikipedia.org/wiki/Sredoje_Luki%C4%87
 
@@ -51,3 +51,6 @@ Bosnian Serb convicted of participation in the Višegrad house burnings alongsid
 
 - The case is often referenced in studies of mass-atrocity litigation and the role of international courts in post-conflict justice.
 - For survivors and communities affected, legal outcomes are part of broader efforts toward recognition, memorialization, and rebuilding.
+
+
+## References

@@ -24,7 +24,7 @@ Scottish serial killer known as the Monster Butler who worked as a butler in wea
 | 1978 | Convicted and sentenced to life imprisonment |
 | 2002 | Died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Archibald Hall" - https://en.wikipedia.org/wiki/Archibald_Hall
 
@@ -48,3 +48,6 @@ The case attracted public attention because the offender operated within private
 
 - Serial crime investigations in the United Kingdom
 - Crimes involving false identities
+
+
+## References

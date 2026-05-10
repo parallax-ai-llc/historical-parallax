@@ -21,7 +21,7 @@ Duplicate — see Ingvar Kamprad.
 |------|-------|
 | 1926 | See Ingvar Kamprad entry |
 
-## References
+
 
 [^1]: Wikipedia, "IKEA Kamprad duplicate" - https://en.wikipedia.org/wiki/IKEA_Kamprad_duplicate
 
@@ -74,3 +74,6 @@ If you maintain a knowledge base or graph:
 
 - Ingvar Kamprad (canonical)
 - IKEA (company)
+
+
+## References

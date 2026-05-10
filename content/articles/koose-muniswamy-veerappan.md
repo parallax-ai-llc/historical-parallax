@@ -5,7 +5,7 @@ birth: "1952-01-18"
 death: "2004-10-18"
 nationality: "India"
 occupation: ["Bandit", "Smuggler", "Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Veerappan%2C_Chasing_the_Brigand_%28Book%2C_2017%29_01_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Koose_Muniswamy_Veerappan"
 lastUpdated: "2026-02-26"

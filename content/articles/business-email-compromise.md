@@ -23,7 +23,7 @@ Global fraud scheme where criminals impersonate business executives to trick emp
 | 2019 | $26 billion in losses reported |
 | 2022 | $51 billion cumulative losses |
 
-## References
+
 
 [^1]: Wikipedia, "Business Email Compromise" - https://en.wikipedia.org/wiki/Business_Email_Compromise
 
@@ -77,3 +77,6 @@ Loss estimates can vary by source and methodology. Public totals often combine c
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

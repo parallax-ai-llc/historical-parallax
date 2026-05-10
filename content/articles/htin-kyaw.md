@@ -22,7 +22,7 @@ Former president of Myanmar who served as Aung San Suu Kyi's proxy, as she was c
 | 2016 | Became president serving as NLD proxy |
 | 2018 | Resigned due to health reasons |
 
-## References
+
 
 [^1]: Wikipedia, "Htin Kyaw" - https://en.wikipedia.org/wiki/Htin_Kyaw
 
@@ -51,3 +51,6 @@ Former president of Myanmar who served as Aung San Suu Kyi's proxy, as she was c
 
 - **National League for Democracy (NLD):** political party associated with the civilian government formed after the 2015 election.
 - **2008 Constitution:** document shaping eligibility and institutional power sharing in Myanmar.
+
+
+## References

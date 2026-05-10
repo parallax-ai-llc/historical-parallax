@@ -22,7 +22,7 @@ General secretary of CPI(Maoist) who was India's most wanted Maoist leader with 
 | 2004 | Became general secretary after merger of Maoist groups |
 | 2017 | Retired as general secretary due to health |
 
-## References
+
 
 [^1]: Wikipedia, "Ganapathy" - https://en.wikipedia.org/wiki/Ganapathy
 
@@ -77,3 +77,6 @@ Underground movements often rely on:
 ## Caution on Biographical Specifics
 
 Because senior insurgent leaders operate clandestinely, public biographical details can be incomplete, contested, or based on intelligence claims rather than open documentation.
+
+
+## References

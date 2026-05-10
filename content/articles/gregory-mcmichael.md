@@ -21,7 +21,7 @@ Former police officer convicted of murdering Ahmaud Arbery alongside his son.
 |------|-------|
 | 2022 | Convicted of murder and hate crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Gregory McMichael" - https://en.wikipedia.org/wiki/Gregory_McMichael
 
@@ -69,3 +69,6 @@ High-profile homicide cases like this often intersect with:
 
 ## Aftermath
 The case is frequently cited in discussions of legal reform, including changes to citizen’s-arrest laws and calls for more transparent investigative procedures.
+
+
+## References

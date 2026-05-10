@@ -21,7 +21,7 @@ OceanGate's Titan submersible imploded during a dive to the Titanic wreck killin
 |------|-------|
 | 2023 | 5 killed in submersible implosion |
 
-## References
+
 
 [^1]: Wikipedia, "Titan Submersible Implosion" - https://en.wikipedia.org/wiki/Titan_Submersible_Implosion
 
@@ -60,3 +60,6 @@ Multiple entities announced or conducted investigations and hearings to understa
 ## Additional References
 
 [^2]: Investigative coverage and technical discussion are summarized in the Wikipedia article and its cited sources.
+
+
+## References

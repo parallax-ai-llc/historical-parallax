@@ -21,7 +21,7 @@ Mother of the Boston bombers suspected of radicalizing her sons.
 |------|-------|
 | 2013 | Suspected of influencing sons' radicalization |
 
-## References
+
 
 [^1]: Wikipedia, "Zubeidat Tsarnaeva" - https://en.wikipedia.org/wiki/Zubeidat_Tsarnaeva
 
@@ -52,3 +52,6 @@ Tsarnaeva is typically included in historical or encyclopedic summaries because:
 ## Additional Reading
 
 [^2]: Encyclopaedia Britannica, "Boston Marathon bombing of 2013" (context on the event) - https://www.britannica.com/event/Boston-Marathon-bombing-of-2013
+
+
+## References

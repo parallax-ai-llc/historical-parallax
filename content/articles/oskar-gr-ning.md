@@ -21,7 +21,7 @@ Former Auschwitz guard known as the 'Bookkeeper of Auschwitz' convicted at age 9
 |------|-------|
 | 2015 | Convicted at age 94 |
 
-## References
+
 
 [^1]: Wikipedia, "Oskar Gröning" - https://en.wikipedia.org/wiki/Oskar_Gr%C3%B6ning
 
@@ -65,3 +65,6 @@ Former Auschwitz guard known as the 'Bookkeeper of Auschwitz' convicted at age 9
 ## Further Reading
 
 - Wikipedia entry for Oskar Gröning (overview, biography, and trial coverage).[^1]
+
+
+## References

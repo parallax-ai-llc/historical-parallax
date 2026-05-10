@@ -5,7 +5,7 @@ birth: "1886-11-20"
 death: "1982-06-12"
 nationality: "Austrian"
 occupation: ["Ethologist", "Zoologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/bb/Karl_von_Frisch.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_von_Frisch"
 lastUpdated: "2026-02-21"

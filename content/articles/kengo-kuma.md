@@ -5,7 +5,7 @@ birth: "1954-08-08"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kengo_Kuma_at_Strelka_Institute.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kengo_Kuma"
 lastUpdated: "2026-02-21"

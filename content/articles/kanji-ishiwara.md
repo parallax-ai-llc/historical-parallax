@@ -5,7 +5,7 @@ birth: "1889-01-18"
 death: "1949-08-15"
 nationality: "Japan"
 occupation: ["War Criminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Kanji_Ishiwara2_%28cropped%29.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kanji_Ishiwara"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Japanese general who masterminded the Mukden Incident and invasion of Manchuria.
 | 1931 | Masterminded Mukden Incident |
 | 1949 | Died of bladder cancer |
 
-## References
+
 
 [^1]: Wikipedia, "Kanji Ishiwara" - https://en.wikipedia.org/wiki/Kanji_Ishiwara
 
@@ -56,3 +56,6 @@ The Mukden Incident is frequently analyzed as an example of how field-level init
 ## Historiography notes
 
 Biographies of prominent military figures from this era often mix operational history with intellectual history (ideas about war, industry, and society). Interpretations can differ on the balance between personal intent, factional dynamics, and structural pressures inside the Japanese state.
+
+
+## References

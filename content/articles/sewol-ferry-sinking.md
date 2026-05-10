@@ -21,7 +21,7 @@ Overloaded MV Sewol capsized killing 304 passengers, mostly high school students
 |------|-------|
 | 2014 | 304 killed; captain abandoned ship |
 
-## References
+
 
 [^1]: Wikipedia, "Sewol Ferry Sinking" - https://en.wikipedia.org/wiki/Sewol_Ferry_Sinking
 
@@ -85,3 +85,6 @@ In high-level accounts, the aftermath is often framed as a governance and safety
 ## Media and Political Controversy
 
 The Sewol disaster generated sustained media coverage and political contention, including disputes over the adequacy of state response, the scope of inquiries, and the broader question of how accountability should be allocated across individuals, companies, and institutions.
+
+
+## References

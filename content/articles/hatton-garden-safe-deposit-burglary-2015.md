@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 2015-04-02 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -48,3 +48,6 @@ The case drew sustained media coverage during the investigation and subsequent t
 ## Impact on the Safe-Deposit Industry
 The burglary is frequently cited in discussions about third-party custody and the assumptions customers make about physical security. It reinforced the value of layered controls such as monitored access logs, rapid alarm response, robust vault design, and independent audits of security practices.
 The event remains a prominent modern example of high-value burglary in London.
+
+
+## References

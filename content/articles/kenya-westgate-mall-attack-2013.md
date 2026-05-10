@@ -6,7 +6,7 @@ location: "Nairobi, Kenya"
 coordinates: [36.8, -1.26]
 category: ["Terrorism", "Kenya"]
 outcome: "67 killed, 175 injured"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Smoke_above_Westgate_mall.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Westgate_shopping_mall_attack"
 lastUpdated: "2026-02-26"
@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 2013-09-21 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -48,3 +48,6 @@ Following the siege, Kenyan authorities and independent observers examined prepa
 ## Regional Security Implications
 Westgate is often cited as a milestone in al-Shabaab's external operations and in the broader pattern of cross-border militant violence in East Africa. It influenced subsequent counterterrorism policies, public-venue security practices, and regional cooperation efforts aimed at disrupting recruitment, financing, and operational planning.
 The attack remains a key reference point in Kenyan security discourse and memorialization.
+
+
+## References

@@ -21,7 +21,7 @@ Argentine police chief convicted of torture, kidnapping, and murder during the D
 |------|-------|
 | 2006 | Convicted of crimes against humanity |
 
-## References
+
 
 [^1]: Wikipedia, "Miguel Etchecolatz" - https://en.wikipedia.org/wiki/Miguel_Etchecolatz
 
@@ -73,3 +73,6 @@ Argentine police chief convicted of torture, kidnapping, and murder during the D
 
 - Wikipedia overview (biographical summary and references)
 - Human-rights trial reporting and Argentine court documentation on dictatorship-era cases
+
+
+## References

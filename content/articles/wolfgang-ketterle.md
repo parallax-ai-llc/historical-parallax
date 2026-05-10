@@ -23,7 +23,7 @@ Wolfgang Ketterle shared the 2001 Nobel Prize for achieving Bose-Einstein conden
 | 1995 | Created BEC independently |
 | 2001 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Wolfgang Ketterle" - https://en.wikipedia.org/wiki/Wolfgang_Ketterle
 
@@ -52,3 +52,6 @@ The 2001 Nobel Prize in Physics recognized the achievement of Bose–Einstein co
 
 - Bose–Einstein condensate
 - Ultracold atoms and quantum gases
+
+
+## References

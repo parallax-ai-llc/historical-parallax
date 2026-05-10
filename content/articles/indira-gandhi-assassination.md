@@ -22,7 +22,7 @@ Assassination of Indian PM Indira Gandhi by her Sikh bodyguards on October 31, 1
 | 1984 | Anti-Sikh riots killed 3,000 |
 | 1989 | Satwant Singh executed |
 
-## References
+
 
 [^1]: Wikipedia, "Indira Gandhi Assassination" - https://en.wikipedia.org/wiki/Indira_Gandhi_Assassination
 
@@ -54,3 +54,6 @@ Assassination of Indian PM Indira Gandhi by her Sikh bodyguards on October 31, 1
 ## Additional Reading
 
 [^2]: Encyclopaedia Britannica, "Indira Gandhi" (biographical and historical context) - https://www.britannica.com/biography/Indira-Gandhi
+
+
+## References

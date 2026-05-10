@@ -22,7 +22,7 @@ Fritz Walter captained Germany to the 1954 'Miracle of Bern' WC victory.
 | 1954 | Captained Germany to WC victory |
 | 2002 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Fritz Walter" - https://en.wikipedia.org/wiki/Fritz_Walter
 
@@ -51,3 +51,6 @@ Fritz Walter captained Germany to the 1954 'Miracle of Bern' WC victory.
 - 1954 FIFA World Cup
 - 1. FC Kaiserslautern history
 - Post-war West German cultural history
+
+
+## References

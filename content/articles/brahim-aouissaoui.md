@@ -22,7 +22,7 @@ Tunisian man who stabbed three people to death at Notre-Dame de Nice basilica. H
 | 2020 | Stabbed three to death in Nice basilica |
 | 2020 | Arrested after being shot by police |
 
-## References
+
 
 [^1]: Wikipedia, "Brahim Aouissaoui" - https://en.wikipedia.org/wiki/Brahim_Aouissaoui
 
@@ -53,3 +53,6 @@ Tunisian man who stabbed three people to death at Notre-Dame de Nice basilica. H
 ## Notes
 
 - Public reporting on early movements (routes, dates, and contacts) can change as investigations publish new findings; detailed claims should be cross-checked against primary court documents where available.
+
+
+## References

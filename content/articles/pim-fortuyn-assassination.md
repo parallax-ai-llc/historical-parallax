@@ -21,7 +21,7 @@ Dutch far-right politician Pim Fortuyn was shot dead by animal rights activist V
 |------|-------|
 | 2002 | Fortuyn assassinated |
 
-## References
+
 
 [^1]: Wikipedia, "Pim Fortuyn Assassination" - https://en.wikipedia.org/wiki/Pim_Fortuyn_Assassination
 
@@ -67,3 +67,6 @@ Dutch far-right politician Pim Fortuyn was shot dead by animal rights activist V
 
 [^2]: Wikipedia, "Pim Fortuyn" - https://en.wikipedia.org/wiki/Pim_Fortuyn
 [^3]: Wikipedia, "Volkert van der Graaf" - https://en.wikipedia.org/wiki/Volkert_van_der_Graaf
+
+
+## References

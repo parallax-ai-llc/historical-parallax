@@ -5,7 +5,7 @@ birth: "1934-09-21"
 death: "2016-11-07"
 nationality: "Canadian"
 occupation: ["Singer", "Songwriter", "Poet", "Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Leonard_Cohen%2C_1988_01.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonard_Cohen"
 lastUpdated: "2026-02-21"

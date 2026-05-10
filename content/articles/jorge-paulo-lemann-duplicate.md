@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1939 | See Jorge Paulo Lemann |
 
-## References
+
 
 [^1]: Wikipedia, "Jorge Paulo Lemann duplicate" - https://en.wikipedia.org/wiki/Jorge_Paulo_Lemann_duplicate
 
@@ -68,3 +68,6 @@ If you are maintaining a knowledge base or importing data:
 ## Additional references
 
 [^2]: Wikipedia, "Jorge Paulo Lemann" - https://en.wikipedia.org/wiki/Jorge_Paulo_Lemann
+
+
+## References

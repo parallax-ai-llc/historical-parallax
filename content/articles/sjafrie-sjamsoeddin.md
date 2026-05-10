@@ -21,7 +21,7 @@ Indonesian general accused of involvement in the 1998 Jakarta riots and disappea
 |------|-------|
 | 1998 | Accused of involvement in Jakarta violence |
 
-## References
+
 
 [^1]: Wikipedia, "Sjafrie Sjamsoeddin" - https://en.wikipedia.org/wiki/Sjafrie_Sjamsoeddin
 
@@ -53,3 +53,6 @@ Indonesian general accused of involvement in the 1998 Jakarta riots and disappea
 
 - The frontmatter fields in this article are a compact summary and may not capture later roles or biographical details.
 - For a detailed, continuously-updated biography and office history, refer to the linked Wikipedia entry.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1921-10-04"
 death: "2020-01-19"
 nationality: "Korean-Japanese"
 occupation: ["Industrialist", "Food scientist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Shin_Kyuk-ho.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shin_Kyuk-ho"
 lastUpdated: "2026-02-21"

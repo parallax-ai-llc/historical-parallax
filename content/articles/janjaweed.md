@@ -23,7 +23,7 @@ Sudanese Arab militia that carried out genocide in Darfur on behalf of the Sudan
 | 2005 | Declared genocide by US |
 | 2023 | RSF evolved from Janjaweed |
 
-## References
+
 
 [^1]: Wikipedia, "Janjaweed" - https://en.wikipedia.org/wiki/Janjaweed
 ## Overview
@@ -48,3 +48,6 @@ The crisis prompted major humanitarian operations and diplomatic initiatives, in
 
 ## Legacy
 In later years, some militia elements were reported to have been reorganized or integrated into other security structures. The Darfur conflict and associated allegations of atrocities remain a central subject in discussions of Sudan’s contemporary history and accountability efforts.
+
+
+## References

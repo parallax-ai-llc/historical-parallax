@@ -5,7 +5,7 @@ birth: "1848-09-04"
 death: "1928-12-11"
 nationality: "American"
 occupation: ["Inventor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lewis_latimer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lewis_Howard_Latimer"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Dup of Lewis Latimer.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Lewis Howard Latimer" - https://en.wikipedia.org/wiki/Lewis_Howard_Latimer
 
@@ -67,3 +67,6 @@ Dup of Lewis Latimer.
 
 [^2]: Encyclopaedia Britannica, "Lewis Howard Latimer" (overview) - https://www.britannica.com/biography/Lewis-Howard-Latimer
 [^3]: U.S. National Park Service (historical context on African American inventors; includes Latimer in some educational materials) - https://www.nps.gov/
+
+
+## References

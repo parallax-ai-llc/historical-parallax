@@ -21,7 +21,7 @@ Islamic State Central Africa Province carrying out attacks in Congo and Mozambiq
 |------|-------|
 | 2021 | Expanded operations in Central Africa |
 
-## References
+
 
 [^1]: Wikipedia, "ISCAP" - https://en.wikipedia.org/wiki/ISCAP
 
@@ -59,3 +59,6 @@ Islamic State Central Africa Province carrying out attacks in Congo and Mozambiq
 
 - Wikipedia’s ISCAP overview provides a starting point and links to cited reporting and related pages.
 - For higher-confidence timelines, consult multi-source references (e.g., UN reporting, academic datasets, and regional security analyses).
+
+
+## References

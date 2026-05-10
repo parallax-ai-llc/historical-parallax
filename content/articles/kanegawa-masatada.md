@@ -34,7 +34,7 @@ This person may be:
 
 A comprehensive historical article cannot be created for this individual without verification of their existence and access to primary or secondary historical sources. Creating fictional biographical content presented as factual would be misleading.
 
-## References
+
 
 - [List of Names | Portraits of Modern Japanese Historical Figures | National Diet Library, Japan](https://www.ndl.go.jp/portrait/e/indexes/)
 - [Kujō Masatada - Wikipedia](https://en.wikipedia.org/wiki/Kuj%C5%8D_Masatada)
@@ -60,3 +60,6 @@ To avoid inventing biography where none is documented, verification typically pr
 ## Editorial Note
 
 Until a reliable source anchors the identity (kanji + era + role), this entry should be treated as a research placeholder rather than a confirmed historical biography.
+
+
+## References

@@ -22,7 +22,7 @@ Pakistani citizen who, with husband Syed Rizwan Farook, carried out the San Bern
 | 2015 | Attacked San Bernardino; killed 14 |
 | 2015 | Killed in shootout with police |
 
-## References
+
 
 [^1]: Wikipedia, "Tashfeen Malik" - https://en.wikipedia.org/wiki/Tashfeen_Malik
 
@@ -50,3 +50,6 @@ The attack contributed to renewed debate about counterterrorism, firearms, and t
 - San Bernardino attack
 - Islamic State-related propaganda
 - Counterterrorism investigations in the United States
+
+
+## References

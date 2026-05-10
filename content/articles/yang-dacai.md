@@ -22,7 +22,7 @@ Chinese official known as 'Brother Watch' after being spotted smiling at a crash
 | 2012 | Photographed smiling at crash wearing expensive watch |
 | 2013 | Sentenced to 14 years for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Yang Dacai" - https://en.wikipedia.org/wiki/Yang_Dacai
 
@@ -58,3 +58,6 @@ This case is often cited as an example of:
 
 The “Brother Watch” label remained a cultural shorthand in China for officials whose visible consumption triggers corruption suspicions.
 
+
+
+## References

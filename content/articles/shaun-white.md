@@ -23,7 +23,7 @@ Shaun White won three Olympic halfpipe golds (2006, 2010, 2018), the greatest ha
 | 2010 | Won gold at Vancouver |
 | 2018 | Won third gold at PyeongChang |
 
-## References
+
 
 [^1]: Wikipedia, "Shaun White" - https://en.wikipedia.org/wiki/Shaun_White
 
@@ -59,3 +59,6 @@ White became one of the most recognizable athletes in snowboarding, contributing
 ## Retirement and legacy
 
 After ending his competitive career, discussion of his legacy typically focuses on his Olympic record, his role in raising the sport’s profile, and the progression of halfpipe trick difficulty during the era he helped define.
+
+
+## References

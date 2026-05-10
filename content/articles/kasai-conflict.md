@@ -22,7 +22,7 @@ Conflict in the Kasai region killed over 3,000 and displaced 1.4 million after t
 | 2016 | Conflict began |
 | 2017 | Mass graves discovered |
 
-## References
+
 
 [^1]: Wikipedia, "Kasai Conflict" - https://en.wikipedia.org/wiki/Kasai_Conflict
 
@@ -56,3 +56,6 @@ Reporting on the conflict commonly distinguishes between local militia mobilizat
 ## Accountability and investigations
 
 Atrocity allegations in Kasai have been linked to calls for credible investigations, protection of witnesses, and longer-term security-sector reform. In many such crises, accountability efforts are challenged by limited access, ongoing insecurity, and weak judicial capacity.
+
+
+## References

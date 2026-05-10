@@ -22,7 +22,7 @@ Nigerian military commander known as the 'Black Scorpion' who led brutal operati
 | 1968 | Led Third Marine Commando Division in controversial Biafran operations |
 | 1975 | Retired from military |
 
-## References
+
 
 [^1]: Wikipedia, "Benjamin Adekunle" - https://en.wikipedia.org/wiki/Benjamin_Adekunle
 
@@ -57,3 +57,6 @@ His post-service public profile is often framed through the lens of the civil wa
 ## Legacy
 
 Adekunle remains a frequently cited example in Nigerian civil-war historiography of how tactical success, political aims, and human-rights concerns can collide during internal conflicts.
+
+
+## References

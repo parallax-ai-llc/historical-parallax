@@ -23,7 +23,7 @@ Brazilian cult leader who founded a UFO cult and was accused of ordering the cas
 | 1989 | Series of child murders began in Altamira |
 | 2003 | Acquitted of murder charges due to lack of evidence |
 
-## References
+
 
 [^1]: Wikipedia, "Valentina de Andrade" - https://en.wikipedia.org/wiki/Valentina_de_Andrade
 
@@ -48,3 +48,6 @@ Brazilian cult leader who founded a UFO cult and was accused of ordering the cas
 
 - The case is frequently cited as an example of how sensational narratives can affect investigations and trials.
 - It also illustrates difficulties in resolving long-running serial cases where forensic and testimonial evidence is contested.
+
+
+## References

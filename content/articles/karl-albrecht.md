@@ -5,7 +5,7 @@ birth: "1920-02-20"
 death: "2014-07-16"
 nationality: "German"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Aldi_Essen-Schonnebeck.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Albrecht"
 lastUpdated: "2026-02-21"

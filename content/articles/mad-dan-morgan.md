@@ -22,7 +22,7 @@ Australian bushranger known for his unpredictable violence and mental instabilit
 | 1863 | Began reign of terror |
 | 1865 | Shot dead; body desecrated |
 
-## References
+
 
 [^1]: Wikipedia, "Mad Dan Morgan" - https://en.wikipedia.org/wiki/Mad_Dan_Morgan
 
@@ -53,3 +53,6 @@ These notes add high-level, factual context based on widely available public sum
 ## References (additional)
 
 - The linked Wikipedia page in the frontmatter is a starting point and typically aggregates citations to other sources.
+
+
+## References

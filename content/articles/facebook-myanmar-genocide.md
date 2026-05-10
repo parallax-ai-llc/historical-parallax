@@ -22,7 +22,7 @@ Facebook's platform was used to spread hate speech and coordinate violence again
 | 2017 | Facebook used to incite genocide |
 | 2018 | UN report cited Facebook's role |
 
-## References
+
 
 [^1]: Wikipedia, "Facebook Myanmar Genocide" - https://en.wikipedia.org/wiki/Facebook_Myanmar_Genocide
 
@@ -54,3 +54,6 @@ Facebook's platform was used to spread hate speech and coordinate violence again
 ## References (Additional)
 
 [^2]: For primary-source framing, see UN fact-finding mission reporting and human-rights organization documentation discussed in the Wikipedia citations.
+
+
+## References

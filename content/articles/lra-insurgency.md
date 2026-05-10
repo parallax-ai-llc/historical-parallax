@@ -23,7 +23,7 @@ Brutal insurgency by Joseph Konys Lords Resistance Army across Central Africa si
 | 2005 | ICC warrants issued |
 | 2017 | LRA significantly weakened |
 
-## References
+
 
 [^1]: Wikipedia, "LRA Insurgency" - https://en.wikipedia.org/wiki/LRA_Insurgency
 
@@ -51,3 +51,6 @@ Brutal insurgency by Joseph Konys Lords Resistance Army across Central Africa si
 
 - Many sources describe the LRA as significantly degraded by the 2010s, yet the legacy includes trauma among survivors, long-term community disruption, and ongoing questions around justice and reintegration.
 - Transitional justice, victim support, and reconciliation have remained major topics in scholarship and policy discussions about northern Uganda.
+
+
+## References

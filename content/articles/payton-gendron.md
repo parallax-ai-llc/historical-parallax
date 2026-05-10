@@ -23,7 +23,7 @@ Payton Gendron killed 10 Black people at a supermarket in Buffalo, New York on M
 | 2023-02 | Pleaded guilty in New York state court and received a sentence of life imprisonment without parole. |
 | 2024 | Federal case remained pending (reported in public coverage as separate from the state conviction). |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "2022 Buffalo shooting" (for a high-level public overview and linkable timeline).
 [^3]: Public reporting and publicly filed court documents describing the state guilty plea and sentence.
@@ -63,3 +63,6 @@ Payton Gendron killed 10 Black people at a supermarket in Buffalo, New York on M
 - 2022 Buffalo shooting
 - Hate crime law in the United States
 - Content moderation and livestreaming policy
+
+
+## References

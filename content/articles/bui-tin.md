@@ -21,7 +21,7 @@ Vietnamese colonel who accepted South Vietnam's surrender then defected and beca
 |------|-------|
 | 1990 | Defected to France |
 
-## References
+
 
 [^1]: Wikipedia, "Bui Tin" - https://en.wikipedia.org/wiki/Bui_Tin
 
@@ -48,3 +48,6 @@ Vietnamese colonel who accepted South Vietnam's surrender then defected and beca
 ## Quick Facts
 
 - **Died:** 11 August 2018 in Montreuil (Paris area), France (per Wikipedia).[^1]
+
+
+## References

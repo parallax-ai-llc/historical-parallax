@@ -5,7 +5,7 @@ birth: "1487-07-17"
 death: "1524-05-23"
 nationality: "Persian"
 occupation: ["Shah", "Religious Leader", "Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Shah_Ismail_I_Safavid%2C_Behzad.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shah_Ismail_I"
 lastUpdated: "2026-02-21"

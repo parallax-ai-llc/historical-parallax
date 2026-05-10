@@ -5,7 +5,7 @@ birth: "1942-10-23"
 death: "1942-11-11"
 nationality: "Egypt"
 occupation: ["Historical Event", "Battle", "World War II"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/El_Alamein_1942_-_British_infantry.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Second_Battle_of_El_Alamein"
 lastUpdated: "2026-02-21"

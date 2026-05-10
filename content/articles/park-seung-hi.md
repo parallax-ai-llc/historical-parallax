@@ -22,7 +22,7 @@ Park Seung-hi won two individual gold medals and relay gold at the 2014 Sochi Wi
 | 2010 | Won Olympic silver at Vancouver |
 | 2014 | Won two gold medals at Sochi Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Park Seung-hi" - https://en.wikipedia.org/wiki/Park_Seung-hi
 
@@ -48,3 +48,6 @@ Her results are frequently cited as part of South Korea's sustained dominance in
 Short track speed skating is typically contested in multiple distances and relay formats, and medal counts in a single Olympics often reflect success across both individual and team events.
 
 This article is a high-level overview and can be expanded further with event-by-event results and season standings where available.
+
+
+## References

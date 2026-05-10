@@ -22,7 +22,7 @@ Former Wenzhou deputy mayor who fled China with $40 million in embezzled funds. 
 | 2003 | Fled China with embezzled funds |
 | 2016 | Repatriated from the United States |
 
-## References
+
 
 [^1]: Wikipedia, "Yang Xiuzhu" - https://en.wikipedia.org/wiki/Yang_Xiuzhu
 
@@ -56,3 +56,6 @@ High-level reasons the case is remembered include:
 
 The case is often referenced in discussions about corruption risk, capital flight, and the challenges of cross-border law enforcement.
 
+
+
+## References

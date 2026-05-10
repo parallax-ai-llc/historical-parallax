@@ -22,7 +22,7 @@ Russian military intelligence GRU launched the NotPetya malware attack disguised
 | 2017 | NotPetya caused $10 billion in global damages |
 | 2018 | US and UK attributed attack to Russian GRU |
 
-## References
+
 
 [^1]: Wikipedia, "NotPetya Cyberattack" - https://en.wikipedia.org/wiki/NotPetya_Cyberattack
 
@@ -59,3 +59,6 @@ Multiple governments publicly attributed NotPetya to Russian state actors, inclu
 
 [^2]: Government attribution statements (US/UK and allied public communications from 2018)
 [^3]: Industry incident analyses and post-incident reporting on the Ukrainian software supply-chain component
+
+
+## References

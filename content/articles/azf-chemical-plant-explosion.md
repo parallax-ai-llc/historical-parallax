@@ -23,7 +23,7 @@ Explosion at the AZF chemical plant in Toulouse, France on September 21, 2001 th
 | 2001 | 31 killed |
 | 2012 | Former director convicted |
 
-## References
+
 
 [^1]: Wikipedia, "AZF Chemical Plant Explosion" - https://en.wikipedia.org/wiki/AZF_Chemical_Plant_Explosion
 
@@ -49,3 +49,6 @@ Explosion at the AZF chemical plant in Toulouse, France on September 21, 2001 th
 
 ## Notes
 
+
+
+## References

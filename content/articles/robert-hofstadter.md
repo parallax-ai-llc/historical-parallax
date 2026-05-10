@@ -5,7 +5,7 @@ birth: "1915-02-05"
 death: "1990-11-17"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Robert_Hofstadter.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Hofstadter"
 lastUpdated: "2026-02-26"

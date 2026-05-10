@@ -3,6 +3,7 @@ name: "Lester Holt"
 birth: "1959-03-08"
 nationality: "American"
 occupation: ["Journalist", "Television Anchor"]
+image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Lester_Holt_2022.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lester_Holt"
 lastUpdated: "2026-03-12"

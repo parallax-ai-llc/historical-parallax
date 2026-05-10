@@ -23,7 +23,7 @@ Assassination of Maltese investigative journalist Daphne Caruana Galizia by car 
 | 2019 | Businessman charged as mastermind |
 | 2022 | One defendant convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Daphne Caruana Galizia Murder" - https://en.wikipedia.org/wiki/Daphne_Caruana_Galizia_Murder
 
@@ -52,3 +52,6 @@ The case also generated debate about evidentiary transparency, the pace of justi
 ## Impact
 
 The murder is frequently cited as a landmark example of risks faced by investigative journalists in Europe and is used in broader discussions about the intersection of organized crime, business interests, and politics.
+
+
+## References

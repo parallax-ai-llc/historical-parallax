@@ -23,7 +23,7 @@ Indian serial killer from Mangalore who murdered 4 women by strangling them with
 | 2003 | Arrested after forensic investigation |
 | 2005 | Convicted and sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Manoj Suvarna" - https://en.wikipedia.org/wiki/Manoj_Suvarna
 
@@ -51,3 +51,6 @@ Indian serial killer from Mangalore who murdered 4 women by strangling them with
 ## Notes
 
 - Public summaries may compress multiple incidents; refer to the cited source for granular details.
+
+
+## References

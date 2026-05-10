@@ -21,7 +21,7 @@ Uzbek prosecutor general who oversaw politically motivated prosecutions and tort
 |------|-------|
 | 2003 | Oversaw mass political prosecutions |
 
-## References
+
 
 [^1]: Wikipedia (title target), "Kodir Tashmatov" - https://en.wikipedia.org/wiki/Kodir_Tashmatov
 
@@ -66,3 +66,6 @@ This article’s summary reflects an allegation-based characterization: that pro
 - Political prosecutions
 - Due process and prosecutorial oversight
 - Torture and coerced confessions
+
+
+## References

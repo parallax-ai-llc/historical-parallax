@@ -21,7 +21,7 @@ Leader of the Allied Democratic Forces responsible for massacres in eastern Cong
 |------|-------|
 | 2020 | Led ADF massacres in Congo |
 
-## References
+
 
 [^1]: Wikipedia, "Seka Musa Baluku" - https://en.wikipedia.org/wiki/Seka_Musa_Baluku
 [^2]: UN Security Council / sanctions-related materials on armed groups in the DRC (general reference hub) - https://www.un.org/securitycouncil/
@@ -69,3 +69,6 @@ In eastern DRC, such dynamics intersect with broader humanitarian crises, displa
 - Allied Democratic Forces (ADF)
 - Insurgency and armed group violence in North Kivu / Ituri
 - UN sanctions and monitoring mechanisms for armed groups in the DRC
+
+
+## References

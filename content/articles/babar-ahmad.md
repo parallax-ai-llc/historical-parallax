@@ -21,7 +21,7 @@ British man extradited to the US and convicted of providing material support to 
 |------|-------|
 | 2014 | Pleaded guilty to terrorism support |
 
-## References
+
 
 [^1]: Wikipedia, "Babar Ahmad" - https://en.wikipedia.org/wiki/Babar_Ahmad
 
@@ -63,3 +63,6 @@ This article summarizes widely reported milestones; detailed allegations, eviden
 
 - Court filings and sentencing documents (US federal court) — primary sources for charges, plea, and sentence.
 - UK court judgments in the extradition proceedings — primary sources for procedural history.
+
+
+## References

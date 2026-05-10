@@ -26,7 +26,7 @@ Canadian pig farmer convicted of murdering six women on his farm near Vancouver.
 | 2010 | Supreme Court of Canada decision results in a publication ban being lifted, allowing more evidence and allegations to be reported. |
 | 2024 | Died in Canada. |
 
-## References
+
 
 [^1]: Wikipedia, "Willie Pickton" - https://en.wikipedia.org/wiki/Willie_Pickton
 
@@ -69,3 +69,6 @@ Biographical and case summaries commonly distinguish between the six murders pro
 
 - The Pickton case has been the subject of sustained media coverage, books, and documentary treatment, typically focusing on the investigative timeline, the victims’ stories, and the policy questions raised.
 - When reading such materials, it is important to separate confirmed trial findings from later allegations or narrative reconstructions.
+
+
+## References

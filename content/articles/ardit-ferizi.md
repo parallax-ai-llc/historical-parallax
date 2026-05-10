@@ -23,7 +23,7 @@ Kosovar hacker who stole personal data of 1,300 US military and government perso
 | 2015 | Arrested in Malaysia |
 | 2016 | Convicted; sentenced to 20 years |
 
-## References
+
 
 [^1]: Wikipedia, "Ardit Ferizi" - https://en.wikipedia.org/wiki/Ardit_Ferizi
 
@@ -48,3 +48,6 @@ Ferizi was arrested in Malaysia and later faced prosecution in the United States
 ## Further Reading
 
 [^2]: U.S. Department of Justice (press releases and case summaries; search by defendant name for primary references) - https://www.justice.gov/
+
+
+## References

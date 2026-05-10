@@ -5,7 +5,7 @@ birth: "0550-01-01"
 death: "0484-01-01"
 nationality: "Indian"
 occupation: ["Buddhist Monk", "Scholar"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Standing_%C5%9A%C4%81riputra.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sariputta"
 lastUpdated: "2026-02-21"

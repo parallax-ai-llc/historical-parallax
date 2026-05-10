@@ -23,7 +23,7 @@ Theodor Hänsch is a German physicist who shared the 2005 Nobel Prize for contri
 | 1998 | Developed optical frequency comb |
 | 2005 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Theodor Hänsch" - https://en.wikipedia.org/wiki/Theodor_H%C3%A4nsch
 
@@ -51,3 +51,6 @@ Hänsch has been associated with major German research institutions, including l
 ## Legacy
 
 Frequency-comb technology became a standard tool across physics and related fields, influencing timekeeping, calibration of spectrometers, and experiments requiring accurate optical referencing.
+
+
+## References

@@ -22,7 +22,7 @@ Sri Lankan military's final offensive against Tamil Tigers killed an estimated 4
 | 2009 | Military offensive killed tens of thousands of civilians |
 | 2011 | UN panel confirmed mass civilian casualties |
 
-## References
+
 
 [^1]: Wikipedia, "Sri Lankan Civil War Massacres" - https://en.wikipedia.org/wiki/Sri_Lankan_Civil_War_Massacres
 
@@ -51,3 +51,6 @@ Post-war accountability debates commonly involve:
 - chain-of-command responsibility,
 - the role of independent media and satellite evidence, and
 - the constraints faced by investigators during and after active hostilities.
+
+
+## References

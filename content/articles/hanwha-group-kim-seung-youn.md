@@ -21,7 +21,7 @@ Hanwha Group chairman convicted of ordering an assault with a steel pipe against
 |------|-------|
 | 2007 | Convicted of assault with weapon |
 
-## References
+
 
 [^1]: Wikipedia, "Hanwha Group Kim Seung-youn" - https://en.wikipedia.org/wiki/Hanwha_Group_Kim_Seung-youn
 
@@ -51,3 +51,6 @@ Hanwha Group chairman convicted of ordering an assault with a steel pipe against
 
 - Wikipedia: https://en.wikipedia.org/wiki/Hanwha_Group_Kim_Seung-youn
 - Background on Hanwha Group (overview): https://en.wikipedia.org/wiki/Hanwha
+
+
+## References

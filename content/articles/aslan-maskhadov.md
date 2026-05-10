@@ -23,7 +23,7 @@ Chechen separatist leader who served as president of the unrecognized Chechen Re
 | 2002 | Russia declared him a terrorist |
 | 2005 | Killed by Russian forces |
 
-## References
+
 
 [^1]: Wikipedia, "Aslan Maskhadov" - https://en.wikipedia.org/wiki/Aslan_Maskhadov
 
@@ -49,3 +49,6 @@ Chechen separatist leader who served as president of the unrecognized Chechen Re
 
 ## Notes
 
+
+
+## References

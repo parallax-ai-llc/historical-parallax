@@ -23,7 +23,7 @@ South African serial killer known as the Phoenix Strangler who murdered at least
 | 1997 | Arrested |
 | 1999 | Sentenced to 19 life terms |
 
-## References
+
 
 [^1]: Wikipedia, "Sipho Thwala" - https://en.wikipedia.org/wiki/Sipho_Thwala
 
@@ -50,3 +50,6 @@ The case is frequently cited in South African crime reporting as one of the coun
 High-profile serial murder cases often lead to renewed scrutiny of policing practices, community safety programs, and support services for survivors and families. In South Africa, the "Phoenix Strangler" case has been referenced in later discussions about patterns of gender-based violence and the need for effective investigative coordination across jurisdictions.
 
 Because many details are mediated through court reporting and secondary summaries, careful sourcing is important when comparing victim counts, timelines, or specific forensic claims across retellings.
+
+
+## References

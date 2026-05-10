@@ -21,7 +21,7 @@ French serial killer who murdered multiple prostitutes in Alsace.
 |------|-------|
 | 2002 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Yvan Keller" - https://en.wikipedia.org/wiki/Yvan_Keller
 
@@ -59,3 +59,6 @@ This article intentionally stays at a high level and avoids unsourced specifics.
 
 - List of serial killers by country
 - Crime in France
+
+
+## References

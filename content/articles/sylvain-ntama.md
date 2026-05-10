@@ -23,7 +23,7 @@ Congolese militia leader from the Lendu community who directed attacks on Hema c
 | 2003 | Forces committed murders and looting |
 | 2014 | Convicted by ICC of directing attacks |
 
-## References
+
 
 [^1]: Wikipedia, "Sylvain Ntama" - https://en.wikipedia.org/wiki/Sylvain_Ntama
 
@@ -52,3 +52,6 @@ Public summaries describe Ntama as having been convicted at the ICC for war crim
 ## Notes on Coverage
 
 Some details of the ICC proceedings and the exact framing of charges can vary across secondary summaries. For precise legal characterization, primary ICC documents (indictments, judgments, and sentencing decisions) are the most authoritative.
+
+
+## References

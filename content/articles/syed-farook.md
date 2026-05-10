@@ -43,10 +43,13 @@ The case prompted wide public discussion about domestic security, counterterrori
 - San Bernardino attack
 - Mass shootings in the United States
 
-## References
+
 
 [^1]: Wikipedia, "Syed Farook" - https://en.wikipedia.org/wiki/Syed_Farook
 
 ## Notes on terminology
 
 Descriptions of motivation and organizational ties in this case are often discussed in investigative and legal contexts. High-level summaries typically focus on the verified timeline of events, casualties, and the subsequent law-enforcement response.
+
+
+## References

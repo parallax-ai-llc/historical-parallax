@@ -23,7 +23,7 @@ Georges St-Pierre is the greatest MMA fighter ever. He dominated UFC welterweigh
 | 2008 | Won title back; began dominant run |
 | 2017 | Won middleweight title |
 
-## References
+
 
 [^1]: Wikipedia, "Georges St-Pierre" - https://en.wikipedia.org/wiki/Georges_St-Pierre
 
@@ -48,3 +48,6 @@ He was also notable for public discussions of performance psychology and the pre
 
 St-Pierre is widely cited as an influential modern champion who helped professionalize MMA preparation.
 His bouts are frequently referenced in debates about all-time rankings and the evolution of the UFC welterweight division.
+
+
+## References

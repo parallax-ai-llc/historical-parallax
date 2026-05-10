@@ -5,7 +5,7 @@ birth: "1832-01-01"
 death: "1904-01-01"
 nationality: "American"
 occupation: ["Inventor", "Dressmaker"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sarah_Boone.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sarah_Boone"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Sarah Boone was an African American inventor who patented an improved ironing bo
 | 1892 | Received patent for improved ironing board on April 26 |
 | 1904 | Died in New Haven, Connecticut |
 
-## References
+
 
 [^1]: Wikipedia, "Sarah Boone" - https://en.wikipedia.org/wiki/Sarah_Boone
 
@@ -49,3 +49,6 @@ If more detail is needed (e.g., exact patent number, drawings, or filing locatio
 ## Further reading
 
 - Wikipedia entry and linked patent documentation.
+
+
+## References

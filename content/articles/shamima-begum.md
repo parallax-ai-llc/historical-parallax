@@ -5,7 +5,7 @@ birth: "1999-08-25"
 death: "Unknown"
 nationality: "United Kingdom"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007_icon.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shamima_Begum"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ British schoolgirl who traveled to Syria at age 15 to join ISIS and married a Du
 | 2015 | Left London to join ISIS in Syria at age 15 |
 | 2019 | UK citizenship revoked after she was found in refugee camp |
 
-## References
+
 
 [^1]: Wikipedia, "Shamima Begum" - https://en.wikipedia.org/wiki/Shamima_Begum
 
@@ -48,3 +48,6 @@ British schoolgirl who traveled to Syria at age 15 to join ISIS and married a Du
 - The case sits at the intersection of counterterrorism, immigration control, and administrative law.
 - It is regularly referenced in policy debates about the scope and safeguards of citizenship deprivation powers.
 - Similar cases have shaped wider European debates on returning foreign-fighter family members and legal jurisdiction.
+
+
+## References

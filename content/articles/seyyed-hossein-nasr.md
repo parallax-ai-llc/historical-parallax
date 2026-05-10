@@ -5,7 +5,7 @@ birth: "1933-04-07"
 death: "N/A"
 nationality: "Iranian-American"
 occupation: ["Philosopher", "Scholar", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hossein_nasr.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seyyed_Hossein_Nasr"
 lastUpdated: "2026-02-21"

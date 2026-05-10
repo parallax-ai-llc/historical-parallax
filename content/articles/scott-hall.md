@@ -5,7 +5,7 @@ birth: "1958-01-01"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Election Conspirator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Scotthall2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Scott_Hall"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ First defendant to plead guilty in the Georgia election interference case.
 |------|-------|
 | 2023 | First to plead guilty in Georgia case |
 
-## References
+
 
 [^1]: Wikipedia, "Scott Hall" - https://en.wikipedia.org/wiki/Scott_Hall
 
@@ -60,3 +60,6 @@ Hall's plea has been widely treated as an early benchmark in the prosecution bec
 ## Notes
 
 [^2]: Fulton County District Attorney case materials and plea filings (summarized in major U.S. news reporting; see Wikipedia citations).[^1]
+
+
+## References

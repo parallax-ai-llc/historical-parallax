@@ -22,7 +22,7 @@ Duplicate of John Roebling entry.
 | 1806 | Born |
 | 1869 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "John A. Roebling" - https://en.wikipedia.org/wiki/John_A._Roebling
 
@@ -51,3 +51,6 @@ Roebling's influence is reflected in both the continued prominence of his bridge
 - Brooklyn Bridge
 - Suspension bridge engineering
 - Wire rope
+
+
+## References

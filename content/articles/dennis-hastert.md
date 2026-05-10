@@ -24,7 +24,7 @@ American former Speaker of the House who was convicted of structuring bank withd
 | 2016 | Convicted; sentenced to 15 months |
 | 2017 | Released from prison |
 
-## References
+
 
 [^1]: Wikipedia, "Dennis Hastert" - https://en.wikipedia.org/wiki/Dennis_Hastert
 
@@ -48,3 +48,6 @@ American former Speaker of the House who was convicted of structuring bank withd
 - The case had lasting impact on perceptions of political accountability and on discussions about statute-of-limitations constraints in abuse cases.
 - Hastert’s conviction was widely noted because of his former status as a top U.S. elected official.
 - It also prompted renewed media attention to institutional responses to abuse allegations in schools and youth sports.
+
+
+## References

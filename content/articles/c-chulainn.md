@@ -23,7 +23,7 @@ Cú Chulainn is the greatest hero of Irish mythology, famous for single-handedly
 | Mythological | Defeated the army of Connacht single-handedly |
 | Mythological | Died tied to a standing stone |
 
-## References
+
 
 [^1]: Wikipedia, "Cú Chulainn" - https://en.wikipedia.org/wiki/C%C3%BA_Chulainn
 
@@ -63,3 +63,6 @@ The dates sometimes assigned to mythological figures are modern conveniences rat
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

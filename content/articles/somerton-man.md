@@ -22,7 +22,7 @@ Unidentified man found dead on Somerton Beach, Adelaide in 1948. A scrap of pape
 | 1948 | Body found on beach |
 | 2022 | Identified as Carl Webb |
 
-## References
+
 
 [^1]: Wikipedia, "Somerton Man" - https://en.wikipedia.org/wiki/Somerton_Man
 
@@ -48,3 +48,6 @@ The Somerton Man case is frequently cited as a major Australian “cold case” 
 ## Open Questions
 
 Even with a reported identification, historical cases like this often leave open questions about circumstances, timelines, and how specific clues (such as the paper scrap) connect to the person’s life.
+
+
+## References

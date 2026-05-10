@@ -21,7 +21,7 @@ Former Turkmen foreign minister sentenced to life imprisonment after an alleged 
 |------|-------|
 | 2002 | Convicted in show trial for alleged coup plot |
 
-## References
+
 
 [^1]: Wikipedia, "Boris Shikhmuradov" - https://en.wikipedia.org/wiki/Boris_Shikhmuradov
 
@@ -67,3 +67,6 @@ Shikhmuradov’s case is commonly cited in discussions of:
 ## Notes on Terminology
 
 This article uses “alleged” when describing the 2002 assassination plot because the public record available outside Turkmen state sources has been contested, and because due-process concerns were widely raised.
+
+
+## References

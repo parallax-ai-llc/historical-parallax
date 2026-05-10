@@ -5,7 +5,7 @@ birth: "1930-11-16"
 death: "2017-11-17"
 nationality: "Italy"
 occupation: ["Mafia Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/c/c4/Salvatore_Riina2.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Salvatore_Riina"
 lastUpdated: "2026-02-21"

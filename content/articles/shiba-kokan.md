@@ -5,7 +5,7 @@ birth: "1747-01-01"
 death: "1818-01-01"
 nationality: "Japanese"
 occupation: ["Painter", "Scientist", "Cartographer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Portrait_of_Shiba_Kokan.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shiba_Kokan"
 lastUpdated: "2026-02-21"

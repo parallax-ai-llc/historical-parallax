@@ -22,7 +22,7 @@ Sengoku warlord notorious for assassinating a shogun and burning Tōdai-ji. Comm
 | 1565 | Orchestrated assassination of Shogun Ashikaga Yoshiteru |
 | 1577 | Destroyed himself and priceless tea kettle rather than surrender |
 
-## References
+
 
 [^1]: Wikipedia, "Matsunaga Hisahide" - https://en.wikipedia.org/wiki/Matsunaga_Hisahide
 
@@ -48,3 +48,6 @@ Sengoku warlord notorious for assassinating a shogun and burning Tōdai-ji. Comm
 - Ashikaga shogunate
 - Japanese tea ceremony
 - Tea ceremony politics
+
+
+## References

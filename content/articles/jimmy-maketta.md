@@ -21,7 +21,7 @@ South African serial killer who murdered and raped multiple women in the Eastern
 |------|-------|
 | 2010 | Convicted of serial murder and rape |
 
-## References
+
 
 [^1]: Wikipedia, "Jimmy Maketta" - https://en.wikipedia.org/wiki/Jimmy_Maketta
 
@@ -58,3 +58,6 @@ South African serial killer who murdered and raped multiple women in the Eastern
 
 [^2]: News24, "Serial killer guilty on 47 counts" (3 May 2007) — as cited by Wikipedia.[^1]
 [^3]: News24, "Maketta: 'rapist watching from a distance'" (2 May 2007) — as cited by Wikipedia.[^1]
+
+
+## References

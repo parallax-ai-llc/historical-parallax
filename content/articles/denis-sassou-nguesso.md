@@ -24,7 +24,7 @@ Congolese president who has ruled for a combined 40+ years. His family owns luxu
 | 2015 | Changed constitution to remove term limits |
 | 2021 | Won fourth consecutive term with 88% |
 
-## References
+
 
 [^1]: Wikipedia, "Denis Sassou Nguesso" - https://en.wikipedia.org/wiki/Denis_Sassou_Nguesso
 
@@ -48,3 +48,6 @@ Congolese president who has ruled for a combined 40+ years. His family owns luxu
 - The country’s economy has been heavily tied to **oil revenues**, with recurring debates over transparency, debt, and distribution.
 - Sassou Nguesso has maintained relationships with a range of external partners, including France and other major powers active in Central Africa.
 - Investigations and reporting about overseas assets have contributed to his international reputation and scrutiny.
+
+
+## References

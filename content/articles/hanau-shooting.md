@@ -22,7 +22,7 @@ Far-right extremist Tobias Rathjen shot dead nine people at two shisha bars in H
 | 2020 | Far-right shooter killed 9 at Hanau shisha bars |
 | 2020 | Gunman found dead alongside his mother |
 
-## References
+
 
 [^1]: Wikipedia, "Hanau Shooting" - https://en.wikipedia.org/wiki/Hanau_Shooting
 
@@ -48,3 +48,6 @@ Far-right extremist Tobias Rathjen shot dead nine people at two shisha bars in H
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
+
+
+## References

@@ -22,7 +22,7 @@ Chaotic hack of the Nomad token bridge where hundreds of copycats drained $190 m
 | 2022 | $190 million drained from Nomad bridge |
 | 2022 | Called first 'decentralized robbery' as hundreds joined |
 
-## References
+
 
 [^1]: Wikipedia, "Nomad Bridge Hack" - https://en.wikipedia.org/wiki/Nomad_Bridge_Hack
 
@@ -57,3 +57,6 @@ It contributed to broader industry calls for stronger audits, safer upgrade proc
 ## Additional References
 
 [^2]: Nomad, public incident communications and post-mortem materials (project announcements and reports are commonly referenced in coverage)
+
+
+## References

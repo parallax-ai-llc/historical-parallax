@@ -5,7 +5,7 @@ birth: "1180-01-01"
 death: "1233-07-30"
 nationality: "Germany"
 occupation: ["Inquisitor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Konrad_von_Marburg.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Konrad_von_Marburg"
 lastUpdated: "2026-02-26"

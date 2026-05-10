@@ -23,7 +23,7 @@ Ichiro Suzuki set the MLB single-season hits record (262) and had 3,089 MLB hits
 | 2004 | Set hits record with 262 |
 | 2019 | Retired in Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Ichiro Suzuki" - https://en.wikipedia.org/wiki/Ichiro_Suzuki
 
@@ -50,3 +50,6 @@ When using this entry as a starting point, prioritize (1) contemporaneous primar
 ## Reading guide
 
 When using this entry as a starting point, prioritize (1) contemporaneous primary material, (2) reputable secondary syntheses, and (3) cross-checking across independent outlets. This helps reduce errors from mistranslation, name collisions, and evolving narratives.
+
+
+## References

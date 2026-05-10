@@ -21,7 +21,7 @@ Former Palauan president accused of corruption and nepotism during his time in o
 |------|-------|
 | 1985 | Presidency marked by corruption allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Tommy Remengesau Sr." - https://en.wikipedia.org/wiki/Tommy_Remengesau_Sr.
 
@@ -69,3 +69,6 @@ If reliable sources are added later, this article can be expanded with:
 
 - Politics of Palau (general background)
 - Anti-corruption policy and governance in Pacific Island states
+
+
+## References

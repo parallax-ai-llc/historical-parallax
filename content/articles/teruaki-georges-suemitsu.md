@@ -24,7 +24,7 @@ Teruaki Georges Suemitsu is a Japanese-Brazilian physicist who contributed to th
 | 1970 | Joined university faculty |
 | 1980 | Published work on semiconductor physics |
 
-## References
+
 
 [^1]: Wikipedia, "Teruaki Georges Suemitsu" - https://en.wikipedia.org/wiki/Teruaki_Georges_Suemitsu
 
@@ -51,3 +51,6 @@ Specific details about institutional affiliations, key papers, and awards can va
 ## Further Reading
 
 - Wikipedia biography (overview and references)
+
+
+## References

@@ -21,7 +21,7 @@ Chinese lawyer alleged by MI5 to be an agent of influence interfering in UK poli
 |------|-------|
 | 2022 | Named by MI5 as Chinese agent of influence |
 
-## References
+
 
 [^1]: Wikipedia, "Christine Lee" - https://en.wikipedia.org/wiki/Christine_Lee
 
@@ -63,3 +63,6 @@ Chinese lawyer alleged by MI5 to be an agent of influence interfering in UK poli
 [^2]: UK Parliament / Security Service reporting on the 2022 security alert regarding Christine Lee (as summarized in reputable press coverage).
 [^3]: BBC News reporting on MI5’s warning to MPs about an alleged agent of influence (January 2022).
 [^4]: UK government and policy reporting on countering foreign interference and political influence operations (contextual overviews).
+
+
+## References

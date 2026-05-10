@@ -22,7 +22,7 @@ Former deputy head of China's National Development and Reform Commission convict
 | 2013 | Exposed by journalist and removed from position |
 | 2014 | Sentenced to life imprisonment for bribery |
 
-## References
+
 
 [^1]: Wikipedia, "Liu Tienan" - https://en.wikipedia.org/wiki/Liu_Tienan
 
@@ -50,3 +50,6 @@ Former deputy head of China's National Development and Reform Commission convict
 
 - High-discretion policy roles can amplify corruption risk when oversight mechanisms are weak.
 - The Liu Tienan case is remembered for both its institutional sensitivity (NDRC) and the public reporting that preceded formal discipline and prosecution.
+
+
+## References

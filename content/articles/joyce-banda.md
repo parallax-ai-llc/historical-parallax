@@ -23,7 +23,7 @@ Malawian president implicated in the 'Cashgate' scandal—a massive looting of g
 | 2013 | Cashgate scandal exposed |
 | 2014 | Lost election; left country |
 
-## References
+
 
 [^1]: Wikipedia, "Joyce Banda" - https://en.wikipedia.org/wiki/Joyce_Banda
 
@@ -69,3 +69,6 @@ Because “Cashgate” involved weaknesses in payment controls and oversight, th
 
 After 2014, Banda remained politically active, including efforts to return to Malawian electoral politics. Public reporting has also noted periods of investigation and legal scrutiny connected to corruption allegations, alongside continued public advocacy initiatives.
 
+
+
+## References

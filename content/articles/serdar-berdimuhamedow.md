@@ -5,7 +5,7 @@ birth: "1981-09-22"
 death: "Unknown"
 nationality: "Turkmenistan"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Serdar_Berdimuhamedov_on_December_20%2C_2025_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Serdar_Berdimuhamedow"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Turkmen president who was installed by his father in 2022, continuing a dynastic
 | 2022 | Won presidential election with 73% |
 | 2023 | Continued father's authoritarian policies |
 
-## References
+
 
 [^1]: Wikipedia, "Serdar Berdimuhamedow" - https://en.wikipedia.org/wiki/Serdar_Berdimuhamedow
 
@@ -53,3 +53,6 @@ Assessments of elections, rights conditions, and governance frequently rely on N
 ## References (additional)
 
 [^2]: Human Rights Watch and Amnesty International reporting on Turkmenistan’s civil liberties and political freedoms (for broader country context).
+
+
+## References

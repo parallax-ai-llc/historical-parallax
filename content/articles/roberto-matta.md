@@ -5,7 +5,7 @@ birth: "1911-11-11"
 death: "2002-11-23"
 nationality: "Chilean"
 occupation: ["Painter", "Architect"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Matta_revista_cleaned.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roberto_Matta"
 lastUpdated: "2026-02-21"

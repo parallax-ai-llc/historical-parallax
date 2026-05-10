@@ -24,7 +24,7 @@ Rwandan councilor who personally killed and raped victims during the genocide in
 | 2005 | Convicted of genocide by ICTR |
 | 2012 | Died in Malian prison |
 
-## References
+
 
 [^1]: Wikipedia, "Mikaeli Muhimana" - https://en.wikipedia.org/wiki/Mikaeli_Muhimana
 
@@ -51,3 +51,6 @@ Rwandan councilor who personally killed and raped victims during the genocide in
 - This article is a high-level overview intended as a starting point.
 - For detailed chronology and primary sources, consult reputable historical references.
 - When multiple narratives exist, prefer well-sourced scholarship and contemporaneous records.
+
+
+## References

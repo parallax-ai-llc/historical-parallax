@@ -22,7 +22,7 @@ Last Medici Grand Duke of Tuscany whose debauched court was infamous for orgies,
 | 1723 | Became Grand Duke and descended into alcoholism and debauchery |
 | 1737 | Died ending the Medici dynasty |
 
-## References
+
 
 [^1]: Wikipedia, "Gian Gastone de' Medici" - https://en.wikipedia.org/wiki/Gian_Gastone_de'_Medici
 
@@ -49,3 +49,6 @@ As the last male Medici to rule Tuscany, Gian Gastone’s reign is closely tied 
 Terms like “corrupt” and “debauched” reflect moral and political judgments common in historical writing; assessments vary depending on sources and interpretive frame.
 
 Further detail is available in standard histories of Tuscany and Medici succession politics.
+
+
+## References

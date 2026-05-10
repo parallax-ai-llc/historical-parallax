@@ -22,7 +22,7 @@ Although Izumi Shigechiyo was claimed to be the world's oldest verified living p
 | 1899 | Claimed birth year |
 | 1986 | Claimed death at age 120 |
 
-## References
+
 
 [^1]: Wikipedia, "Izumi Masayoshi" - https://en.wikipedia.org/wiki/Izumi_Masayoshi
 
@@ -54,3 +54,6 @@ Common elements of modern longevity verification include:
 
 [^2]: Gerontology Research Group (GRG) validation approach (general reference): https://www.grg.org/
 [^3]: WHO / Japan life expectancy and health statistics portals (general context): https://www.who.int/
+
+
+## References

@@ -24,7 +24,7 @@ African American abstract painter. First woman to have solo show at the Whitney 
 | 1972 | Solo show at Whitney |
 | 1978 | Dies in DC |
 
-## References
+
 
 [^1]: Wikipedia, "Alma Woodsey Thomas" - https://en.wikipedia.org/wiki/Alma_Woodsey_Thomas
 
@@ -53,3 +53,6 @@ Thomas's growing institutional recognition has made her a reference point in dis
 - Washington Color School
 - Abstract art in the United States
 - African-American art history
+
+
+## References

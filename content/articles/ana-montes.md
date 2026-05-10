@@ -23,7 +23,7 @@ Senior DIA analyst who spied for Cuba for 17 years. Called the most important sp
 | 2001 | Arrested |
 | 2023 | Released |
 
-## References
+
 
 [^1]: Wikipedia, "Ana Montes" - https://en.wikipedia.org/wiki/Ana_Montes
 
@@ -48,3 +48,6 @@ The Montes case is often referenced in discussions of:
 - Counterintelligence oversight within analytic organizations
 - Access controls and need-to-know enforcement
 - The importance of behavioral indicators and internal security reviews
+
+
+## References

@@ -49,7 +49,7 @@ Because short-form references often compress the story into a single sentence, m
 
 - Some encyclopedia-style URLs may intermittently return “page not found” or show a placeholder depending on mirrors, revisions, or removals. When that happens, the underlying claim should be cross-checked against archived copies or contemporaneous reporting.
 
-## References
+
 
 [^1]: Wikipedia (link target), "Hicham Mandari" — https://en.wikipedia.org/wiki/Hicham_Mandari
 
@@ -58,3 +58,6 @@ Because short-form references often compress the story into a single sentence, m
 - **Motive and attribution:** Many summaries state “allegedly linked” to intelligence disputes; attributions should be treated cautiously unless supported by primary investigations or court records.
 - **Judicial outcomes:** Public timelines sometimes omit whether suspects were identified, prosecuted, or convicted.
 - **Broader environment:** Marbella has periodically been associated in media reporting with **organized crime** and high-net-worth enclaves, which can complicate interpretation of violent incidents.
+
+
+## References

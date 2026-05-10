@@ -21,7 +21,7 @@ German colonial administrator involved in atrocities in German East Africa.
 |------|-------|
 | 1905 | Participated in suppression of Maji Maji rebellion |
 
-## References
+
 
 [^1]: Wikipedia, "Hieronymus Karl Friedrich von Münchhausen" - https://en.wikipedia.org/wiki/Hieronymus_Karl_Friedrich_von_M%C3%BCnchhausen
 
@@ -57,3 +57,6 @@ Within this context, colonial officials and military personnel who participated 
 
 [^2]: Wikipedia, "German East Africa" - https://en.wikipedia.org/wiki/German_East_Africa
 [^3]: Wikipedia, "Maji Maji Rebellion" - https://en.wikipedia.org/wiki/Maji_Maji_Rebellion
+
+
+## References

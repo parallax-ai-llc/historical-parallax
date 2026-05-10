@@ -21,7 +21,7 @@ Polish serial killer who murdered and dismembered victims in Poznań.
 |------|-------|
 | 2005 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Bogdan Marciniak" - https://en.wikipedia.org/wiki/Bogdan_Marciniak
 
@@ -57,3 +57,6 @@ Polish serial killer who murdered and dismembered victims in Poznań.
 
 - This page intentionally keeps claims **high-level** until confirmable sources (Polish court records or reputable reporting) are added.
 - Existing text is preserved; further expansions should be appended with citations as sources become available.
+
+
+## References

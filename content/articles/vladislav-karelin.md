@@ -23,7 +23,7 @@ Russian serial killer who murdered at least 7 women in the Novokuznetsk area of 
 | 2006 | Arrested by Russian police |
 | 2008 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Vladislav Karelin" - https://en.wikipedia.org/wiki/Vladislav_Karelin
 
@@ -49,3 +49,6 @@ Publicly available summaries of the case are brief; many details in English-lang
 
 - Serial murder investigations in post-Soviet Russia often involve fragmented record-keeping across regional jurisdictions.
 - Many English summaries focus on sentencing outcomes rather than full investigative files.
+
+
+## References

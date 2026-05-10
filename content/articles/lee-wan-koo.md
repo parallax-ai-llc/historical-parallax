@@ -23,7 +23,7 @@ South Korean prime minister who committed suicide amid a bribery scandal in 2015
 | 2015 | Accused of accepting bribes |
 | 2015 | Committed suicide |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Wan-koo" - https://en.wikipedia.org/wiki/Lee_Wan-koo
 
@@ -51,3 +51,6 @@ South Korean prime minister who committed suicide amid a bribery scandal in 2015
 
 - This entry is a high-level overview intended to capture widely reported facts and commonly cited context.
 - For deeper detail, consult the linked references and specialized histories or investigative reports where relevant.
+
+
+## References

@@ -23,7 +23,7 @@ Brazilian crime boss whose real name is Marcos Willians Herbas Camacho. He is th
 | 2006 | Ordered coordinated attacks on São Paulo that killed 100+ |
 | 2019 | Transferred to federal supermax prison |
 
-## References
+
 
 [^1]: Wikipedia, "Marcola" - https://en.wikipedia.org/wiki/Marcola
 
@@ -51,3 +51,6 @@ Brazilian crime boss whose real name is Marcos Willians Herbas Camacho. He is th
 ## Notes
 
 - This entry is a high-level overview; consult the reference for sourcing and additional detail.
+
+
+## References

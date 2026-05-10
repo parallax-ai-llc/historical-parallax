@@ -5,7 +5,7 @@ birth: "1963-12-04"
 death: "Unknown"
 nationality: "Ukrainian"
 occupation: ["Athlete", "Olympic Champion", "Pole Vaulter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sergey_Bubka_2013.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergey_Bubka"
 lastUpdated: "2026-02-26"

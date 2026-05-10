@@ -21,7 +21,7 @@ Colombian drug lord and paramilitary leader who founded the Urabeños criminal g
 |------|-------|
 | 2009 | Captured by Colombian forces |
 
-## References
+
 
 [^1]: Wikipedia, "Don Mario" - https://en.wikipedia.org/wiki/Don_Mario
 
@@ -49,3 +49,6 @@ High-level points (non-exhaustive):
 ## Additional References
 
 [^2]: Wikipedia (summary coverage), "Don Mario" — identity, affiliations, and capture details: https://en.wikipedia.org/wiki/Don_Mario
+
+
+## References

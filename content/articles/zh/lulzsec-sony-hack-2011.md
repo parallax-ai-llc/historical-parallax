@@ -1,6 +1,6 @@
 ---
 id: "lulzsec-sony-hack-2011"
-name: "LulzSec与“50天狂欢”"
+name: "LulzSec 与 50 天的狂欢"
 title: "LulzSec & The 50 Days of Lulz"
 date: "2011-05-07"
 location: "Internet (Decentralized)"
@@ -15,32 +15,32 @@ lastUpdated: "2025-12-23"
 
 ## 概述
 
-2011年夏天，一个名为**LulzSec**（Lulz Security）的匿名组织分支发动了一场为期50天的黑客攻击狂潮。
-他们的座右铭是：“自2011年起，我们以嘲笑你们的安全为乐。”
-他们黑客攻击的目的（大部分）不是为了钱，而是为了“lulz”（娱乐）。
-**索尼黑客事件：**
-这是他们最引人注目的攻击。他们侵入了PlayStation Network，暴露了7700万用户的个人数据。索尼被迫关闭该网络24天，损失高达1.71亿美元。
+2011 年夏天，一个匿名者（Anonymous）的分支组织，名为 **LulzSec**（Lulz Security），展开了为期 50 天的大规模黑客攻击。
+他们的座右铭是：“自 2011 年起，嘲笑你的安全。”
+他们进行黑客攻击（大部分时候）并非为了金钱。他们是为了“lulz”（娱乐）。
+**索尼攻击事件：**
+这是他们最重大的攻击。他们攻破了 PlayStation Network，暴露了 7700 万用户的个人数据。索尼不得不关闭该网络 24 天，损失高达 1.71 亿美元。
 
 ---
 
-## 攻击目标
+## 目标
 
-- **PBS：** 发布了一则关于说唱歌手2Pac Shakur仍在新西兰的假新闻。
-- **CIA：** 通过DDoS攻击使中央情报局网站下线。
-- **Infragard：** 侵入了与FBI有关联的安全公司。
+- **PBS：** 发布了一条假新闻，声称已故说唱歌手 Tupac Shakur 仍然活在新西兰。
+- **CIA：** 通过 DDoS 攻击使中央情报局（CIA）网站瘫痪。
+- **Infragard：** 攻击了一个与联邦调查局（FBI）有关联的安全公司。
 
 ---
 
 ## 背叛
 
-该组织的领导者**Sabu**（Hector Monsegur）是纽约公共住房的两名孩子的父亲。
-FBI抓获了他。他转而成为告密者。
-数月以来，LulzSec的领导者秘密为FBI工作，收集他朋友（Topiary、Kayla、Tflow）的证据。
-2012年，他们在一次协调一致的全球突袭中被捕。
+该组织的领导者，**Sabu**（Hector Monsegur），是一个住在纽约公共住房的两个孩子的父亲。
+联邦调查局（FBI）抓住了他。他转而成为了线人。
+在接下来的几个月里，LulzSec 的领导者一直在秘密为 FBI 工作，为他的朋友们（Topiary, Kayla, Tflow）收集证据。
+2012 年，他们在一次协调一致的全球突袭中被全部逮捕。
 
 ---
 
 ## 参考资料
 
-- **《我们是匿名者》** (Parmy Olson)
-- **《黑客、恶作剧者、告密者、间谍》** (Gabriella Coleman)
+- **We Are Anonymous** (Parmy Olson)
+- **Hacker, Hoaxer, Whistleblower, Spy** (Gabriella Coleman)

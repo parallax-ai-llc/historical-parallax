@@ -5,7 +5,7 @@ birth: "1954-07-09"
 death: "Unknown"
 nationality: "Canadian"
 occupation: ["Entrepreneur", "Investor"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/KevinOLeary2023.jpg/3840px-KevinOLeary2023.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kevin_O'Leary"
 lastUpdated: "2026-02-21"

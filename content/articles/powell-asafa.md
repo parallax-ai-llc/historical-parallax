@@ -23,7 +23,7 @@ Asafa Powell held the 100m world record of 9.74 seconds before Usain Bolt and wo
 | 2007 | Improved record to 9.74s |
 | 2008 | Won Olympic relay gold |
 
-## References
+
 
 [^1]: Wikipedia, "Powell Asafa" - https://en.wikipedia.org/wiki/Powell_Asafa
 
@@ -50,3 +50,6 @@ This article provides a short, high-level overview; exact medal counts and recor
 
 - Asafa Powell
 - 100 metres world record progression
+
+
+## References

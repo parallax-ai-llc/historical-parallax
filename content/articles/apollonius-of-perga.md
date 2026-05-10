@@ -24,7 +24,7 @@ Apollonius of Perga was an ancient Greek mathematician known as 'The Great Geome
 | c. 230 BC | Published 'Conics' (8 books, 4 surviving in Greek) |
 | c. 190 BC | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Apollonius of Perga" - https://en.wikipedia.org/wiki/Apollonius_of_Perga
 
@@ -50,3 +50,6 @@ Apollonius is also associated with problems and results in classical geometry be
 - Euclid and the Alexandrian mathematical tradition
 - Analytic geometry (later coordinate-based reformulation of classical results)
 - Kepler's laws and the appearance of ellipses in orbital mechanics
+
+
+## References

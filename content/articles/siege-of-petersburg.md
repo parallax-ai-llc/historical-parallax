@@ -5,7 +5,7 @@ birth: "1864-06-09"
 death: "1865-03-25"
 nationality: "United States"
 occupation: ["Historical Event", "Siege", "American Civil War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dictatorcrop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siege_of_Petersburg"
 lastUpdated: "2026-02-21"

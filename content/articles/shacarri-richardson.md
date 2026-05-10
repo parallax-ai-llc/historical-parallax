@@ -3,6 +3,7 @@ name: "Sha'Carri Richardson"
 birth: "2000-03-25"
 nationality: "American"
 occupation: ["Sprinter", "Athlete"]
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sha%27Carri_Richardson_Budapest_2023_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sha%27Carri_Richardson"
 lastUpdated: "2026-03-12"

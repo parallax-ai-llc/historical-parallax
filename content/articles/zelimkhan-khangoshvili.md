@@ -21,7 +21,7 @@ Georgian Chechen fighter assassinated in Berlin by a Russian intelligence agent.
 |------|-------|
 | 2019 | Assassinated in Berlin park |
 
-## References
+
 
 [^1]: Wikipedia, "Zelimkhan Khangoshvili" - https://en.wikipedia.org/wiki/Zelimkhan_Khangoshvili
 
@@ -48,3 +48,6 @@ Georgian Chechen fighter assassinated in Berlin by a Russian intelligence agent.
 ## Additional References
 
 [^2]: Wikipedia sections on early life, alleged intelligence role, and the Berlin investigation - https://en.wikipedia.org/wiki/Zelimkhan_Khangoshvili
+
+
+## References

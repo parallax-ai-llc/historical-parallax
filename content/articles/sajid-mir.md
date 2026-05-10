@@ -24,7 +24,7 @@ Pakistani militant and LeT handler who guided the Mumbai attackers via phone and
 | 2022 | Arrested in Pakistan |
 | 2023 | Convicted and sentenced to 15 years |
 
-## References
+
 
 [^1]: Wikipedia, "Sajid Mir" - https://en.wikipedia.org/wiki/Sajid_Mir
 
@@ -53,3 +53,6 @@ Specific details about roles and communications are typically sourced to investi
 
 - Wikipedia (overview)
 - Reputable news and academic references
+
+
+## References

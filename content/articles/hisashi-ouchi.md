@@ -21,7 +21,7 @@ Japanese nuclear worker who received the highest recorded radiation dose in the 
 |------|-------|
 | 1999 | Fatally irradiated in Tokaimura accident |
 
-## References
+
 
 [^1]: Wikipedia, "Hisashi Ouchi" - https://en.wikipedia.org/wiki/Hisashi_Ouchi
 
@@ -72,3 +72,6 @@ Japanese nuclear worker who received the highest recorded radiation dose in the 
 
 - Criticality safety depends heavily on **procedural controls** (mass, geometry, and concentration limits) as much as on hardware.
 - Robust safety culture includes training, clear supervision, and stopping-work authority when procedures are unclear or bypassed.
+
+
+## References

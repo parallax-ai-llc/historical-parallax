@@ -5,7 +5,7 @@ birth: "1958-02-01"
 death: "Unknown"
 nationality: "China"
 occupation: ["Purged Official"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Li_Shangfu_%282023%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Shangfu"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Chinese defense minister who disappeared and was removed from office under myste
 |------|-------|
 | 2023 | Removed from office |
 
-## References
+
 
 [^1]: Wikipedia, "Li Shangfu" - https://en.wikipedia.org/wiki/Li_Shangfu
 
@@ -62,3 +62,6 @@ Accounts summarized in open sources describe a period in 2023 in which Li **stop
 - **Civil–military governance**: A defense minister’s sudden removal highlights the opaque nature of personnel and discipline decisions within China’s party-led system.
 - **Modernization and procurement**: Because Li was linked to equipment development/procurement portfolios, commentary often connected his case to broader pressures around defense procurement integrity and modernization efforts.
 - **Diplomacy and signaling**: Changes at the defense minister level can affect military-to-military diplomacy and external perceptions, even when the ministerial role is not the highest command position in China’s system.
+
+
+## References

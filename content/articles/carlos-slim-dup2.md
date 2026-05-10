@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1940 | See Carlos Slim |
 
-## References
+
 
 [^1]: Wikipedia, "Carlos Slim dup2" - https://en.wikipedia.org/wiki/Carlos_Slim_dup2
 
@@ -62,3 +62,6 @@ If this duplicate is retained for traceability, consider keeping it minimal and 
 
 [^2]: Wikipedia, "Carlos Slim" - https://en.wikipedia.org/wiki/Carlos_Slim
 [^3]: Encyclopaedia Britannica, "Carlos Slim" - https://www.britannica.com/biography/Carlos-Slim
+
+
+## References

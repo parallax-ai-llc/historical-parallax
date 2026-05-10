@@ -21,7 +21,7 @@ Bosnian Serb forces under Ratko Mladić executed over 8,000 Muslim men and boys 
 |------|-------|
 | 1995 | 8,000+ Muslims executed |
 
-## References
+
 
 [^1]: Wikipedia, "Srebrenica Genocide" - https://en.wikipedia.org/wiki/Srebrenica_Genocide
 
@@ -54,3 +54,6 @@ Bosnian Serb forces under Ratko Mladić executed over 8,000 Muslim men and boys 
 [^2]: Wikipedia, "Bosnian War" - https://en.wikipedia.org/wiki/Bosnian_War
 [^3]: Wikipedia, "International Criminal Tribunal for the former Yugoslavia" - https://en.wikipedia.org/wiki/International_Criminal_Tribunal_for_the_former_Yugoslavia
 [^4]: Wikipedia, "Bosnia and Herzegovina v. Serbia and Montenegro" - https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_v._Serbia_and_Montenegro
+
+
+## References

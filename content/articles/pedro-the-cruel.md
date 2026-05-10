@@ -22,7 +22,7 @@ King of Castile known for his cruelty who murdered his wife, brother, and numero
 | 1361 | Allegedly ordered the murder of his wife Blanche of Bourbon |
 | 1369 | Killed by his half-brother Henry in personal combat |
 
-## References
+
 
 [^1]: Wikipedia, "Pedro the Cruel" - https://en.wikipedia.org/wiki/Pedro_the_Cruel
 
@@ -49,3 +49,6 @@ The war that ended his rule is often framed as both a dynastic contest and a bro
 ## Legacy
 
 Pedro's story endures as a cautionary tale about personal rule in a fragmented political order: brutality can produce short-term compliance but also create coalitions of enemies who are willing to replace the sovereign entirely.
+
+
+## References

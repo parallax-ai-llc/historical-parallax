@@ -23,7 +23,7 @@ Afghan Taliban military commander known for extreme brutality including mass exe
 | 2006 | Directed insurgency in southern Afghanistan |
 | 2007 | Killed by UK special forces in Helmand |
 
-## References
+
 
 [^1]: Wikipedia, "Mullah Dadullah" - https://en.wikipedia.org/wiki/Mullah_Dadullah
 
@@ -52,3 +52,6 @@ Accounts of Dadullah's exact responsibilities and the attribution of specific at
 ## Additional Notes
 
 This article is intended as a concise reference. For deeper detail, consult multiple sources and primary reporting where available, and compare timelines across independent accounts.
+
+
+## References

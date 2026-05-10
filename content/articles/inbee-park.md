@@ -22,7 +22,7 @@ Inbee Park won seven LPGA major championships and Olympic gold at the 2016 Rio G
 | 2013 | Won three consecutive majors |
 | 2016 | Won Olympic gold at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Inbee Park" - https://en.wikipedia.org/wiki/Inbee_Park
 
@@ -49,3 +49,6 @@ She has been recognized within the LPGA for sustained excellence, and her résum
 - LPGA Tour
 - Women's golf major championships
 - Golf at the 2016 Summer Olympics
+
+
+## References

@@ -23,7 +23,7 @@ Four-year siege of Aleppo, Syrias largest city, from 2012-2016 during the Syrian
 | 2016 | Eastern Aleppo fell to government |
 | 2016 | Thousands killed |
 
-## References
+
 
 [^1]: Wikipedia, "Aleppo Siege" - https://en.wikipedia.org/wiki/Aleppo_Siege
 
@@ -49,3 +49,6 @@ The siege is discussed as part of the wider Syrian Civil War and the prolonged c
 - Syrian Civil War
 - Battle of Aleppo
 - Urban warfare
+
+
+## References

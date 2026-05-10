@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1962 | See Eddie Lampert |
 
-## References
+
 
 [^1]: Wikipedia, "Eddie Lampert duplicate" - https://en.wikipedia.org/wiki/Eddie_Lampert_duplicate
 
@@ -65,3 +65,6 @@ If you are cleaning or indexing this dataset:
 ## Additional References (Canonical)
 
 [^2]: Wikipedia, "Eddie Lampert" - https://en.wikipedia.org/wiki/Eddie_Lampert
+
+
+## References

@@ -23,7 +23,7 @@ Jules Hoffmann is a French biologist who shared the 2011 Nobel Prize for discove
 | 1996 | Discovered Toll pathway |
 | 2011 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Jules Hoffmann" - https://en.wikipedia.org/wiki/Jules_Hoffmann
 
@@ -71,3 +71,6 @@ Beyond specific pathway discovery, Hoffmann is often associated with:
 - advancing the legitimacy of invertebrate models in immunology
 - building research institutions and training networks in European life sciences
 - contributing to science policy and academy leadership through French scientific bodies
+
+
+## References

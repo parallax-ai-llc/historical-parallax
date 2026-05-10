@@ -19,7 +19,7 @@ Audrey Marie Hilley was an Alabama woman who poisoned her husband with arsenic a
 |------|-------|
 | 1933 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -56,3 +56,6 @@ Audrey Marie Hilley was an Alabama woman who poisoned her husband with arsenic a
 - Identity fraud
 
 [^2]: Wikipedia contributors, "Marie Hilley" — summary of the case and major timeline points.
+
+
+## References

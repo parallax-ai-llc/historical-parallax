@@ -21,7 +21,7 @@ East German serial killer executed at age 17 for murdering three children, one o
 |------|-------|
 | 1972 | Executed for murder of three children |
 
-## References
+
 
 [^1]: Wikipedia, "Erwin Hagedorn" - https://en.wikipedia.org/wiki/Erwin_Hagedorn
 
@@ -54,3 +54,6 @@ East German serial killer executed at age 17 for murdering three children, one o
 ## Further Reading
 
 - Wikipedia provides an overview of the case and basic biographical details, including dates, locations, and procedural milestones.[^1]
+
+
+## References

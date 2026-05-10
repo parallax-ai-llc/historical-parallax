@@ -22,7 +22,7 @@ Scottish nurse convicted of murdering 4 elderly patients at Leeds hospitals in 2
 | 2002 | Murdered 4 elderly patients |
 | 2008 | Convicted; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Colin Norris" - https://en.wikipedia.org/wiki/Colin_Norris
 
@@ -49,3 +49,6 @@ Norris is often referenced alongside other “angel of death” cases because it
 
 - Healthcare homicide cases can hinge on complex expert interpretation.
 - Patterns across multiple patients may be used as circumstantial evidence.
+
+
+## References

@@ -23,7 +23,7 @@ Filipino smuggler who ran a major illegal logging and wildlife smuggling operati
 | 2013 | Arrested in Interpol operation |
 | 2015 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Baldomero Olivera" - https://en.wikipedia.org/wiki/Baldomero_Olivera
 
@@ -55,3 +55,6 @@ Filipino smuggler who ran a major illegal logging and wildlife smuggling operati
 - Illegal logging contributes to deforestation, habitat loss, and biodiversity decline, and can undermine legitimate forestry businesses.
 - Wildlife trafficking can accelerate population collapse of vulnerable species and increase zoonotic disease risks through illicit handling and transport.
 - Corruption and intimidation are frequently cited as enabling factors in persistent trafficking routes.
+
+
+## References

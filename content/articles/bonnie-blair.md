@@ -23,7 +23,7 @@ Bonnie Blair won five Olympic gold medals in speed skating across three Winter O
 | 1992 | Won two gold at Albertville |
 | 1994 | Won two gold at Lillehammer |
 
-## References
+
 
 [^1]: Wikipedia, "Bonnie Blair" - https://en.wikipedia.org/wiki/Bonnie_Blair
 
@@ -56,3 +56,6 @@ Her career is also used as an example of how specialization in sprint distances 
 - Speed skating at the Winter Olympics
 - United States Olympic & Paralympic movement
 - 500 metres speed skating (long track)
+
+
+## References

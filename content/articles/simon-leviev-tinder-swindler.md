@@ -24,7 +24,7 @@ Israeli con artist who used Tinder to meet women across Europe, posing as the so
 | 2019 | Convicted in Israel, served 5 months |
 | 2022 | Netflix documentary The Tinder Swindler released |
 
-## References
+
 
 [^1]: Wikipedia, "Simon Leviev Tinder Swindler" - https://en.wikipedia.org/wiki/Simon_Leviev_Tinder_Swindler
 
@@ -72,3 +72,6 @@ Discussion following the documentary often focused on prevention rather than a s
 - Romance scam
 - Online dating safety
 - Confidence trick
+
+
+## References

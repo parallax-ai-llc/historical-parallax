@@ -23,7 +23,7 @@ Russian serial killer who murdered 8 women in the Belgorod region between 2002 a
 | 2012 | Arrested after DNA match |
 | 2014 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Ivan Pavlovich Barakov" - https://en.wikipedia.org/wiki/Ivan_Pavlovich_Barakov
 
@@ -58,3 +58,6 @@ Russian serial killer who murdered 8 women in the Belgorod region between 2002 a
 ## References (Additional)
 
 [^2]: Wikipedia, "Ivan Pavlovich Barakov" (case summary and legal outcome) - https://en.wikipedia.org/wiki/Ivan_Pavlovich_Barakov
+
+
+## References

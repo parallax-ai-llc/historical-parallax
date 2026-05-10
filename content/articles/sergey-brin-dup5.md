@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1973 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Sergey Brin dup5" - https://en.wikipedia.org/wiki/Sergey_Brin_dup5
 
@@ -72,3 +72,6 @@ Readers who arrive here often look for adjacent context such as:
 ## Cross-linking note
 
 If a canonical article exists elsewhere in this repository, consider linking this duplicate entry to it explicitly in that file’s body (without removing any existing content here), so that internal navigation and search remain consistent.
+
+
+## References

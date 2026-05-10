@@ -21,7 +21,7 @@ Duplicate — see Im Sang-ok.
 |------|-------|
 | 1779 | See Im Sang-ok entry |
 
-## References
+
 
 [^1]: Wikipedia, "Im Sang-ok duplicate" - https://en.wikipedia.org/wiki/Im_Sang-ok_duplicate
 
@@ -66,3 +66,6 @@ This duplicate keeps only the minimum metadata required for:
 - Avoiding broken links in builds
 - Allowing deterministic de-duplication during data processing
 - Preserving a trail for why the duplicate existed
+
+
+## References

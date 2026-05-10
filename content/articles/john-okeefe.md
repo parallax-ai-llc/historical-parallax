@@ -22,7 +22,7 @@ John O'Keefe is a neuroscientist who shared the 2014 Nobel Prize for discovering
 | 1971 | Discovered place cells |
 | 2014 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "John OKeefe" - https://en.wikipedia.org/wiki/John_OKeefe
 
@@ -48,3 +48,6 @@ John O'Keefe is a neuroscientist who shared the 2014 Nobel Prize for discovering
 
 - This article is a high-level summary based on publicly available reference material (see References).
 - Specific dates, roles, and names should be cross-checked against primary sources when used for research or publication.
+
+
+## References

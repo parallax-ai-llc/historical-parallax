@@ -23,7 +23,7 @@ Italian captain of the Costa Concordia who caused the ships wreck by sailing too
 | 2012 | Abandoned ship |
 | 2015 | Sentenced to 16 years |
 
-## References
+
 
 [^1]: Wikipedia, "Francesco Schettino" - https://en.wikipedia.org/wiki/Francesco_Schettino
 
@@ -48,3 +48,6 @@ The incident had an outsized media footprint. In particular, the widely quoted p
 ### Aftermath
 
 The disaster influenced discussions about maritime safety, cruise industry practices, and emergency preparedness, and it produced legal and reputational consequences for individuals and the company.
+
+
+## References

@@ -22,7 +22,7 @@ Wu Dajing won the 500m short track gold at the 2018 PyeongChang Olympics, China'
 | 2018 | Won 500m gold at PyeongChang |
 | 2022 | Won mixed relay gold at Beijing |
 
-## References
+
 
 [^1]: Wikipedia, "Wu Dajing" - https://en.wikipedia.org/wiki/Wu_Dajing
 
@@ -48,3 +48,6 @@ Wu’s medals are commonly used to illustrate how Olympic success can accelerate
 His 500m title is also cited in discussions about the competitive parity of short track, where small technical margins can produce major upsets.
 He remains a frequent subject in Olympic recaps of sprint short-track events.
 In athlete profiles, he is often presented as part of a generation that expanded China’s medal prospects on ice.
+
+
+## References

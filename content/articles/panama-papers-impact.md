@@ -22,7 +22,7 @@ The Panama Papers leak led to the resignation of Iceland's PM, investigations in
 | 2016 | Papers published |
 | 2017 | Journalist murdered |
 
-## References
+
 
 [^1]: Wikipedia, "Panama Papers Impact" - https://en.wikipedia.org/wiki/Panama_Papers_Impact
 
@@ -51,3 +51,6 @@ The leak also highlighted the personal risk investigative reporters can face whe
 ## Longer-Term Significance
 
 The Panama Papers contributed to a shift in public understanding of offshore finance: it pushed “beneficial ownership” and corporate secrecy from niche policy discussions into mainstream politics and enforcement priorities.
+
+
+## References

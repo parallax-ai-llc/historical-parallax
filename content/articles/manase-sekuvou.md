@@ -21,7 +21,7 @@ Major Fijian cocaine trafficker who ran a network importing drugs from South Ame
 |------|-------|
 | 2020 | Convicted of cocaine trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Manase Sekuvou" - https://en.wikipedia.org/wiki/Manase_Sekuvou
 
@@ -55,3 +55,6 @@ Major Fijian cocaine trafficker who ran a network importing drugs from South Ame
 - Cocaine trafficking
 - Transnational organized crime
 - Drug trafficking in Oceania
+
+
+## References

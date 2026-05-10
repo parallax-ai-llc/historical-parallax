@@ -22,7 +22,7 @@ Leader of Asa'ib Ahl al-Haq militia responsible for kidnapping and killing Briti
 | 2007 | Captured after militia killed five British contractors |
 | 2010 | Released in prisoner exchange |
 
-## References
+
 
 [^1]: Wikipedia, "Qais al-Khazali" - https://en.wikipedia.org/wiki/Qais_al-Khazali
 
@@ -51,3 +51,6 @@ He and/or associated entities have been subject in some contexts to sanctions or
 - Iraq insurgency (post-2003)
 - Popular Mobilization Forces (PMF)
 - Asa'ib Ahl al-Haq
+
+
+## References

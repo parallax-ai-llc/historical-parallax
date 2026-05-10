@@ -21,7 +21,7 @@ Following the 1923 Great Kanto Earthquake, Japanese mobs massacred an estimated 
 |------|-------|
 | 1923 | Thousands of Koreans massacred |
 
-## References
+
 
 [^1]: Wikipedia, "Kanto Great Earthquake Massacre" - https://en.wikipedia.org/wiki/Kanto_Great_Earthquake_Massacre
 
@@ -67,3 +67,5 @@ Following the 1923 Great Kanto Earthquake, Japanese mobs massacred an estimated 
 ## References
 
 [^2]: Britannica, "Great Kantō earthquake of 1923" - https://www.britannica.com/event/Great-Kanto-earthquake-of-1923
+
+

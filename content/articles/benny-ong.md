@@ -22,7 +22,7 @@ Hip Sing Tong leader known as 'Uncle Benny' who controlled gambling and criminal
 | 1970 | Became leader of Hip Sing Tong in New York |
 | 1994 | Assassinated by rival gang member in Chinatown |
 
-## References
+
 
 [^1]: Wikipedia, "Benny Ong" - https://en.wikipedia.org/wiki/Benny_Ong
 
@@ -53,3 +53,6 @@ Assassinations, when they occurred, were often understood as both a personal att
 Stories about tong leaders and Chinatown power brokers are commonly referenced in discussions of immigrant community politics, informal governance, and how illicit economies can become entwined with legitimate businesses.
 
 They also feature in broader analyses of how urban organized crime adapts over time in response to policing pressure and demographic change.
+
+
+## References

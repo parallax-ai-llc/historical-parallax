@@ -21,7 +21,7 @@ Saudi cleric detained and facing death penalty for refusing to tweet support for
 |------|-------|
 | 2017 | Detained for not supporting Qatar blockade |
 
-## References
+
 
 [^1]: Wikipedia, "Salman al-Ouda" - https://en.wikipedia.org/wiki/Salman_al-Ouda
 
@@ -50,3 +50,6 @@ Saudi cleric detained and facing death penalty for refusing to tweet support for
 ## See Also / Further Reading
 
 - Wikipedia: "Salman al-Ouda" (overview, citations, and external links)[^1]
+
+
+## References

@@ -21,7 +21,7 @@ Greek anti-fascist rapper stabbed to death by a Golden Dawn supporter, triggerin
 |------|-------|
 | 2013 | Murdered by Golden Dawn member |
 
-## References
+
 
 [^1]: Wikipedia, "Pavlos Fyssas" - https://en.wikipedia.org/wiki/Pavlos_Fyssas
 
@@ -50,3 +50,6 @@ Greek anti-fascist rapper stabbed to death by a Golden Dawn supporter, triggerin
 ## Further Reading
 
 - Wikipedia provides the most accessible overview of the attack, the perpetrator, and the subsequent Golden Dawn trial.
+
+
+## References

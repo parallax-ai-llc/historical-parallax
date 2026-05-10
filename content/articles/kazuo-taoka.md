@@ -5,7 +5,7 @@ birth: "1913-03-28"
 death: "1981-07-23"
 nationality: "Japan"
 occupation: ["Yakuza Boss"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Taoka.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kazuo_Taoka"
 lastUpdated: "2026-02-21"

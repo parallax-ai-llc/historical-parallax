@@ -21,7 +21,7 @@ Russian-Canadian dual national who was one of the first LockBit ransomware affil
 | 2022 | Arrested in Canada as LockBit affiliate |
 | 2024 | Sentenced in Canada and extradited to US |
 
-## References
+
 
 [^1]: Wikipedia, "Mikhail Vasiliev" - https://en.wikipedia.org/wiki/Mikhail_Vasiliev
 ## Additional Context
@@ -50,3 +50,6 @@ Russian-Canadian dual national who was one of the first LockBit ransomware affil
 - This entry is a high-level summary intended for quick reference.
 - For deeper detail, consult primary documents and the linked reference.
 - Dates are recorded as reported by widely available public sources.
+
+
+## References

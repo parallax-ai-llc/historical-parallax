@@ -22,7 +22,7 @@ PCC is Brazil's largest criminal organization with 30,000+ members controlling d
 | 1993 | Founded in Taubaté prison |
 | 2006 | Attacks paralyzed São Paulo |
 
-## References
+
 
 [^1]: Wikipedia, "Primeiro Comando da Capital" - https://en.wikipedia.org/wiki/Primeiro_Comando_da_Capital
 
@@ -56,3 +56,6 @@ Responses have included large-scale policing operations and prison-security meas
 ## Why the PCC Is Often Cited
 
 The PCC is frequently used as a case study in how prison governance, informal rule systems, and illicit markets can combine to produce a durable criminal organization.
+
+
+## References

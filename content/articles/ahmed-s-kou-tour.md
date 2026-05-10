@@ -22,7 +22,7 @@ First President of Guinea who established a brutal dictatorship with Soviet-back
 | 1958 | Became first president of independent Guinea |
 | 1984 | Died in office; 50,000 estimated killed |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmed Sékou Touré" - https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9
 
@@ -56,3 +56,6 @@ Touré died in 1984 while still in office. A military takeover followed soon aft
 
 [^2]: Britannica, "Ahmed Sékou Touré" - https://www.britannica.com/biography/Ahmed-Sekou-Toure
 [^3]: Encyclopedia.com, "Ahmed Sékou Touré" (biographical overview) - https://www.encyclopedia.com/
+
+
+## References

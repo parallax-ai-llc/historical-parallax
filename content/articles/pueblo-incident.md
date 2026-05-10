@@ -21,7 +21,7 @@ North Korea seized the USS Pueblo intelligence ship in international waters, kil
 |------|-------|
 | 1968 | USS Pueblo captured by North Korea |
 
-## References
+
 
 [^1]: Wikipedia, "Pueblo Incident" - https://en.wikipedia.org/wiki/Pueblo_Incident
 
@@ -64,3 +64,6 @@ North Korea seized the USS Pueblo intelligence ship in international waters, kil
 ## Additional References
 
 [^2]: U.S. Naval Institute / historical summaries (overview), commonly cited alongside Wikipedia for basic chronology.
+
+
+## References

@@ -23,7 +23,7 @@ Pelé won three World Cups (1958, 1962, 1970) and scored over 1,000 career goals
 | 1970 | Won third World Cup |
 | 2022 | Died in São Paulo |
 
-## References
+
 
 [^1]: Wikipedia, "Pelé" - https://en.wikipedia.org/wiki/Pel%C3%A9
 
@@ -67,3 +67,6 @@ Pelé’s fame made him one of the first truly global sports superstars. His nam
 ## Additional References
 
 [^2]: Britannica, “Pelé” (overview) — https://www.britannica.com/biography/Pele-Brazilian-athlete
+
+
+## References

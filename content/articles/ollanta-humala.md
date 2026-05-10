@@ -23,7 +23,7 @@ Peruvian former president investigated for money laundering related to alleged i
 | 2017 | Arrested with wife for money laundering |
 | 2018 | Released from pretrial detention |
 
-## References
+
 
 [^1]: Wikipedia, "Ollanta Humala" - https://en.wikipedia.org/wiki/Ollanta_Humala
 
@@ -55,3 +55,6 @@ Humala and his wife, Nadine Heredia, were held in pretrial detention for months 
 ## Notes
 
 This article summarizes commonly cited, high-level facts. It does not attempt to adjudicate disputed claims; it focuses on roles, major events, and publicly reported investigation milestones.
+
+
+## References

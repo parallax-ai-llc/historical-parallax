@@ -23,7 +23,7 @@ Salvadoran gang leader known as 'El Viejo Lin' who was a founding member of MS-1
 | 2005 | Arrested in El Salvador |
 | 2007 | Convicted of organized crime |
 
-## References
+
 
 [^1]: Wikipedia, "Dimas Ramos" - https://en.wikipedia.org/wiki/Dimas_Ramos
 
@@ -48,3 +48,6 @@ Research and reporting also emphasize that gang dynamics are influenced by local
 ## Notes on Sources
 
 This profile is intentionally brief and relies on the linked reference; readers should consult specialized histories and court documents for more granular timelines.
+
+
+## References

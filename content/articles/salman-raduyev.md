@@ -57,7 +57,7 @@ Chechen warlord who led the Kizlyar-Pervomayskoye hostage crisis.
 - Notability is primarily tied to a specific hostage crisis rather than conventional political office.
 - His case is often discussed within the broader pattern of 1990s insurgency, counterinsurgency operations, and hostage incidents linked to the Chechen wars.
 
-## References
+
 
 [^1]: Wikipedia, "Salman Raduyev" - https://en.wikipedia.org/wiki/Salman_Raduyev
 
@@ -71,3 +71,6 @@ Chechen warlord who led the Kizlyar-Pervomayskoye hostage crisis.
 - First Chechen War (1994–1996)
 - Second Chechen War (1999–2009)
 - Major hostage crises associated with the Chechen conflicts in the 1990s and early 2000s
+
+
+## References

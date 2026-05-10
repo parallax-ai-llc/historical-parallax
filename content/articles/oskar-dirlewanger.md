@@ -24,7 +24,7 @@ German SS officer who commanded the notorious Dirlewanger Brigade, a unit of con
 | 1944 | Participated in suppression of Warsaw Uprising |
 | 1945 | Captured and beaten to death by Polish guards |
 
-## References
+
 
 [^1]: Wikipedia, "Oskar Dirlewanger" - https://en.wikipedia.org/wiki/Oskar_Dirlewanger
 
@@ -58,3 +58,6 @@ Dirlewanger's unit is frequently cited as an especially extreme case within thes
 - SS penal units
 - Nazi occupation policies in Poland and Belarus
 - Warsaw Uprising
+
+
+## References

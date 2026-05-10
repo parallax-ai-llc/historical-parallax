@@ -23,7 +23,7 @@ American former intelligence analyst who leaked classified documents about the U
 | 2019 | Arrested |
 | 2021 | Sentenced to 45 months |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Hale" - https://en.wikipedia.org/wiki/Daniel_Hale
 
@@ -48,3 +48,6 @@ It also intersects with wider scrutiny of U.S. drone policy, including questions
 ## Further Reading
 
 - The Intercept reporting on the U.S. drone program (often referred to as the “Drone Papers”) provides the public-facing context for many references to the leak.
+
+
+## References

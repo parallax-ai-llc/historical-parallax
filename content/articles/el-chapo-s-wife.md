@@ -22,7 +22,7 @@ Emma Coronel Aispuro, wife of El Chapo, pleaded guilty to drug distribution and 
 | 2015 | Helped plan El Chapo's prison tunnel escape |
 | 2021 | Sentenced to three years in US federal prison |
 
-## References
+
 
 [^1]: Wikipedia, "El Chapo's Wife" - https://en.wikipedia.org/wiki/El_Chapo's_Wife
 
@@ -61,3 +61,6 @@ For an evidence-grounded record beyond short summaries, typical sources to consu
 ## References (Extended)
 
 - [^1] provides an overview and links to downstream reporting; primary legal documents are recommended when summarizing specific allegations or procedural history.
+
+
+## References

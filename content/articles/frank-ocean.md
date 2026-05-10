@@ -24,7 +24,7 @@ American singer-songwriter whose albums Channel Orange and Blonde redefined R&B.
 | 2012 | Releases Channel Orange; comes out as bisexual |
 | 2016 | Releases Blonde and Endless |
 
-## References
+
 
 [^1]: Wikipedia, "Frank Ocean" - https://en.wikipedia.org/wiki/Frank_Ocean
 
@@ -49,3 +49,6 @@ Ocean is also known for long gaps between major releases and for maintaining a r
 - Contemporary R&B
 - Album release strategies in the streaming era
 - Songwriting and narrative techniques
+
+
+## References

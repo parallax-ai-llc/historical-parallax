@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1971 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Marc Lore duplicate" - https://en.wikipedia.org/wiki/Marc_Lore_duplicate
 
@@ -64,3 +64,6 @@ If a canonical article exists (e.g., `marc-lore.md`), consider merging this entr
 ## Additional References
 
 If/when a valid canonical source is identified, add it here (official biography, major publications, or a verified encyclopedia entry).
+
+
+## References

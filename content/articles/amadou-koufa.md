@@ -23,7 +23,7 @@ Malian Fulani jihadist who leads the Macina Liberation Front, a militant group t
 | 2017 | Merged with JNIM under Iyad ag Ghaly |
 | 2024 | Remains active in central Mali |
 
-## References
+
 
 [^1]: Wikipedia, "Amadou Koufa" - https://en.wikipedia.org/wiki/Amadou_Koufa
 ## Context
@@ -48,3 +48,6 @@ The Macina Liberation Front has been reported as aligned with Jama'at Nasr al-Is
 
 - **Primary source**: the linked Wikipedia article in References.
 - **Article type**: short biographical overview intended for high-level context.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1955-01-28"
 death: "Unknown"
 nationality: "France"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nicolas_Sarkozy_in_2010.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sarkozy"
 lastUpdated: "2026-02-26"

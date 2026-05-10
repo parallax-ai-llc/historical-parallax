@@ -21,7 +21,7 @@ Russian teenager who blew himself up at an FSB office in Arkhangelsk.
 |------|-------|
 | 2018 | Committed suicide bombing at FSB office |
 
-## References
+
 
 [^1]: Wikipedia, "Mikhail Zhlobitsky" - https://en.wikipedia.org/wiki/Mikhail_Zhlobitsky
 
@@ -50,3 +50,6 @@ Russian teenager who blew himself up at an FSB office in Arkhangelsk.
 ## Notes
 
 - This article summarizes widely reported high-level facts; specific investigative conclusions and primary-source documents are not consistently available in English.
+
+
+## References

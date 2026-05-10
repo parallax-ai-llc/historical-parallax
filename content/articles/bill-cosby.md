@@ -23,7 +23,7 @@ American comedian convicted of drugging and sexually assaulting Andrea Constand.
 | 2018 | Convicted |
 | 2021 | Conviction overturned, released |
 
-## References
+
 
 [^1]: Wikipedia, "Bill Cosby" - https://en.wikipedia.org/wiki/Bill_Cosby
 
@@ -51,3 +51,6 @@ American comedian convicted of drugging and sexually assaulting Andrea Constand.
 ## References (Additional)
 
 [^2]: Supreme Court of Pennsylvania decision summary (2021) - https://www.pacourts.us/
+
+
+## References

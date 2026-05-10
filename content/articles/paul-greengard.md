@@ -24,7 +24,7 @@ Paul Greengard was an American neuroscientist who shared the 2000 Nobel Prize fo
 | 2000 | Awarded Nobel Prize |
 | 2019 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Paul Greengard" - https://en.wikipedia.org/wiki/Paul_Greengard
 
@@ -53,3 +53,6 @@ Greengard's contributions are often summarized as bridging biochemistry and neur
 - Signal transduction
 - Synaptic plasticity
 - Rockefeller University
+
+
+## References

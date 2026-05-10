@@ -5,7 +5,7 @@ birth: "1945-10-29"
 death: "1985-06-06"
 nationality: "United States"
 occupation: ["Serial Killer", "Rapist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/a/a4/Serial_Killer_Leonard_Lake.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonard_Lake"
 lastUpdated: "2026-02-21"

@@ -24,7 +24,7 @@ Cambodian Khmer Rouge military commander known as 'The Butcher' who oversaw mass
 | 1999 | Captured by Cambodian forces |
 | 2006 | Died in detention before trial |
 
-## References
+
 
 [^1]: Wikipedia, "Ta Mok" - https://en.wikipedia.org/wiki/Ta_Mok
 
@@ -49,3 +49,6 @@ The Khmer Rouge period is associated with widespread atrocities and catastrophic
 - Khmer Rouge leadership and command structures
 - Transitional justice efforts in Cambodia
 - International and domestic mechanisms for prosecuting mass atrocities
+
+
+## References

@@ -22,7 +22,7 @@ British teenager and leader of the Lapsus$ hacking group who breached Uber, Rock
 | 2022 | Hacked Uber and leaked GTA VI footage while under police bail |
 | 2023 | Given indefinite hospital order by court |
 
-## References
+
 
 [^1]: Wikipedia, "Arion Kurtaj" - https://en.wikipedia.org/wiki/Arion_Kurtaj
 
@@ -57,3 +57,6 @@ British teenager and leader of the Lapsus$ hacking group who breached Uber, Rock
 
 - Much of the public narrative comes from court coverage and investigative reporting; fine-grained technical details may not be fully disclosed.
 - Group attribution in cybercrime is often probabilistic and can evolve as additional evidence becomes public.
+
+
+## References

@@ -22,7 +22,7 @@ A botched Philippine police operation targeting Malaysian bomb-maker Marwan kill
 | 2015 | 44 police officers killed in operation against Marwan |
 | 2015 | Senate investigation found command responsibility failures |
 
-## References
+
 
 [^1]: Wikipedia, "Mamasapano Clash" - https://en.wikipedia.org/wiki/Mamasapano_Clash
 
@@ -57,3 +57,6 @@ Senate and other inquiries examined operational planning and decision-making, in
 - The adequacy of contingency planning and support for extraction
 
 Because different bodies reached different emphases, the incident is frequently cited in Philippine security discussions as a case study in joint-operations risk and the cost of fragmented command structures.
+
+
+## References

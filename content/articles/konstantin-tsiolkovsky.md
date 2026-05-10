@@ -5,7 +5,7 @@ birth: "1857-09-17"
 death: "1935-09-19"
 nationality: "Russian"
 occupation: ["Scientist", "Rocket Scientist", "Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A6%D0%B8%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky"
 lastUpdated: "2026-02-21"

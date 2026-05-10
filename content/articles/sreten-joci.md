@@ -21,7 +21,7 @@ Serbian drug lord known as 'Joca Amsterdam' who controlled cocaine trafficking f
 |------|-------|
 | 2005 | Major cocaine trafficking operations |
 
-## References
+
 
 [^1]: Wikipedia, "Sreten Jocić" - https://en.wikipedia.org/wiki/Sreten_Joci%C4%87
 
@@ -50,3 +50,6 @@ Serbian drug lord known as 'Joca Amsterdam' who controlled cocaine trafficking f
 
 [^2]: Wikipedia, "Ivo Pukanić" - https://en.wikipedia.org/wiki/Ivo_Pukani%C4%87
 [^3]: Wikipedia, "Organized crime" - https://en.wikipedia.org/wiki/Organized_crime
+
+
+## References

@@ -23,7 +23,7 @@ Period of terrorist crisis in Germany in autumn 1977 when the RAF kidnapped indu
 | 1977 | Lufthansa Flight 181 hijacked |
 | 1977 | GSG 9 rescued hostages, three RAF leaders died in prison |
 
-## References
+
 
 [^1]: Wikipedia, "German Autumn" - https://en.wikipedia.org/wiki/German_Autumn
 
@@ -49,3 +49,6 @@ In German memory and scholarship, the episode is often treated as a stress test 
 It remains a frequently cited case when discussing hostage policy, counterterrorism decision-making, and the long-term effects of political violence on democratic institutions.
 
 The term is also used more broadly to capture the atmosphere of fear and political tension that accompanied the events.
+
+
+## References

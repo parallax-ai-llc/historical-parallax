@@ -26,7 +26,7 @@ Haitian senate president sanctioned by the US for drug trafficking and undermini
 | 2022 | Sanctioned by the U.S. and Canada in connection with allegations involving the global illicit drug trade, corruption, and human rights abuses |
 | 2023 | Reported injured in an armed attack / assassination attempt near Haiti's National Assembly building |
 
-## References
+
 
 [^1]: Wikipedia, "Joseph Lambert" - https://en.wikipedia.org/wiki/Joseph_Lambert
 
@@ -48,3 +48,6 @@ Haitian senate president sanctioned by the US for drug trafficking and undermini
 
 [^2]: Wikipedia, "Joseph Lambert (Haitian politician)" - https://en.wikipedia.org/wiki/Joseph_Lambert_(Haitian_politician)
 [^3]: U.S. Department of the Treasury (OFAC), sanctions announcement (2022-11-04) - https://home.treasury.gov/
+
+
+## References

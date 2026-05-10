@@ -24,7 +24,7 @@ Grand Vizier of the Ottoman Empire and chief architect of the Armenian Genocide.
 | 1918 | Fled Ottoman Empire after defeat |
 | 1921 | Assassinated in Berlin by Soghomon Tehlirian |
 
-## References
+
 
 [^1]: Wikipedia, "Talaat Pasha" - https://en.wikipedia.org/wiki/Talaat_Pasha
 
@@ -52,3 +52,6 @@ Talaat Pasha remains a central figure in scholarly and public discussions about 
 
 - Committee of Union and Progress
 - Armenian Genocide
+
+
+## References

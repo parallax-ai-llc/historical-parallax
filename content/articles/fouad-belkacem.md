@@ -21,7 +21,7 @@ Belgian leader of Sharia4Belgium convicted of leading a terrorist group that rec
 |------|-------|
 | 2015 | Convicted of leading terrorist organization |
 
-## References
+
 
 [^1]: Wikipedia, "Fouad Belkacem" - https://en.wikipedia.org/wiki/Fouad_Belkacem
 
@@ -52,3 +52,6 @@ Belgian leader of Sharia4Belgium convicted of leading a terrorist group that rec
 - Sharia4Belgium
 - Foreign fighters in the Syrian civil war
 - Counterterrorism in Belgium
+
+
+## References

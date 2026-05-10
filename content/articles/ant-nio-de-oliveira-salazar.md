@@ -24,7 +24,7 @@ Portuguese dictator who established the Estado Novo authoritarian regime and rul
 | 1961 | Colonial wars began in Africa |
 | 1968 | Incapacitated by stroke; removed from power |
 
-## References
+
 
 [^1]: Wikipedia, "António de Oliveira Salazar" - https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar
 
@@ -48,3 +48,6 @@ After his 1968 incapacity, Marcelo Caetano replaced him, but the Estado Novo con
 - Portuguese Colonial War (1961–1974)
 - Corporatism and authoritarian political theory in 20th-century Europe
 - Decolonization and the collapse of European empires after World War II
+
+
+## References

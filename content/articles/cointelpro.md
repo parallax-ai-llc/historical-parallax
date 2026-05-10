@@ -22,7 +22,7 @@ FBI program that surveilled, infiltrated, and disrupted civil rights and politic
 | 1956 | Program began |
 | 1971 | Exposed through break-in of FBI office |
 
-## References
+
 
 [^1]: Wikipedia, "COINTELPRO" - https://en.wikipedia.org/wiki/COINTELPRO
 
@@ -52,3 +52,6 @@ COINTELPRO remains a frequently cited historical precedent in debates about stat
 - Church Committee investigations
 - Domestic surveillance law and oversight
 - Civil rights movement and federal law enforcement
+
+
+## References

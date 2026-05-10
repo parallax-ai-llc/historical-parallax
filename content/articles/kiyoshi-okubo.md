@@ -22,7 +22,7 @@ Japanese serial killer who abducted and murdered 8 young women in Gunma Prefectu
 | 1971 | Began killing |
 | 1976 | Executed |
 
-## References
+
 
 [^1]: Wikipedia, "Kiyoshi Okubo" - https://en.wikipedia.org/wiki/Kiyoshi_Okubo
 
@@ -55,3 +55,6 @@ Many widely circulated details come from press coverage and secondary summaries;
 - Crime in Japan
 - Capital punishment in Japan
 - Serial killer case studies
+
+
+## References

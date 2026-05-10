@@ -23,7 +23,7 @@ Ugandan serial killer who murdered at least 26 women in Kampala between 2007 and
 | 2008 | Arrested after being identified by a surviving victim |
 | 2010 | Convicted and sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Ssebabi" - https://en.wikipedia.org/wiki/Charles_Ssebabi
 
@@ -48,3 +48,6 @@ The conviction and sentencing occurred within Uganda's criminal justice system, 
 - Criminal procedure and evidence
 
 
+
+
+## References

@@ -21,7 +21,7 @@ Nationalization of PrivatBank after discovery of $5.5 billion allegedly embezzle
 |------|-------|
 | 2016 | PrivatBank nationalized |
 
-## References
+
 
 [^1]: Wikipedia, "Kolomiyskyy-PrivatBank" - https://en.wikipedia.org/wiki/Kolomiyskyy-PrivatBank
 
@@ -61,3 +61,6 @@ Nationalization of PrivatBank after discovery of $5.5 billion allegedly embezzle
 - PrivatBank
 - National Bank of Ukraine
 - Banking crises and nationalizations
+
+
+## References

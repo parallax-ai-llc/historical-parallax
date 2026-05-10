@@ -21,7 +21,7 @@ British-Irish arms trader in East Africa hanged by Belgians for selling weapons 
 |------|-------|
 | 1895 | Hanged by Belgian colonial authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Stokes" - https://en.wikipedia.org/wiki/Charles_Stokes
 
@@ -70,3 +70,6 @@ British-Irish arms trader in East Africa hanged by Belgians for selling weapons 
 ## Source Notes
 
 - This article is intentionally concise and high-level; specific operational allegations (who purchased arms, the precise proceedings, and diplomatic correspondence) vary across historical accounts and should be checked against the reference and specialist histories.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1883-08-08"
 death: "1948-12-23"
 nationality: "Japan"
 occupation: ["War Criminal", "Spy"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/General_Kenji_Doihara_IJA.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kenji_Doihara"
 lastUpdated: "2026-02-26"

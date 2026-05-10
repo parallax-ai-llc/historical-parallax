@@ -22,7 +22,7 @@ South Africa's system of institutionalized racial segregation that denied basic 
 | 1948 | Apartheid formally established |
 | 1994 | First democratic elections |
 
-## References
+
 
 [^1]: Wikipedia, "Apartheid South Africa" - https://en.wikipedia.org/wiki/Apartheid_South_Africa
 
@@ -64,3 +64,6 @@ Apartheid is widely studied as an example of modern institutionalized racial dom
 
 [^2]: Nelson Mandela Foundation, "Apartheid" (overview resources) - https://www.nelsonmandela.org/
 [^3]: Britannica, "Apartheid" - https://www.britannica.com/topic/apartheid
+
+
+## References

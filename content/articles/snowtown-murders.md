@@ -21,7 +21,7 @@ Duplicate consolidated. See John Bunting.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Snowtown murders" - https://en.wikipedia.org/wiki/Snowtown_murders
 
@@ -54,3 +54,6 @@ In Australian criminal-justice history, the case is frequently cited for:
 ## Cultural impact
 
 The case has been referenced in journalism and documentaries, and it inspired the feature film **Snowtown** (released internationally as **The Snowtown Murders**), which contributed to broader public awareness of the events.
+
+
+## References

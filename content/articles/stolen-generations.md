@@ -22,7 +22,7 @@ Australian government forcibly removed Aboriginal and Torres Strait Islander chi
 | 1869 | Removals began |
 | 2008 | Prime Minister Rudd apologized |
 
-## References
+
 
 [^1]: Wikipedia, "Stolen Generations" - https://en.wikipedia.org/wiki/Stolen_Generations
 
@@ -56,3 +56,6 @@ Ovett remains a reference point in discussions of:
 ## Further Reading
 
 - Wikipedia profile (overview, major results, and record notes): see reference below.
+
+
+## References

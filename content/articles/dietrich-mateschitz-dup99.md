@@ -22,7 +22,7 @@ Duplicate.
 |------|-------|
 | 1944 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Dietrich Mateschitz dup99" - https://en.wikipedia.org/wiki/Dietrich_Mateschitz_dup99
 
@@ -51,3 +51,6 @@ Dietrich Mateschitz (1944–2022) is best known as an Austrian entrepreneur and 
 
 This page is labeled as a **duplicate** entry ("dup99"). The Wikipedia URL included in frontmatter appears to be a placeholder/variant rather than the canonical biography page. When consolidating duplicates, this article should be merged into the primary Dietrich Mateschitz profile and the references normalized to the correct source.
 
+
+
+## References

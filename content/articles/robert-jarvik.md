@@ -5,7 +5,7 @@ birth: "1946-05-11"
 death: "living"
 nationality: "American"
 occupation: ["Inventor", "Physician", "Biomedical Engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Robert_Jarvik_%281981%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Jarvik"
 lastUpdated: "2026-02-21"

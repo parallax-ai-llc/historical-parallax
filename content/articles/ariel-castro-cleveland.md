@@ -24,7 +24,7 @@ American kidnapper who imprisoned three women in his Cleveland home for over a d
 | 2013 | Victims escaped when Berry broke through door |
 | 2013 | Committed suicide in prison one month after sentencing |
 
-## References
+
 
 [^1]: Wikipedia, "Ariel Castro Cleveland" - https://en.wikipedia.org/wiki/Ariel_Castro_Cleveland
 
@@ -48,3 +48,6 @@ The case led to extensive public discussion about victim support, long-term trau
 
 - Missing persons investigations
 - Kidnapping and unlawful imprisonment
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1725-09-29"
 death: "1774-11-22"
 nationality: "United Kingdom"
 occupation: ["War Criminal", "Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Clive"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ British colonial administrator known as 'Clive of India' who established British
 | 1773 | Faced parliamentary inquiry for corruption |
 | 1774 | Committed suicide |
 
-## References
+
 
 [^1]: Wikipedia, "Robert Clive" - https://en.wikipedia.org/wiki/Robert_Clive
 
@@ -52,3 +52,6 @@ British colonial administrator known as 'Clive of India' who established British
 
 - The 1770 Bengal famine is widely understood to have resulted from a complex mix of climatic shocks, market dynamics, and administrative failures.
 - While Clive’s career is tied to the EIC’s consolidation of revenue control, scholarly debates vary on how to allocate responsibility across individuals versus institutional systems and later policy decisions.
+
+
+## References

@@ -53,7 +53,7 @@ Al-Qaeda propagandist convicted by US military tribunal of conspiracy and creati
 - Guantanamo Bay detention camp
 - Guantanamo military commissions
 
-## References
+
 
 [^1]: Wikipedia, "Ali Hamza Ahmad Sulayman al-Bahlul" - https://en.wikipedia.org/wiki/Ali_Hamza_Ahmad_Sulayman_al-Bahlul
 [^2]: United States Court of Appeals for the D.C. Circuit (case history summarized via Wikipedia and linked citations) - https://en.wikipedia.org/wiki/Ali_Hamza_Ahmad_Sulayman_al-Bahlul
@@ -71,3 +71,6 @@ Ali Hamza Ahmad Sulayman al-Bahlul is a Yemeni detainee held at Guantánamo Bay 
 
 ## Broader significance
 The case is referenced in debates about national security law, detention policy, and the legal legacy of post-9/11 counterterrorism.
+
+
+## References

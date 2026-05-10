@@ -22,7 +22,7 @@ Head of JBS, the world's largest meatpacking company, who secretly recorded Braz
 | 2017 | Released secret recording of president |
 | 2017 | Arrested for insider trading |
 
-## References
+
 
 [^1]: Wikipedia, "Joesley Batista" - https://en.wikipedia.org/wiki/Joesley_Batista
 
@@ -51,3 +51,6 @@ Because JBS is a large employer and exporter, controversy around its leadership 
 - Michel Temer
 - Operation Car Wash
 - JBS S.A.
+
+
+## References

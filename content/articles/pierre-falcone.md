@@ -23,7 +23,7 @@ French businessman convicted in the Angolagate scandal for illegally selling $79
 | 2009 | Convicted of illegal arms trafficking and corruption |
 | 2009 | Sentenced to 6 years in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Pierre Falcone" - https://en.wikipedia.org/wiki/Pierre_Falcone
 
@@ -53,3 +53,6 @@ Because the scandal involved many actors and a long procedural timeline, short b
 
 [^2]: French court reporting on the Angolagate trial and verdicts (as summarized by secondary sources).
 [^3]: Background reporting on "Françafrique" and French arms-export oversight debates that commonly cite the case.
+
+
+## References

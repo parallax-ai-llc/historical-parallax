@@ -56,7 +56,7 @@ Goldman Sachs arranged $6.5 billion in bonds for 1MDB and paid over $5 billion i
   - third-party/intermediary risk,
   - reputational risk from high-fee sovereign or quasi-sovereign deals.
 
-## References
+
 
 [^1]: Wikipedia, "Goldman Sachs 1MDB" - https://en.wikipedia.org/wiki/Goldman_Sachs_1MDB
 
@@ -76,3 +76,6 @@ Goldman Sachs arranged $6.5 billion in bonds for 1MDB and paid over $5 billion i
 
 - The 1MDB scandal became a widely referenced case study for **anti-money-laundering (AML)**, **anti-bribery**, and **third-party risk** management in global finance.
 - It also illustrated how reputational and regulatory consequences can persist long after a transaction closes, especially when sovereign-linked funds are involved.
+
+
+## References

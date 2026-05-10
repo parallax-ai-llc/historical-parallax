@@ -21,7 +21,7 @@ Australian former US Marine pilot charged with training Chinese military pilots.
 |------|-------|
 | 2022 | Arrested for training Chinese military |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Duggan" - https://en.wikipedia.org/wiki/Daniel_Duggan
 
@@ -61,3 +61,6 @@ Australian former US Marine pilot charged with training Chinese military pilots.
 
 - This article summarizes widely reported allegations and procedural milestones; specific counts, dates, and characterizations should be verified against primary court documents where possible.
 - The frontmatter fields (e.g., birth date, occupation label) may not match all public sources; treat them as placeholders unless corroborated.
+
+
+## References

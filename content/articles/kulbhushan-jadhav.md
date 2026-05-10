@@ -22,7 +22,7 @@ Indian national arrested in Pakistan and sentenced to death by a military court 
 | 2016 | Arrested in Pakistan and accused of espionage for India |
 | 2019 | ICJ ordered Pakistan to review his death sentence |
 
-## References
+
 
 [^1]: Wikipedia, "Kulbhushan Jadhav" - https://en.wikipedia.org/wiki/Kulbhushan_Jadhav
 
@@ -48,3 +48,6 @@ The ICJ decision is commonly summarized as requiring Pakistan to provide effecti
 ## Notes
 
 Public details may differ across official statements; timelines and legal interpretations should be checked against ICJ documents and court records.
+
+
+## References

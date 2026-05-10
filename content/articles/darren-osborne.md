@@ -22,7 +22,7 @@ British man who drove a van into Muslim worshippers near the Finsbury Park Mosqu
 | 2017 | Drove van into Muslims near Finsbury Park Mosque; killed 1 |
 | 2018 | Convicted of murder; sentenced to minimum 43 years |
 
-## References
+
 
 [^1]: Wikipedia, "Darren Osborne" - https://en.wikipedia.org/wiki/Darren_Osborne
 
@@ -50,3 +50,6 @@ The Finsbury Park attack was widely cited as a reminder that terrorism threats c
 
 - Finsbury Park attack
 - Far-right terrorism in the United Kingdom
+
+
+## References

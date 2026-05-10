@@ -24,7 +24,7 @@ American con artist who organized the disastrous Fyre Festival, a luxury music f
 | 2018 | Sentenced to 6 years |
 | 2022 | Released from prison, arrested for new ticket scam |
 
-## References
+
 
 [^1]: Wikipedia, "Billy McFarland Fyre Festival" - https://en.wikipedia.org/wiki/Billy_McFarland_Fyre_Festival
 
@@ -57,3 +57,6 @@ American con artist who organized the disastrous Fyre Festival, a luxury music f
 
 - The failure triggered lawsuits, documentaries, and broader discussion about truth-in-advertising, risk management, and due diligence.
 - The episode is often used as a case study in how branding and hype can outpace logistics and governance.
+
+
+## References

@@ -21,7 +21,7 @@ Swedish PM Olof Palme was shot dead while walking home from a cinema without bod
 |------|-------|
 | 1986 | Palme shot dead on Stockholm street |
 
-## References
+
 
 [^1]: Wikipedia, "Olof Palme Assassination" - https://en.wikipedia.org/wiki/Olof_Palme_Assassination
 
@@ -79,3 +79,6 @@ Swedish PM Olof Palme was shot dead while walking home from a cinema without bod
 
 - Official Swedish prosecutorial materials and summaries released in 2020 (as referenced by major Swedish outlets).
 - Contemporary reporting and retrospectives on the investigation and its societal impact.
+
+
+## References

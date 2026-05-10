@@ -22,7 +22,7 @@ Wilma Rudolph overcame childhood polio to become the first American woman to win
 | 1960 | Won three gold at Rome Olympics |
 | 1994 | Died of brain cancer |
 
-## References
+
 
 [^1]: Wikipedia, "Wilma Rudolph" - https://en.wikipedia.org/wiki/Wilma_Rudolph
 
@@ -53,3 +53,6 @@ Rudolph’s achievements endure as a landmark moment in Olympic history, particu
 - **1940:** Born in Tennessee
 - **1960:** Breakthrough Olympic performance in Rome
 - **1994:** Died in the United States
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1871-07-16"
 death: "1944-07-12"
 nationality: "Russian"
 occupation: ["Theologian", "Philosopher", "Priest"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Sbulgakov.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergei_Bulgakov"
 lastUpdated: "2026-02-21"

@@ -21,7 +21,7 @@ Attorney and insider in the Daejang-dong scandal who profited hundreds of millio
 |------|-------|
 | 2022 | Cooperated with investigation |
 
-## References
+
 
 [^1]: Wikipedia, "Nam Wook" - https://en.wikipedia.org/wiki/Nam_Wook
 
@@ -69,3 +69,6 @@ The Daejang-dong scandal unfolded over multiple years; the table below highlight
 - Daejang-dong land development scandal
 - South Korean political corruption allegations and investigations
 - Seongnam development projects and private-public partnerships
+
+
+## References

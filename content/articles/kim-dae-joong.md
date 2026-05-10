@@ -5,7 +5,7 @@ birth: "1953-01-01"
 death: "Unknown"
 nationality: "Korean"
 occupation: ["Geotechnical engineer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kim_Dae-jung_presidential_portrait.jpg/3840px-Kim_Dae-jung_presidential_portrait.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Dae-joong"
 lastUpdated: "2026-02-21"

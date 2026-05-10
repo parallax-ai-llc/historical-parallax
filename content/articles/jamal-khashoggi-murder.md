@@ -23,7 +23,7 @@ Saudi journalist and Washington Post columnist who was murdered and dismembered 
 | 2018 | Turkey released evidence of murder and dismemberment |
 | 2019 | UN report found 'credible evidence' implicating MBS |
 
-## References
+
 
 [^1]: Wikipedia, "Jamal Khashoggi murder" - https://en.wikipedia.org/wiki/Jamal_Khashoggi_murder
 
@@ -51,3 +51,6 @@ The case remains widely cited as a high-profile example of political violence ag
 
 - Press freedom and journalist safety
 - Saudi ArabiaTurkey relations
+
+
+## References

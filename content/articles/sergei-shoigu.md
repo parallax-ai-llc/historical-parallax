@@ -5,7 +5,7 @@ birth: "1955-05-21"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Military Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Official_portrait_of_Sergey_Shoigu_with_awards_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergei_Shoigu"
 lastUpdated: "2026-02-26"

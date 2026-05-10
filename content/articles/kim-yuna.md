@@ -5,7 +5,7 @@ birth: "1990-09-05"
 death: "Unknown"
 nationality: "South Korean"
 occupation: ["Athlete", "Olympic Champion", "Figure Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/YuNaKimInVancouver.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Yuna"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Kim Yuna won 2010 Olympic gold with a world record 228.56 points. She lit the 20
 | 2013 | Won second World Championship |
 | 2018 | Lit PyeongChang Olympic cauldron |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Yuna" - https://en.wikipedia.org/wiki/Kim_Yuna
 
@@ -50,3 +50,6 @@ Kim Yuna won 2010 Olympic gold with a world record 228.56 points. She lit the 20
 - Wikipedia article linked above for a starting overview.
 - ISU and Olympic archives for competition results and scoring details.
 - Profiles and interviews that discuss training, artistry, and competitive approach.
+
+
+## References

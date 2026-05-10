@@ -23,7 +23,7 @@ Indian serial killer and doctor who murdered over 30 taxi drivers and truck driv
 | 2004 | Arrested |
 | 2005 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Devendra Sharma" - https://en.wikipedia.org/wiki/Devendra_Sharma
 
@@ -48,3 +48,6 @@ This article avoids procedural detail and focuses on high-level, factual framing
 - Crimes against commercial drivers and passenger safety
 - Vehicle theft, resale markets, and fraud investigations
 - Professional misconduct and regulatory oversight
+
+
+## References

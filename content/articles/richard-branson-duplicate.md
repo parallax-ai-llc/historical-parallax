@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1950 | See Richard Branson |
 
-## References
+
 
 [^1]: Wikipedia, "Richard Branson duplicate" - https://en.wikipedia.org/wiki/Richard_Branson_duplicate
 
@@ -54,3 +54,6 @@ Key highlights often associated with the canonical profile:
 - A strong brand can act as an "interface" that reduces friction when entering new markets.
 - Diversification works best when there is a repeatable playbook (distribution, PR, partnerships), not only a new idea.
 - Public narrative is not optional for consumer-facing conglomerates; it compounds (positively or negatively) over time.
+
+
+## References

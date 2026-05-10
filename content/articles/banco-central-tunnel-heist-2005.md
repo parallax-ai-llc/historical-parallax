@@ -21,7 +21,7 @@ Thieves tunneled 78 meters from a rented property to reach the vault of Brazil's
 |------|-------|
 | 2005 | R$164 million stolen through tunnel |
 
-## References
+
 
 [^1]: Wikipedia, "Banco Central Tunnel Heist 2005" - https://en.wikipedia.org/wiki/Banco_Central_Tunnel_Heist_2005
 
@@ -74,3 +74,6 @@ Public reporting has highlighted several recurring investigative angles:
 ## Additional References
 
 - Wikipedia (primary overview): https://en.wikipedia.org/wiki/Banco_Central_Tunnel_Heist_2005
+
+
+## References

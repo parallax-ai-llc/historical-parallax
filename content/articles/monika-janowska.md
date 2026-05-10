@@ -25,7 +25,7 @@ Polish woman convicted of murdering her newborn baby, sparking debate about repr
 |------|-------|
 | 2015 | Convicted of infanticide |
 
-## References
+
 
 [^1]: Wikipedia, "Monika Janowska" - https://en.wikipedia.org/wiki/Monika_Janowska
 
@@ -66,3 +66,6 @@ Polish woman convicted of murdering her newborn baby, sparking debate about repr
 ## Editorial note
 
 - This article is intentionally **high-level** due to limited verifiable public sourcing in English for this specific name entry.
+
+
+## References

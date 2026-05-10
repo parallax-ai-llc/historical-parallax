@@ -5,7 +5,7 @@ birth: "1945-07-14"
 death: "Unknown"
 nationality: "Indian"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Shiv_Nadar.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shiv_Nadar"
 lastUpdated: "2026-02-21"

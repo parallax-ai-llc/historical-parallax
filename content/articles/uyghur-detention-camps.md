@@ -22,7 +22,7 @@ China detained an estimated 1-3 million Uyghurs and other Turkic Muslims in inte
 | 2017 | Mass detention of Uyghurs began in Xinjiang |
 | 2022 | UN found evidence of crimes against humanity |
 
-## References
+
 
 [^1]: Wikipedia, "Uyghur Detention Camps" - https://en.wikipedia.org/wiki/Uyghur_Detention_Camps
 
@@ -55,3 +55,6 @@ Uyghur detention and related policies remain central to the Uyghur diaspora’s 
 - The role of mass surveillance technologies and policing practices
 - Family separation and impacts on language, religion, and cultural transmission
 - The use of international law and multilateral forums to address alleged abuses
+
+
+## References

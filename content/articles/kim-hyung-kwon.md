@@ -21,7 +21,7 @@ South Korean serial killer who murdered multiple people in Seoul.
 |------|-------|
 | 2008 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Hyung-kwon" - https://en.wikipedia.org/wiki/Kim_Hyung-kwon
 
@@ -59,3 +59,6 @@ To expand this page responsibly, prefer adding:
 
 - Serial murder in South Korea
 - Criminal justice system of South Korea
+
+
+## References

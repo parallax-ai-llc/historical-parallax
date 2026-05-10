@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 1963-08-08 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -48,3 +48,6 @@ The investigation is often summarized as a combination of traditional detective 
 ## Cultural Legacy
 The Great Train Robbery has been repeatedly dramatized in books, television, and film, which helped keep the event in public memory long after the original court proceedings. It is also used as a case study in transport security for the importance of protecting critical signaling infrastructure and conducting careful chain-of-custody controls for high-value shipments.
 The episode remains one of the most discussed robberies in modern British history.
+
+
+## References

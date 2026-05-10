@@ -21,7 +21,7 @@ Russian neo-Nazi convicted of murdering journalist Baburova and lawyer Markelov.
 |------|-------|
 | 2011 | Convicted of double murder |
 
-## References
+
 
 [^1]: Wikipedia, "Nikita Tikhonov" - https://en.wikipedia.org/wiki/Nikita_Tikhonov
 
@@ -57,3 +57,6 @@ Russian neo-Nazi convicted of murdering journalist Baburova and lawyer Markelov.
 ## Further Reading
 
 - If the Wikipedia link above is unavailable or out of date, consult major news archives and court reporting for corroboration.
+
+
+## References

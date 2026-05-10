@@ -19,7 +19,7 @@ Eric Harris and Dylan Klebold carried out the Columbine High School massacre on 
 |------|-------|
 | 1981 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Early Life and Background
@@ -68,3 +68,6 @@ Eric Harris and Dylan Klebold carried out the Columbine High School massacre on 
 - Institutional lessons: information-sharing between schools, families, and police; and the design of reporting mechanisms for credible threats.
 - Media framing: the tension between public information and the risk of myth-making.
 
+
+
+## References

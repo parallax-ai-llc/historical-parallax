@@ -21,7 +21,7 @@ Canadian who murdered 6 worshippers at a Quebec City mosque in a hate crime.
 |------|-------|
 | 2017 | Committed Quebec City mosque shooting |
 
-## References
+
 
 [^1]: Wikipedia, "Alexandre Bissonnette" - https://en.wikipedia.org/wiki/Alexandre_Bissonnette
 
@@ -57,3 +57,6 @@ Canadian who murdered 6 worshippers at a Quebec City mosque in a hate crime.
 
 - Quebec City mosque shooting
 - Islamophobia in Canada
+
+
+## References

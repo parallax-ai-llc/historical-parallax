@@ -22,7 +22,7 @@ Bolivian drug lord who ran a major cocaine trafficking operation from Santa Cruz
 | 2010 | Ran major cocaine trafficking network from Santa Cruz |
 | 2015 | Arrested in Bolivia |
 
-## References
+
 
 [^1]: Wikipedia, "Pedro Montenegro Paz" - https://en.wikipedia.org/wiki/Pedro_Montenegro_Paz
 
@@ -49,3 +49,6 @@ Montenegro Paz is referenced as an example of how a single figure can symbolize 
 ## Aftermath
 
 In many drug-trafficking cases, the long-term impact depends on whether the arrest leads to asset seizures, disruption of successor networks, and credible prosecution of collaborators rather than a narrow focus on one headline suspect.
+
+
+## References

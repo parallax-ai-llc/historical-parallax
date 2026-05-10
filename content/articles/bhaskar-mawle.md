@@ -23,7 +23,7 @@ Indian serial killer from Maharashtra who murdered at least 10 women and childre
 | 2006 | Arrested by Maharashtra police |
 | 2008 | Convicted and sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Bhaskar Mawle" - https://en.wikipedia.org/wiki/Bhaskar_Mawle
 
@@ -48,3 +48,6 @@ Indian criminal law allows for the death penalty in what courts describe as the 
 Given that the linked “Wikipedia” URL may not always resolve to a stable article, expansions should be cautious about adding new incident-level details beyond what is clearly cited.
 
 At a high level, the stable facts in this entry are the existence of a case, arrest, conviction, and a severe sentence; the exact count of victims and specific modus operandi details should be treated as source-dependent unless corroborated.
+
+
+## References

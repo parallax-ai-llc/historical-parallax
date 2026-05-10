@@ -24,7 +24,7 @@ Gabonese president who ruled for 42 years while his country's oil wealth enriche
 | 2007 | 'Ill-Gotten Gains' investigation revealed French properties |
 | 2009 | Died in office; son Ali succeeded him |
 
-## References
+
 
 [^1]: Wikipedia, "Omar Bongo" - https://en.wikipedia.org/wiki/Omar_Bongo
 
@@ -58,3 +58,6 @@ Public reporting about alleged enrichment and overseas assets has centered on:
 - Politics of Gabon
 - Resource-wealth governance and "resource curse" debates
 - Asset-recovery and "ill-gotten gains" investigations
+
+
+## References

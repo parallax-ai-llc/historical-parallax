@@ -22,7 +22,7 @@ Risako Kawai won Olympic wrestling gold at 2016 and 2021, becoming one of Japan'
 | 2016 | Won Olympic gold at Rio |
 | 2021 | Won Olympic gold at Tokyo |
 
-## References
+
 
 [^1]: Wikipedia, "Risako Kawai" - https://en.wikipedia.org/wiki/Risako_Kawai
 
@@ -59,3 +59,6 @@ Kawai's back-to-back Olympic titles placed her among the most prominent Japanese
 
 - Women's freestyle wrestling
 - Japan at the Olympic Games
+
+
+## References

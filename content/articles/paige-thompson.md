@@ -23,7 +23,7 @@ American former Amazon employee who hacked Capital One in 2019, accessing data o
 | 2019 | Arrested |
 | 2022 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Paige Thompson" - https://en.wikipedia.org/wiki/Paige_Thompson
 
@@ -56,3 +56,6 @@ Security teams frequently cite the incident when discussing:
 - Cloud security posture management
 - Web application firewall (WAF)
 - Data breach disclosure practices
+
+
+## References

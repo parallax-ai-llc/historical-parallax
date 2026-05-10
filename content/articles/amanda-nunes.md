@@ -23,7 +23,7 @@ Amanda Nunes is the greatest female MMA fighter ever, becoming the first woman t
 | 2018 | Won featherweight title |
 | 2023 | Retired |
 
-## References
+
 
 [^1]: Wikipedia, "Amanda Nunes" - https://en.wikipedia.org/wiki/Amanda_Nunes
 ## Background
@@ -48,3 +48,6 @@ Nunes is widely cited for elevating the visibility of women’s MMA and for sett
 
 - **Primary source**: the linked Wikipedia article in References.
 - **Article type**: short biographical overview intended for high-level context.
+
+
+## References

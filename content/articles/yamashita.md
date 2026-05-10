@@ -21,7 +21,7 @@ Duplicate consolidated.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Yamashita" - https://en.wikipedia.org/wiki/Yamashita
 
@@ -74,3 +74,6 @@ Because his name is tied to a legal doctrine, modern references to â€œYamashitaâ
 ## Additional References
 
 - Wikipedia, "Tomoyuki Yamashita" (overview, career, trial, and legal significance): https://en.wikipedia.org/wiki/Tomoyuki_Yamashita
+
+
+## References

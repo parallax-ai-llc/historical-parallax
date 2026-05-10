@@ -23,7 +23,7 @@ Italian Camorra boss from Naples who controlled drug trafficking and extortion i
 | 1982 | Arrested |
 | 1985 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Giuseppe Guiliano" - https://en.wikipedia.org/wiki/Giuseppe_Guiliano
 
@@ -57,3 +57,6 @@ The timeline of arrest and conviction reflects the broader Italian strategy of p
 
 - Background histories of the Camorra in Naples
 - Italian anti-mafia legislation and investigative practices (late 20th century)
+
+
+## References

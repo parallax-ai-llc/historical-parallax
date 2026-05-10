@@ -5,7 +5,7 @@ birth: "1915-05-18"
 death: "2000-12-24"
 nationality: "Korean"
 occupation: ["Poet"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/%EC%84%9C%EC%A0%95%EC%A3%BC_%EC%8B%9C%EC%9D%B8.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seo_Jeong-ju"
 lastUpdated: "2026-02-21"

@@ -22,7 +22,7 @@ Racist mass shooting at Tops supermarket in Buffalo, New York on May 14, 2022 ki
 | 2022 | 10 killed at supermarket |
 | 2023 | Shooter sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Buffalo Supermarket Shooting" - https://en.wikipedia.org/wiki/Buffalo_Supermarket_Shooting
 
@@ -52,3 +52,6 @@ Racist mass shooting at Tops supermarket in Buffalo, New York on May 14, 2022 ki
 - Hate-crime prosecutions
 - Online radicalization and extremist manifestos
 - Mass-casualty incident response and recovery
+
+
+## References

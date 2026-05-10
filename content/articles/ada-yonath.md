@@ -23,7 +23,7 @@ Ada Yonath is an Israeli crystallographer who shared the 2009 Nobel Prize in Che
 | 1980 | Began ribosome crystallography |
 | 2009 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Ada Yonath" - https://en.wikipedia.org/wiki/Ada_Yonath
 
@@ -51,3 +51,6 @@ Ribosome structural biology has been important for basic science and for applied
 - For biographies, award records and official competition databases are usually the most reliable for results and dates.
 - For conflicts and security topics, contemporary reporting may be incomplete; later research can revise early accounts.
 - This article keeps the overview high-level and points to the reference section for deeper sourcing.
+
+
+## References

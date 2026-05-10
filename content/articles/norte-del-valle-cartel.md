@@ -23,7 +23,7 @@ Colombian drug cartel that became the worlds largest cocaine producer after the 
 | 2004 | Internal wars began |
 | 2008 | Major leaders captured |
 
-## References
+
 
 [^1]: Wikipedia, "Norte del Valle Cartel" - https://en.wikipedia.org/wiki/Norte_del_Valle_Cartel
 
@@ -51,3 +51,6 @@ Colombian drug cartel that became the worlds largest cocaine producer after the 
 ## Notes
 
 This entry is a high-level overview; details vary across sources and should be cross-checked with reputable reporting and academic histories of Colombia’s drug conflict.
+
+
+## References

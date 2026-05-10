@@ -23,7 +23,7 @@ Japanese communist militant group that carried out international terrorist attac
 | 1972 | Lod Airport massacre |
 | 2001 | Largely disbanded |
 
-## References
+
 
 [^1]: Wikipedia, "Japanese Red Army" - https://en.wikipedia.org/wiki/Japanese_Red_Army
 ## Overview
@@ -48,3 +48,6 @@ The JRA has been linked to multiple high-profile attacks and hijackings during t
 
 ## Decline and aftermath
 Over time, arrests, defections, and shifting political conditions reduced the organization’s capacity. Japanese authorities pursued members domestically and through international cooperation, and leaders later announced the group’s disbandment. The JRA remains a case study in transnational political violence during the Cold War era.
+
+
+## References

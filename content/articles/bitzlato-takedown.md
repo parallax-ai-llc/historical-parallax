@@ -21,7 +21,7 @@ Russian-linked crypto exchange seized by US for processing $700 million in illic
 |------|-------|
 | 2023 | Seized for money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Bitzlato Takedown" - https://en.wikipedia.org/wiki/Bitzlato_Takedown
 
@@ -63,3 +63,6 @@ Russian-linked crypto exchange seized by US for processing $700 million in illic
 
 - Exact figures (e.g., total volume and the portion deemed illicit) vary across sources and depend on the methodology used to classify transactions.
 - For canonical details, prefer primary sources (DOJ press releases, FinCEN orders) over tertiary summaries.
+
+
+## References

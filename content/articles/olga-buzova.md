@@ -21,7 +21,7 @@ Russian TV presenter and singer who supported Russia's invasion of Ukraine.
 |------|-------|
 | 2022 | Supported invasion publicly |
 
-## References
+
 
 [^1]: Wikipedia, "Olga Buzova" - https://en.wikipedia.org/wiki/Olga_Buzova
 
@@ -62,3 +62,6 @@ Russian TV presenter and singer who supported Russia's invasion of Ukraine.
 ## Additional References
 
 [^2]: Wikipedia, "Dom-2" (reality TV context) - https://en.wikipedia.org/wiki/Dom-2
+
+
+## References

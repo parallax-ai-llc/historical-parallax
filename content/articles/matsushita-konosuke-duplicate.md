@@ -21,7 +21,7 @@ Duplicate — see Konosuke Matsushita.
 |------|-------|
 | 1894 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Matsushita Konosuke duplicate" - https://en.wikipedia.org/wiki/Matsushita_Konosuke_duplicate
 
@@ -65,3 +65,6 @@ When you encounter entries like this in a knowledge base, a consistent approach 
 ## References (context)
 
 This duplicate placeholder references Wikipedia only as a pointer to the duplicate/alias record; the canonical biography should carry the full bibliography.
+
+
+## References

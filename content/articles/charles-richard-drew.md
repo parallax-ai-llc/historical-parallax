@@ -24,7 +24,7 @@ This entry overlaps with articles filed under "Charles Drew" in some datasets; t
 | 1904 | Born |
 | 1950 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Richard Drew" - https://en.wikipedia.org/wiki/Charles_Richard_Drew
 
@@ -52,3 +52,6 @@ This entry overlaps with articles filed under "Charles Drew" in some datasets; t
 
 - Drew is remembered as a major contributor to modern transfusion medicine and to the institutional model of blood banks.
 - Many hospitals, schools, and awards have been named in his honor.
+
+
+## References

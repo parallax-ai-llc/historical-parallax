@@ -22,7 +22,7 @@ King Leopold II's Congo Free State regime killed an estimated 10 million Congole
 | 1885 | Congo Free State established |
 | 1908 | Belgium annexed Congo after international outcry |
 
-## References
+
 
 [^1]: Wikipedia, "Congo Free State Atrocities" - https://en.wikipedia.org/wiki/Congo_Free_State_Atrocities
 
@@ -49,3 +49,6 @@ The atrocities left long-term demographic, social, and economic damage and conti
 
 - Extraction quotas combined with coercive enforcement produced mass harm.
 - International advocacy helped force a change in governance, but not immediate relief.
+
+
+## References

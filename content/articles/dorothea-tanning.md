@@ -24,7 +24,7 @@ American Surrealist painter, sculptor, and poet married to Max Ernst. Her Birthd
 | 1944 | Paints Birthday |
 | 2012 | Dies in New York at 101 |
 
-## References
+
 
 [^1]: Wikipedia, "Dorothea Tanning" - https://en.wikipedia.org/wiki/Dorothea_Tanning
 
@@ -49,3 +49,6 @@ Tanning’s long career—continuing into her later years—helped cement her st
 Museum exhibitions and retrospectives helped broaden mainstream recognition of Tanning’s work, particularly in later decades when art history began to more explicitly reassess the contributions of women artists in Surrealism. Her imagery remains influential in contemporary painting, fashion editorials, and visual culture that draws on uncanny domestic spaces and metamorphic figures.
 
 Her career is also a reminder that “Surrealism” can describe a starting point rather than a lifelong constraint.
+
+
+## References

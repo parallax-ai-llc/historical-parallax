@@ -3,6 +3,7 @@ name: "Post Malone"
 birth: "1995-07-04"
 nationality: "American"
 occupation: ["Singer", "Rapper", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Post_Malone_July_2021_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Post_Malone"
 lastUpdated: "2026-03-12"

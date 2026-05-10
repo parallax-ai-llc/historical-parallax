@@ -22,7 +22,7 @@ Following the 2021 coup, Myanmar's military junta has killed over 4,000 proteste
 | 2021 | Coup triggered mass protests |
 | 2023 | Over 4,000 killed by military |
 
-## References
+
 
 [^1]: Wikipedia, "Myanmar Spring Revolution" - https://en.wikipedia.org/wiki/Myanmar_Spring_Revolution
 
@@ -49,3 +49,6 @@ Following the 2021 coup, Myanmar's military junta has killed over 4,000 proteste
 - Neighboring states and regional bodies have generally emphasized de-escalation and dialogue, with limited leverage over parties to the conflict.
 - Sanctions and diplomatic pressure have been used by some governments, while humanitarian agencies have focused on access and civilian protection.
 
+
+
+## References

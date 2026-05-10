@@ -21,7 +21,7 @@ Melbourne drug lord known as 'Mr Death' suspected of up to 13 murders.
 |------|-------|
 | 1987 | Died of heart disease while suspected of murders |
 
-## References
+
 
 [^1]: Wikipedia, "Dennis Allen" - https://en.wikipedia.org/wiki/Dennis_Allen
 
@@ -59,3 +59,6 @@ The table above is intentionally minimal; notable public milestones are often de
 ## Notes on Sources
 
 Most easily accessible summaries of Dennis Allen rely heavily on later reporting and retrospective accounts. Where possible, treat specific claims (especially around individual incidents) as allegations unless supported by court findings or primary documentation.
+
+
+## References

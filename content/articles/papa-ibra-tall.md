@@ -24,7 +24,7 @@ Senegalese painter and tapestry artist who co-founded the Ecole de Dakar art mov
 | 1966 | Co-founds National Tapestry Manufactory |
 | 2015 | Dies in Dakar |
 
-## References
+
 
 [^1]: Wikipedia, "Papa Ibra Tall" - https://en.wikipedia.org/wiki/Papa_Ibra_Tall
 
@@ -49,3 +49,6 @@ Papa Ibra Tall is closely associated with post-independence Senegalese cultural 
 - Wikipedia article linked above for a detailed chronology and additional references.
 - Biographical dictionaries or subject-specific histories (physics, sport, art history, cybersecurity, or philosophy) for broader context.
 
+
+
+## References

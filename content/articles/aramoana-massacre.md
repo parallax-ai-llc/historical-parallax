@@ -21,7 +21,7 @@ David Gray killed 13 people in the small seaside town of Aramoana, New Zealand. 
 |------|-------|
 | 1990 | 13 killed in town rampage |
 
-## References
+
 
 [^1]: Wikipedia, "Aramoana Massacre" - https://en.wikipedia.org/wiki/Aramoana_Massacre
 
@@ -58,3 +58,6 @@ David Gray killed 13 people in the small seaside town of Aramoana, New Zealand. 
 
 - Christchurch mosque shootings (2019)
 - Mass shootings in New Zealand
+
+
+## References

@@ -21,7 +21,7 @@ Major Albanian drug trafficker who ran cannabis and heroin networks from Albania
 |------|-------|
 | 2012 | Major drug trafficking operations |
 
-## References
+
 
 [^1]: Wikipedia, "Lul Berisha" - https://en.wikipedia.org/wiki/Lul_Berisha
 
@@ -77,3 +77,6 @@ To keep the page factual, additions should be anchored to reliable sources (cour
 - Confirmed arrests/charges/convictions (with dates and jurisdictions)
 - Named operations and investigative agencies involved
 - Documented assets, forfeitures, or sentencing outcomes
+
+
+## References

@@ -23,7 +23,7 @@ Macedonian journalist and serial killer who murdered three elderly women in Kič
 | 2008 | Arrested after his articles revealed insider knowledge |
 | 2008 | Found dead in jail cell |
 
-## References
+
 
 [^1]: Wikipedia, "Vlado Taneski" - https://en.wikipedia.org/wiki/Vlado_Taneski
 
@@ -49,3 +49,6 @@ The case is often cited in discussions of how offenders sometimes insert themsel
 
 - Criminal profiling and "case contamination" when non-public details enter public reporting.
 - Ethical issues for local journalists covering crimes within small communities.
+
+
+## References

@@ -22,7 +22,7 @@ Vice President and dictator's son who spent state oil money on a $35 million Mal
 | 2012 | US seized $70 million in assets |
 | 2017 | Convicted of money laundering in France |
 
-## References
+
 
 [^1]: Wikipedia, "Teodoro Nguema Obiang" - https://en.wikipedia.org/wiki/Teodoro_Nguema_Obiang
 
@@ -50,3 +50,6 @@ Proceedings in jurisdictions such as the United States and France have been high
 
 - Public accounts often use simplified labels; legal outcomes and asset settlements can differ across countries and over time.
 - When summarizing kleptocracy cases, distinguishing allegations, civil settlements, and criminal convictions helps avoid confusion.
+
+
+## References

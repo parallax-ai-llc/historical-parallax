@@ -5,7 +5,7 @@ birth: "1970-05-04"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/6/65/Kent_State_massacre.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kent_State_Massacre"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Ohio National Guard soldiers shot and killed 4 unarmed students at Kent State Un
 |------|-------|
 | 1970 | 4 students killed by National Guard |
 
-## References
+
 
 [^1]: Wikipedia, "Kent State Massacre" - https://en.wikipedia.org/wiki/Kent_State_Massacre
 
@@ -67,3 +67,6 @@ The four students who were killed are commonly identified as:
 
 [^2]: Wikipedia, "Vietnam War" - https://en.wikipedia.org/wiki/Vietnam_War
 [^3]: Wikipedia, "Cambodian campaign" - https://en.wikipedia.org/wiki/Cambodian_campaign
+
+
+## References

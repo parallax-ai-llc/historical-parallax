@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1934 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Giorgio Armani dup" - https://en.wikipedia.org/wiki/Giorgio_Armani_dup
 
@@ -51,3 +51,6 @@ Duplicate.
 ## Additional References
 
 [^2]: Wikipedia, "Giorgio Armani" - https://en.wikipedia.org/wiki/Giorgio_Armani
+
+
+## References

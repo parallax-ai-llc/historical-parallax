@@ -23,7 +23,7 @@ Attack on a train carrying Hindu pilgrims at Godhra station in Gujarat on Februa
 | 2002 | 59 killed |
 | 2011 | 31 convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Godhra Train Burning" - https://en.wikipedia.org/wiki/Godhra_Train_Burning
 
@@ -55,3 +55,6 @@ Multiple investigations and court cases followed over many years. Public discuss
 
 - Court judgments and official inquiry reports related to the 2002 violence in Gujarat
 - Academic work on communal riots, rumor dynamics, and political mobilization in South Asia
+
+
+## References

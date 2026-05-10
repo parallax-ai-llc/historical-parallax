@@ -22,7 +22,7 @@ President of the New York Stock Exchange who was imprisoned for embezzlement. St
 | 1930 | Became NYSE president |
 | 1938 | Imprisoned for embezzlement |
 
-## References
+
 
 [^1]: Wikipedia, "Richard Whitney" - https://en.wikipedia.org/wiki/Richard_Whitney
 
@@ -49,3 +49,5 @@ The Whitney case is often cited as a cautionary example of:
 ## References
 
 [^2]: NYSE historical materials (institutional background) - https://www.nyse.com/
+
+

@@ -5,7 +5,7 @@ birth: "1521-05-26"
 death: "1521-08-13"
 nationality: "Mexico"
 occupation: ["Historical Event", "Siege", "Colonial Conquest"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siege_of_Tenochtitlan"
 lastUpdated: "2026-02-21"

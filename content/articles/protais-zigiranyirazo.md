@@ -23,7 +23,7 @@ Rwandan politician and brother-in-law of President Habyarimana known as Mr. Z wh
 | 2001 | Arrested in Belgium |
 | 2006 | Convicted by ICTR, later acquitted on appeal in 2009 |
 
-## References
+
 
 [^1]: Wikipedia, "Protais Zigiranyirazo" - https://en.wikipedia.org/wiki/Protais_Zigiranyirazo
 
@@ -50,3 +50,6 @@ Because the legal outcome included an acquittal on appeal, summaries should dist
 
 - Rwandan genocide
 - International Criminal Tribunal for Rwanda
+
+
+## References

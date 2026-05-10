@@ -3,6 +3,7 @@ name: "Sid Meier"
 birth: "1954-02-24"
 nationality: "American (Canadian-born)"
 occupation: ["Game Designer", "Programmer", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Sid_Meier_-_Game_Developers_Conference_2010_-_Day_4_%283%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sid_Meier"
 lastUpdated: "2026-03-12"

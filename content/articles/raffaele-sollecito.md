@@ -23,7 +23,7 @@ Italian who was initially convicted then acquitted of the 2007 murder of British
 | 2009 | Convicted; sentenced to 25 years |
 | 2015 | Definitively acquitted by Italian Supreme Court |
 
-## References
+
 
 [^1]: Wikipedia, "Raffaele Sollecito" - https://en.wikipedia.org/wiki/Raffaele_Sollecito
 
@@ -52,3 +52,6 @@ Italian who was initially convicted then acquitted of the 2007 murder of British
 
 - Meredith Kercher case
 - Wrongful conviction and appeals
+
+
+## References

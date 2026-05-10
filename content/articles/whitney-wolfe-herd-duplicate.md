@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1989 | See Whitney Wolfe Herd |
 
-## References
+
 
 [^1]: Wikipedia, "Whitney Wolfe Herd duplicate" - https://en.wikipedia.org/wiki/Whitney_Wolfe_Herd_duplicate
 
@@ -56,3 +56,6 @@ In popular business coverage, Wolfe Herd is cited as a prominent female founder 
 ## Notes on Duplication
 
 This page is intentionally marked as a duplicate entry for the same subject. For a unified biography, prefer the canonical Whitney Wolfe Herd article and treat this file as an alternate stub retained for historical completeness within the dataset.
+
+
+## References

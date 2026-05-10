@@ -5,7 +5,7 @@ birth: "1985-01-01"
 death: "Unknown"
 nationality: "Mexico"
 occupation: ["Cartel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/7/7f/Rosalinda_Gonz%C3%A1lez_Valencia.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rosalinda_Gonz%C3%A1lez_Valencia"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Wife of Nemesio Oseguera who managed CJNG cartel finances before her arrest.
 |------|-------|
 | 2018 | Arrested for managing cartel finances |
 
-## References
+
 
 [^1]: Wikipedia, "Rosalinda González Valencia" - https://en.wikipedia.org/wiki/Rosalinda_Gonz%C3%A1lez_Valencia
 
@@ -70,3 +70,6 @@ In many cartel-focused analyses, figures like González Valencia are highlighted
 ## References (Additional)
 
 - Wikipedia (overview and citations): https://en.wikipedia.org/wiki/Rosalinda_Gonz%C3%A1lez_Valencia
+
+
+## References

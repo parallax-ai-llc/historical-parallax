@@ -23,7 +23,7 @@ Didier Queloz shared the 2019 Nobel Prize for discovering the first exoplanet or
 | 1995 | Co-discovered 51 Pegasi b |
 | 2019 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Didier Queloz" - https://en.wikipedia.org/wiki/Didier_Queloz
 
@@ -48,3 +48,6 @@ Queloz's Nobel recognition is widely cited as a milestone marking exoplanets as 
 ## Notes on Sources
 
 This short profile is intentionally high-level and based on the linked reference; details such as institutional appointments and specific instruments should be verified in dedicated biographies.
+
+
+## References

@@ -22,7 +22,7 @@ Nestlé aggressively marketed baby formula in developing countries, discouraging
 | 1977 | Boycott began |
 | 1981 | WHO Code adopted |
 
-## References
+
 
 [^1]: Wikipedia, "Nestle Baby Formula Scandal" - https://en.wikipedia.org/wiki/Nestle_Baby_Formula_Scandal
 
@@ -49,3 +49,6 @@ International attention contributed to the adoption and later strengthening of t
 The scandal is still referenced in debates about how companies should market health-adjacent products in low-resource settings, and about whether voluntary codes, public pressure, or binding regulation best changes behavior at scale.
 
 It also helped normalize independent monitoring of corporate compliance claims in global health.
+
+
+## References

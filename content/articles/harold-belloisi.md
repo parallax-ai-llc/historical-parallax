@@ -21,7 +21,7 @@ Brazilian serial killer who murdered prostitutes in São Paulo.
 |------|-------|
 | 2006 | Convicted of serial murder |
 
-## References
+
 
 [^1]: Wikipedia, "Harold Belloisi" - https://en.wikipedia.org/wiki/Harold_Belloisi
 
@@ -66,3 +66,6 @@ The following details are not included because they are not supported by a stabl
 - investigation details (e.g., arrest date, forensic evidence)
 - trial court, sentencing terms, and appeals history
 
+
+
+## References

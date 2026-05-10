@@ -22,7 +22,7 @@ Keith Raniere's trial revealed a self-help organization that was actually a sex 
 | 2019 | Trial began |
 | 2020 | Sentenced to 120 years |
 
-## References
+
 
 [^1]: Wikipedia, "NXIVM Trial" - https://en.wikipedia.org/wiki/NXIVM_Trial
 
@@ -61,3 +61,6 @@ It has been widely covered in documentaries, podcasts, and long-form journalism,
 
 [^2]: US Department of Justice and federal court reporting on the indictment, verdict, and sentencing
 [^3]: Major investigative journalism and documentary coverage summarizing testimony and case chronology
+
+
+## References

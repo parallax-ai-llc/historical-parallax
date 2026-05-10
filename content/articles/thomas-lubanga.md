@@ -24,7 +24,7 @@ Congolese militia leader and first person convicted by the International Crimina
 | 2012 | Convicted of war crimes; sentenced to 14 years |
 | 2020 | Released |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Lubanga" - https://en.wikipedia.org/wiki/Thomas_Lubanga
 
@@ -54,3 +54,6 @@ ICC 절차에서는 현장 증언의 신뢰성, 증인 보호, 검찰의 증거 
 - 영향: 후대에 남긴 파급(법·정책·학문·대중문화 등)
 - 참고: 1차 기록과 2차 연구의 구분
 
+
+
+## References

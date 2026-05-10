@@ -5,7 +5,7 @@ birth: "1866-02-13"
 death: "1938-11-19"
 nationality: "Russian-French"
 occupation: ["Philosopher", "Existentialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Si_L%C3%A9on_Chestov_noong_1927.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lev_Shestov"
 lastUpdated: "2026-02-21"

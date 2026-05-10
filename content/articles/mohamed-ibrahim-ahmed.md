@@ -21,7 +21,7 @@ Swedish resident convicted of providing support to al-Shabaab in Somalia.
 |------|-------|
 | 2012 | Convicted of terrorism support |
 
-## References
+
 
 [^1]: Wikipedia, "Mohamed Ibrahim Ahmed" - https://en.wikipedia.org/wiki/Mohamed_Ibrahim_Ahmed
 
@@ -63,3 +63,6 @@ If reliable sources are found later, this article can be expanded with:
 - Statutes charged and the specific conduct the court found proven
 - Sentence details (term, probation, fines) and any appeals
 - Clarification of identity disambiguation (common-name risk)
+
+
+## References

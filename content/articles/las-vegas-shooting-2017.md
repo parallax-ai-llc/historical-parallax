@@ -21,7 +21,7 @@ Stephen Paddock fired into a music festival crowd from the 32nd floor of the Man
 |------|-------|
 | 2017 | 60 killed at Route 91 Harvest festival |
 
-## References
+
 
 [^1]: Wikipedia, "Las Vegas Shooting 2017" - https://en.wikipedia.org/wiki/Las_Vegas_Shooting_2017
 
@@ -58,3 +58,6 @@ Stephen Paddock fired into a music festival crowd from the 32nd floor of the Man
 
 - Public summaries often vary slightly in the way counts are reported (e.g., whether the perpetrator is included in the fatality total).
 - For a continuously maintained narrative and citations, see the Wikipedia reference above.
+
+
+## References

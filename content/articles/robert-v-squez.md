@@ -45,7 +45,7 @@ General of Nuestra Familia prison gang who directed operations from Pelican Bay 
 - For a high-confidence biography, prefer court records, charging documents, or major investigative journalism in addition to encyclopedia summaries.
 - This article intentionally stays high-level until stronger primary sourcing is added.
 
-## References
+
 
 [^1]: Wikipedia, "Robert Vásquez" - https://en.wikipedia.org/wiki/Robert_V%C3%A1squez
 
@@ -69,3 +69,6 @@ General of Nuestra Familia prison gang who directed operations from Pelican Bay 
 - Nuestra Familia
 - Pelican Bay State Prison
 - RICO (Racketeer Influenced and Corrupt Organizations Act)
+
+
+## References

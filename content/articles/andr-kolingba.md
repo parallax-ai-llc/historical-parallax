@@ -22,7 +22,7 @@ Military dictator of the Central African Republic who favored his Yakoma ethnic 
 | 1981 | Seized power in coup |
 | 2001 | Attempted failed coup |
 
-## References
+
 
 [^1]: Wikipedia, "André Kolingba" - https://en.wikipedia.org/wiki/Andr%C3%A9_Kolingba
 
@@ -49,3 +49,6 @@ Kolingba’s legacy is generally discussed in relation to the militarization of 
 ## Further Reading
 
 The Wikipedia biography linked above provides a consolidated overview of his military career, presidency, and post-presidency political involvement.
+
+
+## References

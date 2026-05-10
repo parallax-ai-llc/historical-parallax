@@ -26,7 +26,7 @@ Wu Guanzhong was a Chinese painter who pioneered the fusion of Western and Chine
 | 1992 | First living Chinese artist exhibited at the British Museum |
 | 2010 | Dies in Beijing |
 
-## References
+
 
 [^1]: Wikipedia, "Wu Guanzhong" - https://en.wikipedia.org/wiki/Wu_Guanzhong
 
@@ -51,3 +51,6 @@ Wu’s work gained visibility through exhibitions and institutional collections,
 ## Notes on Medium
 
 Discussions of Wu Guanzhong often contrast ink painting’s emphasis on brush energy and suggestion with oil painting’s emphasis on color mass and layering. His practice is frequently described as treating medium as a tool for structure and rhythm rather than as a strict cultural boundary.
+
+
+## References

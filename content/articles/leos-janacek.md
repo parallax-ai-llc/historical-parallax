@@ -5,7 +5,7 @@ birth: "1854-07-03"
 death: "1928-08-12"
 nationality: "Czech"
 occupation: ["Composer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Leo%C5%A1_Jan%C3%A1%C4%8Dek_el_1914.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leos_Janacek"
 lastUpdated: "2026-02-21"

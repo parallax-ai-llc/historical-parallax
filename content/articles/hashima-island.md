@@ -22,7 +22,7 @@ Known as 'Battleship Island,' Hashima was a coal mine where Korean and Chinese f
 | 1939 | Forced labor began |
 | 2015 | UNESCO World Heritage listing controversy |
 
-## References
+
 
 [^1]: Wikipedia, "Hashima Island" - https://en.wikipedia.org/wiki/Hashima_Island
 
@@ -48,3 +48,6 @@ Known as 'Battleship Island,' Hashima was a coal mine where Korean and Chinese f
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
 - (Additional note) This entry can be expanded with more sourced detail when needed.
+
+
+## References

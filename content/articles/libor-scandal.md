@@ -23,7 +23,7 @@ Global manipulation of the London Interbank Offered Rate by major banks from 200
 | 2012 | Barclays fined, CEO resigned |
 | 2015 | Tom Hayes sentenced to 14 years |
 
-## References
+
 
 [^1]: Wikipedia, "Libor Scandal" - https://en.wikipedia.org/wiki/Libor_Scandal
 
@@ -52,3 +52,6 @@ Global manipulation of the London Interbank Offered Rate by major banks from 200
 
 - LIBOR became a case study in how “small” benchmark distortions can propagate into enormous value transfers when tied to large contract volumes.
 - It also reshaped expectations for audit trails, compliance, and oversight in benchmark-setting processes.
+
+
+## References

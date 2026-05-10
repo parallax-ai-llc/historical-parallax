@@ -22,7 +22,7 @@ Former Vice President of Nigeria under Shehu Shagari whose administration was ov
 | 1979 | Became Vice President |
 | 1983 | Overthrown in military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Alex Ekwueme" - https://en.wikipedia.org/wiki/Alex_Ekwueme
 
@@ -51,3 +51,6 @@ Assessments of Ekwueme's legacy vary by viewpoint and the political context bein
 
 - Vice President of Nigeria (1979–1983)
 - Lived 1932–2017
+
+
+## References

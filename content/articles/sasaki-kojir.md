@@ -5,7 +5,7 @@ birth: "1585-01-01"
 death: "1612-04-13"
 nationality: "Japanese"
 occupation: ["Swordsman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Sasaki-Ganryu-%28Kojiro%29-by-Utagawa-Kuniyoshi-1845.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sasaki_Kojir%C5%8D"
 lastUpdated: "2026-02-26"
@@ -42,7 +42,7 @@ Sasaki Kojirō was a famous Japanese swordsman known for his 'Swallow Cut' techn
 - The "Tsubame Gaeshi" (Swallow Reversal/Cut) name is reused across modern media as a shorthand for a signature finishing technique.
 - Retellings sometimes modify traits (e.g., personality, background) to fit the genre, which contributes to multiple competing "versions" of Kojirō.
 
-## References
+
 
 [^1]: Wikipedia, "Sasaki Kojirō" - https://en.wikipedia.org/wiki/Sasaki_Kojir%C5%8D
 
@@ -50,3 +50,6 @@ Sasaki Kojirō was a famous Japanese swordsman known for his 'Swallow Cut' techn
 
 - Because primary documentation is limited, modern summaries often emphasize the duel narrative and later cultural depictions.
 - Dates, affiliations, and even the details of the weapon used can vary across retellings.
+
+
+## References

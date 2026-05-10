@@ -5,7 +5,7 @@ birth: "1983-06-08"
 death: "Unknown"
 nationality: "Belgian"
 occupation: ["Athlete", "Tennis Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Kim_Clijsters.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Clijsters"
 lastUpdated: "2026-02-21"

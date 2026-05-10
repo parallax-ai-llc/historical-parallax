@@ -22,7 +22,7 @@ QuadrigaCX founder who allegedly died in India taking passwords to $190 million 
 | 2018 | Allegedly died locking customers out of $190 million |
 | 2019 | Investigation revealed QuadrigaCX was fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Gerald Cotten" - https://en.wikipedia.org/wiki/Gerald_Cotten
 
@@ -48,3 +48,6 @@ The case became a widely cited example in the cryptocurrency sector of key-perso
 ## Legacy in Crypto Risk Discussions
 
 QuadrigaCX is frequently referenced in discussions of proof-of-reserves, multi-signature custody, and the need for clear corporate governance in exchanges that hold customer assets.
+
+
+## References

@@ -21,7 +21,7 @@ Deputy leader of the Islamic Renaissance Party of Tajikistan, imprisoned on poli
 |------|-------|
 | 2016 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Anvarzoda Mahmadali Hayit" - https://en.wikipedia.org/wiki/Anvarzoda_Mahmadali_Hayit
 
@@ -63,3 +63,5 @@ Deputy leader of the Islamic Renaissance Party of Tajikistan, imprisoned on poli
 ## References
 
 [^2]: Wikipedia, "Islamic Renaissance Party of Tajikistan" - https://en.wikipedia.org/wiki/Islamic_Renaissance_Party_of_Tajikistan
+
+

@@ -22,7 +22,7 @@ Russian-operated cryptocurrency exchange used to launder $4 billion including pr
 | 2011 | Exchange launched |
 | 2017 | Shut down; operator arrested |
 
-## References
+
 
 [^1]: Wikipedia, "BTC-e" - https://en.wikipedia.org/wiki/BTC-e
 
@@ -48,3 +48,6 @@ Russian-operated cryptocurrency exchange used to launder $4 billion including pr
 - **Jurisdiction challenges:** Exchanges operating across borders can exploit regulatory gaps, complicating enforcement.
 - **Industry effect:** Cases like BTC-e contributed to a shift toward more formal compliance programs at major exchanges.
 - **Risk lesson:** Poor controls at a single venue can amplify ecosystem-wide trust and enforcement risks.
+
+
+## References

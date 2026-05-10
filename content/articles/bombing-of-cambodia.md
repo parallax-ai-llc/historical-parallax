@@ -22,7 +22,7 @@ US dropped 2.7 million tons of bombs on Cambodia, more than all bombs used in WW
 | 1969 | Secret bombing began |
 | 1973 | Congress forced end to bombing |
 
-## References
+
 
 [^1]: Wikipedia, "Bombing of Cambodia" - https://en.wikipedia.org/wiki/Bombing_of_Cambodia
 
@@ -76,3 +76,6 @@ The relative weight of bombing versus other drivers of conflict remains debated,
 ## Why it remains studied
 
 The bombing of Cambodia is frequently used as a case study for how air power, secrecy, and political oversight intersect, and for how indirect effects (displacement, legitimacy erosion, and radicalization) can outlast the immediate military campaign.
+
+
+## References

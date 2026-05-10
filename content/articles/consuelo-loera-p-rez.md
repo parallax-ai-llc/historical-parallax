@@ -21,7 +21,7 @@ Mother of El Chapo who was given a US visa to visit her son in prison. She repor
 |------|-------|
 | 2019 | Granted US visa to visit son |
 
-## References
+
 
 [^1]: Wikipedia, "Consuelo Loera Pérez" - https://en.wikipedia.org/wiki/Consuelo_Loera_P%C3%A9rez
 
@@ -54,3 +54,6 @@ Mother of El Chapo who was given a US visa to visit her son in prison. She repor
 - Notability is primarily relational (via El Chapo) rather than through a standalone public career record.
 - The visa event is the clearest dated public milestone currently captured in this short profile.
 - Additional biographical detail (place of birth, family history, later-life activities) should only be added when supported by reliable citations.
+
+
+## References

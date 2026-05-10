@@ -22,7 +22,7 @@ Former Chief of Staff under Lula convicted as the mastermind of the Mensalão vo
 | 2005 | Resigned amid Mensalão scandal |
 | 2016 | Convicted in Car Wash investigation |
 
-## References
+
 
 [^1]: Wikipedia, "José Dirceu" - https://en.wikipedia.org/wiki/Jos%C3%A9_Dirceu
 
@@ -49,3 +49,6 @@ Former Chief of Staff under Lula convicted as the mastermind of the Mensalão vo
 ## References and further reading
 
 - See primary court decisions and contemporaneous reporting for the most precise procedural timelines and sentencing details.
+
+
+## References

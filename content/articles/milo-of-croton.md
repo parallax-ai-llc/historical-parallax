@@ -24,7 +24,7 @@ Milo of Croton was the most famous wrestler of the ancient world, winning six co
 | 520 BC | Attempted seventh title; defeated |
 | 510 BC | Led Croton's army against Sybaris |
 
-## References
+
 
 [^1]: Wikipedia, "Milo of Croton" - https://en.wikipedia.org/wiki/Milo_of_Croton
 
@@ -49,3 +49,6 @@ Milo of Croton was the most famous wrestler of the ancient world, winning six co
 - Ancient Olympic Games
 - Greek wrestling and training practices
 - The transmission of ancient biography and legend
+
+
+## References

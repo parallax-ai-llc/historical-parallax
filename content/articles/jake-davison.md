@@ -22,7 +22,7 @@ British mass shooter who killed 5 people including a 3-year-old girl in Plymouth
 | 2021 | Killed 5 people in Plymouth |
 | 2021 | Killed himself |
 
-## References
+
 
 [^1]: Wikipedia, "Jake Davison" - https://en.wikipedia.org/wiki/Jake_Davison
 
@@ -49,3 +49,6 @@ British mass shooter who killed 5 people including a 3-year-old girl in Plymouth
 ## Notes
 
 This article intentionally stays at a high level and avoids operational details.
+
+
+## References

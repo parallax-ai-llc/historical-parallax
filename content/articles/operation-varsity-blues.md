@@ -21,7 +21,7 @@ FBI investigation exposed a college admissions bribery scheme. Parents including
 |------|-------|
 | 2019 | 53 charged in admissions scandal |
 
-## References
+
 
 [^1]: Wikipedia, "Operation Varsity Blues" - https://en.wikipedia.org/wiki/Operation_Varsity_Blues
 
@@ -57,3 +57,6 @@ FBI investigation exposed a college admissions bribery scheme. Parents including
 
 - College admissions in the United States
 - Standardized testing (SAT/ACT)
+
+
+## References

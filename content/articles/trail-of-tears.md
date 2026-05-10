@@ -23,7 +23,7 @@ Forced relocation of Native American nations from southeastern US to Oklahoma in
 | 1838 | Cherokee forced removal began |
 | 1839 | 4,000+ Cherokee died |
 
-## References
+
 
 [^1]: Wikipedia, "Trail of Tears" - https://en.wikipedia.org/wiki/Trail_of_Tears
 
@@ -51,3 +51,6 @@ Forced relocation of Native American nations from southeastern US to Oklahoma in
 
 - Indian Removal Act
 - U.S.–Native American treaties and sovereignty
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1979 | See Travis VanderZanden |
 
-## References
+
 
 [^1]: Wikipedia, "Travis VanderZanden duplicate" - https://en.wikipedia.org/wiki/Travis_VanderZanden_duplicate
 
@@ -48,3 +48,6 @@ If you are maintaining this collection, consider consolidating this stub into th
 
 [^2]: Wikipedia, "Travis VanderZanden" - https://en.wikipedia.org/wiki/Travis_VanderZanden
 [^3]: Wikipedia, "Bird (company)" - https://en.wikipedia.org/wiki/Bird_(company)
+
+
+## References

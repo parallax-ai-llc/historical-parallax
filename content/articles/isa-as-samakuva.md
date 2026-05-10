@@ -22,7 +22,7 @@ Former UNITA rebel leader who continued the Angolan civil war after Jonas Savimb
 | 2002 | Became UNITA leader after Savimbi's death |
 | 2003 | Led UNITA's transformation into political party |
 
-## References
+
 
 [^1]: Wikipedia, "Isaías Samakuva" - https://en.wikipedia.org/wiki/Isa%C3%ADas_Samakuva
 
@@ -55,3 +55,6 @@ Former UNITA rebel leader who continued the Angolan civil war after Jonas Savimb
 - **Context:** political, social, and geographic framing.
 - **Aftermath:** investigations, reforms, and legacy.
 - **Sources:** prioritize primary documents and reputable reporting.
+
+
+## References

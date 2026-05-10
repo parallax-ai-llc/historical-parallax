@@ -5,7 +5,7 @@ birth: "1135-01-01"
 death: "1213-01-01"
 nationality: "Persian"
 occupation: ["Mathematician", "Astronomer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Gravure_originale_du_compas_parfait_par_Ab%C5%AB_Sahl_al-Q%C5%ABh%C4%AB.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sharafeddin_Tusi"
 lastUpdated: "2026-02-21"

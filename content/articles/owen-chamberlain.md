@@ -24,7 +24,7 @@ Owen Chamberlain shared the 1959 Nobel Prize for discovering the antiproton with
 | 1959 | Nobel Prize |
 | 2006 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Owen Chamberlain" - https://en.wikipedia.org/wiki/Owen_Chamberlain
 
@@ -52,3 +52,6 @@ Public biographical summaries commonly note that:
 - Antimatter
 - Lawrence Berkeley National Laboratory
 - Bevatron
+
+
+## References

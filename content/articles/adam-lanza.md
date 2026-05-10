@@ -38,7 +38,7 @@ Adam Lanza killed 26 people (20 children aged 6-7 and 6 staff) at Sandy Hook Ele
 - **Nancy Lanza** (mother)
 - Sandy Hook Elementary School community
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting
 
@@ -63,3 +63,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

@@ -24,7 +24,7 @@ Björn Borg won 11 Grand Slam titles including five consecutive Wimbledons and s
 | 1980 | Won epic Wimbledon final against McEnroe |
 | 1983 | Retired from professional tennis |
 
-## References
+
 
 [^1]: Wikipedia, "Björn Borg" - https://en.wikipedia.org/wiki/Bj%C3%B6rn_Borg
 
@@ -57,3 +57,6 @@ Björn Borg won 11 Grand Slam titles including five consecutive Wimbledons and s
 
 - His sustained success at both the French Open and Wimbledon is frequently cited when discussing all-surface champions.
 - Borg's early retirement is often referenced in conversations about athlete burnout and the pressures of celebrity.
+
+
+## References

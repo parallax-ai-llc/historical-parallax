@@ -21,7 +21,7 @@ An estimated 300,000 children are used as soldiers worldwide. Groups in Congo, M
 |------|-------|
 | 2012 | UN Action Plan signed with multiple countries |
 
-## References
+
 
 [^1]: Wikipedia, "Child Soldier Recruitment" - https://en.wikipedia.org/wiki/Child_Soldier_Recruitment
 
@@ -122,3 +122,6 @@ Global estimates (such as widely-cited figures in the hundreds of thousands) are
 [^2]: UNICEF — Children recruited by armed forces and groups (topic overview): https://www.unicef.org
 [^3]: United Nations — Office of the Special Representative of the Secretary-General for Children and Armed Conflict: https://childrenandarmedconflict.un.org
 [^4]: International Criminal Court — Rome Statute (official text and background): https://www.icc-cpi.int
+
+
+## References

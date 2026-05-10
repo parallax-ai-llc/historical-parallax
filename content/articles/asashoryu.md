@@ -23,7 +23,7 @@ Asashoryu was the first Mongolian yokozuna and won 25 tournament championships. 
 | 2005 | Won seven consecutive tournaments |
 | 2010 | Forced to retire after assault incident |
 
-## References
+
 
 [^1]: Wikipedia, "Asashoryu" - https://en.wikipedia.org/wiki/Asashoryu
 
@@ -50,3 +50,6 @@ After retirement, he remained a prominent public figure in Mongolia and Japan in
 ## Further reading (expanded)
 
 Readers may consult institutional profiles, tribunal or court records (where relevant), and high-quality reference works for cross-checked context.
+
+
+## References

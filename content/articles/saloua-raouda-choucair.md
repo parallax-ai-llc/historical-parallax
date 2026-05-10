@@ -5,7 +5,7 @@ birth: "1916-06-24"
 death: "2017-01-26"
 nationality: "Lebanese"
 occupation: ["Sculptor", "Painter"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/0/0a/Saloua_Raouda_Choucair%2C_Self_Portrait%2C_1943.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saloua_Raouda_Choucair"
 lastUpdated: "2026-02-21"

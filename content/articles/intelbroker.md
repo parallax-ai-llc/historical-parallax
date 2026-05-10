@@ -22,7 +22,7 @@ Online handle associated with alleged cybercrime activity, particularly the sale
 | 2020s | Appeared in breach-related reporting and forum postings |
 | Ongoing | Name cited in connection with data sale claims and leak announcements |
 
-## References
+
 
 ## What “data broker” means in underground markets
 
@@ -58,3 +58,6 @@ These dynamics influence how organizations respond, including legal review, cust
 ## Historical significance
 
 “IntelBroker” is less a single biographical subject than a case study in how modern cybercrime brands operate: a pseudonymous identity used to build reputation, advertise inventory, and shape perception in a competitive, attention-driven underground market.
+
+
+## References

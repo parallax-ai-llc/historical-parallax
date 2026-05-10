@@ -1,6 +1,6 @@
 ---
 id: "joe-gebbia"
-name: "乔·杰比亚"
+name: "乔·格比亚"
 birth: "1981-08-21"
 death: "Unknown"
 nationality: "American"
@@ -11,21 +11,21 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## 摘要
+## 简介
 
-乔·杰比亚是Airbnb的联合创始人，最初在旧金山的一次设计会议期间提出了出租气垫床的想法。作为产品和设计负责人，他的设计背景塑造了Airbnb的用户体验。他后来领导了Airbnb内部设计工作室Samara。他逐渐退出日常运营，通过自己的基金专注于设计、慈善事业和投资。
+乔·格比亚（Joe Gebbia）是 Airbnb 的联合创始人，最初是在旧金山的一次设计会议上提出了出租气垫床的想法。作为产品和设计的负责人，他的设计背景塑造了 Airbnb 的用户体验。他后来领导了 Airbnb 内部的设计工作室 Samara。他从日常运营中退居二线，通过他的基金专注于设计、慈善和投资。
 
 ## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
 | 1981 | 出生于佐治亚州亚特兰大 |
-| 2007 | 构思了最初的Airbnb概念 |
-| 2008 | 联合创立Airbnb |
-| 2016 | 在Airbnb内部创立Samara设计工作室 |
-| 2020 | Airbnb上市 |
-| 2024 | 专注于设计和慈善事业 |
+| 2007 | 构思了 Airbnb 的原始概念 |
+| 2008 | 联合创立 Airbnb |
+| 2016 | 在 Airbnb 内创立 Samara 设计工作室 |
+| 2020 | Airbnb 上市 |
+| 2024 | 专注于设计和慈善 |
 
-## 参考文献
+## 参考资料
 
-[^1]: 维基百科，"Joe Gebbia" - https://en.wikipedia.org/wiki/Joe_Gebbia
+[^1]: 维基百科，“乔·格比亚” - https://en.wikipedia.org/wiki/Joe_Gebbia

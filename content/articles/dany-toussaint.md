@@ -21,7 +21,7 @@ Haitian senator accused of ordering the assassination of journalist Jean Dominiq
 |------|-------|
 | 2000 | Accused of ordering journalist's murder |
 
-## References
+
 
 [^1]: Wikipedia, "Dany Toussaint" - https://en.wikipedia.org/wiki/Dany_Toussaint
 
@@ -52,3 +52,6 @@ Haitian senator accused of ordering the assassination of journalist Jean Dominiq
 [^2]: Reporters Without Borders (RSF), archived link referenced by Wikipedia regarding the immunity request in the Jean Dominique case — http://www.rsf.org/article.php3?id_article=6197 (archived).
 [^3]: United Nations News, "Haiti: former Senator detained after UN mission finds illegal weapons" — https://www.un.org/apps/news/story.asp?NewsID=17082&Cr=Haiti&Cr1=
 [^4]: Le Médiateur (Haiti), obituary notice (French), cited by Wikipedia — https://lemediateurhaiti.com/necrologie-lancien-senateur-dany-toussaint-sest-eteint/
+
+
+## References

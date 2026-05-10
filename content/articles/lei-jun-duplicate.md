@@ -21,7 +21,7 @@ Duplicate — see Lei Jun.
 |------|-------|
 | 1969 | See Lei Jun entry |
 
-## References
+
 
 [^1]: Wikipedia, "Lei Jun duplicate" - https://en.wikipedia.org/wiki/Lei_Jun_duplicate
 
@@ -67,3 +67,6 @@ When encountering “duplicate” person records, typical cleanup steps include:
 
 - Wikipedia: Lei Jun — https://en.wikipedia.org/wiki/Lei_Jun
 - Xiaomi corporate/about pages and reputable business profiles (for dates/roles), where available
+
+
+## References

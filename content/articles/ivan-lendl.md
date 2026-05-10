@@ -23,7 +23,7 @@ Ivan Lendl won eight Grand Slam titles and reached 19 consecutive Grand Slam sem
 | 1985 | Won US Open |
 | 1987 | Won record third consecutive Australian Open |
 
-## References
+
 
 [^1]: Wikipedia, "Ivan Lendl" - https://en.wikipedia.org/wiki/Ivan_Lendl
 
@@ -48,3 +48,6 @@ Ivan Lendl won eight Grand Slam titles and reached 19 consecutive Grand Slam sem
 ## References (Additional)
 
 [^2]: Wikipedia, "Ivan Lendl" (career overview, rankings, style) - https://en.wikipedia.org/wiki/Ivan_Lendl
+
+
+## References

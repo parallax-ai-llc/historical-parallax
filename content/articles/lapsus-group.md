@@ -22,7 +22,7 @@ Hacking group primarily composed of British teenagers that breached Microsoft, N
 | 2022 | Breached Microsoft, Nvidia, Samsung, and Uber |
 | 2023 | Leader Arion Kurtaj convicted; found unfit to stand trial |
 
-## References
+
 
 [^1]: Wikipedia, "Lapsus$ Group" - https://en.wikipedia.org/wiki/Lapsus%24_Group
 
@@ -60,3 +60,6 @@ The Lapsus$ episodes are frequently used in security discussions to highlight:
 - The persistent effectiveness of social engineering against well-defended targets.
 - The limits of SMS-based multi-factor authentication under SIM-swap threat models.
 - The need for strong identity governance, privileged access controls, and detection around internal administrative actions.
+
+
+## References

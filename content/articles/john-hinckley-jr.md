@@ -21,7 +21,7 @@ Shot President Reagan in 1981 to impress actress Jodie Foster, found not guilty 
 |------|-------|
 | 1981 | Attempted assassination of President Reagan |
 
-## References
+
 
 [^1]: Wikipedia, "John Hinckley Jr." - https://en.wikipedia.org/wiki/John_Hinckley_Jr.
 
@@ -58,3 +58,6 @@ Shot President Reagan in 1981 to impress actress Jodie Foster, found not guilty 
 
 - Decades after the shooting and hospital commitment, Hinckley became the subject of renewed public attention as courts modified conditions and, eventually, ended some restrictions.
 - Public reporting in the 2010s–2020s also noted his attempts at a public creative life (including music and online presence), which revived debate about rehabilitation, public safety, and media sensationalism.
+
+
+## References

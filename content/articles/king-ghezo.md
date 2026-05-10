@@ -22,7 +22,7 @@ King of Dahomey who built his kingdom's economy on the slave trade, selling an e
 | 1818 | Became King of Dahomey |
 | 1852 | Rejected British abolition demands |
 
-## References
+
 
 [^1]: Wikipedia, "King Ghezo" - https://en.wikipedia.org/wiki/King_Ghezo
 
@@ -50,3 +50,6 @@ In historical memory, Ghezo is frequently portrayed as both a consolidator of Da
 ## Notes
 
 Line-level figures for slave exports in this period vary by source and are often reconstructed from shipping records and contemporary reports. Interpretations of Ghezo’s motives also differ, ranging from ideological defense of tradition to primarily fiscal and strategic considerations.
+
+
+## References

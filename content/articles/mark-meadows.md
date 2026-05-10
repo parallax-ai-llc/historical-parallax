@@ -21,7 +21,7 @@ Former Trump White House chief of staff indicted for election interference in Ge
 |------|-------|
 | 2023 | Indicted for election interference |
 
-## References
+
 
 [^1]: Wikipedia, "Mark Meadows" - https://en.wikipedia.org/wiki/Mark_Meadows
 
@@ -54,3 +54,6 @@ Former Trump White House chief of staff indicted for election interference in Ge
 
 [^2]: U.S. House of Representatives, historical/biographical records (member directory) - https://history.house.gov/
 [^3]: Fulton County (Georgia) Superior Court filings and docket (case documents; availability varies) - https://www.fultoncourt.org/
+
+
+## References

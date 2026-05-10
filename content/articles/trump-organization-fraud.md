@@ -22,7 +22,7 @@ Trump Organization convicted of tax fraud and Allen Weisselberg imprisoned. Sepa
 | 2022 | Organization convicted |
 | 2024 | Trump found liable for $454 million |
 
-## References
+
 
 [^1]: Wikipedia, "Trump Organization Fraud" - https://en.wikipedia.org/wiki/Trump_Organization_Fraud
 
@@ -50,3 +50,6 @@ Trump Organization convicted of tax fraud and Allen Weisselberg imprisoned. Sepa
 - Corporate defendants can be prosecuted and convicted independently of individuals.
 - Civil fraud cases typically apply a different burden of proof and provide different remedies than criminal cases.
 - Appeals and post-judgment proceedings can affect timelines and final outcomes.
+
+
+## References

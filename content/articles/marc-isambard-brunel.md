@@ -23,7 +23,7 @@ Marc Isambard Brunel built the Thames Tunnel, first tunnel under a navigable riv
 | 1843 | Thames Tunnel completed |
 | 1849 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Marc Isambard Brunel" - https://en.wikipedia.org/wiki/Marc_Isambard_Brunel
 
@@ -48,3 +48,6 @@ Marc Isambard Brunel built the Thames Tunnel, first tunnel under a navigable riv
 - This entry emphasizes the tunnel's historical first; detailed project history and specific inventions are covered in the reference.
 
 - In later use, the tunnel became part of London's transport and pedestrian infrastructure.
+
+
+## References

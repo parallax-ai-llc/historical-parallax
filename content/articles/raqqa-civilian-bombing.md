@@ -42,7 +42,7 @@ Reporting on Raqqa has often focused on questions of proportionality, rules of e
 
 Beyond immediate loss of life, the campaign left extensive physical damage that complicated the return of displaced residents and slowed reconstruction. Unexploded ordnance and damaged critical services became major post-battle hazards, shaping humanitarian priorities long after ISIS forces were driven out.
 
-## References
+
 
 [^1]: Wikipedia, "Raqqa Civilian Bombing" - https://en.wikipedia.org/wiki/Raqqa_Civilian_Bombing
 
@@ -51,3 +51,6 @@ Beyond immediate loss of life, the campaign left extensive physical damage that 
 - Battle of Raqqa (2017)
 - Civilian casualty recording
 - Urban warfare and explosive weapons
+
+
+## References

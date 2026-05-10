@@ -22,7 +22,7 @@ Second Grand Inquisitor of Spain who continued and intensified the persecution o
 | 1498 | Became Grand Inquisitor |
 | 1507 | Removed from office |
 
-## References
+
 
 [^1]: Wikipedia, "Torquemada's Successor Diego de Deza" - https://en.wikipedia.org/wiki/Torquemada's_Successor_Diego_de_Deza
 
@@ -50,3 +50,6 @@ Second Grand Inquisitor of Spain who continued and intensified the persecution o
 ## Additional references
 
 [^2]: Encyclopaedia Britannica, "Spanish Inquisition" (background on the institution) - https://www.britannica.com/topic/Spanish-Inquisition
+
+
+## References

@@ -21,7 +21,7 @@ Dutch crime blogger and convicted criminal assassinated outside a sex club.
 |------|-------|
 | 2016 | Assassinated in Laren |
 
-## References
+
 
 [^1]: Wikipedia, "Martin Kok" - https://en.wikipedia.org/wiki/Martin_Kok
 
@@ -58,3 +58,6 @@ Dutch crime blogger and convicted criminal assassinated outside a sex club.
 ## Notes
 
 This article focuses on high-level, widely reported facts. Specific allegations, motives, and perpetrators should be treated cautiously unless supported by reliable primary sources.
+
+
+## References

@@ -42,7 +42,7 @@ Co-founder of AfriCrypt who vanished with his brother and billions in Bitcoin.
   - the **mechanics/timeline of transfers**
   as **approximate** unless supported by primary documents.
 
-## References
+
 
 [^1]: Wikipedia, "Raees Cajee" - https://en.wikipedia.org/wiki/Raees_Cajee
 
@@ -51,3 +51,6 @@ Co-founder of AfriCrypt who vanished with his brother and billions in Bitcoin.
 - **Cryptocurrency mixers/tumblers:** commonly mentioned in reporting as a method used to obscure transaction provenance.
 - **Exit scams / alleged fraud in crypto investing:** AfriCrypt is often referenced alongside other early large-scale retail crypto loss events.
 - **Asset tracing:** the case is a frequently cited example of the difficulty of recovering funds once they have moved across jurisdictions and obfuscation tools.
+
+
+## References

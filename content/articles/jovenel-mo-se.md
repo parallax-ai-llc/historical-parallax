@@ -22,7 +22,7 @@ Haitian president assassinated by a Colombian mercenary team in his home. His pr
 | 2017 | Became president amid allegations of fraud and corruption |
 | 2021 | Assassinated at his residence by armed mercenaries |
 
-## References
+
 
 [^1]: Wikipedia, "Jovenel Moïse" - https://en.wikipedia.org/wiki/Jovenel_Mo%C3%AFse
 
@@ -50,3 +50,6 @@ Haitian president assassinated by a Colombian mercenary team in his home. His pr
 
 - Moïse was assassinated at his residence in July 2021.
 - The killing triggered international investigations and deepened uncertainty over Haiti’s transition plans, governance arrangements, and the timeline for elections.
+
+
+## References

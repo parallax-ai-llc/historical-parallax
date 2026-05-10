@@ -24,7 +24,7 @@ Texaco (now Chevron) dumped 16 billion gallons of toxic waste into the Ecuadoria
 | 2011 | Ecuadorian court ordered $9.5 billion payment |
 | 2014 | US court ruled Ecuadorian judgment obtained through fraud |
 
-## References
+
 
 [^1]: Wikipedia, "Chevron Ecuador pollution" - https://en.wikipedia.org/wiki/Chevron_Ecuador_pollution
 
@@ -51,3 +51,6 @@ Environmental remediation standards; class actions and mass torts; recognition a
 ## Ongoing Status
 
 Different court and arbitration proceedings have produced conflicting outcomes over time, and the dispute has continued to be discussed as an example of how complex environmental harm claims become when they span decades and multiple legal systems.
+
+
+## References

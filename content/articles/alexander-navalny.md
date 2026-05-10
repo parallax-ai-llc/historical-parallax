@@ -22,7 +22,7 @@ Russian opposition leader who survived a Novichok poisoning and returned to Russ
 | 2020 | Poisoned with Novichok |
 | 2024 | Died in Arctic prison |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Navalny" - https://en.wikipedia.org/wiki/Alexander_Navalny
 
@@ -68,3 +68,6 @@ He died in custody in February 2024 in an Arctic penal colony. International obs
 ## Additional References
 
 - Major international news coverage and statements from governments and NGOs surrounding the 2020 poisoning and the 2024 death provide broader context alongside encyclopedia summaries.
+
+
+## References

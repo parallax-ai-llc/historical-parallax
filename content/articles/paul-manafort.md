@@ -28,7 +28,7 @@ Trump's former campaign chair convicted of tax fraud, bank fraud, and failing to
 | 2019 | Sentenced in federal court; begins serving prison time. |
 | 2020 | Receives a presidential pardon from Donald Trump. |
 
-## References
+
 
 [^1]: Wikipedia, "Paul Manafort" - https://en.wikipedia.org/wiki/Paul_Manafort
 [^2]: U.S. Department of Justice press releases and case summaries (see reference links from Wikipedia for primary documents).
@@ -54,3 +54,6 @@ Manafort is often cited as a high-profile example of how **political consulting,
 ## Notes on Sources
 
 This page uses **high-level, publicly reported facts**. For the most precise charge counts, docket numbers, and sentencing details, consult primary court documents and official DOJ releases linked through the reference materials.[^1][^2]
+
+
+## References

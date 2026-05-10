@@ -21,7 +21,7 @@ Duplicate consolidated. See Carlos the Jackal.
 |------|-------|
 | 1997 | Convicted |
 
-## References
+
 
 [^1]: Wikipedia, "Ilich Ramírez Sánchez" - https://en.wikipedia.org/wiki/Ilich_Ram%C3%ADrez_S%C3%A1nchez
 
@@ -70,3 +70,6 @@ Ilich Ramírez Sánchez is a Venezuelan-born militant who became internationally
 ## See Also
 
 - Carlos the Jackal (consolidated biography / alias-based entry)
+
+
+## References

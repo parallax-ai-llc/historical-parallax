@@ -20,7 +20,7 @@ Czech president criticized for pro-Russian stance and ties to questionable busin
 |------|-------|
 | 2018 | Re-elected amid corruption allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Miloš Zeman" - https://en.wikipedia.org/wiki/Milo%C5%A1_Zeman
 
@@ -57,3 +57,6 @@ Miloš Zeman is a Czech politician who served as **President of the Czech Republ
 
 - Czech Republic politics and the post-1989 party system
 - Czech presidential elections (direct election era)
+
+
+## References

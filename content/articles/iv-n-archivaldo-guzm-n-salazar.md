@@ -22,7 +22,7 @@ El Chapo's son who took over Sinaloa Cartel as part of 'Los Chapitos.' First arr
 | 2019 | First arrest triggered battle in Culiacán |
 | 2024 | Arrested in operation in the United States |
 
-## References
+
 
 [^1]: Wikipedia, "Iván Archivaldo Guzmán Salazar" - https://en.wikipedia.org/wiki/Iv%C3%A1n_Archivaldo_Guzm%C3%A1n_Salazar
 
@@ -50,3 +50,6 @@ El Chapo's son who took over Sinaloa Cartel as part of 'Los Chapitos.' First arr
 
 - The Sinaloa Cartel is often described as a networked organization with semi-autonomous cells, where influence is exercised through alliances, corruption, and control of smuggling corridors.
 - Open-source analyses commonly emphasize that leadership labels ("boss," "successor") can oversimplify shifting coalitions and internal rivalries.
+
+
+## References

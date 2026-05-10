@@ -23,7 +23,7 @@ Russias full-scale invasion of Ukraine beginning February 24, 2022 resulting in 
 | 2022 | Bucha massacre discovered |
 | 2023 | ICC issued warrant for Putin |
 
-## References
+
 
 [^1]: Wikipedia, "Russian Invasion of Ukraine" - https://en.wikipedia.org/wiki/Russian_Invasion_of_Ukraine
 
@@ -50,3 +50,6 @@ Russias full-scale invasion of Ukraine beginning February 24, 2022 resulting in 
 ## Ongoing Significance
 
 - The invasion is widely regarded as one of the most consequential European conflicts since World War II, reshaping energy policy, defense planning, and global geopolitical alignments.
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1944 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Liu Chuanzhi dup" - https://en.wikipedia.org/wiki/Liu_Chuanzhi_dup
 
@@ -52,3 +52,6 @@ Because this page is marked as a duplicate, the statements above are provided as
 - Key roles and organizations (founder/chairman/CEO) with years.
 - One or two major contributions (e.g., company formation, restructuring, market expansion) stated at a high level.
 - Independent references beyond a single encyclopedia entry.
+
+
+## References

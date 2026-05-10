@@ -21,7 +21,7 @@ Hungarian oligarch and childhood friend of Orbán who became one of Hungary's ri
 |------|-------|
 | 2018 | Became Hungary's richest through state contracts |
 
-## References
+
 
 [^1]: Wikipedia, "Lőrinc Mészáros" - https://en.wikipedia.org/wiki/L%C5%91rinc_M%C3%A9sz%C3%A1ros
 
@@ -54,3 +54,6 @@ High-level examples frequently cited in public reporting include:[^1]
 ## Additional Context
 
 - Because many claims about procurement, ownership structures, and political influence are disputed or politically charged, summaries should rely on attributed reporting and primary/official records where possible.[^1]
+
+
+## References

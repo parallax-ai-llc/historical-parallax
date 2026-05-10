@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1935 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Jack Welch dup3" - https://en.wikipedia.org/wiki/Jack_Welch_dup3
 
@@ -52,3 +52,6 @@ If this repository maintains a canonical article for Jack Welch, treat this page
 ## References (additional)
 
 - Wikipedia, "Jack Welch" - https://en.wikipedia.org/wiki/Jack_Welch
+
+
+## References

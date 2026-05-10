@@ -21,7 +21,7 @@ Leader of the Rasta City gang, one of Trinidad's most violent criminal organizat
 |------|-------|
 | 2015 | Led major gang operations in Port of Spain |
 
-## References
+
 
 [^1]: Wikipedia, "Deon Mitchell" - https://en.wikipedia.org/wiki/Deon_Mitchell
 
@@ -57,3 +57,6 @@ If reliable sources are located, this page can be expanded with:
 - specific incidents tied to court proceedings (dates, charges, outcomes),
 - law-enforcement operations and officially reported findings,
 - context on gang-related violence trends in the relevant period.
+
+
+## References

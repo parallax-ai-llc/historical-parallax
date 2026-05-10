@@ -24,7 +24,7 @@ Aleksandr Prokhorov shared the 1964 Nobel Prize for work on masers and lasers.
 | 1964 | Nobel Prize |
 | 2002 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Aleksandr Prokhorov" - https://en.wikipedia.org/wiki/Aleksandr_Prokhorov
 
@@ -53,3 +53,6 @@ Prokhorov worked within the Soviet scientific system and held leadership roles i
 ## Legacy
 
 Beyond the Nobel Prize, Prokhorov’s name remains connected to the early history of coherent radiation sources and the broader transition from classical electronics to quantum-based device engineering.
+
+
+## References

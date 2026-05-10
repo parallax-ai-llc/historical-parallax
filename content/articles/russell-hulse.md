@@ -23,7 +23,7 @@ Russell Hulse shared the 1993 Nobel Prize for discovering the first binary pulsa
 | 1974 | Discovered binary pulsar with Taylor |
 | 1993 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Russell Hulse" - https://en.wikipedia.org/wiki/Russell_Hulse
 
@@ -51,3 +51,6 @@ Russell Hulse shared the 1993 Nobel Prize for discovering the first binary pulsa
 ## Notes
 
 - The binary pulsar work is often highlighted in physics education as a clear example of how precision measurement can test fundamental theory.
+
+
+## References

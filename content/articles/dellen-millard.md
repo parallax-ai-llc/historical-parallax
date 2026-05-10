@@ -21,7 +21,7 @@ Canadian millionaire heir convicted of three murders, including his own father.
 |------|-------|
 | 2018 | Convicted of three murders |
 
-## References
+
 
 [^1]: Wikipedia, "Dellen Millard" - https://en.wikipedia.org/wiki/Dellen_Millard
 
@@ -56,3 +56,6 @@ Canadian millionaire heir convicted of three murders, including his own father.
 
 - Articles about the case often emphasize the use of circumstantial and forensic evidence and the long-running, multi-trial nature of the prosecutions.
 - Names and dates in secondary summaries can vary; the linked reference should be used as the primary factual anchor for details.
+
+
+## References

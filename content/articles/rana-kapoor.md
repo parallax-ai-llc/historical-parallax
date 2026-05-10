@@ -21,7 +21,7 @@ Yes Bank founder arrested for money laundering and fraud that led to the bank's 
 |------|-------|
 | 2020 | Arrested for money laundering |
 
-## References
+
 
 [^1]: Wikipedia, "Rana Kapoor" - https://en.wikipedia.org/wiki/Rana_Kapoor
 
@@ -62,3 +62,5 @@ Yes Bank founder arrested for money laundering and fraud that led to the bank's 
 ## References
 
 [^2]: Wikipedia, "Yes Bank" - https://en.wikipedia.org/wiki/Yes_Bank
+
+

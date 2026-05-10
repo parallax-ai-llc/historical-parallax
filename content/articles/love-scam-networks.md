@@ -23,7 +23,7 @@ Global romance fraud networks that steal billions annually by creating fake onli
 | 2021 | $547 million lost in US alone |
 | 2023 | FBI warned of growing threat |
 
-## References
+
 
 [^1]: Wikipedia, "Love Scam Networks" - https://en.wikipedia.org/wiki/Love_Scam_Networks
 
@@ -56,3 +56,6 @@ Global romance fraud networks that steal billions annually by creating fake onli
 ## References (Expansion Targets)
 
 - For this page to be more rigorous, preferred sources include national fraud reports (e.g., FBI/IC3, UK Finance, ACCC) and peer-reviewed summaries of online fraud typologies.
+
+
+## References

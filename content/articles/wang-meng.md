@@ -22,7 +22,7 @@ Wang Meng won four Olympic gold medals in short track speed skating, including t
 | 2006 | Won 500m gold at Turin |
 | 2010 | Won three gold medals at Vancouver |
 
-## References
+
 
 [^1]: Wikipedia, "Wang Meng" - https://en.wikipedia.org/wiki/Wang_Meng
 
@@ -49,3 +49,6 @@ Wang Meng's career is commonly referenced in discussions of China's emergence as
 Short track is unusually visible because races are compact, tactical, and prone to dramatic lead changes and penalties. Dominant skaters tend to become public faces of the sport quickly.
 
 For that reason, athletes with repeat Olympic success often serve as reference points in later commentary about training methods, competitive depth, and national program continuity.
+
+
+## References

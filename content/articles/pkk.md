@@ -24,7 +24,7 @@ Kurdistan Workers' Party founded by Abdullah Öcalan that has waged an armed ins
 | 1999 | Öcalan captured; imprisoned |
 | 2013 | Peace process began; collapsed in 2015 |
 
-## References
+
 
 [^1]: Wikipedia, "PKK" - https://en.wikipedia.org/wiki/PKK
 
@@ -51,3 +51,6 @@ Turkey, the United States, and the European Union (among others) designate the P
 ## Related Organizations and Regional Complexity
 
 Reporting on Kurdish armed and political movements in the region often notes overlapping personnel histories, shifting alliances, and distinct organizations operating in Turkey, Syria, Iraq, and Iran. Attribution and organizational boundaries can be contested in public debate, and details may vary by source.
+
+
+## References

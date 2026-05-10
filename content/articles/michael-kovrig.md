@@ -21,7 +21,7 @@ Canadian diplomat detained in China in hostage diplomacy over Huawei executive M
 |------|-------|
 | 2018 | Detained by China |
 
-## References
+
 
 [^1]: Wikipedia, "Michael Kovrig" - https://en.wikipedia.org/wiki/Michael_Kovrig
 
@@ -73,3 +73,6 @@ Michael Kovrig is a Canadian former diplomat who later worked as a senior advise
 ## Notes on Sources
 
 This article summarizes widely reported, high-level facts. Detailed legal filings and official statements vary by jurisdiction; for a primary starting point, see the Wikipedia entry and its citations.
+
+
+## References

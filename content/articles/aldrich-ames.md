@@ -23,7 +23,7 @@ CIA officer who spied for the Soviet Union and Russia from 1985 to 1994, comprom
 | 1994 | Arrested by FBI |
 | 1994 | Pleaded guilty; sentenced to life without parole |
 
-## References
+
 
 [^1]: Wikipedia, "Aldrich Ames" - https://en.wikipedia.org/wiki/Aldrich_Ames
 
@@ -48,3 +48,6 @@ He pleaded guilty and received a life sentence without the possibility of parole
 ## Notes
 
 Public estimates of the number of compromised assets vary, but the case is consistently treated as among the most damaging U.S. intelligence penetrations of the late Cold War period.
+
+
+## References

@@ -21,7 +21,7 @@ NIS agents interfered in the 2012 presidential election through online manipulat
 |------|-------|
 | 2013 | NIS election interference revealed |
 
-## References
+
 
 [^1]: Wikipedia, "Korean National Intelligence Service Scandals" - https://en.wikipedia.org/wiki/Korean_National_Intelligence_Service_Scandals
 
@@ -55,3 +55,6 @@ High-level descriptions commonly associated with the scandal include:
 - **Political scandals in South Korea**
 - **Intelligence oversight and governance**
 - **KCIA history and successor agencies**
+
+
+## References

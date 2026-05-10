@@ -21,7 +21,7 @@ Iraqi model and social media star shot dead in Baghdad in a wave of attacks on p
 |------|-------|
 | 2018 | Shot dead in Baghdad |
 
-## References
+
 
 [^1]: Wikipedia, "Tara Fares" - https://en.wikipedia.org/wiki/Tara_Fares
 
@@ -62,3 +62,6 @@ Commentary around the case has referenced a mix of potential motives—ranging f
 The case is often used to illustrate how online visibility can translate into real-world vulnerability, especially in environments where public prominence intersects with polarized politics and contested social norms.
 
 For historical documentation, the event is typically recorded as part of a broader pattern of attacks on civil society and on women with public platforms in Iraq in the late 2010s.
+
+
+## References

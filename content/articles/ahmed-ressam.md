@@ -24,7 +24,7 @@ Algerian terrorist known as the 'Millennium Bomber' who was arrested at the US-C
 | 2005 | Sentenced to 22 years |
 | 2012 | Sentence increased to 37 years for ceasing cooperation |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmed Ressam" - https://en.wikipedia.org/wiki/Ahmed_Ressam
 
@@ -53,3 +53,6 @@ The Ressam case is frequently referenced in discussions of:
 - aviation and airport security risk assessments before 9/11
 - intelligence collection on transnational militant travel routes
 - the tradeoffs and reliability challenges involved in using cooperating witnesses in terrorism cases
+
+
+## References

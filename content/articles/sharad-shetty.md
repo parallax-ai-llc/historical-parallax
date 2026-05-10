@@ -23,7 +23,7 @@ Indian don who operated a major criminal syndicate from Dubai involved in extort
 | 2003 | Fled to Dubai |
 | 2011 | Arrested and deported to India |
 
-## References
+
 
 [^1]: Wikipedia, "Sharad Shetty" - https://en.wikipedia.org/wiki/Sharad_Shetty
 
@@ -55,3 +55,6 @@ Because organized-crime reporting can mix verified court findings with allegatio
 
 - Claims made in police filings and media reports.
 - Outcomes established by courts or official judgments.
+
+
+## References

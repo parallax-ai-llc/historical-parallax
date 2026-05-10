@@ -21,7 +21,7 @@ Fire at the Triangle Shirtwaist Factory killed 146 garment workers, mostly young
 |------|-------|
 | 1911 | 146 workers killed in factory fire |
 
-## References
+
 
 [^1]: Wikipedia, "Triangle Shirtwaist Fire" - https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Fire
 
@@ -58,3 +58,6 @@ The Triangle Shirtwaist Fire is frequently cited as a turning point in:
 
 [^2]: Cornell University ILR School, "The Triangle Shirtwaist Factory Fire" (historical overview) - https://www.ilr.cornell.edu/triangle-factory-fire
 [^3]: National Park Service, "Triangle Shirtwaist Factory Fire" (context and legacy) - https://www.nps.gov/places/triangle-shirtwaist-factory-fire.htm
+
+
+## References

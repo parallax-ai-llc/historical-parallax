@@ -21,7 +21,7 @@ New Zealand murderer who killed again while on parole, shooting a man in the Rim
 |------|-------|
 | 2007 | Killed again while on parole |
 
-## References
+
 
 [^1]: Wikipedia, "Graeme Burton" - https://en.wikipedia.org/wiki/Graeme_Burton
 
@@ -66,3 +66,6 @@ High-profile cases of serious reoffending often lead to reviews of procedures, s
 
 ## Notes
 Because coverage spans multiple incidents and legal steps, summaries can differ in chronology and emphasis. For detailed timelines, consult court records and primary reporting.
+
+
+## References

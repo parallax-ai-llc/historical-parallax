@@ -24,7 +24,7 @@ American Congressman who was the first member of Congress to endorse Donald Trum
 | 2020 | Sentenced to 26 months |
 | 2020 | Pardoned by President Trump |
 
-## References
+
 
 [^1]: Wikipedia, "Chris Collins" - https://en.wikipedia.org/wiki/Chris_Collins
 
@@ -50,3 +50,6 @@ American Congressman who was the first member of Congress to endorse Donald Trum
 - **Core allegation:** tipping material nonpublic information
 - **Public role:** member of the U.S. House of Representatives
 - **Outcome:** conviction/plea followed by presidential pardon
+
+
+## References

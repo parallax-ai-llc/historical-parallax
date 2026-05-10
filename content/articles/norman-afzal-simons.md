@@ -23,7 +23,7 @@ South African serial killer known as the Station Strangler who murdered 22 boys 
 | 1994 | Arrested through DNA evidence |
 | 1995 | Convicted of one murder, suspected of 21 more |
 
-## References
+
 
 [^1]: Wikipedia, "Norman Afzal Simons" - https://en.wikipedia.org/wiki/Norman_Afzal_Simons
 
@@ -48,3 +48,6 @@ South African serial killer known as the Station Strangler who murdered 22 boys 
 This article avoids graphic detail and focuses on high-level public reporting; consult court records or reputable investigative histories for verified specifics.
 
 Where possible, survivor- and community-focused sources can contextualize the broader social harm.
+
+
+## References

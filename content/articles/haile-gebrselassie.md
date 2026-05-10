@@ -23,7 +23,7 @@ Haile Gebrselassie won two Olympic 10,000m golds and set 27 world records. He br
 | 2000 | Won second 10,000m gold |
 | 2008 | Set marathon world record of 2:03:59 |
 
-## References
+
 
 [^1]: Wikipedia, "Haile Gebrselassie" - https://en.wikipedia.org/wiki/Haile_Gebrselassie
 
@@ -48,3 +48,6 @@ The period in which he competed featured strong head-to-head matchups with other
 ## Impact Beyond Competition
 
 Gebrselassie is often cited as a cultural and sporting icon in Ethiopia. Beyond athletics, he has been involved in business and public life, and he is frequently referenced in discussions of how superstar runners shaped the global perception of Ethiopian distance running.
+
+
+## References

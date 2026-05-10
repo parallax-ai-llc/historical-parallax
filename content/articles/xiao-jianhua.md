@@ -21,7 +21,7 @@ Chinese-Canadian billionaire kidnapped from Hong Kong and sentenced to 13 years 
 |------|-------|
 | 2017 | Kidnapped from Hong Kong hotel |
 
-## References
+
 
 [^1]: Wikipedia, "Xiao Jianhua" - https://en.wikipedia.org/wiki/Xiao_Jianhua
 
@@ -62,3 +62,6 @@ Because much of Xiao’s reported influence involved indirect holdings and relat
 - political risk considerations for cross-border operations
 
 These points are best interpreted with attention to sourcing, since details can vary across reports.
+
+
+## References

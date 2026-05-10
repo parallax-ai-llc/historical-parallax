@@ -46,7 +46,7 @@ Biographical details for clandestine militant leaders can be incomplete, contest
 
 Open sources commonly list aliases including "Ahmad Umar" and "Abu Ubaidah" (spellings vary). These names may be used in different contexts (internal communications, media reporting, or sanctions/terror listings).
 
-## References
+
 
 [^1]: Wikipedia, "Ahmed Diriye" - https://en.wikipedia.org/wiki/Ahmed_Diriye
 
@@ -62,3 +62,6 @@ Governments and multilateral partners have pursued a mix of approaches to counte
 
 - Well-attested: he is widely reported as al-Shabaab’s leader after 2014 and is referenced in official reward/desig­nation materials.
 - Often uncertain: verified birth date, confirmed imagery, and precise internal chain-of-command details.
+
+
+## References

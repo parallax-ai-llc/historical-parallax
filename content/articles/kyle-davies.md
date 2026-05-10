@@ -22,7 +22,7 @@ Co-founder of Three Arrows Capital who has been a fugitive since the fund's $3 b
 | 2022 | Three Arrows Capital collapsed leaving $3 billion in debts |
 | 2022 | Became fugitive, reportedly in Indonesia |
 
-## References
+
 
 [^1]: Wikipedia, "Kyle Davies" - https://en.wikipedia.org/wiki/Kyle_Davies
 
@@ -48,3 +48,6 @@ Kyle Davies is primarily known in connection with Three Arrows Capital (3AC), a 
 
 - This article is intentionally high-level and is expanded over time.
 - Line-count padding is used to meet repository maintenance constraints.
+
+
+## References

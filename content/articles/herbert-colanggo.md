@@ -22,7 +22,7 @@ Filipino drug lord who ran his meth empire from inside New Bilibid Prison. Had a
 | 2014 | Prison raid revealed luxury cell and drug operations |
 | 2015 | Charged with drug trading from inside prison |
 
-## References
+
 
 [^1]: Wikipedia, "Herbert Colanggo" - https://en.wikipedia.org/wiki/Herbert_Colanggo
 
@@ -52,3 +52,6 @@ Specific claims in this episode (who authorized improvements, which officials we
 
 - Prison contraband economies
 - Carceral corruption and governance failures
+
+
+## References

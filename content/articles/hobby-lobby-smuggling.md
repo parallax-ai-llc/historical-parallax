@@ -21,7 +21,7 @@ Hobby Lobby paid $1.6 million fine for smuggling 5,500 Iraqi antiquities. The ar
 |------|-------|
 | 2017 | $1.6 million penalty; artifacts returned |
 
-## References
+
 
 [^1]: Wikipedia, "Hobby Lobby Smuggling" - https://en.wikipedia.org/wiki/Hobby_Lobby_Smuggling
 
@@ -67,3 +67,6 @@ Hobby Lobby paid $1.6 million fine for smuggling 5,500 Iraqi antiquities. The ar
 
 - Cultural property protection and provenance documentation
 - Antiquities trafficking involving cuneiform tablets and bullae
+
+
+## References

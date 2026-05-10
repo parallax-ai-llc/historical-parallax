@@ -50,7 +50,7 @@ Fire captain convicted of being a serial arsonist who set fires he would then in
 - Reinforced the need for independent oversight and cross-agency review when a responder or investigator could be connected to suspicious incidents.
 - Highlighted the importance of data sharing and pattern detection across multiple fire jurisdictions.
 
-## References
+
 
 [^1]: Wikipedia, "John Leonard Orr" - https://en.wikipedia.org/wiki/John_Leonard_Orr
 
@@ -59,3 +59,6 @@ Fire captain convicted of being a serial arsonist who set fires he would then in
 - Cases involving fire-service personnel can be challenging to detect early because responders routinely have legitimate reasons to be near scenes, to handle evidence, and to access incident reports.
 - Public summaries of the Orr case are sometimes used in training to emphasize documentation hygiene (chain of custody, independent review) and the value of centralized incident databases for detecting recurring patterns.
 - The case is also cited in discussions of occupational or “authority” camouflage, where institutional trust can delay suspicion.
+
+
+## References

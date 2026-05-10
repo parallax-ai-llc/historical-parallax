@@ -22,7 +22,7 @@ Indonesian wine counterfeiter who sold over $35 million in fake vintage wines. C
 | 2012 | Arrested for wine fraud |
 | 2014 | Sentenced to 10 years |
 
-## References
+
 
 [^1]: Wikipedia, "Rudy Kurniawan" - https://en.wikipedia.org/wiki/Rudy_Kurniawan
 
@@ -50,3 +50,6 @@ Indonesian wine counterfeiter who sold over $35 million in fake vintage wines. C
 
 - One of the best-known criminal cases involving high-end wine counterfeiting.
 - Frequently used as a cautionary case study for collectors, critics, and auction houses.
+
+
+## References

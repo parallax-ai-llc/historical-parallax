@@ -23,7 +23,7 @@ Russian financier who died mysteriously while jogging in Surrey, England after h
 | 2012 | Collapsed and died while jogging near his Surrey home |
 | 2015 | Traces of rare Gelsemium elegans poison found in his body |
 
-## References
+
 
 [^1]: Wikipedia, "Alexander Perepilichny" - https://en.wikipedia.org/wiki/Alexander_Perepilichny
 
@@ -48,3 +48,6 @@ Alexander Perepilichny is typically discussed in the context of financial crime 
 - Financial crime investigations
 - Whistleblowers and informants
 - Cross-border litigation
+
+
+## References

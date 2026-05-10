@@ -34,7 +34,7 @@ Figures labeled as “dacoits” in colonial archives sometimes became folk char
 | 1920 | Led bandit gang in the United Provinces |
 | 1924 | Hanged by British authorities |
 
-## References
+
 
 [^1]: Wikipedia, "Sultana Daku" - https://en.wikipedia.org/wiki/Sultana_Daku
 
@@ -49,3 +49,6 @@ Colonial-era bandit figures have appeared in novels, films, and television, ofte
 - **Colonial archive**: Official records created by a colonial administration, with inherent biases in perspective.
 
 When available, cross-checking official accounts with local histories helps reduce single-source distortion.
+
+
+## References

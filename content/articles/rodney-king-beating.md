@@ -21,7 +21,7 @@ LAPD officers were videotaped beating motorist Rodney King over 50 times. Their 
 |------|-------|
 | 1991 | Beating captured on video |
 
-## References
+
 
 [^1]: Wikipedia, "Rodney King Beating" - https://en.wikipedia.org/wiki/Rodney_King_Beating
 
@@ -79,3 +79,6 @@ LAPD officers were videotaped beating motorist Rodney King over 50 times. Their 
   - visual evidence influences public trust,
   - institutions respond under crisis conditions,
   - and legal outcomes can diverge from public expectations.
+
+
+## References

@@ -21,7 +21,7 @@ Egyptian pharaoh who violently suppressed traditional religion and imposed monot
 |------|-------|
 | -1350 | Suppressed traditional Egyptian religion |
 
-## References
+
 
 [^1]: Wikipedia, "Pharaoh Akhenaten" - https://en.wikipedia.org/wiki/Pharaoh_Akhenaten
 
@@ -61,3 +61,6 @@ Egyptian pharaoh who violently suppressed traditional religion and imposed monot
 ## References (Additional)
 
 [^2]: General overview of the Amarna Letters and their diplomatic context (see also the Amarna Letters corpus and summaries referenced in Egyptological handbooks).
+
+
+## References

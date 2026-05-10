@@ -22,7 +22,7 @@ Afghan mujahideen commander known as the 'Lion of Panjshir' whose forces committ
 | 1992 | Forces committed atrocities during bombardment of Kabul |
 | 2001 | Assassinated by Al-Qaeda operatives disguised as journalists |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmad Shah Massoud" - https://en.wikipedia.org/wiki/Ahmad_Shah_Massoud
 
@@ -54,3 +54,6 @@ Massoud’s assassination on 9 September 2001 made him a symbolic figure for ant
 
 - Titles like “Lion of Panjshir” reflect both media portrayals and the lasting association between Massoud and the Panjshir Valley.
 - Summaries of the Kabul fighting period can vary significantly depending on the source’s political alignment and the scope of documentation used.
+
+
+## References

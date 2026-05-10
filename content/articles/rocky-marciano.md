@@ -5,7 +5,7 @@ birth: "1923-09-01"
 death: "1969-08-31"
 nationality: "American"
 occupation: ["Athlete", "Boxer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Rocky_Marciano_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rocky_Marciano"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Rocky Marciano is the only heavyweight champion to retire undefeated at 49-0 wit
 | 1955 | Retired 49-0 |
 | 1969 | Died in plane crash |
 
-## References
+
 
 [^1]: Wikipedia, "Rocky Marciano" - https://en.wikipedia.org/wiki/Rocky_Marciano
 
@@ -50,3 +50,6 @@ His fights are still revisited for their intensity and for what they reveal abou
 Marciano’s 49–0 record is one of the most recognizable statistics in boxing history.
 He has been inducted into boxing halls of fame and remains a reference point in comparisons of undefeated champions.
 Outside the ring, his life and early death in a plane crash contributed to a lasting mythic status in American sports culture.
+
+
+## References

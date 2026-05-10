@@ -21,7 +21,7 @@ Founder of Frank who allegedly fabricated millions of customer records to sell t
 |------|-------|
 | 2023 | Charged with defrauding JPMorgan of $175 million |
 
-## References
+
 
 [^1]: Wikipedia, "Charlie Javice" - https://en.wikipedia.org/wiki/Charlie_Javice
 
@@ -75,3 +75,6 @@ Founder of Frank who allegedly fabricated millions of customer records to sell t
 - Frank (company)
 - JPMorgan Chase
 - Fraud allegations in venture-backed acquisitions
+
+
+## References

@@ -21,7 +21,7 @@ South African police fired on students protesting mandatory Afrikaans education,
 |------|-------|
 | 1976 | Students massacred by police |
 
-## References
+
 
 [^1]: Wikipedia, "Soweto Uprising" - https://en.wikipedia.org/wiki/Soweto_Uprising
 
@@ -55,3 +55,6 @@ The Soweto Uprising remains a defining episode in the history of modern South Af
 
 [^2]: South African History Online (SAHO), "The June 16 Soweto Youth Uprising" - https://www.sahistory.org.za/article/june-16-soweto-youth-uprising
 [^3]: United Nations, "Security Council resolution 392 (1976)" - https://digitallibrary.un.org/record/101771
+
+
+## References

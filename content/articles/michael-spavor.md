@@ -24,7 +24,7 @@ Canadian businessman detained in China for over 1,000 days in apparent retaliati
 | 2018 | Detained by Chinese authorities, alongside Michael Kovrig, after Canada's arrest of Huawei executive Meng Wanzhou |
 | 2021 | Released and returned to Canada on the same day Meng Wanzhou was permitted to return to China |
 
-## References
+
 
 [^1]: Wikipedia, "Michael Spavor" - https://en.wikipedia.org/wiki/Michael_Spavor
 
@@ -55,3 +55,6 @@ Canadian businessman detained in China for over 1,000 days in apparent retaliati
 
 [^2]: Wikipedia, "Hostage diplomacy" - https://en.wikipedia.org/wiki/Hostage_diplomacy
 [^3]: Wikipedia, "Two Michaels" - https://en.wikipedia.org/wiki/Two_Michaels
+
+
+## References

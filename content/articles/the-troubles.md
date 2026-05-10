@@ -23,7 +23,7 @@ Ethno-nationalist conflict in Northern Ireland from 1968-1998 between republican
 | 1972 | Bloody Sunday |
 | 1998 | Good Friday Agreement |
 
-## References
+
 
 [^1]: Wikipedia, "The Troubles" - https://en.wikipedia.org/wiki/The_Troubles
 
@@ -50,3 +50,6 @@ While the violence fluctuated over time, political efforts included attempts at 
 ## Legacy
 
 The Troubles left long-term impacts on victims and survivors, community relations, policing, and politics in Northern Ireland. Disputes over truth recovery, accountability for past violence, and commemoration have continued well after the main settlement.
+
+
+## References

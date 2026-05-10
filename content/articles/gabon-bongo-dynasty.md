@@ -22,7 +22,7 @@ The Bongo family controlled Gabon for 56 years, amassing billions through oil co
 | 1967 | Omar Bongo became president |
 | 2023 | Ali Bongo overthrown |
 
-## References
+
 
 [^1]: Wikipedia, "Gabon Bongo Dynasty" - https://en.wikipedia.org/wiki/Gabon_Bongo_Dynasty
 
@@ -53,3 +53,6 @@ The Bongo family controlled Gabon for 56 years, amassing billions through oil co
 - One-party dominance and managed pluralism
 - External influence and post-colonial economic networks
 - Military intervention in politics
+
+
+## References

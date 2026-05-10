@@ -5,7 +5,7 @@ birth: "1950-11-01"
 death: "Unknown"
 nationality: "American"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Robert_Laughlin%2C_Stanford_University.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Laughlin"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Robert Laughlin is an American physicist who shared the 1998 Nobel Prize in Phys
 | 1983 | Published Laughlin wavefunction theory |
 | 1998 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Robert Laughlin" - https://en.wikipedia.org/wiki/Robert_Laughlin
 
@@ -51,3 +51,6 @@ Robert Laughlin is an American physicist who shared the 1998 Nobel Prize in Phys
 
 - The fractional quantum Hall effect is commonly presented as an example of how interactions can produce new effective particles and collective behavior.
 - Laughlin’s work is frequently introduced in advanced physics courses as a model of theory aligning with precise experimental quantization.
+
+
+## References

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1960 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Reed Hastings duplicate" - https://en.wikipedia.org/wiki/Reed_Hastings_duplicate
 
@@ -57,3 +57,6 @@ He has been a prominent figure in the shift from physical media rental to subscr
 
 [^2]: Wikipedia, "Reed Hastings" - https://en.wikipedia.org/wiki/Reed_Hastings
 [^3]: Netflix — Company information / leadership pages (site structure may change) - https://about.netflix.com/
+
+
+## References

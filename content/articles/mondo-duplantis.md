@@ -23,7 +23,7 @@ Mondo Duplantis has broken the pole vault WR multiple times. He won Olympic gold
 | 2021 | Won Olympic gold at Tokyo |
 | 2024 | Won second gold at Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Mondo Duplantis" - https://en.wikipedia.org/wiki/Mondo_Duplantis
 
@@ -52,3 +52,6 @@ Duplantis' career is frequently cited as an example of an athlete redefining the
 ## Additional Notes
 
 This article is intended as a concise reference. For deeper detail, consult multiple sources and primary reporting where available, and compare timelines across independent accounts.
+
+
+## References

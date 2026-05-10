@@ -45,7 +45,7 @@ Hyundai Motor chairman convicted of embezzlement and given a suspended sentence.
 - This article summarizes a notable legal event connected to a prominent industrial leader; it is not a comprehensive biography.
 - For detailed chronology (appointments, subsidiaries, and business milestones), consult long-form biographies and Hyundai Motor Group corporate histories.
 
-## References
+
 
 [^1]: Wikipedia, "Hyundai Chairman Chung Mong-koo" - https://en.wikipedia.org/wiki/Hyundai_Chairman_Chung_Mong-koo
 
@@ -60,3 +60,6 @@ Hyundai Motor chairman convicted of embezzlement and given a suspended sentence.
 - Corporate governance in South Korea (chaebol structure and reforms)
 - Executive accountability and white-collar crime enforcement
 - Compliance programs and internal controls in large industrial groups
+
+
+## References

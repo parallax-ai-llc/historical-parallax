@@ -24,7 +24,7 @@ Somali warlord and financier who was the chief banker for Mohamed Farrah Aidid d
 | 1996 | Released and became businessman |
 | 2002 | Became political figure in Somalia |
 
-## References
+
 
 [^1]: Wikipedia, "Osman Ato" - https://en.wikipedia.org/wiki/Osman_Ato
 
@@ -53,3 +53,6 @@ Somali warlord and financier who was the chief banker for Mohamed Farrah Aidid d
 - Somali Civil War
 - Battle of Mogadishu (1993)
 - Mohamed Farrah Aidid
+
+
+## References

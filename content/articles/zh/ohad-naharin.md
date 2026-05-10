@@ -13,19 +13,19 @@ lastUpdated: "2026-02-21"
 
 ## 简介
 
-奥哈德·纳哈林（Ohad Naharin）是以色列的编舞家，也是Batsheva舞蹈团的艺术总监。他开创了Gaga，一种革命性的运动语言，彻底改变了当代舞蹈训练。他的作品，包括《Minus 16》和《Last Work》，是当代舞蹈中最重要的作品之列。
+奥哈德·纳哈林（Ohad Naharin）是一位以色列的编舞家，同时也是Batsheva舞蹈团的艺术总监。他开创了Gaga，一种革命性的动作语言，彻底改变了当代舞蹈训练。他的作品，包括《Minus 16》和《Last Work》，是当代舞蹈领域中最重要的作品之一。
 
 ## 职业生涯时间线
 
 | 年份 | 事件 |
 |------|-------|
-| 1952 | 出生于以色列米兹拉（Mizra） |
-| 1990 | 成为Batsheva舞蹈团的艺术总监 |
-| 1996 | 创立Gaga运动语言 |
-| 2004 | 创作了备受赞誉的作品《Three》 |
-| 2015 | 纪录片《Mr. Gaga》的主角 |
-| 2018 | 创作了作品《Venezuela》 |
+| 1952 | 出生于以色列米兹拉 |
+| 1990 | 成为Batsheva舞蹈团艺术总监 |
+| 1996 | 创编Gaga动作语言 |
+| 2004 | 创作了其最受好评的作品之一《Three》 |
+| 2015 | 纪录片《Mr. Gaga》的主题人物 |
+| 2018 | 创作了《Venezuela》 |
 
 ## 参考资料
 
-[^1]: 维基百科，“奥哈德·纳哈林” - https://en.wikipedia.org/wiki/Ohad_Naharin
+[^1]: Wikipedia, "Ohad Naharin" - https://en.wikipedia.org/wiki/Ohad_Naharin

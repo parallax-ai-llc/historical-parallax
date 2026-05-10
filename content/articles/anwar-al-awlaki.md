@@ -24,7 +24,7 @@ Yemeni-American imam and al-Qaeda in the Arabian Peninsula leader who inspired n
 | 2010 | US authorized his killing |
 | 2011 | Killed by CIA drone strike in Yemen |
 
-## References
+
 
 [^1]: Wikipedia, "Anwar al-Awlaki" - https://en.wikipedia.org/wiki/Anwar_al-Awlaki
 
@@ -50,3 +50,6 @@ Al-Awlaki is often referenced in discussions of "homegrown" radicalization and t
 - Counterterrorism targeted killing debates and due process questions
 - Online radicalization and extremist propaganda ecosystems
 - Major attacks and plots associated with AQAP-era recruitment narratives
+
+
+## References

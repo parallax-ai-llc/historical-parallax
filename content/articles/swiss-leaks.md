@@ -21,7 +21,7 @@ Leak of HSBC's Swiss subsidiary data exposing tax evasion by thousands of wealth
 |------|-------|
 | 2015 | HSBC tax evasion data leaked |
 
-## References
+
 
 [^1]: Wikipedia, "Swiss Leaks" - https://en.wikipedia.org/wiki/Swiss_Leaks
 
@@ -65,3 +65,6 @@ More broadly, the case is often cited alongside other leak-driven episodes (e.g.
 
 - HSBC (as a global banking group)
 - International tax transparency efforts (e.g., automatic exchange of information frameworks)
+
+
+## References

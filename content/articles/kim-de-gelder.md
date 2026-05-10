@@ -5,7 +5,7 @@ birth: "1988-01-28"
 death: "Unknown"
 nationality: "Belgium"
 occupation: ["Mass Murderer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dendermonde_location_map.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_De_Gelder"
 lastUpdated: "2026-02-26"

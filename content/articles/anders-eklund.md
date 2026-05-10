@@ -32,7 +32,7 @@ Anders Eklund murdered two girls in Sweden in 2008, including 10-year-old Engla 
 | 2008 | Murders committed |
 | 2008 | Arrested (live TV coverage) |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: https://en.wikipedia.org/wiki/Anders_Eklund_(murderer)
 [^3]: https://en.wikipedia.org/wiki/Engla_H%C3%B6glund
@@ -58,3 +58,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

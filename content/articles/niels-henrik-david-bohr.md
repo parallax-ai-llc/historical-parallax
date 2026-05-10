@@ -22,7 +22,7 @@ See earlier Niels Bohr entry.
 | 1885 | Born |
 | 1962 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Niels Henrik David Bohr" - https://en.wikipedia.org/wiki/Niels_Henrik_David_Bohr
 
@@ -51,3 +51,6 @@ Bohr remains one of the most influential physicists of the 20th century, with en
 ## Core Ideas Often Associated With Bohr
 
 Bohr is closely associated with the principle of **complementarity** and with the Bohr–Einstein debates, which helped define how physicists and philosophers discuss measurement and realism in quantum mechanics.
+
+
+## References

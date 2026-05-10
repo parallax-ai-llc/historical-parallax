@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 1855-05-15 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -48,3 +48,6 @@ Victorian-era newspapers followed the story closely, and later retellings helped
 ## Legacy in Transport Security
 Later rail and courier practices placed more emphasis on controlled access to keys, tamper-evident packaging, and verification at handoff points. In hindsight, the robbery is frequently summarized as a lesson that the strongest lock is ineffective if the key can be copied or controlled by too few people.
 It remains a standard case study in Victorian crime histories.
+
+
+## References

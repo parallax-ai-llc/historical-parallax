@@ -44,10 +44,13 @@ In 2012, Abdo was convicted on multiple counts, including attempted murder-relat
 
 Media accounts described Abdo as opposing deployment to Afghanistan and framed his actions within broader debates about military service, discipline, and political or ideological grievance. The exact mix of personal, ideological, and situational factors is typically reconstructed from court filings, testimony, and journalistic summaries.
 
-## References
+
 
 [^1]: Wikipedia, "Naser Jason Abdo" - https://en.wikipedia.org/wiki/Naser_Jason_Abdo
 
 ## See also
 
 - Fort Hood shooting
+
+
+## References

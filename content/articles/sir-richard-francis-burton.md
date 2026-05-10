@@ -24,7 +24,7 @@ Richard Francis Burton was one of the most remarkable explorers of the 19th cent
 | 1885 | Published translation of Arabian Nights |
 | 1890 | Died in Trieste |
 
-## References
+
 
 [^1]: Wikipedia, "Sir Richard Francis Burton" - https://en.wikipedia.org/wiki/Sir_Richard_Francis_Burton
 
@@ -72,3 +72,6 @@ Burton remains a complicated figure:
 - Lake Tanganyika
 - Travel literature (19th century)
 - Orientalism
+
+
+## References

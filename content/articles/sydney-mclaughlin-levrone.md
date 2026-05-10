@@ -22,7 +22,7 @@ Sydney McLaughlin-Levrone has broken the 400m hurdles WR multiple times. She won
 | 2021 | Set WR; won Olympic gold at Tokyo |
 | 2024 | Won second gold at Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Sydney McLaughlin-Levrone" - https://en.wikipedia.org/wiki/Sydney_McLaughlin-Levrone
 
@@ -51,3 +51,6 @@ Coverage commonly emphasizes a combination of elite performance, composure under
 ## Notes
 
 This entry summarizes widely reported achievements at a high level; consult official results databases for exact dates, times, and meet-by-meet progression.
+
+
+## References

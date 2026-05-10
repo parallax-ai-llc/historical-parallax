@@ -24,7 +24,7 @@ Russian arms dealer known as the Merchant of Death who supplied weapons to confl
 | 2012 | Sentenced to 25 years in US prison |
 | 2022 | Released in prisoner swap |
 
-## References
+
 
 [^1]: Wikipedia, "Bout Viktor" - https://en.wikipedia.org/wiki/Bout_Viktor
 
@@ -49,3 +49,6 @@ His notoriety also grew through popular culture references and comparisons to fi
 - Global illicit arms markets and sanctions enforcement
 - Use of "flags of convenience" and shell companies in aviation logistics
 - International cooperation in extradition and cross-border investigations
+
+
+## References

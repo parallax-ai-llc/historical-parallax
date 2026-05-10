@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1957 | See Aliko Dangote |
 
-## References
+
 
 [^1]: Wikipedia, "Aliko Dangote duplicate" - https://en.wikipedia.org/wiki/Aliko_Dangote_duplicate
 
@@ -72,3 +72,6 @@ High-level facts commonly reported about the canonical subject:
 - Conglomerates and industrial policy in Nigeria
 - Cement markets and infrastructure development (general)
 - Corporate governance and concentration (general)
+
+
+## References

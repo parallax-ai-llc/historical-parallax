@@ -24,7 +24,7 @@ Iranian major general who commanded the Quds Force and was considered the second
 | 2014 | Coordinated fight against ISIS |
 | 2020 | Killed by US drone strike at Baghdad airport |
 
-## References
+
 
 [^1]: Wikipedia, "Qasem Soleimani" - https://en.wikipedia.org/wiki/Qasem_Soleimani
 
@@ -49,3 +49,6 @@ He was killed in January 2020 in a U.S. strike near Baghdad International Airpor
 Soleimani remains a significant figure in contemporary Middle Eastern history because his career illustrates how states project power through a mix of conventional forces, advisory missions, and relationships with non-state actors. Discussions of his impact often focus on the long-term effects of proxy warfare, sectarian polarization, and regional security competition.
 
 He is often discussed alongside broader IRGC institutional influence within Iran.
+
+
+## References

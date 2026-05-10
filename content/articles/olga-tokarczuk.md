@@ -5,7 +5,7 @@ birth: "1962-01-29"
 death: "Unknown"
 nationality: "Polish"
 occupation: ["Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Olga_Tokarczuk-9739.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Olga_Tokarczuk"
 lastUpdated: "2026-02-21"

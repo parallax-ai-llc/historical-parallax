@@ -5,7 +5,7 @@ birth: "1300-01-01"
 death: "1351-03-20"
 nationality: "India"
 occupation: ["Historical Criminal", "Tyrant"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Muhammad_bin_Tughlaq_crop.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Muhammad_bin_Tughlaq"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Delhi Sultanate ruler known for bizarre and cruel policies including forcing the
 | 1327 | Forced entire population of Delhi to march to Daulatabad |
 | 1330 | Introduced token currency that destroyed the economy |
 
-## References
+
 
 [^1]: Wikipedia, "Muhammad bin Tughlaq" - https://en.wikipedia.org/wiki/Muhammad_bin_Tughlaq
 
@@ -48,3 +48,6 @@ Delhi Sultanate ruler known for bizarre and cruel policies including forcing the
 ## Suggested follow-up
 - Look for: official reports, court documents (if any), reputable investigative journalism, and academic/think-tank overviews.
 - If multiple credible accounts disagree, summarize the competing claims and cite the best available evidence on each side.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1624-09-10"
 death: "1689-12-29"
 nationality: "English"
 occupation: ["Physician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Thomas_Sydenham_by_Mary_Beale.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thomas_Sydenham"
 lastUpdated: "2026-02-21"

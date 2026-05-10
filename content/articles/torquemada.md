@@ -22,7 +22,7 @@ First Grand Inquisitor of the Spanish Inquisition who oversaw the torture and ex
 | 1483 | Appointed Grand Inquisitor and began systematic persecution |
 | 1492 | Engineered the expulsion of Jews from Spain |
 
-## References
+
 
 [^1]: Wikipedia, "Torquemada" - https://en.wikipedia.org/wiki/Torquemada
 
@@ -50,3 +50,6 @@ First Grand Inquisitor of the Spanish Inquisition who oversaw the torture and ex
 ## Additional references
 
 [^2]: Encyclopaedia Britannica, "Tomás de Torquemada" - https://www.britannica.com/biography/Tomas-de-Torquemada
+
+
+## References

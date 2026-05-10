@@ -21,7 +21,7 @@ Swedish Foreign Minister Anna Lindh was stabbed while shopping at a Stockholm de
 |------|-------|
 | 2003 | Lindh stabbed in department store |
 
-## References
+
 
 [^1]: Wikipedia, "Anna Lindh Assassination" - https://en.wikipedia.org/wiki/Anna_Lindh_Assassination
 
@@ -60,3 +60,6 @@ Swedish Foreign Minister Anna Lindh was stabbed while shopping at a Stockholm de
 - **Date of attack:** 2003
 - **Victim:** Anna Lindh (Foreign Minister of Sweden)
 - **Perpetrator:** Mijailo Mijailovic (convicted)
+
+
+## References

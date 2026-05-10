@@ -23,7 +23,7 @@ Bulgarian fraudster known as the Cryptoqueen who founded OneCoin, a $4 billion c
 | 2017 | Disappeared |
 | 2022 | Added to FBI Most Wanted |
 
-## References
+
 
 [^1]: Wikipedia, "Ruja Ignatova" - https://en.wikipedia.org/wiki/Ruja_Ignatova
 
@@ -51,3 +51,6 @@ Bulgarian fraudster known as the Cryptoqueen who founded OneCoin, a $4 billion c
 
 - The “Cryptoqueen” nickname became widely associated with Ignatova in media coverage of OneCoin.
 - The case is frequently cited as a cautionary example of how cryptocurrency-themed marketing can be used to disguise classic investment fraud patterns.
+
+
+## References

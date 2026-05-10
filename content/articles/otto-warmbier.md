@@ -25,7 +25,7 @@ American student who died after being detained in North Korea for 17 months in a
 | 2017 | Repatriated to the United States in a comatose state (June). |
 | 2017 | Died in the United States days after return (June). |
 
-## References
+
 
 [^1]: Wikipedia, "Otto Warmbier" - https://en.wikipedia.org/wiki/Otto_Warmbier
 
@@ -64,3 +64,6 @@ American student who died after being detained in North Korea for 17 months in a
 [^2]: Reuters, reporting on Warmbier’s detention, repatriation, and U.S. medical findings (coverage varies by date).
 [^3]: U.S. Department of State, travel advisories and passport restrictions regarding travel to North Korea (2017).
 
+
+
+## References

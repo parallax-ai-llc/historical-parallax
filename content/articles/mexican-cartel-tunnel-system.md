@@ -22,7 +22,7 @@ Drug cartels have built hundreds of sophisticated tunnels under the US-Mexico bo
 | 1990 | First major tunnel discovered |
 | 2020 | Longest tunnel found: 4,309 feet |
 
-## References
+
 
 [^1]: Wikipedia, "Mexican Cartel Tunnel System" - https://en.wikipedia.org/wiki/Mexican_Cartel_Tunnel_System
 
@@ -50,3 +50,6 @@ Observers often note that tunnel activity increases when surface routes face hei
 ## Broader implications
 
 Tunnel systems are discussed in policy debates about border security, corruption risks, and the economics of illicit trafficking, particularly in high-volume corridors where the incentives to invest in infrastructure are strongest.
+
+
+## References

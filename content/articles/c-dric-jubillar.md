@@ -43,7 +43,7 @@ French suspect accused of murdering his wife Delphine in 2020. While technically
 
 - The disappearance became one of France’s most-followed criminal investigations of the decade, illustrating how high-profile cases can generate sustained public interest, extensive press coverage, and secondary narratives beyond the courtroom.
 
-## References
+
 
 [^1]: Wikipedia, "Cédric Jubillar" - https://en.wikipedia.org/wiki/C%C3%A9dric_Jubillar
 
@@ -62,3 +62,6 @@ French suspect accused of murdering his wife Delphine in 2020. While technically
 
 - **Uncertainty and timeline gaps:** Missing-person cases with unclear movements and limited physical evidence often generate prolonged public interest.
 - **Procedural milestones:** Detention decisions, expert reports, and investigative acts become news in long-running French cases, keeping the story visible even before trial.
+
+
+## References

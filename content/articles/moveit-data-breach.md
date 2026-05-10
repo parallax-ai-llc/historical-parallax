@@ -22,7 +22,7 @@ Cl0p ransomware group exploited a zero-day vulnerability in MOVEit file transfer
 | 2023 | Cl0p exploited MOVEit vulnerability |
 | 2023 | Over 2,500 organizations breached |
 
-## References
+
 
 [^1]: Wikipedia, "MOVEit Data Breach" - https://en.wikipedia.org/wiki/MOVEit_Data_Breach
 
@@ -59,3 +59,6 @@ High-level lessons commonly cited in industry discussions include:
 - Reduce exposure of file transfer services to the public internet where possible.
 - Maintain rapid patching and asset inventory for externally reachable systems.
 - Treat third-party and managed transfer tools as high-risk due to the sensitivity of data handled.
+
+
+## References

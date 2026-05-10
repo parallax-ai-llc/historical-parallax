@@ -5,7 +5,7 @@ birth: "1940-02-19"
 death: "2006-12-21"
 nationality: "Turkmenistan"
 occupation: ["Dictator"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Nyyazov_in_February_1998.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saparmurat_Niyazov"
 lastUpdated: "2026-02-26"
@@ -24,7 +24,7 @@ Turkmen dictator known as 'Turkmenbashi' (Father of all Turkmen) who created a b
 | 1999 | Declared president for life |
 | 2006 | Died of cardiac arrest |
 
-## References
+
 
 [^1]: Wikipedia, "Saparmurat Niyazov" - https://en.wikipedia.org/wiki/Saparmurat_Niyazov
 
@@ -48,3 +48,6 @@ Descriptions of specific “bans” and symbolic decrees are often repeated in s
 - Personality cult
 - Ruhnama
 - Gurbanguly Berdimuhamedow
+
+
+## References

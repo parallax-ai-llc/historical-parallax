@@ -21,7 +21,7 @@ Steven Bradbury won the most improbable Olympic gold ever when all four competit
 |------|-------|
 | 2002 | Won gold after all rivals fell in 1000m final |
 
-## References
+
 
 [^1]: Wikipedia, "Steven Bradbury" - https://en.wikipedia.org/wiki/Steven_Bradbury
 
@@ -52,3 +52,6 @@ Bradbury’s win is commonly referenced in discussions of risk management and co
 ## Later Life and Legacy
 
 After retiring from competition, Bradbury has remained a recognizable figure in Australian sport and media, with his Olympic gold often used as a shorthand narrative for resilience and opportunism in the face of long odds.[^1]
+
+
+## References

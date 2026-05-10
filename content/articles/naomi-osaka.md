@@ -24,7 +24,7 @@ Naomi Osaka won four Grand Slam titles and was the first Asian player to be rank
 | 2021 | Withdrew from French Open for mental health |
 | 2024 | Returned to competitive tennis |
 
-## References
+
 
 [^1]: Wikipedia, "Naomi Osaka" - https://en.wikipedia.org/wiki/Naomi_Osaka
 
@@ -50,3 +50,6 @@ This article provides a concise summary. Tennis rankings, titles, and comeback t
 
 - How media obligations and athlete welfare policies vary across tournaments.
 - The relationship between playing style, surface speed, and match-up dynamics in modern women’s tennis.
+
+
+## References

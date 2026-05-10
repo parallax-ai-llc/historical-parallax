@@ -21,7 +21,7 @@ An arsonist set fire to a Daegu subway train killing 192 people. The fire spread
 |------|-------|
 | 2003 | 192 killed in subway arson |
 
-## References
+
 
 [^1]: Wikipedia, "Daegu Subway Fire" - https://en.wikipedia.org/wiki/Daegu_Subway_Fire
 
@@ -58,3 +58,6 @@ An arsonist set fire to a Daegu subway train killing 192 people. The fire spread
 - **Date:** 2003-02-18.[^1]
 - **Fatalities:** 192.[^1]
 - **Type:** Arson-triggered transit fire with secondary operational and infrastructure failures contributing to the severity.[^1]
+
+
+## References

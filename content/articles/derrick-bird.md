@@ -19,7 +19,7 @@ Derrick Bird killed 12 people and injured 11 in a shooting spree across Cumbria,
 |------|-------|
 | 1957 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -56,3 +56,6 @@ Derrick Bird killed 12 people and injured 11 in a shooting spree across Cumbria,
 
 ## Notes
 - This article focuses on a factual, high-level summary and avoids graphic detail.
+
+
+## References

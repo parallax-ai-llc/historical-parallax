@@ -46,7 +46,7 @@ Figures like Gaviria are often referenced in analyses of how cartels professiona
 - Escalating enforcement pressure can reshape cartel leadership and tactics rather than ending trafficking outright.
 - The Medellín Cartel era remains a key reference point for modern counter-narcotics policy debates.
 
-## References
+
 
 [^1]: Wikipedia, "Gustavo Gaviria" - https://en.wikipedia.org/wiki/Gustavo_Gaviria
 ## Overview
@@ -63,3 +63,6 @@ The Medellín Cartel era shaped Colombia’s security landscape, contributing to
 
 ## Legacy
 The history of the Medellín Cartel remains influential in discussions about narcotics policy, organized crime, and the long-term social costs of the cocaine trade in Colombia and beyond.
+
+
+## References

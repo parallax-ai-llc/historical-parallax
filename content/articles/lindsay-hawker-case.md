@@ -22,7 +22,7 @@ British English teacher Lindsay Hawker was murdered by Tatsuya Ichihashi who fle
 | 2007 | Hawker murdered |
 | 2009 | Ichihashi captured |
 
-## References
+
 
 [^1]: Wikipedia, "Lindsay Hawker Case" - https://en.wikipedia.org/wiki/Lindsay_Hawker_Case
 
@@ -51,3 +51,6 @@ British English teacher Lindsay Hawker was murdered by Tatsuya Ichihashi who fle
 - The case is remembered for the length of the manhunt and the intensity of media coverage.
 - It illustrates how fugitives can exploit mobility and identity changes to evade capture temporarily.
 - The conviction and sentencing concluded a case followed closely in multiple countries.
+
+
+## References

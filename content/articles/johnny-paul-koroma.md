@@ -22,7 +22,7 @@ Sierra Leonean military officer who led the 1997 coup and allied with the RUF re
 | 1998 | Overthrown by ECOMOG forces |
 | 2003 | Disappeared; declared dead |
 
-## References
+
 
 [^1]: Wikipedia, "Johnny Paul Koroma" - https://en.wikipedia.org/wiki/Johnny_Paul_Koroma
 
@@ -51,3 +51,6 @@ Sierra Leonean military officer who led the 1997 coup and allied with the RUF re
 
 - This article is a high-level summary based on publicly available reference material (see References).
 - Specific dates, roles, and names should be cross-checked against primary sources when used for research or publication.
+
+
+## References

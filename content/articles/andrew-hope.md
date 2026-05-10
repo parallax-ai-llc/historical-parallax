@@ -21,7 +21,7 @@ Jamaican drug trafficker who ran major cocaine networks between Jamaica and the 
 |------|-------|
 | 2010 | Convicted of international cocaine trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Andrew Hope" - https://en.wikipedia.org/wiki/Andrew_Hope
 
@@ -63,3 +63,6 @@ To resolve the mismatch cleanly, the following would be needed (not performed in
 
 [^2]: Alaska State Legislature ("100 Years of Alaska's Legislature"), "Andrew Hope" — https://akleg.gov/100years/bio.php?id=1176
 [^3]: alaskool.org, "Andrew Percy Hope / Kaa.ooshti" — http://www.alaskool.org/projects/jdhs25projects/mgoade/page6.html
+
+
+## References

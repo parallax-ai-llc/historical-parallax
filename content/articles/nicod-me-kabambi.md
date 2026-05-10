@@ -22,7 +22,7 @@ Congolese militia commander who led the Force de Résistance Patriotique de l'It
 | 2003 | Led FRPI militia in ethnic violence in Ituri |
 | 2010 | Surrendered as part of disarmament process |
 
-## References
+
 
 [^1]: Wikipedia, "Nicodème Kabambi" - https://en.wikipedia.org/wiki/Nicod%C3%A8me_Kabambi
 
@@ -49,3 +49,6 @@ Kabambi’s name appears in broader discussions of militia leadership and accoun
 ## Accountability Efforts
 
 The Ituri period also drew attention from international justice mechanisms and documentation initiatives. Even when individual leaders were not tried, the broader record from the region has been used to establish patterns of abuse and to support survivor-centered reconciliation and reparations discussions.
+
+
+## References

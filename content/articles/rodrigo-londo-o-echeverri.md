@@ -5,7 +5,7 @@ birth: "1959-01-22"
 death: "Unknown"
 nationality: "Colombia"
 occupation: ["Rebel Leader"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Timochenko-GoraHerria.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rodrigo_Londo%C3%B1o_Echeverri"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Last commander of the FARC guerrilla group known as 'Timochenko' who signed the 
 | 2011 | Became FARC supreme commander |
 | 2016 | Signed peace agreement with Colombian government |
 
-## References
+
 
 [^1]: Wikipedia, "Rodrigo Londoño Echeverri" - https://en.wikipedia.org/wiki/Rodrigo_Londo%C3%B1o_Echeverri
 
@@ -48,3 +48,6 @@ Last commander of the FARC guerrilla group known as 'Timochenko' who signed the 
 - Publicly associated with the organization’s shift toward formal party politics after demobilization.
 - Frequently discussed in coverage of Colombia’s peace accords as both a negotiating counterpart and a contentious public figure.
 - Common reference point in debates on demobilization, political reintegration, and the legacy of insurgent leadership.
+
+
+## References

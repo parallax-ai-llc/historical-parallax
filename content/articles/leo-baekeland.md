@@ -23,7 +23,7 @@ Leo Baekeland invented Bakelite in 1907, the first fully synthetic plastic.
 | 1907 | Invented Bakelite |
 | 1944 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Leo Baekeland" - https://en.wikipedia.org/wiki/Leo_Baekeland
 
@@ -51,3 +51,6 @@ Leo Baekeland invented Bakelite in 1907, the first fully synthetic plastic.
 
 - This entry is a high-level overview intended to capture widely reported facts and commonly cited context.
 - For deeper detail, consult the linked references and specialized histories or investigative reports where relevant.
+
+
+## References

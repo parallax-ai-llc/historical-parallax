@@ -23,7 +23,7 @@ Guatemalan serial killer who murdered at least 17 sex workers in Guatemala City 
 | 2009 | Arrested |
 | 2012 | Sentenced to over 800 years |
 
-## References
+
 
 [^1]: Wikipedia, "Raúl Osiel Marroquín" - https://en.wikipedia.org/wiki/Ra%C3%BAl_Osiel_Marroqu%C3%ADn
 
@@ -50,3 +50,6 @@ Guatemalan serial killer who murdered at least 17 sex workers in Guatemala City 
 
 - Serial murder investigations
 - Gender-based violence in Central America
+
+
+## References

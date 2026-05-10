@@ -24,7 +24,7 @@ Malaysian wildlife trafficker known as the 'Lizard King' who was one of the worl
 | 2010 | Arrested in Malaysia with 95 boa constrictors |
 | 2010 | Sentenced to 5 years in Malaysia |
 
-## References
+
 
 [^1]: Wikipedia, "Anson Wong" - https://en.wikipedia.org/wiki/Anson_Wong
 
@@ -48,3 +48,6 @@ The case is frequently cited in discussions of how profitable, organized, and re
 - Conservation enforcement cooperation across customs and border agencies
 - Exotic pet trade demand and regulation
 - Penalties and sentencing practices for wildlife crime
+
+
+## References

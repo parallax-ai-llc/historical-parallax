@@ -21,7 +21,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 2014 | 43 students disappeared |
 
-## References
+
 
 [^1]: Wikipedia, "Ayotzinapa Disappearance" - https://en.wikipedia.org/wiki/Ayotzinapa_Disappearance
 
@@ -64,3 +64,6 @@ lastUpdated: "2026-02-26"
 ## Further Reading
 
 [^2]: Inter-American Commission on Human Rights (IACHR), work related to the GIEI (Independent Experts) on the Ayotzinapa case - https://www.oas.org/en/iachr/
+
+
+## References

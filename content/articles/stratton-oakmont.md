@@ -22,7 +22,7 @@ Boiler room brokerage firm run by Jordan Belfort that defrauded investors throug
 | 1989 | Firm founded |
 | 1996 | Expelled from securities industry |
 
-## References
+
 
 [^1]: Wikipedia, "Stratton Oakmont" - https://en.wikipedia.org/wiki/Stratton_Oakmont
 
@@ -56,3 +56,6 @@ Ovett remains a reference point in discussions of:
 ## Further Reading
 
 - Wikipedia profile (overview, major results, and record notes): see reference below.
+
+
+## References

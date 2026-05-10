@@ -22,7 +22,7 @@ Duplicate.
 |------|-------|
 | 1944 | See Dietrich Mateschitz |
 
-## References
+
 
 [^1]: Wikipedia, "Dietrich Mateschitz dup2" - https://en.wikipedia.org/wiki/Dietrich_Mateschitz_dup2
 
@@ -60,3 +60,6 @@ Duplicate.
 ### Note on Sources
 
 - 본 문서의 기존 링크(dup2 위키 문서)는 중복/비정상 페이지일 수 있습니다. 정확한 사실 확인 및 인용은 신뢰 가능한 1차/2차 자료(공식 기업 연혁, 주요 언론 프로필, 표준 Wikipedia 항목 등)를 기준으로 재검증이 필요합니다.
+
+
+## References

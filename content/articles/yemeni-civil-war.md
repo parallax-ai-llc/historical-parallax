@@ -22,7 +22,7 @@ Houthi rebels seized Sana'a, triggering a Saudi-led coalition intervention. Over
 | 2014 | Houthi takeover |
 | 2015 | Saudi-led intervention began |
 
-## References
+
 
 [^1]: Wikipedia, "Yemeni Civil War" - https://en.wikipedia.org/wiki/Yemeni_Civil_War
 
@@ -66,3 +66,6 @@ Beyond Yemen, the war is often discussed in terms of:
 - Risks to maritime trade routes near the Bab-el-Mandeb strait.
 - The difficulty of ending civil wars with multiple armed actors and external backers.
 
+
+
+## References

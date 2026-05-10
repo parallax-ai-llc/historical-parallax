@@ -22,7 +22,7 @@ Nigerian billionaire accused of involvement in corrupt oil block deals and contr
 | 2003 | Linked to controversial oil block allocations |
 | 2008 | Named in corruption investigations |
 
-## References
+
 
 [^1]: Wikipedia, "Emeka Offor" - https://en.wikipedia.org/wiki/Emeka_Offor
 
@@ -79,3 +79,6 @@ In many countries, prominent entrepreneurs become public figures whose reputatio
 ## Long-term significance
 
 Infrastructure-related business activity is often evaluated by its measurable impact: reliability of services, cost to users, maintenance capacity, and whether projects create durable local capability. These criteria shape how business leaders are assessed over time.
+
+
+## References

@@ -21,7 +21,7 @@ Champlain Towers South in Surfside, Florida partially collapsed in the middle of
 |------|-------|
 | 2021 | 98 killed in condo collapse |
 
-## References
+
 
 [^1]: Wikipedia, "Surfside Condo Collapse" - https://en.wikipedia.org/wiki/Surfside_Condo_Collapse
 
@@ -66,3 +66,6 @@ The Surfside collapse is frequently referenced in discussions about:
 - The importance of timely inspections and clear, enforceable remediation requirements.
 
 It remains a high-profile case study for engineers, policymakers, and property managers evaluating risk in aging multi-family buildings.
+
+
+## References

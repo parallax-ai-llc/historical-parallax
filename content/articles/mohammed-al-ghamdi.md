@@ -21,7 +21,7 @@ Saudi teacher sentenced to death for tweets criticizing the government.
 |------|-------|
 | 2023 | Sentenced to death for tweeting |
 
-## References
+
 
 [^1]: Wikipedia, "Mohammed al-Ghamdi" - https://en.wikipedia.org/wiki/Mohammed_al-Ghamdi
 
@@ -64,3 +64,6 @@ Saudi teacher sentenced to death for tweets criticizing the government.
 ## References (Additional)
 
 [^2]: This profile is intentionally high-level; when more stable primary citations are available (court documents, official statements, or archived reporting), they should be added here.
+
+
+## References

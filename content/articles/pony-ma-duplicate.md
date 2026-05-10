@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1971 | See Ma Huateng |
 
-## References
+
 
 [^1]: Wikipedia, "Pony Ma duplicate" - https://en.wikipedia.org/wiki/Pony_Ma_duplicate
 
@@ -60,3 +60,6 @@ Without deleting any existing content, downstream systems can treat this page as
 - Using the `id` as a soft-redirect key ("pony-ma-duplicate" → canonical Pony Ma / Ma Huateng id)
 - Flagging it for editorial review (missing reliable references)
 - Ensuring the canonical article holds the primary biography and citations
+
+
+## References

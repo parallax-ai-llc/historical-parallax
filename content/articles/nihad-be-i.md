@@ -23,7 +23,7 @@ Bosnian organized crime figure involved in drug trafficking and racketeering acr
 | 2005 | Arrested for drug trafficking |
 | 2007 | Convicted and sentenced to prison |
 
-## References
+
 
 [^1]: Wikipedia, "Nihad Bešić" - https://en.wikipedia.org/wiki/Nihad_Be%C5%A1i%C4%87
 
@@ -48,3 +48,6 @@ Bosnian organized crime figure involved in drug trafficking and racketeering acr
 This article is a brief profile intended to summarize publicly reported information; details should be treated as high-level unless supported by additional primary sources.
 
 Further expansion can add court documents, reputable investigative reporting, and regional crime studies to improve specificity.
+
+
+## References

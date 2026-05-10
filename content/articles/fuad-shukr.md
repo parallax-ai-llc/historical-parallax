@@ -22,7 +22,7 @@ Senior Hezbollah military commander who was responsible for the 1983 Beirut barr
 | 1983 | Involved in Beirut barracks bombing |
 | 2024 | Killed in Israeli airstrike on Beirut |
 
-## References
+
 
 [^1]: Wikipedia, "Fuad Shukr" - https://en.wikipedia.org/wiki/Fuad_Shukr
 
@@ -49,3 +49,6 @@ Senior Hezbollah military commander who was responsible for the 1983 Beirut barr
 - 1983 Beirut barracks bombing
 - Hezbollah’s military wing and command structure
 - Israel–Lebanon security dynamics
+
+
+## References

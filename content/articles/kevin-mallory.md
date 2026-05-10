@@ -21,7 +21,7 @@ Former CIA officer convicted of selling classified national defense information 
 |------|-------|
 | 2019 | Convicted of espionage for China |
 
-## References
+
 
 [^1]: Wikipedia, "Kevin Mallory" - https://en.wikipedia.org/wiki/Kevin_Mallory
 
@@ -76,3 +76,5 @@ In U.S. espionage-related prosecutions, reporting often references **national de
 ### Source limitations
 
 This entry is a high-level overview based on widely available summaries; more precise detail requires court documents, sentencing memoranda, and contemporaneous reporting.
+
+## References

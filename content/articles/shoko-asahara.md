@@ -4,6 +4,7 @@ birth: "1955-03-02"
 death: "2018-07-06"
 nationality: "Japanese"
 occupation: ["Cult Leader", "Terrorist", "Founder of Aum Shinrikyo"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Shoko_Asahara_20180709.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shoko_Asahara"
 lastUpdated: "2025-12-23"

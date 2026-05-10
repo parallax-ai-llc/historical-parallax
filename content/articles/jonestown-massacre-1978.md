@@ -32,7 +32,7 @@ This event had significant impact on law enforcement practices, public policy, a
 |------|-------|
 | 1978-11-18 | Event occurred |
 
-## References
+
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
 [^3]: Government and policy documents.
@@ -48,3 +48,6 @@ In the aftermath, governments and investigators examined how the group was able 
 ## Cultural and Policy Legacy
 Jonestown became a lasting reference point in public conversations about cult dynamics, coercive control, and group violence. It is frequently cited in academic work on new religious movements and in training contexts that emphasize early detection of abuse, credible reporting channels, and support for people attempting to leave high-control groups.
 The phrase associated with the tragedy entered popular culture as a cautionary shorthand for mass conformity.
+
+
+## References

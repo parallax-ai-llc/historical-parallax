@@ -3,6 +3,7 @@ name: "Sanjeev Kapoor"
 birth: "1964-04-10"
 nationality: "Indian"
 occupation: ["Chef", "TV Personality", "Author"]
+image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sanjeev_kapoor_at_the_Launch_of_new_restaurant_%27Arola%27_at_J_W_Marriott.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sanjeev_Kapoor"
 lastUpdated: "2026-03-12"

@@ -23,7 +23,7 @@ Last Argentine military dictator. Later convicted of kidnapping babies born to p
 | 2010 | Convicted |
 | 2018 | Died while serving sentence |
 
-## References
+
 
 [^1]: Wikipedia, "Reynaldo Bignone" - https://en.wikipedia.org/wiki/Reynaldo_Bignone
 
@@ -51,3 +51,6 @@ Last Argentine military dictator. Later convicted of kidnapping babies born to p
 
 - National Reorganization Process: https://en.wikipedia.org/wiki/National_Reorganization_Process
 - Grandmothers of the Plaza de Mayo: https://en.wikipedia.org/wiki/Grandmothers_of_the_Plaza_de_Mayo
+
+
+## References

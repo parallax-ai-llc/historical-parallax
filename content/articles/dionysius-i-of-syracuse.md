@@ -21,7 +21,7 @@ Tyrant of Syracuse known for extreme paranoia, political murders, and the Sword 
 |------|-------|
 | -405 | Seized power in Syracuse |
 
-## References
+
 
 [^1]: Wikipedia, "Dionysius I of Syracuse" - https://en.wikipedia.org/wiki/Dionysius_I_of_Syracuse
 
@@ -73,3 +73,6 @@ Syracuse (on Sicily) was one of the most powerful Greek city-states in the weste
 
 - Dates in this period can vary by source; ancient narratives are not always consistent, and modern reconstructions sometimes differ.
 - The "Sword of Damocles" is best understood as a later moral lesson attached to Dionysius’s broader reputation rather than a securely dated historical incident.
+
+
+## References

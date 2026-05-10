@@ -22,7 +22,7 @@ AQIM sub-commander who directed operations in Algeria's Kabylia region. He was k
 | 2010 | Led AQIM operations in Kabylia |
 | 2021 | Killed by Algerian security forces |
 
-## References
+
 
 [^1]: Wikipedia, "Mokhtar Belaouar" - https://en.wikipedia.org/wiki/Mokhtar_Belaouar
 
@@ -61,3 +61,6 @@ AQIM sub-commander who directed operations in Algeria's Kabylia region. He was k
 
 ### Sources
 - The reference link(s) listed above are the primary source pointer used for this short profile.
+
+
+## References

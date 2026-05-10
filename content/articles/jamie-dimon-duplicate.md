@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1956 | See Jamie Dimon |
 
-## References
+
 
 [^1]: Wikipedia, "Jamie Dimon duplicate" - https://en.wikipedia.org/wiki/Jamie_Dimon_duplicate
 
@@ -53,3 +53,6 @@ Duplicate entries like this commonly appear when:
 - When verifying, prefer the canonical Wikipedia entry for Jamie Dimon and cross-check against major institutional biographies and reputable news sources.
 
 [^2]: Wikipedia, "Jamie Dimon" - https://en.wikipedia.org/wiki/Jamie_Dimon
+
+
+## References

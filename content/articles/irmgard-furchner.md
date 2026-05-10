@@ -21,7 +21,7 @@ Former Stutthof camp secretary convicted at age 97 of being an accessory to over
 |------|-------|
 | 2022 | Convicted at age 97 |
 
-## References
+
 
 [^1]: Wikipedia, "Irmgard Furchner" - https://en.wikipedia.org/wiki/Irmgard_Furchner
 
@@ -55,3 +55,6 @@ Former Stutthof camp secretary convicted at age 97 of being an accessory to over
 
 - Stutthof concentration camp
 - Postwar prosecutions of Nazi-era crimes in Germany
+
+
+## References

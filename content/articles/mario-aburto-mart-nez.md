@@ -21,7 +21,7 @@ Mexican factory worker who assassinated presidential candidate Luis Donaldo Colo
 |------|-------|
 | 1994 | Assassinated presidential candidate Colosio |
 
-## References
+
 
 [^1]: Wikipedia, "Mario Aburto Martínez" - https://en.wikipedia.org/wiki/Mario_Aburto_Mart%C3%ADnez
 
@@ -55,3 +55,6 @@ Mexican factory worker who assassinated presidential candidate Luis Donaldo Colo
 - Luis Donaldo Colosio
 - 1994 Mexican general election
 - Political violence in Mexico
+
+
+## References

@@ -21,7 +21,7 @@ President Yoon Suk-yeol declared emergency martial law citing 'anti-state forces
 |------|-------|
 | 2024 | Martial law declared; lifted within hours |
 
-## References
+
 
 [^1]: Wikipedia, "December 3 Martial Law" - https://en.wikipedia.org/wiki/December_3_Martial_Law
 
@@ -66,3 +66,6 @@ Based on widely repeated summaries of the incident described in this article:
 
 [^2]: Constitution of the Republic of Korea (English text) — https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=CONSTITUTION
 [^3]: Martial Law Act (계엄법) overview/search portal (Korea Law Translation / law.go.kr) — https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=Martial%20Law%20Act
+
+
+## References

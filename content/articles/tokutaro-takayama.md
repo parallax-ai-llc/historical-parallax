@@ -23,7 +23,7 @@ Japanese yakuza boss who served as the sixth president of the Aizu Kotetsu-kai, 
 | 2010 | Named on yakuza exclusion lists |
 | 2015 | Remained active in Kyoto criminal underworld |
 
-## References
+
 
 [^1]: Wikipedia, "Tokutaro Takayama" - https://en.wikipedia.org/wiki/Tokutaro_Takayama
 
@@ -48,3 +48,6 @@ Takayama is often referenced in overviews of yakuza history as an example of a l
 - Yakuza
 - Anti-yakuza ordinances in Japan
 - Organized crime in Kyoto
+
+
+## References

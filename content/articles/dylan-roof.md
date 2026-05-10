@@ -23,7 +23,7 @@ American white supremacist who murdered nine Black worshippers during a Bible st
 | 2017 | Convicted of 33 federal charges |
 | 2017 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Dylan Roof" - https://en.wikipedia.org/wiki/Dylan_Roof
 
@@ -49,3 +49,6 @@ Roof was prosecuted in U.S. federal court, where the case became notable for:
 - Charleston church shooting
 - Domestic terrorism in the United States
 - Hate crime (United States law)
+
+
+## References

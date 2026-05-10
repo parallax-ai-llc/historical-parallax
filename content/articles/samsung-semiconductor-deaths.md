@@ -22,7 +22,7 @@ Over 200 Samsung semiconductor workers developed cancer, with 76 dying. Samsung 
 | 2007 | Worker cancer cases emerged |
 | 2018 | Samsung apologized |
 
-## References
+
 
 [^1]: Wikipedia, "Samsung Semiconductor Deaths" - https://en.wikipedia.org/wiki/Samsung_Semiconductor_Deaths
 
@@ -49,3 +49,6 @@ Over 200 Samsung semiconductor workers developed cancer, with 76 dying. Samsung 
 
 - 독자가 오해하기 쉬운 용어는 한 줄 정의로 보완합니다.
 - 동음이의/유사 개념이 있다면 구분 기준을 제시합니다.
+
+
+## References

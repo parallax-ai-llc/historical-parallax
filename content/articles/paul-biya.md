@@ -24,7 +24,7 @@ Cameroonian president since 1982, one of the longest-ruling non-royal leaders in
 | 2017 | Anglophone crisis erupted |
 | 2018 | Won seventh term |
 
-## References
+
 
 [^1]: Wikipedia, "Paul Biya" - https://en.wikipedia.org/wiki/Paul_Biya
 
@@ -49,3 +49,6 @@ Human-rights organizations and political opponents have alleged restrictions on 
 - Politics of Cameroon
 - Anglophone problem in Cameroon
 - Term limits and constitutional change
+
+
+## References

@@ -38,7 +38,7 @@ CP violation is one of the essential ingredients discussed in explaining why the
 
 This stub exists because the project may store separate pages for different name formats. The canonical biographical and technical content may be consolidated under **"Makoto Kobayashi"**; however, this page retains a minimal, factual outline and references for disambiguation.
 
-## References
+
 
 [^1]: Wikipedia, "Kobayashi Makoto" - https://en.wikipedia.org/wiki/Kobayashi_Makoto
 
@@ -51,3 +51,6 @@ This stub exists because the project may store separate pages for different name
 ## Further Reading
 
 - Nobel Prize in Physics (2008) press materials and scientific background (official Nobel Prize site)
+
+
+## References

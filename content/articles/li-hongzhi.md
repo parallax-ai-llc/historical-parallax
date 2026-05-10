@@ -24,7 +24,7 @@ Chinese spiritual leader who founded Falun Gong in 1992. The Chinese government 
 | 1999 | Li fled to United States |
 | 2006 | Allegations of organ harvesting from practitioners emerged |
 
-## References
+
 
 [^1]: Wikipedia, "Li Hongzhi" - https://en.wikipedia.org/wiki/Li_Hongzhi
 ## Background
@@ -49,3 +49,6 @@ Li Hongzhi has been based outside China since the late 1990s, and Falun Gong-rel
 
 - This page is a high-level overview intended to be expanded with additional sources.
 - When adding detailed claims (dates, numbers, quotations), prefer primary documents or reputable historical scholarship.
+
+
+## References

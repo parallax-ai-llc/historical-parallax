@@ -22,7 +22,7 @@ Chinese cryptocurrency Ponzi scheme that defrauded 2.6 million investors of $5.7
 | 2018 | PlusToken launched |
 | 2019 | Operators arrested |
 
-## References
+
 
 [^1]: Wikipedia, "PlusToken" - https://en.wikipedia.org/wiki/PlusToken
 
@@ -50,3 +50,6 @@ Organizers were arrested across multiple jurisdictions in Asia as authorities in
 - Demonstrated how **high-yield promises + referral structures** can rapidly scale in crypto.
 - Highlighted the systemic risk of **centralized custody** in unregulated “investment” wallet products.
 - Became a widely referenced case study for **on-chain tracing** of fraud-linked funds.
+
+
+## References

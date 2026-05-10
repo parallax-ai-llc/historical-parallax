@@ -23,7 +23,7 @@ Arieh Warshel is an Israeli-American biochemist who shared the 2013 Nobel Prize 
 | 1969 | Received PhD |
 | 2013 | Awarded Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Arieh Warshel" - https://en.wikipedia.org/wiki/Arieh_Warshel
 
@@ -48,3 +48,6 @@ The 2013 Nobel Prize in Chemistry recognized methods for building multiscale mod
 - **Enzyme reaction mechanisms**: explaining rate enhancement via electrostatics, dynamics, and transition-state stabilization.
 - **Simulation validation**: using experimental observables (rates, structures, thermodynamics) to test and calibrate computational models.
 
+
+
+## References

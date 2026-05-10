@@ -22,7 +22,7 @@ Already added.
 | 1931 | Born |
 | 2015 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "APJ Abdul Kalam" - https://en.wikipedia.org/wiki/APJ_Abdul_Kalam
 
@@ -54,3 +54,6 @@ After his death in 2015, Kalam has been widely memorialized in India through edu
 
 [^2]: Encyclopaedia Britannica, "A.P.J. Abdul Kalam" - https://www.britannica.com/biography/A-P-J-Abdul-Kalam
 [^3]: Government of India (President of India), Biographical profile (archived/official pages may vary over time) - https://presidentofindia.nic.in/
+
+
+## References

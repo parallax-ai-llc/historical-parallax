@@ -22,7 +22,7 @@ Former President of São Tomé and Príncipe whose administration was linked to 
 | 1991 | Became first democratically elected president |
 | 2003 | Oil block corruption allegations |
 
-## References
+
 
 [^1]: Wikipedia, "Miguel Trovoada" - https://en.wikipedia.org/wiki/Miguel_Trovoada
 
@@ -49,3 +49,6 @@ The Trovoada-era controversies are frequently framed as a case study in:
 ## Notes
 
 Detailed assessments of specific licensing deals typically rely on investigative reporting, official documents, and later audits or parliamentary inquiries where available.
+
+
+## References

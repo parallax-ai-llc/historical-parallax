@@ -22,7 +22,7 @@ Nixon administration officials broke into Democratic National Committee headquar
 | 1972 | Watergate break-in |
 | 1974 | Nixon resigned |
 
-## References
+
 
 [^1]: Wikipedia, "Watergate Scandal" - https://en.wikipedia.org/wiki/Watergate_Scandal
 
@@ -52,3 +52,6 @@ Watergate is often taught as a case where the decisive issue was not only the in
 
 In public-administration and law contexts, Watergate is used as a concrete example of how informal political incentives can collide with formal constitutional constraints.
 It also illustrates how record-keeping (including contemporaneous recordings and documents) can decisively shape accountability outcomes when disputes turn on intent and knowledge.
+
+
+## References

@@ -21,7 +21,7 @@ Australian lawyer who became Solomon Islands attorney general while fleeing chil
 |------|-------|
 | 2006 | Smuggled into Solomon Islands to avoid prosecution |
 
-## References
+
 
 [^1]: Wikipedia, "Julian Moti" - https://en.wikipedia.org/wiki/Julian_Moti
 
@@ -62,3 +62,6 @@ Australian lawyer who became Solomon Islands attorney general while fleeing chil
 ## Additional references
 
 [^2]: Wikipedia, sections on academic work and the extradition dispute - https://en.wikipedia.org/wiki/Julian_Moti
+
+
+## References

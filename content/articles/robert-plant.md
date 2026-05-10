@@ -3,6 +3,7 @@ name: "Robert Plant"
 birth: "1948-08-20"
 nationality: "British"
 occupation: ["Musician", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/RPlantSavGraceIpswich140324_%285_of_12%29_%2853589044022%29_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Plant"
 lastUpdated: "2026-03-12"

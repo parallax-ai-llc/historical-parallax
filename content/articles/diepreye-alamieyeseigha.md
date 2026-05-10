@@ -24,7 +24,7 @@ Former governor of Bayelsa State in Nigeria who was arrested in London for money
 | 2005 | Escaped UK disguised as a woman |
 | 2007 | Convicted in Nigeria, pardoned in 2013 |
 
-## References
+
 
 [^1]: Wikipedia, "Diepreye Alamieyeseigha" - https://en.wikipedia.org/wiki/Diepreye_Alamieyeseigha
 
@@ -50,3 +50,6 @@ Alamieyeseigha is remembered both for the spectacle of his escape from the Unite
 ## See also
 
 - Bayelsa State
+
+
+## References

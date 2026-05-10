@@ -24,7 +24,7 @@ Al Oerter won four consecutive Olympic discus golds from 1956 to 1968, the only 
 | 1964 | Won third gold at Tokyo |
 | 1968 | Won fourth gold at Mexico City |
 
-## References
+
 
 [^1]: Wikipedia, "Al Oerter" - https://en.wikipedia.org/wiki/Al_Oerter
 
@@ -49,3 +49,6 @@ In Olympic history, Oerter is frequently cited as a benchmark for sustained exce
 - what multi-Olympiad success looks like in a technical power event
 - athlete development and maintaining top form over 12+ years
 - the historical evolution of track-and-field competition in the mid-20th century
+
+
+## References

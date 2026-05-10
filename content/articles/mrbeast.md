@@ -3,6 +3,7 @@ name: "MrBeast"
 birth: ""
 nationality: "American"
 occupation: ["YouTuber", "Content Creator", "Philanthropist"]
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/MrBeast_in_2026_%28cropped%29_2.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/MrBeast"
 lastUpdated: "2026-03-11"

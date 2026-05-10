@@ -22,7 +22,7 @@ President of Sierra Leone whose corrupt and incompetent rule led directly to the
 | 1985 | Became President |
 | 1992 | Overthrown by military coup |
 
-## References
+
 
 [^1]: Wikipedia, "Joseph Momoh" - https://en.wikipedia.org/wiki/Joseph_Momoh
 
@@ -49,3 +49,6 @@ President of Sierra Leone whose corrupt and incompetent rule led directly to the
 ## Legacy
 
 - Momoh’s presidency is often assessed in the context of state fragility, the political economy of natural resources, and the difficulty of reform under entrenched patronage systems.
+
+
+## References

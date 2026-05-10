@@ -24,7 +24,7 @@ Lou Gehrig played 2,130 consecutive games for the Yankees, earning the nickname 
 | 1939 | Retired due to ALS; gave famous farewell speech |
 | 1941 | Died of ALS |
 
-## References
+
 
 [^1]: Wikipedia, "Lou Gehrig" - https://en.wikipedia.org/wiki/Lou_Gehrig
 
@@ -52,3 +52,6 @@ In 1939, Gehrig was diagnosed with amyotrophic lateral sclerosis (ALS). His reti
 - New York Yankees
 - Amyotrophic lateral sclerosis (ALS)
 - 1927 New York Yankees
+
+
+## References

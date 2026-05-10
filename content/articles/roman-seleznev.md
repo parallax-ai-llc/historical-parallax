@@ -5,7 +5,7 @@ birth: "1984-07-02"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Cybercriminal"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/b/b2/Roman_Seleznev.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roman_Seleznev"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Russian hacker and son of a Russian MP who stole credit card data from over 500 
 | 2014 | Arrested in Maldives by US Secret Service |
 | 2017 | Sentenced to 27 years in federal prison |
 
-## References
+
 
 [^1]: Wikipedia, "Roman Seleznev" - https://en.wikipedia.org/wiki/Roman_Seleznev
 
@@ -52,3 +52,6 @@ Russian hacker and son of a Russian MP who stole credit card data from over 500 
 - It illustrates how cybercrime investigations can combine technical attribution with traditional investigative work.
 - It highlights the role of international travel as a point of vulnerability for suspects who otherwise remain beyond reach of certain legal systems.
 - It provides a benchmark for sentencing severity in high-loss, large-victim-count cybercrime cases.
+
+
+## References

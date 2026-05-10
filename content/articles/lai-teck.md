@@ -22,7 +22,7 @@ Triple agent who served as secretary-general of the Malayan Communist Party whil
 | 1939 | Became secretary-general of MCP while spying for British |
 | 1947 | Exposed as traitor and killed by MCP agents in Thailand |
 
-## References
+
 
 [^1]: Wikipedia, "Lai Teck" - https://en.wikipedia.org/wiki/Lai_Teck
 
@@ -54,3 +54,6 @@ Lai Teck is often discussed less for a personal ideology than for what his story
 
 - Malayan Communist Party history overviews that cover the pre-emergency period and Japanese occupation.
 - Studies of British and Japanese intelligence operations in Southeast Asia during World War II.
+
+
+## References

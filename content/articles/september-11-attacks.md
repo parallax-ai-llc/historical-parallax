@@ -5,7 +5,7 @@ birth: "Unknown"
 death: "Unknown"
 nationality: "United States"
 occupation: ["Criminal Event"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/35/WTC_smoking_on_9-11.jpeg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/September_11_Attacks"
 lastUpdated: "2026-02-26"

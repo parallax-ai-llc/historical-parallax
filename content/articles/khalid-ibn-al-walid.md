@@ -4,6 +4,7 @@ birth: "592"
 death: "642"
 nationality: "Arab"
 occupation: ["Military Leader", "General"]
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Khalid_ibn_al-Walid_Mosque.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Khalid_ibn_al-Walid"
 lastUpdated: "2026-03-12"

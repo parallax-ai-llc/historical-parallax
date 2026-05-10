@@ -22,7 +22,7 @@ Nigerian military ruler who served as Chief of Staff under the Buhari regime. La
 | 1984 | Served as military ruler |
 | 1985 | Overthrown by Babangida |
 
-## References
+
 
 [^1]: Wikipedia, "Tunde Idiagbon" - https://en.wikipedia.org/wiki/Tunde_Idiagbon
 
@@ -52,3 +52,6 @@ He is often remembered in Nigerian public memory through the lens of WAI and the
 - Military rule versus civilian governance in post-colonial Nigeria
 - Anti-corruption and public-order campaigns as instruments of state policy
 - Civil-liberties concerns during security-driven administrations
+
+
+## References

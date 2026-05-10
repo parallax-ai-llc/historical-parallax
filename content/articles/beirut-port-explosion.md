@@ -22,7 +22,7 @@ Explosion of 2,750 tonnes of improperly stored ammonium nitrate at Beirut's port
 | 2020 | Explosion killed 218 and caused $15 billion in damage |
 | 2021 | Investigation blocked by political interference |
 
-## References
+
 
 [^1]: Wikipedia, "Beirut Port Explosion" - https://en.wikipedia.org/wiki/Beirut_Port_Explosion
 
@@ -59,3 +59,6 @@ International and domestic advocacy has focused on:
 ## Legacy
 
 Beyond the immediate tragedy, the Beirut port explosion is often cited as a defining event in modern Lebanese public life, intensifying debate about corruption, state capacity, and reforms to public safety oversight.
+
+
+## References

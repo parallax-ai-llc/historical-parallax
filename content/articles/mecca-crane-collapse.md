@@ -22,7 +22,7 @@ Collapse of a construction crane at the Grand Mosque in Mecca on September 11, 2
 | 2015 | Crane collapsed during storm |
 | 2015 | 107 killed |
 
-## References
+
 
 [^1]: Wikipedia, "Mecca Crane Collapse" - https://en.wikipedia.org/wiki/Mecca_Crane_Collapse
 
@@ -49,3 +49,6 @@ Collapse of a construction crane at the Grand Mosque in Mecca on September 11, 2
 - Hajj safety and crowd management
 - Construction safety in high-density public environments
 - Grand Mosque (Masjid al-Haram) expansion projects
+
+
+## References

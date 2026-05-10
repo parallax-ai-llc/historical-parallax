@@ -21,7 +21,7 @@ Bulgarian organized crime figure known as 'The Brothers' who controlled criminal
 |------|-------|
 | 2010 | Major organized crime operations |
 
-## References
+
 
 [^1]: Wikipedia, "Krasimir Marinov" - https://en.wikipedia.org/wiki/Krasimir_Marinov
 
@@ -58,3 +58,6 @@ Bulgarian organized crime figure known as 'The Brothers' who controlled criminal
 
 - This article uses a conservative approach: it summarizes widely repeated **claims and attributions** while avoiding specific criminal allegations without clear, citable documentation.
 - If additional primary sources (court documents, official sanctions lists, or authoritative investigative reports) are added later, the timeline and claims should be updated accordingly.
+
+
+## References

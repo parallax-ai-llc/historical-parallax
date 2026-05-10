@@ -44,10 +44,13 @@ Cases like Aydın's are frequently referenced in broader debates about:
 - maritime search-and-rescue responsibilities
 - how criminal enforcement intersects with migration policy
 
-## References
+
 
 [^1]: Wikipedia, "Nazarín Aydın" - https://en.wikipedia.org/wiki/Nazar%C3%ADn_Ayd%C4%B1n
 
 ## See Also
 
 - Migrant smuggling in the Eastern Mediterranean
+
+
+## References

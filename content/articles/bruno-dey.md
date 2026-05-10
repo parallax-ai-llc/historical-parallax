@@ -21,7 +21,7 @@ Former Stutthof concentration camp guard convicted at age 93 of accessory to 5,2
 |------|-------|
 | 2020 | Convicted at age 93 |
 
-## References
+
 
 [^1]: Wikipedia, "Bruno Dey" - https://en.wikipedia.org/wiki/Bruno_Dey
 
@@ -55,3 +55,6 @@ Former Stutthof concentration camp guard convicted at age 93 of accessory to 5,2
 
 - Illustrates Germany’s continued efforts to prosecute Nazi-era crimes decades after the events, especially where documentary and institutional evidence supports “accessory” theories for camp personnel.[^1]
 - Highlights the historical and legal shift toward recognizing that participation in a concentration camp’s guard system can amount to criminal assistance in mass murder, even absent proof of specific individual killings by the accused.[^1]
+
+
+## References

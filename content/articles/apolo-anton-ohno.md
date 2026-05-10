@@ -23,7 +23,7 @@ Apolo Anton Ohno won eight Winter Olympic medals across three Games.
 | 2006 | Won gold at Turin |
 | 2010 | Won three medals at Vancouver |
 
-## References
+
 
 [^1]: Wikipedia, "Apolo Anton Ohno" - https://en.wikipedia.org/wiki/Apolo_Anton_Ohno
 
@@ -51,3 +51,6 @@ After stepping back from Olympic competition, Ohno has been associated with medi
 ## Notes
 
 Medal counts are typically reported including both individual and relay events.
+
+
+## References

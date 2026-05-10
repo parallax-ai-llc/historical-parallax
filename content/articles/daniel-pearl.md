@@ -23,7 +23,7 @@ American journalist and Wall Street Journal reporter who was kidnapped and behea
 | 2002 | Beheaded on video |
 | 2002 | Four suspects convicted including Omar Saeed Sheikh |
 
-## References
+
 
 [^1]: Wikipedia, "Daniel Pearl" - https://en.wikipedia.org/wiki/Daniel_Pearl
 
@@ -56,3 +56,6 @@ His case is also frequently referenced in discussions about:
 - protections for correspondents,
 - the ethics and security of meeting sources,
 - and the broader issue of impunity for attacks on journalists.
+
+
+## References

@@ -21,7 +21,7 @@ Placeholder — primarily a film director rather than traditional entrepreneur.
 |------|-------|
 | 1950 | Born in China |
 
-## References
+
 
 [^1]: Wikipedia, "Zhang Yimou" - https://en.wikipedia.org/wiki/Zhang_Yimou
 
@@ -69,3 +69,6 @@ This article keeps that discussion at a high level to avoid asserting specific b
 - Fifth Generation (Chinese cinema)
 - Beijing 2008 Olympics ceremonies (for his large-event direction)
 
+
+
+## References

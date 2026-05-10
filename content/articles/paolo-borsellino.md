@@ -22,7 +22,7 @@ Italian anti-Mafia judge assassinated by Cosa Nostra just 57 days after his coll
 | 1986 | Participated in Maxi Trial |
 | 1992 | Assassinated by car bomb |
 
-## References
+
 
 [^1]: Wikipedia, "Paolo Borsellino" - https://en.wikipedia.org/wiki/Paolo_Borsellino
 
@@ -51,3 +51,6 @@ The aftermath included extensive investigations, trials, and controversies over 
 ## Legacy
 
 Borsellino is widely remembered as a symbol of civic resistance to mafia violence. Commemorations, educational initiatives, and anti-mafia organizations often invoke his work to emphasize the importance of rule-of-law institutions and sustained public accountability.
+
+
+## References

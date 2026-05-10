@@ -23,7 +23,7 @@ Mexican drug cartel formed by elite military deserters that became one of the mo
 | 2010 | Split from Gulf Cartel |
 | 2012 | Leader Lazcano killed |
 
-## References
+
 
 [^1]: Wikipedia, "Los Zetas" - https://en.wikipedia.org/wiki/Los_Zetas
 
@@ -52,3 +52,6 @@ Mexican drug cartel formed by elite military deserters that became one of the mo
 
 - Gulf Cartel
 - Mexican Drug War
+
+
+## References

@@ -23,7 +23,7 @@ Félicien Kabuga's financial network provided the infrastructure for the 1994 Rw
 | 1994 | Funded RTLM radio station that incited genocide |
 | 2020 | Arrested in Paris suburb |
 
-## References
+
 
 [^1]: Wikipedia, "Felicien Kabuga Financial Network" - https://en.wikipedia.org/wiki/Felicien_Kabuga_Financial_Network
 
@@ -48,3 +48,6 @@ Félicien Kabuga's financial network provided the infrastructure for the 1994 Rw
 - Radio Télévision Libre des Mille Collines (RTLM)
 - International Criminal Tribunal for Rwanda (ICTR)
 - Financing and propaganda in mass-atrocity crimes
+
+
+## References

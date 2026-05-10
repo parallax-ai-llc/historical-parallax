@@ -21,7 +21,7 @@ See separate corrupt politicians entry.
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Kunio Hatoyama" - https://en.wikipedia.org/wiki/Kunio_Hatoyama
 
@@ -56,3 +56,6 @@ See separate corrupt politicians entry.
 ## Further Reading
 
 - Wikipedia entry for quick orientation and outbound citations: https://en.wikipedia.org/wiki/Kunio_Hatoyama
+
+
+## References

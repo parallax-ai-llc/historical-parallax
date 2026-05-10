@@ -21,7 +21,7 @@ Known as 'Otoniel,' leader of the Clan del Golfo, Colombia's most wanted drug tr
 |------|-------|
 | 2021 | Captured by Colombian forces |
 
-## References
+
 
 [^1]: Wikipedia, "Dairo Antonio Úsuga David" - https://en.wikipedia.org/wiki/Dairo_Antonio_%C3%9Asuga_David
 
@@ -55,3 +55,6 @@ Known as 'Otoniel,' leader of the Clan del Golfo, Colombia's most wanted drug tr
 ## Notes
 
 This entry is intentionally high-level and based on widely available public references; details can vary by source and may change as legal proceedings and reporting evolve.
+
+
+## References

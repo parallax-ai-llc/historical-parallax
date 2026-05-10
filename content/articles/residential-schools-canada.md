@@ -22,7 +22,7 @@ Canada forcibly removed 150,000 Indigenous children from their families and plac
 | 1831 | System began |
 | 2021 | Mass graves discovered at Kamloops |
 
-## References
+
 
 [^1]: Wikipedia, "Residential Schools Canada" - https://en.wikipedia.org/wiki/Residential_Schools_Canada
 
@@ -53,3 +53,5 @@ The residential school system is widely recognized as a central driver of interg
 
 [^2]: Truth and Reconciliation Commission of Canada (reports and Calls to Action) - https://nctr.ca/
 [^3]: Government of Canada (apology and related reconciliation resources) - https://www.canada.ca/
+
+

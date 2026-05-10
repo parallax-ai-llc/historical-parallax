@@ -21,7 +21,7 @@ Former Kazakh PM charged with corruption and tax evasion who fled abroad and was
 |------|-------|
 | 2001 | Convicted in absentia of corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Akezhan Kazhegeldin" - https://en.wikipedia.org/wiki/Akezhan_Kazhegeldin
 
@@ -74,3 +74,6 @@ This article summarizes widely reported public information. For detailed chronol
 
 [^2]: Wikipedia, "Prime Minister of Kazakhstan" - https://en.wikipedia.org/wiki/Prime_Minister_of_Kazakhstan
 [^3]: Wikipedia, "Republican People's Party (Kazakhstan)" - https://en.wikipedia.org/wiki/Republican_People%27s_Party_(Kazakhstan)
+
+
+## References

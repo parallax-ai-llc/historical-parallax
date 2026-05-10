@@ -5,7 +5,7 @@ birth: "1360-01-01"
 death: "1401-10-20"
 nationality: "Germany"
 occupation: ["Pirate"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rekonstruierter_Schaedel.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Klaus_St%C3%B6rtebeker"
 lastUpdated: "2026-02-21"

@@ -23,7 +23,7 @@ Argentine child serial killer born Cayetano Santos Godino who murdered four chil
 | 1912 | Arrested for the murder of a 3-year-old boy |
 | 1944 | Died in Ushuaia prison |
 
-## References
+
 
 [^1]: Wikipedia, "Petiso Orejudo" - https://en.wikipedia.org/wiki/Petiso_Orejudo
 
@@ -67,3 +67,6 @@ The case has remained part of Argentine criminal folklore and appears in books a
 ## Additional References
 
 [^2]: Britannica, “Cayetano Santos Godino” (portal entry) — https://www.britannica.com/
+
+
+## References

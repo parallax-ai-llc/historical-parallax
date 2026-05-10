@@ -22,7 +22,7 @@ French terrorist who, with brother Chérif, attacked the Charlie Hebdo office in
 | 2015 | Attacked Charlie Hebdo; killed 12 |
 | 2015 | Killed by police in standoff |
 
-## References
+
 
 [^1]: Wikipedia, "Saïd Kouachi" - https://en.wikipedia.org/wiki/Sa%C3%AFd_Kouachi
 
@@ -58,3 +58,6 @@ French terrorist who, with brother Chérif, attacked the Charlie Hebdo office in
 [^2]: Wikipedia, "Charlie Hebdo shooting" - https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting
 [^3]: Wikipedia, "January 2015 Île-de-France attacks" - https://en.wikipedia.org/wiki/January_2015_%C3%8Ele-de-France_attacks
 [^4]: Wikipedia, "Al-Qaeda in the Arabian Peninsula" - https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Arabian_Peninsula
+
+
+## References

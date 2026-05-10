@@ -24,7 +24,7 @@ Hungarian communist dictator who ruled from 1945 to 1956, known as 'Stalin's bes
 | 1956 | Removed from power; fled to Soviet Union |
 | 1971 | Died in exile in the USSR |
 
-## References
+
 
 [^1]: Wikipedia, "Mátyás Rákosi" - https://en.wikipedia.org/wiki/M%C3%A1ty%C3%A1s_R%C3%A1kosi
 
@@ -55,3 +55,6 @@ Rákosi remains associated in Hungarian memory with political terror and the har
 - Hungarian People's Republic
 - ÁVH
 - Hungarian Revolution of 1956
+
+
+## References

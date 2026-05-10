@@ -21,7 +21,7 @@ Mauritanian intellectual and politician who documented the systematic slavery an
 |------|-------|
 | 1981 | Slavery officially abolished in Mauritania |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmed Baba Miské" - https://en.wikipedia.org/wiki/Ahmed_Baba_Misk%C3%A9
 
@@ -52,3 +52,6 @@ Mauritanian intellectual and politician who documented the systematic slavery an
 ## Further Reading
 
 - See Wikipedia for a starting overview and links to additional references and related topics.
+
+
+## References

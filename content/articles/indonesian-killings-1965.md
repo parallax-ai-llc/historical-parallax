@@ -23,7 +23,7 @@ A wave of anti-communist mass violence and repression in Indonesia following the
 | 1965–1966 | Large-scale killings, detentions, and purge of perceived leftists |
 | Late 1960s | Consolidation of a new political regime and long-term restrictions |
 
-## References
+
 
 [^1]: Wikipedia, "Indonesian mass killings of 1965–66" - https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%9366
 
@@ -58,3 +58,6 @@ The aftermath reshaped Indonesia’s governance and public memory:
 ## Memory, research, and contested narratives
 
 Historical interpretation remains contested. Estimates of casualties differ widely due to incomplete records, regional variation, and the secrecy surrounding many operations. Public discussion has expanded over time through testimony, scholarship, and cultural works, but legal accountability and national reconciliation have remained limited and politically sensitive.
+
+
+## References

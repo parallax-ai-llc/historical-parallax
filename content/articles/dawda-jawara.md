@@ -22,7 +22,7 @@ First President of The Gambia who ruled for 24 years before being overthrown by 
 | 1970 | Became President |
 | 1994 | Overthrown by Jammeh |
 
-## References
+
 
 [^1]: Wikipedia, "Dawda Jawara" - https://en.wikipedia.org/wiki/Dawda_Jawara
 
@@ -51,3 +51,6 @@ Jawara’s legacy is mixed and often framed around two themes: the early post-in
 
 - Politics of The Gambia
 - 1994 Gambian coup d'état
+
+
+## References

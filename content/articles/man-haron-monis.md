@@ -19,7 +19,7 @@ Man Haron Monis was an Iranian-born gunman who took 18 people hostage at the Lin
 |------|-------|
 | 1964 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background
@@ -52,3 +52,6 @@ Man Haron Monis was an Iranian-born gunman who took 18 people hostage at the Lin
 ## Additional references
 - Wikipedia: 2014 Sydney hostage crisis (overview and source list)
 - Official inquiry materials and Australian news archives summarizing the siege and subsequent reviews
+
+
+## References

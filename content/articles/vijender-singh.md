@@ -21,7 +21,7 @@ Vijender Singh won Olympic bronze at 2008 Beijing, the first Indian boxer to win
 |------|-------|
 | 2008 | Won Olympic bronze at Beijing — first for Indian boxing |
 
-## References
+
 
 [^1]: Wikipedia, "Vijender Singh" - https://en.wikipedia.org/wiki/Vijender_Singh
 
@@ -61,3 +61,6 @@ Singh’s Olympic medal was part of a longer amateur track record commonly highl
 ## Notes
 
 This article is a high-level overview based primarily on widely cited summaries. For detailed fight records, tournament brackets, and award citations, consult dedicated sports databases and primary reporting in addition to encyclopedic sources.[^1]
+
+
+## References

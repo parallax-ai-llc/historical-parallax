@@ -19,7 +19,7 @@ Cesare Battisti was an Italian left-wing militant convicted of four murders duri
 |------|-------|
 | 1954 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background and Context
@@ -49,3 +49,6 @@ Cesare Battisti was an Italian left-wing militant convicted of four murders duri
 ## Additional References
 - Wikipedia: Cesare Battisti (militant) — https://en.wikipedia.org/wiki/Cesare_Battisti_(militant)
 - Reporting and court summaries from Italian and international outlets covering his arrest (2019) and extradition proceedings.
+
+
+## References

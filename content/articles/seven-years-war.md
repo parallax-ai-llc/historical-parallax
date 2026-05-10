@@ -5,7 +5,7 @@ birth: "1756-05-17"
 death: "1763-02-10"
 nationality: "Global"
 occupation: ["Historical Event", "War", "Early Modern War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Seven_Years%27_War_Collage.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Seven_Years_War"
 lastUpdated: "2026-02-21"

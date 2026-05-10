@@ -21,7 +21,7 @@ Former Pakistani PM Benazir Bhutto was assassinated at a campaign rally in Rawal
 |------|-------|
 | 2007 | Bhutto assassinated at rally |
 
-## References
+
 
 [^1]: Wikipedia, "Benazir Bhutto Assassination" - https://en.wikipedia.org/wiki/Benazir_Bhutto_Assassination
 
@@ -56,3 +56,6 @@ Former Pakistani PM Benazir Bhutto was assassinated at a campaign rally in Rawal
 ## References (Additional)
 
 [^2]: Encyclopaedia Britannica, "Benazir Bhutto" - https://www.britannica.com/biography/Benazir-Bhutto
+
+
+## References

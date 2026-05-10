@@ -5,7 +5,7 @@ birth: "1968-11-17"
 death: "Unknown"
 nationality: "Chinese"
 occupation: ["Entrepreneur", "Technologist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Robin_Li_%282020%29.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Yanhong"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Duplicate — see Robin Li.
 |------|-------|
 | 1968 | See Robin Li |
 
-## References
+
 
 [^1]: Wikipedia, "Li Yanhong" - https://en.wikipedia.org/wiki/Li_Yanhong
 
@@ -53,3 +53,6 @@ This entry is intentionally minimal because the primary article is filed under t
 ## Additional References
 
 [^2]: Wikipedia, "Robin Li" - https://en.wikipedia.org/wiki/Robin_Li
+
+
+## References

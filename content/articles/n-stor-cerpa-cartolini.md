@@ -22,7 +22,7 @@ Peruvian Marxist guerrilla who led the 1996 Japanese embassy hostage crisis in L
 | 1996 | Led seizure of Japanese embassy in Lima |
 | 1997 | Killed during military rescue operation |
 
-## References
+
 
 [^1]: Wikipedia, "Néstor Cerpa Cartolini" - https://en.wikipedia.org/wiki/N%C3%A9stor_Cerpa_Cartolini
 
@@ -51,3 +51,6 @@ Peruvian Marxist guerrilla who led the 1996 Japanese embassy hostage crisis in L
 - The crisis is often compared with other long-running hostage negotiations, where time, media attention, and political incentives interact.
 - It is also used in case studies of special-operations planning and the risks of assaulting fortified urban sites.
 
+
+
+## References

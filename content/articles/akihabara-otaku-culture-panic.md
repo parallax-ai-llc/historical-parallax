@@ -21,7 +21,7 @@ After the Akihabara massacre, Japanese media blamed otaku culture and the intern
 |------|-------|
 | 2008 | Post-massacre cultural panic |
 
-## References
+
 
 [^1]: Wikipedia, "Akihabara Otaku Culture Panic" - https://en.wikipedia.org/wiki/Akihabara_Otaku_Culture_Panic
 
@@ -74,3 +74,6 @@ After the Akihabara massacre, Japanese media blamed otaku culture and the intern
 ## Additional References
 
 [^2]: Wikipedia, "Akihabara massacre" - https://en.wikipedia.org/wiki/Akihabara_massacre
+
+
+## References

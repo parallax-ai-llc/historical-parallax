@@ -22,7 +22,7 @@ Former Bulgarian PM with alleged ties to organized crime, repeatedly accused of 
 |------|-------|
 | 2022 | Arrested on corruption charges |
 
-## References
+
 
 [^1]: Wikipedia, "Boyko Borisov" - https://en.wikipedia.org/wiki/Boyko_Borisov
 
@@ -61,3 +61,6 @@ Borisov has faced recurring public allegations of corruption and improper ties, 
 - GERB (party background): https://en.wikipedia.org/wiki/GERB
 
 [^2]: Wikipedia, "GERB" - https://en.wikipedia.org/wiki/GERB
+
+
+## References

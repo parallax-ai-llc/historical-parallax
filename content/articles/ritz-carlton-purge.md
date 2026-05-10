@@ -21,7 +21,7 @@ MBS detained over 200 Saudi princes and businessmen at the Ritz-Carlton hotel in
 |------|-------|
 | 2017 | 200+ detained at Ritz-Carlton |
 
-## References
+
 
 [^1]: Wikipedia, "Ritz-Carlton Purge" - https://en.wikipedia.org/wiki/Ritz-Carlton_Purge
 
@@ -65,3 +65,6 @@ MBS detained over 200 Saudi princes and businessmen at the Ritz-Carlton hotel in
 
 [^2]: BBC News coverage (2017–2019), reporting on detentions and settlements - https://www.bbc.com/news
 [^3]: Reuters reporting (2017–2019), background on committee actions and releases - https://www.reuters.com/
+
+
+## References

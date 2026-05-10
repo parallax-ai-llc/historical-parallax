@@ -23,7 +23,7 @@ Choo Shin-soo had a successful MLB career with Cleveland and Texas, known for hi
 | 2010 | Hit for the cycle with Cleveland |
 | 2020 | Returned to KBO |
 
-## References
+
 
 [^1]: Wikipedia, "Choo Shin-soo" - https://en.wikipedia.org/wiki/Choo_Shin-soo
 
@@ -53,3 +53,6 @@ Choo Shin-soo had a successful MLB career with Cleveland and Texas, known for hi
 - Controversies or critical challenges (if applicable)
 - Later years and reassessment
 - Further reading: biographies, primary documents, or governing-body records (as applicable)
+
+
+## References

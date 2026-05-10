@@ -21,7 +21,7 @@ FBI secretly ran the ANOM encrypted phone platform used by criminals, reading 27
 |------|-------|
 | 2021 | 800 arrests worldwide |
 
-## References
+
 
 [^1]: Wikipedia, "ANOM Sting Operation" - https://en.wikipedia.org/wiki/ANOM_Sting_Operation
 
@@ -56,3 +56,6 @@ FBI secretly ran the ANOM encrypted phone platform used by criminals, reading 27
 
 - Public figures (device counts, countries involved, seizure totals) vary by source and by the time of reporting; official tallies evolved as cases progressed.
 - Details of technical implementation and evidentiary handling are not fully public, both for operational security and because many cases were (or remain) in court.
+
+
+## References

@@ -21,7 +21,7 @@ Boko Haram kidnapping of 276 schoolgirls from Chibok that sparked the #BringBack
 |------|-------|
 | 2014 | 276 girls kidnapped from school |
 
-## References
+
 
 [^1]: Wikipedia, "Chibok Girls Kidnapping" - https://en.wikipedia.org/wiki/Chibok_Girls_Kidnapping
 
@@ -77,3 +77,6 @@ The kidnapping became a defining episode of the Boko Haram insurgency and an emb
 - Boko Haram insurgency in northeastern Nigeria
 - Attacks on education facilities in conflict zones
 - #BringBackOurGirls campaign
+
+
+## References

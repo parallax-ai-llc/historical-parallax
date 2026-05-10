@@ -22,7 +22,7 @@ Duplicate.
 |------|-------|
 | 1944 | See Dietrich Mateschitz |
 
-## References
+
 
 [^1]: Wikipedia, "Dietrich Mateschitz dup4" - https://en.wikipedia.org/wiki/Dietrich_Mateschitz_dup4
 
@@ -69,3 +69,6 @@ The link in frontmatter and the reference footnote uses a "*_dup4" suffix. The c
 ## Additional References
 
 [^2]: General background on Dietrich Mateschitz and Red Bull is widely covered in major business and sports-business reporting; when consolidating duplicates, prefer the canonical biography entry and official Red Bull corporate materials for baseline facts.
+
+
+## References

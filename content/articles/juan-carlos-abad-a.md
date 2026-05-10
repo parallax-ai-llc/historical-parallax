@@ -21,7 +21,7 @@ Known as 'Chupeta,' Norte del Valle Cartel leader who had extensive plastic surg
 |------|-------|
 | 2007 | Captured in Brazil |
 
-## References
+
 
 [^1]: Wikipedia, "Juan Carlos Abadía" - https://en.wikipedia.org/wiki/Juan_Carlos_Abad%C3%ADa
 
@@ -80,3 +80,6 @@ Abadía is often cited in discussions of:
 ## References (additional)
 
 - Public summaries and secondary reporting commonly repeat the “Chupeta” alias, the Norte del Valle leadership framing, and the 2007 Brazil arrest.
+
+
+## References

@@ -23,7 +23,7 @@ Sandeep Singh was an Indian field hockey player known for his powerful drag flic
 | 2008 | Made remarkable comeback to hockey |
 | 2009 | Captained India at various events |
 
-## References
+
 
 [^1]: Wikipedia, "Sandeep Singh" - https://en.wikipedia.org/wiki/Sandeep_Singh
 
@@ -48,3 +48,6 @@ Singh’s career is commonly situated within this rebuilding period, when teams 
 Beyond match statistics, Singh is referenced in Indian sports media as an example of a specialist whose skill set can alter game plans.
 His captaincy roles also indicate a level of trust placed in him by selectors and teammates.
 He is often listed among notable Indian defenders or drag-flickers of his generation.
+
+
+## References

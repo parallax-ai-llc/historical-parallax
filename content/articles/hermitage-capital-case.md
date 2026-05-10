@@ -22,7 +22,7 @@ Bill Browder's Hermitage Capital was targeted by Russian officials who stole $23
 | 2008 | Tax fraud exposed |
 | 2012 | Browder campaigned for Magnitsky Act |
 
-## References
+
 
 [^1]: Wikipedia, "Hermitage Capital Case" - https://en.wikipedia.org/wiki/Hermitage_Capital_Case
 
@@ -57,3 +57,6 @@ The case is frequently used as an example of how:
 - financial crime and state power can intertwine
 - whistleblowing/investigative work can trigger retaliation risks
 - sanctions regimes evolved toward naming individual perpetrators rather than only states
+
+
+## References

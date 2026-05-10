@@ -21,7 +21,7 @@ American drug dealer who served as courier for Soviet spy Christopher Boyce.
 |------|-------|
 | 1977 | Convicted of espionage |
 
-## References
+
 
 [^1]: Wikipedia, "Andrew Daulton Lee" - https://en.wikipedia.org/wiki/Andrew_Daulton_Lee
 
@@ -52,3 +52,6 @@ American drug dealer who served as courier for Soviet spy Christopher Boyce.
 - Cold War espionage (United States–Soviet Union)
 - Christopher John Boyce
 - Espionage prosecutions in the 1970s
+
+
+## References

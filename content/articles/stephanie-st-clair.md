@@ -24,7 +24,7 @@ Caribbean-American crime boss known as Queenie who ran a numbers racket in Harle
 | 1940 | Retired from criminal life |
 | 1969 | Died in New York City |
 
-## References
+
 
 [^1]: Wikipedia, "Stephanie St Clair" - https://en.wikipedia.org/wiki/Stephanie_St_Clair
 
@@ -49,3 +49,6 @@ St. Clair’s story has been revisited in studies of Harlem history, women in or
 - Prominent Harlem numbers operator during the early-to-mid 20th century.
 - Known for conflict with rival racketeers and for challenging police corruption.
 - Remembered as an influential Black woman in an era dominated by male criminal leadership.
+
+
+## References

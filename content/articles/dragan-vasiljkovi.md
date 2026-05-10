@@ -24,7 +24,7 @@ Serbian-Australian paramilitary leader known as Captain Dragan who trained and l
 | 2015 | Extradited to Croatia |
 | 2017 | Convicted of war crimes, sentenced to 15.5 years |
 
-## References
+
 
 [^1]: Wikipedia, "Dragan Vasiljković" - https://en.wikipedia.org/wiki/Dragan_Vasiljkovi%C4%87
 
@@ -50,3 +50,6 @@ The Vasiljković case is often cited in discussions of:
 ## Notes on Terminology
 
 In summaries of the Yugoslav wars, the term “paramilitary” can cover a wide range of formations, from loosely organized militias to units that coordinated closely with state security structures. This ambiguity is part of why individual cases often focus carefully on command relationships, orders, and the practical control exercised over perpetrators.
+
+
+## References

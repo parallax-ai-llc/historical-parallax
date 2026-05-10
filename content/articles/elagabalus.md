@@ -22,7 +22,7 @@ Roman emperor whose brief reign was marked by extreme debauchery and cruelty. As
 | 218 | Became emperor at 14 |
 | 222 | Assassinated by Praetorian Guard |
 
-## References
+
 
 [^1]: Wikipedia, "Elagabalus" - https://en.wikipedia.org/wiki/Elagabalus
 
@@ -87,3 +87,6 @@ Accounts of Elagabalus frequently emphasize religious policy and the emperor’s
 ## Sources and interpretation
 
 Ancient historiography is uneven: some surviving narratives were written long after the events, sometimes with rhetorical goals rather than neutral reporting. As a result, biographies of Elagabalus often include a discussion of source reliability and how later writers shaped the emperor’s reputation.
+
+
+## References

@@ -22,7 +22,7 @@ Canadian Sikh extremist who was the only person convicted for the 1985 Air India
 | 1991 | Convicted of manslaughter |
 | 2003 | Convicted of perjury |
 
-## References
+
 
 [^1]: Wikipedia, "Inderjit Singh Reyat" - https://en.wikipedia.org/wiki/Inderjit_Singh_Reyat
 
@@ -49,3 +49,6 @@ The Air India proceedings are commonly referenced in Canadian inquiries and comm
 - Air India Flight 182
 - Terrorism prosecutions in Canada
 - Sikh separatist extremism (historical context)
+
+
+## References

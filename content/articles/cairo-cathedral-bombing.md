@@ -21,7 +21,7 @@ ISIS-linked bombing of a Coptic Christian cathedral in Cairo killing 29 worshipp
 |------|-------|
 | 2016 | Bombed Cairo cathedral killing 29 |
 
-## References
+
 
 [^1]: Wikipedia, "Cairo Cathedral Bombing" - https://en.wikipedia.org/wiki/Cairo_Cathedral_Bombing
 
@@ -51,3 +51,6 @@ ISIS-linked bombing of a Coptic Christian cathedral in Cairo killing 29 worshipp
 |------|-------|
 | 2016-12-11 | Bombing at Saint Peter and Saint Paul Church (Cairo) during a service; 29 killed |
 | 2016 | Attack publicly attributed to ISIS-linked militants; investigations and arrests reported |
+
+
+## References

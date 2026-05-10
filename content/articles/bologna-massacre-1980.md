@@ -21,7 +21,7 @@ Neo-fascist bomb destroyed the waiting room of Bologna railway station, killing 
 |------|-------|
 | 1980 | 85 killed in Bologna station bombing |
 
-## References
+
 
 [^1]: Wikipedia, "Bologna Massacre 1980" - https://en.wikipedia.org/wiki/Bologna_Massacre_1980
 
@@ -66,3 +66,6 @@ Neo-fascist bomb destroyed the waiting room of Bologna railway station, killing 
 
 - This article describes a terrorist bombing and its historical significance; it does not provide operational details beyond widely reported high-level facts.
 - For a detailed chronology of proceedings and named individuals, consult the reference link and associated Italian court reporting.
+
+
+## References

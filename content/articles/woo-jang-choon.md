@@ -26,7 +26,7 @@ Woo Jang-choon (U Nagaharu) was a Korean-Japanese botanist and geneticist who pr
 | 1950 | Moved to South Korea to advance agriculture |
 | 1959 | Died in South Korea |
 
-## References
+
 
 [^1]: Wikipedia, "Woo Jang-choon" - https://en.wikipedia.org/wiki/Woo_Jang-choon
 
@@ -50,3 +50,6 @@ Woo’s legacy is often cited in the context of modern Korean agricultural devel
 
 ## Notes
 
+
+
+## References

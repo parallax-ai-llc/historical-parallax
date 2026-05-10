@@ -5,7 +5,7 @@ birth: "1955-02-14"
 death: "Unknown"
 nationality: "South Korea"
 occupation: ["Corrupt Businessman"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Shin_Dong-Bin.jpg/3840px-Shin_Dong-Bin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shin_Dong-bin"
 lastUpdated: "2026-02-26"

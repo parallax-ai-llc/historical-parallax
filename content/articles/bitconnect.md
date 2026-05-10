@@ -23,7 +23,7 @@ Cryptocurrency Ponzi scheme that defrauded investors of $2.4 billion by promisin
 | 2018 | Shut down |
 | 2022 | Founder Satish Kumbhani indicted |
 
-## References
+
 
 [^1]: Wikipedia, "Bitconnect" - https://en.wikipedia.org/wiki/Bitconnect
 
@@ -51,3 +51,6 @@ Cryptocurrency Ponzi scheme that defrauded investors of $2.4 billion by promisin
 ## References (Additional)
 
 [^2]: U.S. Department of Justice press releases on Bitconnect-related prosecutions - https://www.justice.gov/
+
+
+## References

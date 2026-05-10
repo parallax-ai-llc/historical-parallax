@@ -24,7 +24,7 @@ Paavo Nurmi, the 'Flying Finn,' won nine Olympic gold medals and set 22 world re
 | 1928 | Won gold in 10,000m at Amsterdam |
 | 1952 | Lit Olympic flame at Helsinki |
 
-## References
+
 
 [^1]: Wikipedia, "Paavo Nurmi" - https://en.wikipedia.org/wiki/Paavo_Nurmi
 
@@ -49,3 +49,6 @@ Nurmi became a symbol of Finnish athletic excellence and a defining figure in th
 - Wikipedia article linked above for a detailed chronology and additional references.
 - Biographical dictionaries or subject-specific histories (physics, sport, art history, cybersecurity, or philosophy) for broader context.
 
+
+
+## References

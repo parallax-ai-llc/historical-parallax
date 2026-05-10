@@ -23,7 +23,7 @@ French serial killer known as 'The Beast of the Bastille' who raped and murdered
 | 1998 | Arrested via DNA match |
 | 2001 | Convicted; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Guy Georges" - https://en.wikipedia.org/wiki/Guy_Georges
 
@@ -48,3 +48,6 @@ In public discussion, the case is frequently referenced in relation to:
 - the development and acceptance of DNA databases and forensic practice
 - policing challenges in linking serial offenses across time and locations
 - media coverage and public fear during periods of unsolved violent crime
+
+
+## References

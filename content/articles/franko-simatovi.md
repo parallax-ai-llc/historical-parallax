@@ -24,7 +24,7 @@ Former Serbian intelligence officer convicted alongside Jovica Stanišić for ai
 | 2021 | Convicted of aiding and abetting war crimes |
 | 2021 | Sentenced to 12 years |
 
-## References
+
 
 [^1]: Wikipedia, "Franko Simatović" - https://en.wikipedia.org/wiki/Franko_Simatovi%C4%87
 
@@ -49,3 +49,6 @@ Convictions of senior security officials were viewed as important precedents for
 - International Criminal Tribunal for the former Yugoslavia (ICTY)
 - Yugoslav Wars
 - Command responsibility and aiding-and-abetting doctrines
+
+
+## References

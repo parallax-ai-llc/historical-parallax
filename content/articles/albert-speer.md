@@ -24,7 +24,7 @@ German architect and Nazi minister of armaments who used slave labor from concen
 | 1946 | Convicted at Nuremberg; sentenced to 20 years |
 | 1966 | Released from Spandau Prison |
 
-## References
+
 
 [^1]: Wikipedia, "Albert Speer" - https://en.wikipedia.org/wiki/Albert_Speer
 
@@ -49,3 +49,6 @@ Speer remains a prominent case study for:
 - the industrial and logistical dimensions of total war
 
 In biographies and museum contexts, Speer is also discussed in relation to architectural propaganda and the aesthetics of power, illustrating how cultural production and state violence can reinforce one another.
+
+
+## References

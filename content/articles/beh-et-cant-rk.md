@@ -43,7 +43,7 @@ Kurdish-Turkish drug lord and one of the largest heroin traffickers in Europe, k
 
 - Wikipedia reports he was abducted on 14 Jan 1994 by assailants dressed like police and that his body was found the next day near Sapanca, Turkey.
 
-## References
+
 
 [^1]: Wikipedia, "Behçet Cantürk" - https://en.wikipedia.org/wiki/Beh%C3%A7et_Cant%C3%BCrk
 [^2]: Wikipedia ("See also"), Susurluk scandal - https://en.wikipedia.org/wiki/Susurluk_scandal
@@ -51,3 +51,6 @@ Kurdish-Turkish drug lord and one of the largest heroin traffickers in Europe, k
 ## See also
 
 - Kısmetim-1 incident - https://en.wikipedia.org/wiki/K%C4%B1smetim-1_incident
+
+
+## References

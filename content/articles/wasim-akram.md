@@ -23,7 +23,7 @@ Wasim Akram is the greatest fast bowler in limited-overs cricket with 502 ODI wi
 | 1992 | Named Man of the Match in World Cup final |
 | 2003 | Retired with 502 ODI and 414 Test wickets |
 
-## References
+
 
 [^1]: Wikipedia, "Wasim Akram" - https://en.wikipedia.org/wiki/Wasim_Akram
 
@@ -52,3 +52,6 @@ After retirement, he remained active as a commentator and cricket analyst, and h
 ## Legacy
 
 Akram's legacy is frequently described in terms of influence: his style and success helped establish a model for Pakistani pace bowling, and his technical skill with swing remains a reference point for players and coaches.
+
+
+## References

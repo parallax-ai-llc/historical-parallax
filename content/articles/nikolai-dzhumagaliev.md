@@ -23,7 +23,7 @@ Kazakh serial killer known as 'Metal Fang' who murdered and cannibalized at leas
 | 1980 | Arrested after guests found human remains in his fridge |
 | 1981 | Found criminally insane; committed to institution |
 
-## References
+
 
 [^1]: Wikipedia, "Nikolai Dzhumagaliev" - https://en.wikipedia.org/wiki/Nikolai_Dzhumagaliev
 
@@ -48,3 +48,6 @@ Kazakh serial killer known as 'Metal Fang' who murdered and cannibalized at leas
 This profile summarizes widely circulated secondary reporting; additional detail should be corroborated with court, medical, or archival sources where available.
 
 Where possible, use reputable historical journalism and academic summaries to avoid repeating sensationalized claims.
+
+
+## References

@@ -24,7 +24,7 @@ Naim Süleymanoğlu won three consecutive Olympic golds (1988-1996), set 46 worl
 | 1996 | Won third Olympic gold |
 | 2017 | Died of liver failure |
 
-## References
+
 
 [^1]: Wikipedia, "Naim Süleymanoğlu" - https://en.wikipedia.org/wiki/Naim_S%C3%BCleymano%C4%9Flu
 
@@ -48,3 +48,6 @@ This article is intentionally high level. For precise record lists and event-by-
 - The structure of Olympic qualification and how weight classes affect strategy.
 - The historical evolution of weightlifting rules, judging, and anti-doping controls.
 - Athlete defection and asylum in international sport during the Cold War era.
+
+
+## References

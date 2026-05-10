@@ -23,7 +23,7 @@ Ivar Giaever shared the 1973 Nobel Prize for discovering tunneling in supercondu
 | 1960 | Discovered tunneling in superconductors |
 | 1973 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Ivar Giaever" - https://en.wikipedia.org/wiki/Ivar_Giaever
 
@@ -60,3 +60,6 @@ Ivar Giaever shared the 1973 Nobel Prize for discovering tunneling in supercondu
 
 [^2]: The Nobel Prize, "The Nobel Prize in Physics 1973" - https://www.nobelprize.org/prizes/physics/1973/summary/
 [^3]: Wikipedia, "Ivar Giaever" - https://en.wikipedia.org/wiki/Ivar_Giaever
+
+
+## References

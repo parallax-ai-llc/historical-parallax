@@ -23,7 +23,7 @@ Alain Mimoun, born in Algeria, won the 1956 Olympic marathon for France after fi
 | 1952 | Won two Olympic silvers behind Zátopek |
 | 1956 | Won Olympic marathon gold at Melbourne |
 
-## References
+
 
 [^1]: Wikipedia, "Alain Mimoun" - https://en.wikipedia.org/wiki/Alain_Mimoun
 
@@ -48,3 +48,6 @@ In French athletics, Mimoun is remembered as one of the country’s premier dist
 ## Notes
 
 Medal counts and event distances are typically well documented for Olympic competition; narrative details about training and personal life vary by biography.
+
+
+## References

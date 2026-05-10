@@ -21,7 +21,7 @@ Duplicate — see Tadashi Yanai.
 |------|-------|
 | 1949 | See Tadashi Yanai entry |
 
-## References
+
 
 [^1]: Wikipedia, "Tadashi Yanai duplicate" - https://en.wikipedia.org/wiki/Tadashi_Yanai_duplicate
 
@@ -51,3 +51,6 @@ If this repository is later expanded with verified facts:
 - Confirm that `birth`, `death`, and `occupation` fields match the canonical profile.
 - Ensure references point to real, resolvable pages.
 - Avoid copying timelines across duplicates; timelines should live in one place.
+
+
+## References

@@ -21,7 +21,7 @@ Trinidad gang leader who commanded a large criminal organization in east Port of
 |------|-------|
 | 2017 | Killed in gang violence |
 
-## References
+
 
 [^1]: Wikipedia, "Mark Guerra" - https://en.wikipedia.org/wiki/Mark_Guerra
 
@@ -50,3 +50,6 @@ This article uses the term **gang leader** in a broad, descriptive sense. In man
 - Crime in Trinidad and Tobago
 - Port of Spain
 - Organized crime
+
+
+## References

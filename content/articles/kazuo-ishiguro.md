@@ -5,7 +5,7 @@ birth: "1954-11-08"
 death: "Unknown"
 nationality: "Japanese-British"
 occupation: ["Novelist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/8/86/MKr377543_Kazuo_Ishiguro_%28A_Pale_View_of_Hills%2C_Cannes_2025%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kazuo_Ishiguro"
 lastUpdated: "2026-02-21"

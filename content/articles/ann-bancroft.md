@@ -23,7 +23,7 @@ Ann Bancroft was the first woman to reach the North Pole by dogsled (1986) and t
 | 1993 | Led first all-women expedition to South Pole |
 | 2001 | Attempted cross-Antarctic ski expedition |
 
-## References
+
 
 [^1]: Wikipedia, "Ann Bancroft" - https://en.wikipedia.org/wiki/Ann_Bancroft
 
@@ -49,3 +49,6 @@ Bancroft also undertook expeditions with other prominent polar explorers, includ
 ## Legacy
 
 In popular accounts of exploration history, Bancroft is frequently cited as a "first" in polar achievement and as a figure who broadened the cultural image of who can lead and succeed in extreme-environment expeditions.
+
+
+## References

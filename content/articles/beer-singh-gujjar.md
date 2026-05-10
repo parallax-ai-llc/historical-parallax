@@ -22,7 +22,7 @@ Last major dacoit of the Chambal Valley who operated until the 2000s when most b
 | 1985 | Led dacoit gang in Chambal Valley |
 | 2005 | Killed in police operation |
 
-## References
+
 
 [^1]: Wikipedia, "Beer Singh Gujjar" - https://en.wikipedia.org/wiki/Beer_Singh_Gujjar
 
@@ -49,3 +49,6 @@ After such operations, the region's public narrative often shifts from outlaw fo
 - rehabilitation of former gang members
 - long-term governance and development of ravine communities
 - the role of media depictions in mythologizing bandit figures
+
+
+## References

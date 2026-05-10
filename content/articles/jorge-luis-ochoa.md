@@ -28,7 +28,7 @@ Jorge Luis Ochoa Vásquez was a co-founder of the Medellín Cartel. He surrender
 | 1991 | Surrenders to Colombian authorities amid shifting legal incentives and negotiations. |
 | 1996 | Released after serving a prison term in Colombia; U.S. extradition efforts do not succeed. |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: Wikipedia contributors, "Jorge Luis Ochoa," Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Jorge_Luis_Ochoa
 
@@ -49,3 +49,6 @@ Jorge Luis Ochoa Vásquez was a co-founder of the Medellín Cartel. He surrender
 ### Notes on Dates and Names
 - This file retains the frontmatter birth field as-is, but many sources cite his birth date as 30 September 1950 (Medellín).[^2]
 - Spanish naming conventions: Ochoa (paternal surname) and Vásquez (maternal surname) may be inconsistently rendered across English-language sources.
+
+
+## References

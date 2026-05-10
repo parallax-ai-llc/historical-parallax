@@ -5,7 +5,7 @@ birth: "1913-10-22"
 death: "1954-05-25"
 nationality: "Hungarian-American"
 occupation: ["Photographer", "Photojournalist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/63/RobertCapabyGerdaTaro.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Robert_Capa"
 lastUpdated: "2026-02-21"

@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1983 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Kevin Systrom duplicate" - https://en.wikipedia.org/wiki/Kevin_Systrom_duplicate
 
@@ -77,3 +77,5 @@ Kevin Systrom (born 1983) is an American entrepreneur best known as the co-found
 ### Scope note
 
 This file intentionally preserves the "Duplicate" label in the summary to reflect its provenance in the dataset, while providing enough context to understand the intended subject.
+
+## References

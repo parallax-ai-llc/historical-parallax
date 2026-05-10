@@ -5,7 +5,7 @@ birth: "1935-05-22"
 death: "2022-06-27"
 nationality: "Italian"
 occupation: ["Entrepreneur", "Industrialist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Leonardo_Del_Vecchio_giovane.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio"
 lastUpdated: "2026-02-21"

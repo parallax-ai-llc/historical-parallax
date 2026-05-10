@@ -5,7 +5,7 @@ birth: "1966-08-25"
 death: "Unknown"
 nationality: "Poland"
 occupation: ["Serial Killer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/LeszekPekalski.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leszek_P%C4%99kalski"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Polish serial killer suspected of over 70 murders across northern Poland, convic
 |------|-------|
 | 1992 | Arrested for suspected 70+ murders |
 
-## References
+
 
 [^1]: Wikipedia, "Leszek Pękalski" - https://en.wikipedia.org/wiki/Leszek_P%C4%99kalski
 
@@ -58,3 +58,6 @@ Polish serial killer suspected of over 70 murders across northern Poland, convic
 
 [^2]: Eric W. Hickey, *Serial Murderers and Their Victims* (5th ed.), Cengage Learning (2009) — cited in Wikipedia.
 [^3]: "Wampir z Bytowa, Leszek Pękalski" (TVN24 / Superwizjer report, 2017) — cited in Wikipedia.
+
+
+## References

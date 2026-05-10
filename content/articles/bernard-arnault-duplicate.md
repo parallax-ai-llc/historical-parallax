@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1949 | See Bernard Arnault |
 
-## References
+
 
 [^1]: Wikipedia, "Bernard Arnault duplicate" - https://en.wikipedia.org/wiki/Bernard_Arnault_duplicate
 
@@ -64,3 +64,6 @@ Bernard Arnault is known for building and leading **LVMH Mot Hennessy Louis Vui
 ## References (additional)
 
 - Wikipedia: Bernard Arnault  https://en.wikipedia.org/wiki/Bernard_Arnault
+
+
+## References

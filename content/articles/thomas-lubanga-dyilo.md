@@ -21,7 +21,7 @@ First person convicted by the ICC for conscripting child soldiers in Congo.
 |------|-------|
 | 2012 | First ICC conviction |
 
-## References
+
 
 [^1]: Wikipedia, "Thomas Lubanga Dyilo" - https://en.wikipedia.org/wiki/Thomas_Lubanga_Dyilo
 
@@ -73,3 +73,6 @@ Lubanga’s proceedings are frequently cited in discussions of the ICC because t
 - International Criminal Court (ICC)
 - Ituri conflict
 - Child soldiers in international humanitarian law
+
+
+## References

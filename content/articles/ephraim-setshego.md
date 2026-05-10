@@ -22,7 +22,7 @@ South African serial killer known as the 'Atteridgeville Mutilator' who murdered
 | 1999 | Committed series of murders and mutilations in Atteridgeville township |
 | 2001 | Convicted of multiple counts of murder and sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Ephraim Setshego" - https://en.wikipedia.org/wiki/Ephraim_Setshego
 
@@ -51,3 +51,6 @@ South African serial killer known as the 'Atteridgeville Mutilator' who murdered
 ## See also
 
 - List of serial killers by country
+
+
+## References

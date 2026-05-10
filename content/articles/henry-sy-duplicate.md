@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1924 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Henry Sy duplicate" - https://en.wikipedia.org/wiki/Henry_Sy_duplicate
 
@@ -57,3 +57,6 @@ confuse a placeholder entry with the canonical subject.
 
 [^2]: Wikipedia, "Henry Sy" - https://en.wikipedia.org/wiki/Henry_Sy
 [^3]: SM Investments Corporation (company overview) - https://www.sminvestments.com/
+
+
+## References

@@ -23,7 +23,7 @@ Rwandan military commander who led the FDLR rebel group in eastern Congo and was
 | 2012 | ICC arrest warrant issued for war crimes |
 | 2019 | Killed by Congolese forces in South Kivu |
 
-## References
+
 
 [^1]: Wikipedia, "Sylvestre Mudacumura" - https://en.wikipedia.org/wiki/Sylvestre_Mudacumura
 
@@ -56,3 +56,6 @@ Mudacumura was reported killed in 2019 by Congolese security forces during an op
 ## Notes on Sources
 
 For precise legal allegations and evidentiary findings, ICC filings and warrant materials are the best primary references; many public summaries provide only high-level outlines.
+
+
+## References

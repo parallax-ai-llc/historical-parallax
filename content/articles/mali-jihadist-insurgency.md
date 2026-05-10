@@ -22,7 +22,7 @@ Tuareg separatists and jihadist groups seized northern Mali before French interv
 | 2012 | Northern Mali seized |
 | 2013 | French military intervention |
 
-## References
+
 
 [^1]: Wikipedia, "Mali Jihadist Insurgency" - https://en.wikipedia.org/wiki/Mali_Jihadist_Insurgency
 
@@ -51,3 +51,6 @@ The violence has contributed to civilian casualties, displacement, and disruptio
 - Sahel security crisis
 - MINUSMA
 - French military operations in the Sahel
+
+
+## References

@@ -22,7 +22,7 @@ English pirate who converted to Islam and became one of the most notorious Barba
 | 1603 | Became pirate |
 | 1610 | Converted to Islam in Tunis |
 
-## References
+
 
 [^1]: Wikipedia, "Jack Ward" - https://en.wikipedia.org/wiki/Jack_Ward
 
@@ -48,3 +48,6 @@ English pirate who converted to Islam and became one of the most notorious Barba
 - The role of religion and allegiance as flexible categories in early modern Mediterranean conflict.
 
 This article is a high-level overview and does not attempt to reconcile all competing narratives in the early modern source record.
+
+
+## References

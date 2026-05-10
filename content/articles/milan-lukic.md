@@ -23,7 +23,7 @@ Bosnian Serb war criminal who led the Visegrad massacres, locking Bosniak civili
 | 2005 | Arrested in Argentina |
 | 2009 | Sentenced to life by ICTY |
 
-## References
+
 
 [^1]: Wikipedia, "Milan Lukic" - https://en.wikipedia.org/wiki/Milan_Lukic
 
@@ -56,3 +56,6 @@ In 2009, the ICTY sentenced Lukic to life imprisonment. The case is frequently c
 - Bosnian War
 - International Criminal Tribunal for the former Yugoslavia (ICTY)
 - Višegrad (1992 violence and displacement)
+
+
+## References

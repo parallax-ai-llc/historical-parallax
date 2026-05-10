@@ -5,7 +5,7 @@ birth: "1958-05-04"
 death: "1990-02-16"
 nationality: "American"
 occupation: ["Painter", "Activist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Haringpalladium_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Keith_Haring"
 lastUpdated: "2026-02-21"

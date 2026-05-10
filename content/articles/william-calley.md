@@ -23,7 +23,7 @@ US Army lieutenant convicted for the 1968 My Lai Massacre in Vietnam, where Amer
 | 1971 | Convicted of murder; sentenced to life |
 | 1974 | Released on house arrest after 3.5 years |
 
-## References
+
 
 [^1]: Wikipedia, "William Calley" - https://en.wikipedia.org/wiki/William_Calley
 
@@ -52,3 +52,6 @@ My Lai and the Calley trial remain central reference points in journalism, schol
 
 - My Lai Massacre
 - U.S. military justice system
+
+
+## References

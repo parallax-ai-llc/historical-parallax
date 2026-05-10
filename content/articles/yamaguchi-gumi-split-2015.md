@@ -21,7 +21,7 @@ Japan's largest yakuza group split when 13 senior members broke away to form the
 |------|-------|
 | 2015 | Yamaguchi-gumi split |
 
-## References
+
 
 [^1]: Wikipedia, "Yamaguchi-gumi Split 2015" - https://en.wikipedia.org/wiki/Yamaguchi-gumi_Split_2015
 
@@ -60,3 +60,6 @@ High-profile organizational splits can amplify public scrutiny and lead to addit
 The 2015 Yamaguchi-gumi split is notable as a modern example of how internal disputes can produce durable rival organizations rather than temporary breakaway groups.[^1]
 
 It is also frequently cited in discussions of contemporary yakuza structure, including how federated syndicates manage alliances and internal discipline under sustained legal pressure.[^1]
+
+
+## References

@@ -44,10 +44,13 @@ Nigerian Hausa musician and praise singer who was imprisoned multiple times for 
 - Shata remains a widely referenced figure in Hausa cultural history and Nigerian popular music.
 - He is often cited as an example of how artists can function as historians of everyday politics, preserving public debates and social tensions in song.
 
-## References
+
 
 [^1]: Wikipedia, "Mamman Shata" - https://en.wikipedia.org/wiki/Mamman_Shata
 
 ## See also
 
 - Hausa music
+
+
+## References

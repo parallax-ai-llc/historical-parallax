@@ -21,7 +21,7 @@ Trump campaign lawyer who pleaded guilty to aiding and abetting false statements
 |------|-------|
 | 2023 | Pleaded guilty in Georgia case |
 
-## References
+
 
 [^1]: Wikipedia, "Jenna Ellis" - https://en.wikipedia.org/wiki/Jenna_Ellis
 
@@ -55,3 +55,6 @@ This article summarizes high-level, widely reported facts and should be read alo
 
 [^2]: Fulton County (Georgia) election-interference case coverage and plea reporting (see: major wire services and court docket summaries).
 [^3]: Court decisions and official statements on 2020 election challenges and recounts (see: state election offices and published judicial opinions).
+
+
+## References

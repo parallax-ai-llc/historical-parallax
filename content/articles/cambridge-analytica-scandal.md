@@ -23,7 +23,7 @@ Political consulting firm that harvested personal data of 87 million Facebook us
 | 2018 | Scandal exposed by whistleblower |
 | 2018 | Cambridge Analytica shut down |
 
-## References
+
 
 [^1]: Wikipedia, "Cambridge Analytica Scandal" - https://en.wikipedia.org/wiki/Cambridge_Analytica_Scandal
 
@@ -74,3 +74,6 @@ Claims about the direct electoral impact of targeted advertising and data profil
 ## Additional references
 
 (See the reference section above.)
+
+
+## References

@@ -22,7 +22,7 @@ Ingush journalist and website owner who was shot dead while in police custody in
 | 2008 | Detained by police |
 | 2008 | Shot dead in custody |
 
-## References
+
 
 [^1]: Wikipedia, "Magomed Yevloyev" - https://en.wikipedia.org/wiki/Magomed_Yevloyev
 
@@ -53,3 +53,6 @@ These notes add high-level, factual context based on widely available public sum
 ## References (additional)
 
 - The linked Wikipedia page in the frontmatter is a starting point and typically aggregates citations to other sources.
+
+
+## References

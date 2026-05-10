@@ -20,7 +20,7 @@ Duplicate.
 |------|-------|
 | 1931 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Herbert Kelleher dup" - https://en.wikipedia.org/wiki/Herbert_Kelleher_dup
 
@@ -59,3 +59,6 @@ Duplicate.
 
 - Wikipedia, "Herbert D. Kelleher" — https://en.wikipedia.org/wiki/Herbert_D._Kelleher
 - Southwest Airlines (company background, histories, and investor materials may summarize leadership history)
+
+
+## References

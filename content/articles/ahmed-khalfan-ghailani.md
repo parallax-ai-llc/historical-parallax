@@ -21,7 +21,7 @@ Tanzanian al-Qaeda operative convicted of conspiracy in the 1998 US embassy bomb
 |------|-------|
 | 2010 | Convicted in civilian court for embassy bombing |
 
-## References
+
 
 [^1]: Wikipedia, "Ahmed Khalfan Ghailani" - https://en.wikipedia.org/wiki/Ahmed_Khalfan_Ghailani
 
@@ -52,3 +52,6 @@ Tanzanian al-Qaeda operative convicted of conspiracy in the 1998 US embassy bomb
 
 [^2]: U.S. Department of Justice press materials and case summaries on the 2010 verdict (SDNY) (see DOJ archives).
 [^3]: Federal court docket and reporting around the 2009–2011 proceedings in the Southern District of New York.
+
+
+## References

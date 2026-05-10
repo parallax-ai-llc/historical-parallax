@@ -22,7 +22,7 @@ David Rudisha set the 800m world record of 1:40.91 at the 2012 London Olympics i
 | 2010 | Set first 800m world record |
 | 2012 | Won Olympic gold with WR of 1:40.91 at London |
 
-## References
+
 
 [^1]: Wikipedia, "David Rudisha" - https://en.wikipedia.org/wiki/David_Rudisha
 
@@ -51,3 +51,6 @@ In elite 800m racing, athletes must manage positioning, pace surges, and lane br
 - committing early to a fast pace to avoid traffic;
 - maintaining form through the second lap as fatigue rises;
 - reducing the opportunity for late-race jostling.
+
+
+## References

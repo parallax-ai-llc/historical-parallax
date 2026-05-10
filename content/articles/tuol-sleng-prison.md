@@ -23,7 +23,7 @@ Former school in Phnom Penh converted by the Khmer Rouge into Security Prison 21
 | 1979 | Discovered by Vietnamese forces |
 | 1980 | Became genocide museum |
 
-## References
+
 
 [^1]: Wikipedia, "Tuol Sleng Prison" - https://en.wikipedia.org/wiki/Tuol_Sleng_Prison
 
@@ -53,3 +53,6 @@ Tuol Sleng, also known as **Security Prison 21 (S-21)**, was operated during the
 - Date/period: see the summary and timeline above.
 - Place: see the summary above.
 - Key actors: see the summary above.
+
+
+## References

@@ -3,6 +3,7 @@ name: "Kendall Jenner"
 birth: "1995-11-03"
 nationality: "American"
 occupation: ["Model", "Media Personality", "Entrepreneur"]
+image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Kendall_Jenner_for_Adanola_2_%28cropped%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kendall_Jenner"
 lastUpdated: "2026-03-12"

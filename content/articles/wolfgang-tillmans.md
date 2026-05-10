@@ -26,7 +26,7 @@ German photographer who won the Turner Prize in 2000, the first photographer and
 | 2017 | Major retrospective at Tate Modern |
 | 2022 | Creates Truth Study Center installations |
 
-## References
+
 
 [^1]: Wikipedia, "Wolfgang Tillmans" - https://en.wikipedia.org/wiki/Wolfgang_Tillmans
 
@@ -49,3 +49,6 @@ His influence is frequently discussed in relation to photography’s move toward
 
 ## Notes
 
+
+
+## References

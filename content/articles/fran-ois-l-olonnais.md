@@ -23,7 +23,7 @@ French pirate considered one of the most brutal buccaneers of the Caribbean. He 
 | 1667 | Sacked Maracaibo and Gibraltar, Venezuela |
 | 1669 | Killed and reportedly eaten by cannibals in Panama |
 
-## References
+
 
 [^1]: Wikipedia, "François l'Olonnais" - https://en.wikipedia.org/wiki/Fran%C3%A7ois_l'Olonnais
 
@@ -55,3 +55,6 @@ Much of what is popularly repeated about l'Olonnais comes from early-modern pira
 ### Why he is remembered
 
 Even among a cohort of violent buccaneers, l'Olonnais is often singled out as an extreme case, making him a recurring example in discussions of piracy as both organized predation and theatrical myth.
+
+
+## References

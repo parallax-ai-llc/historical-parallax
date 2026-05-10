@@ -21,7 +21,7 @@ Leader of AQAP killed in a US drone strike in Yemen.
 |------|-------|
 | 2015 | Killed by US drone strike |
 
-## References
+
 
 [^1]: Wikipedia, "Nasser al-Wuhayshi" - https://en.wikipedia.org/wiki/Nasser_al-Wuhayshi
 
@@ -62,3 +62,6 @@ Al-Wuhayshi was reported killed on **2015-06-15** in **Yemen** in a **US drone s
 ## Notes
 
 This article summarizes widely reported, high-level information and is intended as a neutral reference entry.
+
+
+## References

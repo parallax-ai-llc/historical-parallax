@@ -23,7 +23,7 @@ North African branch of al-Qaeda responsible for kidnappings, bombings, and atta
 | 2012 | Seized northern Mali |
 | 2013 | French intervention in Mali |
 
-## References
+
 
 [^1]: Wikipedia, "Al-Qaeda in the Islamic Maghreb" - https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Islamic_Maghreb
 
@@ -48,3 +48,6 @@ The 2012–2013 period in Mali is often referenced as a turning point in interna
 AQIM is an example frequently used in studies of militant adaptation: how groups rebrand, affiliate with transnational networks, and exploit local conflicts while also being shaped by counterterrorism pressure and regional politics.
 
 [^2]: Wikipedia, "Insurgency in the Maghreb (2002–present)" - https://en.wikipedia.org/wiki/Insurgency_in_the_Maghreb_(2002%E2%80%93present)
+
+
+## References

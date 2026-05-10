@@ -45,7 +45,7 @@ Ottey is widely associated with extraordinary longevity at the elite sprint leve
 - Often cited as a benchmark for durability and competitive persistence in track and field.
 
 
-## References
+
 [^1]: Wikipedia, "Merlene Ottey" - https://en.wikipedia.org/wiki/Merlene_Ottey
 
 ## Notes
@@ -53,3 +53,6 @@ Ottey is widely associated with extraordinary longevity at the elite sprint leve
 - This page is intentionally high-level and focuses on widely reported context.
 - Exact figures and attributions can vary by source and methodology.
 - For primary detail, consult the references and contemporaneous reporting.
+
+
+## References

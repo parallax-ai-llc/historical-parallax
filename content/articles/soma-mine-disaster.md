@@ -21,7 +21,7 @@ Turkey's worst mining disaster killed 301 miners due to negligent safety standar
 |------|-------|
 | 2014 | 301 miners killed in preventable disaster |
 
-## References
+
 
 [^1]: Wikipedia, "Soma Mine Disaster" - https://en.wikipedia.org/wiki/Soma_Mine_Disaster
 
@@ -63,3 +63,6 @@ The Soma mine disaster is often cited as a modern case study in how high-risk in
 
 - Occupational safety and health in mining
 - Major coal mine disasters and the role of regulatory enforcement
+
+
+## References

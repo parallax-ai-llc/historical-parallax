@@ -23,7 +23,7 @@ Russias most powerful organized crime group based in Moscow. With over 9,000 mem
 | 1990s | Became largest Russian crime group |
 | 2000s | Operations span 30 countries |
 
-## References
+
 
 [^1]: Wikipedia, "Solntsevskaya Bratva" - https://en.wikipedia.org/wiki/Solntsevskaya_Bratva
 
@@ -53,3 +53,6 @@ Russias most powerful organized crime group based in Moscow. With over 9,000 mem
 
 - The Solntsevskaya Bratva is routinely cited in overviews of modern Russian organized crime as a prominent example of scale and internationalization.
 - Its notoriety has influenced popular portrayals of post-Soviet criminal networks in journalism and media.
+
+
+## References

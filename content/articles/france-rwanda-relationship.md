@@ -22,7 +22,7 @@ France supported the Hutu government before and during the Rwandan genocide, pro
 | 1994 | French supported génocidaire government |
 | 2021 | France acknowledged responsibilities |
 
-## References
+
 
 [^1]: Wikipedia, "France Rwanda Relationship" - https://en.wikipedia.org/wiki/France_Rwanda_Relationship
 
@@ -49,3 +49,6 @@ France supported the Hutu government before and during the Rwandan genocide, pro
 ## Notes
 
 This article summarizes widely cited public reports; interpretations can differ depending on which commission, archive, or scholarly work is referenced.
+
+
+## References

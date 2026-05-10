@@ -24,7 +24,7 @@ Argentine former president convicted of corruption for directing public works co
 | 2022 | Survived assassination attempt |
 | 2022 | Convicted of corruption; sentenced to 6 years |
 
-## References
+
 
 [^1]: Wikipedia, "Cristina Fernández de Kirchner" - https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner
 
@@ -52,3 +52,6 @@ Supporters often frame the investigations and prosecutions as politically motiva
 
 - Kirchnerism
 - Politics of Argentina (2000s–2020s)
+
+
+## References

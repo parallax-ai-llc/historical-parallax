@@ -24,7 +24,7 @@ Nellie Bly was an American journalist who set a world record by traveling around
 | 1890 | Completed trip in 72 days, 6 hours |
 | 1922 | Died in New York |
 
-## References
+
 
 [^1]: Wikipedia, "Nellie Bly" - https://en.wikipedia.org/wiki/Nellie_Bly
 
@@ -48,3 +48,6 @@ This article is a high-level overview; for detailed dates, publications, and pri
 
 - Wikipedia (see link above)
 - Additional high-level context can be added from reliable sources.
+
+
+## References

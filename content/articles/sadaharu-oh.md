@@ -24,7 +24,7 @@ Sadaharu Oh hit 868 career home runs for the Yomiuri Giants, the most in profess
 | 1977 | Hit 756th home run, passing Hank Aaron |
 | 1980 | Retired with 868 home runs |
 
-## References
+
 
 [^1]: Wikipedia, "Sadaharu Oh" - https://en.wikipedia.org/wiki/Sadaharu_Oh
 
@@ -53,3 +53,6 @@ Sadaharu Oh hit 868 career home runs for the Yomiuri Giants, the most in profess
 
 - Wikipedia (overview)
 - Reputable news and academic references
+
+
+## References

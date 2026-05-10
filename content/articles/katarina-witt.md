@@ -5,7 +5,7 @@ birth: "1965-12-03"
 death: "Unknown"
 nationality: "German"
 occupation: ["Athlete", "Olympic Champion", "Figure Skater"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Katarina_Witt_%40_Vancouver_2010_Winter_Olympics.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katarina_Witt"
 lastUpdated: "2026-02-26"
@@ -22,7 +22,7 @@ Katarina Witt won consecutive Olympic golds in 1984 and 1988 for East Germany. A
 | 1984 | Won Olympic gold at Sarajevo |
 | 1988 | Won second gold at Calgary |
 
-## References
+
 
 [^1]: Wikipedia, "Katarina Witt" - https://en.wikipedia.org/wiki/Katarina_Witt
 
@@ -55,3 +55,6 @@ Witt is often cited as a defining star of 1980s women’s figure skating, both f
 ## Additional References
 
 [^2]: International Olympic Committee (IOC) athlete database (overview) - https://olympics.com/
+
+
+## References

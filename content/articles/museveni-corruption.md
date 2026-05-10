@@ -22,7 +22,7 @@ Under Museveni's 38+ year rule, Uganda has experienced endemic corruption includ
 | 2007 | CHOGM corruption scandal |
 | 2023 | Continues amid massive graft |
 
-## References
+
 
 [^1]: Wikipedia, "Museveni Corruption" - https://en.wikipedia.org/wiki/Museveni_Corruption
 
@@ -52,3 +52,6 @@ This section adds high-level factual context to the article on **museveni corrup
 ### Related topics
 - Comparable events or figures in the same region or time period.
 - Institutions, laws, or movements that shaped the topic or were shaped by it.
+
+
+## References

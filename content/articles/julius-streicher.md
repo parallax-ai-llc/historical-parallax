@@ -23,7 +23,7 @@ German Nazi propagandist who published Der Stürmer, a virulently antisemitic ne
 | 1940 | Removed from party positions but continued publishing |
 | 1946 | Convicted at Nuremberg; executed by hanging |
 
-## References
+
 
 [^1]: Wikipedia, "Julius Streicher" - https://en.wikipedia.org/wiki/Julius_Streicher
 
@@ -48,3 +48,6 @@ At the Nuremberg trials, Streicher was convicted of **crimes against humanity** 
 ### Biographical Notes
 
 Before his political rise, Streicher trained and worked as a **schoolteacher**, and served in **World War I**, receiving military decorations. Post-war radicalization and propaganda activity shaped his later career.
+
+
+## References

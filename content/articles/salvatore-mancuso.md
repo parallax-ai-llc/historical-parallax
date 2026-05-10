@@ -22,7 +22,7 @@ Leader of the United Self-Defense Forces of Colombia paramilitary group responsi
 | 1997 | Led AUC paramilitary operations across Colombia |
 | 2008 | Extradited to US for drug trafficking |
 
-## References
+
 
 [^1]: Wikipedia, "Salvatore Mancuso" - https://en.wikipedia.org/wiki/Salvatore_Mancuso
 
@@ -49,3 +49,6 @@ Leader of the United Self-Defense Forces of Colombia paramilitary group responsi
 
 - 독자가 오해하기 쉬운 용어는 한 줄 정의로 보완합니다.
 - 동음이의/유사 개념이 있다면 구분 기준을 제시합니다.
+
+
+## References

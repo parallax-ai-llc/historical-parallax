@@ -26,7 +26,7 @@ Placeholder — not an entrepreneur.
 | 1978 | Portrayed the Tin Man in the film musical *The Wiz*. |
 | 2005 | Died (New York City, U.S.). |
 
-## References
+
 
 [^1]: Wikipedia, "Nipsey Russell" - https://en.wikipedia.org/wiki/Nipsey_Russell
 
@@ -56,3 +56,6 @@ Placeholder — not an entrepreneur.
 - Variety television (U.S.)
 - Game shows (U.S.)
 - Broadway musical theatre
+
+
+## References

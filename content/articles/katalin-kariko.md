@@ -5,7 +5,7 @@ birth: "1955-01-17"
 death: "living"
 nationality: "Hungarian-American"
 occupation: ["Biochemist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Katalin_Karik%C3%B3_by_Michel_2024_02.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katalin_Kariko"
 lastUpdated: "2026-02-21"

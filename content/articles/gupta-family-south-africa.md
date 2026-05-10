@@ -46,7 +46,7 @@ As the case unfolded, some family members left South Africa, and international c
 - Commissions of inquiry can create a detailed public record that later supports prosecutions and reforms.
 - Asset recovery and extradition are frequently challenging when money and suspects move across borders.
 
-## References
+
 
 [^1]: Wikipedia, "Gupta Family South Africa" - https://en.wikipedia.org/wiki/Gupta_Family_South_Africa
 ## Overview
@@ -63,3 +63,6 @@ South Africa established commissions and investigative processes to examine alle
 
 ## Broader impact
 The controversy had lasting effects on trust in institutions, the performance of state-owned enterprises, and South Africa’s political discourse about accountability and reform.
+
+
+## References

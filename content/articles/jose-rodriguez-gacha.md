@@ -24,7 +24,7 @@ Duplicate consolidated.
 | Mid-1980s | Expands armed capacity and land holdings; linked in reporting to paramilitary-style violence and intimidation. |
 | 1989 | Targeted in major Colombian security operations; killed during a police raid (December 15). |
 
-## References
+
 
 [^1]: Wikipedia, "Jose Rodriguez Gacha" - https://en.wikipedia.org/wiki/Jose_Rodriguez_Gacha
 
@@ -49,3 +49,6 @@ Duplicate consolidated.
 ## Notes on Sources
 
 - This page is intentionally **high-level** and currently relies on the single cited reference above; details should be cross-checked against additional historical reporting and academic sources before being treated as definitive.
+
+
+## References

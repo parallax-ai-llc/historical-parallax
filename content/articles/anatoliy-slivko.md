@@ -35,7 +35,7 @@ Anatoliy Slivko was a Soviet serial killer who murdered seven boys in Nevinnomys
 | 1964–1985 | Murders committed in Nevinnomyssk |
 | 1989 | Executed |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 [^2]: https://en.wikipedia.org/wiki/Anatoly_Slivko
 
@@ -60,3 +60,6 @@ It preserves prior content and adds non-graphic, high-level context.
 - Cross-check date precision against primary references.
 - Verify alternate spellings and aliases where relevant.
 - Confirm event sequence and aftermath references.
+
+
+## References

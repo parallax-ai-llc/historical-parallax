@@ -38,7 +38,7 @@ French authorities treated the attack as terrorism and investigated potential co
 
 The attack renewed public debate in France about counterterrorism, radicalization pathways, and the balance between security measures and civil liberties. Commemorations highlighted the gendarme officer’s actions and framed the event within a broader period of jihadist-inspired violence in Europe.
 
-## References
+
 
 [^1]: Wikipedia, "Redouane Lakdim" - https://en.wikipedia.org/wiki/Redouane_Lakdim
 
@@ -48,3 +48,6 @@ The attack renewed public debate in France about counterterrorism, radicalizatio
 - Counterterrorism in France
 - Radicalization and security watchlists
 - Hostage situations and emergency response
+
+
+## References

@@ -19,7 +19,7 @@ Salvador Ramos killed 19 children and 2 teachers at Robb Elementary School in Uv
 |------|-------|
 | 2004 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Background (High-Level)
@@ -57,3 +57,6 @@ Salvador Ramos killed 19 children and 2 teachers at Robb Elementary School in Uv
 ## Notes on Sources
 - Many details are drawn from contemporaneous news reporting, official briefings, and subsequent investigative summaries.
 - Where accounts differ across investigations, timelines and conclusions may be reported with varying emphasis.
+
+
+## References

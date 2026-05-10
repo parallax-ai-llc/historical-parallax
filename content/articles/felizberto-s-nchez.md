@@ -23,7 +23,7 @@ Venezuelan serial killer who murdered at least 12 women in Caracas during the 19
 | 1999 | Arrested after witness identification |
 | 2001 | Convicted and sentenced to 30 years |
 
-## References
+
 
 [^1]: Wikipedia, "Felizberto Sánchez" - https://en.wikipedia.org/wiki/Felizberto_S%C3%A1nchez
 
@@ -48,3 +48,6 @@ Venezuelan serial killer who murdered at least 12 women in Caracas during the 19
 - Serial murder investigation methods
 - Victim vulnerability and reporting barriers
 - Media ethics in crime reporting
+
+
+## References

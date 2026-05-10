@@ -24,7 +24,7 @@ Billie Jean King won 39 Grand Slam titles and defeated Bobby Riggs in the 1973 '
 | 1973 | Defeated Bobby Riggs in Battle of the Sexes |
 | 1974 | Founded Women's Sports Foundation |
 
-## References
+
 
 [^1]: Wikipedia, "Billie Jean King" - https://en.wikipedia.org/wiki/Billie_Jean_King
 
@@ -49,3 +49,6 @@ Billie Jean King won 39 Grand Slam titles and defeated Bobby Riggs in the 1973 '
 - The 1973 "Battle of the Sexes" match became a widely discussed cultural moment beyond sports.
 - The Billie Jean King Cup (formerly the Fed Cup) is the premier international team competition in women's tennis.
 - King has continued to be associated with advocacy for gender equality in athletics.
+
+
+## References

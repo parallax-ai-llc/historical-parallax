@@ -23,7 +23,7 @@ Chinese governments mass detention and persecution of Uyghur Muslims in Xinjiang
 | 2020 | Satellite imagery confirmed camp network |
 | 2021 | US and others declared genocide |
 
-## References
+
 
 [^1]: Wikipedia, "Uyghur Genocide" - https://en.wikipedia.org/wiki/Uyghur_Genocide
 
@@ -48,3 +48,6 @@ Chinese governments mass detention and persecution of Uyghur Muslims in Xinjiang
 
 - The issue has become a major focal point in contemporary debates over human rights, state surveillance, and the use of forced labor in global supply chains.
 - It has also affected China’s relations with multiple countries, including in trade and security contexts.
+
+
+## References

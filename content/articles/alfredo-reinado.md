@@ -57,7 +57,7 @@ Reinado was killed during the attacks and is widely described as being among the
 - 2006 Timor-Leste crisis
 - 2008 East Timorese attacks
 
-## References
+
 
 [^1]: Wikipedia, "Alfredo Reinado" - https://en.wikipedia.org/wiki/Alfredo_Reinado
 
@@ -74,3 +74,6 @@ Alfredo Reinado (also reported as Alfredo Alves Reinado) was a Timor-Leste milit
 
 ## Broader significance
 The 2006 crisis is often studied as an early test of post-conflict state-building and civil–military relations in Timor-Leste.
+
+
+## References

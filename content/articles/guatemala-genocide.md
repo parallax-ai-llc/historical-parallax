@@ -46,7 +46,7 @@ The genocide has remained central to Guatemala's contemporary politics and memor
 - Domestic prosecutions, commissions, and documentation efforts have been central to historical truth and accountability.
 - The legacy continues to influence debates over reparations, recognition, and military reform.
 
-## References
+
 
 [^1]: Wikipedia, "Guatemala Genocide" - https://en.wikipedia.org/wiki/Guatemala_Genocide
 ## Overview
@@ -64,3 +64,6 @@ These processes have been politically contentious, reflecting broader struggles 
 
 ## Significance
 The case is frequently cited in discussions about transitional justice in Latin America: how societies document atrocities, prosecute perpetrators, and support survivors while rebuilding democratic institutions.
+
+
+## References

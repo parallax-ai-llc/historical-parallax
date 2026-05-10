@@ -21,7 +21,7 @@ Nephew of former president Nazarbayev, convicted of embezzlement and abuse of po
 |------|-------|
 | 2022 | Convicted of corruption charges |
 
-## References
+
 
 [^1]: Wikipedia, "Kayrat Satybaldy" - https://en.wikipedia.org/wiki/Kayrat_Satybaldy
 
@@ -70,3 +70,6 @@ If you are maintaining a fact-checked dossier, these are the items typically wor
 ## References (Additional)
 
 [^2]: Public reporting and official Kazakhstani statements (2022–2024) summarized across major news outlets and government releases; readers should cross-check against primary court documents when available.
+
+
+## References

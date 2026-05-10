@@ -21,7 +21,7 @@ Sumiyoshi-kai yakuza leader who controlled organized crime operations in eastern
 |------|-------|
 | 2010 | Led Sumiyoshi-kai operations |
 
-## References
+
 
 [^1]: Wikipedia, "Kazushi Kimura" - https://en.wikipedia.org/wiki/Kazushi_Kimura
 
@@ -53,3 +53,6 @@ Sumiyoshi-kai yakuza leader who controlled organized crime operations in eastern
 ## See also
 
 - https://en.wikipedia.org/wiki/Sumiyoshi-kai
+
+
+## References

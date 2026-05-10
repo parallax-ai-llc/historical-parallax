@@ -21,7 +21,7 @@ Lebanese communist militant imprisoned in France since 1984 for involvement in a
 |------|-------|
 | 1984 | Arrested for assassinations of diplomats |
 
-## References
+
 
 [^1]: Wikipedia, "Georges Ibrahim Abdallah" - https://en.wikipedia.org/wiki/Georges_Ibrahim_Abdallah
 
@@ -53,3 +53,6 @@ Lebanese communist militant imprisoned in France since 1984 for involvement in a
 ## Additional References
 
 [^2]: Wikipedia section references and linked sources for chronology and legal proceedings (see the References section on the same page). https://en.wikipedia.org/wiki/Georges_Ibrahim_Abdallah
+
+
+## References

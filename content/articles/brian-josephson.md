@@ -23,7 +23,7 @@ Brian Josephson won the 1973 Nobel Prize for predicting the Josephson effect in 
 | 1962 | Predicted Josephson effect |
 | 1973 | Nobel Prize |
 
-## References
+
 
 [^1]: Wikipedia, "Brian Josephson" - https://en.wikipedia.org/wiki/Brian_Josephson
 
@@ -57,3 +57,6 @@ Josephson junction physics remains relevant in modern quantum engineering, inclu
 - Superconductivity
 - SQUID
 - Quantum metrology
+
+
+## References

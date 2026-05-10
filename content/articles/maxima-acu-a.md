@@ -21,7 +21,7 @@ Note: Acuña is actually an environmental defender fighting mining companies. En
 |------|-------|
 
 
-## References
+
 
 [^1]: Wikipedia, "Maxima Acuña" - https://en.wikipedia.org/wiki/Maxima_Acu%C3%B1a
 
@@ -56,3 +56,6 @@ To preserve the historical record of this repository while improving factual con
 ## References (additional)
 
 [^2]: Goldman Environmental Prize, "Máxima Acuña" (Laureate profile) - https://www.goldmanprize.org/recipient/maxima-acuna/
+
+
+## References

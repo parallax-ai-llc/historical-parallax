@@ -22,7 +22,7 @@ Mexican telecommunications magnate who became the world's richest man through a 
 | 1990 | Acquired Telmex in controversial privatization |
 | 2010 | Became world's richest person |
 
-## References
+
 
 [^1]: Wikipedia, "Carlos Slim" - https://en.wikipedia.org/wiki/Carlos_Slim
 
@@ -50,3 +50,6 @@ Through foundations and charitable programs, Slim has funded health, education, 
 
 [^2]: Encyclopaedia Britannica, "Carlos Slim" (biographical overview) - https://www.britannica.com/biography/Carlos-Slim
 [^3]: Wikipedia, "Telmex" and "América Móvil" (company context) - https://en.wikipedia.org/wiki/Telmex
+
+
+## References

@@ -23,7 +23,7 @@ Fijian businessman who led a coup in 2000 by storming parliament and holding the
 | 2000 | Arrested after surrendering |
 | 2002 | Convicted of treason and sentenced to death, commuted to life |
 
-## References
+
 
 [^1]: Wikipedia, "George Speight" - https://en.wikipedia.org/wiki/George_Speight
 
@@ -48,3 +48,6 @@ The coup attempt is commonly cited as a turning point in Fiji’s modern politic
 It contributed to subsequent constitutional and electoral debates and remains a reference point in discussions of civil-military relations and democratic stability in the Pacific.
 
 In many retrospective accounts, the episode is analyzed less as a single individual’s act and more as a stress test of Fiji’s institutions under acute social division.
+
+
+## References

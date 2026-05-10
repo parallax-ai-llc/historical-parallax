@@ -23,7 +23,7 @@ The May 6, 2010 Flash Crash that briefly wiped $1 trillion from US markets was p
 | 2015 | Sarao arrested in London |
 | 2016 | Extradited to US |
 
-## References
+
 
 [^1]: Wikipedia, "Sarao Flash Crash" - https://en.wikipedia.org/wiki/Sarao_Flash_Crash
 
@@ -48,3 +48,6 @@ Public reporting has described cooperation, legal negotiations, and questions ab
 
 After the Flash Crash, exchanges and regulators implemented or strengthened mechanisms such as circuit breakers and limit-up/limit-down rules.
 The incident also accelerated research into how automated strategies interact under stress and how to detect manipulation in high-volume order books.
+
+
+## References

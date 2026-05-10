@@ -23,7 +23,7 @@ American Congressman who was found with $90,000 in cash in his freezer during an
 | 2009 | Convicted of 11 corruption counts |
 | 2009 | Sentenced to 13 years |
 
-## References
+
 
 [^1]: Wikipedia, "William Jefferson" - https://en.wikipedia.org/wiki/William_Jefferson
 
@@ -51,3 +51,6 @@ Jefferson’s conviction is commonly used as a cautionary example in U.S. politi
 
 - U.S. federal bribery statutes
 - Congressional ethics enforcement
+
+
+## References

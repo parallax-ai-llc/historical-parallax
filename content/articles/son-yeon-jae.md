@@ -22,7 +22,7 @@ Son Yeon-jae was the first Korean rhythmic gymnast to reach an Olympic final.
 | 2012 | Reached Olympic final at London |
 | 2014 | Won Asian Games gold |
 
-## References
+
 
 [^1]: Wikipedia, "Son Yeon-jae" - https://en.wikipedia.org/wiki/Son_Yeon-jae
 
@@ -49,3 +49,6 @@ Athletes who serve as “firsts” (for example, the first from a country to rea
 - media attention that can sustain sponsorship and federation support.
 
 This kind of impact is often measured over time by whether a country continues to produce finalists and medal contenders after the breakthrough athlete.
+
+
+## References

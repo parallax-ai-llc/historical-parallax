@@ -24,7 +24,7 @@ Kenneth Lay and Jeffrey Skilling led Enron's massive accounting fraud that becam
 | 2006 | Both convicted of fraud |
 | 2006 | Lay died before sentencing |
 
-## References
+
 
 [^1]: Wikipedia, "Enron Executives" - https://en.wikipedia.org/wiki/Enron_Executives
 
@@ -48,3 +48,6 @@ Kenneth Lay and Jeffrey Skilling led Enron's massive accounting fraud that becam
 ## Legacy
 
 Enron remains a reference point for discussions about financial transparency, regulatory design, and the limits of market discipline when information is distorted.
+
+
+## References

@@ -5,7 +5,7 @@ birth: "1952-11-16"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Game Designer", "Entrepreneur"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Shigeru_Miyamoto_20150610_%28cropped_4%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shigeru_Miyamoto"
 lastUpdated: "2026-02-21"

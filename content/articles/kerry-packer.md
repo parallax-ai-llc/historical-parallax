@@ -5,7 +5,7 @@ birth: "1937-12-17"
 death: "2005-12-26"
 nationality: "Australian"
 occupation: ["Entrepreneur", "Media Mogul"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/4d/Kerry_Packer.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kerry_Packer"
 lastUpdated: "2026-02-21"

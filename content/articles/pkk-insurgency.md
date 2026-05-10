@@ -23,7 +23,7 @@ Armed conflict between the Kurdistan Workers Party and the Turkish state since 1
 | 1984 | Armed insurgency began |
 | 2016 | Conflict escalated again |
 
-## References
+
 
 [^1]: Wikipedia, "PKK Insurgency" - https://en.wikipedia.org/wiki/PKK_Insurgency
 
@@ -51,3 +51,6 @@ This article summarizes a long-running armed conflict; details, casualty estimat
 
 - Kurdish–Turkish conflict
 - Kurdistan Workers' Party (PKK)
+
+
+## References

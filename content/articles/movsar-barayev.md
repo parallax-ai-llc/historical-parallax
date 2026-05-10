@@ -22,7 +22,7 @@ Chechen militant who led the 2002 Moscow theatre hostage crisis, taking 850 peop
 | 2002 | Led Moscow theatre siege |
 | 2002 | Killed during rescue operation |
 
-## References
+
 
 [^1]: Wikipedia, "Movsar Barayev" - https://en.wikipedia.org/wiki/Movsar_Barayev
 
@@ -52,3 +52,6 @@ Barayev is primarily remembered in connection with the theatre crisis rather tha
 
 Victim counts and some operational details are reported differently across sources; this article keeps to high-level, widely reported elements.
 
+
+
+## References

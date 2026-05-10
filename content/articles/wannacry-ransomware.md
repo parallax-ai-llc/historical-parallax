@@ -22,7 +22,7 @@ North Korean-attributed WannaCry ransomware infected over 230,000 computers acro
 | 2017 | WannaCry infected 230,000 computers worldwide |
 | 2017 | UK NHS severely disrupted; attack attributed to North Korea |
 
-## References
+
 
 [^1]: Wikipedia, "WannaCry Ransomware" - https://en.wikipedia.org/wiki/WannaCry_Ransomware
 
@@ -49,3 +49,6 @@ More broadly, WannaCry was used as a concrete example in policy discussions abou
 Public statements by multiple governments attributed the attack to North Korean actors. Attribution in cyber incidents is complex, but official attribution can shape sanctions, diplomacy, and defensive posture.
 
 The episode is frequently cited in debates about vulnerability disclosure and the downstream effects when powerful exploitation techniques escape into the wild.
+
+
+## References

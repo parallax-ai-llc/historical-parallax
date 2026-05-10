@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1952 | Duplicate |
 
-## References
+
 
 [^1]: Wikipedia, "Lee Soo-man dup" - https://en.wikipedia.org/wiki/Lee_Soo-man_dup
 
@@ -56,3 +56,6 @@ Duplicate.
 ## References (Additional)
 
 [^2]: Wikipedia, "Lee Soo-man" - https://en.wikipedia.org/wiki/Lee_Soo-man
+
+
+## References

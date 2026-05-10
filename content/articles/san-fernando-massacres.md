@@ -23,7 +23,7 @@ Two separate mass killings by Los Zetas in San Fernando, Tamaulipas. In August 2
 | 2011 | 193 bus passengers killed |
 | 2011 | Mass graves discovered |
 
-## References
+
 
 [^1]: Wikipedia, "San Fernando Massacres" - https://en.wikipedia.org/wiki/San_Fernando_Massacres
 
@@ -50,3 +50,6 @@ These events contributed to public pressure for investigations and accountabilit
 Mexican authorities pursued arrests and prosecutions connected to Los Zetas and to local collaborators.
 Like many mass-atrocity investigations, the process involved identification of remains, coordination with victims’ families, and forensic work.
 The cases are often referenced in discussions of impunity, victim support, and security-sector capacity in Mexico.
+
+
+## References

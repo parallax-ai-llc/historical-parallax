@@ -5,7 +5,7 @@ birth: "1933-07-20"
 death: "2020-12-14"
 nationality: "Indian"
 occupation: ["Aerospace scientist", "Fluid dynamicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Rodham_Narasimha.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Roddam_Narasimha"
 lastUpdated: "2026-02-21"

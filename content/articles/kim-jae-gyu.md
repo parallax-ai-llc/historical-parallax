@@ -5,7 +5,7 @@ birth: "1926-03-06"
 death: "1980-05-24"
 nationality: "South Korea"
 occupation: ["Assassin"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/19681021%E9%87%91%E8%BC%89%E5%9C%AD.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Jae-gyu"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ South Korean intelligence chief who assassinated President Park Chung-hee during
 | 1979 | Shot President Park Chung-hee at dinner |
 | 1980 | Executed by hanging |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Jae-gyu" - https://en.wikipedia.org/wiki/Kim_Jae-gyu
 
@@ -50,3 +50,6 @@ South Korean intelligence chief who assassinated President Park Chung-hee during
 - Wikipedia article linked above for a starting overview.
 - Academic histories of South Korea’s 1970s–1980s transition period.
 - Primary-source timelines (court records and official statements) for chronology.
+
+
+## References

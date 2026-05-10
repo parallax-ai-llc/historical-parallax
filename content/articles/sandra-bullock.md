@@ -3,6 +3,7 @@ name: "Sandra Bullock"
 birth: "1964-07-26"
 nationality: "American"
 occupation: ["Actress", "Producer"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Sandra_Bullock_at_The_Egyptian_Theatre_2024.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sandra_Bullock"
 lastUpdated: "2026-03-12"

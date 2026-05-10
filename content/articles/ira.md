@@ -23,7 +23,7 @@ Irish Republican Army that fought for a united Ireland during the Troubles from 
 | 1998 | Good Friday Agreement |
 | 2005 | IRA decommissioned weapons |
 
-## References
+
 
 [^1]: Wikipedia, "IRA" - https://en.wikipedia.org/wiki/IRA
 
@@ -50,3 +50,6 @@ Irish Republican Army that fought for a united Ireland during the Troubles from 
 ## Additional Reading
 
 [^2]: Encyclopaedia Britannica, "Irish Republican Army" - https://www.britannica.com/topic/Irish-Republican-Army
+
+
+## References

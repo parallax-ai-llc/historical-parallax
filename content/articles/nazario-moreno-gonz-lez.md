@@ -24,7 +24,7 @@ Mexican drug lord known as 'El Más Loco' (The Craziest One) who co-founded La F
 | 2011 | Founded Knights Templar Cartel |
 | 2014 | Killed by Mexican marines |
 
-## References
+
 
 [^1]: Wikipedia, "Nazario Moreno González" - https://en.wikipedia.org/wiki/Nazario_Moreno_Gonz%C3%A1lez
 
@@ -50,3 +50,6 @@ This entry provides a high-level overview intended for historical context. For o
 
 - La Familia Michoacana
 - Knights Templar Cartel (Mexico)
+
+
+## References

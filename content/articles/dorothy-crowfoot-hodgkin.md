@@ -22,7 +22,7 @@ Already added as Dorothy Hodgkin.
 | 1910 | Born |
 | 1994 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Dorothy Crowfoot Hodgkin" - https://en.wikipedia.org/wiki/Dorothy_Crowfoot_Hodgkin
 
@@ -49,3 +49,6 @@ Already added as Dorothy Hodgkin.
 ### Public Life
 
 - Beyond research, Hodgkin was involved in scientific education and international scientific cooperation, and is remembered for combining high-impact scholarship with public engagement.
+
+
+## References

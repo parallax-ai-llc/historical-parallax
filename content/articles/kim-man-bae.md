@@ -22,7 +22,7 @@ Owner of Hwacheon Daeyu who reaped $340 million from the Daejang-dong land devel
 | 2022 | Arrested for fraud |
 | 2023 | Trial ongoing |
 
-## References
+
 
 [^1]: Wikipedia, "Kim Man-bae" - https://en.wikipedia.org/wiki/Kim_Man-bae
 
@@ -55,3 +55,6 @@ The scandal became a flashpoint in South Korean politics and media because it co
 ## Notes on Status
 
 Court timelines and outcomes can change with appeals and related proceedings. For the most up-to-date status, see current court reporting and official statements.
+
+
+## References

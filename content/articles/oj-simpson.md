@@ -66,9 +66,12 @@ O.J. Simpson was acquitted of the 1994 murders of his ex-wife Nicole Brown Simps
   - Criminal vs. civil standards of proof.
   - U.S. cultural debates of the 1990s around race, policing, and televised trials.
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Notes on coverage
 - Many summaries distinguish between the **criminal acquittal** (1995) and the **civil liability** finding (1997), reflecting different burdens of proof.
 - The case is also notable for its role in shaping modern U.S. **24-hour news** and courtroom-media dynamics.
+
+
+## References

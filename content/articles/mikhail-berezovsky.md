@@ -21,7 +21,7 @@ Russian oligarch who fell out with Putin and died mysteriously in London exile.
 |------|-------|
 | 2013 | Found dead in suspicious circumstances |
 
-## References
+
 
 [^1]: Wikipedia, "Mikhail Berezovsky" - https://en.wikipedia.org/wiki/Mikhail_Berezovsky
 
@@ -69,3 +69,6 @@ If instead it intends to document the **late-20th-century businessman/political 
 ## References (additional)
 
 [^2]: Wikipedia page text excerpted via readability extraction (same URL as [^1]); see the sections describing expeditions, collections, and taxa named after Berezovsky.
+
+
+## References

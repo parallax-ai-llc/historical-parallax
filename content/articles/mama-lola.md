@@ -22,7 +22,7 @@ See Lola Omotayo-Martins. Nigerian drug queenpin who ran a heroin trafficking ne
 | 1990 | Built heroin trafficking network |
 | 2005 | Arrested by NDLEA |
 
-## References
+
 
 [^1]: Wikipedia, "Mama Lola" - https://en.wikipedia.org/wiki/Mama_Lola
 
@@ -61,3 +61,6 @@ The “Mama Lola” narrative is often used to illustrate:
 ## Notes on sourcing
 
 Because the nickname functions as a media identifier, careful source comparison is important to avoid conflating different people with similar labels or overlapping allegations.
+
+
+## References

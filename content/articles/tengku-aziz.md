@@ -23,7 +23,7 @@ Malaysian serial killer who murdered at least 4 women in Kuala Lumpur during the
 | 1996 | Arrested |
 | 1998 | Sentenced to death |
 
-## References
+
 
 [^1]: Wikipedia, "Tengku Aziz" - https://en.wikipedia.org/wiki/Tengku_Aziz
 
@@ -48,3 +48,6 @@ Malaysian serial killer who murdered at least 4 women in Kuala Lumpur during the
 ## Further Reading
 
 - See the reference link(s) above for expanded detail and primary sourcing.
+
+
+## References

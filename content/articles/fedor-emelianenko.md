@@ -24,7 +24,7 @@ Fedor Emelianenko, 'The Last Emperor,' is considered one of the greatest heavywe
 | 2003-2010 | Went nearly a decade undefeated |
 | 2023 | Retired from MMA |
 
-## References
+
 
 [^1]: Wikipedia, "Fedor Emelianenko" - https://en.wikipedia.org/wiki/Fedor_Emelianenko
 
@@ -52,3 +52,6 @@ After PRIDE, he fought in several promotions and had high-profile bouts that dre
 
 - PRIDE Fighting Championships heavyweight division
 - Combat sambo
+
+
+## References

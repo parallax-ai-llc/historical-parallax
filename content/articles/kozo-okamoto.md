@@ -5,7 +5,7 @@ birth: "1947-12-07"
 death: "Unknown"
 nationality: "Japan"
 occupation: ["Terrorist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/3/35/Kozo_okamoto_and_fusako_shigenobu.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kozo_Okamoto"
 lastUpdated: "2026-02-21"

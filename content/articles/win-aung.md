@@ -22,7 +22,7 @@ Former Myanmar foreign minister who served under the military junta and was invo
 | 1998 | Served as foreign minister defending junta's human rights record |
 | 2003 | Continued diplomatic cover of military atrocities |
 
-## References
+
 
 [^1]: Wikipedia, "Win Aung" - https://en.wikipedia.org/wiki/Win_Aung
 
@@ -48,3 +48,6 @@ Descriptions such as “war criminal” are often used in political discourse, b
 - Myanmar’s military government period (State Peace and Development Council era)
 - International sanctions and diplomatic isolation
 - Human-rights reporting and government messaging strategies
+
+
+## References

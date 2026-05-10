@@ -21,7 +21,7 @@ Marc Lépine killed 14 women at Montreal's École Polytechnique, specifically ta
 |------|-------|
 | 1989 | 14 women killed at engineering school |
 
-## References
+
 
 [^1]: Wikipedia, "École Polytechnique Massacre" - https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_Massacre
 
@@ -57,3 +57,6 @@ Marc Lépine killed 14 women at Montreal's École Polytechnique, specifically ta
 
 [^2]: Government of Canada, "National Day of Remembrance and Action on Violence Against Women" (December 6) — official observance information.
 [^3]: Polytechnique Montréal — institutional commemoration and historical notes (see Polytechnique Montréal’s site).
+
+
+## References

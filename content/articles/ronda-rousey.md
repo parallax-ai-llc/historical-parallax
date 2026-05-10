@@ -23,7 +23,7 @@ Ronda Rousey won 2008 Olympic judo bronze and became the most dominant female fi
 | 2012 | Became first UFC women's champion |
 | 2015 | Suffered first loss to Holly Holm |
 
-## References
+
 
 [^1]: Wikipedia, "Ronda Rousey" - https://en.wikipedia.org/wiki/Ronda_Rousey
 
@@ -51,3 +51,6 @@ Ronda Rousey won 2008 Olympic judo bronze and became the most dominant female fi
 
 - Rousey pursued entertainment and professional wrestling, becoming a prominent figure in WWE.
 - She has been a frequent subject of sports-media analysis about fame, pressure, and the transition from individual combat sports to broader celebrity.
+
+
+## References

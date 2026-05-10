@@ -21,7 +21,7 @@ French casino heiress who disappeared and was allegedly murdered by her lover Ma
 |------|-------|
 | 2014 | Agnelet convicted of her murder |
 
-## References
+
 
 [^1]: Wikipedia, "Agnès Le Roux" - https://en.wikipedia.org/wiki/Agn%C3%A8s_Le_Roux
 
@@ -62,3 +62,6 @@ French casino heiress who disappeared and was allegedly murdered by her lover Ma
 
 - Palais de la Méditerranée (Nice)
 - Maurice Agnelet
+
+
+## References

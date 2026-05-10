@@ -21,7 +21,7 @@ Missy Franklin won four gold medals at the 2012 London Olympics at age 17, inclu
 | 2012 | Won four gold at London at age 17 |
 | 2016 | Won gold in 4x200m relay at Rio |
 
-## References
+
 
 [^1]: Wikipedia, "Missy Franklin" - https://en.wikipedia.org/wiki/Missy_Franklin
 ## Additional Context
@@ -50,3 +50,6 @@ Missy Franklin won four gold medals at the 2012 London Olympics at age 17, inclu
 - This entry is a high-level summary intended for quick reference.
 - For deeper detail, consult primary documents and the linked reference.
 - Dates are recorded as reported by widely available public sources.
+
+
+## References

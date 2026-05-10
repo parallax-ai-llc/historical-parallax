@@ -22,7 +22,7 @@ Moroccan-born terrorist who was one of three attackers in the 2017 London Bridge
 | 2017 | Attacked London Bridge and Borough Market; killed 8 |
 | 2017 | Shot dead by police |
 
-## References
+
 
 [^1]: Wikipedia, "Rachid Redouane" - https://en.wikipedia.org/wiki/Rachid_Redouane
 
@@ -48,3 +48,6 @@ Moroccan-born terrorist who was one of three attackers in the 2017 London Bridge
 - Early reporting around attackers in fast-moving incidents can be incomplete or contradictory; later inquests and official investigations typically provide the consolidated public record.
 - The case is frequently referenced in analyses of the evolving tactics used in mass-casualty attacks in urban settings.
 
+
+
+## References

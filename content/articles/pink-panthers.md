@@ -24,7 +24,7 @@ International jewel theft network originating from former Yugoslavia that has st
 | 2008 | Interpol launched dedicated task force |
 | 2020 | Over 800 robberies in 35 countries attributed to group |
 
-## References
+
 
 [^1]: Wikipedia, "Pink Panthers" - https://en.wikipedia.org/wiki/Pink_Panthers
 
@@ -52,3 +52,6 @@ Interpol and national police services have periodically coordinated investigatio
 ## Name Origin
 
 The label "Pink Panthers" is commonly explained as a reference to the **Pink Panther** film series, popularized by media reporting and police briefings.
+
+
+## References

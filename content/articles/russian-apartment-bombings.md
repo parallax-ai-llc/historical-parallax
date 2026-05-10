@@ -5,7 +5,7 @@ birth: "1999-09-04"
 death: "Unknown"
 nationality: "Russia"
 occupation: ["Criminal Incident"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/d/d8/Apartment_bombing.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Russian_Apartment_Bombings"
 lastUpdated: "2026-02-26"
@@ -21,7 +21,7 @@ Apartment bombings in Moscow and other cities killed nearly 300 people. Blamed o
 |------|-------|
 | 1999 | 300 killed in apartment bombings |
 
-## References
+
 
 [^1]: Wikipedia, "Russian Apartment Bombings" - https://en.wikipedia.org/wiki/Russian_Apartment_Bombings
 
@@ -59,3 +59,6 @@ Apartment bombings in Moscow and other cities killed nearly 300 people. Blamed o
 
 [^2]: John B. Dunlop, *The Moscow Bombings of September 1999: Examinations of Russian Terrorist Attacks at the Onset of Vladimir Putin's Rule* (discussion and source compilation).
 [^3]: Yuri Felshtinsky & Alexander Litvinenko, *Blowing Up Russia: The Secret Plot to Bring Back KGB Terror* (controversial account; claims disputed).
+
+
+## References

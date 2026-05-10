@@ -22,7 +22,7 @@ Major Brazilian criminal organization based in Amazonas controlling drug routes 
 | 2006 | Founded in Manaus prisons |
 | 2017 | Prison massacres across Brazil |
 
-## References
+
 
 [^1]: Wikipedia, "Família do Norte" - https://en.wikipedia.org/wiki/Fam%C3%ADlia_do_Norte
 
@@ -50,3 +50,6 @@ Major Brazilian criminal organization based in Amazonas controlling drug routes 
 ## References (Additional)
 
 [^2]: For background, see reporting and analyses of Brazil’s prison gang dynamics and the Amazon trafficking corridor discussed in the Wikipedia citations.
+
+
+## References

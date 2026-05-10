@@ -5,7 +5,7 @@ birth: "1886-05-10"
 death: "1968-12-10"
 nationality: "Swiss"
 occupation: ["Theologian", "Author"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Karl_Barth_Bundesarchiv_Bild.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karl_Barth"
 lastUpdated: "2026-02-21"

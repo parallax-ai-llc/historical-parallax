@@ -22,7 +22,7 @@ Bangladeshi politician convicted of corruption related to the Hallmark Group loa
 | 2010 | Involved in Hallmark Group loan fraud |
 | 2016 | Convicted of corruption |
 
-## References
+
 
 [^1]: Wikipedia, "Amar Mitra" - https://en.wikipedia.org/wiki/Amar_Mitra
 
@@ -73,3 +73,6 @@ Large state-bank fraud cases in Bangladesh have been widely discussed as catalys
 
 - Many summaries of the Hallmark/Sonali Bank scandal are based on investigative reporting and court coverage.
 - When adding numerical figures (amounts, dates, counts of accused), prefer a single, clearly cited source to avoid mixing inconsistent estimates.
+
+
+## References

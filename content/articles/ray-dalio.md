@@ -5,7 +5,7 @@ birth: "1949-08-08"
 death: "Unknown"
 nationality: "American"
 occupation: ["Entrepreneur", "Financier"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Web_Summit_2018_-_Forum_-_Day_2%2C_November_7_HM1_7481_%2844858045925%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ray_Dalio"
 lastUpdated: "2026-02-21"

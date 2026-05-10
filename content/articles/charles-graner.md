@@ -23,7 +23,7 @@ US Army reservist considered the ringleader of the Abu Ghraib prisoner abuse. He
 | 2005 | Convicted; sentenced to 10 years |
 | 2011 | Released from military prison |
 
-## References
+
 
 [^1]: Wikipedia, "Charles Graner" - https://en.wikipedia.org/wiki/Charles_Graner
 
@@ -48,3 +48,6 @@ The Abu Ghraib prisoner abuse revelations became a major international scandal d
 - Military justice (courts-martial) and sentencing
 - War reporting, documentation, and the role of images in accountability
 
+
+
+## References

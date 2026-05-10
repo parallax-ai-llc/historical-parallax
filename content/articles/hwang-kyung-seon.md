@@ -22,7 +22,7 @@ Hwang Kyung-seon won consecutive Olympic taekwondo gold medals at 2008 Beijing a
 | 2008 | Won Olympic gold at Beijing |
 | 2012 | Won second gold at London |
 
-## References
+
 
 [^1]: Wikipedia, "Hwang Kyung-seon" - https://en.wikipedia.org/wiki/Hwang_Kyung-seon
 
@@ -53,3 +53,6 @@ In South Korean sport narratives, Olympic champions in taekwondo are frequently 
 
 - Taekwondo at the Summer Olympics
 - South Korea at the Olympics
+
+
+## References

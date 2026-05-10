@@ -44,10 +44,13 @@ Mass murder of 58 people including 32 journalists in Maguindanao, Philippines on
 
 - Commemorations and advocacy efforts often focus on honoring the victims and pushing for broader protections for journalists and election-related security.
 
-## References
+
 
 [^1]: Wikipedia, "Maguindanao Massacre" - https://en.wikipedia.org/wiki/Maguindanao_Massacre
 
 ## See also
 
 - Press freedom in the Philippines
+
+
+## References

@@ -21,7 +21,7 @@ Shinji Aoba set fire to the Kyoto Animation studio killing 36 people. He doused 
 |------|-------|
 | 2019 | 36 killed in studio arson attack |
 
-## References
+
 
 [^1]: Wikipedia, "Kyoto Animation Arson Attack" - https://en.wikipedia.org/wiki/Kyoto_Animation_Arson_Attack
 
@@ -71,3 +71,6 @@ Shinji Aoba set fire to the Kyoto Animation studio killing 36 people. He doused 
 ## References (Additional)
 
 [^2]: Wikipedia, "Kyoto Animation arson attack" - https://en.wikipedia.org/wiki/Kyoto_Animation_arson_attack
+
+
+## References

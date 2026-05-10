@@ -21,7 +21,7 @@ Demetrius Flenory, founder of the Black Mafia Family drug trafficking organizati
 |------|-------|
 | 2005 | Convicted of running Black Mafia Family drug ring |
 
-## References
+
 
 [^1]: Wikipedia, "Big Meech" - https://en.wikipedia.org/wiki/Big_Meech
 
@@ -57,3 +57,6 @@ Demetrius Flenory, founder of the Black Mafia Family drug trafficking organizati
 ## Additional References
 
 [^2]: Wikipedia, "Black Mafia Family" - https://en.wikipedia.org/wiki/Black_Mafia_Family
+
+
+## References

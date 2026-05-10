@@ -22,7 +22,7 @@ Indonesian terrorist known as Mukhlas who was a senior Jemaah Islamiyah leader a
 | 2002 | Co-masterminded Bali bombings killing 202 |
 | 2008 | Executed by firing squad |
 
-## References
+
 
 [^1]: Wikipedia, "Mukhlas (Ali Ghufron)" - https://en.wikipedia.org/wiki/Ali_Ghufron
 
@@ -54,3 +54,6 @@ Indonesian terrorist known as Mukhlas who was a senior Jemaah Islamiyah leader a
 ## Notes
 
 - This article describes the historical record at a high level and does not attempt to enumerate every allegation or operational detail; readers should consult primary court documents and contemporaneous reporting for granular timelines.[^1]
+
+
+## References

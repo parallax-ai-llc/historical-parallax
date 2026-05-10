@@ -21,7 +21,7 @@ Irish diplomat who exposed atrocities in the Congo Free State and Peruvian Amazo
 |------|-------|
 | 1904 | Published Casement Report on Congo atrocities |
 
-## References
+
 
 [^1]: Wikipedia, "Roger Casement" - https://en.wikipedia.org/wiki/Roger_Casement
 
@@ -66,3 +66,6 @@ Irish diplomat who exposed atrocities in the Congo Free State and Peruvian Amazo
 - Atrocities in the Congo Free State
 - Rubber boom in the Amazon (Putumayo)
 - Irish independence movement
+
+
+## References

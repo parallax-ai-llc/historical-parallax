@@ -18,7 +18,7 @@ Jack 'Machine Gun' McGurn was an Al Capone hitman widely believed to have planne
 |------|-------|
 | 1902 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Expanded Biography (High-Level)
@@ -70,3 +70,6 @@ The massacre became one of the most infamous episodes of U.S. organized‑crime 
 ## Death and legacy
 
 McGurn was killed in 1936. His story remains part of the broader public narrative about Prohibition‑era Chicago, where mythmaking, police files, and later reconstructions often overlap.
+
+
+## References

@@ -22,7 +22,7 @@ Japanese general who commanded forces during the Nanjing Massacre. He was convic
 | 1937 | Commanded forces during Nanjing Massacre |
 | 1948 | Executed for war crimes |
 
-## References
+
 
 [^1]: Wikipedia, "Iwane Matsui" - https://en.wikipedia.org/wiki/Iwane_Matsui
 
@@ -48,3 +48,6 @@ Japanese general who commanded forces during the Nanjing Massacre. He was convic
 ## Additional References
 
 [^2]: International Military Tribunal for the Far East (historical overview and documents; general reference): https://www.un.org/en/
+
+
+## References

@@ -21,7 +21,7 @@ Placeholder — economist/academic.
 |------|-------|
 | 1963 | Born |
 
-## References
+
 
 [^1]: Wikipedia, "Jang Ha-joon" - https://en.wikipedia.org/wiki/Jang_Ha-joon
 
@@ -55,3 +55,6 @@ Placeholder — economist/academic.
 [^2]: Jang Ha-joon, *Kicking Away the Ladder* (2002).
 [^3]: Jang Ha-joon, *Bad Samaritans* (2007).
 [^4]: Jang Ha-joon, *23 Things They Don’t Tell You About Capitalism* (2010).
+
+
+## References

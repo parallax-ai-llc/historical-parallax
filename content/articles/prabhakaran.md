@@ -22,7 +22,7 @@ Founder and leader of the Tamil Tigers who pioneered suicide bombing as a tactic
 | 1976 | Founded the Liberation Tigers of Tamil Eelam |
 | 2009 | Killed by Sri Lankan military forces |
 
-## References
+
 
 [^1]: Wikipedia, "Prabhakaran" - https://en.wikipedia.org/wiki/Prabhakaran
 
@@ -51,3 +51,6 @@ Prabhakaran is often discussed in studies of insurgency and counterinsurgency fo
 ## Caution on Sources
 
 Accounts of LTTE governance, battlefield events, and civilian impact vary by source, and many claims are contested due to the intensity of wartime propaganda and the difficulty of independent verification.
+
+
+## References

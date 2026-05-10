@@ -21,7 +21,7 @@ Leadership of the 'Ndrangheta, Calabria's mafia which became Italy's most powerf
 |------|-------|
 | 2010 | Became Italy's dominant crime organization |
 
-## References
+
 
 [^1]: Wikipedia, "Ndrangheta Leadership" - https://en.wikipedia.org/wiki/Ndrangheta_Leadership
 
@@ -78,3 +78,6 @@ The 'Ndrangheta has been widely described as among the most influential Italian 
 ## References and further reading
 
 - For general background on the organization (history, structure, activities), see the broader 'Ndrangheta coverage in encyclopedic and investigative sources.
+
+
+## References

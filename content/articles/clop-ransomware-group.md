@@ -22,7 +22,7 @@ Russian-speaking ransomware group known for mass exploitation of file transfer s
 | 2023 | MOVEit exploit breached 2,500 organizations |
 | 2023 | Stole data of 67 million individuals worldwide |
 
-## References
+
 
 [^1]: Wikipedia, "Clop Ransomware Group" - https://en.wikipedia.org/wiki/Clop_Ransomware_Group
 
@@ -48,3 +48,6 @@ Responses to Clop incidents typically include emergency patching, incident respo
 - Double extortion and data leak sites
 - Vulnerability management in third‑party software
 - Data breach notification and long‑term identity risk
+
+
+## References

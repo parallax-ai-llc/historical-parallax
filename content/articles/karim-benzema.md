@@ -5,7 +5,7 @@ birth: "1987-12-19"
 death: "Unknown"
 nationality: "French"
 occupation: ["Athlete", "Football Player"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Karim_Benzema_Pick.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Karim_Benzema"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Karim Benzema won the 2022 Ballon d'Or and five Champions League titles with Rea
 | 2022 | Won Ballon d'Or and Champions League |
 | 2023 | Moved to Al-Ittihad in Saudi Arabia |
 
-## References
+
 
 [^1]: Wikipedia, "Karim Benzema" - https://en.wikipedia.org/wiki/Karim_Benzema
 
@@ -48,3 +48,6 @@ Karim Benzema won the 2022 Ballon d'Or and five Champions League titles with Rea
 
 - This article is a short, high-level overview intended for quick reference.
 - For detailed chronology, primary sources, and broader context, consult the linked Wikipedia entry and its citations.
+
+
+## References

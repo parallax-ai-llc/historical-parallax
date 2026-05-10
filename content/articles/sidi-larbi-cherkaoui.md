@@ -5,7 +5,7 @@ birth: "1976-03-10"
 death: "Unknown"
 nationality: "Belgian-Moroccan"
 occupation: ["Choreographer", "Dancer"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sidi_Larbi_Cherkaoui.JPG"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sidi_Larbi_Cherkaoui"
 lastUpdated: "2026-02-21"

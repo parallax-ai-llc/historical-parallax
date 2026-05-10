@@ -5,7 +5,7 @@ birth: "1906-03-31"
 death: "1979-07-08"
 nationality: "Japanese"
 occupation: ["Physicist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tomonaga.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shinichiro_Tomonaga"
 lastUpdated: "2026-02-26"

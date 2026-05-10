@@ -22,7 +22,7 @@ Mastermind of the 1962 Alcatraz escape who spent months crafting tools and a raf
 | 1962 | Escaped from Alcatraz |
 | 1979 | Officially declared presumed dead |
 
-## References
+
 
 [^1]: Wikipedia, "Frank Morris" - https://en.wikipedia.org/wiki/Frank_Morris
 
@@ -50,3 +50,6 @@ This page summarizes well-known public reporting; definitive claims about Morris
 - Alcatraz's setting in San Francisco Bay created natural hazards (cold water, strong currents) that factor into survival estimates.
 - Later public tips and claimed sightings have been reported over the years, but none have produced universally accepted proof.
 - The case remains open in popular culture primarily because physical evidence supports both escape preparation and the possibility of failure at sea.
+
+
+## References

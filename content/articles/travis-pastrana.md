@@ -23,7 +23,7 @@ Travis Pastrana is a motorsports legend who won multiple X Games gold medals in 
 | 2006 | First double backflip on a motorcycle at X Games |
 | 2020 | Recreated Evel Knievel's motorcycle jumps |
 
-## References
+
 
 [^1]: Wikipedia, "Travis Pastrana" - https://en.wikipedia.org/wiki/Travis_Pastrana
 
@@ -51,3 +51,6 @@ Travis Pastrana is a motorsports legend who won multiple X Games gold medals in 
 
 - X Games
 - Freestyle motocross
+
+
+## References

@@ -44,7 +44,7 @@ Malaysia Airlines suffered two major disasters in 2014: Flight MH370 disappeared
 - **Airspace management**: MH17 intensified debate about how airlines and regulators assess and communicate conflict-zone airspace risks.
 - **Tracking and communications**: MH370 contributed to renewed focus on aircraft tracking, data communications, and the timeliness and transparency of incident information sharing.
 
-## References
+
 
 [^1]: Wikipedia, "Malaysian Airlines Disasters" - https://en.wikipedia.org/wiki/Malaysian_Airlines_Disasters
 
@@ -52,3 +52,6 @@ Malaysia Airlines suffered two major disasters in 2014: Flight MH370 disappeared
 
 - Malaysia Airlines Flight 370
 - Malaysia Airlines Flight 17
+
+
+## References

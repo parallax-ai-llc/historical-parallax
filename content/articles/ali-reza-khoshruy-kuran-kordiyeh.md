@@ -23,7 +23,7 @@ Iranian serial killer known as the Tehran Vampire who raped and murdered 9 women
 | 1997 | Arrested |
 | 1997 | Publicly executed |
 
-## References
+
 
 [^1]: Wikipedia, "Ali Reza Khoshruy Kuran Kordiyeh" - https://en.wikipedia.org/wiki/Ali_Reza_Khoshruy_Kuran_Kordiyeh
 
@@ -49,3 +49,6 @@ The case is often cited in discussions of crime reporting, public fear during se
 - Crime in Tehran
 
 - Sexual violence and criminal justice
+
+
+## References

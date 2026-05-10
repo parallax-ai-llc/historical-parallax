@@ -35,7 +35,7 @@ King of Pirates who carried out historys most profitable pirate raid, capturing 
 - **Imperial repercussions:** large pirate raids could trigger diplomatic and military responses because they threatened state revenue and commercial interests.
 - **Mythmaking:** “disappearing” figures tend to accumulate folklore, turning partial records into enduring legends.
 
-## References
+
 
 [^1]: Wikipedia, "Henry Every" - https://en.wikipedia.org/wiki/Henry_Every
 
@@ -50,3 +50,6 @@ King of Pirates who carried out historys most profitable pirate raid, capturing 
 - Golden Age of Piracy
 - Maritime trade routes
 - Piracy and privateering
+
+
+## References

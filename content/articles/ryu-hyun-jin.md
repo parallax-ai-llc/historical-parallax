@@ -22,7 +22,7 @@ Ryu Hyun-jin was runner-up for the Cy Young Award in 2019, leading MLB in ERA fo
 | 2013 | Joined LA Dodgers |
 | 2019 | Led MLB in ERA |
 
-## References
+
 
 [^1]: Wikipedia, "Ryu Hyun-jin" - https://en.wikipedia.org/wiki/Ryu_Hyun-jin
 
@@ -62,3 +62,6 @@ Ryu Hyun-jin was runner-up for the Cy Young Award in 2019, leading MLB in ERA fo
 
 [^2]: Wikipedia, "KBO League" - https://en.wikipedia.org/wiki/KBO_League
 [^3]: Wikipedia, "Cy Young Award" - https://en.wikipedia.org/wiki/Cy_Young_Award
+
+
+## References

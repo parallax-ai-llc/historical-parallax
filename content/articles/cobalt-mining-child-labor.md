@@ -23,7 +23,7 @@ Widespread use of child labor in artisanal cobalt mines in the DRC, which produc
 | 2019 | Families sued Apple, Google, Tesla |
 | 2023 | Issue persists |
 
-## References
+
 
 [^1]: Wikipedia, "Cobalt Mining Child Labor" - https://en.wikipedia.org/wiki/Cobalt_Mining_Child_Labor
 
@@ -49,3 +49,5 @@ Widespread use of child labor in artisanal cobalt mines in the DRC, which produc
 
 [^2]: Amnesty International, reporting on child labor and cobalt supply chains (2016).
 [^3]: U.S. lawsuit filings by affected families against major technology and automotive companies (filed 2019).
+
+

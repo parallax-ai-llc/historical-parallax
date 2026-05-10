@@ -23,7 +23,7 @@ Russian serial killer who murdered at least 9 women in the Sverdlovsk region dur
 | 1999 | Arrested by Russian police |
 | 2001 | Sentenced to life imprisonment |
 
-## References
+
 
 [^1]: Wikipedia, "Gennadiy Modestov" - https://en.wikipedia.org/wiki/Gennadiy_Modestov
 
@@ -49,3 +49,6 @@ He was convicted and sentenced to life imprisonment. In Russian criminal justice
 Such crimes can have an outsized effect on small communities, altering daily routines and increasing fear even beyond the directly affected households. Retrospective write-ups often note that apprehension and conviction can bring partial closure, but do not erase long-term trauma for survivors, families, and neighbors.
 
 They also frequently prompt calls for improved coordination across districts and better resourcing for forensic and investigative units.
+
+
+## References

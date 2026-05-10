@@ -22,7 +22,7 @@ Samsung's leadership has been convicted of corruption multiple times. Chairman L
 | 2008 | Lee Kun-hee convicted |
 | 2017 | Lee Jae-yong arrested |
 
-## References
+
 
 [^1]: Wikipedia, "Samsung Corruption" - https://en.wikipedia.org/wiki/Samsung_Corruption
 
@@ -49,3 +49,6 @@ Samsung's leadership has been convicted of corruption multiple times. Chairman L
 
 - 독자가 오해하기 쉬운 용어는 한 줄 정의로 보완합니다.
 - 동음이의/유사 개념이 있다면 구분 기준을 제시합니다.
+
+
+## References

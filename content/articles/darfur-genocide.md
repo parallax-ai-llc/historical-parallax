@@ -22,7 +22,7 @@ Genocide in Darfur from 2003 to present carried out by Sudanese government-backe
 | 2003 | Conflict began |
 | 2009 | ICC warrant for al-Bashir |
 
-## References
+
 
 [^1]: Wikipedia, "Darfur Genocide" - https://en.wikipedia.org/wiki/Darfur_Genocide
 
@@ -51,3 +51,6 @@ Beyond the death toll and displacement, Darfur’s violence reshaped Sudan’s d
 ## See also
 
 - Sudanese conflict history
+
+
+## References

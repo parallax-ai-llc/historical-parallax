@@ -24,7 +24,7 @@ North Korean hacker charged by the US for participation in the Sony Pictures hac
 | 2017 | Helped deploy WannaCry ransomware |
 | 2018 | Charged by US DOJ |
 
-## References
+
 
 [^1]: Wikipedia, "Park Jin Hyok" - https://en.wikipedia.org/wiki/Park_Jin_Hyok
 
@@ -49,3 +49,6 @@ Park Jin Hyok’s name appears in public U.S. government charging documents that
 - Wikipedia article linked above for a detailed chronology and additional references.
 - Biographical dictionaries or subject-specific histories (physics, sport, art history, cybersecurity, or philosophy) for broader context.
 
+
+
+## References

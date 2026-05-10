@@ -22,7 +22,7 @@ Neymar won the CL with Barcelona in 2015 and is Brazil's all-time top scorer. He
 | 2015 | Won CL with Barcelona |
 | 2017 | Transferred to PSG for €222M |
 
-## References
+
 
 [^1]: Wikipedia, "Neymar" - https://en.wikipedia.org/wiki/Neymar
 
@@ -51,3 +51,6 @@ Neymar’s career is often discussed in terms of the gap between peak talent and
 ## References (Additional)
 
 [^2]: UEFA Champions League, Barcelona 2014–15 season overview (competition context) - https://www.uefa.com/uefachampionsleague/
+
+
+## References

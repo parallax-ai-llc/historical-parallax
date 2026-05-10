@@ -3,6 +3,7 @@ name: "Mary J. Blige"
 birth: "1971-01-11"
 nationality: "American"
 occupation: ["Musician", "Singer", "Songwriter"]
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mary_J_Blige_in_2022.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mary_J._Blige"
 lastUpdated: "2026-03-12"

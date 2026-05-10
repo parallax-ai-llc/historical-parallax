@@ -26,7 +26,7 @@ Algerian convicted of financing the 1995 Paris Metro bombings that killed 8 peop
 | 2006 | Convicted of criminal association with a terrorist organisation in France and sentenced to 10 years (sentence later upheld on appeal). |
 | 2007 | Convicted for complicity in assassination in relation with a terrorist enterprise and sentenced to life imprisonment (with a minimum term reported as 22 years). |
 
-## References
+
 
 [^1]: Wikipedia, "Rachid Ramda" - https://en.wikipedia.org/wiki/Rachid_Ramda
 
@@ -58,3 +58,6 @@ Algerian convicted of financing the 1995 Paris Metro bombings that killed 8 peop
 [^2]: BBC News, "Algerian jailed for Paris blasts" (cited in some summaries via Wikipedia).
 [^3]: Reuters, "French court convicts Algerian of Paris bombings" (26 Oct 2007; cited in some summaries via Wikipedia).
 [^4]: The Washington Post, "French court convicts Algerian of Paris bombings" (26 Oct 2007; cited in some summaries via Wikipedia).
+
+
+## References

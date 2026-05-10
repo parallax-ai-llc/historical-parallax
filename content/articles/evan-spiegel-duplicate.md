@@ -21,7 +21,7 @@ Duplicate.
 |------|-------|
 | 1990 | See Evan Spiegel |
 
-## References
+
 
 [^1]: Wikipedia, "Evan Spiegel duplicate" - https://en.wikipedia.org/wiki/Evan_Spiegel_duplicate
 
@@ -56,3 +56,6 @@ Evan Spiegel (born 1990) is an American entrepreneur best known as a co-founder 
 
 [^2]: Wikipedia, "Evan Spiegel" - https://en.wikipedia.org/wiki/Evan_Spiegel
 [^3]: Snap Inc. investor relations - https://investor.snap.com/
+
+
+## References

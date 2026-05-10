@@ -41,10 +41,13 @@ For historical context, the canonical article should cover:
 - **Eiichi Shibusawa** (canonical article): the primary biography for the individual associated with this name.
 - Meiji-era industrialization and the emergence of modern Japanese corporate forms.
 
-## References
+
 
 [^1]: Wikipedia, "Shibusawa Eiichi duplicate" - https://en.wikipedia.org/wiki/Shibusawa_Eiichi_duplicate
 
 ## Editorial Guidance
 
 If this duplicate entry must remain in the dataset, it should stay minimal and redirect readers to the canonical biography. Any detailed claims (company names, titles, dates, or quotations) should be added only to the canonical article where references can be maintained consistently.
+
+
+## References

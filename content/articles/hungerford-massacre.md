@@ -21,7 +21,7 @@ Michael Ryan killed 16 people and wounded 15 in a shooting rampage through Hunge
 |------|-------|
 | 1987 | 16 killed in town rampage |
 
-## References
+
 
 [^1]: Wikipedia, "Hungerford Massacre" - https://en.wikipedia.org/wiki/Hungerford_Massacre
 
@@ -71,3 +71,6 @@ Michael Ryan killed 16 people and wounded 15 in a shooting rampage through Hunge
 ## Notes
 
 - This article summarizes the incident at a high level; exact sequences, locations, and weapon specifications vary by source and are best verified against primary reporting and official records.
+
+
+## References

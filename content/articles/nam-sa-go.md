@@ -24,7 +24,7 @@ Nam Sa-go was a Joseon Dynasty scholar known for his geomantic (pungsu) predicti
 | 1560 | Published predictive works |
 | 1571 | Died in Korea |
 
-## References
+
 
 [^1]: Wikipedia, "Nam Sa-go" - https://en.wikipedia.org/wiki/Nam_Sa-go
 
@@ -52,3 +52,6 @@ This article is a brief overview. For rigorous historical study, consult Korean-
 
 - Comparative studies of feng shui and pungsu in East Asian intellectual history.
 - How geomantic concepts influenced urban planning, royal tomb placement, and local settlement patterns.
+
+
+## References

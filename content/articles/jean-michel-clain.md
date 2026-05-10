@@ -21,7 +21,7 @@ French ISIS member killed alongside brother Fabien in a coalition airstrike in S
 |------|-------|
 | 2019 | Killed in coalition airstrike |
 
-## References
+
 
 [^1]: Wikipedia, "Jean-Michel Clain" - https://en.wikipedia.org/wiki/Jean-Michel_Clain
 
@@ -61,3 +61,6 @@ French ISIS member killed alongside brother Fabien in a coalition airstrike in S
 
 [^2]: Wikipedia (Fabien Clain page includes mentions of Jean-Michel Clain), accessed 2026-03-03 - https://en.wikipedia.org/wiki/Fabien_Clain
 [^3]: The Independent (background reporting on Fabien Clain and IS propaganda, with contextual mentions of networks), 2015 - https://www.independent.co.uk/news/world/europe/paris-attacks-voice-in-isis-video-is-probably-french-jihadist-fabien-clain-a6737736.html
+
+
+## References

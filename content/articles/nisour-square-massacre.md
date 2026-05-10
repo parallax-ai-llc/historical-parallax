@@ -22,7 +22,7 @@ Blackwater security contractors killed 17 Iraqi civilians and injured 20 in Niso
 | 2007 | 17 civilians killed |
 | 2020 | Perpetrators pardoned |
 
-## References
+
 
 [^1]: Wikipedia, "Nisour Square Massacre" - https://en.wikipedia.org/wiki/Nisour_Square_Massacre
 
@@ -49,3 +49,6 @@ The massacre intensified scrutiny of contractor accountability and influenced de
 - the relationship between military, diplomatic security, and private firms.
 
 It also became a symbol of the perceived imbalance between foreign security operations and Iraqi civilian protection.
+
+
+## References

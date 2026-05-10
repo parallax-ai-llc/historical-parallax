@@ -43,7 +43,7 @@ French terrorist of Algerian descent who was one of three gunmen who attacked th
 - Investigations into the November 2015 attacks focused on transnational facilitation networks, including travel routes and logistical support.
 - Trials and judicial proceedings in France later convicted numerous individuals for roles ranging from direct participation to aiding the attackers.
 
-## References
+
 
 [^1]: Wikipedia, "Samy Amimour" - https://en.wikipedia.org/wiki/Samy_Amimour
 
@@ -51,3 +51,6 @@ French terrorist of Algerian descent who was one of three gunmen who attacked th
 
 - Many biographical details in open sources are reported indirectly via court records and post-attack investigations.
 - Public accounts typically focus on travel to Syria, supervision measures, and the operational role in November 2015.
+
+
+## References

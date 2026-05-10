@@ -23,7 +23,7 @@ Italian banker with Mafia ties whose financial empire collapsed in the 1970s. He
 | 1980 | Convicted of fraud |
 | 1986 | Poisoned in prison |
 
-## References
+
 
 [^1]: Wikipedia, "Michele Sindona" - https://en.wikipedia.org/wiki/Michele_Sindona
 
@@ -48,3 +48,6 @@ Sindona died in prison after ingesting cyanide, reported as having been administ
 ## Historical Significance
 
 Sindona is frequently cited in discussions of modern financial scandal in Italy, the interaction between organized crime and legitimate institutions, and the way banking failures can reverberate into political crises.
+
+
+## References

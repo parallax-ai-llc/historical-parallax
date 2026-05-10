@@ -21,7 +21,7 @@ Syrian military commander known as 'The Tiger' who led brutal offensives against
 |------|-------|
 | 2016 | Led military offensives in Aleppo |
 
-## References
+
 
 [^1]: Wikipedia, "Suheil al-Hassan" - https://en.wikipedia.org/wiki/Suheil_al-Hassan
 
@@ -48,3 +48,6 @@ The following are commonly referenced in high-level summaries and should be inte
 - **Name variants:** English-language sources may render his name as *Suhail* or *Suheil* al-Hassan.
 - **Affiliations:** Some profiles associate him with specific Syrian Army formations or intelligence-linked units; precise unit naming and command relationships can shift over time and may differ by source.
 - **Date fields:** Birth/death values in this file are placeholders unless independently verified beyond summary sources.
+
+
+## References

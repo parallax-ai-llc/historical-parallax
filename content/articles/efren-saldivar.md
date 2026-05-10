@@ -23,7 +23,7 @@ American respiratory therapist who murdered 6 patients at Glendale Adventist Med
 | 2002 | Arrested after cold case investigation |
 | 2002 | Convicted of 6 murders; sentenced to life |
 
-## References
+
 
 [^1]: Wikipedia, "Efren Saldivar" - https://en.wikipedia.org/wiki/Efren_Saldivar
 
@@ -52,3 +52,6 @@ Public accounts note a large discrepancy between the number of murders proven in
 
 - Healthcare serial killer
 - Patient safety
+
+
+## References

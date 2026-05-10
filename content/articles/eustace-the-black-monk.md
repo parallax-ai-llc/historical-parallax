@@ -22,7 +22,7 @@ Medieval French pirate and mercenary who served both England and France. Known a
 | 1205 | Became pirate in English Channel |
 | 1217 | Beheaded after Battle of Sandwich |
 
-## References
+
 
 [^1]: Wikipedia, "Eustace the Black Monk" - https://en.wikipedia.org/wiki/Eustace_the_Black_Monk
 
@@ -55,3 +55,6 @@ He persists in popular and historical memory as an example of:
 - the porous boundary between piracy and wartime raiding,
 - the strategic importance of Channel shipping,
 - and how medieval chroniclers blended fact with moralized narrative.
+
+
+## References

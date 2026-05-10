@@ -49,10 +49,13 @@ US private equity fund Lone Star was accused of stock manipulation and bribery t
 - The episode is often cited in discussions of South Korea's post-crisis financial reforms, regulatory credibility, and the politics of foreign capital.
 - It also influenced how the public and policymakers evaluated private equity and cross-border acquisitions of systemically important institutions.
 
-## References
+
 
 [^1]: Wikipedia, "Lone Star Korea Controversy" - https://en.wikipedia.org/wiki/Lone_Star_Korea_Controversy
 
 ## Notes
 
 This is a high-level summary of a long-running controversy with extensive court, regulatory, and political history; precise timelines and legal findings depend on the specific proceeding and year.
+
+
+## References

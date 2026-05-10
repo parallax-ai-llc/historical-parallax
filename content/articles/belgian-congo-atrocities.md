@@ -23,7 +23,7 @@ Brutal exploitation of the Congo Free State under King Leopold II from 1885-1908
 | 1904 | International outcry |
 | 1908 | Belgium took over Congo |
 
-## References
+
 
 [^1]: Wikipedia, "Belgian Congo Atrocities" - https://en.wikipedia.org/wiki/Belgian_Congo_Atrocities
 
@@ -53,3 +53,6 @@ The atrocities remain a major reference point in discussions of colonial violenc
 - Dates, counts, and interpretations can vary by source; consult references for detail.
 - The topic is commonly discussed in terms of institutions, incentives, and long-term impact.
 
+
+
+## References

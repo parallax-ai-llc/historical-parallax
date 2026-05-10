@@ -42,10 +42,13 @@ Saudi Islamic scholar detained and reportedly facing death penalty for his socia
 
 This article is sometimes discussed alongside other detained Saudi public figures from the same period.
 
-## References
+
 
 [^1]: Wikipedia, "Awad al-Qarni" - https://en.wikipedia.org/wiki/Awad_al-Qarni
 
 ## Notes
 
 - The linked Wikipedia page may not always be available under this exact title; use alternative spellings/search if needed.
+
+
+## References

@@ -21,7 +21,7 @@ Female head of the Tijuana Cartel, one of the few women to lead a major Mexican 
 |------|-------|
 | 2008 | Became head of Tijuana Cartel |
 
-## References
+
 
 [^1]: Wikipedia, "Enedina Arellano Félix" - https://en.wikipedia.org/wiki/Enedina_Arellano_F%C3%A9lix
 
@@ -58,3 +58,6 @@ Female head of the Tijuana Cartel, one of the few women to lead a major Mexican 
 
 - This article summarizes high-level claims that appear in widely cited open sources (e.g., encyclopedic references and major reporting).
 - For operational or biographical details beyond these broad points, readers should consult multiple independent sources, since specifics can vary across reports.
+
+
+## References

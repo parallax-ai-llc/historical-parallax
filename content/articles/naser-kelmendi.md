@@ -24,7 +24,7 @@ Kosovar Albanian drug lord and organized crime figure who ran a major narcotics 
 | 2013 | Arrested in Kosovo |
 | 2017 | Convicted of drug trafficking in Kosovo |
 
-## References
+
 
 [^1]: Wikipedia, "Naser Kelmendi" - https://en.wikipedia.org/wiki/Naser_Kelmendi
 
@@ -50,3 +50,6 @@ This entry summarizes high-level, widely reported claims and outcomes; it does n
 
 - Transnational organized crime
 - Targeted financial sanctions
+
+
+## References

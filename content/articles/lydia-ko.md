@@ -24,7 +24,7 @@ Lydia Ko became the youngest LPGA event winner at 15 and won Olympic silver at 2
 | 2016 | Won Olympic silver at Rio |
 | 2024 | Won Olympic gold at Paris |
 
-## References
+
 
 [^1]: Wikipedia, "Lydia Ko" - https://en.wikipedia.org/wiki/Lydia_Ko
 
@@ -55,3 +55,6 @@ Ko is commonly referenced as a benchmark for early excellence in women's golf an
 - LPGA Tour
 - Women's golf world rankings
 - Golf at the Summer Olympics
+
+
+## References

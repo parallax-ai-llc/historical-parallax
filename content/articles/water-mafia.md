@@ -20,7 +20,7 @@ Criminal networks in Indian cities control illegal water distribution, stealing 
 |------|-------|
 | 2015 | Water mafia operations documented |
 
-## References
+
 
 [^1]: Wikipedia, "Water Mafia" - https://en.wikipedia.org/wiki/Water_Mafia
 
@@ -64,3 +64,6 @@ Authorities and utilities often combine multiple approaches:
 ## Notes on Terminology
 
 The term is widely used in media and public discourse; it is not a single legal category. It generally signals the presence of **organized, repeated, and profit‑seeking interference** with water distribution rather than isolated theft.
+
+
+## References

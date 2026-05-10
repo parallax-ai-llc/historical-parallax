@@ -19,7 +19,7 @@ Not sufficiently notable. Skip.
 |------|-------|
 | 1965 | Born |
 
-## References
+
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
 ## Data Availability & Notability
@@ -62,3 +62,6 @@ Romanian names may be transliterated inconsistently (diacritics omitted, variabl
 - Europol, Serious and Organised Crime Threat Assessment (SOCTA)
 - UNODC resources on organized crime and trafficking
 - National prosecutor/law-enforcement public communications (Romania and relevant EU states)
+
+
+## References

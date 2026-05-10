@@ -23,7 +23,7 @@ Hungarian noblewoman known as the 'Blood Countess' who allegedly tortured and mu
 | 1610 | Arrested; sealed in her castle rooms |
 | 1614 | Found dead in her sealed chambers |
 
-## References
+
 
 [^1]: Wikipedia, "Elizabeth Báthory" - https://en.wikipedia.org/wiki/Elizabeth_B%C3%A1thory
 
@@ -50,3 +50,6 @@ While popular culture frequently repeats extreme claims (including the blood-bat
 ## Cultural Legacy
 
 Báthory’s story has persisted for centuries and is often referenced in gothic and horror traditions. She remains a symbol used to explore themes of aristocratic impunity, gendered mythmaking, and the transformation of criminal allegations into enduring folklore.
+
+
+## References

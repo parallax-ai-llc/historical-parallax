@@ -5,7 +5,7 @@ birth: "1863-05-18"
 death: "1863-07-04"
 nationality: "United States"
 occupation: ["Historical Event", "Siege", "American Civil War"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Thure_de_Thulstrup_-_Siege_of_Vicksburg_-_Assault_on_Fort_Hill.jpg/3840px-Thure_de_Thulstrup_-_Siege_of_Vicksburg_-_Assault_on_Fort_Hill.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Siege_of_Vicksburg"
 lastUpdated: "2026-02-21"

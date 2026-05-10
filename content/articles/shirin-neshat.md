@@ -5,7 +5,7 @@ birth: "1957-03-26"
 death: "Unknown"
 nationality: "Iranian-American"
 occupation: ["Photographer", "Filmmaker", "Visual Artist"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Viennale_talk_%282%29%2C_Shirin_Neshat.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shirin_Neshat"
 lastUpdated: "2026-02-21"

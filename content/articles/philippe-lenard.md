@@ -24,7 +24,7 @@ Philippe Lenard won the 1906 Nobel Prize for cathode ray research. He showed cat
 | 1905 | Nobel Prize |
 | 1947 | Died |
 
-## References
+
 
 [^1]: Wikipedia, "Philippe Lenard" - https://en.wikipedia.org/wiki/Philippe_Lenard
 
@@ -48,3 +48,6 @@ In the 1930s he became associated with the "Deutsche Physik" movement, which opp
 
 - **Cathode rays** are streams of electrons observed in evacuated tubes, foundational to early atomic and particle physics.
 - Lenard’s experimental techniques influenced later work on **electron beams**, **vacuum technology**, and radiation measurement.
+
+
+## References

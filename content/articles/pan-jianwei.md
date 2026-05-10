@@ -23,7 +23,7 @@ Pan Jianwei is a Chinese physicist and world leader in quantum information scien
 | 1999 | PhD from University of Vienna |
 | 2016 | Launched Micius quantum satellite |
 
-## References
+
 
 [^1]: Wikipedia, "Pan Jianwei" - https://en.wikipedia.org/wiki/Pan_Jianwei
 
@@ -50,3 +50,6 @@ Pan is frequently cited in overviews of the “quantum race” because his proje
 - Quantum key distribution (QKD)
 - Quantum entanglement
 - Quantum networks
+
+
+## References

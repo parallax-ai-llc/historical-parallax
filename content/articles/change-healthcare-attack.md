@@ -21,7 +21,7 @@ ALPHV ransomware attack on Change Healthcare disrupted prescription processing f
 |------|-------|
 | 2024 | US healthcare system disrupted |
 
-## References
+
 
 [^1]: Wikipedia, "Change Healthcare Attack" - https://en.wikipedia.org/wiki/Change_Healthcare_Attack
 
@@ -79,3 +79,6 @@ ALPHV ransomware attack on Change Healthcare disrupted prescription processing f
 ## Source Caution
 
 This entry intentionally stays high-level. Exact technical root cause, intrusion path, and the scope of data exposure are best verified through official filings, incident reports, and reputable investigative reporting in addition to summary references.
+
+
+## References

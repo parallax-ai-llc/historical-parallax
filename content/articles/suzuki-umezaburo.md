@@ -21,7 +21,7 @@ Already covered - see Suzuki Umetaro. Duplicate check.
 |------|-------|
 | 1874 | Born in Shizuoka |
 
-## References
+
 
 [^1]: Wikipedia, "Suzuki Umezaburo" - https://en.wikipedia.org/wiki/Suzuki_Umezaburo
 
@@ -68,3 +68,5 @@ Until an independent source establishes "Suzuki Umezaburo" as a separate individ
 ## References
 
 [^2]: Wikipedia indicates there is no article at the exact title "Suzuki Umezaburo" (page-not-found notice) - https://en.wikipedia.org/wiki/Suzuki_Umezaburo
+
+

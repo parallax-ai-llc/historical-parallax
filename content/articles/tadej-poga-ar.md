@@ -23,7 +23,7 @@ Tadej Pogačar won the Tour de France, Giro d'Italia, and World Championship in 
 | 2021 | Won second Tour de France |
 | 2024 | Won Tour, Giro, and Worlds in same year |
 
-## References
+
 
 [^1]: Wikipedia, "Tadej Pogačar" - https://en.wikipedia.org/wiki/Tadej_Poga%C4%8Dar
 
@@ -48,3 +48,6 @@ Cycling commentators often cite his early Tour de France wins as a sign of a gen
 ## Context in Modern Cycling
 
 His success is often discussed alongside changes in training, nutrition, aerodynamics, and data-driven racing strategy that have reshaped elite road cycling in the 21st century. Within that environment, his combination of climbing ability and time-trial strength has made him a consistent favorite in multi-week stage races.
+
+
+## References

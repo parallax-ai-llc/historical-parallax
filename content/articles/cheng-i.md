@@ -21,7 +21,7 @@ Chinese pirate who united competing pirate fleets into a confederation of over 1
 | 1805 | United pirate fleets |
 | 1807 | Died in typhoon |
 
-## References
+
 
 [^1]: Wikipedia, "Cheng I" - https://en.wikipedia.org/wiki/Cheng_I
 ## Additional Context
@@ -50,3 +50,6 @@ Chinese pirate who united competing pirate fleets into a confederation of over 1
 - Dates shown in the timeline are for orientation and do not substitute for a full chronology.
 - Where a "death" field is unknown, it typically indicates that a reliable public confirmation was not available in the referenced summary source at the time of compilation.
 - If this page is expanded further, adding citations to additional sources is the safest way to increase specificity without introducing errors.
+
+
+## References

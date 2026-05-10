@@ -21,7 +21,7 @@ French Dominican inquisitor who conducted over 900 trials and wrote the manual f
 |------|-------|
 | 1323 | Wrote Practica Inquisitionis |
 
-## References
+
 
 [^1]: Wikipedia, "Bernard Gui" - https://en.wikipedia.org/wiki/Bernard_Gui
 
@@ -56,3 +56,6 @@ Bernard Gui is widely recognized outside academic history because a character be
 ## Further Reading
 
 [^2]: Encyclopaedia Britannica, "Bernard Gui" - https://www.britannica.com/biography/Bernard-Gui
+
+
+## References

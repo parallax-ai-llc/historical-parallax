@@ -44,7 +44,7 @@ Many details about Islamic State leadership positions and operational responsibi
 
 Reports of his injury and death circulated in stages before being confirmed by U.S. authorities. The broader context includes sustained coalition targeting of Islamic State leadership as the group lost territory.[^1]
 
-## References
+
 
 [^1]: Wikipedia, "Omar al-Shishani" - https://en.wikipedia.org/wiki/Omar_al-Shishani
 
@@ -55,3 +55,6 @@ The figure of al-Shishani is also used in broader analysis of:
 - how foreign-fighter networks formed and moved across borders,
 - the ways armed groups leveraged social media narratives,
 - and the operational challenges of leadership decapitation strategies.
+
+
+## References

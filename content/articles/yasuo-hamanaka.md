@@ -22,7 +22,7 @@ Sumitomo Corporation copper trader known as 'Mr. Copper' who manipulated the glo
 | 1986 | Began manipulating copper markets |
 | 1996 | Losses of $2.6 billion revealed |
 
-## References
+
 
 [^1]: Wikipedia, "Yasuo Hamanaka" - https://en.wikipedia.org/wiki/Yasuo_Hamanaka
 
@@ -58,3 +58,6 @@ For Sumitomo and the wider industry, the case became a reference point for:
 - The difficulty of detecting long-term concealment when reporting channels are compromised.
 - The systemic impact a single desk can have on a global commodity market.
 
+
+
+## References

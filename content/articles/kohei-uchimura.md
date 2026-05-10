@@ -5,7 +5,7 @@ birth: "1989-01-03"
 death: "Unknown"
 nationality: "Japanese"
 occupation: ["Athlete", "Olympic Champion", "Gymnast"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Kohei_Uchimura_%282011%29.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kohei_Uchimura"
 lastUpdated: "2026-02-26"

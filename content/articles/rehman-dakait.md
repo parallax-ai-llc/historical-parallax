@@ -21,7 +21,7 @@ Pakistani gang lord who controlled criminal operations in Karachi before being k
 |------|-------|
 | 2009 | Killed in police encounter |
 
-## References
+
 
 [^1]: Wikipedia, "Rehman Dakait" - https://en.wikipedia.org/wiki/Rehman_Dakait
 
@@ -62,3 +62,6 @@ These are allegations reported in secondary sources and are not reproduced here 
 
 - Different sources may list differing birth/death dates for Dakait; the most widely cited summary references 1980–2009 and a death date in August 2009.[^1]
 - This article preserves previously recorded metadata while adding context from publicly available summaries.
+
+
+## References

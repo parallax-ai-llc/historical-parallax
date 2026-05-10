@@ -23,7 +23,7 @@ Ato Boldon won four Olympic medals for Trinidad and Tobago and was a World Champ
 | 1997 | Won World Championship gold in 200m |
 | 2000 | Won two bronze at Sydney Olympics |
 
-## References
+
 
 [^1]: Wikipedia, "Ato Boldon" - https://en.wikipedia.org/wiki/Ato_Boldon
 
@@ -49,3 +49,6 @@ Ato Boldon won four Olympic medals for Trinidad and Tobago and was a World Champ
 
 ## Notes
 
+
+
+## References

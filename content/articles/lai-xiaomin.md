@@ -5,7 +5,7 @@ birth: "1962-06-01"
 death: "2021-01-29"
 nationality: "China"
 occupation: ["Corrupt Politician"]
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/en/4/44/Lai_Xiaomin.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lai_Xiaomin"
 lastUpdated: "2026-02-26"
@@ -23,7 +23,7 @@ Chinese banker and former chairman of Huarong Asset Management who was executed 
 | 2020 | Convicted; sentenced to death |
 | 2021 | Executed by lethal injection |
 
-## References
+
 
 [^1]: Wikipedia, "Lai Xiaomin" - https://en.wikipedia.org/wiki/Lai_Xiaomin
 
@@ -49,3 +49,6 @@ The case became a prominent example in discussions about corporate governance at
 ## Additional References
 
 [^2]: Public reporting on Huarong’s restructuring and governance reforms following the corruption investigation (see major financial press summaries).
+
+
+## References

@@ -20,7 +20,7 @@ lastUpdated: "2026-02-26"
 |------|-------|
 | 1985 | 39 killed in stadium crush |
 
-## References
+
 
 [^1]: Wikipedia, "Heysel Stadium Disaster" - https://en.wikipedia.org/wiki/Heysel_Stadium_Disaster
 
@@ -51,3 +51,6 @@ lastUpdated: "2026-02-26"
 ## Additional References
 
 [^2]: UEFA / European competition sanctions summaries (see Wikipedia references and linked sources)
+
+
+## References
