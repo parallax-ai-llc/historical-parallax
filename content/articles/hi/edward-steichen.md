@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/edward-steichen.md`. The YAML frontmatter, Markdown formatting, URLs, and publication names are preserved as-is, with all body text translated into Hindi.

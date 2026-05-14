@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been written to `content/articles/zh/daisetz-teitaro-suzuki.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

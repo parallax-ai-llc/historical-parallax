@@ -1,1 +1,0 @@
-Done. The Arabic translation has been saved to `content/articles/ar/eddy-alexandre.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (EminiFX, PACER) were preserved as-is.

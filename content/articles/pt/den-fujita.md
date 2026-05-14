@@ -1,1 +1,0 @@
-Created `content/articles/pt/den-fujita.md` with the Brazilian Portuguese translation.

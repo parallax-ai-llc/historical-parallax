@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/bucha-massacre-2022.md`. YAML frontmatter, Markdown formatting, and all URLs are preserved unchanged.

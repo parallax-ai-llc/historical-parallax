@@ -1,1 +1,0 @@
-Created `content/articles/ja/frederick-soddy.md` with the Japanese translation. The frontmatter is preserved as-is, and all body text (headings, summary, table content, references header) is translated to Japanese following the existing style in the project.

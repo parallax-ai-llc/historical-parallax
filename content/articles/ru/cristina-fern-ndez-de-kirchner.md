@@ -1,1 +1,0 @@
-Created the Russian translation at `content/articles/ru/cristina-fern-ndez-de-kirchner.md`. The YAML frontmatter is preserved exactly, and all body text (headings, table cells, paragraphs, references label) has been translated into Russian.

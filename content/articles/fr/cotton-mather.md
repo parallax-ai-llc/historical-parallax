@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/cotton-mather.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as required.

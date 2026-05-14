@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/ey-wirecard-failure.md`. The YAML frontmatter, URLs, Markdown formatting, and technical abbreviations (TPAs, DAX) are preserved as-is, with all body text translated into Arabic.

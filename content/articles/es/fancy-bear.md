@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/fancy-bear.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (APT28, spearphishing, malware, GRU, DNC) were preserved as-is.

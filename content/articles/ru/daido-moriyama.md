@@ -1,1 +1,0 @@
-Created `content/articles/ru/daido-moriyama.md` with the Russian translation.

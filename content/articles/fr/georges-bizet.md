@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/georges-bizet.md`. The YAML frontmatter, URLs, Markdown formatting, and all proper nouns/titles were preserved as-is, with all body text translated into French.

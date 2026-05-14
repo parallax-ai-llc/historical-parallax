@@ -1,1 +1,0 @@
-Created `content/articles/ar/faith-kipyegon.md` with the full Arabic translation. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

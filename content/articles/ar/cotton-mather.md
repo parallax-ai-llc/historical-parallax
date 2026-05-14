@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/cotton-mather.md`. The YAML frontmatter is preserved as-is, and all body text (summary, timeline table, references heading) has been translated into Arabic.

@@ -1,1 +1,0 @@
-Translation saved to `content/articles/zh/david-adjaye.md`.

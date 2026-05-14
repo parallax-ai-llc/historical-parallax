@@ -1,1 +1,0 @@
-Arabic translation created at `content/articles/ar/duke-of-wellington.md`. All body text (headings, paragraphs, list items, table headers) has been translated, while the YAML frontmatter values, Markdown formatting, and URLs remain unchanged.

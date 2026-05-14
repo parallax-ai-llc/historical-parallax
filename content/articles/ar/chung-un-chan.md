@@ -1,1 +1,0 @@
-Created the Arabic translation at `content/articles/ar/chung-un-chan.md`. The YAML frontmatter is preserved as-is, all body text is translated to Arabic, and Markdown formatting/URLs are kept unchanged.

@@ -1,1 +1,0 @@
-Bengali translation created at `content/articles/bn/ernest-walton.md`. All body text (headings, paragraphs, table headers/cells) is translated, YAML frontmatter and URLs are preserved unchanged, and Markdown formatting is intact.

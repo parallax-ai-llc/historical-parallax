@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/florence-pugh.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are intact, and all body text has been translated into Russian.

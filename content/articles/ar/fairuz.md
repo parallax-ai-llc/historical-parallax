@@ -1,1 +1,0 @@
-Created `content/articles/ar/fairuz.md` with the Arabic translation. All frontmatter values, URLs, and Markdown formatting are preserved as-is.

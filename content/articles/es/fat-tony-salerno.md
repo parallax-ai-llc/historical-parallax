@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/fat-tony-salerno.md`. The YAML frontmatter was preserved exactly as-is, and all body text (headings, paragraphs, table cells, list items, and references) was translated into Spanish.

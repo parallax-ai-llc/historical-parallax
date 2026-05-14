@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/clinton-davisson.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are kept intact.

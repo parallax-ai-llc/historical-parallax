@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/endre-szemer-di.md`. Frontmatter is preserved as-is, and all body text (headings, table headers/cells, paragraphs) has been translated following the existing style of the project's Spanish articles.

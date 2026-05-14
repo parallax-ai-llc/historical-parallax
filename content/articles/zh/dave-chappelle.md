@@ -1,1 +1,0 @@
-The Simplified Chinese translation has been written to `content/articles/zh/dave-chappelle.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

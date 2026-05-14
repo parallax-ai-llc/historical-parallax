@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/frank-drake.md`.

@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/ey-wirecard-failure.md`. Frontmatter, URLs, Markdown formatting, and technical terms are preserved as required.

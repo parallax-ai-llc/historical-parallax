@@ -1,1 +1,0 @@
-Translated article written to `content/articles/pt/d-maso-l-pez-n-ez.md`.

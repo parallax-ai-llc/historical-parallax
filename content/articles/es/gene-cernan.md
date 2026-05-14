@@ -1,1 +1,0 @@
-Created `content/articles/es/gene-cernan.md` with the Spanish translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

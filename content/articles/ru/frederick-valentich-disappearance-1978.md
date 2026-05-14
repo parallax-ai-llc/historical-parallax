@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/frederick-valentich-disappearance-1978.md`. Frontmatter, URLs, Markdown formatting, and references are preserved as-is.

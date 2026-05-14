@@ -1,1 +1,0 @@
-Done. The Spanish translation has been written to `content/articles/es/faxian.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as required.

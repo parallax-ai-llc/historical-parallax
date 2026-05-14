@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/charlotte-joko-beck.md`. Frontmatter, URLs, Markdown formatting, and proper names of institutions/book titles were kept as-is, while all body text was translated to Brazilian Portuguese.

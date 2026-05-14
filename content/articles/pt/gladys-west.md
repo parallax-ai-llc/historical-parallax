@@ -1,1 +1,0 @@
-Translated article saved to `content/articles/pt/gladys-west.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is, with all body text translated to Brazilian Portuguese.

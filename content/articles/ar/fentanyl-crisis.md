@@ -1,1 +1,0 @@
-Arabic translation created at `content/articles/ar/fentanyl-crisis.md`. YAML frontmatter preserved as-is, all body text translated, Markdown formatting and URLs kept unchanged.

@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/dandeny-mu-oz-mosquera.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated into Hindi.

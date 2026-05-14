@@ -1,1 +1,0 @@
-Done. The Russian translation has been saved to `content/articles/ru/franz-fuchs.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

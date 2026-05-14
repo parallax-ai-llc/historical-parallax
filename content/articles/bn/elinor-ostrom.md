@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/elinor-ostrom.md`. All body text (headings, paragraphs, list items, table headers) has been translated, while the YAML frontmatter values, Markdown formatting, and URLs remain unchanged.

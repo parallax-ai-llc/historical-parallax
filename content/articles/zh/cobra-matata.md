@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/zh/cobra-matata.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated into Simplified Chinese, and Markdown formatting/URLs are unchanged.

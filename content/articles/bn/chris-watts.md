@@ -1,1 +1,0 @@
-The Bengali translation has been created at `content/articles/bn/chris-watts.md`. All body text is translated, YAML frontmatter and URLs are preserved as-is, and Markdown formatting is unchanged.

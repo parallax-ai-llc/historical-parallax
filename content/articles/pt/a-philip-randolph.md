@@ -1,1 +1,0 @@
-The file only contains the text `Article written to \`content/articles/a-philip-randolph.md\`.` — it seems the article content was never actually written. Do you have the article content you'd like me to translate, or should I generate it first?

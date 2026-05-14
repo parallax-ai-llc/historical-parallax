@@ -1,3 +1,0 @@
-The file `content/articles/fernando-tatis-jr.md` only contains the placeholder text `Article written to content/articles/fernando-tatis-jr.md.` — it was never populated with actual article content. There's no real Markdown article to translate.
-
-Could you provide the actual article content for Fernando Tatis Jr.? Alternatively, I can look at another article in this repo as a template and generate a full article, then translate it to French — just let me know how you'd like to proceed.

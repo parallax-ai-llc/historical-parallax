@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/emilie-du-chatelet.md`.

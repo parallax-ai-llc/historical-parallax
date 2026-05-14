@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/eli-whitney.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, while the body text (headings, paragraphs, table headers/cells, and section titles) has been translated into Bengali.

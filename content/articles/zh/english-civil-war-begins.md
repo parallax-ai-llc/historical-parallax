@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been written to `content/articles/zh/english-civil-war-begins.md`.

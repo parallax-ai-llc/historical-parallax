@@ -1,1 +1,0 @@
-Done. The translated file has been written to `content/articles/pt/frank-wilczek.md`.

@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/zh/establishment-of-republic-of-korea.md`. The YAML frontmatter is preserved as-is, and all body text (headings, table headers/cells, paragraphs, references) has been translated into Simplified Chinese.

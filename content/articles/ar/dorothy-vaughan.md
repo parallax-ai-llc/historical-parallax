@@ -1,1 +1,0 @@
-Created the Arabic translation at `content/articles/ar/dorothy-vaughan.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (NACA, NASA, FORTRAN) are preserved as-is, with all body text translated into Arabic.

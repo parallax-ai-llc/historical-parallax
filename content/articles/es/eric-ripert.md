@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/eric-ripert.md`. Frontmatter, URLs, Markdown formatting, and proper nouns (restaurant names, book titles, etc.) were preserved as-is.

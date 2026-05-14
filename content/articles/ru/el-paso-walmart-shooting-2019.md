@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/el-paso-walmart-shooting-2019.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into Russian.

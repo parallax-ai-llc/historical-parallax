@@ -1,1 +1,0 @@
-Created `content/articles/ru/frederick-soddy.md` with the Russian translation. Frontmatter is preserved as-is, all body text is translated.

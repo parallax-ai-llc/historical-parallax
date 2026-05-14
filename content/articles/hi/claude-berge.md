@@ -1,1 +1,0 @@
-Created `content/articles/hi/claude-berge.md` with the Hindi translation. Book titles in French and English were kept as-is since they are proper publication names.

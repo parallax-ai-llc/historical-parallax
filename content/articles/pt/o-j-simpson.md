@@ -1,1 +1,0 @@
-Created the translated file at `content/articles/pt/o-j-simpson.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated to Brazilian Portuguese.

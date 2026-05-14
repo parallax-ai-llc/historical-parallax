@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/sejong-the-great.md`. The YAML frontmatter, all URLs, footnote references, and Markdown formatting were preserved exactly as-is, with all body text translated into Brazilian Portuguese.

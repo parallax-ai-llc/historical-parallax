@@ -1,1 +1,0 @@
-Translated article written to `content/articles/zh/frederick-soddy.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Simplified Chinese.

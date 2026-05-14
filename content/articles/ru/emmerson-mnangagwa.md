@@ -1,1 +1,0 @@
-Done. The translated Russian article has been written to `content/articles/ru/emmerson-mnangagwa.md`. The YAML frontmatter, Markdown formatting, URLs, and reference sources are preserved as-is; all body text has been translated into Russian.

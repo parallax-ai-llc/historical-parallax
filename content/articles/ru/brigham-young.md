@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/brigham-young.md`.

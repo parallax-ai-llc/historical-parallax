@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/zh/david-koresh.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated into Simplified Chinese.

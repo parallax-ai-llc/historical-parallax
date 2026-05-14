@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/christiaan-barnard.md`.

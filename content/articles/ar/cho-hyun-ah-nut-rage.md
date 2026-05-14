@@ -1,1 +1,0 @@
-Arabic translation saved to `content/articles/ar/cho-hyun-ah-nut-rage.md`.

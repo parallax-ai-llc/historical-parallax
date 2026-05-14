@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/diljit-dosanjh.md`. Frontmatter values, URLs, Markdown formatting, and film/album titles are preserved as-is.

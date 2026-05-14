@@ -1,1 +1,0 @@
-Translation written to `content/articles/zh/friedrich-schleiermacher.md`. The frontmatter is preserved as-is, and all body text (headings, summary, table cells, references label) has been translated into Simplified Chinese following the existing style of the project's zh translations.

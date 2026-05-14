@@ -1,1 +1,0 @@
-Created the Spanish translation at `content/articles/es/demis-hassabis.md`. The frontmatter is preserved exactly, and all body text (headings, table headers, table cells, summary paragraph) has been translated to Spanish.

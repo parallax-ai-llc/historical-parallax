@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/zh/daniel-ellsberg.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is, with body text translated into Simplified Chinese.

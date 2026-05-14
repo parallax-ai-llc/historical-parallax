@@ -1,1 +1,0 @@
-Translated file created at `content/articles/zh/emil-fischer.md`.

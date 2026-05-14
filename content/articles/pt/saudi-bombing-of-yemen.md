@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been written to `content/articles/pt/saudi-bombing-of-yemen.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting kept intact, and all body text translated.

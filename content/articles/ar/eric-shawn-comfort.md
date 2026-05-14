@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/eric-shawn-comfort.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

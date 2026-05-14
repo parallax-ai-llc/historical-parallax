@@ -1,1 +1,0 @@
-The file exists but its content is literally just `Article written to \`content/articles/bobby-flay.md\`.` — it appears the article body was never written. Could you share the actual article content you'd like translated, or let me know how the article should be generated?

@@ -1,1 +1,0 @@
-Done. The translated file has been created at `content/articles/zh/elisabeth-elliot.md`.

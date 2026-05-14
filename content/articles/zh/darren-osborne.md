@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/zh/darren-osborne.md`. YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting is maintained.

@@ -1,1 +1,0 @@
-Done. The Brazilian Portuguese translation has been saved to `content/articles/pt/francois-henri-pinault.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

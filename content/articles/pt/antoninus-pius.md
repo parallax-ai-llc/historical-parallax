@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/antoninus-pius.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references were all preserved unchanged, while all body text (headings, paragraphs, table cells, quotes) was translated.

@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/dmitri-hvorostovsky.md`. All body text (headings, paragraphs, table headers) is translated to বাংলা while the YAML frontmatter values, Markdown formatting, and URLs are preserved unchanged.

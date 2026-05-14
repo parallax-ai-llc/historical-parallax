@@ -1,1 +1,0 @@
-Created the Simplified Chinese translation at `content/articles/zh/eileen-gu.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

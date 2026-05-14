@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/elif-shafak.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as in the original.

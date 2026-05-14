@@ -1,1 +1,0 @@
-Bengali translation saved to `content/articles/bn/do-kwon-trial.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (UST, LUNA, etc.) are preserved as-is, with all body text translated into বাংলা.

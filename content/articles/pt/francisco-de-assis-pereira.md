@@ -1,1 +1,0 @@
-Created the Brazilian Portuguese translation at `content/articles/pt/francisco-de-assis-pereira.md`. The YAML frontmatter was preserved as-is, and all body text (headings, table cells, list items, paragraphs) was translated.

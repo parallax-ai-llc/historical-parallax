@@ -1,1 +1,0 @@
-Translated article written to `content/articles/es/gilberto-gil.md`. Frontmatter kept as-is, all body text translated to Spanish.

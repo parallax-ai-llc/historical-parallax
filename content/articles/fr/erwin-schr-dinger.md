@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/erwin-schr-dinger.md`. The YAML frontmatter is preserved exactly, and all body text (headings, table headers/cells, paragraphs, references) has been translated into French.

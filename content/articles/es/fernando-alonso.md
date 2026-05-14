@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/fernando-alonso.md`. The YAML frontmatter was kept intact, all Markdown formatting and URLs preserved, and all body text translated into Spanish.

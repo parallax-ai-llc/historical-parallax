@@ -1,1 +1,0 @@
-The file `content/articles/adam-ferguson.md` only contains a placeholder line — the actual article content was never written to it. Could you paste the article text here, or check where the content is?

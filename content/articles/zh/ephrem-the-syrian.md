@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/zh/ephrem-the-syrian.md`.

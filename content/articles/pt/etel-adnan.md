@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been created at `content/articles/pt/etel-adnan.md`. Frontmatter, URLs, and Markdown formatting were preserved as-is.

@@ -1,1 +1,0 @@
-Hindi translation written to `content/articles/hi/choi-in-hee.md`.

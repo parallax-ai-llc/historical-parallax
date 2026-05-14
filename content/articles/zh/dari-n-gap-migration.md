@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/zh/dari-n-gap-migration.md`. YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting and URLs are unchanged.

@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/omar-mateen.md`. All body text was translated to Brazilian Portuguese while keeping the YAML frontmatter, Markdown formatting, and URLs unchanged.

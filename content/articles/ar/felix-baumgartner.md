@@ -1,1 +1,0 @@
-Created `content/articles/ar/felix-baumgartner.md` with the full Arabic translation. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text (headings, paragraphs, table cells, list items) has been translated into Arabic.

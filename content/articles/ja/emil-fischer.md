@@ -1,1 +1,0 @@
-Created `content/articles/ja/emil-fischer.md` with the full Japanese translation. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

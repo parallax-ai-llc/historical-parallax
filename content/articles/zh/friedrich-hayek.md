@@ -1,1 +1,0 @@
-Created `content/articles/zh/friedrich-hayek.md` with the Simplified Chinese translation. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

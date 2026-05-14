@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/dmitri-ivanovsky.md`. The frontmatter is preserved exactly as-is, all body text (summary, timeline headings, table cells) is translated into Bengali, and Markdown formatting and URLs are kept unchanged.

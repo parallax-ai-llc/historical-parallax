@@ -1,1 +1,0 @@
-Done. The translated file has been written to `content/articles/pt/glenn-arcaro.md` with all body text in Brazilian Portuguese, frontmatter preserved as-is, and all Markdown formatting and URLs unchanged.

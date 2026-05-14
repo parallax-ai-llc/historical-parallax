@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/zh/ernest-hemingway.md`. The YAML frontmatter, URLs, Markdown formatting, and structure are all preserved; all body text has been translated into Simplified Chinese.

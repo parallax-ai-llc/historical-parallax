@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/dari-n-gap-migration.md`. All YAML frontmatter, URLs, and Markdown formatting preserved as-is.

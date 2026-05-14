@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/daley-thompson.md`. All YAML frontmatter, URLs, and Markdown formatting preserved as-is.

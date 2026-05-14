@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/albrecht-durer.md`. The YAML frontmatter, URLs, Markdown formatting, and references were all preserved as-is, while all body text (headings, paragraphs, table cells, quotes) was translated into Brazilian Portuguese.

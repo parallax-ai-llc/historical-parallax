@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/daniel-rolling.md`. The YAML frontmatter was preserved exactly as-is, and all body text (headings, paragraphs, table cells, list items, references) was translated into Russian.

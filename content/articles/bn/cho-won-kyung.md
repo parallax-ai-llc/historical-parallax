@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/cho-won-kyung.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms like "membrane" (মেমব্রেন) are preserved. All body text including headings, table headers/cells, and references section title have been translated to Bengali.

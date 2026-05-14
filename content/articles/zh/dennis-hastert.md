@@ -1,1 +1,0 @@
-The Simplified Chinese translation has been written to `content/articles/zh/dennis-hastert.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/craig-venter.md`. The YAML frontmatter is preserved as-is, all body text is translated, and the formatting and URLs are unchanged.

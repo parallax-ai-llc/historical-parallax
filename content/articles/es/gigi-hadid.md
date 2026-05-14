@@ -1,1 +1,0 @@
-Created `content/articles/es/gigi-hadid.md` with the full Spanish translation. Frontmatter values, URLs, Markdown formatting, and brand/proper names are preserved as-is.

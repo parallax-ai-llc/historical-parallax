@@ -1,1 +1,0 @@
-Done. The Spanish translation has been written to `content/articles/es/geoffrey-hinton.md`. Frontmatter kept intact, all body text translated, and Markdown formatting preserved.

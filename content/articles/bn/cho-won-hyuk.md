@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/cho-won-hyuk.md`. All YAML frontmatter values, URLs, Markdown formatting, and the name "Cho Won-hyuk" are preserved as-is, while all body text has been translated into Bengali.

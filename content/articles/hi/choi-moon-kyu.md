@@ -1,1 +1,0 @@
-Hindi translation written to `content/articles/hi/choi-moon-kyu.md`.

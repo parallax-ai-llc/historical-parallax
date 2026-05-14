@@ -1,1 +1,0 @@
-Created `content/articles/es/fusajiro-yamauchi.md` with the Spanish translation. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

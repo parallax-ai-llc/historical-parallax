@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/pt/claude-duval.md`. The YAML frontmatter was kept intact, all Markdown formatting preserved, and the body text translated into Brazilian Portuguese.

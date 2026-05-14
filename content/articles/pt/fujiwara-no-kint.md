@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/fujiwara-no-kinto.md`. The YAML frontmatter, URLs, Markdown formatting, and references were all kept unchanged as requested.

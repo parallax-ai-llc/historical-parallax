@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/ettore-sottsass.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

@@ -1,3 +1,0 @@
-The file at `content/articles/dj-khaled.md` only contains the placeholder text `Article written to \`content/articles/dj-khaled.md\`.` — there's no actual article content to translate.
-
-Could you paste the full Markdown article for DJ Khaled so I can translate it into Hindi?

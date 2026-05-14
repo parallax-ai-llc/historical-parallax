@@ -1,1 +1,0 @@
-Bengali translation saved to `content/articles/bn/christian-ii-of-denmark.md`.

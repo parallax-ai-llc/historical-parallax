@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/christian-bale.md`. The YAML frontmatter, URLs, Markdown formatting, and film titles are preserved as-is, while all body text has been translated into Arabic.

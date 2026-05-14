@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/diophantus.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (like "Diophantine") are preserved as-is, while all body text has been translated into Bengali.

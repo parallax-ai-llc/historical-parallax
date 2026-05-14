@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/frank-stella.md`. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are unchanged, and the body text is fully translated into Russian.

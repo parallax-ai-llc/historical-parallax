@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/eta.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved unchanged.

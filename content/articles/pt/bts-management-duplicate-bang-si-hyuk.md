@@ -1,1 +1,0 @@
-Done. The translated article has been written to `content/articles/pt/bts-management-duplicate-bang-si-hyuk.md` with frontmatter preserved as-is and all body text translated to Brazilian Portuguese.

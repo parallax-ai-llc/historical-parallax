@@ -1,3 +1,0 @@
-The `content/articles/chovy.md` file doesn't contain an actual article — it only has a placeholder description. There's no YAML frontmatter or body text to translate.
-
-Could you provide the actual Markdown article content for Chovy? Either paste it here or ensure the file has been written with the full markdown content (with YAML frontmatter, headings, paragraphs, etc.) so I can translate it into Brazilian Portuguese.

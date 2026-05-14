@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/eusebio.md`. The YAML frontmatter, Markdown formatting, URLs, and table structure are all preserved exactly as in the original.

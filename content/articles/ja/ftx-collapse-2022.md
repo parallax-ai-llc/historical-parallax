@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/ftx-collapse-2022.md`. Frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

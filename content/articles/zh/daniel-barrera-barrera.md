@@ -1,1 +1,0 @@
-The translated Simplified Chinese file has been created at `content/articles/zh/daniel-barrera-barrera.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

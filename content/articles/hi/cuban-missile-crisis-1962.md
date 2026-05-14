@@ -1,1 +1,0 @@
-The Hindi translation has been saved to `content/articles/hi/cuban-missile-crisis-1962.md`. The YAML frontmatter, Markdown formatting, URLs, and proper names are preserved as-is, with all body text translated into Hindi.

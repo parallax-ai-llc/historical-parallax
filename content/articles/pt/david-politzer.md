@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/david-politzer.md`. All body text is translated to Brazilian Portuguese while the YAML frontmatter values and Markdown formatting remain unchanged.

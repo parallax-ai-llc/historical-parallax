@@ -1,1 +1,0 @@
-Created `content/articles/ru/daniel-tsui.md` with the Russian translation. Frontmatter kept intact, all body text translated.

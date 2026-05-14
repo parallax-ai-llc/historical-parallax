@@ -1,1 +1,0 @@
-The Bengali translation has been saved to `content/articles/bn/emil-fischer.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms (like Fischer projection, indole synthesis, esterification) were preserved as required.

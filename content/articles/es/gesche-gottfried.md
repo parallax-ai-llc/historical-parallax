@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/gesche-gottfried.md`. The YAML frontmatter was kept unchanged, all body text was translated, and Markdown formatting and URLs were preserved.

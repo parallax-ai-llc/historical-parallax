@@ -1,1 +1,0 @@
-Spanish translation saved to `content/articles/es/george-best.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is, with all body text (including the Korean supplementary notes) translated into Spanish.

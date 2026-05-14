@@ -1,1 +1,0 @@
-French translation saved to `content/articles/fr/buenos-aires-bank-robbery-2006.md`.

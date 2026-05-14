@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/gilbert-lewis.md`. The YAML frontmatter was preserved as-is, all body text was translated, and Markdown formatting and URLs were kept unchanged.

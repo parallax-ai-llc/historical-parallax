@@ -1,1 +1,0 @@
-Done. The translated file has been created at `content/articles/pt/battle-of-britain-1940.md`. The YAML frontmatter, URLs, Markdown formatting, and aircraft/system names were preserved as-is, while all body text was translated into Brazilian Portuguese.

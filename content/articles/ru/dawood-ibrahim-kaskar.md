@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/dawood-ibrahim-kaskar.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

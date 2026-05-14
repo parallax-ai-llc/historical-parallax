@@ -1,1 +1,0 @@
-Russian translation saved to `content/articles/ru/daniel-abed-khalife.md`. YAML frontmatter kept as-is, all body text translated, formatting and URLs preserved.

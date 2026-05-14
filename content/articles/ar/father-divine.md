@@ -1,3 +1,0 @@
-The file at `content/articles/father-divine.md` doesn't contain an actual article — it only has a one-line summary/description, not a Markdown article with YAML frontmatter, headings, and body text.
-
-Could you provide the actual article content to translate, or let me know where the full article source is located? I need the real Markdown file with frontmatter and body text to produce the Arabic translation.

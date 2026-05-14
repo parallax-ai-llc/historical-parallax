@@ -1,1 +1,0 @@
-Hindi translation written to `content/articles/hi/dag-hammarskj-ld.md`. The YAML frontmatter is preserved as-is, and all body text (headings, summary, table cells, references label) has been translated into Hindi.

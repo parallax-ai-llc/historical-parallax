@@ -1,3 +1,0 @@
-The file `content/articles/a-philip-randolph.md` only contains the text `Article written to \`content/articles/a-philip-randolph.md\`.` — it appears the article generation script wrote a placeholder message instead of the actual content (59 bytes total).
-
-There's no article content to translate. Could you re-run the article generation script for A. Philip Randolph, or paste the article content directly?

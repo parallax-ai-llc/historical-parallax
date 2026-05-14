@@ -1,1 +1,0 @@
-Created `content/articles/ru/friedrich-w-hler.md` with the Russian translation. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is; all body text has been translated into Russian.

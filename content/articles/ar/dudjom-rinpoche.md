@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/dudjom-rinpoche.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Arabic.

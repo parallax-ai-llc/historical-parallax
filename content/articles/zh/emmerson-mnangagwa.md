@@ -1,1 +1,0 @@
-The Simplified Chinese translation has been saved to `content/articles/zh/emmerson-mnangagwa.md`. All YAML frontmatter values, URLs, Markdown formatting, and footnote references are preserved as-is.

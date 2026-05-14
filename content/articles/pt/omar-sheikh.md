@@ -1,1 +1,0 @@
-Done. The translated file has been created at `content/articles/pt/omar-sheikh.md`. YAML frontmatter was preserved as-is, and all body text was translated to Brazilian Portuguese.

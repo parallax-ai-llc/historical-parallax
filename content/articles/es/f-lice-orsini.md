@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/f-lice-orsini.md`. The YAML frontmatter is preserved exactly, all body text is translated, and Markdown formatting and URLs are unchanged.

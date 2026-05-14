@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/fazlur-rahman-khan.md`.

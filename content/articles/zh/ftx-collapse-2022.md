@@ -1,1 +1,0 @@
-Translated article written to `content/articles/zh/ftx-collapse-2022.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated to Simplified Chinese, and Markdown formatting/URLs are unchanged.

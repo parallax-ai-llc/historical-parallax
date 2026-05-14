@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/erwin-chargaff.md`. Frontmatter, URLs, Markdown formatting, and technical terms (DNA, adenine, thymine, etc.) are preserved as-is.

@@ -1,1 +1,0 @@
-Created `content/articles/pt/government-ekpemupolo.md` with the full Brazilian Portuguese translation. All YAML frontmatter values, URLs, and Markdown formatting were preserved exactly as-is.

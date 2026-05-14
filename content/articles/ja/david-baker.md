@@ -1,1 +1,0 @@
-Done. The Japanese translation has been written to `content/articles/ja/david-baker.md`.

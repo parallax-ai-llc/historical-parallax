@@ -1,1 +1,0 @@
-Created the Arabic translation at `content/articles/ar/daigo-umehara.md`. All body text (headings, paragraphs, list items, table cells) has been translated to Arabic while keeping the YAML frontmatter, Markdown formatting, URLs, and game titles unchanged.

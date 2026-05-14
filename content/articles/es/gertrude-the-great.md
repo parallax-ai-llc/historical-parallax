@@ -1,1 +1,0 @@
-Done. The Spanish translation has been written to `content/articles/es/gertrude-the-great.md`.

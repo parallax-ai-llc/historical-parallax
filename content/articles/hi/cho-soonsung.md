@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/cho-soonsung.md`.

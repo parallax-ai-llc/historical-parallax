@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/cho-joong-hoon.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, while all body text including headings, table headers, table cells, and section titles have been translated into Bengali.

@@ -1,1 +1,0 @@
-Created `content/articles/ja/dame-sarah-gilbert.md` with the Japanese translation.

@@ -1,1 +1,0 @@
-Created `content/articles/fr/ginni-rometty.md` with the French translation. All frontmatter values, URLs, and Markdown formatting are preserved as-is.

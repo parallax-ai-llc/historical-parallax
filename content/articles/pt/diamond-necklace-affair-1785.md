@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/diamond-necklace-affair-1785.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is, with only the body text translated into Brazilian Portuguese.

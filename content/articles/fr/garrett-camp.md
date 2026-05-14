@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/garrett-camp.md`. All frontmatter values, URLs, and Markdown formatting are preserved as-is.

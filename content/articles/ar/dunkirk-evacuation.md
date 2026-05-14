@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/dunkirk-evacuation.md`. The YAML frontmatter, Markdown formatting, URLs, and dates are all preserved as-is.

@@ -1,1 +1,0 @@
-Done. The Brazilian Portuguese translation has been written to `content/articles/pt/girolamo-cardano.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

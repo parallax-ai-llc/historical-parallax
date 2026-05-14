@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/can-xue.md`. Book titles were kept in their published English form since they are proper titles under which the works are internationally known.

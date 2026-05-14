@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/darwin-evolution-1859.md`. The YAML frontmatter values (id, date, location, coordinates, category, image, socialLinks, lastUpdated) are preserved as-is, while `title` and `outcome` were translated since they are display text.

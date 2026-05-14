@@ -1,1 +1,0 @@
-Hindi translation written to `content/articles/hi/ernst-boris-chain.md`. YAML frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/zh/david-headley.md`.

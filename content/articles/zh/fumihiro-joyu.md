@@ -1,3 +1,0 @@
-It looks like neither the English nor the Spanish version has actual content — both are placeholder stubs. There's no actual article content to translate.
-
-Could you provide the actual Markdown article content for Fumihiro Joyu? The file at `content/articles/fumihiro-joyu.md` only contains a placeholder line, not the real article. Please paste the full article text or ensure the file has been properly written first.

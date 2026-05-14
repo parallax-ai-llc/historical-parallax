@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/choi-gee-sung.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, while all body text (headings, paragraphs, table headers/cells) has been translated into Bengali with Bengali numerals.

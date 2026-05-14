@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/ernest-shackleton-endurance-1914.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and the body text has been fully translated into French.

@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/desiderius-erasmus.md`. The YAML frontmatter, URLs, Markdown formatting, and references are preserved as-is, with all body text translated into Bengali.

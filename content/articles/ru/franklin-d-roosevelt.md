@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/franklin-d-roosevelt.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are kept intact.

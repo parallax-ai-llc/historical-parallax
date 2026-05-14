@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/ethel-rosenberg.md`.

@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/can-xue.md`. Book titles were kept in English as they are commonly referenced by their original titles.

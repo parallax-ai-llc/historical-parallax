@@ -1,1 +1,0 @@
-Done. The translated article has been written to `content/articles/pt/grace-o-malley.md` with all YAML frontmatter, URLs, and Markdown formatting preserved as-is.

@@ -1,1 +1,0 @@
-Done. The Spanish translation has been saved to `content/articles/es/conor-fitzpatrick.md` with all YAML frontmatter preserved as-is and all body text translated.

@@ -1,1 +1,0 @@
-Done. The article has been translated into Arabic at `content/articles/ar/bodo-league-massacre.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text (headings, paragraphs, list items) has been translated.

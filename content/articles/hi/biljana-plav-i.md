@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/biljana-plav-i.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (ICTY) are preserved as-is, with all body text translated into Hindi.

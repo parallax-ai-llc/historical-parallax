@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/garimpo-amazon.md`. All YAML frontmatter values, URLs, Markdown formatting, and footnote references were preserved as-is.

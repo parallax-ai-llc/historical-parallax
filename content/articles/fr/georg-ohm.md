@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/georg-ohm.md`. The YAML frontmatter, Markdown formatting, URLs, and the original German title of Ohm's publication were all preserved as-is.

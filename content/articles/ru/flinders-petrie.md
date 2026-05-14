@@ -1,1 +1,0 @@
-The file `content/articles/flinders-petrie.md` only contains a placeholder line, not the actual article. Could you paste the full Markdown content of the Flinders Petrie article so I can translate it into Russian?

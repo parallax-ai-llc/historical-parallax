@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/fall-of-berlin-wall-1989.md`. The YAML frontmatter is preserved as-is, all body text (headings, paragraphs, table cells, list items, blockquotes) is translated into Arabic, and all Markdown formatting and URLs are unchanged.

@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/florisvaldo-de-oliveira.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting and URLs were kept intact, and all body text (headings, paragraphs, table cells, list items) was translated into Japanese.

@@ -1,1 +1,0 @@
-The translated Japanese article has been saved to `content/articles/ja/chung-yong-jin.md`. The YAML frontmatter is preserved as-is, all Markdown formatting is intact, and all body text has been translated into Japanese.

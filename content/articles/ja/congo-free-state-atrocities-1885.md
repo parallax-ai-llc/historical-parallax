@@ -1,1 +1,0 @@
-Done. The article has been translated to Japanese at `content/articles/ja/congo-free-state-atrocities.md`. The YAML frontmatter values are preserved as-is, all Markdown formatting is intact, and all body text has been translated.

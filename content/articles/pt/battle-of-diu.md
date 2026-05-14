@@ -1,1 +1,0 @@
-Created `content/articles/pt/battle-of-diu.md` with the Brazilian Portuguese translation.

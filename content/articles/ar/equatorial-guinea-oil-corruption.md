@@ -1,1 +1,0 @@
-Created the Arabic translation at `content/articles/ar/equatorial-guinea-oil-corruption.md`. The YAML frontmatter is preserved exactly as-is, all body text (headings, paragraphs, table cells, list items) is translated to Arabic, and all Markdown formatting and URLs are kept unchanged.

@@ -1,1 +1,0 @@
-The translated file has been saved to `content/articles/pt/shiro-ishii.md`.

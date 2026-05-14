@@ -1,1 +1,0 @@
-Translation created at `content/articles/zh/george-orwell.md`. The YAML frontmatter is preserved as-is, all body text is translated into Simplified Chinese, and Markdown formatting/URLs are unchanged.

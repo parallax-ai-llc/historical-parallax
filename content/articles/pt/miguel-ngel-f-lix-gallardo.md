@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/miguel-ngel-f-lix-gallardo.md` with the YAML frontmatter kept intact and all body text translated to Brazilian Portuguese.

@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/francoise-bettencourt-meyers.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Japanese.

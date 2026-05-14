@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/frank-abagnale.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting is kept intact.

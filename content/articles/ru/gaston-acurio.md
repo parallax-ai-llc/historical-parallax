@@ -1,1 +1,0 @@
-The file only contains the literal text "Article written to `content/articles/gaston-acurio.md`." — it appears the article content was never actually written to it. Could you provide the article content you'd like translated, or let me know how to generate it?

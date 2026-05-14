@@ -1,1 +1,0 @@
-Done. The translated file has been saved to `content/articles/zh/genesis-lending-collapse.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Simplified Chinese.

@@ -1,1 +1,0 @@
-Created `content/articles/pt/gilberto-gil.md` with the Brazilian Portuguese translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

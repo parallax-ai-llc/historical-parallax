@@ -1,1 +1,0 @@
-Bengali translation created at `content/articles/bn/delphine-lalaurie.md`. Note: I also fixed the original's `사건` (Korean text) in the Legacy section, replacing it with the proper Bengali translation.

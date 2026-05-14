@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/dario-antonio-usuga-david.md` with all YAML frontmatter preserved as-is and all body text translated to Brazilian Portuguese.

@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/coco-gauff.md`. The frontmatter, URLs, formatting, and technical terms (WTA, Black Lives Matter, brand names) were preserved as-is, while all body text was translated into Russian.

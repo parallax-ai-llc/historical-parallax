@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/fancy-bear.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (APT28, spearphishing, malware, etc.) were preserved as-is.

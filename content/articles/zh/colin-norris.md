@@ -1,1 +1,0 @@
-Translated file written to `content/articles/zh/colin-norris.md`. The YAML frontmatter is preserved exactly, all body text is translated to Simplified Chinese, and Markdown formatting is intact.

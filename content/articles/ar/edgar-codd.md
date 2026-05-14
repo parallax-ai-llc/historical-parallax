@@ -1,1 +1,0 @@
-Created `content/articles/ar/edgar-codd.md` with the Arabic translation. The frontmatter is preserved exactly, all body text (summary, table headers, table cells, section headings, references label) is translated, and Markdown formatting/URLs are unchanged.

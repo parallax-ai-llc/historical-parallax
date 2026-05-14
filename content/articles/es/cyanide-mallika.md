@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/cyanide-mallika.md`. The YAML frontmatter, URLs, Markdown formatting, and the nickname "Cyanide Mallika" were all preserved as-is.

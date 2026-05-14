@@ -1,1 +1,0 @@
-Created `content/articles/es/garry-winogrand.md` with the full Spanish translation. Frontmatter values are preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

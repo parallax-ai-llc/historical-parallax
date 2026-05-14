@@ -1,1 +1,0 @@
-Done. The translated article has been created at `content/articles/pt/gregory-winter.md`, following the same format as existing Portuguese translations in the project.

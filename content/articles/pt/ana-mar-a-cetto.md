@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/ana-mar-a-cetto.md`.

@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/elizabeth-of-hungary.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and the body text (headings, paragraphs, table cells) is translated into Bengali following the same conventions as the existing Bengali articles in the project.

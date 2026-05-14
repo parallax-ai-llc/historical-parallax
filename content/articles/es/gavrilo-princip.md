@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/gavrilo-princip.md`. The YAML frontmatter was kept intact, all Markdown formatting preserved, and all body text translated into Spanish.

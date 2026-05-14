@@ -1,1 +1,0 @@
-The translated Spanish article has been written to `content/articles/es/enriqueta-mart.md`. The YAML frontmatter was preserved exactly as-is, and all body text was translated into Spanish.

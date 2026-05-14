@@ -1,1 +1,0 @@
-Created the Brazilian Portuguese translation at `content/articles/pt/giancarlo-siani.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is, with all body text translated.

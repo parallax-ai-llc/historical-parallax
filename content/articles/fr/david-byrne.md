@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/david-byrne.md`. All body text (headings, paragraphs, table headers, list items) has been translated while keeping the YAML frontmatter, Markdown formatting, URLs, and album/film titles intact.

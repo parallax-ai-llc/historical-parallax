@@ -1,1 +1,0 @@
-Arabic translation created at `content/articles/ar/eulsa-treaty.md`. The YAML frontmatter is preserved unchanged, all body text is translated to Arabic, and Markdown formatting and URLs are kept intact.

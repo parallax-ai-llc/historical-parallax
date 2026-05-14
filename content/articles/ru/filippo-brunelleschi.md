@@ -1,1 +1,0 @@
-Created the Russian translation at `content/articles/ru/filippo-brunelleschi.md`. The YAML frontmatter is preserved exactly, and all body text has been translated into Russian.

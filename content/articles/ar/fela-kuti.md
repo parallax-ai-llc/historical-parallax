@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/fela-kuti.md`. The YAML frontmatter, Markdown formatting, URLs, and the album title were kept as-is, while all body text was translated into Arabic.

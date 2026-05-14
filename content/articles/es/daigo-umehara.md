@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/daigo-umehara.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (game titles, event names, etc.) were preserved as-is.

@@ -1,1 +1,0 @@
-Created `content/articles/pt/mercedes-sosa.md` with the full Brazilian Portuguese translation. YAML frontmatter, URLs, Markdown formatting, and album/document titles in Spanish were all preserved as-is.

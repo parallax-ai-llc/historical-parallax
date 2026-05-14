@@ -1,1 +1,0 @@
-Created `content/articles/es/georgi-markov.md` with the Spanish translation. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/bernard-arnault-dup2.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

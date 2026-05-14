@@ -1,1 +1,0 @@
-Bengali translation created at `content/articles/bn/billy-the-kid.md`. The YAML frontmatter is preserved as-is, all body text is translated to Bengali, and Markdown formatting, URLs, and reference sources are kept unchanged.

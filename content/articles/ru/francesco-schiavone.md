@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/francesco-schiavone.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (like "pizzo" and "pentiti") were preserved as-is.

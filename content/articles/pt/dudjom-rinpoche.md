@@ -1,1 +1,0 @@
-The translated article has been created at `content/articles/pt/dudjom-rinpoche.md`. The YAML frontmatter was kept unchanged, and all body text (headings, paragraphs, table cells) was translated into Brazilian Portuguese.

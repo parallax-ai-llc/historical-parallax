@@ -1,1 +1,0 @@
-Translated article written to `content/articles/zh/galileo-trial-1633.md`. The YAML frontmatter is preserved exactly as-is, all body text (headings, paragraphs, table cells, list items, blockquotes) is translated into Simplified Chinese, and all Markdown formatting and URLs remain unchanged.

@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/eleuthere-irenee-du-pont.md`.

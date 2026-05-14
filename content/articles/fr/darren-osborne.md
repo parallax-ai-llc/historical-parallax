@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/darren-osborne.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

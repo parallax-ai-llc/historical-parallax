@@ -1,1 +1,0 @@
-The Simplified Chinese translation has been written to `content/articles/zh/colombia-paro-nacional-2021.md`. YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

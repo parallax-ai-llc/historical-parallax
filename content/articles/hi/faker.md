@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/faker.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (like "GOAT", "meta", team names) are preserved as-is, while all body text has been translated into Hindi.

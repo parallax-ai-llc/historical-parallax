@@ -1,1 +1,0 @@
-Created `content/articles/hi/daisuke-ono.md` with the full Hindi translation. All YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is.

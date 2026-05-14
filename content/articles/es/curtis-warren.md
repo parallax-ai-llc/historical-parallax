@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/curtis-warren.md`. Frontmatter kept intact, all body text translated, formatting and URLs preserved.

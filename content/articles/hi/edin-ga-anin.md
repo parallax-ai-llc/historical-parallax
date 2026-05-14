@@ -1,1 +1,0 @@
-Done. The Hindi translation has been written to `content/articles/hi/edin-ga-anin.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

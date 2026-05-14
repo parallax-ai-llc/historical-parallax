@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been saved to `content/articles/pt/nursultan-bishuly-nazarbayev.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as-is.

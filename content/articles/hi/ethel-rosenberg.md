@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/ethel-rosenberg.md`. The YAML frontmatter, Markdown formatting, URLs, and table structure are all preserved as-is.

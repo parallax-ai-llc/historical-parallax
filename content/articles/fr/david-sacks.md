@@ -1,1 +1,0 @@
-The French translation has been saved to `content/articles/fr/david-sacks.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with all body text translated into French.

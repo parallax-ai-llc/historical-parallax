@@ -1,1 +1,0 @@
-Created `content/articles/ar/eric-yuan.md` with the Arabic translation. Frontmatter, URLs, Markdown formatting, and technical terms (Zoom, NASDAQ, Cisco/WebEx) are preserved as-is.

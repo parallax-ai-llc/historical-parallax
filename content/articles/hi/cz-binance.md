@@ -1,1 +1,0 @@
-Created `content/articles/hi/cz-binance.md` with the Hindi translation. YAML frontmatter, URLs, Markdown formatting, and technical terms (AML, KYC, CEO) are preserved as-is.

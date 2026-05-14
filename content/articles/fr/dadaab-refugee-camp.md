@@ -1,1 +1,0 @@
-The French translation has been created at `content/articles/fr/dadaab-refugee-camp.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into French.

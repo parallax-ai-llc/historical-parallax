@@ -1,1 +1,0 @@
-Russian translation saved to `content/articles/ru/dame-sarah-gilbert.md`.

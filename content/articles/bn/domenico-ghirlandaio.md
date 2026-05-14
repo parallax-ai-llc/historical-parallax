@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/domenico-ghirlandaio.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, while all body text (headings, paragraphs, table headers, and table cells) has been translated into Bengali.

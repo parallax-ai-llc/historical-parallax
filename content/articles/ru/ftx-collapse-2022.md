@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/ftx-collapse-2022.md`. All body text (headings, paragraphs, table cells, list items, quotes) has been translated, while the YAML frontmatter values, Markdown formatting, and URLs remain unchanged.

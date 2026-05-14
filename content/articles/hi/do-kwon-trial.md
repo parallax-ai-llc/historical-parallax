@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/do-kwon-trial.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (Terra, LUNA, UST, etc.) are preserved as-is, with all body text translated to Hindi.

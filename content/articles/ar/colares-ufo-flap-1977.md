@@ -1,1 +1,0 @@
-Done. The Arabic translation has been saved to `content/articles/ar/colares-ufo-flap-1977.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references are all preserved as-is.

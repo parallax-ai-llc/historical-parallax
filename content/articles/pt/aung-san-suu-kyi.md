@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/aung-san-suu-kyi.md`. The YAML frontmatter was kept intact, all body text was translated to Brazilian Portuguese, and Markdown formatting/URLs were preserved.

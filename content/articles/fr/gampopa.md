@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/gampopa.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (Gampopa, Milarepa, Kadampa, Kagyu, Mahamudra, Daklha Gampo) are preserved as-is.

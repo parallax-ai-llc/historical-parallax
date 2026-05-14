@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/cumrun-vafa.md`. The YAML frontmatter is preserved exactly, and all body text (headings, table cells, references) has been translated into Russian.

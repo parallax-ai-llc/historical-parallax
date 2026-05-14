@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/cornelius-vander-starr.md`. The YAML frontmatter is preserved as-is, all body text (headings, summary, table) is translated to Arabic, and Markdown formatting and URLs are kept unchanged.

@@ -1,1 +1,0 @@
-Created `content/articles/ar/evelyn-baring.md` with the full Arabic translation. Frontmatter values, URLs, Markdown formatting, and reference links are all preserved as-is.

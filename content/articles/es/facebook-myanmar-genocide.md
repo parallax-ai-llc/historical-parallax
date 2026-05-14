@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/facebook-myanmar-genocide.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved unchanged; only the body text has been translated.

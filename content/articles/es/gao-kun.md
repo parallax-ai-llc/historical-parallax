@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/gao-kun.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved unchanged, with only the body text translated.

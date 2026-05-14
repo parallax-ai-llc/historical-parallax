@@ -1,1 +1,0 @@
-The Arabic translation has been saved to `content/articles/ar/chico-mendes-assassination.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (like "seringueiro") were preserved as-is.

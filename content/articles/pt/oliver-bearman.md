@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/oliver-bearman.md`. The YAML frontmatter was preserved exactly as-is, all body text was translated to Brazilian Portuguese, and Markdown formatting/URLs remain unchanged.

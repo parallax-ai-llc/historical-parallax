@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/colin-ireland.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, table cells, list items, references) has been translated into Bengali.

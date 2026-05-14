@@ -1,1 +1,0 @@
-Created `content/articles/ru/edouard-vuillard.md` with the Russian translation. Frontmatter is preserved exactly, and all body text has been translated.

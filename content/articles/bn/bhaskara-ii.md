@@ -1,1 +1,0 @@
-Created `content/articles/bn/bhaskara-ii.md` with the Bengali translation. All frontmatter kept intact, body text translated, and Markdown formatting preserved.

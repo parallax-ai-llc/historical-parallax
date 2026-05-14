@@ -1,1 +1,0 @@
-Created the Brazilian Portuguese translation at `content/articles/pt/frances-arnold.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as-is, with all body text translated.

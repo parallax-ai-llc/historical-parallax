@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/cuban-missile-crisis-1962.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text (headings, paragraphs, table cells, list items) has been translated into Arabic.

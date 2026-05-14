@@ -1,1 +1,0 @@
-Done. The Hindi translation has been saved to `content/articles/hi/chris-hadfield.md`.

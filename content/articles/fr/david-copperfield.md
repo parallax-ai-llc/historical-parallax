@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/david-copperfield.md`. The YAML frontmatter was preserved as-is, all body text was translated, and Markdown formatting and URLs were kept unchanged.

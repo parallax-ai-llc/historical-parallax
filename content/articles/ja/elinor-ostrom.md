@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/elinor-ostrom.md`. The YAML frontmatter, Markdown formatting, URLs, and book titles are preserved as-is, while all body text has been translated into natural Japanese.

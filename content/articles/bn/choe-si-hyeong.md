@@ -1,1 +1,0 @@
-The Bengali translation has been saved to `content/articles/bn/choe-si-hyeong.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged, with all body text translated into Bengali.

@@ -1,1 +1,0 @@
-The French translation has been saved to `content/articles/fr/do-kwon-terra-luna.md`. YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are kept intact.

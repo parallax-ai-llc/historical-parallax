@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/blackwater-usa.md` with all YAML frontmatter, Markdown formatting, and URLs preserved as-is.

@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/battle-of-myeongnyang-1597.md`. The YAML frontmatter was kept unchanged, all Markdown formatting preserved, and all body text (headings, paragraphs, table cells, list items, blockquotes) translated.

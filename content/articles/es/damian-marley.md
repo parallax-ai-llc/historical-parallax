@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/damian-marley.md`. Frontmatter values, URLs, album titles, and Markdown formatting are preserved as-is.

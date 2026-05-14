@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/dairo-antonio-suga.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is.

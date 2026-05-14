@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/gautam-adani.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs remain unchanged.

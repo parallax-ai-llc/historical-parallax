@@ -1,1 +1,0 @@
-Created the Brazilian Portuguese translation at `content/articles/pt/gonzalo-s-nchez-de-lozada.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated.

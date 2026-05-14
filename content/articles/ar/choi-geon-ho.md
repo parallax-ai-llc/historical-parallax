@@ -1,1 +1,0 @@
-Created the Arabic translation at `content/articles/ar/choi-geon-ho.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Arabic.

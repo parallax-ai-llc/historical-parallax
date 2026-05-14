@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/chung-kun-mo.md`. The YAML frontmatter, Markdown formatting, URLs, and institutional names (KAIST) were kept unchanged.

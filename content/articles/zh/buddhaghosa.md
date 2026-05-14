@@ -1,1 +1,0 @@
-The translated Simplified Chinese file has been created at `content/articles/zh/buddhaghosa.md`.

@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been written to `content/articles/pt/beno-gutenberg.md`. The YAML frontmatter was kept intact, all Markdown formatting and URLs preserved, and the body text fully translated.

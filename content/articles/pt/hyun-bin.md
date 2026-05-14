@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/hyun-bin.md`. All body text is in Brazilian Portuguese, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs are unchanged.

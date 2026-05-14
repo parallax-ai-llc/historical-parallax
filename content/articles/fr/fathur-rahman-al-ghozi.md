@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/fathur-rahman-al-ghozi.md`.

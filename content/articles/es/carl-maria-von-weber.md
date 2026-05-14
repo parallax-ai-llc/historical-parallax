@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/carl-maria-von-weber.md`.

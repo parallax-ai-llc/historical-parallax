@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/zh/burma-railway.md`. All body text is translated to Simplified Chinese while YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

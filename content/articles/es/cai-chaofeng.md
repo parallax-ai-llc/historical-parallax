@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/cai-chaofeng.md`. Frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

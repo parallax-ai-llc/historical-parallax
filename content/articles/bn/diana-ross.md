@@ -1,1 +1,0 @@
-The Bengali translation of the Diana Ross article has been written to `content/articles/bn/diana-ross.md`. All YAML frontmatter, URLs, Markdown formatting, and song/film titles were preserved as-is, while all body text was translated into Bengali.

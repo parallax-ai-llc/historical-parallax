@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/davido.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are intact, and all body text has been translated into Bengali.

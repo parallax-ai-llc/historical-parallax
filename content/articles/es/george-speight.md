@@ -1,1 +1,0 @@
-Translated article written to `content/articles/es/george-speight.md`. Frontmatter kept intact, all body text translated to Spanish, Markdown formatting and URLs preserved.

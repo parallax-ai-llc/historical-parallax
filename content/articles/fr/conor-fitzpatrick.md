@@ -1,1 +1,0 @@
-French translation saved to `content/articles/fr/conor-fitzpatrick.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

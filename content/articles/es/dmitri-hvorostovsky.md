@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/dmitri-hvorostovsky.md`. All body text has been translated while keeping the YAML frontmatter values, Markdown formatting, and URLs unchanged.

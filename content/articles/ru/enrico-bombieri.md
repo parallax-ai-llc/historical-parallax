@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/enrico-bombieri.md`.

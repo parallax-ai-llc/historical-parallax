@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/gavrilo-princip.md`. The YAML frontmatter, URLs, Markdown formatting, and reference sources were preserved as-is, while all body text (headings, paragraphs, table headers/cells, and list items) was translated into French.

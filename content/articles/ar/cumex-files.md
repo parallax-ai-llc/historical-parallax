@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/cumex-files.md`. All YAML frontmatter values, URLs, Markdown formatting, and proper nouns (organization names, technical terms like CumEx) are preserved as-is.

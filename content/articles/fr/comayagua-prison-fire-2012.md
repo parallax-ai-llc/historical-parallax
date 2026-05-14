@@ -1,1 +1,0 @@
-French translation saved to `content/articles/fr/comayagua-prison-fire-2012.md`.

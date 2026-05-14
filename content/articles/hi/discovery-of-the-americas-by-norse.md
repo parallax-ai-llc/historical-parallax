@@ -1,1 +1,0 @@
-Hindi translation saved to `content/articles/hi/discovery-of-the-americas-by-norse.md`.

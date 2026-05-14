@@ -1,3 +1,0 @@
-The file `content/articles/eglantyne-jebb.md` has never contained an actual article — it only has a summary placeholder from the commit that created it. The article content was never generated.
-
-Could you paste the full Markdown content of the Eglantyne Jebb article so I can translate it into Japanese? Alternatively, I can look at another article in the repo for format reference and generate both the English article and the Japanese translation, if you'd prefer.

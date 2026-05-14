@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/chotta-rajan.md`. The YAML frontmatter is preserved exactly, all body text is translated to Bengali, and Markdown formatting and URLs are kept unchanged.

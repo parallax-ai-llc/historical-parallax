@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/pt/gheorghe-florin-radulescu.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated to Brazilian Portuguese, and Markdown formatting is unchanged.

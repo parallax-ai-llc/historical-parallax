@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/dmitry-firtash.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (RosUkrEnergo, etc.) were preserved as-is, while all body text was translated into Spanish.

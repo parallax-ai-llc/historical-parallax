@@ -1,1 +1,0 @@
-Created `content/articles/zh/david-bushnell.md` with the Simplified Chinese translation.

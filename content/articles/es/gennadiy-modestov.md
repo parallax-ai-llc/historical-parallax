@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/es/gennadiy-modestov.md`. The YAML frontmatter is preserved exactly, all body text is translated to Spanish, and Markdown formatting/URLs are unchanged.

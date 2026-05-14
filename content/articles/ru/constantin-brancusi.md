@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/constantin-brancusi.md`. The YAML frontmatter is preserved as-is, and all body text (headings, table cells, paragraphs, references) has been translated into Russian.

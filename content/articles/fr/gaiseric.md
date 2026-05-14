@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/gaiseric.md`. The YAML frontmatter is preserved unchanged, and all body text has been translated into French.

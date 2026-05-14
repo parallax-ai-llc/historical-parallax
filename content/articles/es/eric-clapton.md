@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/eric-clapton.md`. Frontmatter values, URLs, Markdown formatting, and song/album titles are preserved as-is, while all body text (headings, paragraphs, table headers, and list items) has been translated into Spanish.

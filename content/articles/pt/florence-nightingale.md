@@ -1,1 +1,0 @@
-Done. The translated article has been written to `content/articles/pt/florence-nightingale.md`. The YAML frontmatter was kept intact, all body text was translated to Brazilian Portuguese, and Markdown formatting/URLs were preserved.

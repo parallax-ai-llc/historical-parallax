@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/construction-of-great-wall-of-china.md`.

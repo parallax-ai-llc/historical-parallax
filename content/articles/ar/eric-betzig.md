@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/eric-betzig.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (PALM, PALM microscopy) are preserved as-is, while all body text has been translated into Arabic.

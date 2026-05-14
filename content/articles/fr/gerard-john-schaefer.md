@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/gerard-john-schaefer.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into French.

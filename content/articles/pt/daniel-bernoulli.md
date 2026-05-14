@@ -1,1 +1,0 @@
-Created `content/articles/pt/daniel-bernoulli.md` with the Brazilian Portuguese translation.

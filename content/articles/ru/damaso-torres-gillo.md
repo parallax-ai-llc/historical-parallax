@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/damaso-torres-gillo.md`. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

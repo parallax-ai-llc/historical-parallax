@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/don-bradman.md`. All body text (headings, paragraphs, table cells, quotes) has been translated to Brazilian Portuguese, while the YAML frontmatter values, URLs, Markdown formatting, and footnote references remain unchanged.

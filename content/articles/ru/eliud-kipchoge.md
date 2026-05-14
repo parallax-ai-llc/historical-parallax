@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/eliud-kipchoge.md`. Frontmatter kept as-is, all body text translated, formatting and URLs preserved.

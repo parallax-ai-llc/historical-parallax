@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/frank-nitti.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into natural Japanese.

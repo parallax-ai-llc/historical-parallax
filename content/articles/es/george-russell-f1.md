@@ -1,1 +1,0 @@
-Created `content/articles/es/george-russell.md` with the full Spanish translation. All YAML frontmatter values, URLs, and Markdown formatting are preserved unchanged.

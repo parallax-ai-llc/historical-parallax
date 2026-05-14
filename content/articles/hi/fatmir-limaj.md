@@ -1,1 +1,0 @@
-Hindi translation saved to `content/articles/hi/fatmir-limaj.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (ICTY, KLA, etc.) are preserved as-is, with all body text translated into Hindi.

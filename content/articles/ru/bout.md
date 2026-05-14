@@ -1,1 +1,0 @@
-Done. The Russian translation has been written to `content/articles/ru/bout.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

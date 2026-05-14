@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/george-weah.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is; all body text (including the Korean supplementary notes) has been translated into Spanish.

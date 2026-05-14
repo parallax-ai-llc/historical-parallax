@@ -1,1 +1,0 @@
-The Arabic translation has been saved to `content/articles/ar/donovan-bailey.md`.

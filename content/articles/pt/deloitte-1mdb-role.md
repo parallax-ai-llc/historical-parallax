@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/pt/deloitte-1mdb-role.md`. The YAML frontmatter was preserved exactly as-is, and all body text was translated to Brazilian Portuguese.

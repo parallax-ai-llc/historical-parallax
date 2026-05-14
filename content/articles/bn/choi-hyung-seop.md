@@ -1,1 +1,0 @@
-The Bengali translation has been saved to `content/articles/bn/choi-hyung-seop.md`. The YAML frontmatter is preserved as-is, all body text is translated into Bengali, and Markdown formatting and URLs remain unchanged.

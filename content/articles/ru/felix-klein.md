@@ -1,1 +1,0 @@
-Done. The Russian translation has been saved to `content/articles/ru/felix-klein.md`. The YAML frontmatter is preserved as-is, all Markdown formatting is intact, and the body text has been fully translated into Russian.

@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/ervil-lebaron.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are kept intact.

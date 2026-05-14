@@ -1,1 +1,0 @@
-Created `content/articles/es/fall-of-france-1940.md` with the Spanish translation. Frontmatter kept unchanged, all body text translated, and Markdown formatting preserved.

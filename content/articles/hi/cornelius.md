@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/cornelius.md`. All body text is translated, YAML frontmatter is preserved as-is, and Markdown formatting/URLs are unchanged.

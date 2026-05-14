@@ -1,1 +1,0 @@
-Translated article written to `content/articles/zh/erling-persson.md`.

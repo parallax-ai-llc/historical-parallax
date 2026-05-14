@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/cleopatra-vii.md`. The YAML frontmatter was preserved exactly as-is, and all body text (headings, paragraphs, table cells, list items, quotes) was translated into Brazilian Portuguese.

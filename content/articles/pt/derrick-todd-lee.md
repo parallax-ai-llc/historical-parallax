@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/derrick-todd-lee.md`. All body text is translated to Brazilian Portuguese while the YAML frontmatter values and Markdown formatting remain unchanged.

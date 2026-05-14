@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/pt/benjamin-netanyahu.md`. All body text is translated to Brazilian Portuguese while the YAML frontmatter values, Markdown formatting, and URLs remain unchanged.

@@ -1,1 +1,0 @@
-The Hindi translation has been saved to `content/articles/hi/fanny-blankers-koen.md`. All YAML frontmatter values, URLs, Markdown formatting, and the proper name in the reference section were kept as-is, while all body text was translated into Hindi.

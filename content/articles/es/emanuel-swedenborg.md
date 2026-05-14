@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/emanuel-swedenborg.md`. The YAML frontmatter was preserved exactly, and all body text (headings, summary, table cells) was translated into Spanish.

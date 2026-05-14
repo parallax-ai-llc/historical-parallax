@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/ernest-everett-just.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

@@ -1,1 +1,0 @@
-The English file only contains the placeholder text "Article written to `content/articles/childish-gambino.md`." — it doesn't have actual article content. Could you provide the actual Markdown article you'd like me to translate, or point me to the correct file?

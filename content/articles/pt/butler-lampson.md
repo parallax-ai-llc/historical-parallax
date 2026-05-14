@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/butler-lampson.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is, with only the body text translated to Brazilian Portuguese.

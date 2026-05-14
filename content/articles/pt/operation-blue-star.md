@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/operation-blue-star.md`. Frontmatter, URLs, and Markdown formatting were preserved as-is.

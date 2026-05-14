@@ -1,1 +1,0 @@
-Created `content/articles/ru/eileen-collins.md` with the Russian translation.

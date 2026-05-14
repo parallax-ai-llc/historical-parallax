@@ -1,1 +1,0 @@
-Hindi translation saved to `content/articles/hi/bloody-sunday.md`.

@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/fang-lizhi.md`, following the same conventions as other Portuguese articles in the project.

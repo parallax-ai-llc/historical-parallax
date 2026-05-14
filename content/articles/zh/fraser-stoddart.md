@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/zh/fraser-stoddart.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is, with all body text translated into Simplified Chinese.

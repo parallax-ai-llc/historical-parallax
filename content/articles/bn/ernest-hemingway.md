@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/ernest-hemingway.md`. All body text is translated, YAML frontmatter and book titles are preserved as-is, and Markdown formatting/URLs remain unchanged.

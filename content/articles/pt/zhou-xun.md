@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/zhou-xun.md`. All body text is in Brazilian Portuguese while the YAML frontmatter values, URLs, Markdown formatting, and film titles remain unchanged.

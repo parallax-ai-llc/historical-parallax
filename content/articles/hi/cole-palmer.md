@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/cole-palmer.md`. All body text (headings, paragraphs, table cells, list items) has been translated while keeping the YAML frontmatter, Markdown formatting, URLs, and proper nouns intact.

@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/clifford-olson.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved as-is, with only the body text translated into Arabic.

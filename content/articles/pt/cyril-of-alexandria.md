@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/cyril-of-alexandria.md`.

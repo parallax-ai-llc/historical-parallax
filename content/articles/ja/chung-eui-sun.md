@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/chung-eui-sun.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

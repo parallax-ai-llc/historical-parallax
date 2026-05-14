@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/chun-kyung-ja.md`. The YAML frontmatter, URLs, Markdown formatting, and the painting title "Beautiful Woman" are preserved as-is.

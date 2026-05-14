@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been created at `content/articles/zh/enrico-de-pedis.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated.

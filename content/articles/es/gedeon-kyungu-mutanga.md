@@ -1,1 +1,0 @@
-Done. The Spanish translation has been saved to `content/articles/es/gedeon-kyungu-mutanga.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved as-is, with all body text (including the Korean supplementary notes) translated into Spanish.

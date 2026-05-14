@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/colleen-hoover.md`. All frontmatter values, URLs, book titles, and Markdown formatting preserved as-is.

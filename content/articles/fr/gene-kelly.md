@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/gene-kelly.md`. The YAML frontmatter, URLs, Markdown formatting, and film titles are preserved as-is, while all body text has been translated into French.

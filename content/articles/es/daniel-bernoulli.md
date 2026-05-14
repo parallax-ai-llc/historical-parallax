@@ -1,1 +1,0 @@
-Created the Spanish translation at `content/articles/es/daniel-bernoulli.md`.

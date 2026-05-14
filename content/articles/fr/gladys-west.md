@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/gladys-west.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as-is, with all body text translated into French.

@@ -1,1 +1,0 @@
-Created the Spanish translation at `content/articles/es/emily-warren-roebling.md`. Frontmatter, URLs, and Markdown formatting are preserved unchanged; all body text has been translated to Spanish.

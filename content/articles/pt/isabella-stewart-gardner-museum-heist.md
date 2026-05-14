@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/isabella-stewart-gardner-museum-heist.md`. The YAML frontmatter was kept unchanged, all Markdown formatting preserved, and all body text translated.

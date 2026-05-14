@@ -1,1 +1,0 @@
-The Hindi translation has been saved to `content/articles/hi/christchurch-mosque-shootings-2019.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated into Hindi.

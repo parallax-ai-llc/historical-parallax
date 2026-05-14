@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/dadua.md`. The YAML frontmatter is preserved as-is, all Markdown formatting is intact, and all body text has been translated into Arabic.

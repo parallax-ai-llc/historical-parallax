@@ -1,1 +1,0 @@
-Hindi translation written to `content/articles/hi/eduard-douwes-dekker.md`. The YAML frontmatter, Markdown formatting, URLs, and references are preserved exactly as in the original.

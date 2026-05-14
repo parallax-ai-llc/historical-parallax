@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/billy-joel.md`. All YAML frontmatter, URLs, Markdown formatting, and album/song titles are preserved as-is, with all body text translated into Hindi.

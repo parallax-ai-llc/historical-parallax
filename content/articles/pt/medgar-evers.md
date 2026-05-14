@@ -1,3 +1,0 @@
-There's only that one file. The content seems to literally be the sentence "The article has been written to `content/articles/medgar-evers.md`." — it's not an actual article.
-
-Could you provide the actual Markdown article content for Medgar Evers that you'd like me to translate? The file at `content/articles/medgar-evers.md` only contains a placeholder line, not an article with frontmatter and body text.

@@ -1,1 +1,0 @@
-The Simplified Chinese translation has been saved to `content/articles/zh/damian-marley.md`. All YAML frontmatter values, URLs, Markdown formatting, and album titles are preserved as-is, with all body text translated.

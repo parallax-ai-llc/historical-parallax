@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/evan-williams.md`. The YAML frontmatter, URLs, Markdown formatting, and reference links are all preserved as-is.

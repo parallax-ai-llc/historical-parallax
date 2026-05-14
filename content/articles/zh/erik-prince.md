@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/zh/erik-prince.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is maintained, and all body text has been translated into Simplified Chinese.

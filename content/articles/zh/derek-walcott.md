@@ -1,1 +1,0 @@
-The Simplified Chinese translation has been saved to `content/articles/zh/derek-walcott.md`.

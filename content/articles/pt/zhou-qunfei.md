@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/pt/zhou-qunfei.md`.

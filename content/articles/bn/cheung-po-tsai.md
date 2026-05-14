@@ -1,1 +1,0 @@
-Done. The Bengali translation has been written to `content/articles/bn/cheung-po-tsai.md`. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are intact, and all body text has been translated into Bengali.

@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/convict-leasing.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

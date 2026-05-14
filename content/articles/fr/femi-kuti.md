@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/femi-kuti.md`. The YAML frontmatter, Markdown formatting, URLs, and album titles are preserved as-is, with all body text translated into French.

@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/creation-of-the-united-nations.md`.

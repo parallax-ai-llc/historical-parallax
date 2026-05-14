@@ -1,1 +1,0 @@
-The translated Spanish article has been written to `content/articles/es/dietrich-mateschitz-duplicate.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns were kept intact, while all body text was translated into Spanish.

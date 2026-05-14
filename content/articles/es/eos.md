@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/eos.md`. Frontmatter, URLs, Markdown formatting, and references are preserved as-is.

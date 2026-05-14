@@ -1,1 +1,0 @@
-Created `content/articles/pt/ernst-abbe.md` with the Brazilian Portuguese translation.

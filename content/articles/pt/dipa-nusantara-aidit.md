@@ -1,1 +1,0 @@
-Translation written to `content/articles/pt/dipa-nusantara-aidit.md`. The YAML frontmatter was kept exactly as-is, all body text was translated to Brazilian Portuguese, and all Markdown formatting and URLs were preserved.

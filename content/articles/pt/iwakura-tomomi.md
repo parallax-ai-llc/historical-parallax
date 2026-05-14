@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/iwakura-tomomi.md`. The YAML frontmatter, URLs, Markdown formatting, footnote references, and Japanese terms (with their original characters) were all preserved as-is.

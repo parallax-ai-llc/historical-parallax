@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/georg-solti.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

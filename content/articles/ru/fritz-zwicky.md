@@ -1,1 +1,0 @@
-Created `content/articles/ru/fritz-zwicky.md` with the Russian translation. All frontmatter, Markdown formatting, and URLs are preserved as-is.

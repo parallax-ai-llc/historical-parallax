@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been written to `content/articles/zh/fusako-shigenobu.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting is maintained.

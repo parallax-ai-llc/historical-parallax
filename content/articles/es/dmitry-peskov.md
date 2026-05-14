@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/dmitry-peskov.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

@@ -1,1 +1,0 @@
-Created `content/articles/es/fernand-leger.md` with the Spanish translation. All frontmatter values, URLs, and Markdown formatting are preserved unchanged.

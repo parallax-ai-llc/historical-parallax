@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/doublelift.md`. Frontmatter, URLs, markdown formatting, and game-specific terms (like "League of Legends", "LCS", "CLG", "TSM", "First Blood King", "All-Pro") are preserved as-is.

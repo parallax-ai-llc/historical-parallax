@@ -1,1 +1,0 @@
-Created `content/articles/hi/federica-pellegrini.md` with the Hindi translation. The YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as-is.

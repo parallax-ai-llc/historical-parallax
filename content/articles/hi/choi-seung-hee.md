@@ -1,1 +1,0 @@
-Hindi translation saved to `content/articles/hi/choi-seung-hee.md`.

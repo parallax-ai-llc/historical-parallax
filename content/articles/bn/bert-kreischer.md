@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/bert-kreischer.md`. All YAML frontmatter values, URLs, Markdown formatting, and proper nouns (film titles, show names, etc.) are preserved as-is, while all body text has been translated into Bengali.

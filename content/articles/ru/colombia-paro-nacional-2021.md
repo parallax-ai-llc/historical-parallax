@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/colombia-paro-nacional-2021.md`. The YAML frontmatter, Markdown formatting, URLs, and references are preserved exactly as in the original.

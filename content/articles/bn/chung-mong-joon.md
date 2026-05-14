@@ -1,1 +1,0 @@
-Bengali translation created at `content/articles/bn/chung-mong-joon.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is; all body text including headings, table headers, table cells, and section titles have been translated to বাংলা.

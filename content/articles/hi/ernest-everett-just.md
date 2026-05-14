@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/ernest-everett-just.md`. The YAML frontmatter, Markdown formatting, URLs, and table structure are all preserved as-is, with all body text translated into Hindi.

@@ -1,1 +1,0 @@
-Created `content/articles/es/felix-bloch.md` with the Spanish translation. Frontmatter kept intact, all body text translated, and Markdown formatting preserved.

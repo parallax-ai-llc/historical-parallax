@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/fidel-ricalde.md`. YAML frontmatter preserved unchanged, all body text translated, Markdown formatting and URLs kept intact.

@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/hi/choi-gap-bok.md`.

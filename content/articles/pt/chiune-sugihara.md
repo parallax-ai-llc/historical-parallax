@@ -1,1 +1,0 @@
-The article file only contains placeholder text, not actual article content. Could you paste the full Markdown content of the Chiune Sugihara article you'd like me to translate into Brazilian Portuguese?

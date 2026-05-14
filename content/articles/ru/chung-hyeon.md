@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/chung-hyeon.md`.

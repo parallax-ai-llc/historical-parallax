@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/edward-weston.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (like "Group f/64", "Pepper No. 30") were preserved as-is.

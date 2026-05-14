@@ -1,1 +1,0 @@
-The French translation has been saved to `content/articles/fr/gennadiy-modestov.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

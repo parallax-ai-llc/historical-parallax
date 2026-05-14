@@ -1,1 +1,0 @@
-Created `content/articles/fr/fabio-quartararo.md` with the full French translation. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

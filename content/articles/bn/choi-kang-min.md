@@ -1,1 +1,0 @@
-Bengali translation created at `content/articles/bn/choi-kang-min.md`. Frontmatter kept as-is, all body text translated to বাংলা, and Markdown formatting preserved.

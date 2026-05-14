@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/assassination-of-martin-luther-king-jr-1968.md`. All body text was translated to Brazilian Portuguese while keeping the YAML frontmatter values, Markdown formatting, and URLs unchanged.

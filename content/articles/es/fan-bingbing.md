@@ -1,1 +1,0 @@
-Created `content/articles/es/fan-bingbing.md` with the Spanish translation. Frontmatter values, URLs, and markdown formatting are preserved as-is.

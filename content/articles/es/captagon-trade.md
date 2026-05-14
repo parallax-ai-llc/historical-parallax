@@ -1,1 +1,0 @@
-Done. The Spanish translation has been written to `content/articles/es/captagon-trade.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

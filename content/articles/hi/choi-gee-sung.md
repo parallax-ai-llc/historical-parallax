@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/choi-gee-sung.md`. Frontmatter kept as-is, all body text translated.

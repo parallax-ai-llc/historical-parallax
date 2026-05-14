@@ -1,1 +1,0 @@
-Created `content/articles/zh/erwin-chargaff.md` with the Simplified Chinese translation, following the existing conventions (简介, 职业生涯时间线, 参考资料 as section headers, frontmatter preserved as-is).

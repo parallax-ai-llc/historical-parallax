@@ -1,1 +1,0 @@
-The translated article has been created at `content/articles/pt/anne-sophie-mutter.md`. All body text is in Brazilian Portuguese while the YAML frontmatter values, URLs, and Markdown formatting remain unchanged.

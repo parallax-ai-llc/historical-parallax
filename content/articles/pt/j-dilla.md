@@ -1,3 +1,0 @@
-The file at `content/articles/j-dilla.md` only contains a placeholder sentence, not actual article content. It seems like the article hasn't actually been written yet — the file just contains the text "The article for J Dilla has been written to `content/articles/j-dilla.md`."
-
-There's no real article to translate. Could you provide the actual J Dilla article content, or would you like me to look somewhere else for it?

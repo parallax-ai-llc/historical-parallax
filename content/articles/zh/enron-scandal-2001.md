@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/zh/enron-scandal-2001.md`. The YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting/URLs remain unchanged.

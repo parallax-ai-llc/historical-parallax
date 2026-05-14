@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/fentanyl-crisis.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are kept intact. I also fixed the typo `n-` → `-` on the "Strain on emergency medical services" line from the original.

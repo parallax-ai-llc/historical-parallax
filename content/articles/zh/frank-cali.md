@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/zh/frank-cali.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into Simplified Chinese.

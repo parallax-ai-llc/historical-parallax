@@ -1,1 +1,0 @@
-Done. The Spanish translation has been written to `content/articles/es/fazlur-rahman.md`. The YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are kept intact.

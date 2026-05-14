@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/mingun-sayadaw.md`. The YAML frontmatter, URLs, footnote references, and Markdown formatting were all preserved exactly as-is, while all body text (headings, paragraphs, table cells, quotes, and context descriptions) was translated into Brazilian Portuguese.

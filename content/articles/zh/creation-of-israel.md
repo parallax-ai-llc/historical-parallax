@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been created at `content/articles/zh/creation-of-israel.md`.

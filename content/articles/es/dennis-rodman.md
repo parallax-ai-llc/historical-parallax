@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/dennis-rodman.md`. All frontmatter values, URLs, Markdown formatting, and proper nouns (team names, hall of fame, etc.) were preserved as-is.

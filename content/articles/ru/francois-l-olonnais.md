@@ -1,1 +1,0 @@
-Created `content/articles/ru/francois-l-olonnais.md` with the Russian translation. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

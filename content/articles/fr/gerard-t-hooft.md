@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/gerard-t-hooft.md`.

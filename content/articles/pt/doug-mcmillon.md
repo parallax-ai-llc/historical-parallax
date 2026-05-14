@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/pt/doug-mcmillon.md`. All body text is in Brazilian Portuguese, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs are unchanged.

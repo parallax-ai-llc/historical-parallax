@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/can-xue.md`.

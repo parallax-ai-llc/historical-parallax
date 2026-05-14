@@ -1,1 +1,0 @@
-Bengali translation created at `content/articles/bn/choi-hong-hi.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (ITF) are preserved as-is, with all body text translated into বাংলা.

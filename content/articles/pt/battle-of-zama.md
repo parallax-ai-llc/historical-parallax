@@ -1,1 +1,0 @@
-Created `content/articles/pt/battle-of-zama.md` with the Brazilian Portuguese translation. Frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

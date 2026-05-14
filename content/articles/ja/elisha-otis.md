@@ -1,1 +1,0 @@
-Created `content/articles/ja/elisha-otis.md` with the Japanese translation. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is.

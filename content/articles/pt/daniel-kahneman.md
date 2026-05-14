@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been written to `content/articles/pt/daniel-kahneman.md`. The book title *Thinking, Fast and Slow* was translated to its official Brazilian Portuguese edition title *Rápido e Devagar: Duas Formas de Pensar*.

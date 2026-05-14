@@ -1,1 +1,0 @@
-Created `content/articles/bn/choe-jeong-ho.md` with the Bengali translation. The YAML frontmatter is preserved as-is, and all body text (headings, table cells, references label) is translated into Bengali with Bangla numerals.

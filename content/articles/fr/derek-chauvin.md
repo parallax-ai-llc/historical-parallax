@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/derek-chauvin.md`. Frontmatter kept intact, all body text translated, formatting and URLs preserved.

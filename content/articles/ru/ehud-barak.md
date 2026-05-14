@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/ehud-barak.md`. All YAML frontmatter, URLs, Markdown formatting, and footnote references were preserved as-is.

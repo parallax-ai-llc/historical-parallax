@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/george-carlin.md`. All body text (headings, paragraphs, table headers) is translated, while the YAML frontmatter values, URLs, Markdown formatting, and proper nouns (titles of works, names, places) are preserved as-is.

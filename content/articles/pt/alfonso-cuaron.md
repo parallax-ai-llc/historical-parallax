@@ -1,1 +1,0 @@
-Created `content/articles/pt/alfonso-cuaron.md` with the Brazilian Portuguese translation. The YAML frontmatter was kept intact, and all body text (summary, timeline, references heading) was translated.

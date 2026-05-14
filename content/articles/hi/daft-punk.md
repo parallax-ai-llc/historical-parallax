@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/daft-punk.md`. The YAML frontmatter, Markdown formatting, URLs, and album/song titles are preserved as-is, while all body text has been translated into Hindi.

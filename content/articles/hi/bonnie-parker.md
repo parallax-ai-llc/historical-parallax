@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/bonnie-parker.md`. YAML frontmatter kept unchanged, all body text translated, and Markdown formatting preserved.

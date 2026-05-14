@@ -1,3 +1,0 @@
-The file exists but appears to be empty (0 lines). The message you provided ("The article for Chitose Abe has been written to `content/articles/chitose-abe.md`.") is not actual article content — it's a status message.
-
-There is no article content in `content/articles/chitose-abe.md` to translate. The file is empty. Could you provide the actual Markdown article for Chitose Abe, or would you like me to check if there's another location where it might exist?

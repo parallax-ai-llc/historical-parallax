@@ -1,1 +1,0 @@
-Created `content/articles/bn/dennis-rader.md` with the Bengali translation. All YAML frontmatter, URLs, Markdown formatting, and references are preserved as-is.

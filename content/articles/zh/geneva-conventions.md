@@ -1,1 +1,0 @@
-Translation written to `content/articles/zh/geneva-conventions.md`. YAML frontmatter kept intact, all body text translated to Simplified Chinese.

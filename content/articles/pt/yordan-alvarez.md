@@ -1,1 +1,0 @@
-There's only one file and it contains just the placeholder description, not an actual article with YAML frontmatter and body content. Could you provide the actual Markdown article content you'd like translated, or point me to where it is?

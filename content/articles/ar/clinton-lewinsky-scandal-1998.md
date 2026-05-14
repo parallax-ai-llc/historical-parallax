@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/clinton-lewinsky-scandal-1998.md`. The YAML frontmatter values (id, date, location, coordinates, category, outcome, image, socialLinks, lastUpdated) are preserved as-is, the title field is translated, and all body text is fully translated while maintaining Markdown formatting and URLs.

@@ -1,1 +1,0 @@
-The file only contains the text `Article written to \`content/articles/bob-moses.md\`.` — it appears the article content wasn't actually saved to the file. Could you paste the article content you'd like translated, or let me know where it can be found?

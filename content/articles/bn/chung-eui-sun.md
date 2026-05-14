@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/chung-eui-sun.md`. YAML frontmatter is preserved as-is, all body text is translated to Bengali, and Markdown formatting, URLs, and technical terms (like Boston Dynamics, AAM, EV) are kept intact.

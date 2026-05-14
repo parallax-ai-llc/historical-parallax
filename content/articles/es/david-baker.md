@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/david-baker.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

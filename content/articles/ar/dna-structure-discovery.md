@@ -1,1 +1,0 @@
-Arabic translation created at `content/articles/ar/dna-structure-discovery.md`. Frontmatter kept intact, all body text translated to Arabic, and Markdown formatting/URLs preserved.

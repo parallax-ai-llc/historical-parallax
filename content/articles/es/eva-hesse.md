@@ -1,1 +1,0 @@
-Done. The translated file has been saved to `content/articles/es/eva-hesse.md`.

@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/dzokhar-dudayev.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged, with all body text translated into Russian.

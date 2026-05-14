@@ -1,1 +1,0 @@
-French translation saved to `content/articles/fr/camp-speicher-massacre-2014.md`.

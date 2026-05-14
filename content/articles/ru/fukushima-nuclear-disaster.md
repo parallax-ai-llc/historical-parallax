@@ -1,1 +1,0 @@
-Done. The Russian translation has been saved to `content/articles/ru/fukushima-nuclear-disaster.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/zh/elizabeth-falkner.md`. All body text is translated to Simplified Chinese while the YAML frontmatter values, Markdown formatting, URLs, and show/restaurant names are preserved as-is.

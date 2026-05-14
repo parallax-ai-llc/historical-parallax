@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/enrique-camarena.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is, with only the body text translated.

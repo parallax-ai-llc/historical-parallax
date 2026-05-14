@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/eunice-newton-foote.md`. The YAML frontmatter is preserved unchanged, and all body text (headings, paragraphs, table cells) has been translated to Spanish.

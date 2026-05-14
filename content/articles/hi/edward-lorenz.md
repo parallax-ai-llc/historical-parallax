@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/edward-lorenz.md`. The YAML frontmatter, Markdown formatting, URLs, and the paper title "Deterministic Nonperiodic Flow" (as a proper noun) are preserved as-is, while all body text has been translated into Hindi.

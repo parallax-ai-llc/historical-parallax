@@ -1,1 +1,0 @@
-Bengali translation created at `content/articles/bn/charlotte-joko-beck.md`. Book titles were kept in English as they don't have widely accepted Bengali translations.

@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/daniel-barrera-barrera.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

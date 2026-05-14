@@ -1,1 +1,0 @@
-Translated article written to `content/articles/zh/geoffrey-hinton.md`. All body text is in Simplified Chinese, YAML frontmatter and URLs are preserved as-is.

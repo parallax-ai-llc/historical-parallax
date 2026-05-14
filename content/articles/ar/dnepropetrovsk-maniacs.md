@@ -1,1 +1,0 @@
-The Arabic translation has been saved to `content/articles/ar/dnepropetrovsk-maniacs.md`. All frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated into Arabic.

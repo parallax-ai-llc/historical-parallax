@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/dominic-de-guzm-n.md`. The YAML frontmatter was preserved as-is, and all body text was translated to Spanish.

@@ -1,3 +1,0 @@
-The file only contains the placeholder text. It seems the article content wasn't actually written — the file just has the string `Article written to content/articles/nostradamus.md`.
-
-Could you provide the actual Markdown content of the Nostradamus article you'd like me to translate into Brazilian Portuguese? The file at `content/articles/nostradamus.md` doesn't contain an article — it only has a single line of placeholder text.

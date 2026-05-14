@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/fanny-kaplan.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is.

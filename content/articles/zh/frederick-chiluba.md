@@ -1,1 +1,0 @@
-Done. The translated Simplified Chinese article has been written to `content/articles/zh/frederick-chiluba.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

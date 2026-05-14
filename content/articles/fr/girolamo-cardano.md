@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/girolamo-cardano.md`. Frontmatter kept intact, all body text translated.

@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/devraha-baba.md`. The YAML frontmatter is preserved as-is, and all body text (heading, summary paragraph, table headers/cells, references) has been translated to Spanish.

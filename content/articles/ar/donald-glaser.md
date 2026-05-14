@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/donald-glaser.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

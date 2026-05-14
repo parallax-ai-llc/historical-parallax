@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/georgi-markov.md`. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

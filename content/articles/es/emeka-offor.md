@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/emeka-offor.md`. Frontmatter, Markdown formatting, URLs, and references are preserved as-is.

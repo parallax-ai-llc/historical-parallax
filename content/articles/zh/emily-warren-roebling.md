@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/zh/emily-warren-roebling.md`. All body text is translated to Simplified Chinese while the YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

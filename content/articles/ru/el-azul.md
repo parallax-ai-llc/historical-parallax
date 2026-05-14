@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/el-azul.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

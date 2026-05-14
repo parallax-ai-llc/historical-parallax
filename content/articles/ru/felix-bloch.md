@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/felix-bloch.md`. Frontmatter, URLs, and Markdown formatting preserved as-is; all body text translated.

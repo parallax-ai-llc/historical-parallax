@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/bryan-kohberger.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into Russian while keeping Markdown formatting and URLs intact.

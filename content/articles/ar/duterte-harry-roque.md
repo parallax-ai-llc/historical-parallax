@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/duterte-harry-roque.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as-is, with all body text translated into Arabic.

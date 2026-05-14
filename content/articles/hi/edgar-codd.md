@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/edgar-codd.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms (SQL, IBM, PhD) were preserved as-is, while all body text was translated into Hindi.

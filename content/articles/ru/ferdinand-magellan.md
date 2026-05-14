@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/ferdinand-magellan.md`. The frontmatter values, Markdown formatting, URLs, and ship names are preserved as-is, while all body text (headings, paragraphs, table cells, list items, and the quote) has been translated into Russian.

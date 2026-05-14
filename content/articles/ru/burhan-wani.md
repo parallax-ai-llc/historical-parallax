@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/burhan-wani.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Russian.

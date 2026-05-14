@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/chuck-yeager.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

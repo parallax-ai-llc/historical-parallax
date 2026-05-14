@@ -1,1 +1,0 @@
-Spanish translation saved to `content/articles/es/butch-cassidy.md`. The YAML frontmatter was preserved as-is, and all body text (headings, paragraphs, table cells, list items, and references) was translated into Spanish.

@@ -1,1 +1,0 @@
-Japanese translation saved to `content/articles/ja/daniel-barenboim.md`. Notable translation choice: "Praemium Imperiale Prize" was translated to its official Japanese name「高松宮殿下記念世界文化賞」.

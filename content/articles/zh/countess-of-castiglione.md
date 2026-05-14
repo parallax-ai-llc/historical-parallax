@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/zh/countess-of-castiglione.md`. All body text is translated to Simplified Chinese while YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

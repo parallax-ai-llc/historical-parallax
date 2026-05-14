@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/chung-mong-koo-hyundai.md`. YAML frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/don-rickles.md`. All YAML frontmatter values, URLs, Markdown formatting, and film/show titles are preserved as-is, while all body text has been fully translated into Arabic.

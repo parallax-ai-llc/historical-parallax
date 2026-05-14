@@ -1,1 +1,0 @@
-The translated Spanish article has been written to `content/articles/es/dieter-schwarz.md`.

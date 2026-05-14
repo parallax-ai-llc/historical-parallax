@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/david-chase.md`. The frontmatter values are preserved as-is, all body text is translated, and Russian names for referenced shows (e.g., *«Клан Сопрано»*, *«Безумцы»*, *«Во все тяжкие»*) use their established Russian titles with original English names in parentheses.

@@ -1,1 +1,0 @@
-Created `content/articles/pt/ferenc-krausz.md` with the Brazilian Portuguese translation.

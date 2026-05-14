@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/zh/david-wineland.md`. All body text is translated to Simplified Chinese while the YAML frontmatter, Markdown formatting, and URLs remain unchanged.

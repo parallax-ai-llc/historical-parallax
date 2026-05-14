@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/devin-patrick-kelley.md`. YAML frontmatter was preserved as-is, all body text was translated to Brazilian Portuguese, and Markdown formatting and URLs were kept unchanged.

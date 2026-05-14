@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/elizabeth-fritzl.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Japanese.

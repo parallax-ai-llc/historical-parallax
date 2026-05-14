@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/jesse-owens.md`. The YAML frontmatter, URLs, Markdown formatting, and references were all preserved exactly as-is, with all body text translated into Brazilian Portuguese.

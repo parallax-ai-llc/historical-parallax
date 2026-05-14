@@ -1,1 +1,0 @@
-Japanese translation has been written to `content/articles/ja/bryan-stevenson.md`.

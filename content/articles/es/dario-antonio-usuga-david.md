@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/dario-antonio-usuga-david.md`. The YAML frontmatter was kept exactly as-is, while all body text (headings, paragraphs, table headers/cells, list items, and references) was translated into Spanish.

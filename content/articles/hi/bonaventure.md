@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/bonaventure.md`. The YAML frontmatter, URLs, Markdown formatting, and the title *Journey of the Mind to God* (kept in English as there's no widely accepted Hindi translation) are all preserved.

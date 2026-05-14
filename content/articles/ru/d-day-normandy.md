@@ -1,1 +1,0 @@
-Done. The article has been translated to Russian and saved at `content/articles/ru/d-day-normandy.md`. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

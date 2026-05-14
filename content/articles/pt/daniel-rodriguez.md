@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/daniel-rodriguez.md`. The YAML frontmatter was kept unchanged, all Markdown formatting preserved, and the body text translated into Brazilian Portuguese.

@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/erich-honecker.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with only the body text translated into Hindi.

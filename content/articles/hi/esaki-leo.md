@@ -1,1 +1,0 @@
-Created the Hindi translation at `content/articles/hi/esaki-leo.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Hindi.

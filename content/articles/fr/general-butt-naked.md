@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/general-butt-naked.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as-is, with all body text (including the Korean supplementary notes) translated into French.

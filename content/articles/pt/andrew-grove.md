@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/andrew-grove.md`. All body text (headings, paragraphs, table cells) was translated to Brazilian Portuguese while keeping the YAML frontmatter, Markdown formatting, and URLs unchanged.

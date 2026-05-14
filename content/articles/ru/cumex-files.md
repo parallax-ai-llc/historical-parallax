@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/cumex-files.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (CumEx, cum/ex) were preserved as-is, while all body text was translated into Russian.

@@ -1,1 +1,0 @@
-Created `content/articles/ar/do-ho-suh.md` with the Arabic translation. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

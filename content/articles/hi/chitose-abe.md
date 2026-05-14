@@ -1,3 +1,0 @@
-The file only contains that single placeholder line — there's no actual article content to translate. It seems the article for Chitose Abe was never actually written; the file just has a placeholder message.
-
-Could you provide the actual Markdown article content for Chitose Abe that you'd like translated into Hindi? Or if there's another location where the article exists, let me know and I'll find it.

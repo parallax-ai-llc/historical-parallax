@@ -1,1 +1,0 @@
-The Arabic translation has been created at `content/articles/ar/dorothy-stang-murder.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as-is, with all body text translated into Arabic.

@@ -1,1 +1,0 @@
-Done. The translated file has been saved to `content/articles/pt/carolyn-bertozzi.md`.

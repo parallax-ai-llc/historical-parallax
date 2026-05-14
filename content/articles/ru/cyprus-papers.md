@@ -1,1 +1,0 @@
-Russian translation saved to `content/articles/ru/cyprus-papers.md`. YAML frontmatter preserved unchanged, all body text translated, Markdown formatting and URLs kept intact.

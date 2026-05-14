@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/igor-sechin.md`. All body text is in Brazilian Portuguese, YAML frontmatter values are preserved as-is, and Markdown formatting and URLs are unchanged.

@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/pt/great-gold-robbery-1855.md`. The YAML frontmatter was preserved exactly as-is, and all body text (headings, paragraphs, table cells, references) was translated into Brazilian Portuguese.

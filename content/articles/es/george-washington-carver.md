@@ -1,1 +1,0 @@
-Created `content/articles/es/george-washington-carver.md` with the Spanish translation. Frontmatter kept as-is, all body text translated.

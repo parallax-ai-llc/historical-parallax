@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/eyad-al-gharib.md`. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

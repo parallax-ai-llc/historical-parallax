@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/deepwater-horizon-spill-2010.md`. The YAML frontmatter was preserved exactly as-is, all body text was translated, and Markdown formatting and URLs were kept unchanged.

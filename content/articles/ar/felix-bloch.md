@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/felix-bloch.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is, while all body text (headings, paragraphs, table cells, list items, and key terms) has been translated into Arabic.

@@ -1,1 +1,0 @@
-Created the Hindi translation at `content/articles/hi/efra-n-r-os-montt.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged, with all body text translated into Hindi.

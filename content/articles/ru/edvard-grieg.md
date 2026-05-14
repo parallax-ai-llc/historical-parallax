@@ -1,1 +1,0 @@
-Created the Russian translation at `content/articles/ru/edvard-grieg.md`.

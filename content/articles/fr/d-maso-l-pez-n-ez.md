@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/d-maso-l-pez-n-ez.md`.

@@ -1,1 +1,0 @@
-Spanish translation saved to `content/articles/es/fei-fei-li.md`.

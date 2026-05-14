@@ -1,1 +1,0 @@
-Bengali translation written to `content/articles/bn/chung-yak-yong.md`. All YAML frontmatter, URLs, Markdown formatting, and Korean terms in parentheses are preserved as-is.

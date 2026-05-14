@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/choi-min-ho.md`. All YAML frontmatter values, URLs, Markdown formatting, and footnote references are preserved as-is, with only the body text translated into Arabic.

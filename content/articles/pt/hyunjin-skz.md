@@ -1,1 +1,0 @@
-The article has already been translated into Brazilian Portuguese at `content/articles/pt/hyunjin-stray-kids.md`. The existing translation looks complete and accurate — all body text is translated, YAML frontmatter is preserved as-is, Markdown formatting and URLs are unchanged.

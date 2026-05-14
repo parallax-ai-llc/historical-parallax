@@ -1,1 +1,0 @@
-Created `content/articles/pt/gudrun-ensslin.md` with the Brazilian Portuguese translation. The YAML frontmatter, URLs, and Markdown formatting are preserved unchanged.

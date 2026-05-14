@@ -1,1 +1,0 @@
-Done. The article has been translated to Brazilian Portuguese at `content/articles/pt/felix-gallardo.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as-is, while all body text was translated.

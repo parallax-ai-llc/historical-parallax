@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/al-pacino.md`. The YAML frontmatter was kept unchanged, all body text was translated to Brazilian Portuguese, and Markdown formatting, URLs, and references were preserved.

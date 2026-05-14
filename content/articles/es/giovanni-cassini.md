@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/giovanni-cassini.md`. All frontmatter values, URLs, and Markdown formatting were preserved as-is.

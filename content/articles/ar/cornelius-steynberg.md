@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/cornelius-steynberg.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (company names, acronyms like CFTC/MTI) are preserved as-is, while all body text has been translated into Arabic.

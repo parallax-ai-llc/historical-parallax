@@ -1,1 +1,0 @@
-The article has been translated to Simplified Chinese and saved to `content/articles/zh/el-azul.md`. All YAML frontmatter values, URLs, Markdown formatting, and footnote references were preserved as-is.

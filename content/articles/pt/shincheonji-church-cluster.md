@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/shincheonji-church-cluster.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is.

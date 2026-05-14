@@ -1,1 +1,0 @@
-The file exists but is empty (0 lines). There's no article content to translate. Could you provide the actual content of the Diplo article, or check if it was written correctly? The file `content/articles/diplo.md` appears to be empty.

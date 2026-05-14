@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/felix-gallardo.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated into Russian.

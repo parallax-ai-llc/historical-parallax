@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/ferdinand-magellan.md`. The YAML frontmatter is preserved exactly, all body text (headings, paragraphs, table cells, list items, blockquote) is translated into Japanese, and Markdown formatting and URLs are kept intact.

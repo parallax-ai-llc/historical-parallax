@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/ftx.md`. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

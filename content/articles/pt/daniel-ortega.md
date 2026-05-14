@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/daniel-ortega.md`. All body text (headings, paragraphs, table cells, list items, quotes) was translated to Brazilian Portuguese while keeping the YAML frontmatter values, Markdown formatting, URLs, and footnote references unchanged.

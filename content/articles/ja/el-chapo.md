@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/el-chapo.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved as-is, with only the body text translated into Japanese.

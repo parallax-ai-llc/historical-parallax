@@ -1,3 +1,0 @@
-The source file `content/articles/diplo.md` doesn't contain an actual article — it only has the placeholder text "Article written to `content/articles/diplo.md`." (likely a script output message that was accidentally saved as the file content). The existing translations in `es/`, `hi/`, etc. all encountered the same issue.
-
-Could you provide the actual Diplo article content so I can translate it into Bengali?

@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/francis-of-assisi.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/efim-zelmanov.md`.

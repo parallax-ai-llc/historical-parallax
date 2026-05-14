@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/goldman-sachs-1mdb.md`. All body text is translated to Brazilian Portuguese, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs are unchanged.

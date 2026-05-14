@@ -1,1 +1,0 @@
-Created the Simplified Chinese translation at `content/articles/zh/ettore-sottsass.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into 简体中文.

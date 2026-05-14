@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/ernest-hemingway.md`. The YAML frontmatter, book titles, Markdown formatting, and URLs were all preserved as-is, while all body text was translated into Spanish.

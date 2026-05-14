@@ -1,1 +1,0 @@
-That's what a proper article looks like. The `dag-hammarskjold.md` file is just a stub with no real content. Would you like me to **generate the full English article first**, then translate it to Russian?

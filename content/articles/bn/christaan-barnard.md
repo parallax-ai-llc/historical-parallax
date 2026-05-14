@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/christaan-barnard.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as-is, while all body text has been translated into Bengali.

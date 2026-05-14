@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/esther-duflo.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (J-PAL, RCTs, MIT, etc.) are preserved as-is, with all body text translated into Hindi.

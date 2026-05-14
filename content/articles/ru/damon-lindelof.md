@@ -1,1 +1,0 @@
-The article has been translated into Russian and saved to `content/articles/ru/damon-lindelof.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

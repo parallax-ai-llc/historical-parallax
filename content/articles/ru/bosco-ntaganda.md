@@ -1,1 +1,0 @@
-Created `content/articles/ru/bosco-ntaganda.md` with the Russian translation. Frontmatter kept as-is, all body text translated.

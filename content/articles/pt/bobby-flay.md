@@ -1,1 +1,0 @@
-The file only contains the placeholder text `Article written to \`content/articles/bobby-flay.md\`.` — it doesn't have the actual article content yet. Could you paste the article text you'd like translated, or let me know how the article was generated so I can retrieve the real content?

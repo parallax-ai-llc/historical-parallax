@@ -1,1 +1,0 @@
-Created `content/articles/ar/erich-priebke.md` with the full Arabic translation. Frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,3 +1,0 @@
-The file `content/articles/giorgio-moroder.md` doesn't contain an actual article — it only has the placeholder text "The article has been written to `content/articles/giorgio-moroder.md`." (0 lines of real content).
-
-Could you provide the actual Markdown content for Giorgio Moroder's article? Or would you like me to first generate the English article (using the format of other articles in this project) and then translate it to Spanish?

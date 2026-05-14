@@ -1,1 +1,0 @@
-Done. The Spanish translation has been saved to `content/articles/es/emaar-founder-mohamed-alabbar.md`.

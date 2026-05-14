@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/clop-ransomware-group.md`. Frontmatter kept unchanged, all body text translated.

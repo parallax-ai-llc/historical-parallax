@@ -1,1 +1,0 @@
-Created `content/articles/es/daddy-yankee.md` with the full Spanish translation. All frontmatter values, URLs, Markdown formatting, and proper nouns are preserved as-is.

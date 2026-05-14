@@ -1,1 +1,0 @@
-Japanese translation has been saved to `content/articles/ja/brian-kobilka.md`.

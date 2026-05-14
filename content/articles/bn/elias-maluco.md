@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/elias-maluco.md`. The YAML frontmatter, URLs, Markdown formatting, and reference links are all preserved exactly as-is, with all body text translated into Bengali.

@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/felix-browder.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated into Arabic.

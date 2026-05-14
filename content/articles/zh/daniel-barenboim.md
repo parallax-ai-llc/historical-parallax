@@ -1,1 +1,0 @@
-Created `content/articles/zh/daniel-barenboim.md` with the Simplified Chinese translation. All frontmatter values, Markdown formatting, and URLs are preserved as-is.

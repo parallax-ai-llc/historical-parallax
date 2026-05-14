@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/george-stephenson.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved, while all body text has been translated into Spanish.

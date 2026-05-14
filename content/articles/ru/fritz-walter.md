@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/fritz-walter.md`. Frontmatter is preserved unchanged, all body text is translated.

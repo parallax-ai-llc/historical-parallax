@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/cumrun-vafa.md`.

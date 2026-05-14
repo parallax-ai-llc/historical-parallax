@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/colin-norris.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

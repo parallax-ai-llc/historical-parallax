@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/federica-pellegrini.md`. All body text is translated, YAML frontmatter is preserved as-is, and Markdown formatting and URLs are unchanged.

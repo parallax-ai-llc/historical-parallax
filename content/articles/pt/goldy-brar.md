@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/goldy-brar.md` with all YAML frontmatter preserved exactly as-is and all body text translated to Brazilian Portuguese.

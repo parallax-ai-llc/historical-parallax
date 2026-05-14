@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/elizabeth-smart.md`. All body text is translated, YAML frontmatter and URLs are preserved unchanged.

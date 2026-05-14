@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/dieter-rams.md`.

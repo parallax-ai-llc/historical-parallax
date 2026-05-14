@@ -1,1 +1,0 @@
-French translation saved to `content/articles/fr/evel-knievel.md`. YAML frontmatter kept intact, all body text translated.

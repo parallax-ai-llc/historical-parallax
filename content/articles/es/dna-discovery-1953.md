@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/dna-discovery-1953.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

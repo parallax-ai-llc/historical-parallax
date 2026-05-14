@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/elvira-nabiullina.md`. Frontmatter kept as-is, all body text translated following the existing style conventions in the project.

@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/pt/intelbroker.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved, with only the body text translated into Brazilian Portuguese.

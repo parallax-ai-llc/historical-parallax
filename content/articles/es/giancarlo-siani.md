@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/giancarlo-siani.md`. The YAML frontmatter was preserved exactly as-is, and all body text (headings, paragraphs, table cells, list items) was translated into Spanish.

@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/zh/eos.md`. All body text is translated to Simplified Chinese while the YAML frontmatter values, Markdown formatting, URLs, and footnote references are preserved.

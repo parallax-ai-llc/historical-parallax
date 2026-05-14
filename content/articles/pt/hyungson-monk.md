@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/hyujeong-seosan-daesa.md`. The YAML frontmatter was kept exactly as-is, all Markdown formatting and URLs were preserved, and all body text was translated into Brazilian Portuguese.

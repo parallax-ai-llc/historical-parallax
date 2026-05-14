@@ -1,1 +1,0 @@
-The translated Japanese article has been written to `content/articles/ja/el-paso-walmart-shooting-2019.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is maintained, and all body text has been translated into Japanese.

@@ -1,1 +1,0 @@
-The Bengali translation has been created at `content/articles/bn/chey-tae-won.md`. The YAML frontmatter, URLs, Markdown formatting, and brand names (SK Group, SK Hynix) are preserved as-is, while all body text has been translated into Bengali.

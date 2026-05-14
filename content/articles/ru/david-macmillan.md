@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/david-macmillan.md`. All YAML frontmatter values, Markdown formatting, and URLs were preserved as-is.

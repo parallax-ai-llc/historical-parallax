@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/deadmau5.md`. The YAML frontmatter, URLs, album/track names, and Markdown formatting are all preserved as-is, with all body text translated into Bengali.

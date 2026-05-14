@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/david-sacks.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical terms (B2B SaaS, freemium, etc.) are preserved as-is.

@@ -1,1 +1,0 @@
-The French translation has been saved to `content/articles/fr/c-chulainn.md`. The YAML frontmatter, URLs, Markdown formatting, and Irish/Gaelic terms (geasa, ríastrad) were preserved as-is.

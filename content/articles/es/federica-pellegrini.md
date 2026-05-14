@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/federica-pellegrini.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved as-is, with all body text translated into Spanish.

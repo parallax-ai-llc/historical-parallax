@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/jack-welch-dup2.md`. All body text is in Brazilian Portuguese, YAML frontmatter is preserved as-is, and Markdown formatting and URLs are unchanged.

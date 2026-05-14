@@ -1,1 +1,0 @@
-Done. The Hindi translation has been written to `content/articles/hi/erna-schneider-hoover.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Hindi.

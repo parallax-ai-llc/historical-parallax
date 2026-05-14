@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/christian-olearius.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as required.

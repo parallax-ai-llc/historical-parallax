@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/jack-doohan.md`. The YAML frontmatter was preserved as-is, all body text was translated to Brazilian Portuguese, and Markdown formatting and URLs were kept unchanged.

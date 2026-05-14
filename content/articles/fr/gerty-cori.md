@@ -1,1 +1,0 @@
-Created `content/articles/fr/gerty-cori.md` with the French translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

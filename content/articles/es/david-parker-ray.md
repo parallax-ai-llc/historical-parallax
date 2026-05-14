@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/david-parker-ray.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is, with only the body text translated.

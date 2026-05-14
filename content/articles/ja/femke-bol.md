@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/femke-bol.md`. The YAML frontmatter, URLs, Markdown formatting, and all structural elements are preserved as-is, with only the body text translated.

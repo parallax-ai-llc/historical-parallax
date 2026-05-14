@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been written to `content/articles/zh/el-g-ero-palma.md`. All YAML frontmatter, URLs, Markdown formatting, and footnote references are preserved as-is.

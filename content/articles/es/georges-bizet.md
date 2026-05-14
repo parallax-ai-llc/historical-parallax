@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/georges-bizet.md`. All frontmatter values are preserved as-is, body text is fully translated, and Markdown formatting is intact.

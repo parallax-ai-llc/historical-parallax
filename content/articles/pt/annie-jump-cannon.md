@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/annie-jump-cannon.md`.

@@ -1,1 +1,0 @@
-Created the Arabic translation at `content/articles/ar/d-day-normandy.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated into Arabic, and Markdown formatting, URLs, and technical terms (MG42, LCVP, DD, OKW, FUSAG) are kept intact.

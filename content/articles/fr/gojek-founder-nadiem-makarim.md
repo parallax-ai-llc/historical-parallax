@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/gojek-founder-nadiem-makarim.md`.

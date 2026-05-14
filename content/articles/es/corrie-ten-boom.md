@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/corrie-ten-boom.md`. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are unchanged, and the body text has been fully translated into Spanish.

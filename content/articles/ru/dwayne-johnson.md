@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/dwayne-johnson.md`. All YAML frontmatter values, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into Russian.

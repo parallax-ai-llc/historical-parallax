@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/felix-browder.md`. Frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

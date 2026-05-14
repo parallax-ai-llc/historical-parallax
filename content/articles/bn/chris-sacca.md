@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/chris-sacca.md`. YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

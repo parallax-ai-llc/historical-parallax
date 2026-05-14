@@ -1,1 +1,0 @@
-Bengali translation written to `content/articles/bn/dilgo-khyentse-rinpoche.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Bengali.

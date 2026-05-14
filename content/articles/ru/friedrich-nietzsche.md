@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/friedrich-nietzsche.md`. All body text (headings, paragraphs, table cells, list items, quotes) has been translated, while the YAML frontmatter values, Markdown formatting, and URLs remain unchanged.

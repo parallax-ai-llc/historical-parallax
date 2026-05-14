@@ -1,1 +1,0 @@
-Created `content/articles/es/fatima-al-fihri.md` with the Spanish translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

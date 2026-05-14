@@ -1,1 +1,0 @@
-Done. The Spanish translation has been saved to `content/articles/es/gary-ridgway.md`. The YAML frontmatter, Markdown formatting, URLs, and references were preserved as-is.

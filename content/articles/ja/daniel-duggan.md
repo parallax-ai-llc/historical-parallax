@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/daniel-duggan.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (AECA/ITAR, TFASA) are preserved as-is, with all body text translated into natural Japanese.

@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/dorothea-lange.md`. All body text is translated while the YAML frontmatter values, Markdown formatting, and URLs are preserved.

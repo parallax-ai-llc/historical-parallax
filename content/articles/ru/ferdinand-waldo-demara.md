@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/ferdinand-waldo-demara.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is; all body text has been translated into Russian.

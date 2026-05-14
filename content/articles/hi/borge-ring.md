@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/borge-ring.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical terms (MS-13, RICO) were preserved as-is.

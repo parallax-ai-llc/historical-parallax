@@ -1,1 +1,0 @@
-Done. The translated file has been written to `content/articles/zh/george-best.md`. YAML frontmatter is preserved as-is, all body text (including the Korean supplementary section) is translated into Simplified Chinese, and Markdown formatting and URLs are unchanged.

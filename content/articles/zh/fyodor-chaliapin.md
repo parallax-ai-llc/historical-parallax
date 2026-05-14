@@ -1,1 +1,0 @@
-Done. The Simplified Chinese translation has been written to `content/articles/zh/fyodor-chaliapin.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

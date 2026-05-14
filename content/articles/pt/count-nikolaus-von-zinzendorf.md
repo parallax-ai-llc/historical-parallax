@@ -1,1 +1,0 @@
-Done. The translated file has been created at `content/articles/pt/count-nikolaus-von-zinzendorf.md`.

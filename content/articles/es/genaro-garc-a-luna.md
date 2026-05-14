@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/genaro-garc-a-luna.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, table cells, paragraphs) has been translated into Spanish.

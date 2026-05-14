@@ -1,1 +1,0 @@
-The article has been translated into Hindi and written to `content/articles/hi/felix-gallardo.md`. The YAML frontmatter is preserved exactly as provided, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, lists, bold text) has been translated into Hindi.

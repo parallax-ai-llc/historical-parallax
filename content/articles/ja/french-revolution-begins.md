@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/ja/french-revolution-begins.md`. The YAML frontmatter is preserved as-is, all body text is translated to Japanese, and Markdown formatting/URLs are unchanged.

@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/buhari-military-regime.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

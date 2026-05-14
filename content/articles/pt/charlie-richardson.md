@@ -1,1 +1,0 @@
-Done. The Brazilian Portuguese translation has been saved to `content/articles/pt/charlie-richardson.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

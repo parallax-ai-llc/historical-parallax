@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/drew-gooden.md`. All body text is translated, YAML frontmatter values are preserved as-is, Markdown formatting and URLs are unchanged.

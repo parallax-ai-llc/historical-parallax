@@ -1,1 +1,0 @@
-Done. The Spanish translation has been written to `content/articles/es/genesis-lending-collapse.md` with all YAML frontmatter preserved as-is and all body text translated.

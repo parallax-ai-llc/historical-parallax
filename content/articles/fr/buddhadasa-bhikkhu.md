@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/buddhadasa-bhikkhu.md`. The YAML frontmatter is preserved unchanged, and all body text has been translated into French.

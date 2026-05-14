@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been saved to `content/articles/pt/michael-townley.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is.

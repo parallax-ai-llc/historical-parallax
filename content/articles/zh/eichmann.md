@@ -1,1 +1,0 @@
-Translated article saved to `content/articles/zh/eichmann.md`. All body text is in Simplified Chinese while YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

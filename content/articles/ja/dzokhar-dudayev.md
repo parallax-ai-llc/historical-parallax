@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/dzokhar-dudayev.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated into Japanese.

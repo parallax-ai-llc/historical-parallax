@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/ferdinand-von-zeppelin.md`. Frontmatter, formatting, and URLs are preserved as-is.

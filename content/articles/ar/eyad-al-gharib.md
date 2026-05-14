@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/eyad-al-gharib.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as-is.

@@ -1,3 +1,0 @@
-The file `content/articles/gaston-acurio.md` only contains the placeholder text `Article written to content/articles/gaston-acurio.md` — it has never had actual article content. There's no article body to translate.
-
-Could you provide the actual Markdown content for the Gaston Acurio article, or point me to where it exists? Alternatively, if you'd like me to translate a different article, let me know which one.

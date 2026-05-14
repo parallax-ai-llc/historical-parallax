@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/belgian-pedophile-scandal.md`. The YAML frontmatter is preserved as-is, and all body text has been translated to Brazilian Portuguese.

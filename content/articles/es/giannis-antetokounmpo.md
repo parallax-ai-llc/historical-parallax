@@ -1,1 +1,0 @@
-Done. The Spanish translation has been written to `content/articles/es/giannis-antetokounmpo.md`. All YAML frontmatter values, Markdown formatting, and URLs were preserved as-is.

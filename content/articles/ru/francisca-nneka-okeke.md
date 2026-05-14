@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/francisca-nneka-okeke.md`. The frontmatter is preserved as-is, section headings follow the existing convention (`Краткая биография`, `Хронология карьеры`, `Источники`), and all formatting/URLs are unchanged.

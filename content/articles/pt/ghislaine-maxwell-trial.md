@@ -1,1 +1,0 @@
-Done. The translated file has been written to `content/articles/pt/ghislaine-maxwell-trial.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as in the original.

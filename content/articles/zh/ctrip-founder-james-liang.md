@@ -1,1 +1,0 @@
-Created the Simplified Chinese translation at `content/articles/zh/ctrip-founder-james-liang.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

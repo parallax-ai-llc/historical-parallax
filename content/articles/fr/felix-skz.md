@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/felix-stray-kids.md`. All body text has been translated, YAML frontmatter values kept as-is, and Markdown formatting preserved.

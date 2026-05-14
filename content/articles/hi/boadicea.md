@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/boudica-boadicea.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text (headings, paragraphs, table cells, list items, blockquotes) has been translated into Hindi.

@@ -1,1 +1,0 @@
-The Arabic translation has been saved to `content/articles/ar/choi-soon-sil.md`. The YAML frontmatter, URLs, Markdown formatting, and references are all preserved exactly as-is, with only the body text translated into Arabic.

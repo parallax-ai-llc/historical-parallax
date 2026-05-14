@@ -1,1 +1,0 @@
-Translated article written to `content/articles/pt/get-right.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, paragraphs, table headers) has been translated to Brazilian Portuguese.

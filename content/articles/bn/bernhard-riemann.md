@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/bernhard-riemann.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with body text fully translated into Bengali.

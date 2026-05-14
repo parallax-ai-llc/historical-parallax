@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/gisele-bundchen.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting/URLs remain unchanged.

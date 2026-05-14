@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/eug-ne-freyssinet.md`.

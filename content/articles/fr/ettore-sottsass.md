@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/ettore-sottsass.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

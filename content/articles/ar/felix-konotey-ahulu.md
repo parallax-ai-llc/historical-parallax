@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/felix-konotey-ahulu.md`.

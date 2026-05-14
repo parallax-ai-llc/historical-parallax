@@ -1,1 +1,0 @@
-The article has been translated into Brazilian Portuguese and saved to `content/articles/pt/cecil-rhodes.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting was maintained, and all body text was translated.

@@ -1,3 +1,0 @@
-The file `content/articles/garry-shandling.md` only contains the literal string "The article for Garry Shandling has been written to `content/articles/garry-shandling.md`." — it was written with the success message instead of actual article content.
-
-Could you paste the article text here, or re-generate the English article first? Once the source content exists, I can translate it to Russian immediately.

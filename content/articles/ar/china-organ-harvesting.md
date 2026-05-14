@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/china-organ-harvesting.md`. All body text (headings, paragraphs, table cells, list items) is translated, while the YAML frontmatter, Markdown formatting, URLs, and references remain unchanged.

@@ -1,1 +1,0 @@
-Spanish translation saved to `content/articles/es/gil-fronsdal.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is; all body text has been translated.

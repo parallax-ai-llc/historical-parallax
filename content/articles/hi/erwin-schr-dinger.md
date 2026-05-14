@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/erwin-schr-dinger.md`.

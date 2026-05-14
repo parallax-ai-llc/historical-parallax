@@ -1,1 +1,0 @@
-The Bengali translation has been saved to `content/articles/bn/diezani-alison-madueke.md`. The YAML frontmatter, URLs, Markdown formatting, and references are all preserved as-is, with only the body text translated into Bengali.

@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/bom-kim.md`. YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

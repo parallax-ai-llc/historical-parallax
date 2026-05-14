@@ -1,1 +1,0 @@
-Done. The translated Russian article has been written to `content/articles/ru/felix-mitchell.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

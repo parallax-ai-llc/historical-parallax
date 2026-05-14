@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/gjermund-cappelen.md`. All YAML frontmatter values, Markdown formatting, and URLs were preserved as-is, with only the body text translated into Brazilian Portuguese.

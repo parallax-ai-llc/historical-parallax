@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/dhyan-chand.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved as-is, with all body text translated to Brazilian Portuguese.

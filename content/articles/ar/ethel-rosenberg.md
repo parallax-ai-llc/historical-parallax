@@ -1,1 +1,0 @@
-Created `content/articles/ar/ethel-rosenberg.md` with the Arabic translation. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

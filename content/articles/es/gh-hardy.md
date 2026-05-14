@@ -1,1 +1,0 @@
-Created `content/articles/es/g-h-hardy.md` with the full Spanish translation. All YAML frontmatter values, URLs, Markdown formatting, and technical terms (like "Hardy–Weinberg", "Hardy–Littlewood", "Tripos") are preserved as-is, while all body text — headings, paragraphs, table headers, and table cells — has been translated into Spanish.

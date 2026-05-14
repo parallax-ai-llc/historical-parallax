@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/daniela-amodei.md`. The YAML frontmatter is preserved as-is, and all body text has been translated into Russian.

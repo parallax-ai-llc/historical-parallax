@@ -1,1 +1,0 @@
-Created `content/articles/ar/d-b-cooper.md` with the Arabic translation. The YAML frontmatter is preserved as-is, and all body text has been translated into Arabic.

@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/eric-yuan.md`. The YAML frontmatter is preserved unchanged, all body text (headings, summary, table cells, references heading) is translated into Hindi, and Markdown formatting and URLs are kept intact.

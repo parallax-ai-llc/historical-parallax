@@ -1,1 +1,0 @@
-Created the Brazilian Portuguese translation at `content/articles/pt/sejong-creates-hangul.md`.

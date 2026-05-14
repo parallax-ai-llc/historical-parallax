@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/brussels-airport-diamond-heist-2013.md`.

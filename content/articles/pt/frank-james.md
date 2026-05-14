@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/frank-james.md`. All body text (headings, paragraphs, table cells, list items) was translated to Brazilian Portuguese while keeping the YAML frontmatter values, Markdown formatting, and URLs unchanged.

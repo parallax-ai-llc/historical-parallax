@@ -1,1 +1,0 @@
-Translation written to `content/articles/pt/great-kanto-earthquake.md`.

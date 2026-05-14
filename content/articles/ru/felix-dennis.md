@@ -1,1 +1,0 @@
-Done. The Russian translation has been written to `content/articles/ru/felix-dennis.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

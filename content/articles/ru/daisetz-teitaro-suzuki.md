@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/daisetz-teitaro-suzuki.md`. YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting and URLs are kept intact.

@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/faisal-shahzad.md`. YAML frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

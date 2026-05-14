@@ -1,3 +1,0 @@
-There's only one file with that name, and its content is just the placeholder text `Article written to \`content/articles/gracie-abrams.md\`.` — it doesn't contain an actual Markdown article with frontmatter and body text to translate.
-
-Could you paste the actual article content, or point me to the correct file? The file at `content/articles/gracie-abrams.md` only contains a single line of placeholder text.

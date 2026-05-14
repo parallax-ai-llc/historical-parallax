@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/daniel-loeb.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

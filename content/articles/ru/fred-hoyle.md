@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/fred-hoyle.md`. Frontmatter, URLs, Markdown formatting, and technical terms (like B²FH) are preserved as-is.

@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/frank-drake.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, table cells, paragraphs, references) has been translated into Russian.

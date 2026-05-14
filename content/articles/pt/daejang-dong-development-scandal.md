@@ -1,1 +1,0 @@
-Done. The translated file has been saved to `content/articles/pt/daejang-dong-development-scandal.md`.

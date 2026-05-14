@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/d-maso-l-pez-n-ez.md`. Frontmatter kept intact, all body text translated.

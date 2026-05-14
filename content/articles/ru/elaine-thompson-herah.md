@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/elaine-thompson-herah.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved exactly as in the original.

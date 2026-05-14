@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/dilgo-khyentse-rinpoche.md`. The YAML frontmatter is preserved as-is, and all body text (summary, timeline, references header) has been translated into Arabic.

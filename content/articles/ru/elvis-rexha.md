@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/ru/elvis-rexha.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as-is; all body text has been translated into Russian.

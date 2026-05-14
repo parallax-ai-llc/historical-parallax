@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/emile-louis.md`. All YAML frontmatter values, Markdown formatting, and URLs were preserved as-is.

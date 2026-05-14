@@ -1,1 +1,0 @@
-Done. The translated article has been written to `content/articles/pt/dixon-denham-slave-trade.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated to Brazilian Portuguese.

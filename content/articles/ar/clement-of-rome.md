@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/clement-of-rome.md`. The YAML frontmatter, URLs, Markdown formatting, and all structural elements are preserved as-is, with only the body text translated into Arabic.

@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/carl-wernicke.md`. Frontmatter kept as-is, all body text translated.

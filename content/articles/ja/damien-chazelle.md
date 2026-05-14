@@ -1,1 +1,0 @@
-Japanese translation saved to `content/articles/ja/damien-chazelle.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Japanese.

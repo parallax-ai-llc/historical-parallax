@@ -1,1 +1,0 @@
-Done. The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/frank-bainimarama.md`. The YAML frontmatter, Markdown formatting, and URLs were kept intact as requested.

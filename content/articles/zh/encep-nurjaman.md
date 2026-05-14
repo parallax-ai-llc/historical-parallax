@@ -1,1 +1,0 @@
-Translated article written to `content/articles/zh/encep-nurjaman.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated to Simplified Chinese, and Markdown formatting and URLs are kept unchanged.

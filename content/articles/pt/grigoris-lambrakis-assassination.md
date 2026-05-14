@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been written to `content/articles/pt/grigoris-lambrakis-assassination.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved exactly as-is, with all body text translated.

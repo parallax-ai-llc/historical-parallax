@@ -1,1 +1,0 @@
-Hindi translation written to `content/articles/hi/fall-of-france-1940.md`.

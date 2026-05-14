@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/francesco-schettino.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

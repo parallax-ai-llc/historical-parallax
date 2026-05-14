@@ -1,1 +1,0 @@
-Done. The Japanese translation has been written to `content/articles/ja/florence-nightingale.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as the original.

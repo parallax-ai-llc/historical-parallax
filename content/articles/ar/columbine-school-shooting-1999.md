@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/columbine-school-shooting-1999.md`. The YAML frontmatter, URLs, Markdown formatting, and references are preserved as-is, with all body text translated into Arabic.

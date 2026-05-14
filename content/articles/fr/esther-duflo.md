@@ -1,1 +1,0 @@
-Created `content/articles/fr/esther-duflo.md` with the full French translation. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, while all body text has been translated into French.

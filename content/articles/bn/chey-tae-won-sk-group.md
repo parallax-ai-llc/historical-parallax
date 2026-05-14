@@ -1,1 +1,0 @@
-Bengali translation created at `content/articles/bn/chey-tae-won-sk-group.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is, with all body text translated into Bengali.

@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/chionis-of-sparta.md`. The YAML frontmatter is preserved exactly, all Markdown formatting and URLs are unchanged, and all body text has been translated into Arabic.

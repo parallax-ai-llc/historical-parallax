@@ -1,1 +1,0 @@
-Done. The translated Spanish article has been written to `content/articles/es/genrikh-yagoda.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

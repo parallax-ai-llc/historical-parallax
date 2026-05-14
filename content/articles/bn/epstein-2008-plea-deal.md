@@ -1,1 +1,0 @@
-Bengali translation written to `content/articles/bn/epstein-2008-plea-deal.md`. The YAML frontmatter, Markdown formatting, URLs, and the series title "Perversion of Justice" are preserved as-is, while all body text has been translated into Bengali.

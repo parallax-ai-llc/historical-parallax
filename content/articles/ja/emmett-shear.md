@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/emmett-shear.md`. The frontmatter is preserved as-is, all body text (headings, summary, table cells, references) is translated into Japanese, and Markdown formatting and URLs are unchanged.

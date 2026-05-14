@@ -1,1 +1,0 @@
-The translated Spanish file has been saved to `content/articles/es/cornelius-vanderbilt-whitney-duplicate.md`. The YAML frontmatter was preserved exactly as-is, and all body text was translated to Spanish.

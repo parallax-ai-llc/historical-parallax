@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/chung-se-yung.md`. The YAML frontmatter is preserved as-is, all body text (headings, paragraphs, table cells) is translated into Bengali, and Markdown formatting and URLs are unchanged.

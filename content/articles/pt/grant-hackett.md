@@ -1,1 +1,0 @@
-Done. The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/grant-hackett.md`. The YAML frontmatter, Markdown formatting, URLs, and table structure were all preserved as-is.

@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/pt/duke-cunningham.md`. All body text is in Brazilian Portuguese while the YAML frontmatter, Markdown formatting, and URLs remain unchanged.

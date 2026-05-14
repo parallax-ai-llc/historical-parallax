@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/czechoslovakia-velvet-revolution-1989.md`. All YAML frontmatter values, URLs, Markdown formatting, and footnote references are preserved as-is, with all body text translated into Japanese.

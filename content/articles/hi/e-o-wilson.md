@@ -1,1 +1,0 @@
-Created `content/articles/hi/e-o-wilson.md` with the Hindi translation. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

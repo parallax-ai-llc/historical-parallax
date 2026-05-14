@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/bjork.md`. The YAML frontmatter is preserved as-is, all body text is translated, and album/film titles are kept in their original English.

@@ -1,1 +1,0 @@
-Created `content/articles/ru/brook-taylor.md` with the Russian translation. The YAML frontmatter, Markdown formatting, URLs, and Latin titles (Methodus Incrementorum Directa et Inversa, Linear Perspective) are preserved as-is.

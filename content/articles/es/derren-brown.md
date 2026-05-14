@@ -1,1 +1,0 @@
-Created `content/articles/es/derren-brown.md` with the full Spanish translation. Frontmatter values, URLs, Markdown formatting, and show/book titles are preserved as-is.

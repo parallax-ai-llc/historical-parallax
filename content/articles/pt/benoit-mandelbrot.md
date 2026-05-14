@@ -1,1 +1,0 @@
-Created `content/articles/pt/benoit-mandelbrot.md` with the Brazilian Portuguese translation. Book titles were kept in English as they are the original published titles.

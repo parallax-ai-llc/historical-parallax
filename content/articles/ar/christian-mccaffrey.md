@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/christian-mccaffrey.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, list items, table cells) has been translated into Arabic.

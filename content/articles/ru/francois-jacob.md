@@ -1,1 +1,0 @@
-Created `content/articles/ru/francois-jacob.md` with the Russian translation. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into Russian.

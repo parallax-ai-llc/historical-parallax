@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/sergei-magnitsky.md`. The YAML frontmatter was kept intact, and all body text was translated into Brazilian Portuguese.

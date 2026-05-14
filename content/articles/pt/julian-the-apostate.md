@@ -1,1 +1,0 @@
-The article has been translated into Brazilian Portuguese and saved to `content/articles/pt/julian-the-apostate.md`. The YAML frontmatter, URLs, Markdown formatting, and references were all preserved as-is, while all body text (headings, paragraphs, table cells, quotes) was translated.

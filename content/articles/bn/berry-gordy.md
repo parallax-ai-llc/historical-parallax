@@ -1,3 +1,0 @@
-The English source file doesn't have actual article content — it just contains a placeholder. I can't translate something that doesn't exist yet.
-
-Could you provide the actual Berry Gordy article content, or re-run the script that generates it? The file at `content/articles/berry-gordy.md` only contains the text `Article written to \`content/articles/berry-gordy.md\`.` rather than an actual article.

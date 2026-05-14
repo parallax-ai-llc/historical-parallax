@@ -1,1 +1,0 @@
-Created the Brazilian Portuguese translation at `content/articles/pt/evan-williams.md`. The YAML frontmatter was kept unchanged, and all body text (headings, table cells, paragraphs) was translated.

@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/ferenc-krausz.md`. Frontmatter kept intact, all body text translated, formatting and URLs preserved.

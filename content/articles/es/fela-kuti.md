@@ -1,1 +1,0 @@
-Created `content/articles/es/fela-kuti.md` with the Spanish translation. Frontmatter kept intact, all body text translated, formatting and URLs preserved.

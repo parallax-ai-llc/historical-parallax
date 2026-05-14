@@ -1,1 +1,0 @@
-Created `content/articles/bn/berthe-morisot.md` with the Bengali translation.

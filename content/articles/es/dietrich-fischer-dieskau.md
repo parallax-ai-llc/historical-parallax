@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/dietrich-fischer-dieskau.md`. All YAML frontmatter, URLs, Markdown formatting, and proper nouns (work titles, place names, institution names) were preserved as-is.

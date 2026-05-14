@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/fentanyl-crisis.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged. I also fixed the typo `n-` → `-` on the "Strain on emergency medical services" line in the original.

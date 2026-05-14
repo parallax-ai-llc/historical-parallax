@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/enron-scandal-2001.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into Spanish.

@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/conan-o-brien.md`. The YAML frontmatter, URLs, Markdown formatting, and program/show names were preserved as-is, while all body text (headings, paragraphs, list items, and table cells) was translated into Arabic.

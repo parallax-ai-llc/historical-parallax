@@ -1,3 +1,0 @@
-The file at `content/articles/chuck-feeney.md` only contains the placeholder text "The article has been written to `content/articles/chuck-feeney.md`." — it doesn't have actual article content to translate.
-
-Could you provide the actual Markdown article content for Chuck Feeney, or point me to where it exists? I need the real article text (with YAML frontmatter and body) to produce the Russian translation.

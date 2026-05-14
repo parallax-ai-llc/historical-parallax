@@ -1,1 +1,0 @@
-Japanese translation saved to `content/articles/ja/claude-duval.md`.

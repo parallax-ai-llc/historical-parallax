@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/fazul-abdullah-mohammed.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, URLs are unchanged, and all body text has been translated into Hindi.

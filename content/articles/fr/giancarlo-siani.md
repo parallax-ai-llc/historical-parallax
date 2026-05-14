@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/giancarlo-siani.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into French.

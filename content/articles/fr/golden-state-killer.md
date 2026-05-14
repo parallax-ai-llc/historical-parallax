@@ -1,1 +1,0 @@
-Done. The French translation has been written to `content/articles/fr/golden-state-killer.md`. The YAML frontmatter, URLs, Markdown formatting, and series names (e.g., "East Area Rapist", "Original Night Stalker") were preserved as-is, while all body text was translated into French.

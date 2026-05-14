@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/dennis-rodman.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms (NBA, etc.) are preserved as-is, with all body text translated into বাংলা.

@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/g-rard-mourou.md`. Frontmatter kept intact, all body text translated, formatting and URLs preserved.

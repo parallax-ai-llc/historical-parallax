@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/zh/fred-again.md`. All body text is translated to Simplified Chinese while the YAML frontmatter, Markdown formatting, URLs, and album/song titles are preserved as-is.

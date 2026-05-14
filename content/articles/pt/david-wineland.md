@@ -1,1 +1,0 @@
-Translated article saved to `content/articles/pt/david-wineland.md`.

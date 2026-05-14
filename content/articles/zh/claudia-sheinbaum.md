@@ -1,3 +1,0 @@
-The file `content/articles/claudia-sheinbaum.md` only contains a one-line description, not actual article content with YAML frontmatter and body text. There's no markdown article to translate.
-
-Could you provide the actual article content (with YAML frontmatter and body text), or point me to where the full article lives? Alternatively, if this article needs to be generated first, let me know and I can help with that.

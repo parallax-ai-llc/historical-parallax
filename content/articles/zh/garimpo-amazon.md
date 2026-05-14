@@ -1,1 +1,0 @@
-Translated article written to `content/articles/zh/garimpo-amazon.md`. All YAML frontmatter, URLs, Markdown formatting, and references are preserved as-is; all body text has been translated into Simplified Chinese.

@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/julia-roberts.md`. Movie titles were localized to their official Brazilian Portuguese release names (e.g., *Pretty Woman* → *Uma Linda Mulher*, *Steel Magnolias* → *Flores de Aço*), and all YAML frontmatter, URLs, and Markdown formatting were preserved as-is.

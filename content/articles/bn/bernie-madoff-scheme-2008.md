@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/bernie-madoff-scheme-2008.md`. All YAML frontmatter, URLs, Markdown formatting, and proper names are preserved as-is, with the body text fully translated into Bengali.

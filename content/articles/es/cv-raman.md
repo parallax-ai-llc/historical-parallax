@@ -1,1 +1,0 @@
-Done. The Spanish translation has been written to `content/articles/es/c-v-raman.md`, replacing the older shorter version. The YAML frontmatter values are preserved as-is, and all body text has been fully translated.

@@ -1,1 +1,0 @@
-Translated article saved to `content/articles/zh/boston-marathon-bombing-2013.md`.

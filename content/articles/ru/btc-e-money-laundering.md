@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/btc-e-money-laundering.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

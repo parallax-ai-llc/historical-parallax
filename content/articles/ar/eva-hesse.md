@@ -1,1 +1,0 @@
-Created `content/articles/ar/eva-hesse.md` with the Arabic translation. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is.

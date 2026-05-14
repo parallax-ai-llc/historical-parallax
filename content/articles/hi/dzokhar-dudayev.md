@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/dzokhar-dudayev.md`. The YAML frontmatter, URLs, Markdown formatting, and references are preserved as-is, with all body text translated into Hindi.

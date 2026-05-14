@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/erving-goffman.md`. The YAML frontmatter, URLs, Markdown formatting, and all structural elements are preserved as-is, with all body text translated into Arabic.

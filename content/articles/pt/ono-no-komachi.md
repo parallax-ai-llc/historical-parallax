@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/ono-no-komachi.md`. The YAML frontmatter, URLs, Markdown formatting, Japanese terms (waka, kakekotoba, etc.), and all references were kept unchanged, while all body text was translated into Brazilian Portuguese.

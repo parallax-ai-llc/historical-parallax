@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/zh/construction-of-the-pyramids-of-giza.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into Simplified Chinese.

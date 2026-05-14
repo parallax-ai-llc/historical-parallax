@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/george-eastman.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved unchanged.

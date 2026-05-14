@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/delphine-lalaurie.md`. Note: I fixed what appears to be an encoding issue in the original — "사건" (Korean for "incident") in the Legacy section was replaced with "el caso" (the case) in the Spanish translation.

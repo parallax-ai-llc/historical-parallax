@@ -1,1 +1,0 @@
-Arabic translation created at `content/articles/ar/blalock-alfred.md`. YAML frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/dna-discovery-1953.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical terms (DNA, A, T, G, C, CRISPR, mRNA, etc.) were preserved as-is, while all body text was translated into Arabic.

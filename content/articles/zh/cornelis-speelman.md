@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/zh/cornelis-speelman.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

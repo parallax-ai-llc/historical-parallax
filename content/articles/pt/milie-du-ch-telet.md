@@ -1,1 +1,0 @@
-Translation saved to `content/articles/pt/emilie-du-chatelet.md`.

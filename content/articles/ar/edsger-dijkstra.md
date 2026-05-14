@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/edsger-dijkstra.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (Semaphore, Go To) are preserved as required.

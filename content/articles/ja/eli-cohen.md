@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/eli-cohen.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms (HUMINT) are preserved as-is.

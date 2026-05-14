@@ -1,1 +1,0 @@
-Created `content/articles/es/erna-schneider-hoover.md` with the Spanish translation.

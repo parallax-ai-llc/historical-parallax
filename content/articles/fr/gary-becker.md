@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/gary-becker.md`. The YAML frontmatter, URLs, book titles, and Markdown formatting are preserved as-is, with all body text translated into French.

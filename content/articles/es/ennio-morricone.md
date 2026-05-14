@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/ennio-morricone.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is, while all body text was translated into Spanish, including localized film titles (e.g., *El bueno, el feo y el malo*, *Por un puñado de dólares*).

@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/christian-dior.md`. The YAML frontmatter is preserved exactly, all Markdown formatting is intact, and all body text (summary, timeline, references heading) has been translated into Arabic.

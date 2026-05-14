@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/emmanuel-nwude.md`. YAML frontmatter, URLs, Markdown formatting, and reference titles are preserved as-is.

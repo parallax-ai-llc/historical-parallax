@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/dotcom-bubble-2000.md`. All body text is in Brazilian Portuguese, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs remain unchanged.

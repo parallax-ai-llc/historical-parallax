@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/scott-dixon.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns were kept intact as required.

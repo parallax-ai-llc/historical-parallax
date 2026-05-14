@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/frederick-smith-duplicate.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references are all preserved as-is, with all body text translated into Japanese.

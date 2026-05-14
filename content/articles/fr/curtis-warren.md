@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/curtis-warren.md`. The YAML frontmatter was preserved as-is, all body text was translated, and Markdown formatting was kept intact.

@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/david-sacks.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical terms (SaaS, B2B, freemium, growth hacking, etc.) were preserved as-is.

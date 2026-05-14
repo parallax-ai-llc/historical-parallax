@@ -1,1 +1,0 @@
-Created `content/articles/es/farc.md` with the Spanish translation. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

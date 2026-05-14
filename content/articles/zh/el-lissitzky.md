@@ -1,1 +1,0 @@
-The article has been translated into Simplified Chinese and saved to `content/articles/zh/el-lissitzky.md`.

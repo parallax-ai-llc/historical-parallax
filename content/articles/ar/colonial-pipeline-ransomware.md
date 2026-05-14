@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/colonial-pipeline-ransomware.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is, with all body text translated into Arabic.

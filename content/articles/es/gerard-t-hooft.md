@@ -1,1 +1,0 @@
-Done. The Spanish translation has been saved to `content/articles/es/gerard-t-hooft.md`. The YAML frontmatter is preserved unchanged, and all body text (headings, table cells, paragraphs) has been translated into Spanish.

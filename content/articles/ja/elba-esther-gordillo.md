@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/elba-esther-gordillo.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

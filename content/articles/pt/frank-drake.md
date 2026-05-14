@@ -1,1 +1,0 @@
-Created `content/articles/pt/frank-drake.md` with the Brazilian Portuguese translation.

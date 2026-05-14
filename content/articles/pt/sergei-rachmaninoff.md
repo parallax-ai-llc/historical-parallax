@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/sergei-rachmaninoff.md`. All body text (headings, paragraphs, table cells, quotes) was translated to Brazilian Portuguese while keeping the YAML frontmatter values, Markdown formatting, URLs, and footnote references unchanged.

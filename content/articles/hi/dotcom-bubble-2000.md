@@ -1,1 +1,0 @@
-Hindi translation written to `content/articles/hi/dotcom-bubble-2000.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting, URLs, company names, and financial figures are kept intact.

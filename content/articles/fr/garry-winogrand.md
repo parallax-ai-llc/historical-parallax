@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/garry-winogrand.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, table headers) has been translated into French.

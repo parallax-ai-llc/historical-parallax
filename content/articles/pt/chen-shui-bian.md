@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/chen-shui-bian.md`. All body text (headings, paragraphs, table cells, quotes, etc.) is translated to Brazilian Portuguese while the YAML frontmatter values, URLs, Markdown formatting, and footnote references remain unchanged.

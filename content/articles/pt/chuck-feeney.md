@@ -1,1 +1,0 @@
-The file has never contained actual article content — it's always been a placeholder. There's no Chuck Feeney article to translate. Could you provide the actual Markdown article content for Chuck Feeney? I need the real text with YAML frontmatter and body to produce the Brazilian Portuguese translation.

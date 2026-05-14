@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/itagaki-taisuke.md`. All body text (headings, paragraphs, table cells, list items, quote attributions) was translated to Brazilian Portuguese while keeping the YAML frontmatter values, Markdown formatting, URLs, and footnote references unchanged.

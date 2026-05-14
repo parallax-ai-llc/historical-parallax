@@ -1,1 +1,0 @@
-Translation written to `content/articles/zh/daniel-rodriguez.md`.

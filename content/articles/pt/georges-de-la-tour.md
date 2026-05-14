@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/georges-de-la-tour.md`. Painting titles (*The Cheat with the Ace of Diamonds*, *Joseph the Carpenter*) and the French honorific (*Peintre Ordinaire du Roi*) were kept in their original form as they are proper names.

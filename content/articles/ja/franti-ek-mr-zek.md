@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/franti-ek-mr-zek.md`. The YAML frontmatter, Markdown formatting, URLs, and references are all preserved unchanged.

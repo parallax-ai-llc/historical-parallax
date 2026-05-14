@@ -1,1 +1,0 @@
-Done. The translated article has been written to `content/articles/pt/graham-ivan-clark.md`. All YAML frontmatter, URLs, and Markdown formatting were preserved as-is, with only the body text translated into Brazilian Portuguese.

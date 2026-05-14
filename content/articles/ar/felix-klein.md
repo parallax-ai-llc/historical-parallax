@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/felix-klein.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved unchanged, with all body text translated into Arabic.

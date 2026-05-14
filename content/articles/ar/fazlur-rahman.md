@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/fazlur-rahman.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and all body text (headings, paragraphs, table headers/cells, references) has been translated into Arabic.

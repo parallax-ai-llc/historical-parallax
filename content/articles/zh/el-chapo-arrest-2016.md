@@ -1,1 +1,0 @@
-Done. The translated file has been written to `content/articles/zh/el-chapo-arrest-2016.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated to Simplified Chinese, and Markdown formatting/URLs remain unchanged.

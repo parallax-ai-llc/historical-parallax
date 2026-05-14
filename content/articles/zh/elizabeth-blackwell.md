@@ -1,1 +1,0 @@
-Translated file written to `content/articles/zh/elizabeth-blackwell.md`.

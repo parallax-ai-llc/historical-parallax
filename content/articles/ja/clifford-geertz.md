@@ -1,3 +1,0 @@
-It appears the actual article content was never written to the file — all versions just contain placeholder/status text. The file `content/articles/clifford-geertz.md` doesn't have the real article content.
-
-Could you provide the actual Markdown content of the Clifford Geertz article? The file currently only contains the status message `Article written to content/articles/clifford-geertz.md.` rather than the article itself.

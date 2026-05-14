@@ -1,1 +1,0 @@
-Created `content/articles/es/georges-rutaganda.md` with the Spanish translation. Frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

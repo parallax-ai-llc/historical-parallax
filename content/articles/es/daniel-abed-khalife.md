@@ -1,1 +1,0 @@
-Done. The translated Spanish article has been written to `content/articles/es/daniel-abed-khalife.md` with the YAML frontmatter preserved exactly as-is.

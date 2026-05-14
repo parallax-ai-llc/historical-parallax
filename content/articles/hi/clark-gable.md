@@ -1,1 +1,0 @@
-Hindi translation of the Clark Gable article has been written to `content/articles/hi/clark-gable.md`.

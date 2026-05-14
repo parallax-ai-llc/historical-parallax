@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been written to `content/articles/zh/deepwater-horizon-spill-2010.md`. YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

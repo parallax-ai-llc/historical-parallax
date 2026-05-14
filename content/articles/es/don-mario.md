@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/don-mario.md`. The YAML frontmatter, URLs, Markdown formatting, and all proper nouns were preserved as-is.

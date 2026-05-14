@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/elie-hobeika.md`. All body text (headings, paragraphs, table cells, list items) has been translated to বাংলা while keeping the YAML frontmatter, Markdown formatting, and URLs unchanged.

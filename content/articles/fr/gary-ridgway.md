@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/gary-ridgway.md`. All YAML frontmatter values, URLs, Markdown formatting, and references were preserved as-is.

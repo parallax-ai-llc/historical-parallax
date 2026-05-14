@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/enron.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

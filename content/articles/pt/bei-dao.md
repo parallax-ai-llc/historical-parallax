@@ -1,1 +1,0 @@
-The file already exists and is already translated into Brazilian Portuguese. The translation looks accurate and complete. No changes needed.

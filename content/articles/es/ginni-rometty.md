@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/ginni-rometty.md`. Frontmatter, URLs, and Markdown formatting preserved as-is.

@@ -1,1 +1,0 @@
-Done. The Spanish translation has been written to `content/articles/es/cz-binance.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

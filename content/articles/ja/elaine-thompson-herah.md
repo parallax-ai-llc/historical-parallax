@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/elaine-thompson-herah.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved as-is, with all body text translated into natural Japanese.

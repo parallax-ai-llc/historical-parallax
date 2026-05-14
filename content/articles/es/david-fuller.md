@@ -1,1 +1,0 @@
-Done. The translated Spanish article has been saved to `content/articles/es/david-fuller.md`.

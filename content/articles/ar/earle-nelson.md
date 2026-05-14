@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/earle-nelson.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

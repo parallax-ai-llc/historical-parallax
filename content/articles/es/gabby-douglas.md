@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/gabby-douglas.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns like "Fierce Five" were preserved as-is, while all body text was translated into Spanish.

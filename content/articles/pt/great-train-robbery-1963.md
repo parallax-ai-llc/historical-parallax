@@ -1,1 +1,0 @@
-Article translated and saved to `content/articles/pt/great-train-robbery-1963.md`. The YAML frontmatter was preserved unchanged, and all body text was translated into Brazilian Portuguese.

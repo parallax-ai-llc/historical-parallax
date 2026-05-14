@@ -1,1 +1,0 @@
-Created `content/articles/bn/chien-wei-zang.md` with the Bengali translation.

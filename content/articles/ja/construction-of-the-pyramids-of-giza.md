@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/construction-of-the-pyramids-of-giza.md`.

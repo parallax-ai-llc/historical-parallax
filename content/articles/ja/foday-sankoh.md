@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/foday-sankoh.md`. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

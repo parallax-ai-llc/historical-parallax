@@ -1,1 +1,0 @@
-Arabic translation created at `content/articles/ar/chirathivat-family-representative-tos-chirathivat.md`.

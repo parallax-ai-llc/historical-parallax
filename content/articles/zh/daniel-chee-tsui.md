@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/zh/daniel-chee-tsui.md`. The YAML frontmatter is preserved as-is, and all body text has been translated into Simplified Chinese.

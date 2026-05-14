@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/darbara-singh.md`. The YAML frontmatter was preserved exactly as-is, and all body text (headings, paragraphs, table cells, list items, references) was translated into French.

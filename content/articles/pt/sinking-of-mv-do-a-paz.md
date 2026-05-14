@@ -1,1 +1,0 @@
-Done. The translated file has been created at `content/articles/pt/sinking-of-mv-do-a-paz.md`.

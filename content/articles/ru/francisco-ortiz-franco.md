@@ -1,1 +1,0 @@
-Done. The Russian translation has been written to `content/articles/ru/francisco-ortiz-franco.md`, following the same conventions as existing Russian articles in the project (e.g., "Краткая биография", "Хронология карьеры", "Источники" for section headings). All YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

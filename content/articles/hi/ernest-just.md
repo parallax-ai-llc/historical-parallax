@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/ernest-just.md`. The YAML frontmatter is preserved as-is, all body text (headings, summary, table headers/cells, references label) is translated into Hindi, and Markdown formatting and URLs are kept intact.

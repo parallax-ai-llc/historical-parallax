@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/fred-smith.md`. YAML frontmatter kept unchanged, all body text translated, Markdown formatting and URLs preserved.

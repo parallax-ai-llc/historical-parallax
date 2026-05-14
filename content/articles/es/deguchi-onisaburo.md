@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/deguchi-onisaburo.md`. The YAML frontmatter was preserved as-is, and all body text (headings, paragraphs, table headers/cells) was translated into Spanish.

@@ -1,1 +1,0 @@
-Done. The Brazilian Portuguese translation has been written to `content/articles/pt/iris-fontbona.md`.

@@ -1,1 +1,0 @@
-Done. The Brazilian Portuguese translation has been saved to `content/articles/pt/shlomo-carlebach.md`.

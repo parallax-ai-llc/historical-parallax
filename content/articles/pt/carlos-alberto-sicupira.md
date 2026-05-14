@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/carlos-alberto-sicupira.md`. The YAML frontmatter was kept unchanged while all body text (summary, timeline headers, table contents, and section headings) was translated into Brazilian Portuguese.

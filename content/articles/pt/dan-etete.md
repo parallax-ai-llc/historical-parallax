@@ -1,1 +1,0 @@
-Created `content/articles/pt/dan-etete.md` with the Brazilian Portuguese translation. All YAML frontmatter, URLs, Markdown formatting, and proper nouns were preserved as-is.

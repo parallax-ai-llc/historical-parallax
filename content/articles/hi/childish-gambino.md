@@ -1,1 +1,0 @@
-There's only one file and it contains just a placeholder line, not an actual Markdown article with frontmatter and body text. Could you provide the actual article content you'd like translated into Hindi? Or if this file was supposed to have been generated earlier, it may need to be created first.

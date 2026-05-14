@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/eike-batista.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

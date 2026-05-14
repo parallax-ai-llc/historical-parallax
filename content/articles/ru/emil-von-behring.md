@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/emil-von-behring.md`. Frontmatter kept intact, all body text translated to Russian.

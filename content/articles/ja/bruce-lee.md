@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/bruce-lee.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

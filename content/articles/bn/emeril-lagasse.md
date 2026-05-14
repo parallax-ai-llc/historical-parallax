@@ -1,1 +1,0 @@
-It looks like you pasted a status message rather than the actual Markdown article. Could you provide the full Markdown content (with YAML frontmatter and body) that you'd like translated into Bengali?

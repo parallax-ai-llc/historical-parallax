@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/gilles-de-rais.md`. The YAML frontmatter, Markdown formatting, URLs, and references were preserved exactly as-is, with all body text translated into Brazilian Portuguese.

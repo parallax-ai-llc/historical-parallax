@@ -1,1 +1,0 @@
-Done. The translated file has been created at `content/articles/pt/bayard.md` with all body text translated to Brazilian Portuguese, frontmatter preserved as-is, and Markdown formatting intact.

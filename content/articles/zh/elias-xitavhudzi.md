@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/zh/elias-xitavhudzi.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated to Simplified Chinese.

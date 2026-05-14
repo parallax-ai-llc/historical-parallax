@@ -1,1 +1,0 @@
-Done. The Brazilian Portuguese translation has been saved to `content/articles/pt/george-russell.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting and URLs were kept intact, and all body text was translated.

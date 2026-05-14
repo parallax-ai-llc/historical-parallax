@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/cm-punk.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and the body text has been fully translated into Russian.

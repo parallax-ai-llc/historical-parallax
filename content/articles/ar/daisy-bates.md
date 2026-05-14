@@ -1,3 +1,0 @@
-The article at `content/articles/daisy-bates.md` only contains a placeholder line (`Article written to ...`) — it was never populated with actual article content. There's no YAML frontmatter, headings, or body text to translate.
-
-Could you provide the actual Markdown content of the Daisy Bates article you'd like translated into Arabic? Or if the article exists elsewhere, let me know the correct path.

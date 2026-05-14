@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/djoko-tjandra.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

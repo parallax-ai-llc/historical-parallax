@@ -1,1 +1,0 @@
-The file exists but contains only a placeholder line. It seems the article content hasn't actually been written yet. Could you provide the actual Markdown content of the David Miscavige article that you'd like me to translate into Brazilian Portuguese?

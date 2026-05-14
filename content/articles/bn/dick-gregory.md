@@ -1,1 +1,0 @@
-Bengali translation of the Dick Gregory article has been written to `content/articles/bn/dick-gregory.md`.

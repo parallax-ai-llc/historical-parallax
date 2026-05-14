@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/eus-bio.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

@@ -1,1 +1,0 @@
-Done. The Brazilian Portuguese translation has been written to `content/articles/pt/igor-sikorsky.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is.

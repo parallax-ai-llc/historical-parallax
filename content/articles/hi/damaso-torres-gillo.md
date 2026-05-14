@@ -1,1 +1,0 @@
-The Hindi translation has been created at `content/articles/hi/damaso-torres-gillo.md`. The YAML frontmatter, Markdown formatting, URLs, and all structural elements are preserved as-is, with all body text translated into Hindi.

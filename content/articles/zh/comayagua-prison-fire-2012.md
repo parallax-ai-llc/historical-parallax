@@ -1,1 +1,0 @@
-The Simplified Chinese translation has been written to `content/articles/zh/comayagua-prison-fire-2012.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

@@ -1,1 +1,0 @@
-Created `content/articles/es/emil-nolde.md` with the Spanish translation. Frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

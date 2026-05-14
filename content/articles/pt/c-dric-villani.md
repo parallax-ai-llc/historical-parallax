@@ -1,1 +1,0 @@
-Done. The translated article has been written to `content/articles/pt/c-dric-villani.md`.

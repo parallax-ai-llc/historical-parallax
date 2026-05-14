@@ -1,1 +1,0 @@
-The Simplified Chinese translation has been written to `content/articles/zh/bruno-mars.md`.

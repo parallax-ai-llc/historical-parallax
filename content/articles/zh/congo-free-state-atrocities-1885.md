@@ -1,1 +1,0 @@
-The article has been translated into Simplified Chinese and written to `content/articles/zh/congo-free-state-atrocities.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is maintained, and all body text has been fully translated.

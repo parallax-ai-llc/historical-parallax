@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/fazlur-rahman-khan.md`. The YAML frontmatter is preserved as-is, and all body text has been translated into French.

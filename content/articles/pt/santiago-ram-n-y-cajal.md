@@ -1,1 +1,0 @@
-Done. The Brazilian Portuguese translation has been written to `content/articles/pt/santiago-ram-n-y-cajal.md`. The YAML frontmatter, URLs, and Markdown formatting were preserved as-is.

@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been saved to `content/articles/zh/el-mayo-zambada-jr.md`.

@@ -1,1 +1,0 @@
-Created `content/articles/pt/eta.md` with the Brazilian Portuguese translation.

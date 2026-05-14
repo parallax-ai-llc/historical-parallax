@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/zh/conor-fitzpatrick.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is; all body text is in Simplified Chinese.

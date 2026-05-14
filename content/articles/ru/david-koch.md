@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/david-koch.md`.

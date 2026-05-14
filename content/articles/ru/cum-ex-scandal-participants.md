@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/cum-ex-scandal-participants.md`. YAML frontmatter kept unchanged, all body text translated, Markdown formatting and URLs preserved.

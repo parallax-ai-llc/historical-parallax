@@ -1,1 +1,0 @@
-Japanese translation saved to `content/articles/ja/fred-astaire.md`. Frontmatter fields, URLs, Markdown formatting, and film titles are preserved as-is.

@@ -1,1 +1,0 @@
-Translated file created at `content/articles/zh/emilio-massera.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated to Simplified Chinese, and Markdown formatting is maintained.

@@ -1,1 +1,0 @@
-Created `content/articles/pt/hideyo-noguchi.md` with the Brazilian Portuguese translation.

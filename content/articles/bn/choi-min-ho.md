@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/choi-min-ho.md`. All YAML frontmatter, URLs, Markdown formatting, and footnote references are preserved as-is, with only the body text translated into বাংলা.

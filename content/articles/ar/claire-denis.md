@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/claire-denis.md`. The YAML frontmatter, URLs, film titles, and Markdown formatting are all preserved as-is, with only the body text translated into Arabic.

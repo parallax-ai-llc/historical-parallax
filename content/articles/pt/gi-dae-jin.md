@@ -1,1 +1,0 @@
-Done. The translated file has been written to `content/articles/pt/gi-dae-jin.md`. The YAML frontmatter was preserved exactly as-is, and all body text was translated into Brazilian Portuguese.

@@ -1,1 +1,0 @@
-Created `content/articles/pt/dorothy-vaughan.md` with the Brazilian Portuguese translation.

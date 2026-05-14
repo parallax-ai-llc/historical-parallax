@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/enrique-olvera.md`. All YAML frontmatter values, URLs, Markdown formatting, and technical terms are preserved as-is, with all body text translated into Bengali.

@@ -1,1 +1,0 @@
-The French translation has been saved to `content/articles/fr/gerard-mourou.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

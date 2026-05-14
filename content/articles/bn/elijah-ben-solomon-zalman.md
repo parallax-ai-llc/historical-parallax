@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/bn/elijah-ben-solomon-zalman.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged; all body text has been translated into Bengali.

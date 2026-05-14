@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/bono.md`. The YAML frontmatter, URLs, Markdown formatting, album/song titles, and proper nouns are preserved as-is, while all body text has been translated into Hindi.

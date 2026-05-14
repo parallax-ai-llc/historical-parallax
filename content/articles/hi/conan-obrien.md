@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/conan-o-brien.md`. All YAML frontmatter values, URLs, show titles, and Markdown formatting are preserved as-is, with all body text translated into Hindi.

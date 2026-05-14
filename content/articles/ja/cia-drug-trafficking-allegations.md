@@ -1,1 +1,0 @@
-Japanese translation saved to `content/articles/ja/cia-drug-trafficking-allegations.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are intact, and all body text has been translated into Japanese.

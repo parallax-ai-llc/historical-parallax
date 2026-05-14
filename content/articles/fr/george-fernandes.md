@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/george-fernandes.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

@@ -1,1 +1,0 @@
-Done. The Russian translation has been saved to `content/articles/ru/edward-snowden-revelations.md`. The YAML frontmatter was preserved as-is, and all body text (headings, paragraphs, table cells, list items) was translated into Russian.

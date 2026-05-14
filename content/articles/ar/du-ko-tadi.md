@@ -1,1 +1,0 @@
-Arabic translation created at `content/articles/ar/du-ko-tadi.md`. The YAML frontmatter is preserved exactly, and all body text (headings, paragraphs, table cells, list items) has been translated into Arabic while keeping Markdown formatting and URLs unchanged.

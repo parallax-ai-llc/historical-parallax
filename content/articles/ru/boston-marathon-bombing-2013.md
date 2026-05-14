@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/boston-marathon-bombing-2013.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, paragraphs, table cells, references) has been translated into Russian.

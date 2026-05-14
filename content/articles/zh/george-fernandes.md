@@ -1,1 +1,0 @@
-Created `content/articles/zh/george-fernandes.md` with the Simplified Chinese translation. The YAML frontmatter is preserved exactly as-is, and all body text has been translated.

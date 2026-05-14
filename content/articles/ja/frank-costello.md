@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/frank-costello.md`. The YAML frontmatter, Markdown formatting, URLs, and reference sources are all preserved as-is.

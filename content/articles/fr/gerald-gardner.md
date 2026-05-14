@@ -1,1 +1,0 @@
-Both files contain placeholder text. The actual Gerald Gardner article content doesn't appear to exist yet. Could you paste the Markdown article content you'd like me to translate into French?

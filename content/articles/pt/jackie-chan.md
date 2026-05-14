@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/jackie-chan.md`. All body text (headings, paragraphs, table headers, list items) was translated to Brazilian Portuguese while keeping the YAML frontmatter, Markdown formatting, URLs, and film titles unchanged.

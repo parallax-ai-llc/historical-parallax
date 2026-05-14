@@ -1,1 +1,0 @@
-Created `content/articles/zh/clyde-tombaugh.md` with the Simplified Chinese translation. Frontmatter, URLs, and Markdown formatting are preserved as-is.

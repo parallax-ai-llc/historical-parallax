@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/michael-penttil.md`. YAML frontmatter was kept intact, all body text translated to Brazilian Portuguese, and Markdown formatting/URLs preserved.

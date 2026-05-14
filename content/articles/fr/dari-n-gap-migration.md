@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/dari-n-gap-migration.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is; all body text has been translated.

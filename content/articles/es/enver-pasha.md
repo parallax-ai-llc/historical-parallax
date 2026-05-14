@@ -1,1 +1,0 @@
-Created `content/articles/es/enver-pasha.md` with the Spanish translation. Frontmatter kept intact, all body text translated.

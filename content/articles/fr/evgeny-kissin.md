@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/evgeny-kissin.md`. All YAML frontmatter values, URLs, and Markdown formatting have been preserved unchanged, while the body text has been fully translated into French.

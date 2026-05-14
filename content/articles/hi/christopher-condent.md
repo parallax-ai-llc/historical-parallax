@@ -1,1 +1,0 @@
-The Hindi translation has been created at `content/articles/hi/christopher-condent.md`. The YAML frontmatter, Markdown formatting, URLs, and table structure are all preserved as-is, with all body text translated into Hindi.

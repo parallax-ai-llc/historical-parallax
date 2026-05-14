@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/frank-costello.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

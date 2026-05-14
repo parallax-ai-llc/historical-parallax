@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/etel-adnan.md`. Frontmatter kept intact, all body text translated, and Markdown formatting preserved.

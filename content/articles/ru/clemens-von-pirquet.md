@@ -1,1 +1,0 @@
-Russian translation has been written to `content/articles/ru/clemens-von-pirquet.md`.

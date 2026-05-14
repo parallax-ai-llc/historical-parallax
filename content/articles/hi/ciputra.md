@@ -1,1 +1,0 @@
-The Hindi translation has been saved to `content/articles/hi/ciputra.md`.

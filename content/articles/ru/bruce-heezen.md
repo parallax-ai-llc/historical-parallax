@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/bruce-heezen.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

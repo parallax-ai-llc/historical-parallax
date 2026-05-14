@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/don-berna.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms (like AUC) were preserved as-is.

@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/gian-gastone-de-medici.md`. The YAML frontmatter is preserved exactly as-is, and all body text has been translated into French.

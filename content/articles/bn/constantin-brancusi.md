@@ -1,1 +1,0 @@
-The Bengali translation has been saved to `content/articles/bn/constantin-brancusi.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Bengali.

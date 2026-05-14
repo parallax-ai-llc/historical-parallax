@@ -1,3 +1,0 @@
-The file `content/articles/david-miscavige.md` only contains a placeholder line — `The article has been written to content/articles/david-miscavige.md`. There's no actual article content to translate. It appears the article was never actually generated; only the placeholder text was committed.
-
-Could you provide the actual Markdown content for the David Miscavige article, or would you like me to look at a similar article in the project to understand the format and generate one first?

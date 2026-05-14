@@ -1,1 +1,0 @@
-Translated article written to `content/articles/pt/felix-stray-kids.md`. All body text (headings, paragraphs, table cells) translated to Brazilian Portuguese while keeping YAML frontmatter values, Markdown formatting, and URLs unchanged.

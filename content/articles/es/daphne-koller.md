@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/daphne-koller.md`, following the same style as the existing Spanish articles in the project.

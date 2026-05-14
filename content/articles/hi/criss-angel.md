@@ -1,1 +1,0 @@
-Hindi translation saved to `content/articles/hi/criss-angel.md`. All body text has been translated, YAML frontmatter kept intact, and Markdown formatting/URLs preserved.

@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/elliot-page.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Bengali.

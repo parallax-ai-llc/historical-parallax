@@ -1,1 +1,0 @@
-Created the Arabic translation at `content/articles/ar/fadi-ghandour.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Arabic.

@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/zh/equifax-data-breach.md`. YAML frontmatter, URLs, Markdown formatting, and technical terms (Apache Struts, CVE-2017-5638, SSN, etc.) are preserved as-is.

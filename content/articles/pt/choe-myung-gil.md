@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/choe-myung-gil.md`. All body text (headings, paragraphs, table cells, quotes) was translated to Brazilian Portuguese while keeping the YAML frontmatter, Markdown formatting, URLs, and references unchanged.

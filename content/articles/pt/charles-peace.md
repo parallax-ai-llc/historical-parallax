@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been saved to `content/articles/pt/charles-peace.md`. The YAML frontmatter was kept intact, all Markdown formatting preserved, and all body text translated.

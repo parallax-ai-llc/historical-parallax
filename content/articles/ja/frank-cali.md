@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/frank-cali.md`. The YAML frontmatter, Markdown formatting, URLs, and reference sources are all preserved as-is, with only the body text translated into Japanese.

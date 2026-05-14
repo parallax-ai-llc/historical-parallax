@@ -1,1 +1,0 @@
-Created the Simplified Chinese translation at `content/articles/zh/dennis-sciama.md`. The frontmatter is preserved as-is, and all body text (headings, paragraphs, table headers/cells, references) has been translated following the existing conventions in the `zh/` directory.

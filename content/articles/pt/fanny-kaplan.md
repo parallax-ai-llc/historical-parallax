@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been written to `content/articles/pt/fanny-kaplan.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

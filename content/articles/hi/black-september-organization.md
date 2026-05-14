@@ -1,1 +1,0 @@
-The Hindi translation has been saved to `content/articles/hi/black-september-organization.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (PLO, Fatah) are preserved as-is, with all body text translated into Hindi.

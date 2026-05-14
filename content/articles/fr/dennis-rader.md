@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/dennis-rader.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references are all preserved as-is.

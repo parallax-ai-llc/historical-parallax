@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/zh/david-blackwell.md`.

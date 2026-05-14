@@ -1,1 +1,0 @@
-Japanese translation of the David Sacks article has been written to `content/articles/ja/david-sacks.md`. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting/URLs are unchanged.

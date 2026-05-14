@@ -1,1 +1,0 @@
-Created `content/articles/hi/critias.md` with the Hindi translation. Frontmatter, URLs, and Markdown formatting are preserved unchanged.

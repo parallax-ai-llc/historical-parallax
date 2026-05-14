@@ -1,1 +1,0 @@
-Hindi translation written to `content/articles/hi/eric-lander.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

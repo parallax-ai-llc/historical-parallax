@@ -1,1 +1,0 @@
-Done. The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/iv-n-duque.md`. YAML frontmatter, URLs, and Markdown formatting were preserved as-is.

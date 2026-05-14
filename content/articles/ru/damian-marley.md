@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/damian-marley.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns (album titles, chart names, etc.) are preserved as-is, while all body text has been translated into Russian.

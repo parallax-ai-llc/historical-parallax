@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/elliot-page.md`. The YAML frontmatter is preserved exactly, all body text is translated, and markdown formatting and URLs are kept intact.

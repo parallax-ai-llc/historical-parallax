@@ -1,1 +1,0 @@
-The Japanese translation has been saved to `content/articles/ja/dairo-antonio-suga.md`.

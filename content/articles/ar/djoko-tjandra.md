@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/djoko-tjandra.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

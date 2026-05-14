@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/emma-coronel-aispuro.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as in the original.

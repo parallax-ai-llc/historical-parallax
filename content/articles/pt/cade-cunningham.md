@@ -1,3 +1,0 @@
-The file `cade-cunningham.md` doesn't contain an actual article — it only has a one-line summary describing what the article *would* cover. There's no YAML frontmatter, no headings, no body text to translate.
-
-Could you provide the actual article content (with frontmatter and markdown body), or point me to where the full article exists? Alternatively, I can check if there's a version in another location.

@@ -1,3 +1,0 @@
-The file `content/articles/benson-boone.md` only contains the placeholder text `Article written to content/articles/benson-boone.md` — the actual article content was never written to disk.
-
-Could you paste the full Markdown article content here so I can translate it into Brazilian Portuguese? Alternatively, if there's a script that generates these articles, you may need to re-run it for this entry.

@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/chung-eui-sun.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

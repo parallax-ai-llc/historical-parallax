@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/edward-steichen.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are intact, and all body text has been translated into Russian.

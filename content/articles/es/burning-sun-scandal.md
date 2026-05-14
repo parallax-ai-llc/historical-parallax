@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/burning-sun-scandal.md`. The YAML frontmatter was kept intact, all Markdown formatting preserved, and all body text translated to Spanish.

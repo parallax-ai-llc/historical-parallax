@@ -1,1 +1,0 @@
-Created `content/articles/ja/first-transatlantic-flight.md` with the Japanese translation. The YAML frontmatter is preserved as-is, and all body text (headings, summary, table cells, references label) has been translated into Japanese.

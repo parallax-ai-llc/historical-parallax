@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/discovery-of-americas-by-vikings.md`.

@@ -1,1 +1,0 @@
-Russian translation saved to `content/articles/ru/fraser-stoddart.md`. All YAML frontmatter, URLs, Markdown formatting, and technical terms (ротаксаны, катенаны, π–π-стэкинг) are preserved as required.

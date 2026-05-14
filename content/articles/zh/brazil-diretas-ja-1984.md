@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/zh/brazil-diretas-ja-1984.md`. The YAML frontmatter, URLs, Markdown formatting, and all references are preserved exactly as the original, with all body text translated into Simplified Chinese.

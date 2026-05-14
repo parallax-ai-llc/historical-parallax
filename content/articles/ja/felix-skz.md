@@ -1,1 +1,0 @@
-Translated article written to `content/articles/ja/felix-stray-kids.md`. All body text (headings, paragraphs, table headers) is translated to Japanese while the YAML frontmatter values, Markdown formatting, and URLs are preserved unchanged.

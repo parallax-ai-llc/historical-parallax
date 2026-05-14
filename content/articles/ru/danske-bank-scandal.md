@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/danske-bank-scandal.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

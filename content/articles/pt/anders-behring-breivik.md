@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/anders-behring-breivik.md`. YAML frontmatter was kept unchanged, all body text translated to Brazilian Portuguese, and Markdown formatting preserved.

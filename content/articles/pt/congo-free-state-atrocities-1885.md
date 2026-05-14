@@ -1,1 +1,0 @@
-Done. The article has been translated to Brazilian Portuguese at `content/articles/pt/congo-free-state-atrocities.md`. The YAML frontmatter was preserved exactly as provided, and all body text (headings, paragraphs, list items) was translated while keeping Markdown formatting and URLs intact.

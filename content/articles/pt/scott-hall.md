@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/pt/scott-hall.md`. All body text is translated to Brazilian Portuguese, YAML frontmatter values are preserved as-is, and Markdown formatting and URLs remain unchanged.

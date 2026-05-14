@@ -1,1 +1,0 @@
-The Simplified Chinese translation has been created at `content/articles/zh/gege-akutami.md`. The YAML frontmatter, URLs, Markdown formatting, and all structural elements are preserved exactly as in the original.

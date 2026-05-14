@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/chung-myung-whun.md` with frontmatter preserved as-is and all body text translated.

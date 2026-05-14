@@ -1,3 +1,0 @@
-The English source file appears to be empty (0 lines) — it only contains the text "Article written to `content/articles/david-guetta.md`." which is a placeholder, not an actual article.
-
-There's no actual article content to translate. The file `content/articles/david-guetta.md` is either empty or contains only a placeholder message. Could you provide the actual article content, or did you mean to translate one of the existing translations (French, Spanish, Portuguese) into Chinese instead?

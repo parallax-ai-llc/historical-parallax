@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/choe-seok-jeong.md`. The YAML frontmatter is preserved exactly, all body text is translated to Arabic, and Markdown formatting/URLs are unchanged.

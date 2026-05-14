@@ -1,1 +1,0 @@
-The translated Spanish article has been saved to `content/articles/es/dilgo-khyentse-rinpoche.md`.

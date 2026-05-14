@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/first-photograph.md`. The YAML frontmatter and URLs are preserved as-is, and all body text (headings, table cells, paragraphs) has been translated into French.

@@ -1,1 +1,0 @@
-Done. The translated article has been written to `content/articles/zh/francisca-nneka-okeke.md`. The YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting and URLs are unchanged.

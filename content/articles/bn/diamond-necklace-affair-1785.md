@@ -1,1 +1,0 @@
-The article has been translated into Bengali and saved to `content/articles/bn/diamond-necklace-affair-1785.md`. All YAML frontmatter values, URLs, Markdown formatting, and book titles were preserved as-is, while all body text (headings, paragraphs, list items, and numbered steps) was translated into Bengali.

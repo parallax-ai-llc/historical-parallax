@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/cate-blanchett.md`. All body text (headings, paragraphs, table cells, quotes) was translated to Brazilian Portuguese while keeping the YAML frontmatter, Markdown formatting, URLs, and references unchanged.

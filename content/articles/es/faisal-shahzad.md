@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/faisal-shahzad.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (like VBIED) are preserved as-is.

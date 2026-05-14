@@ -1,1 +1,0 @@
-There's only the one file and it contains just the placeholder sentence — no actual article content to translate. Could you provide the real Gilgamesh article content, or point me to where it lives?

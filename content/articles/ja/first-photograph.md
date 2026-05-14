@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/first-photograph.md`. Frontmatter kept as-is, all body text translated, formatting and URLs preserved.

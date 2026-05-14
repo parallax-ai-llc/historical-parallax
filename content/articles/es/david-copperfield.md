@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/david-copperfield.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting and URLs were kept unchanged, and all body text was translated into Spanish.

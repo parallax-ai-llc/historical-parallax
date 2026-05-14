@@ -1,1 +1,0 @@
-Created `content/articles/ja/founding-of-rome.md` with the Japanese translation. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

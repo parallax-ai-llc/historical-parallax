@@ -1,1 +1,0 @@
-Created `content/articles/ja/first-battle-of-panipat.md` with the Japanese translation. Frontmatter kept as-is, all body text translated, Markdown formatting and URLs preserved.

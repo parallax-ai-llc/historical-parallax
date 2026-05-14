@@ -1,1 +1,0 @@
-Created `content/articles/hi/esteban-ocon.md` with the full Hindi translation. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

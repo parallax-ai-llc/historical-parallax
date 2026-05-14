@@ -1,1 +1,0 @@
-Japanese translation written to `content/articles/ja/fran-ois-l-olonnais.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

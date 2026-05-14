@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/clemens-von-pirquet.md`. All body text (headings, paragraphs, table headers/cells) is translated to Bengali, while the YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

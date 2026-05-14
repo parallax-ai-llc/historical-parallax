@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/don-lemon.md`. All body text was translated to Brazilian Portuguese while keeping the YAML frontmatter values, Markdown formatting, and URLs unchanged.

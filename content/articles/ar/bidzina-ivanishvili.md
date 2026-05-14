@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/bidzina-ivanishvili.md` with all YAML frontmatter preserved as-is and all body text translated.

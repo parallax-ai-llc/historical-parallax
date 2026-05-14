@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/fall-of-berlin-wall-1989.md`. The YAML frontmatter is preserved exactly as-is, all body text (headings, paragraphs, table cells, list items, blockquotes) has been translated, and Markdown formatting and URLs remain unchanged.

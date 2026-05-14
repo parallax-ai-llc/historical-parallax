@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/dolly-parton.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

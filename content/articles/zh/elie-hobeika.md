@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/zh/elie-hobeika.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references are all preserved as-is, with all body text translated into Simplified Chinese.

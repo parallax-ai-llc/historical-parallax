@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/dustin-moskovitz.md`. Frontmatter, URLs, Markdown formatting, and proper nouns (organization names like Open Philanthropy, Good Ventures) are preserved as-is.

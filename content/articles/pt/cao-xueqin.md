@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/cao-xueqin.md`. All body text was translated to Brazilian Portuguese while keeping the YAML frontmatter values, Markdown formatting, URLs, and references unchanged.

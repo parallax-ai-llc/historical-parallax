@@ -1,1 +1,0 @@
-Created the Simplified Chinese translation at `content/articles/zh/clara-barton.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

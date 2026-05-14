@@ -1,1 +1,0 @@
-Created the Brazilian Portuguese translation at `content/articles/pt/eug-ne-freyssinet.md`. The YAML frontmatter was preserved exactly, and all body text (summary, timeline headers, table cells, section headings) was translated into Portuguese.

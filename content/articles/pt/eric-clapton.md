@@ -1,1 +1,0 @@
-Created `content/articles/pt/eric-clapton.md` with the full Brazilian Portuguese translation. Frontmatter values, URLs, Markdown formatting, and album/song titles were preserved as-is.

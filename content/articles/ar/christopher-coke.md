@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/christopher-coke.md`. All YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with only the body text translated.

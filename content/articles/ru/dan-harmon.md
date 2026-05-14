@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/dan-harmon.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is; all body text has been translated into Russian.

@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been written to `content/articles/zh/david-sacks.md`. All body text is translated while YAML frontmatter values, URLs, Markdown formatting, and technical terms (B2B SaaS, ESG, DEI, etc.) are preserved as-is.

@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/chung-yoo-ra.md`. Frontmatter kept as-is, all body text translated, formatting and URLs preserved.

@@ -1,1 +1,0 @@
-Arabic translation created at `content/articles/ar/exxon-valdez-oil-spill.md`. YAML frontmatter kept intact, all body text translated, Markdown formatting and URLs preserved.

@@ -1,1 +1,0 @@
-Translation saved to `content/articles/pt/maurice-of-nassau.md`. The YAML frontmatter was kept exactly as-is, all body text (headings, paragraphs, table cells, blockquotes, bold text, notes) was translated to Brazilian Portuguese, and all Markdown formatting, URLs, and references were preserved unchanged.

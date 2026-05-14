@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/brice-marden.md`. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting is maintained.

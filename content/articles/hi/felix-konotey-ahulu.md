@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/felix-konotey-ahulu.md`. Frontmatter, URLs, Markdown formatting, and the book title are preserved as-is.

@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/fall-of-the-qing-dynasty.md`. Frontmatter kept as-is, all body text translated, and formatting/URLs preserved.

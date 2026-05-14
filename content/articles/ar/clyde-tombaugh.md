@@ -1,1 +1,0 @@
-Done. The Arabic translation has been written to `content/articles/ar/clyde-tombaugh.md` with the YAML frontmatter preserved as-is.

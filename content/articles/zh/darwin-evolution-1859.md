@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/zh/darwin-evolution-1859.md`. All body text is translated to Simplified Chinese while the YAML frontmatter values, Markdown formatting, and URLs remain unchanged.

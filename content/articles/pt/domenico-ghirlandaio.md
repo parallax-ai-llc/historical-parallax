@@ -1,1 +1,0 @@
-Translated article created at `content/articles/pt/domenico-ghirlandaio.md`.

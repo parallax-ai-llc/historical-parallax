@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/f-lice-orsini.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved unchanged.

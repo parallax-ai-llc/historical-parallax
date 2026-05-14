@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/eugene-cernan.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into Spanish.

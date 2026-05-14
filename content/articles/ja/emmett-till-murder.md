@@ -1,1 +1,0 @@
-Japanese translation saved to `content/articles/ja/emmett-till-murder.md`.

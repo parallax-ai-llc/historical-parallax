@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been written to `content/articles/pt/augustine-of-hippo.md`. The YAML frontmatter, all URLs, footnote references, and Markdown formatting were preserved exactly as-is, while all body text (headings, paragraphs, table cells, quotes) was translated.

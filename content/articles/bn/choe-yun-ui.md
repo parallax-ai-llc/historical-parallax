@@ -1,1 +1,0 @@
-Bengali translation written to `content/articles/bn/choe-yun-ui.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved as-is, with all body text translated into Bengali.

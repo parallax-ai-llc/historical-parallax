@@ -1,1 +1,0 @@
-Russian translation written to `content/articles/ru/elizabeth-bathory.md`. The YAML frontmatter, Markdown formatting, URLs, and references are preserved as-is.

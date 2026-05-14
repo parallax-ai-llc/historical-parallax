@@ -1,1 +1,0 @@
-The Arabic translation has been saved to `content/articles/ar/dafne-schippers.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

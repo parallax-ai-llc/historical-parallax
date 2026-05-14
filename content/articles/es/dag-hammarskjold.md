@@ -1,3 +1,0 @@
-Both the English and Portuguese versions are just placeholder stubs containing the text `Article written to content/articles/dag-hammarskjold.md` — there's no actual article content to translate.
-
-Could you provide the actual Dag Hammarskjöld article text, or point me to where the full content lives? Alternatively, if you'd like me to check another location or generate the article first, let me know.

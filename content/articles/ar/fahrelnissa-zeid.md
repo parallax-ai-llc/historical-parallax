@@ -1,1 +1,0 @@
-Created the Arabic translation at `content/articles/ar/fahrelnissa-zeid.md`. The YAML frontmatter is preserved unchanged, all body text is translated to Arabic, and Markdown formatting/URLs are kept intact.

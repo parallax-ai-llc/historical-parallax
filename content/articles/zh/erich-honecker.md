@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/zh/erich-honecker.md`. YAML frontmatter is preserved as-is, all body text is translated to Simplified Chinese, and Markdown formatting/URLs are unchanged.

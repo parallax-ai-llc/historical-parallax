@@ -1,1 +1,0 @@
-Created `content/articles/es/gampopa-sonam-rinchen.md` with the Spanish translation. Frontmatter, formatting, and URLs are preserved; all body text has been translated.

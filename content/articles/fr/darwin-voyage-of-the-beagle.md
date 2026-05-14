@@ -1,1 +1,0 @@
-French translation saved to `content/articles/fr/darwin-voyage-of-the-beagle.md`.

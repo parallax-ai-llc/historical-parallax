@@ -1,1 +1,0 @@
-Created `content/articles/bn/elgin-marbles.md` with the full Bengali translation. All YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as-is.

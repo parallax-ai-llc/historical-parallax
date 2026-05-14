@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/george-r-r-martin.md`. The YAML frontmatter, URLs, Markdown formatting, and proper nouns are preserved. Body text including headings, paragraphs, list items, and table headers have been translated into French.

@@ -1,1 +1,0 @@
-Created `content/articles/es/enrico-caruso.md` with the full Spanish translation. Frontmatter values, URLs, Markdown formatting, and opera titles are preserved as-is.

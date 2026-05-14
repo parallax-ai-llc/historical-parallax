@@ -1,1 +1,0 @@
-The French translation has been written to `content/articles/fr/felix-browder.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is maintained, and all body text has been translated into French.

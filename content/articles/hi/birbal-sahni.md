@@ -1,1 +1,0 @@
-Hindi translation created at `content/articles/hi/birbal-sahni.md`.

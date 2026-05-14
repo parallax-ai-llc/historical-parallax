@@ -1,1 +1,0 @@
-Done. The article has been translated into Russian at `content/articles/ru/congo-free-state-atrocities.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting is intact, and all body text has been translated.

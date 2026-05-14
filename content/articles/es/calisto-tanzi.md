@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/calisto-tanzi.md`. The YAML frontmatter was preserved exactly as-is, and all body text was translated into Spanish.

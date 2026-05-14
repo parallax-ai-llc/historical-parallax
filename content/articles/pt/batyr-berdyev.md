@@ -1,1 +1,0 @@
-The translated file has been created at `content/articles/pt/batyr-berdyev.md`. The YAML frontmatter was kept unchanged, all body text was translated to Brazilian Portuguese, and Markdown formatting and URLs were preserved.

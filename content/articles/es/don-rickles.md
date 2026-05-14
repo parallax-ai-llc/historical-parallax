@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/don-rickles.md`. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting and URLs remain unchanged.

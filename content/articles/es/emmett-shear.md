@@ -1,1 +1,0 @@
-Created `content/articles/es/emmett-shear.md` with the Spanish translation.

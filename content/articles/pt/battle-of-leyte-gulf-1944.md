@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/battle-of-leyte-gulf-1944.md`. The YAML frontmatter was preserved as-is, and all body text was translated into Brazilian Portuguese.

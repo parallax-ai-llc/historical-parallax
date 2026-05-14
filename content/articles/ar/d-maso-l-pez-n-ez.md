@@ -1,1 +1,0 @@
-Arabic translation created at `content/articles/ar/d-maso-l-pez-n-ez.md`.

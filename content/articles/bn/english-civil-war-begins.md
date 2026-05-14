@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/english-civil-war-begins.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is, with all body text translated into Bengali.

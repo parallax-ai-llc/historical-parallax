@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/fahd-jamil.md` with all YAML frontmatter preserved as-is and body text translated to Brazilian Portuguese.

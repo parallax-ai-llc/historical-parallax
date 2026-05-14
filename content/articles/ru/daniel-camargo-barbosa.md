@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/daniel-camargo-barbosa.md`.

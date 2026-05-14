@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/giulia-tofana.md`. The YAML frontmatter, URLs, Markdown formatting, and the term "Aqua Tofana" were all preserved as-is, while all body text was translated into Brazilian Portuguese.

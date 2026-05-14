@@ -1,1 +1,0 @@
-The file doesn't contain the actual article — it only has a summary/description line. There's no actual Markdown content to translate. Could you paste the full Markdown article text here so I can translate it?

@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/cara-delevingne.md`. Frontmatter kept as-is, all body text translated, formatting and URLs preserved.

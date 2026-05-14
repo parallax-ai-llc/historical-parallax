@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/db-cooper-hijacking-1971.md`. The YAML frontmatter was preserved as-is, and all body text (headings, paragraphs, table cells, references) was translated into Russian. I also cleaned up the placeholder content in the existing `db-cooper-hijacking.md` by creating this as a separate, properly translated file.

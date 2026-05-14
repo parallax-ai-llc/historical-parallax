@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/david-drugeon.md`. All YAML frontmatter, URLs, and Markdown formatting were preserved as-is, with only the body text translated.

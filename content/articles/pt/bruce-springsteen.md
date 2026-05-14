@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/bruce-springsteen.md`. All body text is in Brazilian Portuguese, YAML frontmatter values are preserved as-is, Markdown formatting and URLs are unchanged.

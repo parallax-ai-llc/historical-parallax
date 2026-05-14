@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/do-kwon-trial.md`. Frontmatter, URLs, Markdown formatting, and technical terms (stablecoin, token, LUNA, UST, Terra) were preserved as-is.

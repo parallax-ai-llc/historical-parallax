@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/dutroux-accomplices.md`. The YAML frontmatter, Markdown formatting, URLs, and footnote references are all preserved as-is.

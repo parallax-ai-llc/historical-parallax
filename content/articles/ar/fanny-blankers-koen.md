@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/fanny-blankers-koen.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is.

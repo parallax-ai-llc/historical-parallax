@@ -1,3 +1,0 @@
-The English source file at `content/articles/clifford-geertz.md` is empty — it only contains the placeholder text "Article written to `content/articles/clifford-geertz.md`." rather than actual article content.
-
-There's no article body to translate. Could you provide the actual Markdown content for the Clifford Geertz article, or would you like me to generate the English article first (using the format of other articles in the repo) and then translate it to Hindi?

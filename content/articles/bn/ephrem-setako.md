@@ -1,1 +1,0 @@
-Bengali translation written to `content/articles/bn/ephrem-setako.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (ICTR) are preserved as-is, with all body text translated into বাংলা.

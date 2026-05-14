@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/amritsar-massacre.md`. The YAML frontmatter was preserved exactly as-is, all Markdown formatting and URLs were kept unchanged, and all body text was translated.

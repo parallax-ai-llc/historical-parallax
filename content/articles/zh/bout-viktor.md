@@ -1,1 +1,0 @@
-The translated file has been written to `content/articles/zh/bout-viktor.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated into Simplified Chinese.

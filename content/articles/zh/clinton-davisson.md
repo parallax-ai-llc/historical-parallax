@@ -1,1 +1,0 @@
-The article has been translated to Simplified Chinese and saved to `content/articles/zh/clinton-davisson.md`.

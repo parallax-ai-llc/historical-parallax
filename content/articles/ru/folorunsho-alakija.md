@@ -1,1 +1,0 @@
-Done. The Russian translation has been saved to `content/articles/ru/folorunsho-alakija.md`.

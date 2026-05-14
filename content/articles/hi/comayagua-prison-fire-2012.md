@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/comayagua-prison-fire-2012.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

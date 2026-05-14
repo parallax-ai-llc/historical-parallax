@@ -1,1 +1,0 @@
-Created the Spanish translation at `content/articles/es/fairuz.md`. The YAML frontmatter is preserved exactly as-is, and all body text (headings, table headers/cells, paragraphs) has been translated into Spanish.

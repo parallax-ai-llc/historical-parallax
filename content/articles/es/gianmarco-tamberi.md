@@ -1,1 +1,0 @@
-Spanish translation saved to `content/articles/es/gianmarco-tamberi.md`. Frontmatter kept intact, all body text translated, formatting and URLs preserved.

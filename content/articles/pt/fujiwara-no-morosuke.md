@@ -1,1 +1,0 @@
-Translation written to `content/articles/pt/fujiwara-no-morosuke.md`. The YAML frontmatter was kept as-is, all body text was translated to Brazilian Portuguese, and all Markdown formatting, URLs, and references were preserved.

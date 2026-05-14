@@ -1,1 +1,0 @@
-The file only contains a placeholder message — the actual article content wasn't written to it. Do you have the article content you'd like me to translate, or should I generate/find the content for Bob Geldof first?

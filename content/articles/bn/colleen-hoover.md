@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/colleen-hoover.md`. The YAML frontmatter, Markdown formatting, URLs, and book titles are preserved as-is, with all body text translated into Bengali.

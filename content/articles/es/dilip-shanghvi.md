@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/dilip-shanghvi.md`. Frontmatter kept as-is, all body text translated.

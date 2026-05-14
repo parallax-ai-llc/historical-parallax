@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/elie-hobeika.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

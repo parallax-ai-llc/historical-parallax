@@ -1,1 +1,0 @@
-The translated Simplified Chinese article has been written to `content/articles/zh/eknath.md`. The YAML frontmatter is preserved as-is, and all body text (headings, table cells, paragraphs) has been translated.

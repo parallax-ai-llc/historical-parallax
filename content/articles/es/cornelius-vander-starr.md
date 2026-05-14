@@ -1,1 +1,0 @@
-Spanish translation created at `content/articles/es/cornelius-vander-starr.md`.

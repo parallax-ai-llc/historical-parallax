@@ -1,1 +1,0 @@
-Done. The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/shin-dong-bin.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms were preserved as-is.

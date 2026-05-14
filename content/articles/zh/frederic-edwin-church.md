@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/zh/frederic-edwin-church.md`. All body text is translated to Simplified Chinese while the YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

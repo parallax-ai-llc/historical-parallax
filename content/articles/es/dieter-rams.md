@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/dieter-rams.md`. Frontmatter kept as-is, section headings translated to match existing conventions ("Resumen", "Cronología de carrera", "Año", "Evento", "Referencias").

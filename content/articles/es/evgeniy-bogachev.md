@@ -1,1 +1,0 @@
-The Spanish translation has been created at `content/articles/es/evgeniy-bogachev.md`. The YAML frontmatter, Markdown formatting, and URLs were preserved as-is, with all body text translated into Spanish.

@@ -1,1 +1,0 @@
-Done. The Russian translation has been written to `content/articles/ru/flora-yukhnovich.md` with YAML frontmatter preserved unchanged.

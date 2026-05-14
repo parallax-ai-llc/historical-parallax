@@ -1,1 +1,0 @@
-Created the Bengali translation at `content/articles/bn/christiaan-barnard.md`.

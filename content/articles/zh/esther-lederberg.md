@@ -1,1 +1,0 @@
-Created `content/articles/zh/esther-lederberg.md` with the Simplified Chinese translation. The YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

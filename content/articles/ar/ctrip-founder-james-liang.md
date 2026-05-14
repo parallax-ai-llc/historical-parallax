@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/ctrip-founder-james-liang.md`. The YAML frontmatter is preserved exactly as-is, all Markdown formatting and URLs are unchanged, and the body text (headings, paragraphs, table cells) has been translated into Arabic.

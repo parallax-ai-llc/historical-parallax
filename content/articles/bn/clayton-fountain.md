@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/clayton-fountain.md`. All YAML frontmatter, URLs, Markdown formatting, and reference links are preserved as-is, with only the body text translated into Bengali.

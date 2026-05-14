@@ -1,1 +1,0 @@
-The translated article has been saved to `content/articles/pt/jesse-james.md`. The YAML frontmatter was preserved as-is, and all body text was translated into Brazilian Portuguese.

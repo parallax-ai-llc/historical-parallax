@@ -1,1 +1,0 @@
-The Japanese translation has been written to `content/articles/ja/dyatlov-pass-incident-1959.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references are all preserved as-is.

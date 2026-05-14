@@ -1,1 +1,0 @@
-Created `content/articles/ar/fall-of-france-1940.md` with the Arabic translation. The YAML frontmatter is preserved as-is, all body text is translated, and Markdown formatting and URLs are unchanged.

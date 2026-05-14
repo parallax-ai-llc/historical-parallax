@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/creation-of-the-united-nations.md`.

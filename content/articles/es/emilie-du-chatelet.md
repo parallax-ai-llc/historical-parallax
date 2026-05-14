@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/emilie-du-chatelet.md`. The YAML frontmatter is preserved exactly, and all body text (headings, table cells, paragraphs) has been translated into Spanish.

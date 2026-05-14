@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/georges-bizet.md`. All body text (headings, paragraphs, table headers) is in Brazilian Portuguese, while the YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

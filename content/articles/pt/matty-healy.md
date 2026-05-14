@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/matty-healy.md`. The YAML frontmatter, URLs, album titles, proper nouns, and Markdown formatting were all preserved as-is, with all body text translated into Brazilian Portuguese.

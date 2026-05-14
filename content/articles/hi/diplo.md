@@ -1,3 +1,0 @@
-The `content/articles/diplo.md` file doesn't contain an actual article — it only has the placeholder text `Article written to content/articles/diplo.md`. This appears to be a script output message that was accidentally written as the file content instead of the actual article.
-
-Could you provide the actual Diplo article content, or point me to where the real article was generated? I'd be happy to translate it into Hindi once we have the source material.

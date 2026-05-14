@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/dennis-rader.md`. All body text is translated to Brazilian Portuguese while the YAML frontmatter values, URLs, Markdown formatting, and references remain unchanged.

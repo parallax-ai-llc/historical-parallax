@@ -1,1 +1,0 @@
-Created the Simplified Chinese translation at `content/articles/zh/cyril-of-alexandria.md`.

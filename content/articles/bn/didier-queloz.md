@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/didier-queloz.md`. All YAML frontmatter, URLs, and Markdown formatting have been preserved as-is, with only the body text translated into বাংলা.

@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/enrique-olvera.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms are preserved as-is, with all body text translated into Arabic.

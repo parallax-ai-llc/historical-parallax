@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/emperor-hirohito.md`. All YAML frontmatter values, URLs, and markdown formatting are preserved as-is, with all body text translated into Russian.

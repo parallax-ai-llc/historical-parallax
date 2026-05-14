@@ -1,1 +1,0 @@
-Created the Arabic translation at `content/articles/ar/daido-moriyama.md`. The YAML frontmatter, URLs, Markdown formatting, and book titles are preserved as-is, with all body text translated into Arabic.

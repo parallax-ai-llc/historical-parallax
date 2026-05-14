@@ -1,1 +1,0 @@
-Created the Russian translation at `content/articles/ru/daniel-humm.md`. All body text is translated, YAML frontmatter values are preserved as-is, and Markdown formatting and URLs are unchanged.

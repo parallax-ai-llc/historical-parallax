@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/ciputra.md`. All YAML frontmatter values, Markdown formatting, and URLs are preserved as-is.

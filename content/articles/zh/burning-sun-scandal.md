@@ -1,1 +1,0 @@
-Translated file written to `content/articles/zh/burning-sun-scandal.md`. YAML frontmatter, URLs, and Markdown formatting are preserved as-is.

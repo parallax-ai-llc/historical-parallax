@@ -1,1 +1,0 @@
-Created `content/articles/zh/francois-englert.md` with the Simplified Chinese translation. The YAML frontmatter, Markdown formatting, and URLs are preserved unchanged.

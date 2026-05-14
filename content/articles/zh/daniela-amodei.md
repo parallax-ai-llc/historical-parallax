@@ -1,1 +1,0 @@
-Created the Simplified Chinese translation at `content/articles/zh/daniela-amodei.md`. All body text has been translated while keeping the YAML frontmatter, Markdown formatting, and URLs unchanged.

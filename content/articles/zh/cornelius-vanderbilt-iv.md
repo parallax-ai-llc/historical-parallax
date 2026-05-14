@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/zh/cornelius-vanderbilt-iv.md`.

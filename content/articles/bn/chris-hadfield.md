@@ -1,1 +1,0 @@
-Bengali translation created at `content/articles/bn/chris-hadfield.md`.

@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/eileen-gray.md`. The YAML frontmatter was preserved as-is, and all body text (headings, table cells, paragraphs, references) was translated into Russian.

@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/cho-jang-hee.md`. All frontmatter values, URLs, and Markdown formatting are preserved as-is, with only the body text translated.

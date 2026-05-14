@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/enver-had-ihasanovi.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved exactly as in the original.

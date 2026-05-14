@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/discovery-of-the-americas-by-norse.md`. The YAML frontmatter was preserved unchanged, and all body text (headings, table headers/cells, paragraphs) was translated into Spanish.

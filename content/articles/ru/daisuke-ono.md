@@ -1,1 +1,0 @@
-Russian translation has been written to `content/articles/ru/daisuke-ono.md`. The YAML frontmatter, URLs, Markdown formatting, and all structural elements are preserved as-is, with all body text translated into Russian.

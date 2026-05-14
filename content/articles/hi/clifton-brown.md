@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/clifton-brown.md`. YAML frontmatter is preserved exactly as-is, all body text is translated, and Markdown formatting/URLs are unchanged.

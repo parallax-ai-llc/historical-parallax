@@ -1,1 +1,0 @@
-Japanese translation saved to `content/articles/ja/bruce-heezen.md`.

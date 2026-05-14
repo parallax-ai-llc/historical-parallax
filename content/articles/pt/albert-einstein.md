@@ -1,1 +1,0 @@
-The Brazilian Portuguese translation has been written to `content/articles/pt/albert-einstein.md`. The YAML frontmatter, URLs, Markdown formatting, equations, and references were preserved as-is, while all body text (headings, paragraphs, table cells, list items, quotes) was translated.

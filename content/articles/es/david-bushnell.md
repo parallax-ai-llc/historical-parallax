@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/david-bushnell.md`. Frontmatter kept intact, all body text translated.

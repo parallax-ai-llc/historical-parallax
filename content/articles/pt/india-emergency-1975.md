@@ -1,1 +1,0 @@
-The article has been translated to Brazilian Portuguese and saved to `content/articles/pt/india-emergency-1975.md`. The YAML frontmatter, URLs, Markdown formatting, and references were all preserved unchanged, while all body text (headings, paragraphs, table cells, list items) was translated.

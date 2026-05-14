@@ -1,1 +1,0 @@
-Created `content/articles/ru/brian-josephson.md` with the Russian translation. Frontmatter is preserved as-is, all body text is translated, and Markdown formatting is unchanged.

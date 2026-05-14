@@ -1,1 +1,0 @@
-Arabic translation written to `content/articles/ar/cyber-scam-compounds.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved as-is.

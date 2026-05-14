@@ -1,1 +1,0 @@
-Russian translation created at `content/articles/ru/cuban-missile-crisis.md`. Note that "Cuban Missile Crisis" is known as «Карибский кризис» (Caribbean Crisis) in Russian, which is the standard Russian name for this event.

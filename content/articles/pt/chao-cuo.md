@@ -1,1 +1,0 @@
-Translated article saved to `content/articles/pt/chao-cuo.md`. All body text (headings, paragraphs, table cells, quotes) is in Brazilian Portuguese, while the YAML frontmatter, URLs, Markdown formatting, Chinese terms, and references remain unchanged.

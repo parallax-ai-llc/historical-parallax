@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/fusako-shigenobu.md`. The YAML frontmatter was kept intact, all Markdown formatting preserved, and all body text translated into Russian.

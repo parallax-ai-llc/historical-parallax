@@ -1,1 +1,0 @@
-Created the Japanese translation at `content/articles/ja/fran-ois-jacob.md`. The YAML frontmatter is preserved as-is, and all body text (summary, career timeline, references heading) has been translated into Japanese.

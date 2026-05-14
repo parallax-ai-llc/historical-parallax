@@ -1,1 +1,0 @@
-French translation saved to `content/articles/fr/gentil-duarte.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is; all body text (headings, paragraphs, table cells, and the supplementary notes section) has been translated into French.

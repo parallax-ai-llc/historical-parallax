@@ -1,1 +1,0 @@
-Created `content/articles/es/gampopa.md` with the Spanish translation. The YAML frontmatter is preserved exactly, all body text is translated, and Markdown formatting and URLs remain unchanged.

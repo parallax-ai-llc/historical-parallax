@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/gregor-macgregor.md`. The YAML frontmatter was preserved exactly as-is, and all body text was translated into Brazilian Portuguese.

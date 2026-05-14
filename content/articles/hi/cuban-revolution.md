@@ -1,1 +1,0 @@
-Hindi translation written to `content/articles/hi/cuban-revolution.md`. Frontmatter, URLs, and Markdown formatting preserved as-is.

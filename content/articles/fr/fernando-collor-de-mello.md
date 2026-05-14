@@ -1,1 +1,0 @@
-French translation written to `content/articles/fr/fernando-collor-de-mello.md`.

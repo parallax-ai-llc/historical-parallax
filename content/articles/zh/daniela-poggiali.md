@@ -1,1 +1,0 @@
-The article has been translated to Simplified Chinese and saved to `content/articles/zh/daniela-poggiali.md`. The YAML frontmatter, Markdown formatting, and URLs are all preserved as-is.

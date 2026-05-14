@@ -1,1 +1,0 @@
-Spanish translation written to `content/articles/es/erykah-badu.md`.

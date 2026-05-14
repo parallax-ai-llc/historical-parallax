@@ -1,1 +1,0 @@
-The Spanish translation has been saved to `content/articles/es/denis-pushilin.md`.

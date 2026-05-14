@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/es/end-of-apartheid-elections.md`. Frontmatter, formatting, and URLs were preserved as-is.

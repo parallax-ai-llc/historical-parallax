@@ -1,1 +1,0 @@
-Bengali translation written to `content/articles/bn/bernardo-provenzano.md`.

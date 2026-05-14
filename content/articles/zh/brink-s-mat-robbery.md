@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/zh/brink-s-mat-robbery.md`. All YAML frontmatter, URLs, and Markdown formatting are preserved as-is, with all body text translated into Simplified Chinese.

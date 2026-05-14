@@ -1,1 +1,0 @@
-Japanese translation created at `content/articles/ja/frankie-knuckles.md`. All body text is translated, YAML frontmatter and URLs are preserved as-is.

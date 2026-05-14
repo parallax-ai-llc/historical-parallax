@@ -1,1 +1,0 @@
-Translation saved to `content/articles/zh/eric-rudolph.md`. The YAML frontmatter is preserved as-is, all Markdown formatting and URLs are unchanged, and all body text has been translated into Simplified Chinese.

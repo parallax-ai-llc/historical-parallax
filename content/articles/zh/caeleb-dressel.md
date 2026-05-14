@@ -1,1 +1,0 @@
-Translated article written to `content/articles/zh/caeleb-dressel.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as-is, with all body text translated to Simplified Chinese.

@@ -1,1 +1,0 @@
-The Hindi translation has been written to `content/articles/hi/eugene-cernan.md`. The YAML frontmatter, Markdown formatting, URLs, and technical terms are preserved as required.

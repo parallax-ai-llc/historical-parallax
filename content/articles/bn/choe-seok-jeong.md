@@ -1,1 +1,0 @@
-The Bengali translation has been written to `content/articles/bn/choe-seok-jeong.md`. The YAML frontmatter is preserved as-is, all body text is translated to Bengali, and Markdown formatting and URLs are kept unchanged.

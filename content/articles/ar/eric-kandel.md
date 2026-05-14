@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/eric-kandel.md`. The YAML frontmatter, URLs, Markdown formatting, and technical terms (like **Aplysia**) are preserved as-is, with all body text translated into Arabic.

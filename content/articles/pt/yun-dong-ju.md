@@ -1,1 +1,0 @@
-Done. The translated article has been saved to `content/articles/pt/yun-dong-ju.md`. The YAML frontmatter is preserved exactly as-is, all body text is translated to Brazilian Portuguese, and all Markdown formatting, URLs, and references are unchanged.

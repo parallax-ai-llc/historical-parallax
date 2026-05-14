@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/cia-drug-trafficking-allegations.md`. Frontmatter, URLs, and Markdown formatting are preserved as-is; all body text has been translated.

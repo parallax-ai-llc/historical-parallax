@@ -1,1 +1,0 @@
-The Arabic translation has been written to `content/articles/ar/don-lemon.md`. The YAML frontmatter, URLs, Markdown formatting, and program/book titles are preserved as-is, while all body text has been translated into Arabic.

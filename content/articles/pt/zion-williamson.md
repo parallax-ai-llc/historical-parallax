@@ -1,1 +1,0 @@
-The file doesn't contain an actual article — it only has a placeholder description. There's no Markdown content to translate. Could you provide the actual article content, or would you like me to check if the article exists elsewhere?

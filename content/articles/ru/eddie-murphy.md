@@ -1,1 +1,0 @@
-The Russian translation has been created at `content/articles/ru/eddie-murphy.md`. The YAML frontmatter is preserved as-is, all body text (headings, paragraphs, list items, table cells) is translated, and Markdown formatting and URLs are unchanged.

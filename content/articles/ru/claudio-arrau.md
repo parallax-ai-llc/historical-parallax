@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/claudio-arrau.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved exactly as in the original.

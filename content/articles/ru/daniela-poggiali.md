@@ -1,1 +1,0 @@
-The Russian translation has been written to `content/articles/ru/daniela-poggiali.md`. YAML frontmatter is preserved exactly as-is, and all body text has been translated.

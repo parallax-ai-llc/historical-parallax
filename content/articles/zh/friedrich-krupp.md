@@ -1,1 +1,0 @@
-Created `content/articles/zh/friedrich-krupp.md` with the Simplified Chinese translation. YAML frontmatter is preserved unchanged, all body text is translated, and Markdown formatting/URLs are kept intact.

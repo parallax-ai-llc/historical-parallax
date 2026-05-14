@@ -1,1 +1,0 @@
-The Russian translation has been saved to `content/articles/ru/elba-esther-gordillo.md`. All YAML frontmatter values, URLs, and Markdown formatting were preserved as-is.

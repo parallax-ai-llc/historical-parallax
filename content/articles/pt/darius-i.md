@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/darius-i.md`. The YAML frontmatter was kept exactly as-is, all Markdown formatting and URLs were preserved, and all body text (headings, paragraphs, table cells, list items, blockquotes) was translated into Brazilian Portuguese.

@@ -1,1 +1,0 @@
-Done. The Russian translation has been written to `content/articles/ru/frank-wilczek.md`, following the same conventions as existing Russian articles (e.g., "Краткая биография", "Хронология карьеры", "Источники" for section headings, and "Год"/"Событие" for table headers).

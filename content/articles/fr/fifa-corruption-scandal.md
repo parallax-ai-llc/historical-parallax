@@ -1,1 +1,0 @@
-French translation created at `content/articles/fr/fifa-corruption-scandal.md`. The YAML frontmatter, URLs, and Markdown formatting are preserved as-is; all body text has been translated into French.

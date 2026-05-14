@@ -1,1 +1,0 @@
-The Arabic translation has been created at `content/articles/ar/d-sir-munyaneza.md`. All YAML frontmatter values, URLs, and Markdown formatting are preserved as-is.

@@ -1,1 +1,0 @@
-Created `content/articles/es/fulton-j-sheen.md` with the Spanish translation. Frontmatter, URLs, Markdown formatting, and program titles kept intact.

@@ -1,3 +1,0 @@
-The file `content/articles/daniel-everett.md` only contains a placeholder message — there's no actual article content (no YAML frontmatter, headings, or body text). The Portuguese and Chinese versions also contain similar placeholder text rather than real translations.
-
-Could you provide the actual article content for Daniel Everett? Once I have the real Markdown article with frontmatter and body text, I'll translate it into Russian right away.

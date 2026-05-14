@@ -1,1 +1,0 @@
-The Spanish translation has been written to `content/articles/es/desiderius-erasmus.md`. Frontmatter was preserved as-is, and all body text (headings, table cells, summary) was translated into Spanish.

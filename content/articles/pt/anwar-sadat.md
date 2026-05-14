@@ -1,1 +1,0 @@
-The translated article has been written to `content/articles/pt/anwar-sadat.md`. The YAML frontmatter, URLs, Markdown formatting, and footnote references were all preserved exactly as-is, while all body text (headings, paragraphs, table cells, quotes) was translated into Brazilian Portuguese.

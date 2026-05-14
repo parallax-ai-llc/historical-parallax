@@ -1,1 +1,0 @@
-Translated and saved to `content/articles/es/garissa-university-attack.md`. The YAML frontmatter, Markdown formatting, and URLs are preserved exactly as-is, with all body text translated into Spanish.

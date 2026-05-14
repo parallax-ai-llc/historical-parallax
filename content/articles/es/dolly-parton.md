@@ -1,1 +1,0 @@
-Created `content/articles/es/dolly-parton.md` with the Spanish translation. Frontmatter values, URLs, Markdown formatting, and song/film titles are preserved as-is.
