@@ -1,0 +1,102 @@
+[
+  {
+    "id": "albert-einstein",
+    "name": "Albert Einstein (Ulm)",
+    "coordinates": [9.9937, 48.4011]
+  },
+  {
+    "id": "martin-luther",
+    "name": "Martin Luther (Eisleben, Saxony-Anhalt)",
+    "coordinates": [11.5506, 51.5246]
+  },
+  {
+    "id": "johann-sebastian-bach",
+    "name": "Johann Sebastian Bach (Eisenach, Thuringia)",
+    "coordinates": [10.3178, 50.9738]
+  },
+  {
+    "id": "otto-von-bismarck",
+    "name": "Otto von Bismarck (Schönhausen, Saxony-Anhalt)",
+    "coordinates": [12.0944, 52.7436]
+  },
+  {
+    "id": "konrad-adenauer",
+    "name": "Konrad Adenauer (Cologne)",
+    "coordinates": [6.9603, 50.9375]
+  },
+  {
+    "id": "max-planck",
+    "name": "Max Planck (Kiel)",
+    "coordinates": [10.1321, 54.3233]
+  },
+  {
+    "id": "werner-heisenberg",
+    "name": "Werner Heisenberg (Würzburg)",
+    "coordinates": [9.9533, 49.7923]
+  },
+  {
+    "id": "johann-gutenberg",
+    "name": "Johann Gutenberg (Mainz)",
+    "coordinates": [8.2711, 50.0012]
+  },
+  {
+    "id": "immanuel-kant",
+    "name": "Immanuel Kant (Königsberg, now Kaliningrad)",
+    "coordinates": [20.5104, 54.7104]
+  },
+  {
+    "id": "richard-wagner",
+    "name": "Richard Wagner (Leipzig)",
+    "coordinates": [12.3731, 51.3405]
+  },
+  {
+    "id": "johann-wolfgang-von-goethe",
+    "name": "Johann Wolfgang von Goethe (Frankfurt)",
+    "coordinates": [8.6821, 50.1109]
+  },
+  {
+    "id": "friedrich-schiller",
+    "name": "Friedrich Schiller (Marbach am Neckar)",
+    "coordinates": [9.2798, 48.9382]
+  },
+  {
+    "id": "karl-marx",
+    "name": "Karl Marx (Trier)",
+    "coordinates": [6.6323, 49.7499]
+  },
+  {
+    "id": "friedrich-nietzsche",
+    "name": "Friedrich Nietzsche (Röcken bei Lützen)",
+    "coordinates": [12.2068, 51.2483]
+  },
+  {
+    "id": "ludwig-van-beethoven",
+    "name": "Ludwig van Beethoven (Bonn)",
+    "coordinates": [7.0982, 50.7374]
+  },
+  {
+    "id": "johannes-brahms",
+    "name": "Johannes Brahms (Hamburg)",
+    "coordinates": [9.9937, 53.5511]
+  },
+  {
+    "id": "richard-strauss",
+    "name": "Richard Strauss (Munich)",
+    "coordinates": [11.5820, 48.1351]
+  },
+  {
+    "id": "alfred-nobel",
+    "name": "Alfred Nobel (Stockholm, Sweden)",
+    "coordinates": [18.0686, 59.3293]
+  },
+  {
+    "id": "felix-mendelssohn",
+    "name": "Felix Mendelssohn (Hamburg)",
+    "coordinates": [9.9937, 53.5511]
+  },
+  {
+    "id": "heinrich-heine",
+    "name": "Heinrich Heine (Düsseldorf)",
+    "coordinates": [6.7735, 51.2277]
+  }
+]

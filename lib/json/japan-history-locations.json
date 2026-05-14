@@ -1,0 +1,102 @@
+[
+  {
+    "id": "miyamoto-musashi",
+    "name": "Miyamoto Musashi (Hyogo Prefecture)",
+    "coordinates": [134.2461, 34.6901]
+  },
+  {
+    "id": "oda-nobunaga",
+    "name": "Oda Nobunaga (Aichi Prefecture)",
+    "coordinates": [136.9066, 35.1802]
+  },
+  {
+    "id": "toyotomi-hideyoshi",
+    "name": "Toyotomi Hideyoshi (Aichi Prefecture)",
+    "coordinates": [136.9066, 35.1802]
+  },
+  {
+    "id": "tokugawa-ieyasu",
+    "name": "Tokugawa Ieyasu (Aichi Prefecture)",
+    "coordinates": [137.0639, 34.9769]
+  },
+  {
+    "id": "sakamoto-ryoma",
+    "name": "Sakamoto Ryōma (Kochi Prefecture)",
+    "coordinates": [133.5311, 33.5597]
+  },
+  {
+    "id": "itō-hirobumi",
+    "name": "Itō Hirobumi (Yamaguchi Prefecture)",
+    "coordinates": [131.4704, 34.1862]
+  },
+  {
+    "id": "fukuzawa-yukichi",
+    "name": "Fukuzawa Yukichi (Osaka)",
+    "coordinates": [135.5023, 34.6937]
+  },
+  {
+    "id": "murasaki-shikibu",
+    "name": "Murasaki Shikibu (Kyoto)",
+    "coordinates": [135.7681, 35.0116]
+  },
+  {
+    "id": "matsuo-bashō",
+    "name": "Matsuo Bashō (Mie Prefecture)",
+    "coordinates": [136.5066, 34.7303]
+  },
+  {
+    "id": "akira-kurosawa",
+    "name": "Akira Kurosawa (Tokyo)",
+    "coordinates": [139.6917, 35.6895]
+  },
+  {
+    "id": "akio-morita",
+    "name": "Akio Morita (Nagoya)",
+    "coordinates": [136.9066, 35.1802]
+  },
+  {
+    "id": "osamu-tezuka",
+    "name": "Osamu Tezuka (Osaka Prefecture)",
+    "coordinates": [135.5023, 34.6937]
+  },
+  {
+    "id": "hayao-miyazaki",
+    "name": "Hayao Miyazaki (Tokyo)",
+    "coordinates": [139.6917, 35.6895]
+  },
+  {
+    "id": "hideki-yukawa",
+    "name": "Hideki Yukawa (Tokyo)",
+    "coordinates": [139.6917, 35.6895]
+  },
+  {
+    "id": "akira-yoshino",
+    "name": "Akira Yoshino (Osaka)",
+    "coordinates": [135.5023, 34.6937]
+  },
+  {
+    "id": "shinya-yamanaka",
+    "name": "Shinya Yamanaka (Osaka)",
+    "coordinates": [135.5023, 34.6937]
+  },
+  {
+    "id": "masatoshi-koshiba",
+    "name": "Masatoshi Koshiba (Aichi Prefecture)",
+    "coordinates": [136.9066, 35.1802]
+  },
+  {
+    "id": "eisaku-sato",
+    "name": "Eisaku Sato (Yamaguchi Prefecture)",
+    "coordinates": [131.4704, 34.1862]
+  },
+  {
+    "id": "yasunari-kawabata",
+    "name": "Yasunari Kawabata (Osaka)",
+    "coordinates": [135.5023, 34.6937]
+  },
+  {
+    "id": "kenzaburo-oe",
+    "name": "Kenzaburo Oe (Ehime Prefecture)",
+    "coordinates": [132.7654, 33.8417]
+  }
+]

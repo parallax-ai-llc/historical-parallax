@@ -1,0 +1,102 @@
+[
+  {
+    "id": "confucius",
+    "name": "Confucius (Qufu, Shandong)",
+    "coordinates": [117.0068, 35.5956]
+  },
+  {
+    "id": "laozi",
+    "name": "Laozi (Henan Province)",
+    "coordinates": [113.6254, 34.7466]
+  },
+  {
+    "id": "sun-tzu",
+    "name": "Sun Tzu (Shandong Province)",
+    "coordinates": [117.1205, 36.6510]
+  },
+  {
+    "id": "mencius",
+    "name": "Mencius (Shandong Province)",
+    "coordinates": [117.1205, 36.6510]
+  },
+  {
+    "id": "qin-shi-huang",
+    "name": "Emperor Qin Shi Huang (Xi'an)",
+    "coordinates": [108.9402, 34.3416]
+  },
+  {
+    "id": "emperor-wu-of-han",
+    "name": "Emperor Wu of Han (Xi'an)",
+    "coordinates": [108.9402, 34.3416]
+  },
+  {
+    "id": "tang-taizong",
+    "name": "Emperor Tang Taizong (Xi'an)",
+    "coordinates": [108.9402, 34.3416]
+  },
+  {
+    "id": "kublai-khan",
+    "name": "Kublai Khan (Beijing)",
+    "coordinates": [116.4074, 39.9042]
+  },
+  {
+    "id": "zhu-yuanzhang",
+    "name": "Emperor Hongwu (Nanjing)",
+    "coordinates": [118.7969, 32.0603]
+  },
+  {
+    "id": "kangxi-emperor",
+    "name": "Emperor Kangxi (Beijing)",
+    "coordinates": [116.4074, 39.9042]
+  },
+  {
+    "id": "qianlong-emperor",
+    "name": "Emperor Qianlong (Beijing)",
+    "coordinates": [116.4074, 39.9042]
+  },
+  {
+    "id": "sun-yat-sen",
+    "name": "Sun Yat-sen (Guangdong)",
+    "coordinates": [113.2644, 23.1291]
+  },
+  {
+    "id": "mao-zedong",
+    "name": "Mao Zedong (Hunan)",
+    "coordinates": [112.9388, 28.2282]
+  },
+  {
+    "id": "chiang-kai-shek",
+    "name": "Chiang Kai-shek (Zhejiang)",
+    "coordinates": [120.1551, 30.2741]
+  },
+  {
+    "id": "deng-xiaoping",
+    "name": "Deng Xiaoping (Sichuan)",
+    "coordinates": [104.0665, 30.5728]
+  },
+  {
+    "id": "zhuxi",
+    "name": "Zhu Xi (Fujian Province)",
+    "coordinates": [119.2965, 26.0745]
+  },
+  {
+    "id": "libai",
+    "name": "Li Bai (Sichuan Province)",
+    "coordinates": [104.0665, 30.5728]
+  },
+  {
+    "id": "dufu",
+    "name": "Du Fu (Henan Province)",
+    "coordinates": [113.6254, 34.7466]
+  },
+  {
+    "id": "su-shi",
+    "name": "Su Shi (Sichuan Province)",
+    "coordinates": [104.0665, 30.5728]
+  },
+  {
+    "id": "li-shizhen",
+    "name": "Li Shizhen (Hubei Province)",
+    "coordinates": [114.2986, 30.5844]
+  }
+]

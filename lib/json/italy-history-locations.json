@@ -1,0 +1,102 @@
+[
+  {
+    "id": "leonardo-da-vinci",
+    "name": "Leonardo da Vinci (Vinci, Tuscany)",
+    "coordinates": [10.9305, 43.7789]
+  },
+  {
+    "id": "michelangelo",
+    "name": "Michelangelo (Caprese, Tuscany)",
+    "coordinates": [12.5768, 43.6372]
+  },
+  {
+    "id": "galileo-galilei",
+    "name": "Galileo Galilei (Pisa)",
+    "coordinates": [10.4016, 43.7228]
+  },
+  {
+    "id": "niccolo-machiavelli",
+    "name": "Niccolò Machiavelli (Florence)",
+    "coordinates": [11.2558, 43.7696]
+  },
+  {
+    "id": "dante-alighieri",
+    "name": "Dante Alighieri (Florence)",
+    "coordinates": [11.2558, 43.7696]
+  },
+  {
+    "id": "raphael",
+    "name": "Raphael (Urbino, Marche)",
+    "coordinates": [12.6359, 43.7267]
+  },
+  {
+    "id": "christopher-columbus",
+    "name": "Christopher Columbus (Genoa)",
+    "coordinates": [8.9345, 44.4072]
+  },
+  {
+    "id": "marco-polo",
+    "name": "Marco Polo (Venice)",
+    "coordinates": [12.3155, 45.4408]
+  },
+  {
+    "id": "giuseppe-verdi",
+    "name": "Giuseppe Verdi (Le Roncole, Parma)",
+    "coordinates": [10.1295, 44.8014]
+  },
+  {
+    "id": "enrico-fermi",
+    "name": "Enrico Fermi (Rome)",
+    "coordinates": [12.4964, 41.9028]
+  },
+  {
+    "id": "lorenzo-de-medici",
+    "name": "Lorenzo de' Medici (Florence)",
+    "coordinates": [11.2558, 43.7696]
+  },
+  {
+    "id": "augustus",
+    "name": "Emperor Augustus (Rome)",
+    "coordinates": [12.4964, 41.9028]
+  },
+  {
+    "id": "julius-caesar",
+    "name": "Julius Caesar (Rome)",
+    "coordinates": [12.4964, 41.9028]
+  },
+  {
+    "id": "tiberius",
+    "name": "Emperor Tiberius (Rome)",
+    "coordinates": [12.4964, 41.9028]
+  },
+  {
+    "id": "nero",
+    "name": "Emperor Nero (Rome)",
+    "coordinates": [12.4964, 41.9028]
+  },
+  {
+    "id": "trajan",
+    "name": "Emperor Trajan (Seville, Spain)",
+    "coordinates": [-5.9845, 37.3891]
+  },
+  {
+    "id": "hadrian",
+    "name": "Emperor Hadrian (Rome)",
+    "coordinates": [12.4964, 41.9028]
+  },
+  {
+    "id": "marcus-aurelius",
+    "name": "Emperor Marcus Aurelius (Rome)",
+    "coordinates": [12.4964, 41.9028]
+  },
+  {
+    "id": "constantine-the-great",
+    "name": "Emperor Constantine (Niš, Serbia)",
+    "coordinates": [21.8983, 43.3197]
+  },
+  {
+    "id": "michelangelo-antonioni",
+    "name": "Michelangelo Antonioni (Ferrara)",
+    "coordinates": [11.6191, 44.8370]
+  }
+]

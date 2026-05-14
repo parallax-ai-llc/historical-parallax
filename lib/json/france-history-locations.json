@@ -1,0 +1,102 @@
+[
+  {
+    "id": "napoleon-bonaparte",
+    "name": "Napoleon Bonaparte (Ajaccio, Corsica)",
+    "coordinates": [8.7377, 41.9262]
+  },
+  {
+    "id": "joan-of-arc",
+    "name": "Joan of Arc (Domrémy, Lorraine)",
+    "coordinates": [5.6737, 48.4258]
+  },
+  {
+    "id": "louis-xiv",
+    "name": "Louis XIV (Saint-Germain-en-Laye)",
+    "coordinates": [2.0935, 48.8992]
+  },
+  {
+    "id": "charles-de-gaulle",
+    "name": "Charles de Gaulle (Lille)",
+    "coordinates": [3.0573, 50.6292]
+  },
+  {
+    "id": "voltaire",
+    "name": "Voltaire (Paris)",
+    "coordinates": [2.3522, 48.8566]
+  },
+  {
+    "id": "jean-jacques-rousseau",
+    "name": "Jean-Jacques Rousseau (Geneva border)",
+    "coordinates": [6.1432, 46.2044]
+  },
+  {
+    "id": "rene-descartes",
+    "name": "René Descartes (La Haye-en-Touraine)",
+    "coordinates": [0.6986, 46.9799]
+  },
+  {
+    "id": "blaise-pascal",
+    "name": "Blaise Pascal (Clermont-Ferrand)",
+    "coordinates": [3.0883, 45.7772]
+  },
+  {
+    "id": "maximilien-robespierre",
+    "name": "Maximilien Robespierre (Arras)",
+    "coordinates": [2.7775, 50.2910]
+  },
+  {
+    "id": "georges-danton",
+    "name": "Georges Danton (Arcis-sur-Aube)",
+    "coordinates": [4.5928, 48.5489]
+  },
+  {
+    "id": "marie-antoinette",
+    "name": "Marie Antoinette (Vienna, Austria)",
+    "coordinates": [16.3738, 48.2082]
+  },
+  {
+    "id": "louis-xvi",
+    "name": "Louis XVI (Versailles)",
+    "coordinates": [2.1304, 48.8037]
+  },
+  {
+    "id": "alexandre-dumas",
+    "name": "Alexandre Dumas (Villers-Cotterêts)",
+    "coordinates": [3.0564, 49.2475]
+  },
+  {
+    "id": "victor-hugo",
+    "name": "Victor Hugo (Besançon)",
+    "coordinates": [6.0324, 47.2378]
+  },
+  {
+    "id": "gustave-eiffel",
+    "name": "Gustave Eiffel (Dijon)",
+    "coordinates": [5.0415, 47.3220]
+  },
+  {
+    "id": "marie-curie",
+    "name": "Marie Curie (Warsaw, Poland)",
+    "coordinates": [21.0122, 52.2297]
+  },
+  {
+    "id": "louis-pasteur",
+    "name": "Louis Pasteur (Dole, Jura)",
+    "coordinates": [5.4942, 47.0801]
+  },
+  {
+    "id": "claude-monet",
+    "name": "Claude Monet (Paris)",
+    "coordinates": [2.3522, 48.8566]
+  },
+  {
+    "id": "pierre-auguste-renoir",
+    "name": "Pierre-Auguste Renoir (Limoges)",
+    "coordinates": [1.2589, 45.8336]
+  },
+  {
+    "id": "honoré-de-balzac",
+    "name": "Honoré de Balzac (Tours)",
+    "coordinates": [0.6864, 47.3904]
+  }
+]
