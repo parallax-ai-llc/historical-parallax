@@ -1,0 +1,43 @@
+{
+  "common": {
+    "siteName": "Historical Parallax",
+    "siteDescription": "Khám phá các nhân vật và sự kiện lịch sử từ nhiều góc nhìn",
+    "tagline": "Mọi lịch sử đều tạo nên một thị sai",
+    "lastUpdated": "Cập nhật lần cuối"
+  },
+  "header": {
+    "search": "Tìm kiếm...",
+    "searchAriaLabel": "Mở hộp thoại tìm kiếm. Nhấn Ctrl+K để tìm kiếm.",
+    "contribute": "Đóng góp",
+    "edit": "Chỉnh sửa",
+    "maps": "Bản đồ",
+    "homeAriaLabel": "Historical Parallax - Đi đến trang chủ",
+    "editAriaLabel": "Chỉnh sửa bài viết này trên GitHub (mở trong tab mới)",
+    "skipToContent": "Bỏ qua đến nội dung chính"
+  },
+  "home": {
+    "documentsArchived": "{count} tài liệu được lưu trữ",
+    "searchPlaceholder": "Tìm kiếm bài viết...",
+    "recentArticles": "Bài viết gần đây",
+    "historicalFigure": "Nhân vật lịch sử"
+  },
+  "footer": {
+    "poweredBy": "Vận hành bởi",
+    "legal": "Legal Parallax",
+    "terms": "Điều khoản dịch vụ",
+    "privacy": "Chính sách bảo mật",
+    "footerAriaLabel": "Chân trang",
+    "navAriaLabel": "Điều hướng chân trang",
+    "poweredByAriaLabel": "Parallax AI, LLC (mở trong tab mới)"
+  },
+  "search": {
+    "title": "Tìm kiếm bài viết",
+    "description": "Tìm kiếm các bài viết lịch sử theo tên hoặc quốc tịch",
+    "placeholder": "Tìm kiếm bài viết...",
+    "empty": "Không tìm thấy kết quả.",
+    "heading": "Bài viết"
+  },
+  "maps": {
+    "viewMaps": "Xem Bản đồ Sự kiện"
+  }
+}

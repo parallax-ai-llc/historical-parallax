@@ -18,7 +18,15 @@
   "home": {
     "documentsArchived": "{count}개의 문서가 보관됨",
     "searchPlaceholder": "문서 검색...",
-    "recentArticles": "최근 문서"
+    "recentArticles": "최근 문서",
+    "historicalFigure": "역사적 인물"
+  },
+  "search": {
+    "title": "문서 검색",
+    "description": "이름이나 국적으로 역사 문서를 검색하세요",
+    "placeholder": "문서 검색...",
+    "empty": "결과를 찾을 수 없습니다.",
+    "heading": "문서"
   },
   "footer": {
     "poweredBy": "제공:",

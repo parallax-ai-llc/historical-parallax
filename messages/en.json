@@ -18,7 +18,15 @@
   "home": {
     "documentsArchived": "{count} documents archived",
     "searchPlaceholder": "Search articles...",
-    "recentArticles": "Recent Articles"
+    "recentArticles": "Recent Articles",
+    "historicalFigure": "Historical Figure"
+  },
+  "search": {
+    "title": "Search articles",
+    "description": "Search for historical articles by name or nationality",
+    "placeholder": "Search articles...",
+    "empty": "No results found.",
+    "heading": "Articles"
   },
   "footer": {
     "poweredBy": "Powered by",

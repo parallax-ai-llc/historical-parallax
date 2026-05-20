@@ -18,7 +18,15 @@
   "home": {
     "documentsArchived": "{count} وثيقة مؤرشفة",
     "searchPlaceholder": "البحث في المقالات...",
-    "recentArticles": "المقالات الحديثة"
+    "recentArticles": "المقالات الحديثة",
+    "historicalFigure": "شخصية تاريخية"
+  },
+  "search": {
+    "title": "البحث في المقالات",
+    "description": "ابحث عن المقالات التاريخية بالاسم أو الجنسية",
+    "placeholder": "البحث في المقالات...",
+    "empty": "لم يتم العثور على نتائج.",
+    "heading": "المقالات"
   },
   "footer": {
     "poweredBy": "مدعوم من",

@@ -11,6 +11,7 @@ import {
   CommandItem,
   CommandList,
 } from "@/components/ui/command";
+import { useTranslations } from "@/components/i18n-provider";
 
 export interface SearchItem {
   id: string;
@@ -27,6 +28,7 @@ interface SearchDialogProps {
 
 export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
   const router = useRouter();
+  const { t } = useTranslations();
   const [search, setSearch] = React.useState("");
 
   const filteredItems = React.useMemo(() => {
@@ -64,13 +66,17 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
     <CommandDialog
       open={open}
       onOpenChange={onOpenChange}
-      title="Search articles"
-      description="Search for historical articles by name or nationality"
+      title={t("search.title")}
+      description={t("search.description")}
     >
-      <CommandInput placeholder="Search articles..." value={search} onValueChange={setSearch} />
+      <CommandInput
+        placeholder={t("search.placeholder")}
+        value={search}
+        onValueChange={setSearch}
+      />
       <CommandList>
-        <CommandEmpty>No results found.</CommandEmpty>
-        <CommandGroup heading="Articles">
+        <CommandEmpty>{t("search.empty")}</CommandEmpty>
+        <CommandGroup heading={t("search.heading")}>
           {filteredItems.map((item) => (
             <CommandItem
               key={item.id}

@@ -2,6 +2,7 @@ import Script from "next/script";
 import type { Metadata } from "next";
 import { Cormorant_Garamond } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
+import { I18nProvider } from "@/components/i18n-provider";
 import "./globals.css";
 
 const cormorant = Cormorant_Garamond({
@@ -90,12 +91,14 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <a href="#main-content" className="skip-link">
-            Skip to main content
-          </a>
-          <div id="main-content" role="main" tabIndex={-1}>
-            {children}
-          </div>
+          <I18nProvider>
+            <a href="#main-content" className="skip-link">
+              Skip to main content
+            </a>
+            <div id="main-content" role="main" tabIndex={-1}>
+              {children}
+            </div>
+          </I18nProvider>
         </ThemeProvider>
       </body>
     </html>

@@ -18,7 +18,15 @@
   "home": {
     "documentsArchived": "已收录 {count} 份文档",
     "searchPlaceholder": "搜索文章...",
-    "recentArticles": "最新文章"
+    "recentArticles": "最新文章",
+    "historicalFigure": "历史人物"
+  },
+  "search": {
+    "title": "搜索文章",
+    "description": "按姓名或国籍搜索历史文章",
+    "placeholder": "搜索文章...",
+    "empty": "未找到结果。",
+    "heading": "文章"
   },
   "footer": {
     "poweredBy": "技术支持",

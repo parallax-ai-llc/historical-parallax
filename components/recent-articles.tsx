@@ -2,6 +2,7 @@
 
 import * as React from "react";
 import Link from "next/link";
+import { useTranslations } from "@/components/i18n-provider";
 
 export interface RecentArticle {
   id: string;
@@ -53,6 +54,7 @@ function RecentArticlesSkeleton() {
 }
 
 export function RecentArticles({ articles }: RecentArticlesProps) {
+  const { t } = useTranslations();
   const [currentIndex, setCurrentIndex] = React.useState(0);
   const [isAnimating, setIsAnimating] = React.useState(false);
   const [direction, setDirection] = React.useState<"left" | "right">("left");
@@ -244,7 +246,7 @@ export function RecentArticles({ articles }: RecentArticlesProps) {
             </h3>
             <div className="flex items-center gap-2 mt-0.5">
               <p className="text-sm text-muted-foreground">
-                {currentArticle.nationality || "Historical Figure"}
+                {currentArticle.nationality || t("home.historicalFigure")}
               </p>
               {currentArticle.lastUpdated && (
                 <time

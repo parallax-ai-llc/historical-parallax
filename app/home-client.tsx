@@ -10,6 +10,7 @@ import { Footer } from "@/components/footer";
 import { Button } from "@/components/ui/button";
 import { ArticleMeta } from "@/lib/articles";
 import { createRandomStream, take } from "@/lib/lisp/utils";
+import { useTranslations } from "@/components/i18n-provider";
 
 interface HomeClientProps {
   articles: ArticleMeta[];
@@ -18,6 +19,7 @@ interface HomeClientProps {
 export function HomeClient({ articles }: HomeClientProps) {
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
+  const { t } = useTranslations();
 
   const searchItems: SearchItem[] = articles;
   const stream = createRandomStream(articles);
@@ -35,15 +37,15 @@ export function HomeClient({ articles }: HomeClientProps) {
           className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 px-3"
         >
           <GitPullRequest className="h-4 w-4" />
-          Contribute
+          {t("header.contribute")}
         </Link>
         <Link
           href="/maps/china-history"
           className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 hover:bg-accent hover:text-accent-foreground h-9 w-9"
-          title="View Incident Maps"
+          title={t("maps.viewMaps")}
         >
           <MapIcon className="h-4 w-4" />
-          <span className="sr-only">Maps</span>
+          <span className="sr-only">{t("header.maps")}</span>
         </Link>
         <ThemeToggle />
       </header>
@@ -52,14 +54,14 @@ export function HomeClient({ articles }: HomeClientProps) {
         <div className="w-full max-w-xl space-y-8 text-center">
           <div>
             <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl leading-[1.2] min-h-[1.2em] text-primary">
-              Historical Parallax
+              {t("common.siteName")}
             </h1>
             <p className="text-muted-foreground text-sm md:text-base italic leading-relaxed">
-              &ldquo;Every history creates a parallax&rdquo;
+              &ldquo;{t("common.tagline")}&rdquo;
             </p>
             {articles.length > 0 && (
               <p className="mt-2 text-xs text-muted-foreground/60">
-                {articles.length.toLocaleString()} documents archived
+                {t("home.documentsArchived", { count: articles.length.toLocaleString() })}
               </p>
             )}
           </div>
@@ -70,7 +72,7 @@ export function HomeClient({ articles }: HomeClientProps) {
             onClick={() => setSearchOpen(true)}
           >
             <Search className="mr-3 h-5 w-5" />
-            <span>Search articles...</span>
+            <span>{t("home.searchPlaceholder")}</span>
             <kbd className="pointer-events-none ml-auto hidden h-6 select-none items-center gap-1 rounded border bg-muted px-2 font-mono text-xs font-medium sm:flex">
               <span>Ctrl</span>K
             </kbd>

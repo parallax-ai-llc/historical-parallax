@@ -1,23 +1,32 @@
+"use client";
+
 import Link from "next/link";
+import { useTranslations } from "@/components/i18n-provider";
 
 export function Footer() {
+  const { t } = useTranslations();
+
   return (
-    <footer className="border-t border-border/40 py-6" role="contentinfo" aria-label="Site footer">
+    <footer
+      className="border-t border-border/40 py-6"
+      role="contentinfo"
+      aria-label={t("footer.footerAriaLabel")}
+    >
       <div className="container flex flex-col items-center justify-between gap-4 md:flex-row">
         <p className="text-sm text-muted-foreground">
-          Powered by{" "}
+          {t("footer.poweredBy")}{" "}
           <a
             href="https://parallax.kr"
             target="_blank"
             rel="noopener noreferrer"
             className="font-medium hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
-            aria-label="Parallax AI, LLC (opens in new tab)"
+            aria-label={t("footer.poweredByAriaLabel")}
           >
             Parallax AI, LLC
           </a>
         </p>
         <nav
-          aria-label="Footer navigation"
+          aria-label={t("footer.navAriaLabel")}
           className="flex items-center gap-4 text-sm text-muted-foreground"
         >
           <a
@@ -26,7 +35,7 @@ export function Footer() {
             rel="noopener noreferrer"
             className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
           >
-            Legal Parallax
+            {t("footer.legal")}
           </a>
           <a
             href="https://truth.parallax.kr"
@@ -40,13 +49,13 @@ export function Footer() {
             href="/terms-of-service"
             className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
           >
-            Terms of Service
+            {t("footer.terms")}
           </Link>
           <Link
             href="/privacy-policy"
             className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
           >
-            Privacy Policy
+            {t("footer.privacy")}
           </Link>
         </nav>
       </div>

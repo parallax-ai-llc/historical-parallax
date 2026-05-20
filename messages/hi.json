@@ -18,7 +18,15 @@
   "home": {
     "documentsArchived": "{count} दस्तावेज़ संग्रहीत",
     "searchPlaceholder": "लेख खोजें...",
-    "recentArticles": "हालिया लेख"
+    "recentArticles": "हालिया लेख",
+    "historicalFigure": "ऐतिहासिक व्यक्ति"
+  },
+  "search": {
+    "title": "लेख खोजें",
+    "description": "नाम या राष्ट्रीयता के आधार पर ऐतिहासिक लेख खोजें",
+    "placeholder": "लेख खोजें...",
+    "empty": "कोई परिणाम नहीं मिला.",
+    "heading": "लेख"
   },
   "footer": {
     "poweredBy": "द्वारा संचालित",

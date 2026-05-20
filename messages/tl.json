@@ -1,0 +1,43 @@
+{
+  "common": {
+    "siteName": "Historical Parallax",
+    "siteDescription": "Tuklasin ang mga makasaysayang tauhan at pangyayari mula sa iba't ibang pananaw",
+    "tagline": "Bawat kasaysayan ay lumilikha ng parallax",
+    "lastUpdated": "Huling na-update"
+  },
+  "header": {
+    "search": "Maghanap...",
+    "searchAriaLabel": "Buksan ang search dialog. Pindutin ang Ctrl+K upang maghanap.",
+    "contribute": "Mag-ambag",
+    "edit": "I-edit",
+    "maps": "Mga Mapa",
+    "homeAriaLabel": "Historical Parallax - Pumunta sa home page",
+    "editAriaLabel": "I-edit ang artikulong ito sa GitHub (magbubukas sa bagong tab)",
+    "skipToContent": "Lumaktaw sa pangunahing nilalaman"
+  },
+  "home": {
+    "documentsArchived": "{count} mga dokumento ang naka-archive",
+    "searchPlaceholder": "Maghanap ng mga artikulo...",
+    "recentArticles": "Mga Kamakailang Artikulo",
+    "historicalFigure": "Makasaysayang Tauhan"
+  },
+  "footer": {
+    "poweredBy": "Pinatatakbo ng",
+    "legal": "Legal Parallax",
+    "terms": "Mga Tuntunin ng Serbisyo",
+    "privacy": "Patakaran sa Privacy",
+    "footerAriaLabel": "Footer ng site",
+    "navAriaLabel": "Footer navigation",
+    "poweredByAriaLabel": "Parallax AI, LLC (magbubukas sa bagong tab)"
+  },
+  "search": {
+    "title": "Maghanap ng mga artikulo",
+    "description": "Maghanap ng mga makasaysayang artikulo ayon sa pangalan o nasyonalidad",
+    "placeholder": "Maghanap ng mga artikulo...",
+    "empty": "Walang nahanap na resulta.",
+    "heading": "Mga Artikulo"
+  },
+  "maps": {
+    "viewMaps": "Tingnan ang mga Mapa ng Pangyayari"
+  }
+}
