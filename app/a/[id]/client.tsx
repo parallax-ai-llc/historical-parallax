@@ -1,20 +1,25 @@
 "use client";
 
 import * as React from "react";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import { Search, Pencil, MapIcon } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
-import { SearchDialog, SearchItem } from "@/components/search-dialog";
 import { Footer } from "@/components/footer";
 
+// Code-split the search dialog (cmdk + radix dialog) out of the article bundle.
+const SearchDialog = dynamic(
+  () => import("@/components/search-dialog").then((m) => m.SearchDialog),
+  { ssr: false }
+);
+
 interface ArticleLayoutClientProps {
-  searchIndex: SearchItem[];
   children: React.ReactNode;
   editUrl: string;
 }
 
-export function ArticleLayoutClient({ searchIndex, children, editUrl }: ArticleLayoutClientProps) {
+export function ArticleLayoutClient({ children, editUrl }: ArticleLayoutClientProps) {
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
 
@@ -34,7 +39,7 @@ export function ArticleLayoutClient({ searchIndex, children, editUrl }: ArticleL
 
       {mounted && (
         <div suppressHydrationWarning>
-          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} items={searchIndex} />
+          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} />
         </div>
       )}
     </div>

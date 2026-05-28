@@ -161,6 +161,41 @@ async function parseArticleFile(fullPath: string, id: string): Promise<Article |
   }
 }
 
-export function getSearchIndex(): ArticleMeta[] {
-  return getAllArticles();
+export interface SearchIndexItem {
+  id: string;
+  name: string;
+  nationality?: string;
+}
+
+// Lightweight, in-memory-cached search projection. Built once per server
+// process from the article frontmatter so /api/search doesn't re-read ~14k
+// markdown files on every keystroke.
+let searchIndexCache: SearchIndexItem[] | null = null;
+
+export function getSearchIndex(): SearchIndexItem[] {
+  if (searchIndexCache) return searchIndexCache;
+  searchIndexCache = getAllArticles().map((a) => ({
+    id: a.id,
+    name: a.name,
+    nationality: a.nationality,
+  }));
+  return searchIndexCache;
+}
+
+export function searchArticles(query: string, limit = 10): SearchIndexItem[] {
+  const index = getSearchIndex();
+  const q = query.trim().toLowerCase();
+  if (!q) return index.slice(0, limit);
+
+  const results: SearchIndexItem[] = [];
+  for (const item of index) {
+    if (
+      item.name.toLowerCase().includes(q) ||
+      item.nationality?.toLowerCase().includes(q)
+    ) {
+      results.push(item);
+      if (results.length >= limit) break;
+    }
+  }
+  return results;
 }

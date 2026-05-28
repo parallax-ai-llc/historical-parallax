@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Cormorant_Garamond } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
 import { I18nProvider } from "@/components/i18n-provider";
+import { WebVitals } from "@/components/web-vitals";
 import "./globals.css";
 
 const cormorant = Cormorant_Garamond({
@@ -85,6 +86,7 @@ export default function RootLayout({
         </Script>
       </head>
       <body className={`${cormorant.variable} font-sans antialiased`}>
+        <WebVitals />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"

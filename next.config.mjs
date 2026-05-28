@@ -5,6 +5,15 @@ const nextConfig = {
   compress: true,
   poweredByHeader: false,
 
+  // Render <title>/<meta> blockingly in <head> for ALL user-agents instead
+  // of Next.js's default streaming-metadata behavior. The default only puts
+  // metadata in <head> for a fixed list of bots; that list misses Lighthouse
+  // 12+ (whose UA no longer contains "Chrome-Lighthouse") and the main
+  // Googlebot UA, so dynamic routes (articles, maps) shipped <title>/
+  // <meta name="description"> inside <body>. The page already awaits its
+  // data for content, so making metadata blocking adds no real latency.
+  htmlLimitedBots: /.*/,
+
   images: {
     remotePatterns: [
       {

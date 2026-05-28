@@ -1,16 +1,20 @@
 "use client";
 
 import * as React from "react";
+import dynamic from "next/dynamic";
 import { SiteHeader } from "@/components/site-header";
-import { SearchDialog, SearchItem } from "@/components/search-dialog";
 import { Footer } from "@/components/footer";
 
+const SearchDialog = dynamic(
+  () => import("@/components/search-dialog").then((m) => m.SearchDialog),
+  { ssr: false }
+);
+
 interface SiteLayoutClientProps {
-  searchIndex: SearchItem[];
   children: React.ReactNode;
 }
 
-export function SiteLayoutClient({ searchIndex, children }: SiteLayoutClientProps) {
+export function SiteLayoutClient({ children }: SiteLayoutClientProps) {
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
 
@@ -30,7 +34,7 @@ export function SiteLayoutClient({ searchIndex, children }: SiteLayoutClientProp
 
       {mounted && (
         <div suppressHydrationWarning>
-          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} items={searchIndex} />
+          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} />
         </div>
       )}
     </div>

@@ -1,29 +1,31 @@
 "use client";
 
 import * as React from "react";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import { Search, GitPullRequest, MapIcon } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
-import { SearchDialog, SearchItem } from "@/components/search-dialog";
-import { RecentArticles } from "@/components/recent-articles";
+import { RecentArticles, RecentArticle } from "@/components/recent-articles";
 import { Footer } from "@/components/footer";
 import { Button } from "@/components/ui/button";
-import { ArticleMeta } from "@/lib/articles";
-import { createRandomStream, take } from "@/lib/lisp/utils";
 import { useTranslations } from "@/components/i18n-provider";
 
+// Code-split the search dialog (cmdk + radix dialog) out of the initial
+// bundle; it only loads on the client, after hydration / when first needed.
+const SearchDialog = dynamic(
+  () => import("@/components/search-dialog").then((m) => m.SearchDialog),
+  { ssr: false }
+);
+
 interface HomeClientProps {
-  articles: ArticleMeta[];
+  recentArticles: RecentArticle[];
+  totalCount: number;
 }
 
-export function HomeClient({ articles }: HomeClientProps) {
+export function HomeClient({ recentArticles, totalCount }: HomeClientProps) {
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
   const { t } = useTranslations();
-
-  const searchItems: SearchItem[] = articles;
-  const stream = createRandomStream(articles);
-  const randomArticles = take(stream, 10);
 
   React.useEffect(() => {
     setMounted(true);
@@ -59,9 +61,9 @@ export function HomeClient({ articles }: HomeClientProps) {
             <p className="text-muted-foreground text-sm md:text-base italic leading-relaxed">
               &ldquo;{t("common.tagline")}&rdquo;
             </p>
-            {articles.length > 0 && (
+            {totalCount > 0 && (
               <p className="mt-2 text-xs text-muted-foreground/60">
-                {t("home.documentsArchived", { count: articles.length.toLocaleString() })}
+                {t("home.documentsArchived", { count: totalCount.toLocaleString() })}
               </p>
             )}
           </div>
@@ -78,7 +80,7 @@ export function HomeClient({ articles }: HomeClientProps) {
             </kbd>
           </Button>
 
-          <RecentArticles articles={randomArticles} />
+          <RecentArticles articles={recentArticles} />
         </div>
       </main>
 
@@ -86,7 +88,7 @@ export function HomeClient({ articles }: HomeClientProps) {
 
       {mounted && (
         <div suppressHydrationWarning>
-          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} items={searchItems} />
+          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} />
         </div>
       )}
     </div>

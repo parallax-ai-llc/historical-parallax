@@ -1,21 +1,25 @@
 "use client";
 
 import * as React from "react";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import { Search } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "@/components/ui/button";
-import { SearchDialog, SearchItem } from "@/components/search-dialog";
 import { Footer } from "@/components/footer";
 import { MapSidebar } from "@/components/map-sidebar";
 import { MapMobileNav } from "@/components/map-mobile-nav";
 
+const SearchDialog = dynamic(
+  () => import("@/components/search-dialog").then((m) => m.SearchDialog),
+  { ssr: false }
+);
+
 interface MapLayoutClientProps {
-  searchIndex: SearchItem[];
   children: React.ReactNode;
 }
 
-export function MapLayoutClient({ searchIndex, children }: MapLayoutClientProps) {
+export function MapLayoutClient({ children }: MapLayoutClientProps) {
   const [mounted, setMounted] = React.useState(false);
   const [searchOpen, setSearchOpen] = React.useState(false);
 
@@ -43,7 +47,7 @@ export function MapLayoutClient({ searchIndex, children }: MapLayoutClientProps)
 
       {mounted && (
         <div suppressHydrationWarning>
-          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} items={searchIndex} />
+          <SearchDialog open={searchOpen} onOpenChange={setSearchOpen} />
         </div>
       )}
     </div>

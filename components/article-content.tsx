@@ -167,7 +167,7 @@ export function ArticleContent({ meta, content }: ArticleContentProps) {
         )}
       </div>
 
-      {meta.image && <ArticleImage src={meta.image} alt={meta.name} />}
+      {meta.image && <ArticleImage src={meta.image} alt={meta.name} priority />}
 
       {/* Intro Content */}
       {intro && (

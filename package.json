@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@10.23.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "seo:check": "node scripts/seo-check.mjs",
     "generate": "node scripts/generate.js",
     "generate:people": "node scripts/generate.js --type people",
     "generate:events": "node scripts/generate.js --type events",
@@ -71,5 +73,12 @@
     "tailwindcss": "^3.4.15",
     "typescript": "5.9.3",
     "typescript-eslint": "^8.50.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp",
+      "@parcel/watcher",
+      "unrs-resolver"
+    ]
   }
 }

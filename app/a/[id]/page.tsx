@@ -21,9 +21,19 @@ export async function generateMetadata({ params }: ArticlePageProps) {
     return { title: "Not Found" };
   }
 
-  const { name, nationality, birth, death } = article.meta;
-  const lifespan = birth ? `${birth}${death ? ` – ${death}` : ""}` : "";
-  const description = `${name}${nationality ? ` (${nationality})` : ""}${lifespan ? ` ${lifespan}` : ""} - Explore multiple perspectives on this historical figure.`;
+  const { name, nationality, birth, death, occupation } = article.meta;
+
+  // Frontmatter often stores missing values as the literal string "Unknown";
+  // treat those as absent so the description doesn't read "Unknown – Unknown".
+  const isKnown = (v?: string) => !!v && v.trim().toLowerCase() !== "unknown";
+
+  const facts: string[] = [];
+  if (nationality) facts.push(nationality);
+  if (occupation && occupation.length > 0) facts.push(occupation.slice(0, 2).join(", "));
+  if (isKnown(birth)) facts.push(isKnown(death) ? `${birth}–${death}` : `b. ${birth}`);
+
+  const lead = facts.length > 0 ? `${name} — ${facts.join("; ")}.` : `${name}.`;
+  const description = `${lead} Explore multiple perspectives, key facts, and references on ${name}.`;
 
   return {
     title: name,

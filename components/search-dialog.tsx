@@ -17,32 +17,46 @@ export interface SearchItem {
   id: string;
   name: string;
   nationality?: string;
-  summary?: string;
 }
 
 interface SearchDialogProps {
   open: boolean;
   onOpenChange: (open: boolean) => void;
-  items: SearchItem[];
 }
 
-export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
+export function SearchDialog({ open, onOpenChange }: SearchDialogProps) {
   const router = useRouter();
   const { t } = useTranslations();
   const [search, setSearch] = React.useState("");
+  const [results, setResults] = React.useState<SearchItem[]>([]);
+  const [loading, setLoading] = React.useState(false);
 
-  const filteredItems = React.useMemo(() => {
-    if (!search) return items.slice(0, 10);
+  // Fetch matches from /api/search (debounced) whenever the dialog is open and
+  // the query changes. The index is no longer shipped with the page; it is
+  // fetched lazily here, so each page's HTML stays tiny.
+  React.useEffect(() => {
+    if (!open) return;
 
-    const lowerSearch = search.toLowerCase();
-    return items
-      .filter(
-        (item) =>
-          item.name.toLowerCase().includes(lowerSearch) ||
-          item.nationality?.toLowerCase().includes(lowerSearch)
-      )
-      .slice(0, 10);
-  }, [items, search]);
+    const controller = new AbortController();
+    setLoading(true);
+    const timer = setTimeout(() => {
+      fetch(`/api/search?q=${encodeURIComponent(search)}`, { signal: controller.signal })
+        .then((r) => r.json())
+        .then((data: SearchItem[]) => {
+          setResults(data);
+          setLoading(false);
+        })
+        .catch(() => {
+          // Ignore aborted requests; a newer keystroke owns the state now.
+          if (!controller.signal.aborted) setLoading(false);
+        });
+    }, 200);
+
+    return () => {
+      clearTimeout(timer);
+      controller.abort();
+    };
+  }, [search, open]);
 
   const handleSelect = (id: string) => {
     router.push(`/a/${id}`);
@@ -68,6 +82,9 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
       onOpenChange={onOpenChange}
       title={t("search.title")}
       description={t("search.description")}
+      // Results are already filtered server-side; don't let cmdk re-filter and
+      // hide valid matches (its default filter matches against item value/id).
+      shouldFilter={false}
     >
       <CommandInput
         placeholder={t("search.placeholder")}
@@ -75,9 +92,9 @@ export function SearchDialog({ open, onOpenChange, items }: SearchDialogProps) {
         onValueChange={setSearch}
       />
       <CommandList>
-        <CommandEmpty>{t("search.empty")}</CommandEmpty>
+        <CommandEmpty>{loading ? "…" : t("search.empty")}</CommandEmpty>
         <CommandGroup heading={t("search.heading")}>
-          {filteredItems.map((item) => (
+          {results.map((item) => (
             <CommandItem
               key={item.id}
               value={item.id}
