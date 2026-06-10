@@ -27,7 +27,7 @@ export function Footer() {
         </p>
         <nav
           aria-label={t("footer.navAriaLabel")}
-          className="flex items-center gap-4 text-sm text-muted-foreground"
+          className="flex flex-col items-center gap-4 text-sm text-muted-foreground md:flex-row"
         >
           <a
             href="https://legal.parallax.kr"
@@ -44,6 +44,22 @@ export function Footer() {
             className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
           >
             Truth Parallax
+          </a>
+          <a
+            href="https://pan.parallax.kr"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+          >
+            PAN News
+          </a>
+          <a
+            href="https://orb.parallax.kr"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+          >
+            Orb - OSINT Based World Monitoring
           </a>
           <Link
             href="/terms-of-service"

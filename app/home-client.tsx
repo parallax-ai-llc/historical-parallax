@@ -52,7 +52,7 @@ export function HomeClient({ recentArticles, totalCount }: HomeClientProps) {
         <ThemeToggle />
       </header>
 
-      <main className="flex flex-1 flex-col items-center justify-center px-4">
+      <main className="flex min-h-screen flex-1 flex-col items-center justify-center px-4 md:min-h-0">
         <div className="w-full max-w-xl space-y-8 text-center">
           <div>
             <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl leading-[1.2] min-h-[1.2em] text-primary">
@@ -82,6 +82,21 @@ export function HomeClient({ recentArticles, totalCount }: HomeClientProps) {
 
           <RecentArticles articles={recentArticles} />
         </div>
+
+        <a
+          href="https://www.producthunt.com/products/parallax-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-historical-parallax"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-12"
+        >
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            alt="Historical Parallax - Explore historical figures & events from every perspective | Product Hunt"
+            width={250}
+            height={54}
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1168025&theme=light&t=1781059394753"
+          />
+        </a>
       </main>
 
       <Footer />
