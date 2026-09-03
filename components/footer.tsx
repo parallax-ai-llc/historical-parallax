@@ -43,7 +43,7 @@ export function Footer() {
             rel="noopener noreferrer"
             className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
           >
-            Truth Parallax
+            Truth
           </a>
           <a
             href="https://pan.parallax.kr"
@@ -59,7 +59,7 @@ export function Footer() {
             rel="noopener noreferrer"
             className="hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
           >
-            Orb - OSINT Based World Monitoring
+            Orb
           </a>
           <Link
             href="/terms-of-service"
