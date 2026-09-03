@@ -8,6 +8,8 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import { RecentArticles, RecentArticle } from "@/components/recent-articles";
 import { Footer } from "@/components/footer";
 import { Button } from "@/components/ui/button";
+import { GraygateMark } from "@/components/graygate-mark";
+import { cn } from "@/lib/utils";
 import { useTranslations } from "@/components/i18n-provider";
 
 // Code-split the search dialog (cmdk + radix dialog) out of the initial
@@ -84,18 +86,27 @@ export function HomeClient({ recentArticles, totalCount }: HomeClientProps) {
         </div>
 
         <a
-          href="https://www.producthunt.com/products/parallax-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-historical-parallax"
+          href="https://graygate.app/?utm_source=historical-parallax&utm_medium=cta&utm_campaign=get-graygate"
           target="_blank"
           rel="noopener noreferrer"
-          className="mt-12"
+          aria-label="Get graygate — end-to-end encrypted messenger"
+          className={cn(
+            "group mt-12 inline-flex h-12 items-center gap-3 rounded-full border pl-3 pr-5",
+            "font-graygate text-[1.35rem] leading-none tracking-wide [font-variation-settings:'opsz'_72]",
+            "transition-all duration-200 focus-visible:outline-none focus-visible:ring-[3px] focus-visible:ring-ring/50",
+            // 라이트 모드 시안: graygate 브랜드 다크 배경 + 아이보리 잉크 (graygate.app 원본 룩)
+            "border-[#0b0d12] bg-[#0b0d12] text-[#E8EAF2] shadow-[0_8px_24px_-12px_rgba(11,13,18,0.7)]",
+            "hover:-translate-y-0.5 hover:bg-[#161a24] hover:shadow-[0_14px_28px_-12px_rgba(11,13,18,0.8)]",
+            // 다크 모드 시안: 아이보리 배경 + 다크 잉크 (반전 로크업), 은은한 글로우
+            "dark:border-[#E8EAF2]/80 dark:bg-[#E8EAF2] dark:text-[#0b0d12] dark:shadow-[0_0_0_1px_rgba(232,234,242,0.15),0_10px_30px_-14px_rgba(232,234,242,0.45)]",
+            "dark:hover:bg-white dark:hover:shadow-[0_0_0_1px_rgba(232,234,242,0.3),0_16px_36px_-14px_rgba(232,234,242,0.6)]"
+          )}
         >
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            alt="Historical Parallax - Explore historical figures & events from every perspective | Product Hunt"
-            width={250}
-            height={54}
-            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1168025&theme=light&t=1781059394753"
-          />
+          <GraygateMark className="size-7 shrink-0 transition-transform duration-300 group-hover:rotate-12" />
+          <span className="flex items-baseline gap-1.5">
+            <span className="font-medium">Get</span>
+            <span className="font-bold uppercase tracking-[0.12em]">graygate</span>
+          </span>
         </a>
       </main>
 

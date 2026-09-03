@@ -1,6 +1,6 @@
 import Script from "next/script";
 import type { Metadata } from "next";
-import { Cormorant_Garamond } from "next/font/google";
+import { Cormorant_Garamond, Big_Shoulders } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
 import { I18nProvider } from "@/components/i18n-provider";
 import { WebVitals } from "@/components/web-vitals";
@@ -13,6 +13,16 @@ const cormorant = Cormorant_Garamond({
   preload: true,
   fallback: ["Times New Roman", "serif"],
   adjustFontFallback: true,
+});
+
+// graygate wordmark font (https://graygate.app) — Big Shoulders Display cut (opsz 72), used only by the "Get GRAYGATE" CTA
+const graygateFont = Big_Shoulders({
+  variable: "--font-graygate",
+  subsets: ["latin"],
+  weight: "variable",
+  axes: ["opsz"],
+  preload: false,
+  fallback: ["Impact", "Arial Narrow", "sans-serif"],
 });
 
 export const metadata: Metadata = {
@@ -85,7 +95,7 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      <body className={`${cormorant.variable} font-sans antialiased`}>
+      <body className={`${cormorant.variable} ${graygateFont.variable} font-sans antialiased`}>
         <WebVitals />
         <ThemeProvider
           attribute="class"
