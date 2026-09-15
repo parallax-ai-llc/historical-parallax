@@ -1,5 +1,6 @@
 ---
-id: "mori-ogai"
+id: "mori-gai"
+aliases: ["mori-ogai"]
 name: "Mori Ōgai"
 birth: "1862-02-17"
 death: "1922-07-09"

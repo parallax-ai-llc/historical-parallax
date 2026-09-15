@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Brooklyn_Museum_-_Jo
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/John_A._Roebling"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate of John Roebling entry."
 ---
-
-## Summary
-
-Duplicate of John Roebling entry.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ Duplicate of John Roebling entry.
 |------|-------|
 | 1806 | Born |
 | 1869 | Died |
-
-
 
 [^1]: Wikipedia, "John A. Roebling" - https://en.wikipedia.org/wiki/John_A._Roebling
 
@@ -51,6 +46,3 @@ Roebling's influence is reflected in both the continued prominence of his bridge
 - Brooklyn Bridge
 - Suspension bridge engineering
 - Wire rope
-
-
-## References

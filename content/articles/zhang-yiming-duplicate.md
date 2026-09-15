@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zhang_Yiming_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1983 | See Zhang Yiming |
-
-
 
 [^1]: Wikipedia, "Zhang Yiming duplicate" - https://en.wikipedia.org/wiki/Zhang_Yiming_duplicate
 
@@ -56,7 +51,3 @@ If the linked Wikipedia page is missing, renamed, or redirects elsewhere, treat 
 - keep one canonical slug per person,
 - keep duplicates only as redirects (not as independent biographies), and
 - record the reason for the redirect (e.g., "duplicate ingest", "alias", "mislabeled entry").
-
-
-
-## References

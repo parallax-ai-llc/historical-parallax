@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adolf_Eichmann%2C_19
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eichmann"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Adolf Eichmann was a senior SS officer and one of the principal administrators involved in organizing the deportation of Jews from across German-occupied Europe during the Holocaust.[^1] After World War II he escaped Allied custody, lived under an assumed identity in Argentina, and was later captured by Israeli agents, tried in Jerusalem, and executed in 1962.[^1]
 

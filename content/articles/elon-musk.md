@@ -1,4 +1,5 @@
 ---
+aliases: ["elon-musk-dup2","elon-musk-dup3","elon-musk-dup4","elon-musk-duplicate"]
 name: Elon Musk
 birth: "1971-06-28"
 nationality: South African, Canadian, American

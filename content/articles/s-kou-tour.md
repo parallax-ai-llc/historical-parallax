@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ahmed_Seko%C3%BA_in_
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/S%C3%A9kou_Tour%C3%A9"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

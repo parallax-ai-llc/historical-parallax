@@ -1,5 +1,6 @@
 ---
-id: "otomo-no-tabito"
+id: "tomo-no-tabito"
+aliases: ["otomo-no-tabito"]
 name: "Ōtomo no Tabito"
 birth: "665-01-01"
 death: "731-08-31"

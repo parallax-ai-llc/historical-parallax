@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Azim_Premji_dup99"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 

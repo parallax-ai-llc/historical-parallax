@@ -1,5 +1,6 @@
 ---
-id: "genghis-khan-temujin"
+id: "genghis-khan-temjin"
+aliases: ["genghis-khan-temujin"]
 name: "Genghis Khan (Temüjin)"
 birth: "1162-01-01"
 death: "1227-08-18"

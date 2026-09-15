@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Mike_Bloomberg_2020_
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Michael_Bloomberg_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1942 | See Michael Bloomberg |
-
-
 
 [^1]: Wikipedia, "Michael Bloomberg duplicate" - https://en.wikipedia.org/wiki/Michael_Bloomberg_duplicate
 
@@ -62,6 +57,3 @@ If your system supports canonical IDs, consider:
 
 [^2]: Wikipedia, "Michael Bloomberg" — https://en.wikipedia.org/wiki/Michael_Bloomberg
 [^3]: Bloomberg L.P. (company overview) — https://en.wikipedia.org/wiki/Bloomberg_L.P.
-
-
-## References

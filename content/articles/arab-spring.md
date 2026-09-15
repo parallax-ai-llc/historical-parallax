@@ -1,4 +1,3 @@
-```markdown
 ---
 id: "arab-spring"
 name: "Arab Spring"
@@ -77,4 +76,3 @@ The uprisings accelerated the rise of political Islam in some countries before s
 | Source | Link |
 |--------|------|
 | Wikipedia | https://en.wikipedia.org/wiki/Arab_Spring |
-```

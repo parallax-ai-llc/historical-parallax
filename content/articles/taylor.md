@@ -9,19 +9,13 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Taylor"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-
-
-
 
 [^1]: Wikipedia, "Taylor" - https://en.wikipedia.org/wiki/Taylor
 
@@ -65,6 +59,3 @@ Taylor’s case is often cited in discussions of:
 
 [^2]: Special Court for Sierra Leone (SCSL), case materials and public information on the prosecution and judgment of Charles Taylor.
 [^3]: Encyclopaedia Britannica, "Charles Taylor" (biographical overview and presidency period).
-
-
-## References

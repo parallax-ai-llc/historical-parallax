@@ -1,5 +1,6 @@
 ---
 id: "li-ka-shing"
+aliases: ["li-ka-shing-dup99","li-ka-shing-duplicate"]
 name: "Li Ka-shing"
 birth: "1928-07-29"
 death: null

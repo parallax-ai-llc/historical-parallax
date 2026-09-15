@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/R._Allen_Stanford"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 R. Allen Stanford is best known for leading a large-scale investment fraud centered on Stanford International Bank (SIB) and the sale of high-yield certificates of deposit, a case that became one of the major U.S. financial fraud prosecutions of the 2000s.
 
@@ -44,14 +43,9 @@ R. Allen Stanford is best known for leading a large-scale investment fraud cente
 - **Criminal outcome:** Stanford was convicted in U.S. federal court (2012).
 - **Asset recovery:** The matter involved receivership and attempts to marshal assets for restitution, though recoveries in fraud cases can be limited relative to losses.
 
-
-
 [^1]: Wikipedia, "R. Allen Stanford" - https://en.wikipedia.org/wiki/R._Allen_Stanford
 
 ## See Also
 
 - Stanford International Bank (SIB)
 - Ponzi scheme
-
-
-## References

@@ -1,5 +1,6 @@
 ---
-id: "shimazaki-toson"
+id: "shimazaki-tson"
+aliases: ["shimazaki-toson"]
 name: "Shimazaki Tōson"
 birth: "1872-03-25"
 death: "1943-08-22"

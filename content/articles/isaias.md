@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Isaias"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Isaias Afwerki (born 1946) is the longtime political leader of Eritrea and has served as the country's president since independence in 1993. He was a leading figure in the Eritrean independence movement and the Eritrean People's Liberation Front (EPLF), and after independence became the central decision-maker in Eritrea's one-party state.
 

@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zhang_Ruimin_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 

@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Breaking_Benjamin_2-
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Larry_Fink_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
 
 ## Summary
-
-Duplicate.
 
 This article exists as a **duplicate/placeholder entry**. It intentionally contains minimal standalone biography and points to the primary profile for the real-world figure commonly known as **Larry Fink (BlackRock)**.
 

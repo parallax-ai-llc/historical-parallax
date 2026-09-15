@@ -1,5 +1,6 @@
 ---
-id: "damdin-sukhbaatar"
+id: "bataar"
+aliases: ["damdin-sukhbaatar"]
 name: "Damdin Sükhbaatar"
 birth: "1893-02-02"
 death: "1923-02-20"

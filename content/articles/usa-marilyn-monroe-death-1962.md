@@ -1,5 +1,6 @@
 ---
-id: "marilyn-monroe-death-1962"
+id: "usa-marilyn-monroe-death-1962"
+aliases: ["marilyn-monroe-death-1962"]
 name: "Death of Marilyn Monroe (1962)"
 date: "1962-08-05"
 location: "Brentwood, Los Angeles, United States"

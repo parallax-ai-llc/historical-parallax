@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Abdulrahman_Al-Sadhan"
 lastUpdated: "2026-02-26"
+editorialNote: "Not a scientist; removing."
 ---
 
 ## Summary
-
-Not a scientist; removing.
 
 Abdulrahman al-Sadhan is a Saudi humanitarian aid worker (reported as a Red Crescent employee) whose case has been cited by multiple human-rights organizations as an example of Saudi Arabia’s use of the Specialized Criminal Court to prosecute peaceful expression.
 

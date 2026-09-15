@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1935 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Leonardo Del Vecchio dup" - https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio_dup
 
@@ -52,6 +47,3 @@ Duplicate.
 ## References (additional)
 
 - Wikipedia, “Leonardo Del Vecchio” — https://en.wikipedia.org/wiki/Leonardo_Del_Vecchio
-
-
-## References

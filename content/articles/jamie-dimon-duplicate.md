@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jamie_Dimon_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1956 | See Jamie Dimon |
-
-
 
 [^1]: Wikipedia, "Jamie Dimon duplicate" - https://en.wikipedia.org/wiki/Jamie_Dimon_duplicate
 
@@ -53,6 +48,3 @@ Duplicate entries like this commonly appear when:
 - When verifying, prefer the canonical Wikipedia entry for Jamie Dimon and cross-check against major institutional biographies and reputable news sources.
 
 [^2]: Wikipedia, "Jamie Dimon" - https://en.wikipedia.org/wiki/Jamie_Dimon
-
-
-## References

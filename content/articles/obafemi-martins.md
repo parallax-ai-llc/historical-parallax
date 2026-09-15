@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Obafemi_Martins"
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered by Kanu and others."
 ---
-
-## Summary
-
-Already covered by Kanu and others.
 
 ## Career Timeline
 

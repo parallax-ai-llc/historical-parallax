@@ -9,20 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dietrich_Mateschitz_dup5"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1944 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Dietrich Mateschitz dup5" - https://en.wikipedia.org/wiki/Dietrich_Mateschitz_dup5
 
@@ -70,6 +64,3 @@ This file appears to be an intentional duplicate stub ("dup5"). The factual cont
 
 - The Wikipedia link in this stub includes a "dup5" suffix and may not correspond to the canonical page.
 - If this repository maintains a primary article for Dietrich Mateschitz, consider consolidating duplicates into that canonical file and keeping this as a redirect/alias entry.
-
-
-## References

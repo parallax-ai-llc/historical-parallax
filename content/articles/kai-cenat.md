@@ -1,4 +1,3 @@
-```markdown
 ---
 name: "Kai Cenat"
 birth: "2001-12-16"
@@ -61,4 +60,3 @@ Cenat has become a generational figure in streaming, demonstrating that Black cr
 | Source | Link |
 |--------|------|
 | Wikipedia | https://en.wikipedia.org/wiki/Kai_Cenat |
-```

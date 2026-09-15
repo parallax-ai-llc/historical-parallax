@@ -9,16 +9,13 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Omar_al-Bashir%2C_12
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Al-Bashir"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-
 
 ## Background
 

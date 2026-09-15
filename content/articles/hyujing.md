@@ -1,5 +1,6 @@
 ---
-id: "huijong"
+id: "hyujing"
+aliases: ["huijong"]
 name: "Huijong of Goryeo"
 birth: "1181-06-21"
 death: "1237-08-31"

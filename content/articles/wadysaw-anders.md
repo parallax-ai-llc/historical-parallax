@@ -1,5 +1,6 @@
 ---
-id: "wladyslaw-anders"
+id: "wadysaw-anders"
+aliases: ["wladyslaw-anders"]
 name: "Władysław Anders"
 birth: "1892-08-11"
 death: "1970-05-12"

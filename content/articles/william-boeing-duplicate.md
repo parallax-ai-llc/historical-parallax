@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tu4.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Boeing_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1881 | See William Boeing |
-
-
 
 [^1]: Wikipedia, "William Boeing duplicate" - https://en.wikipedia.org/wiki/William_Boeing_duplicate
 
@@ -53,6 +48,3 @@ William Boeing’s name remains closely associated with:
 - William Boeing (primary entry)
 - Boeing (company)
 - Early aviation industry (United States)
-
-
-## References

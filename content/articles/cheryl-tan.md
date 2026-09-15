@@ -1,5 +1,6 @@
 ---
-id: "cheryl-lu-lien-tan"
+id: "cheryl-tan"
+aliases: ["cheryl-lu-lien-tan"]
 name: "Cheryl Lu-Lien Tan"
 birth: "1975-01-01"
 nationality: "Singapore"

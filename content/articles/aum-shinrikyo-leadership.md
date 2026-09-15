@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Aleph-logo.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aum_Shinrikyo_leadership"
 lastUpdated: "2026-02-26"
+editorialNote: "See Shoko Asahara. Duplicate entry."
 ---
-
-## Summary
-
-See Shoko Asahara. Duplicate entry.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 2018 | Asahara executed |
-
-
 
 [^1]: Wikipedia, "Aum Shinrikyo leadership" - https://en.wikipedia.org/wiki/Aum_Shinrikyo_leadership
 
@@ -65,6 +60,3 @@ The exact set of "leadership" names depends on the period being discussed; commo
 
 [^2]: Wikipedia, "Aum Shinrikyo" — https://en.wikipedia.org/wiki/Aum_Shinrikyo
 [^3]: Wikipedia, "Shoko Asahara" — https://en.wikipedia.org/wiki/Shoko_Asahara
-
-
-## References

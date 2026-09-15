@@ -1,5 +1,6 @@
 ---
-id: "mae-paner"
+id: "manila-juana"
+aliases: ["mae-paner"]
 name: "Mae Paner"
 birth: "Unknown"
 death: null
@@ -8,7 +9,8 @@ occupation: ["Activist", "Performance Artist", "Actress", "Social Advocate"]
 image: null
 socialLinks:
   wikipedia: null
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 

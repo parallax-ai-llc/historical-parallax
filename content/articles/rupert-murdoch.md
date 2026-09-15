@@ -1,5 +1,6 @@
 ---
 id: "rupert-murdoch"
+aliases: ["rupert-murdoch-duplicate"]
 name: "Rupert Murdoch"
 birth: "1931-03-11"
 nationality: "Australia"

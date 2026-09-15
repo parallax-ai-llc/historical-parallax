@@ -1,5 +1,6 @@
 ---
 id: "nathan-mayer-rothschild"
+aliases: ["nathan-rothschild-duplicate"]
 name: "Nathan Mayer Rothschild"
 birth: "1777-09-16"
 death: "1836-07-28"

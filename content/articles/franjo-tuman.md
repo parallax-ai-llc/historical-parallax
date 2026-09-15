@@ -1,5 +1,6 @@
 ---
-id: "franjo-tudman"
+id: "franjo-tuman"
+aliases: ["franjo-tudman"]
 name: "Franjo Tuđman"
 birth: "1922-05-14"
 death: "1999-12-10"

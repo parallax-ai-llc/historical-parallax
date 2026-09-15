@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/John_Gotti_FBI_booki
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dapper_Don"
 lastUpdated: "2026-02-26"
+editorialNote: "See John Gotti. Nickname reference."
 ---
 
 ## Summary
-
-See John Gotti. Nickname reference.
 
 This entry captures “Dapper Don” as a **nickname associated with John Joseph Gotti Jr. (1940–2002)**, an American mafia figure who led the **Gambino crime family**. The moniker is most often used in retrospective coverage to describe his **stylish, public-facing presentation** during a period of unusually high media attention.
 

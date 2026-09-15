@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Leopold_ii_garter_kn
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/King_Leopold_II"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1909 | Died |
-
-
 
 [^1]: Wikipedia, "King Leopold II" - https://en.wikipedia.org/wiki/King_Leopold_II
 
@@ -66,6 +61,3 @@ Duplicate consolidated.
 
 - This article is intentionally high-level and focused on widely reported facts; specific quantitative claims (e.g., population loss totals) differ by historian and methodology.
 - For deeper study, consult multiple scholarly histories of the Congo Free State in addition to general encyclopedic sources.
-
-
-## References

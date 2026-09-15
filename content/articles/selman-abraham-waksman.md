@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Selman_Waksman_NYWTS
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Selman_Abraham_Waksman"
 lastUpdated: "2026-02-26"
+editorialNote: "See earlier entry."
 ---
-
-## Summary
-
-See earlier entry.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ See earlier entry.
 |------|-------|
 | 1888 | Born |
 | 1973 | Died |
-
-
 
 [^1]: Wikipedia, "Selman Abraham Waksman" - https://en.wikipedia.org/wiki/Selman_Abraham_Waksman
 
@@ -49,6 +44,3 @@ Waksman helped shape the modern usage of the term **"antibiotic"** in scientific
 ## Notes
 
 This entry is kept high-level; detailed publication chronology and the division of experimental work vary by source.
-
-
-## References

@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christaan_Barnard"
 lastUpdated: "2026-02-26"
+editorialNote: "Already added."
 ---
-
-## Summary
-
-Already added.
 
 ## Career Timeline
 

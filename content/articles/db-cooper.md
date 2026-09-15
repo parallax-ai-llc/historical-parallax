@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/9/99/CompositeB-FBI-1973.
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/DB_Cooper"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 DB Cooper is the alias used by an unidentified man who hijacked Northwest Orient Airlines Flight 305 on November 24, 1971. After receiving $200,000 in cash and four parachutes in exchange for the passengers, he parachuted from a Boeing 727 over the Pacific Northwest and disappeared. Despite an extensive FBI investigation, Cooper’s identity and fate remain unknown.
 

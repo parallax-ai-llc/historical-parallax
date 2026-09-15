@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alain_Ducasse_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
@@ -40,8 +38,6 @@ Alain Ducasse (born 13 September 1956) is a Monaco-based French chef and restaur
 
 If this repository maintains one canonical article per person, this file likely should redirect readers to the primary Alain Ducasse entry (if present) rather than stand alone.
 
-
-
 [^1]: Wikipedia, "Alain Ducasse" — https://en.wikipedia.org/wiki/Alain_Ducasse
 [^2]: Wikipedia (missing title notice), "Alain Ducasse duplicate" — https://en.wikipedia.org/wiki/Alain_Ducasse_duplicate
 
@@ -49,6 +45,3 @@ If this repository maintains one canonical article per person, this file likely 
 
 - Consider merging this file into the canonical Alain Ducasse article and leaving a short redirect/alias stub.
 - Keep external links in frontmatter aligned with real, existing pages to avoid broken references.
-
-
-## References

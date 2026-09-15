@@ -1,5 +1,6 @@
 ---
-id: "banharn-silpa-archa"
+id: "banhan-silpa-archa"
+aliases: ["banharn-silpa-archa"]
 name: "Banharn Silpa-archa"
 birth: "1932-08-19"
 death: "2016-04-23"

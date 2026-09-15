@@ -1,5 +1,6 @@
 ---
-id: "yu-gwan-sun"
+id: "ode-gwan-seon"
+aliases: ["yu-gwan-sun"]
 name: "Yu Gwan-sun"
 birth: "1902-12-16"
 death: "1920-09-28"

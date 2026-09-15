@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rios_Montt"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 José Efraín Ríos Montt (1926–2018) was a Guatemalan army general and head of state who ruled Guatemala after a military coup in 1982. His short de facto presidency occurred during the most intense phase of the Guatemalan Civil War and is widely associated with counterinsurgency campaigns, mass atrocities against Indigenous communities (notably the Maya Ixil), and later landmark legal proceedings over genocide and crimes against humanity.
 

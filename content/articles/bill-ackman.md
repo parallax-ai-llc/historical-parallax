@@ -1,5 +1,6 @@
 ---
 id: "bill-ackman"
+aliases: ["william-ackman-duplicate"]
 name: "Bill Ackman"
 birth: "1966-05-11"
 death: "Unknown"

@@ -1,5 +1,6 @@
 ---
-id: "bogd-khan"
+id: "gegen-migjid-janraisig"
+aliases: ["bogd-khan"]
 name: "Bogd Khan (8th Jebtsundamba Khutuktu)"
 birth: "1869-10-13"
 death: "1924-05-20"

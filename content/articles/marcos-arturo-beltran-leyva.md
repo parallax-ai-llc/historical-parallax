@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Already covered."
 ---
-
-## Summary
-Already covered.
 
 ## Early Life
 Marcos Arturo Beltran Leyva was born on 1961-09-27 in Mexico. Details of early life shaped the path that would lead to a criminal career. [^1]

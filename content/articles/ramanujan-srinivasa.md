@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ramanujan_Srinivasa"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate of Srinivasa Ramanujan."
 ---
-
-## Summary
-
-Duplicate of Srinivasa Ramanujan.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ Duplicate of Srinivasa Ramanujan.
 |------|-------|
 | 1887 | Born |
 | 1920 | Died |
-
-
 
 [^1]: Wikipedia, "Ramanujan Srinivasa" - https://en.wikipedia.org/wiki/Ramanujan_Srinivasa
 
@@ -55,6 +50,3 @@ Ramanujan's health deteriorated during his time in England and after his return 
 ## Additional References
 
 [^2]: Wikipedia, "Srinivasa Ramanujan" - https://en.wikipedia.org/wiki/Srinivasa_Ramanujan
-
-
-## References

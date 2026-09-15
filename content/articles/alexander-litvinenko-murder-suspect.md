@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate of Lugovoy."
 ---
-
-## Summary
-Duplicate of Lugovoy.
 
 ## Early Life
 Alexander Litvinenko murder suspect was born on 1966-01-01 in Russia. Details of early life shaped the path that would lead to a criminal career. [^1]
@@ -37,7 +35,6 @@ Alexander Litvinenko murder suspect's criminal career came to an end through law
 | 1966 | Born |
 | ? | Career ended |
 
-
 [^1]: Encyclopedia of Criminal History.
 [^2]: International Criminal Records.
 [^3]: Court and law enforcement records.
@@ -51,6 +48,3 @@ Alexander Litvinenko murder suspect's criminal career came to an end through law
 - High-profile cases can influence public policy discussions (e.g., sentencing, prevention, victim support, or security practices) even when the underlying facts are narrowly specific.
 - Media coverage can shape long-term perception; separating verified facts from commentary is important when summarizing historical incidents.
 - Downstream effects may include changes in institutional procedures, increased awareness, and renewed attention to systemic vulnerabilities.
-
-
-## References

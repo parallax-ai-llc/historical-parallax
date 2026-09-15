@@ -1,4 +1,5 @@
 ---
+aliases: ["reid-hoffman-duplicate"]
 name: Reid Hoffman
 birth: "1967-08-05"
 nationality: American

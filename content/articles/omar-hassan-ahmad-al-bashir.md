@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Omar_Hassan_Ahmad_al-Bashir"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

@@ -1,5 +1,6 @@
 ---
-id: "okawa-shumei"
+id: "okawa-shmei"
+aliases: ["okawa-shumei"]
 name: "Okawa Shūmei"
 birth: "1886-12-06"
 death: "1957-12-24"

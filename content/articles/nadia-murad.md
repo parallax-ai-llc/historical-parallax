@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nadia_Murad"
 lastUpdated: "2026-02-26"
+editorialNote: "Not an athlete, skip."
 ---
-
-## Summary
-
-Not an athlete, skip.
 
 ## Career Timeline
 

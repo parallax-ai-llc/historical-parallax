@@ -1,5 +1,6 @@
 ---
 id: "shibusawa-eiichi"
+aliases: ["shibusawa-eiichi-duplicate"]
 name: "Shibusawa Eiichi"
 birth: "1840-03-16"
 death: "1931-11-11"

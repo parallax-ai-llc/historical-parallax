@@ -1,5 +1,6 @@
 ---
-id: "saya-san"
+id: "hsaya-sayadaw"
+aliases: ["saya-san"]
 name: "Saya San"
 birth: "1876-10-24"
 death: "1931-11-28"

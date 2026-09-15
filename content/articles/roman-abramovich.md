@@ -1,5 +1,6 @@
 ---
 id: "roman-abramovich"
+aliases: ["roman-abramovich-duplicate"]
 name: "Roman Abramovich"
 birth: "1966-10-24"
 death: "Unknown"

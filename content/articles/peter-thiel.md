@@ -1,4 +1,5 @@
 ---
+aliases: ["peter-thiel-duplicate"]
 name: Peter Thiel
 birth: "1967-10-11"
 nationality: American-German

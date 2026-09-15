@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aliko_Dangote_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1957 | See Aliko Dangote |
-
-
 
 [^1]: Wikipedia, "Aliko Dangote duplicate" - https://en.wikipedia.org/wiki/Aliko_Dangote_duplicate
 
@@ -72,6 +67,3 @@ High-level facts commonly reported about the canonical subject:
 - Conglomerates and industrial policy in Nigeria
 - Cement markets and infrastructure development (general)
 - Corporate governance and concentration (general)
-
-
-## References

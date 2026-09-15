@@ -1,5 +1,6 @@
 ---
-id: "lech-walesa"
+id: "lech-waesa"
+aliases: ["lech-walesa"]
 name: "Lech Wałęsa"
 birth: "1943-09-29"
 nationality: "Poland"

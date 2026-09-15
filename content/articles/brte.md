@@ -1,5 +1,6 @@
 ---
-id: "borte"
+id: "brte"
+aliases: ["borte"]
 name: "Börte"
 birth: "1161-00-00"
 death: "1230-00-00"

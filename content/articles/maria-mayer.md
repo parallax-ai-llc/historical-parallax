@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maria_Mayer"
 lastUpdated: "2026-02-26"
+editorialNote: "See Marie Goeppert Mayer entry."
 ---
-
-## Summary
-
-See Marie Goeppert Mayer entry.
 
 ## Career Timeline
 

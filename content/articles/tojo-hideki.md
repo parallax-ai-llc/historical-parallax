@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Already has article."
 ---
-
-## Summary
-Already has article.
 
 ## Early Life
 Tojo Hideki was born on 1884-12-30 in Japan. Details of early life shaped the path that would lead to a criminal career. [^1]

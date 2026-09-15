@@ -1,5 +1,6 @@
 ---
-id: "emperor-taisho-yoshihito"
+id: "emperor-taish-yoshihito"
+aliases: ["emperor-taisho-yoshihito"]
 name: "Emperor Taishō (Yoshihito)"
 birth: "1879-08-31"
 death: "1926-12-25"

@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sara_Blakely_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1971 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Sara Blakely duplicate" - https://en.wikipedia.org/wiki/Sara_Blakely_duplicate
 
@@ -51,6 +46,3 @@ If you intend to keep a distinct entry here, confirm the following with primary 
 ## Curation Status
 
 Unverified duplicate placeholder pending consolidation or correction.
-
-
-## References

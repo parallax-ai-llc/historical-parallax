@@ -9,7 +9,8 @@ outcome: "202 killed, 209 injured"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bali_memorial.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/2002_Bali_bombings"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 The 2002 Bali bombings were carried out by Jemaah Islamiyah on October 12, 2002, in Kuta, Bali. Three bombs killed 202 people from 21 nations, including 88 Australians and 38 Indonesians. It was the deadliest terrorist attack in Indonesian history.

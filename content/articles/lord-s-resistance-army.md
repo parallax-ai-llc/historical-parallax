@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lord's_Resistance_Army"
 lastUpdated: "2026-02-26"
+editorialNote: "See LRA Insurgency."
 ---
-
-## Summary
-
-See LRA Insurgency.
 
 ## Career Timeline
 
@@ -42,13 +39,8 @@ The LRA was designated a terrorist organization by multiple governments, and the
 
 The conflict associated with the LRA contributed to mass displacement, the disruption of schooling and livelihoods, and long-term trauma among affected communities. The LRA is frequently cited in discussions of atrocities committed by non-state armed groups in Africa, particularly regarding forced recruitment and the use of child soldiers.
 
-
-
 [^1]: Wikipedia, "Lord's Resistance Army" - https://en.wikipedia.org/wiki/Lord's_Resistance_Army
 
 ## See also
 
 Related topics include the broader LRA insurgency in Uganda, regional peace processes involving Uganda and South Sudan, and international legal debates about accountability for rebel leadership in protracted civil conflicts.
-
-
-## References

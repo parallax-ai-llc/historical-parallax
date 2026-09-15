@@ -1,5 +1,6 @@
 ---
 id: "sam-walton"
+aliases: ["sam-walton-duplicate"]
 name: "Sam Walton"
 birth: "1918-03-29"
 death: "1992-04-05"

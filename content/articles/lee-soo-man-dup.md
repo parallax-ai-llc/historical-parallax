@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/01/President_Lee_Jae-my
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Soo-man_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1952 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Lee Soo-man dup" - https://en.wikipedia.org/wiki/Lee_Soo-man_dup
 
@@ -56,6 +51,3 @@ Duplicate.
 ## References (Additional)
 
 [^2]: Wikipedia, "Lee Soo-man" - https://en.wikipedia.org/wiki/Lee_Soo-man
-
-
-## References

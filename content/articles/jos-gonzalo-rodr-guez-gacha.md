@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jos%C3%A9_Gonzalo_Rodr%C3%ADguez_Gacha"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

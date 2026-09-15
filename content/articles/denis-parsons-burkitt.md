@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Denis_Parsons_Burkitt"
 lastUpdated: "2026-02-26"
+editorialNote: "Already added as Denis Burkitt."
 ---
-
-## Summary
-
-Already added as Denis Burkitt.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ Already added as Denis Burkitt.
 |------|-------|
 | 1911 | Born |
 | 1993 | Died |
-
-
 
 [^1]: Wikipedia, "Denis Parsons Burkitt" - https://en.wikipedia.org/wiki/Denis_Parsons_Burkitt
 
@@ -50,6 +45,3 @@ Later in his career, Burkitt also became known for promoting the idea that diets
 ## See Also
 
 Related topics include Epstein–Barr virus research, lymphoma classification, and the history of nutrition epidemiology.
-
-
-## References

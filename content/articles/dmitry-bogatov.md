@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Minor figure, skip."
 ---
-
-## Summary
-Minor figure, skip.
 
 ## Early Life
 Dmitry Bogatov was born on 1984-01-01 in Russia. Details of early life shaped the path that would lead to a criminal career. [^1]

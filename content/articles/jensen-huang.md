@@ -1,5 +1,6 @@
 ---
 id: "jensen-huang"
+aliases: ["jensen-huang-duplicate"]
 name: "Jensen Huang"
 birth: "1963-02-17"
 death: null

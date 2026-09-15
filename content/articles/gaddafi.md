@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Moamer_el_Gadafi_%28
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gaddafi"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Muammar Muhammad Abu Minyar al-Gaddafi (often rendered in English as Muammar Gaddafi) ruled Libya from 1969 until 2011.
 He came to power after a military coup that overthrew King Idris I, and he governed through a mix of revolutionary committees, security services, and patronage networks rather than conventional party politics.

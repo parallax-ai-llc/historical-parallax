@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tanaka_Shozo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tanaka_Shozo"
 lastUpdated: "2026-02-26"
+editorialNote: "Not a scientist; removing."
 ---
 
 ## Summary
-
-Not a scientist; removing.
 
 Tanaka Shōzō (田中 正造) was a Japanese politician and early environmental activist best known for opposing industrial pollution linked to the Ashio Copper Mine in Tochigi Prefecture. He is frequently cited in histories of Japanese environmentalism because he used parliamentary politics, petitions, and direct appeals to the state to argue that people’s lives and livelihoods should not be sacrificed for rapid industrialization.
 

@@ -1,4 +1,5 @@
 ---
+aliases: ["jeff-bezos-dup2"]
 name: "Jeff Bezos"
 birth: "1964-01-12"
 death: null

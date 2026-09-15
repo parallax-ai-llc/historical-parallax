@@ -1,5 +1,6 @@
 ---
-id: "king-jangsu"
+id: "king-kangsu"
+aliases: ["king-jangsu"]
 name: "King Jangsu"
 birth: "0394-01-01"
 death: "0491-12-31"

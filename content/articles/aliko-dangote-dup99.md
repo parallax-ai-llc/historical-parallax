@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aliko_Dangote_dup99"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1957 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Aliko Dangote dup99" - https://en.wikipedia.org/wiki/Aliko_Dangote_dup99
 
@@ -82,6 +77,3 @@ Use this checklist when consolidating duplicates:
 - Dangote Group
 - African industrial policy (general)
 - Conglomerates and market concentration (general)
-
-
-## References

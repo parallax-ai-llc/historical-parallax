@@ -9,19 +9,13 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Yuna_Kim_at_20
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yuna_Kim"
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered."
 ---
-
-## Summary
-
-Already covered.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-
-
-
 
 [^1]: Wikipedia, "Yuna Kim" - https://en.wikipedia.org/wiki/Yuna_Kim
 
@@ -60,6 +54,3 @@ Scores combine technical element values and program component scores (skating sk
 ## Notes
 
 This article focuses on widely reported, high-level facts. For complete season results and detailed program information, consult official event result archives and federation publications.
-
-
-## References

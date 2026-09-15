@@ -1,5 +1,6 @@
 ---
-id: "pakubuwono-xiii"
+id: "pakubono-xiii"
+aliases: ["pakubuwono-xiii"]
 name: "Pakubuwono XIII"
 birth: "1948-06-28"
 death: "2025-11-02"

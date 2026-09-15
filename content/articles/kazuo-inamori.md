@@ -1,5 +1,6 @@
 ---
 id: "kazuo-inamori"
+aliases: ["inamori-kazuo-duplicate"]
 name: "Kazuo Inamori"
 birth: "1932-01-21"
 death: "2022-08-24"
@@ -11,22 +12,46 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## Summary
-
-Kazuo Inamori founded Kyocera and KDDI (Japan's second-largest telecom), making him one of the most respected business leaders in Japanese history. He also rescued Japan Airlines from bankruptcy in 2010. His 'amoeba management' philosophy, which divides companies into small profit centers, influenced management worldwide. He was ordained as a Buddhist monk and donated his personal fortune to education and culture.
-
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-| 1932 | Born in Kagoshima, Japan |
-| 1959 | Founded Kyocera Corporation |
-| 1984 | Founded DDI (later KDDI) to compete in telecom |
-| 2000 | DDI merged with others to form KDDI |
-| 2010 | Accepted chairmanship of bankrupt Japan Airlines; turned it profitable |
-| 2012 | JAL relisted on Tokyo Stock Exchange |
-| 2022 | Died in Kyoto, Japan |
+| 1932 | Duplicate |
 
-## References
+[^1]: Wikipedia, "Inamori Kazuo duplicate" - https://en.wikipedia.org/wiki/Inamori_Kazuo_duplicate
 
-[^1]: Wikipedia, "Kazuo Inamori" - https://en.wikipedia.org/wiki/Kazuo_Inamori
+---
+
+## Why this page exists
+
+This article is intentionally a **duplicate placeholder**.
+
+- Some datasets, crawlers, or imports create near-identical records when a name is normalized in multiple ways.
+- To avoid breaking existing links, the duplicate record is kept, but it should **not** be treated as the canonical biography.
+- For authoritative content, use the primary entry for **Kazuo Inamori (稲盛 和夫)**.
+
+## Canonical subject: Kazuo Inamori (high-level facts)
+
+The canonical subject commonly referenced by this name is **Kazuo Inamori** (1932–2022), a Japanese entrepreneur and management thinker.
+
+Key, widely-cited points about his career:
+
+- **Founder of Kyocera** (Kyoto Ceramic Co., later Kyocera Corporation), originally established as a ceramics/technology company.
+- **Co-founder of KDDI**, one of Japan’s major telecommunications operators.
+- Served as **chairman/CEO of Japan Airlines (JAL)** during its post-bankruptcy turnaround (appointed in 2010) and is frequently credited for helping stabilize operations.
+
+## Themes associated with Inamori’s management approach
+
+High-level concepts frequently discussed in relation to his work:
+
+- **Management philosophy / “Inamori Philosophy”**: emphasis on ethics, purpose, and aligning values with execution.
+- **Amoeba Management**: organizing work into small, accountable units with transparent goals and performance tracking.
+- **Discipline and frugality** in operations, especially during restructuring contexts.
+
+## Data hygiene note
+
+If you are curating or deduplicating articles:
+
+- Treat this page as a **redirect-like stub**.
+- Prefer consolidating references, timelines, and external links into the canonical article.
+- Keep this page only when needed for backward compatibility (e.g., external URLs, IDs, or imported cross-links).

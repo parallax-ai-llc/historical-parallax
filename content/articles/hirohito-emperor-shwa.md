@@ -1,5 +1,6 @@
 ---
-id: "hirohito-emperor-showa"
+id: "hirohito-emperor-shwa"
+aliases: ["hirohito-emperor-showa"]
 name: "Hirohito (Emperor Shōwa)"
 birth: "1901-04-29"
 death: "1989-01-07"

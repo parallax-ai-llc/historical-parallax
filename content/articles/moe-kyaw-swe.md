@@ -1,5 +1,6 @@
 ---
-id: "kyaw-swe-minister"
+id: "moe-kyaw-swe"
+aliases: ["kyaw-swe-minister"]
 name: "Kyaw Swe"
 birth: "1959-11-27"
 nationality: "Myanmar"

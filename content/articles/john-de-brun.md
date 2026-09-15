@@ -9,10 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Self-portrait_in_a_S
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Not a major enough figure. Skip."
 ---
-
-## Summary
-Not a major enough figure. Skip.
 
 ## Early Life
 John de Brun was born on 1960-01-01 in New Zealand / Netherlands. Details of early life shaped the path that would lead to a criminal career. [^1]

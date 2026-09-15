@@ -1,5 +1,6 @@
 ---
-id: "njoto"
+id: "nyoto"
+aliases: ["njoto"]
 name: "Njoto"
 birth: "1927-01-17"
 death: "1965-12-13"

@@ -1,5 +1,6 @@
 ---
-id: "lee-beom-seok"
+id: "lee-beom"
+aliases: ["lee-beom-seok"]
 name: "Lee Beom-seok"
 birth: "1900-10-20"
 death: "1972-05-11"

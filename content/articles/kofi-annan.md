@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kofi_Annan_-_W
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kofi_Annan"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — diplomat."
 ---
 
 ## Summary
-
-Placeholder — diplomat.
 
 Kofi Annan was a Ghanaian diplomat who spent most of his professional life in the United Nations and became the 7th Secretary‑General of the UN (1997–2006). He is widely associated with efforts to strengthen multilateral cooperation, modernize UN management, and advance global norms around peacekeeping, development, and human rights.
 

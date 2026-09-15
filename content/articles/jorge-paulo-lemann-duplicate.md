@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jorge_Paulo_Lemann_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1939 | See Jorge Paulo Lemann |
-
-
 
 [^1]: Wikipedia, "Jorge Paulo Lemann duplicate" - https://en.wikipedia.org/wiki/Jorge_Paulo_Lemann_duplicate
 
@@ -68,6 +63,3 @@ If you are maintaining a knowledge base or importing data:
 ## Additional references
 
 [^2]: Wikipedia, "Jorge Paulo Lemann" - https://en.wikipedia.org/wiki/Jorge_Paulo_Lemann
-
-
-## References

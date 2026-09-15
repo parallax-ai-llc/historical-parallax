@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jang_Ha-joon"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — economist/academic."
 ---
-
-## Summary
-
-Placeholder — economist/academic.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1963 | Born |
-
-
 
 [^1]: Wikipedia, "Jang Ha-joon" - https://en.wikipedia.org/wiki/Jang_Ha-joon
 
@@ -55,6 +50,3 @@ Placeholder — economist/academic.
 [^2]: Jang Ha-joon, *Kicking Away the Ladder* (2002).
 [^3]: Jang Ha-joon, *Bad Samaritans* (2007).
 [^4]: Jang Ha-joon, *23 Things They Don’t Tell You About Capitalism* (2010).
-
-
-## References

@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Josiah_Wedgwood_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1730 | See Josiah Wedgwood |
-
-
 
 [^1]: Wikipedia, "Josiah Wedgwood duplicate" - https://en.wikipedia.org/wiki/Josiah_Wedgwood_duplicate
 
@@ -56,6 +51,3 @@ Josiah Wedgwood was an English potter and entrepreneur who helped industrialize 
 
 - Josiah Wedgwood (primary entry)
 - Wedgwood (company / brand history)
-
-
-## References

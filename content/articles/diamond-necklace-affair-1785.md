@@ -9,7 +9,8 @@ outcome: "Destroyed the reputation of Queen Marie Antoinette; Paved the way for 
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Affaire_du_collier_de_la_reine.jpg/800px-Affaire_du_collier_de_la_reine.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Affair_of_the_Diamond_Necklace"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Overview
 

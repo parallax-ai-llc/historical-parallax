@@ -1,5 +1,6 @@
 ---
-id: "wladyslaw-gomulka"
+id: "wadysaw-gomuka"
+aliases: ["wladyslaw-gomulka"]
 name: "Władysław Gomułka"
 birth: "1905-02-06"
 death: "1982-09-01"

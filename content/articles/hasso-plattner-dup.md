@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hasso_Plattner_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1944 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Hasso Plattner dup" - https://en.wikipedia.org/wiki/Hasso_Plattner_dup
 
@@ -67,6 +62,3 @@ as a co-founder of **SAP SE**, a major enterprise software company.
 
 - Wikipedia: https://en.wikipedia.org/wiki/Hasso_Plattner
 - SAP company history pages (primary/secondary sources)
-
-
-## References

@@ -9,7 +9,8 @@ outcome: "Estimated $100 million stolen"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Antwerp_diamond_heist"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 The Antwerp diamond heist occurred over a weekend in February 2003, when thieves broke into the vault of the Antwerp Diamond Centre. They stole an estimated $100 million worth of diamonds, gold, and other jewelry. It was called the 'heist of the century.' Italian criminals were convicted in 2005.

@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hyun-Jin_Ryu"
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered as Ryu Hyun-jin."
 ---
-
-## Summary
-
-Already covered as Ryu Hyun-jin.
 
 ## Career Timeline
 

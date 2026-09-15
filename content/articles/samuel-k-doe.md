@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Samuel_Kanyon_Doe_-_
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Samuel_K._Doe"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

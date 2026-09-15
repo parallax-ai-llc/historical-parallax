@@ -9,10 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alain_Wertheimer_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-## Summary
 
-Duplicate.
+## Summary
 
 This article is intentionally minimal because it points to the primary entry for **Alain Wertheimer**. In datasets and knowledge bases, “duplicate” stubs are sometimes kept to preserve inbound links, IDs, or legacy slugs while consolidating biography content into a single canonical page.
 

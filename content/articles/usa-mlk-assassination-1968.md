@@ -1,5 +1,6 @@
 ---
-id: "martin-luther-king-assassination-1968"
+id: "usa-mlk-assassination-1968"
+aliases: ["martin-luther-king-assassination-1968"]
 name: "Martin Luther King Jr. Assassination (1968)"
 date: "1968-04-04"
 location: "Memphis, Tennessee, United States"

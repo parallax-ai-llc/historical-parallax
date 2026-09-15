@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Already covered as Cyanide Mohan."
 ---
-
-## Summary
-Already covered as Cyanide Mohan.
 
 ## Early Life
 Mohan Kumar was born on 1963-01-01 in India. Details of early life shaped the path that would lead to a criminal career. [^1]

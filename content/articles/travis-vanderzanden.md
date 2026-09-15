@@ -1,5 +1,6 @@
 ---
 id: "travis-vanderzanden"
+aliases: ["travis-vanderzanden-duplicate"]
 name: "Travis VanderZanden"
 birth: "1979-01-01"
 death: "Unknown"

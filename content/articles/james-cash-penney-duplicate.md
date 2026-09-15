@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Cash_Penney_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1875 | See James Cash Penney |
-
-
 
 [^1]: Wikipedia, "James Cash Penney duplicate" - https://en.wikipedia.org/wiki/James_Cash_Penney_duplicate
 
@@ -54,6 +49,3 @@ If you are cleaning or reconciling historical person records:
 ## Additional References
 
 [^2]: Wikipedia, "James Cash Penney" - https://en.wikipedia.org/wiki/James_Cash_Penney
-
-
-## References

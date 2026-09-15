@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Avicenna_Bust%2C_lef
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Avicenna"
 lastUpdated: "2026-02-26"
+editorialNote: "See Ibn Sina entry."
 ---
-
-## Summary
-
-See Ibn Sina entry.
 
 ## Career Timeline
 

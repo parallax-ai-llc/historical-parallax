@@ -1,5 +1,6 @@
 ---
-id: "ondur-gegen"
+id: "ndr-gegen"
+aliases: ["ondur-gegen"]
 name: "Öndür Gegen Zanabazar"
 birth: "1635-09-15"
 death: "1723-02-18"

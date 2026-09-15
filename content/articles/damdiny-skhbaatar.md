@@ -1,5 +1,6 @@
 ---
-id: "damdiny-sukhbaatar"
+id: "damdiny-skhbaatar"
+aliases: ["damdiny-sukhbaatar"]
 name: "Damdiny Sükhbaatar"
 birth: "1893-02-02"
 death: "1923-02-20"

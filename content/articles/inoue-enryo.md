@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Inoue_Enryo"
 lastUpdated: "2026-02-26"
+editorialNote: "Not a scientist; removing."
 ---
 
 ## Summary
-
-Not a scientist; removing.
 
 Inoue Enryō (井上 円了) is best known as a Meiji-era Japanese philosopher and educator who worked to popularize philosophy and promote rational inquiry in public life. He is often associated with efforts to distinguish philosophical reasoning from superstition and with the early institutionalization of philosophy education in modern Japan.
 
@@ -29,7 +28,6 @@ Inoue Enryō (井上 円了) is best known as a Meiji-era Japanese philosopher a
 - **Rationalism / enlightenment:** encouraging critical thinking and skepticism toward claims lacking evidence.
 - **Ethics and civic education:** philosophy as a foundation for moral formation and social cohesion.
 - **Religion and modernization:** navigating how Buddhist thought and modern philosophy could coexist in a rapidly changing society.
-
 
 ## Career Timeline
 

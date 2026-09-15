@@ -1,5 +1,6 @@
 ---
-id: "hyujeong-seosan-daesa"
+id: "hyungson-monk"
+aliases: ["hyujeong-seosan-daesa"]
 name: "Hyujeong (Seosan Daesa)"
 birth: "1520-01-01"
 death: "1604-02-08"

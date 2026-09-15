@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jack_Welch_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1935 | See Jack Welch |
-
-
 
 [^1]: Wikipedia, "Jack Welch duplicate" - https://en.wikipedia.org/wiki/Jack_Welch_duplicate
 
@@ -56,6 +51,3 @@ If you are building a dataset, a common approach is to:
 - Jack Welch (primary biography)
 - General Electric (corporate history)
 - Performance management
-
-
-## References

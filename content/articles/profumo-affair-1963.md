@@ -9,7 +9,8 @@ outcome: "Resignation of John Profumo; Fall of Macmillan's government; Illustrat
 image: "https://upload.wikimedia.org/wikipedia/en/9/94/Christine_Keeler.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Profumo_affair"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Overview
 

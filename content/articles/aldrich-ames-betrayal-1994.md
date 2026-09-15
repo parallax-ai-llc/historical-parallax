@@ -9,7 +9,8 @@ outcome: "Exposed dozens of US assets in USSR (10 executed); Paid $4.6 million b
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aldrich_ames.jpg/800px-Aldrich_ames.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aldrich_Ames"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Overview
 

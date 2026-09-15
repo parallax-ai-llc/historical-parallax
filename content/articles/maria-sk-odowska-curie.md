@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Maria_Sk%C5%82odowska-Curie"
 lastUpdated: "2026-02-26"
+editorialNote: "See earlier Marie Curie entry."
 ---
-
-## Summary
-
-See earlier Marie Curie entry.
 
 ## Career Timeline
 

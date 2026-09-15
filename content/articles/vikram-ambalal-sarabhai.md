@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Vikram_Ambalal_Sarabhai"
 lastUpdated: "2026-02-26"
+editorialNote: "See earlier Vikram Sarabhai entry."
 ---
-
-## Summary
-
-See earlier Vikram Sarabhai entry.
 
 ## Career Timeline
 

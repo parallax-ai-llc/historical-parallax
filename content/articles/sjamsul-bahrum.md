@@ -1,5 +1,6 @@
 ---
-id: "syamsul-bahrum"
+id: "sjamsul-bahrum"
+aliases: ["syamsul-bahrum"]
 name: "Syamsul Bahrum"
 nationality: "Indonesia"
 occupation: ["Government Official", "Urban Planner", "Development Strategic Analyst", "University Lecturer", "Politician"]

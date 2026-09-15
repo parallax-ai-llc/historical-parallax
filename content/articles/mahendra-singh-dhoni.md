@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mahendra_Singh_Dhoni"
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered as MS Dhoni."
 ---
-
-## Summary
-
-Already covered as MS Dhoni.
 
 ## Career Timeline
 

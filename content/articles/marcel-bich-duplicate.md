@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marcel_Bich_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1914 | See Marcel Bich |
-
-
 
 [^1]: Wikipedia, "Marcel Bich duplicate" - https://en.wikipedia.org/wiki/Marcel_Bich_duplicate
 
@@ -61,6 +56,3 @@ High-level, widely cited points about the canonical subject:
 - Encyclopedic biography entries (e.g., verified Wikipedia/Encyclopaedia sources)
 - Bic corporate history pages and archival interviews
 - Business history books covering postwar European consumer manufacturing
-
-
-## References

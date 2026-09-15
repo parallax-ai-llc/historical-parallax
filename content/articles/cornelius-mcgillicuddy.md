@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Connie_Mack_Portrait
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelius_McGillicuddy"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — sports figure."
 ---
-
-## Summary
-
-Placeholder — sports figure.
 
 ## Career Timeline
 

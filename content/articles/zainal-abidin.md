@@ -1,5 +1,6 @@
 ---
-id: "zainal-abidin-aceh"
+id: "zainal-abidin"
+aliases: ["zainal-abidin-aceh"]
 name: "Zainul Abidin of Aceh"
 birth: "c. 1550"
 death: "1579-10-05"

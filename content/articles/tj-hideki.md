@@ -1,5 +1,6 @@
 ---
-id: "tojo-hideki"
+id: "tj-hideki"
+aliases: ["tojo-hideki"]
 name: "Tōjō Hideki"
 birth: "1884-12-30"
 death: "1948-12-23"

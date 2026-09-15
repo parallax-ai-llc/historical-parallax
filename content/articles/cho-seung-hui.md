@@ -9,10 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/VT_April_16_memorial
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered as Seung-Hui Cho."
 ---
 
 ## Summary
-Already covered as Seung-Hui Cho.
 
 Cho Seung-hui (Korean: 조승희), also known as Seung-Hui Cho, was a South Korean-born U.S. resident who carried out the Virginia Tech shooting on April 16, 2007 in Blacksburg, Virginia, killing 32 people and injuring 17 others before dying by suicide. It remains among the deadliest mass shootings by a single perpetrator on a U.S. college campus.
 

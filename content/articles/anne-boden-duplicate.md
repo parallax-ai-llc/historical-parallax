@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Anne_Boden_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1960 | See Anne Boden |
-
-
 
 [^1]: Wikipedia, "Anne Boden duplicate" - https://en.wikipedia.org/wiki/Anne_Boden_duplicate
 
@@ -62,6 +57,3 @@ If you are maintaining the repository content, this entry is a candidate for one
 - Record type: duplicate placeholder
 - Intended use: prevents broken links during normalization
 - Source of truth: canonical Anne Boden entry + reliable secondary sources
-
-
-## References

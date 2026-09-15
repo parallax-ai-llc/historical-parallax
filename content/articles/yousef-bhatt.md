@@ -9,19 +9,13 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Yousef_Bhatt"
 lastUpdated: "2026-02-26"
+editorialNote: "Not enough verifiable information."
 ---
-
-## Summary
-
-Not enough verifiable information.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-
-
-
 
 [^1]: Wikipedia, "Yousef Bhatt" - https://en.wikipedia.org/wiki/Yousef_Bhatt
 
@@ -47,7 +41,3 @@ This entry is kept as a placeholder record with a minimal summary until verifiab
 ## References (expanded)
 
 [^2]: Wikipedia page-title check (no article under this exact title as of 2026-02-26): https://en.wikipedia.org/wiki/Yousef_Bhatt
-
-
-
-## References

@@ -1,5 +1,6 @@
 ---
-id: "pakubuwono-xii"
+id: "pakubono-xii"
+aliases: ["pakubuwono-xii"]
 name: "Pakubuwono XII"
 birth: "1925-04-14"
 death: "2004-06-11"

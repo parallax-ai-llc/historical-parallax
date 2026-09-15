@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nasiruddin_Tusi"
 lastUpdated: "2026-02-26"
+editorialNote: "See Nasir al-Din al-Tusi entry."
 ---
-
-## Summary
-
-See Nasir al-Din al-Tusi entry.
 
 ## Career Timeline
 

@@ -1,5 +1,6 @@
 ---
-id: "woncheuk"
+id: "uichuk"
+aliases: ["woncheuk"]
 name: "Woncheuk (Wonch'uk, 圓測)"
 birth: "613"
 death: "696"

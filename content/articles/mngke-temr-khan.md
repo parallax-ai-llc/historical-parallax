@@ -1,5 +1,6 @@
 ---
-id: "mongke-temur-khan"
+id: "mngke-temr-khan"
+aliases: ["mongke-temur-khan"]
 name: "Möngke Temür Khan"
 birth: "1245-01-01"
 death: "1280-12-31"

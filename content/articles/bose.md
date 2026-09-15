@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bose"
 lastUpdated: "2026-02-26"
+editorialNote: "See Satyendra Nath Bose entry."
 ---
-
-## Summary
-
-See Satyendra Nath Bose entry.
 
 ## Career Timeline
 
@@ -22,11 +19,7 @@ See Satyendra Nath Bose entry.
 | 1894 | Born |
 | 1974 | Died |
 
-
-
 [^1]: Wikipedia, "Bose" - https://en.wikipedia.org/wiki/Bose
-
-## Additional context
 
 ## What this page represents
 
@@ -54,6 +47,3 @@ See Satyendra Nath Bose entry.
 - Satyendra Nath Bose
 - Albert Einstein
 - Quantum statistics
-
-
-## References

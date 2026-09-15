@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Already covered as Lazcano."
 ---
-
-## Summary
-Already covered as Lazcano.
 
 ## Early Life
 El Lazca was born on 1974-12-25 in Mexico. Details of early life shaped the path that would lead to a criminal career. [^1]

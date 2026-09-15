@@ -9,7 +9,8 @@ outcome: "6 killed, over 1,000 injured"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/10/WTC_1993_ATF_Commons.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/1993_World_Trade_Center_bombing"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 On February 26, 1993, a truck bomb was detonated below the North Tower of the World Trade Center, killing 6 people and injuring over 1,000. The bombers intended to topple the tower. Ramzi Yousef was the mastermind. It was a precursor to the 9/11 attacks.

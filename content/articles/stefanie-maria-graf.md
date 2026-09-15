@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Stefanie_Maria_Graf"
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered."
 ---
 
 ## Summary
-
-Already covered.
 
 Stefanie Maria "Steffi" Graf is a German former professional tennis player widely regarded as one of the sport’s greatest champions. She is best known for her dominance from the mid-1980s through the 1990s, her powerful forehand, and exceptional footwork.
 

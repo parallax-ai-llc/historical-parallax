@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Covered as Robert Vesco."
 ---
-
-## Summary
-Covered as Robert Vesco.
 
 ## Early Life
 Fugitive Financier was born on 1935-12-04 in United States. Details of early life shaped the path that would lead to a criminal career. [^1]

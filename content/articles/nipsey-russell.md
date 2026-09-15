@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nipsey_Russell"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — not an entrepreneur."
 ---
-
-## Summary
-
-Placeholder — not an entrepreneur.
 
 ## Career Timeline
 
@@ -25,8 +22,6 @@ Placeholder — not an entrepreneur.
 | 1970s | Frequent television guest and panelist on popular game shows (notably *Match Game* and *Hollywood Squares*). |
 | 1978 | Portrayed the Tin Man in the film musical *The Wiz*. |
 | 2005 | Died (New York City, U.S.). |
-
-
 
 [^1]: Wikipedia, "Nipsey Russell" - https://en.wikipedia.org/wiki/Nipsey_Russell
 
@@ -56,6 +51,3 @@ Placeholder — not an entrepreneur.
 - Variety television (U.S.)
 - Game shows (U.S.)
 - Broadway musical theatre
-
-
-## References

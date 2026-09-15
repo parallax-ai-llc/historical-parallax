@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Macias_Nguema"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Macias Nguema (Francisco Macías Nguema) was the first president of Equatorial Guinea and one of the most repressive leaders in post-colonial Africa. His rule is widely associated with mass repression, the collapse of state institutions, and severe economic decline.
 

@@ -1,5 +1,6 @@
 ---
 id: "pony-ma"
+aliases: ["pony-ma-duplicate"]
 name: "Pony Ma"
 birth: "1971-10-29"
 nationality: "China"

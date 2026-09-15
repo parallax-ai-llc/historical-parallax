@@ -1,5 +1,6 @@
 ---
-id: "elizabeth-ii"
+id: "queen"
+aliases: ["elizabeth-ii"]
 name: "Queen Elizabeth II"
 birth: "1926-04-21"
 death: "2022-09-08"

@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rene_Favaloro"
 lastUpdated: "2026-02-26"
+editorialNote: "Already added."
 ---
 
 ## Summary
-
-Already added.
 
 René Gerónimo Favaloro was an Argentine surgeon best known for pioneering the use of the **saphenous vein** as a bypass graft in **coronary artery bypass surgery (CABG)**, a technique that became foundational to modern cardiac surgery. Beyond his technical contributions, he is frequently cited in Argentina for public advocacy around medical ethics, equitable access to care, and sustainable health systems.
 

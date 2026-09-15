@@ -1,5 +1,6 @@
 ---
-id: "na-seok-ju"
+id: "na-soe-bok"
+aliases: ["na-seok-ju"]
 name: "Na Seok-ju"
 birth: "1892-02-04"
 death: "1926-12-28"

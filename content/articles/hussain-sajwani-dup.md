@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hussain_Sajwani_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1953 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Hussain Sajwani dup" - https://en.wikipedia.org/wiki/Hussain_Sajwani_dup
 
@@ -49,6 +44,3 @@ The Wikipedia link in this file appears to point to a non-standard/duplicate slu
 - DAMAC Properties (real estate development brand)
 - DAMAC Group (parent group branding used in many profiles)
 - Dubai real estate market (sector context)
-
-
-## References

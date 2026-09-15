@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jagadish_Sheth"
 lastUpdated: "2026-02-26"
+editorialNote: "Not a natural scientist; removing."
 ---
-
-## Summary
-
-Not a natural scientist; removing.
 
 ## Career Timeline
 

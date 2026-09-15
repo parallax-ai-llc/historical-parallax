@@ -1,5 +1,6 @@
 ---
-id: "sao-nang-hearn-kham"
+id: "sao-kham-hkam"
+aliases: ["sao-nang-hearn-kham"]
 name: "Sao Nang Hearn Kham"
 birth: "1916-05-26"
 death: "2003-01-17"

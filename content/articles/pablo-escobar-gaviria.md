@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Pablo_Escobar_Mug_%2
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pablo_Escobar_Gaviria"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1993 | Killed |
-
-
 
 [^1]: Wikipedia, "Pablo Escobar Gaviria" - https://en.wikipedia.org/wiki/Pablo_Escobar_Gaviria
 
@@ -70,6 +65,3 @@ Duplicate consolidated.
 ## References (Additional)
 
 [^2]: Encyclopaedia Britannica, "Pablo Escobar" - https://www.britannica.com/biography/Pablo-Escobar
-
-
-## References

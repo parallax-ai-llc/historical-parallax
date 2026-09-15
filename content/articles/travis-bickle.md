@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Travis_Bickle"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — fictional character."
 ---
-
-## Summary
-
-Placeholder — fictional character.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1946 | Born |
-
-
 
 [^1]: Wikipedia, "Travis Bickle" - https://en.wikipedia.org/wiki/Travis_Bickle
 
@@ -51,6 +46,3 @@ Scholarly and critical discussion often treats Travis as a study in alienation, 
 ## Notes
 
 This article describes a fictional character; biographical fields (birth/death) are best understood as approximate or narrative placeholders rather than historical records.
-
-
-## References

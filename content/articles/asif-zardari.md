@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Asif_Ali_Zardari_-_2
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asif_Zardari"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

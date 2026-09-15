@@ -1,5 +1,6 @@
 ---
-id: "jfk-assassination-1963"
+id: "usa-jfk-assassination-1963"
+aliases: ["jfk-assassination-1963"]
 name: "JFK Assassination (1963)"
 date: "1963-11-22"
 location: "Dallas, Texas, United States"

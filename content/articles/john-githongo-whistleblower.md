@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Not a drug lord - wrong category. Skip."
 ---
-
-## Summary
-Not a drug lord - wrong category. Skip.
 
 ## Early Life
 John Githongo whistleblower was born on 1965-01-01 in Kenya. Details of early life shaped the path that would lead to a criminal career. [^1]

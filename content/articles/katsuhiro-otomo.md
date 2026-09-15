@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Katsuhiro_Otomo.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Katsuhiro_Otomo"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder to avoid overlap."
 ---
-
-## Summary
-
-Placeholder to avoid overlap.
 
 ## Career Timeline
 

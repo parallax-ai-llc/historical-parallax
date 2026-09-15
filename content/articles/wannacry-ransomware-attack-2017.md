@@ -9,7 +9,8 @@ outcome: "200,000 computers in 150 countries affected"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 The WannaCry ransomware attack on May 12, 2017, infected approximately 200,000 computers across 150 countries. It exploited a Windows vulnerability. The UK's National Health Service was severely affected. North Korea's Lazarus Group was blamed. A security researcher accidentally found a kill switch.

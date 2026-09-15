@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mussolini_mezz
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mussolini"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Benito Mussolini was the founder and leader of Italian Fascism and the Prime Minister (later dictator) of Italy from 1922 until his removal in 1943. His regime combined authoritarian rule, political repression, mass propaganda, and nationalist ambition, and it pursued imperial expansion abroad. Mussolini’s alliance with Nazi Germany and Italy’s entry into World War II contributed to the regime’s downfall, the German occupation of parts of Italy, and a violent end to his rule in 1945.
 

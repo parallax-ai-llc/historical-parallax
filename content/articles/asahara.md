@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Shoko_Asahara_201807
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Asahara"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

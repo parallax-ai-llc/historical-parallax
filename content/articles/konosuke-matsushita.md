@@ -1,5 +1,6 @@
 ---
 id: "konosuke-matsushita"
+aliases: ["matsushita-konosuke-duplicate"]
 name: "Konosuke Matsushita"
 birth: "1894-11-27"
 death: "1989-04-27"

@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/N._R._Narayana_Murthy_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1946 | See N. R. Narayana Murthy |
-
-
 
 [^1]: Wikipedia, "N. R. Narayana Murthy duplicate" - https://en.wikipedia.org/wiki/N._R._Narayana_Murthy_duplicate
 
@@ -52,6 +47,3 @@ Commonly cited milestones (verify against the canonical article/source before de
 
 - Keep this "duplicate" record only if the system requires it for historical reasons; otherwise, redirect/merge to the primary article.
 - Ensure dates, roles, and awards are sourced in the **References** section of the canonical page.
-
-
-## References

@@ -9,17 +9,13 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Makoto_Nagano"
 lastUpdated: "2026-02-26"
+editorialNote: "Not verifiable; removing."
 ---
-
-## Summary
-
-Not verifiable; removing.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-
 
 ## Identity Note
 

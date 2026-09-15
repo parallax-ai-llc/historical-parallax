@@ -1,5 +1,6 @@
 ---
-id: "luo-fuxing"
+id: "luo-fukang"
+aliases: ["luo-fuxing"]
 name: "Luo Fuxing"
 birth: "1886-02-24"
 death: "1914-03-03"

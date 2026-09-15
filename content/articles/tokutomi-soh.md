@@ -1,5 +1,6 @@
 ---
-id: "tokutomi-soho"
+id: "tokutomi-soh"
+aliases: ["tokutomi-soho"]
 name: "Tokutomi Sohō"
 birth: "1863-03-14"
 death: "1957-11-02"

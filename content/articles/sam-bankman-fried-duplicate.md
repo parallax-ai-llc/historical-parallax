@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sam_Bankman-Fried_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1992 | See Sam Bankman-Fried |
-
-
 
 [^1]: Wikipedia, "Sam Bankman-Fried duplicate" - https://en.wikipedia.org/wiki/Sam_Bankman-Fried_duplicate
 
@@ -68,7 +63,3 @@ If your system supports identity resolution, typical remediation steps are:
 ## Additional References (canonical context)
 
 [^2]: Wikipedia, "Sam Bankman-Fried" - https://en.wikipedia.org/wiki/Sam_Bankman-Fried
-
-
-
-## References

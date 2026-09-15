@@ -1,5 +1,6 @@
 ---
-id: "ariq-boke"
+id: "ariq-bke"
+aliases: ["ariq-boke"]
 name: "Ariq Böke"
 birth: "1219"
 death: "1266"

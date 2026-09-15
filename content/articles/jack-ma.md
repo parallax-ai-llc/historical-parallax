@@ -1,5 +1,6 @@
 ---
 id: "jack-ma"
+aliases: ["jack-ma-dup2","jack-ma-dup3","jack-ma-duplicate"]
 name: "Jack Ma"
 birth: "1964-09-10"
 nationality: "China"

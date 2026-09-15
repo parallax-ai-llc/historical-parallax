@@ -1,5 +1,6 @@
 ---
-id: "pakubuwono-ii"
+id: "pakubono-ii"
+aliases: ["pakubuwono-ii"]
 name: "Pakubuwono II"
 birth: "1711-12-08"
 death: "1749-12-20"

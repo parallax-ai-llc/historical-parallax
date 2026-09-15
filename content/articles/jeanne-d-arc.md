@@ -9,10 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Joan_of_Arc_miniatur
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jeanne_d'Arc"
 lastUpdated: "2026-02-26"
+editorialNote: "Already in the database as Joan of Arc."
 ---
-## Summary
 
-Already in the database as Joan of Arc.
+## Summary
 
 Jeanne d'Arc (English: Joan of Arc) was a French peasant-born visionary and military leader whose claims of divine guidance helped rally French resistance during the later phase of the Hundred Years' War. She is closely associated with the lifting of the Siege of Orléans (1429) and the campaign that enabled the coronation of Charles VII at Reims.
 

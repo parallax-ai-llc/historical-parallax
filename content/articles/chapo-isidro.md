@@ -9,17 +9,13 @@ image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Fausto_Isidro_Meza-F
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chapo_Isidro"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-
 
 ## Background and Role
 
@@ -49,8 +45,6 @@ Duplicate consolidated.
 - **2009–2010**: Reporting describes a shift in alliances and intensified conflict following leadership changes and major confrontations.[^1]
 - **2025**: Public reporting notes inclusion on prominent U.S. fugitive lists (time-sensitive status).[^1]
 
-
-
 [^1]: Wikipedia, "Chapo Isidro" - https://en.wikipedia.org/wiki/Chapo_Isidro
 
 ## Organization and Aliases (High-Level)
@@ -75,6 +69,3 @@ Duplicate consolidated.
 
 - Many popular summaries compress complex networks into a single hierarchy; treat that as a simplification.
 - Reward amounts, wanted-list placement, and legal status are **time-sensitive**; verify with the latest official notice when accuracy is required.[^1]
-
-
-## References

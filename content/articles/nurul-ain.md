@@ -1,5 +1,6 @@
 ---
-id: "nurul-alam-naqiatuddin-syah"
+id: "nurul-ain"
+aliases: ["nurul-alam-naqiatuddin-syah"]
 name: "Nurul Alam Naqiatuddin Syah"
 birth: "Unknown"
 death: "1678-01-23"

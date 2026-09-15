@@ -1,5 +1,6 @@
 ---
 id: "james-ratcliffe"
+aliases: ["jim-ratcliffe-duplicate"]
 name: "James Ratcliffe"
 birth: "1952-10-18"
 death: "Unknown"
@@ -11,21 +12,48 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## Summary
-
-James Ratcliffe is the founder and chairman of INEOS, one of the world's largest chemical companies. He built INEOS through a series of acquisitions of chemical plants from major corporations, creating a private empire with over $60 billion in annual revenue. He is the richest person in the United Kingdom. In 2024, he acquired a 25% stake in Manchester United. His frugal management style contrasts with the complexity of his chemical empire.
-
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-| 1952 | Born in Failsworth, Lancashire, England |
-| 1998 | Founded INEOS |
-| 2005 | Acquired BP's Innovene chemicals division for $9 billion |
-| 2011 | Moved INEOS headquarters to Switzerland (later returned to UK) |
-| 2020 | Launched Grenadier 4x4 vehicle |
-| 2024 | Acquired 25% stake in Manchester United |
+| 1952 | See James Ratcliffe |
 
-## References
+[^1]: Wikipedia, "Jim Ratcliffe duplicate" - https://en.wikipedia.org/wiki/Jim_Ratcliffe_duplicate
 
-[^1]: Wikipedia, "James Ratcliffe" - https://en.wikipedia.org/wiki/James_Ratcliffe
+## Context
+
+This page exists as a **duplicate/alias record** for Jim Ratcliffe and is intentionally minimal. In datasets and knowledge bases, duplicates commonly appear when:
+
+- a name is entered twice with slightly different spelling or capitalization
+- an import process treats an external identifier as a new entity
+- a disambiguation/redirect page is misinterpreted as a standalone biography
+- the same person is referenced under a short name vs. full legal name
+
+## Canonical entity (Jim Ratcliffe)
+
+When consolidating records, the canonical profile is typically the well-known British entrepreneur **Sir Jim Ratcliffe** (born 1952), associated with the chemicals company INEOS.
+
+High-level facts (for orientation only):
+
+- **Born:** 1952 (United Kingdom)
+- **Nationality:** British
+- **Known for:** Founding and leading INEOS (chemicals)
+- **Public profile:** Frequently covered in business press due to INEOS and major investments
+
+## Data quality notes
+
+- The `death` field is set to "Unknown" to avoid asserting anything unverified.
+- The `image` field is left blank because this duplicate record should not introduce new assets.
+- The timeline entry "See James Ratcliffe" indicates this record should be merged into the primary Jim Ratcliffe entry.
+
+## Recommended handling
+
+If you maintain a clean person index, treat this file as:
+
+- a redirect/alias to the canonical Jim Ratcliffe article, or
+- a merge candidate whose only purpose is to preserve a historical identifier (`jim-ratcliffe-duplicate`).
+
+## See also
+
+- Jim Ratcliffe (canonical biography entry)
+- INEOS (company)

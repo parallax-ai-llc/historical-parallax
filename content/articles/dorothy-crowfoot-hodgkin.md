@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dorothy_Crowfoot_Hodgkin"
 lastUpdated: "2026-02-26"
+editorialNote: "Already added as Dorothy Hodgkin."
 ---
-
-## Summary
-
-Already added as Dorothy Hodgkin.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ Already added as Dorothy Hodgkin.
 |------|-------|
 | 1910 | Born |
 | 1994 | Died |
-
-
 
 [^1]: Wikipedia, "Dorothy Crowfoot Hodgkin" - https://en.wikipedia.org/wiki/Dorothy_Crowfoot_Hodgkin
 
@@ -49,6 +44,3 @@ Already added as Dorothy Hodgkin.
 ### Public Life
 
 - Beyond research, Hodgkin was involved in scientific education and international scientific cooperation, and is remembered for combining high-impact scholarship with public engagement.
-
-
-## References

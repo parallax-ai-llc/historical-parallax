@@ -1,5 +1,6 @@
 ---
-id: "canh-thieu"
+id: "canh-tieu"
+aliases: ["canh-thieu"]
 name: "Cảnh Thịnh"
 birth: "1783-01-01"
 death: "1802-07-20"

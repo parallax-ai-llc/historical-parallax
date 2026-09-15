@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dara_Khosrowshahi_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1969 | See Dara Khosrowshahi |
-
-
 
 [^1]: Wikipedia, "Dara Khosrowshahi duplicate" - https://en.wikipedia.org/wiki/Dara_Khosrowshahi_duplicate
 
@@ -59,6 +54,3 @@ This article name indicates a duplicate/placeholder entry. The following high-le
 ## Additional References
 
 [^2]: Wikipedia, "Dara Khosrowshahi" - https://en.wikipedia.org/wiki/Dara_Khosrowshahi
-
-
-## References

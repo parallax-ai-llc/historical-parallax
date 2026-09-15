@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Use Mohammed Yusuf."
 ---
-
-## Summary
-Use Mohammed Yusuf.
 
 ## Early Life
 Boko Haram Leadership was born on 1969-01-01 in Nigeria. Details of early life shaped the path that would lead to a criminal career. [^1]

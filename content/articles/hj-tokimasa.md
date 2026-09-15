@@ -1,5 +1,6 @@
 ---
-id: "hojo-tokimasa"
+id: "hj-tokimasa"
+aliases: ["hojo-tokimasa"]
 name: "Hōjō Tokimasa"
 birth: "1138-01-01"
 death: "1215-02-06"

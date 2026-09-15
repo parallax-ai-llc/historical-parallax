@@ -1,5 +1,6 @@
 ---
-id: "amir-sjarifuddin"
+id: "mohammad-sjarifuddin"
+aliases: ["amir-sjarifuddin"]
 name: "Amir Sjarifuddin"
 birth: "1907-04-27"
 death: "1948-12-19"

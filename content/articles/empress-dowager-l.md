@@ -1,5 +1,6 @@
 ---
-id: "empress-dowager-lu"
+id: "empress-dowager-l"
+aliases: ["empress-dowager-lu"]
 name: "Empress Dowager Lü"
 birth: "-241-01-01"
 death: "-180-08-18"

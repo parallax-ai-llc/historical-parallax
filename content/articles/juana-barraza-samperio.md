@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Juana_Barraza_Samperio"
 lastUpdated: "2026-02-26"
+editorialNote: "See Juana Barraza."
 ---
 
 ## Summary
-
-See Juana Barraza.
 
 Juana Dayanara Barraza Samperio is a Mexican **convicted serial killer** and former professional wrestler, widely known by the nickname **"La Mataviejitas"** ("the old lady killer"). She was convicted in connection with the murders of **elderly women** in Mexico City and received an exceptionally long sentence reported as **759 years**.
 
@@ -24,8 +23,6 @@ Juana Dayanara Barraza Samperio is a Mexican **convicted serial killer** and for
 | 1998 | Began killing |
 | 2006 | Arrested |
 | 2008 | 759 years |
-
-
 
 [^1]: Wikipedia, "Juana Barraza Samperio" - https://en.wikipedia.org/wiki/Juana_Barraza_Samperio
 
@@ -68,6 +65,3 @@ During the investigation, some reporting focused on speculative suspect profiles
 ## Sentencing in practice
 
 Although the sentence is often reported as **759 years**, discussions of sentencing practice note that multi-century totals can function as a **symbolic aggregate** for multiple counts. Actual time served depends on statutory limits, sentencing rules, and later legal developments.
-
-
-## References

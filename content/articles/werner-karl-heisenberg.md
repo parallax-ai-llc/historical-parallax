@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Werner_Heisenberg_Po
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Werner_Karl_Heisenberg"
 lastUpdated: "2026-02-26"
+editorialNote: "See earlier Heisenberg entry."
 ---
-
-## Summary
-
-See earlier Heisenberg entry.
 
 ## Career Timeline
 

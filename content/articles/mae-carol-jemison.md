@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mae_Carol_Jemison"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ Duplicate.
 |------|-------|
 | 1956 | Born |
 | 1992 | Flew |
-
-
 
 [^1]: Wikipedia, "Mae Carol Jemison" - https://en.wikipedia.org/wiki/Mae_Carol_Jemison
 
@@ -53,6 +48,3 @@ These notes add high-level, factual context based on widely available public sum
 ## References (additional)
 
 - The linked Wikipedia page in the frontmatter is a starting point and typically aggregates citations to other sources.
-
-
-## References

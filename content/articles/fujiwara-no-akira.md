@@ -1,5 +1,6 @@
 ---
-id: "fujiwara-akira"
+id: "fujiwara-no-akira"
+aliases: ["fujiwara-akira"]
 name: "Fujiwara Akira"
 birth: "1922-07-02"
 death: "2003-02-26"

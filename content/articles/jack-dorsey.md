@@ -1,5 +1,6 @@
 ---
 id: "jack-dorsey"
+aliases: ["jack-dorsey-duplicate"]
 name: "Jack Dorsey"
 birth: "1976-11-19"
 nationality: "United States"

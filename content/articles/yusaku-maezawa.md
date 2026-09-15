@@ -1,5 +1,6 @@
 ---
 id: "yusaku-maezawa"
+aliases: ["maezawa-duplicate"]
 name: "Yusaku Maezawa"
 birth: "1975-11-22"
 death: "Unknown"
@@ -11,22 +12,42 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## Summary
-
-Yusaku Maezawa is a Japanese billionaire who founded Zozotown, Japan's largest online fashion retailer. He became globally known for purchasing a Jean-Michel Basquiat painting for $110.5 million and for booking the first civilian lunar mission on SpaceX's Starship. He founded Start Today (now ZOZO) and built it into Japan's dominant fashion e-commerce platform. His flamboyant lifestyle and art collecting contrast with typically reserved Japanese business culture.
-
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-| 1975 | Born in Kamagaya, Chiba, Japan |
-| 1998 | Founded Start Today (mail-order fashion) |
-| 2004 | Launched Zozotown online fashion mall |
-| 2007 | ZOZO went public on Tokyo Stock Exchange |
-| 2017 | Purchased Basquiat painting for $110.5 million |
-| 2018 | Announced booking for SpaceX lunar mission |
-| 2019 | Sold ZOZO to Yahoo Japan for $3.7 billion |
+| 1975 | Duplicate |
 
-## References
+[^1]: Wikipedia, "Maezawa duplicate" - https://en.wikipedia.org/wiki/Maezawa_duplicate
 
-[^1]: Wikipedia, "Yusaku Maezawa" - https://en.wikipedia.org/wiki/Yusaku_Maezawa
+## Notes on data quality
+
+- This entry is labeled as a duplicate and currently contains placeholder text ("Duplicate.").
+- The referenced Wikipedia slug ("Maezawa_duplicate") may not correspond to a real biography page; it could be an internal/test artifact or a mistaken link.
+- Several fields are incomplete or unknown (e.g., death date, image).
+
+## Disambiguation and verification checklist
+
+When resolving this record into a real person profile, verify:
+
+1. **Canonical name**: confirm the person’s full legal/commonly used name and preferred romanization.
+2. **Identity match**: cross-check birth date (1975-11-22) against reliable sources.
+3. **Nationality and occupation**: confirm primary public roles (e.g., entrepreneur) with citations.
+4. **Primary sources**: prefer authoritative references (official site, major publications, verified database entries).
+5. **Wikipedia validity**: if a Wikipedia page exists, ensure the URL resolves and the page is about the same individual.
+
+## Suggested remediation (non-destructive)
+
+- Keep this document as a marker for a duplicate until the canonical target is identified.
+- Once confirmed, add a short paragraph describing **what** it duplicates (e.g., the correct article id/path) and why.
+- If the project supports redirects or aliases, map this id to the canonical article instead of expanding biographical claims here.
+
+## Minimal timeline guidance
+
+If and only if identity is verified, expand the timeline with high-level milestones such as:
+
+- founding/leadership roles (company, year)
+- notable projects or public activities (year)
+- major awards or recognitions (year)
+
+(Do not add specific claims without sources.)

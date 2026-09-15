@@ -1,5 +1,6 @@
 ---
 id: "reed-hastings"
+aliases: ["reed-hastings-duplicate"]
 name: "Reed Hastings"
 birth: "1960-10-08"
 death: null

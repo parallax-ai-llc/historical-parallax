@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Saddam_Hussein_1979.
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saddam"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Saddam Hussein (1937–2006) was an Iraqi Ba'athist political leader who became president of Iraq in 1979 and ruled until he was overthrown in 2003. His government built a highly centralized, security-state regime and pursued ambitious modernization projects funded by oil revenue, while also carrying out systematic repression, political violence, and mass human-rights abuses. Saddam initiated major regional conflicts—most notably the Iran–Iraq War (1980–1988) and the 1990 invasion of Kuwait—that shaped Iraq’s domestic trajectory and the Middle East’s security order for decades.
 

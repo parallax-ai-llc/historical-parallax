@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/BTS_management_duplicate_Bang_Si-hyuk"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1972 | Duplicate |
-
-
 
 [^1]: Wikipedia, "BTS management duplicate Bang Si-hyuk" - https://en.wikipedia.org/wiki/BTS_management_duplicate_Bang_Si-hyuk
 
@@ -59,6 +54,3 @@ This duplicate record can remain as a brief explanatory stub to reduce confusion
 [^3]: Wikipedia, "HYBE Corporation" - https://en.wikipedia.org/wiki/HYBE_Corporation
 [^4]: Wikipedia, "Big Hit Music" - https://en.wikipedia.org/wiki/Big_Hit_Music
 [^5]: Wikipedia, "BTS" - https://en.wikipedia.org/wiki/BTS
-
-
-## References

@@ -1,5 +1,6 @@
 ---
-id: "osugi-sakae"
+id: "sugi-sakae"
+aliases: ["osugi-sakae"]
 name: "Ōsugi Sakae"
 birth: "1885-01-17"
 death: "1923-09-16"

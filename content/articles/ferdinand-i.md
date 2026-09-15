@@ -1,5 +1,6 @@
 ---
-id: "ferdinand-i-austria"
+id: "ferdinand-i"
+aliases: ["ferdinand-i-austria"]
 name: "Ferdinand I of Austria"
 birth: "1793-04-19"
 death: "1875-06-29"

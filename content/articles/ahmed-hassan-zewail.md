@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ahmed_Zewail_HD2009_
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ahmed_Hassan_Zewail"
 lastUpdated: "2026-02-26"
+editorialNote: "Already added as Ahmed Zewail."
 ---
-
-## Summary
-
-Already added as Ahmed Zewail.
 
 ## Career Timeline
 

@@ -1,5 +1,6 @@
 ---
-id: "rajah-tupas"
+id: "tupas"
+aliases: ["rajah-tupas"]
 name: "Rajah Tupas"
 birth: "1497-01-01"
 death: "1568-03-21"

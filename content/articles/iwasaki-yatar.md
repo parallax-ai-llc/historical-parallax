@@ -1,5 +1,6 @@
 ---
-id: "iwasaki-yataro"
+id: "iwasaki-yatar"
+aliases: ["iwasaki-yataro"]
 name: "Iwasaki Yatarō"
 birth: "1835-01-09"
 death: "1885-02-07"

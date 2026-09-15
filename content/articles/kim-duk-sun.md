@@ -1,5 +1,6 @@
 ---
-id: "kim-soon-duk"
+id: "kim-duk-sun"
+aliases: ["kim-soon-duk"]
 name: "Kim Soon-duk"
 birth: "1921"
 death: "2004-06-30"

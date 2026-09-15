@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/5/53/TD_Lee.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Tsung-Dao"
 lastUpdated: "2026-02-26"
+editorialNote: "See earlier entry."
 ---
 
 ## Summary
-
-See earlier entry.
 
 Lee Tsung-Dao (often cited as T. D. Lee) was a Chinese-American physicist best known for foundational work in particle physics, including the theoretical proposal—together with Chen-Ning Yang—that **parity symmetry is not conserved** in certain weak interactions.
 

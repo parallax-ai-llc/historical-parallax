@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Booking_photo_of_Joa
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Chapo"
 lastUpdated: "2026-02-26"
+editorialNote: "See Joaquin Guzman."
 ---
-
-## Summary
-
-See Joaquin Guzman.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ See Joaquin Guzman.
 |------|-------|
 | 1989 | Led Sinaloa Cartel |
 | 2019 | Sentenced |
-
-
 
 [^1]: Wikipedia, "El Chapo" - https://en.wikipedia.org/wiki/El_Chapo
 
@@ -70,6 +65,3 @@ For a more evidence-grounded treatment, typical primary sources include:
 ## References (Extended)
 
 - [^1] offers a consolidated timeline and link-outs; detailed claims should be corroborated using court records and authoritative reporting.
-
-
-## References

@@ -9,19 +9,13 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Marcos"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-
-
-
 
 [^1]: Wikipedia, "Marcos" - https://en.wikipedia.org/wiki/Marcos
 
@@ -69,6 +63,3 @@ Duplicate consolidated.
 
 [^2]: Encyclopaedia Britannica, "Ferdinand Marcos" - https://www.britannica.com/biography/Ferdinand-Marcos
 [^3]: Philippines official and archival collections are commonly cited in secondary histories; see Wikipedia reference for a starting bibliography.
-
-
-## References

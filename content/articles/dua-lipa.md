@@ -1,4 +1,3 @@
-```markdown
 ---
 name: "Dua Lipa"
 birth: "1995-08-22"
@@ -66,4 +65,3 @@ Her Albanian heritage has made her a prominent symbol of pride for the Albanian 
 | Source | Link |
 |--------|------|
 | Wikipedia | https://en.wikipedia.org/wiki/Dua_Lipa |
-```

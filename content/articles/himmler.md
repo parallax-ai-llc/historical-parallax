@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Himmler"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
@@ -46,8 +43,6 @@ Duplicate consolidated.
 - Historically, Himmler is treated as one of the most powerful figures in the Nazi regime, notable for building an integrated security state that combined ideology, policing, and paramilitary power.
 - His authority was organizational as much as political: he created durable bureaucratic structures that carried out terror and genocide at scale.
 
-
-
 [^1]: Wikipedia, "Himmler" - https://en.wikipedia.org/wiki/Himmler
 
 ## Additional Context (high-level)
@@ -61,6 +56,3 @@ Duplicate consolidated.
 
 - As the Third Reich collapsed, internal rivalries intensified and late-war maneuvering included attempts by some leaders to secure postwar survival.
 - Himmler’s suicide after capture is commonly cited as an example of senior Nazi leaders avoiding legal accountability at the moment of defeat.
-
-
-## References

@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Baby_Doc_%28centr%C3
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Baby_Doc"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

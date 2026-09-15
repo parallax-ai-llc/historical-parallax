@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tobi_Lutke_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1981 | See Tobi Lutke |
-
-
 
 [^1]: Wikipedia, "Tobi Lutke duplicate" - https://en.wikipedia.org/wiki/Tobi_Lutke_duplicate
 
@@ -50,6 +45,3 @@ Duplicate or near-empty articles are common in large-scale knowledge bases and c
 - Shopify (company)
 - E-commerce platforms
 - Canadian technology companies
-
-
-## References

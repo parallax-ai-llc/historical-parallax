@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/GV_Prakash_Kumar"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — entertainment."
 ---
 
 ## Summary
-
-Placeholder — entertainment.
 
 G. V. Prakash Kumar (born 13 June 1987) is an Indian composer, playback singer, actor, and film producer who works mainly in Tamil cinema.[^1]
 

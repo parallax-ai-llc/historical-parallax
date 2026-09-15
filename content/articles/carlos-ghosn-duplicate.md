@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Carlos_Ghosn_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1954 | See Carlos Ghosn |
-
-
 
 [^1]: Wikipedia, "Carlos Ghosn duplicate" - https://en.wikipedia.org/wiki/Carlos_Ghosn_duplicate
 
@@ -56,6 +51,3 @@ Carlos Ghosn (born 1954-03-09) is a Brazilian-Lebanese-French business executive
 ## Additional References
 
 [^2]: Wikipedia, "Carlos Ghosn" - https://en.wikipedia.org/wiki/Carlos_Ghosn
-
-
-## References

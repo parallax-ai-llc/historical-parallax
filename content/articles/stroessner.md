@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Stroessner"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 This article concerns Alfredo Stroessner, a Paraguayan military officer who ruled Paraguay as president for decades following a 1954 coup, leading an authoritarian regime closely associated with the Colorado Party.
 

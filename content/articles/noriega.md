@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Noriega"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 2017 | Died |
-
-
 
 [^1]: Wikipedia, "Noriega" - https://en.wikipedia.org/wiki/Noriega
 
@@ -83,7 +78,3 @@ Duplicate consolidated.
 ## Further Reading
 
 - See the Wikipedia article for a starting bibliography and links to major reporting on Operation Just Cause and Noriega’s prosecutions.
-
-
-
-## References

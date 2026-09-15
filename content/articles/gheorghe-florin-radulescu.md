@@ -9,16 +9,13 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
+editorialNote: "Not sufficiently notable. Skip."
 ---
-
-## Summary
-Not sufficiently notable. Skip.
 
 ## Career Timeline
 | Year | Event |
 |------|-------|
 | 1965 | Born |
-
 
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
@@ -62,6 +59,3 @@ Romanian names may be transliterated inconsistently (diacritics omitted, variabl
 - Europol, Serious and Organised Crime Threat Assessment (SOCTA)
 - UNODC resources on organized crime and trafficking
 - National prosecutor/law-enforcement public communications (Romania and relevant EU states)
-
-
-## References

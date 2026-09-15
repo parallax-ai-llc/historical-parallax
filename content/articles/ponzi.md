@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ponzi"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Charles Ponzi was an Italian-born con artist active in the United States and Canada in the early 20th century. He is most closely associated with the “Ponzi scheme,” a fraud in which returns to earlier investors are paid using funds from later investors rather than from legitimate profit.
 

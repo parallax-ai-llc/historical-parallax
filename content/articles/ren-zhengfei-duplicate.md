@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ren_Zhengfei_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1944 | See Ren Zhengfei |
-
-
 
 [^1]: Wikipedia, "Ren Zhengfei duplicate" - https://en.wikipedia.org/wiki/Ren_Zhengfei_duplicate
 
@@ -72,6 +67,3 @@ The linked Wikipedia page in the frontmatter suggests this is not a standard bio
 
 [^2]: Wikipedia, "Ren Zhengfei" - https://en.wikipedia.org/wiki/Ren_Zhengfei
 [^3]: Wikipedia, "Huawei" - https://en.wikipedia.org/wiki/Huawei
-
-
-## References

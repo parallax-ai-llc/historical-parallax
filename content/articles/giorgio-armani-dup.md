@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Giorgio_Armani_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1934 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Giorgio Armani dup" - https://en.wikipedia.org/wiki/Giorgio_Armani_dup
 
@@ -51,6 +46,3 @@ Duplicate.
 ## Additional References
 
 [^2]: Wikipedia, "Giorgio Armani" - https://en.wikipedia.org/wiki/Giorgio_Armani
-
-
-## References

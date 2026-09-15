@@ -9,19 +9,13 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/El_Mencho_San_Franci
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/El_Mencho"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-
-
-
 
 [^1]: Wikipedia, "El Mencho" - https://en.wikipedia.org/wiki/El_Mencho
 
@@ -57,6 +51,3 @@ Duplicate consolidated.
 ## Notes on Sources
 
 - The Wikipedia page linked below provides a starting point and collects citations to secondary reporting; readers should consult primary court documents and official statements for legal precision where available.[^1]
-
-
-## References

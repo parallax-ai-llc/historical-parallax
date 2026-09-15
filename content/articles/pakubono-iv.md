@@ -1,5 +1,6 @@
 ---
-id: "pakubuwono-iv"
+id: "pakubono-iv"
+aliases: ["pakubuwono-iv"]
 name: "Pakubuwono IV"
 birth: "1768-09-02"
 death: "1820-12-27"

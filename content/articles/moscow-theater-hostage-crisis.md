@@ -1,8 +1,4 @@
 ---
-lastUpdated: "2026-02-26"
----
-
----
 id: "moscow-theater-hostage-crisis"
 name: "Moscow Theater Hostage Crisis"
 birth: "2002-10-23"

@@ -1,5 +1,6 @@
 ---
-id: "kim-gu"
+id: "baek-beom-lee"
+aliases: ["kim-gu"]
 name: "Kim Gu"
 birth: "1876-08-29"
 death: "1949-06-26"

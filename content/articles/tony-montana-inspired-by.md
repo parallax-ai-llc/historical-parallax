@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Fictional character. Skip."
 ---
-
-## Summary
-Fictional character. Skip.
 
 ## Early Life
 Tony Montana inspired by was born on 1960-01-01 in Fictional. Details of early life shaped the path that would lead to a criminal career. [^1]

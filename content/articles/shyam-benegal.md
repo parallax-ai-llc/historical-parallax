@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Shyam_Benegal.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shyam_Benegal"
 lastUpdated: "2026-02-26"
+editorialNote: "Not a scientist; removing."
 ---
-
-## Summary
-
-Not a scientist; removing.
 
 ## Career Timeline
 

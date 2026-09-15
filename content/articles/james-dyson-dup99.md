@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Dyson_dup99"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1947 | Duplicate |
-
-
 
 [^1]: Wikipedia, "James Dyson dup99" - https://en.wikipedia.org/wiki/James_Dyson_dup99
 
@@ -64,6 +59,3 @@ Duplicate.
 ## References (Additional)
 
 - Wikipedia: James Dyson — https://en.wikipedia.org/wiki/James_Dyson
-
-
-## References

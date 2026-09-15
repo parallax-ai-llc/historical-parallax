@@ -1,5 +1,6 @@
 ---
-id: "naw-knyaw-paw"
+id: "karen-paw-moe"
+aliases: ["naw-knyaw-paw"]
 name: "Naw K'nyaw Paw"
 birth: "1980"
 nationality: "Myanmar"

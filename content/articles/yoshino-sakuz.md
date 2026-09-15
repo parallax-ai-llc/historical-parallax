@@ -1,5 +1,6 @@
 ---
-id: "yoshino-sakuzo"
+id: "yoshino-sakuz"
+aliases: ["yoshino-sakuzo"]
 name: "Yoshino Sakuzō"
 birth: "1878-01-29"
 death: "1933-03-18"

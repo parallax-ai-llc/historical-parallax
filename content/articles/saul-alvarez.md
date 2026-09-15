@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Sa%C3%BAl_%C3%81lvar
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Saul_Alvarez"
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered as Canelo Álvarez."
 ---
-
-## Summary
-
-Already covered as Canelo Álvarez.
 
 ## Career Timeline
 
@@ -38,8 +35,6 @@ Saúl "Canelo" Álvarez is widely known by his nickname and accent marks in Span
 
 Open sources frequently describe Álvarez as a counterpuncher with strong body work, durable defense, and high ring IQ. Commentary also highlights his long tenure at elite level and willingness to face a wide range of top opponents.
 
-
-
 [^1]: Wikipedia, "Saul Alvarez" - https://en.wikipedia.org/wiki/Saul_Alvarez
 [^2]: Wikipedia, "Canelo Álvarez" (canonical name/biography and record summary) — https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez
 
@@ -50,6 +45,3 @@ Open sources frequently describe Álvarez as a counterpuncher with strong body w
 ## Attribution note
 
 This stub is intended for alternate spelling/searchability. For detailed fight-by-fight coverage and title chronology, rely on the canonical Canelo Álvarez article and the sources linked above.
-
-
-## References

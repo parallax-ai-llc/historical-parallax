@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Zodiac"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 The "Zodiac" is the name used by an unidentified person who claimed responsibility for a series of attacks in Northern California in the late 1960s. The case became widely known through communications sent to newspapers, including ciphers and letters, and it remains officially unsolved.
 

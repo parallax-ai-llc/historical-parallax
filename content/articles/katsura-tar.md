@@ -1,5 +1,6 @@
 ---
-id: "katsura-taro"
+id: "katsura-tar"
+aliases: ["katsura-taro"]
 name: "Katsura Tarō"
 birth: "1848-01-04"
 death: "1913-10-10"

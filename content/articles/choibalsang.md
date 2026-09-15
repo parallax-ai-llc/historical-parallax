@@ -1,5 +1,6 @@
 ---
-id: "choibalsan"
+id: "choibalsang"
+aliases: ["choibalsan"]
 name: "Khorloogiin Choibalsan"
 birth: "1895-02-08"
 death: "1952-01-26"

@@ -1,5 +1,6 @@
 ---
-id: "im-sa-hong"
+id: "im-sa-hyeon"
+aliases: ["im-sa-hong"]
 name: "Im Sa-hong"
 birth: "1445-01-01"
 death: "1506-09-02"

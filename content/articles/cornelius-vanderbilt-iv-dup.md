@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_IV_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1898 | See Cornelius Vanderbilt IV |
-
-
 
 [^1]: Wikipedia, "Cornelius Vanderbilt IV dup" - https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_IV_dup
 
@@ -60,6 +55,3 @@ Wikipedia link for verification.
 
 - Cornelius Vanderbilt IV (canonical entry)
 - Vanderbilt family (context for the family name and notable relatives)
-
-
-## References

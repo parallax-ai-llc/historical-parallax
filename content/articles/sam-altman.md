@@ -1,5 +1,6 @@
 ---
 id: "sam-altman"
+aliases: ["sam-altman-dup2","sam-altman-dup3","sam-altman-duplicate"]
 name: "Sam Altman"
 birth: "1985-04-22"
 nationality: "United States"

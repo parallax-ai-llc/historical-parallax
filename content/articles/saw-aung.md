@@ -1,5 +1,6 @@
 ---
-id: "saw-aung-hla"
+id: "saw-aung"
+aliases: ["saw-aung-hla"]
 name: "Saw Aung Hla"
 birth: "1850"
 death: "1939"

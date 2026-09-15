@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kailash_Satyarthi"
 lastUpdated: "2026-02-26"
+editorialNote: "Not a scientist; removing."
 ---
-
-## Summary
-
-Not a scientist; removing.
 
 ## Career Timeline
 

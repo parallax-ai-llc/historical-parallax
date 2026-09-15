@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jorge_Paulo_Lemann_dup99"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1939 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Jorge Paulo Lemann dup99" - https://en.wikipedia.org/wiki/Jorge_Paulo_Lemann_dup99
 
@@ -55,6 +50,3 @@ This document appears to be a duplicate/variant entry (see the "dup99" suffix). 
 
 - 3G Capital overview pages and major transaction press releases (for acquisition dates and deal structures).
 - Reputable business profiles and interviews (for philosophy and management approach).
-
-
-## References

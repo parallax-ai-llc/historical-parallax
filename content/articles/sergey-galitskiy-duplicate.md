@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sergey_Galitskiy_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1967 | See Sergey Galitskiy |
-
-
 
 [^1]: Wikipedia, "Sergey Galitskiy duplicate" - https://en.wikipedia.org/wiki/Sergey_Galitskiy_duplicate
 
@@ -68,6 +63,3 @@ Even in duplicate form, a short "why it matters" section helps readers understan
 ## Cross-linking note
 
 If a canonical, non-duplicate article exists in this repository, this page should be treated as an alternate title/slug for discovery, pointing readers to the main entry while retaining the minimal factual context above.
-
-
-## References

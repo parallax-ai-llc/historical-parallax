@@ -1,5 +1,6 @@
 ---
 id: "jay-gould"
+aliases: ["jay-gould-duplicate"]
 name: "Jay Gould"
 birth: "1836-05-27"
 death: "1892-12-02"

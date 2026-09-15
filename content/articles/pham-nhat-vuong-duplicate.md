@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pham_Nhat_Vuong_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1968 | See Pham Nhat Vuong |
-
-
 
 [^1]: Wikipedia, "Pham Nhat Vuong duplicate" - https://en.wikipedia.org/wiki/Pham_Nhat_Vuong_duplicate
 
@@ -64,6 +59,3 @@ If you maintain this repository and want consistent biographies:
 
 - Wikipedia, "Phạm Nhật Vượng" - https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Nh%E1%BA%ADt_V%C6%B0%E1%BB%A3ng
 - Vingroup (company overview) - https://en.wikipedia.org/wiki/Vingroup
-
-
-## References

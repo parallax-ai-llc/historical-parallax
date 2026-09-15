@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Emmy_Noether_%283x4_
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amalie_Emmy_Noether"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate - see Emmy Noether."
 ---
-
-## Summary
-
-Duplicate - see Emmy Noether.
 
 ## Career Timeline
 
@@ -29,8 +26,6 @@ Duplicate - see Emmy Noether.
 | 1933 | Dismissed from her position in Germany following Nazi anti-Jewish policies; emigrated to the United States. |
 | 1933 | Joined Bryn Mawr College and lectured at the Institute for Advanced Study. |
 | 1935 | Died in Bryn Mawr, Pennsylvania, after surgery. |
-
-
 
 [^1]: Wikipedia, "Amalie Emmy Noether" - https://en.wikipedia.org/wiki/Amalie_Emmy_Noether
 
@@ -56,6 +51,3 @@ This page uses her full name (Amalie Emmy Noether). In many historical and mathe
 
 - Weyl, Hermann. *Emmy Noether* (memorial article, 1935) — a widely cited contemporary appreciation of her impact.
 - Standard algebra texts discuss Noetherian rings and modules as core concepts in commutative algebra and beyond.
-
-
-## References

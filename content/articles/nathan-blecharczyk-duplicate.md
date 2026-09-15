@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Nathan_Blecharczyk_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1984 | See Nathan Blecharczyk |
-
-
 
 [^1]: Wikipedia, "Nathan Blecharczyk duplicate" - https://en.wikipedia.org/wiki/Nathan_Blecharczyk_duplicate
 
@@ -66,6 +61,3 @@ In some content pipelines and knowledge bases, “duplicate” stubs can be crea
 
 [^2]: Wikipedia, "Nathan Blecharczyk" - https://en.wikipedia.org/wiki/Nathan_Blecharczyk
 [^3]: Wikipedia, "Airbnb" - https://en.wikipedia.org/wiki/Airbnb
-
-
-## References

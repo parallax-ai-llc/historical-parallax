@@ -1,8 +1,4 @@
 ---
-lastUpdated: "2026-02-26"
----
-
----
 id: "monkombu-sambasivan-swaminathan"
 name: "Monkombu Sambasivan Swaminathan"
 birth: "1925-08-07"

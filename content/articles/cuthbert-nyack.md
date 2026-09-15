@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cuthbert_Nyack"
 lastUpdated: "2026-02-26"
+editorialNote: "Not enough verifiable information."
 ---
-
-## Summary
-
-Not enough verifiable information.
 
 ## Career Timeline
 

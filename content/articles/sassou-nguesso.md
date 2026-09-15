@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Denis_Sassou-Nguesso
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sassou_Nguesso"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

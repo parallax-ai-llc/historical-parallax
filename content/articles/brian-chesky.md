@@ -1,5 +1,6 @@
 ---
 id: "brian-chesky"
+aliases: ["brian-chesky-dup2","brian-chesky-duplicate"]
 name: "Brian Chesky"
 birth: "1981-08-29"
 nationality: "United States"

@@ -1,5 +1,6 @@
 ---
 id: "howard-hughes"
+aliases: ["howard-hughes-duplicate"]
 name: "Howard Hughes"
 birth: "1905-12-24"
 death: "1976-04-05"

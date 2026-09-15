@@ -9,16 +9,13 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered as Peter Sutcliffe."
 ---
-
-## Summary
-Already covered as Peter Sutcliffe.
 
 ## Career Timeline
 | Year | Event |
 |------|-------|
 | 1946 | Born |
-
 
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
@@ -54,6 +51,3 @@ Already covered as Peter Sutcliffe.
 ## Additional References
 [^2]: UK court reporting and sentencing summaries (1981) and subsequent appellate/ministerial decisions.
 [^3]: Major UK newspaper archives and retrospective investigative reviews.
-
-
-## References

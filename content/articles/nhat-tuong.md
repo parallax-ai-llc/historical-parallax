@@ -1,5 +1,6 @@
 ---
-id: "nguyen-van-tuong"
+id: "nhat-tuong"
+aliases: ["nguyen-van-tuong"]
 name: "Nguyễn Văn Tường"
 birth: "1824"
 death: "1886-02"

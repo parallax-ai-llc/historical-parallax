@@ -10,10 +10,10 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
+editorialNote: "Already exists."
 ---
 
 ## Summary
-Already exists.
 
 This entry is retained as an **alias/duplicate label** for the 1995 Tokyo subway sarin attack, which is commonly associated with the Aum Shinrikyo cult. If your dataset expects a single canonical article, treat `tokyo-sarin-attack-1995` as the primary entry and use this file as a redirect-style summary rather than a separate event.
 

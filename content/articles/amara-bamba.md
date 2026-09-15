@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Amara_Bamba"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder for African tech coverage."
 ---
-
-## Summary
-
-Placeholder for African tech coverage.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1970 | Born in Côte d'Ivoire |
-
-
 
 [^1]: Wikipedia, "Amara Bamba" - https://en.wikipedia.org/wiki/Amara_Bamba
 
@@ -61,6 +56,3 @@ When expanding this entry, prioritize sources in roughly this order:
 - African technology entrepreneurship
 - Côte d'Ivoire tech ecosystem
 - West African innovation hubs
-
-
-## References

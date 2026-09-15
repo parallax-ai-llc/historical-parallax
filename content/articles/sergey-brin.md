@@ -1,5 +1,6 @@
 ---
 id: "sergey-brin"
+aliases: ["sergey-brin-dup5","sergei-brin-duplicate"]
 name: "Sergey Brin"
 birth: "1973-08-21"
 nationality: "Russia"

@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Niels_Bohr_as_entrepreneur"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder."
 ---
 
 ## Summary
-
-Placeholder.
 
 Niels Bohr (1885–1962) is best known for foundational contributions to quantum theory, but he is also notable as an institution builder. In the interwar and postwar period he helped create durable research infrastructure—securing funding, organizing talent, and shaping governance—most visibly through the Copenhagen institute that became a hub for theoretical physics.
 

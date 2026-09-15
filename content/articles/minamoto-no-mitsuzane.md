@@ -1,5 +1,6 @@
 ---
-id: "minamoto-no-mitsuyuki"
+id: "minamoto-no-mitsuzane"
+aliases: ["minamoto-no-mitsuyuki"]
 name: "Minamoto no Mitsuyuki"
 birth: "1163-01-01"
 death: "1244-04-03"

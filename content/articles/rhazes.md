@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/%D8%B2%DA%A9%D8%B1%D
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Rhazes"
 lastUpdated: "2026-02-26"
+editorialNote: "Already added as Al-Razi."
 ---
-
-## Summary
-
-Already added as Al-Razi.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ Already added as Al-Razi.
 |------|-------|
 | 854 | Born |
 | 925 | Died |
-
-
 
 [^1]: Wikipedia, "Rhazes" - https://en.wikipedia.org/wiki/Rhazes
 
@@ -52,5 +47,3 @@ Because the name “Rhazes” can be used as a synonym for al-Razi, readers shou
 ## References
 
 [^2]: Encyclopaedia Britannica, "al-Rāzī" (overview of life and work) - https://www.britannica.com/
-
-

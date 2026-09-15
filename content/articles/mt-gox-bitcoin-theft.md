@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mt._Gox_Bitcoin_Theft"
 lastUpdated: "2026-02-26"
+editorialNote: "See Mt. Gox Collapse."
 ---
-
-## Summary
-
-See Mt. Gox Collapse.
 
 ## Career Timeline
 

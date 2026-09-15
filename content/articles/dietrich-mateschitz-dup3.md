@@ -9,20 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dietrich_Mateschitz_dup3"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1944 | See Dietrich Mateschitz |
-
-
 
 [^1]: Wikipedia, "Dietrich Mateschitz dup3" - https://en.wikipedia.org/wiki/Dietrich_Mateschitz_dup3
 
@@ -57,7 +51,3 @@ This entry is intentionally marked as a **duplicate** ("dup3"). The canonical pu
 - Red Bull GmbH
 - Red Bull Racing (Formula One)
 - RB Leipzig / FC Red Bull Salzburg (football clubs associated with the Red Bull brand)
-
-
-
-## References

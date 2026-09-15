@@ -1,5 +1,6 @@
 ---
-id: "yoritomos-wife-hojo-masako"
+id: "yoritomos-wife-hj-masako"
+aliases: ["yoritomos-wife-hojo-masako"]
 name: "Yoritomo's wife (Hōjō Masako)"
 birth: "1157-01-01"
 death: "1225-08-16"

@@ -1,5 +1,6 @@
 ---
-id: "arab-spring-tunisia-2010"
+id: "tunisian-revolution-2010"
+aliases: ["arab-spring-tunisia-2010"]
 title: "Tunisian Revolution (Jasmine Revolution)"
 date: "2010-12-17"
 location: "Sidi Bouzid / Tunis, Tunisia"

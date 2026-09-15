@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wirecard"
 lastUpdated: "2026-02-26"
+editorialNote: "See Markus Braun. Duplicate entry."
 ---
-
-## Summary
-
-See Markus Braun. Duplicate entry.
 
 ## Career Timeline
 

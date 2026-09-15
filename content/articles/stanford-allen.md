@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Already covered."
 ---
-
-## Summary
-Already covered.
 
 ## Early Life
 Stanford Allen was born on 1950-03-24 in United States. Details of early life shaped the path that would lead to a criminal career. [^1]

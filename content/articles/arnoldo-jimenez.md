@@ -9,10 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Arnoldo_Jimenez_%28c
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Not primarily a drug lord. Skip."
 ---
-
-## Summary
-Not primarily a drug lord. Skip.
 
 ## Early Life
 Arnoldo Jimenez was born on 1984-01-01 in United States / Mexico. Details of early life shaped the path that would lead to a criminal career. [^1]

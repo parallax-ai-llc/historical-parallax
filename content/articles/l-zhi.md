@@ -1,5 +1,6 @@
 ---
-id: "lu-zhi"
+id: "l-zhi"
+aliases: ["lu-zhi"]
 name: "Lü Zhi"
 birth: "241-01-01"
 death: "180-08-18"

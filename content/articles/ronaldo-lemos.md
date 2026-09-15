@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Ronaldo_Lemos_2020_2
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Ronaldo_Lemos"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — legal/tech scholar."
 ---
-
-## Summary
-
-Placeholder — legal/tech scholar.
 
 ## Career Timeline
 

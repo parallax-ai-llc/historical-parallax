@@ -1,5 +1,6 @@
 ---
-id: "hong-gildong"
+id: "hong-kil-dong"
+aliases: ["hong-gildong"]
 name: "Hong Gildong"
 birth: "Unknown"
 death: "Unknown"

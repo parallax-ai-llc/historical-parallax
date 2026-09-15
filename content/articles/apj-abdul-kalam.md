@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A._P._J._Abdul
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/APJ_Abdul_Kalam"
 lastUpdated: "2026-02-26"
+editorialNote: "Already added."
 ---
-
-## Summary
-
-Already added.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ Already added.
 |------|-------|
 | 1931 | Born |
 | 2015 | Died |
-
-
 
 [^1]: Wikipedia, "APJ Abdul Kalam" - https://en.wikipedia.org/wiki/APJ_Abdul_Kalam
 
@@ -54,6 +49,3 @@ After his death in 2015, Kalam has been widely memorialized in India through edu
 
 [^2]: Encyclopaedia Britannica, "A.P.J. Abdul Kalam" - https://www.britannica.com/biography/A-P-J-Abdul-Kalam
 [^3]: Government of India (President of India), Biographical profile (archived/official pages may vary over time) - https://presidentofindia.nic.in/
-
-
-## References

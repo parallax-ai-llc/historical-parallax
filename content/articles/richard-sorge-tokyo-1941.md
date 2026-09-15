@@ -9,7 +9,8 @@ outcome: "Warned Stalin of Operation Barbarossa (ignored); Confirmed Japan would
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Richard_Sorge_1940.jpg/800px-Richard_Sorge_1940.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Richard_Sorge"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Overview
 

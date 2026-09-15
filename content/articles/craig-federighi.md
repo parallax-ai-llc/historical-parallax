@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/7/71/2021_-_Centre_Stage_
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Craig_Federighi"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — tech executive."
 ---
-
-## Summary
-
-Placeholder — tech executive.
 
 ## Career Timeline
 

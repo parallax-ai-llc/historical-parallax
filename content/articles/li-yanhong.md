@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Robin_Li_%282020%29.
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Yanhong"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate — see Robin Li."
 ---
-
-## Summary
-
-Duplicate — see Robin Li.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1968 | See Robin Li |
-
-
 
 [^1]: Wikipedia, "Li Yanhong" - https://en.wikipedia.org/wiki/Li_Yanhong
 
@@ -53,6 +48,3 @@ This entry is intentionally minimal because the primary article is filed under t
 ## Additional References
 
 [^2]: Wikipedia, "Robin Li" - https://en.wikipedia.org/wiki/Robin_Li
-
-
-## References

@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Suh_Chung-won"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder for Korean coverage."
 ---
-
-## Summary
-
-Placeholder for Korean coverage.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1942 | Born |
-
-
 
 [^1]: Wikipedia, "Suh Chung-won" - https://en.wikipedia.org/wiki/Suh_Chung-won
 
@@ -52,5 +47,3 @@ This article’s frontmatter currently classifies Suh Chung-won as an entreprene
 ## References
 
 [^2]: Wikipedia (infobox and lead), "Suh Chung-won" (accessed 2026-03-05), https://en.wikipedia.org/wiki/Suh_Chung-won
-
-

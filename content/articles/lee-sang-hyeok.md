@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Faker_2020_interview
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Sang-hyeok"
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered as Faker."
 ---
 
 ## Summary
-
-Already covered as Faker.
 
 Lee Sang-hyeok is best known globally by his in-game name **Faker**, widely regarded as one of the most influential professional players in *League of Legends* history. He is most closely associated with the T1 (formerly SK Telecom T1) organization and is especially known for elite mid-lane play, longevity at the top level, and a career spanning multiple competitive eras.
 

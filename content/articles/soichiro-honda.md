@@ -1,5 +1,6 @@
 ---
 id: "soichiro-honda"
+aliases: ["honda-soichiro-duplicate"]
 name: "Soichiro Honda"
 birth: "1906-11-17"
 death: "1991-08-05"

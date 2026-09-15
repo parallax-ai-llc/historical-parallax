@@ -1,5 +1,6 @@
 ---
-id: "jozef-pilsudski"
+id: "jozef-pisudski"
+aliases: ["jozef-pilsudski"]
 name: "Józef Piłsudski"
 birth: "1867-12-05"
 death: "1935-05-12"

@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/George_Soros_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1930 | See George Soros |
-
-
 
 [^1]: Wikipedia, "George Soros duplicate" - https://en.wikipedia.org/wiki/George_Soros_duplicate
 
@@ -66,6 +61,3 @@ When consolidating this duplicate with the main article, confirm:
 
 [^2]: Open Society Foundations — https://www.opensocietyfoundations.org/
 [^3]: Encyclopaedia Britannica, "George Soros" — https://www.britannica.com/biography/George-Soros
-
-
-## References

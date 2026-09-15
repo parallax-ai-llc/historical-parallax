@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Carolus_Linnaeus"
 lastUpdated: "2026-02-26"
+editorialNote: "See earlier Carl Linnaeus entry."
 ---
-
-## Summary
-
-See earlier Carl Linnaeus entry.
 
 ## Career Timeline
 

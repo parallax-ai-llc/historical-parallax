@@ -1,5 +1,6 @@
 ---
 id: "tadashi-yanai"
+aliases: ["tadashi-yanai-duplicate2","yanai-tadashi-duplicate","tadashi-yanai-dup99","tadashi-yanai-duplicate"]
 name: "Tadashi Yanai"
 birth: "1949-02-07"
 death: "Unknown"
@@ -11,22 +12,44 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## Summary
-
-Tadashi Yanai is the founder and chairman of Fast Retailing, the parent company of Uniqlo, one of the world's largest casual clothing retailers. He transformed a single men's clothing shop in Yamaguchi into a global fashion empire with over 2,400 stores worldwide. Uniqlo's combination of quality basics at affordable prices disrupted the fashion industry. He is regularly Japan's wealthiest person.
-
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-| 1949 | Born in Yamaguchi Prefecture, Japan |
-| 1984 | Opened first Uniqlo store in Hiroshima |
-| 1991 | Renamed company Fast Retailing |
-| 1998 | Opened flagship store in Tokyo's Harajuku district |
-| 2001 | Began international expansion in London |
-| 2006 | Opened first U.S. store in New Jersey |
-| 2024 | Fast Retailing market cap exceeded $100 billion |
+| 1949 | See Tadashi Yanai |
 
-## References
+[^1]: Wikipedia, "Yanai Tadashi duplicate" - https://en.wikipedia.org/wiki/Yanai_Tadashi_duplicate
 
-[^1]: Wikipedia, "Tadashi Yanai" - https://en.wikipedia.org/wiki/Tadashi_Yanai
+## Notes on this entry
+
+This file appears to be a **duplicate placeholder** rather than a canonical biographical article. The “Tadashi Yanai” name typically refers to the Japanese entrepreneur best known as the founder and long-time leader of **Fast Retailing**, the parent company of **UNIQLO**.
+
+If a non-duplicate article exists (for example, under an id like `tadashi-yanai`), it should generally be treated as the primary reference, with this duplicate kept only for backward compatibility of links or imports.
+
+## High-level biography (Tadashi Yanai)
+
+Tadashi Yanai (born 1949) is a Japanese business executive associated with the rise of UNIQLO from a domestic retailer into a major global apparel brand.
+
+Fast Retailing’s growth is often discussed in the context of:
+
+- scaling standardized retail operations,
+- global supply-chain management,
+- brand expansion across Asia, Europe, and North America,
+- and the broader competitive dynamics of “fast fashion” and value apparel.
+
+## Organizations and impact
+
+- **Fast Retailing**: Holding company that includes UNIQLO as its flagship brand.
+- **UNIQLO**: Known for basics-oriented apparel, large-format stores, and a strategy emphasizing functional materials and consistent sizing/merchandising.
+
+In business history and contemporary reporting, Yanai is frequently cited when analyzing Japanese corporate globalization, retail productivity, and the constraints of domestic demographic headwinds pushing firms toward international markets.
+
+## Suggested cross-links
+
+- Fast Retailing
+- UNIQLO
+- Japanese retail and apparel industry
+
+## Additional reference
+
+- Wikipedia, "Tadashi Yanai" (biographical overview and corporate roles): https://en.wikipedia.org/wiki/Tadashi_Yanai

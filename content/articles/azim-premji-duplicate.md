@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Azim_Premji_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
 
 ## Summary
-
-Duplicate.
 
 This entry appears to be a placeholder or duplicate record for Azim Premji (born 1945), an Indian business leader best known for leading Wipro and later becoming one of India’s most prominent philanthropists.
 

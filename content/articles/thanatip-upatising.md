@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Thanatip_Upatising"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder for Thai coverage."
 ---
 
 ## Summary
-
-Placeholder for Thai coverage.
 
 As of **2026-03-06**, the linked Wikipedia URL returns a **"does not have an article with this exact name"** notice, so publicly citable biographical details are limited in this repository version.
 

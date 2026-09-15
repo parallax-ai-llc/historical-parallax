@@ -1,5 +1,6 @@
 ---
-id: "mori-terumoto"
+id: "mri-terumoto"
+aliases: ["mori-terumoto"]
 name: "Mōri Terumoto"
 birth: "1553-01-22"
 death: "1625-06-02"

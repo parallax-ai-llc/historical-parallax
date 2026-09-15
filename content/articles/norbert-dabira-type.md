@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Minor figure. Skip."
 ---
-
-## Summary
-Minor figure. Skip.
 
 ## Early Life
 Norbert Dabira type was born on 1960-01-01 in Congo. Details of early life shaped the path that would lead to a criminal career. [^1]

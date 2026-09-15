@@ -1,5 +1,6 @@
 ---
 id: "masayoshi-son"
+aliases: ["masayoshi-son-duplicate","son-masayoshi-dup99","son-masayoshi-duplicate","softbank-son-duplicate"]
 name: "Masayoshi Son"
 birth: "1957-08-11"
 nationality: "Japan"

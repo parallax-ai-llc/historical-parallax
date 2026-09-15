@@ -8,7 +8,8 @@ occupation: ["Criminal Event"]
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/KK_Park_Scam_Center"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 

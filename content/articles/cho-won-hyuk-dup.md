@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/63/%EC%9C%A4%EA%B4%80%E
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Won-hyuk_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1960 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Cho Won-hyuk dup" - https://en.wikipedia.org/wiki/Cho_Won-hyuk_dup
 
@@ -64,6 +59,3 @@ When de-duplicating or upgrading this entry, confirm the following using reliabl
 
 - If a canonical article exists, keep **one** primary page and convert the other into a redirect or remove it during a deduplication pass.
 - If no canonical page exists, replace the "Duplicate" placeholders with sourced content while keeping the existing frontmatter structure intact.
-
-
-## References

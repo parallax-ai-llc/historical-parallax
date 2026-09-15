@@ -9,16 +9,13 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered."
 ---
-
-## Summary
-Already covered.
 
 ## Career Timeline
 | Year | Event |
 |------|-------|
 | 1930 | Born |
-
 
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
@@ -61,6 +58,3 @@ Already covered.
 - Cosa Nostra
 - Corleone (Sicily)
 - Anti-mafia prosecutions in Italy
-
-
-## References

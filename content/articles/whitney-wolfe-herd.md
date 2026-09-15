@@ -1,5 +1,6 @@
 ---
 id: "whitney-wolfe-herd"
+aliases: ["whitney-wolfe-herd-dup2","whitney-wolfe-herd-duplicate","whitney-wolfe-duplicate3"]
 name: "Whitney Wolfe Herd"
 birth: "1989-07-01"
 death: "Unknown"

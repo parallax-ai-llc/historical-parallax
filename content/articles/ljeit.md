@@ -1,5 +1,6 @@
 ---
-id: "oljeitü"
+id: "ljeit"
+aliases: ["oljeitü"]
 name: "Öljeitü"
 birth: "1280-03-01"
 death: "1316-12-16"

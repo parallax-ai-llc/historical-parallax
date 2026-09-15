@@ -9,10 +9,9 @@ outcome: "130 killed across multiple locations"
 image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/November_2015_Paris_attacks"
-lastUpdated: "2026-02-26"---
-
-## Summary
-Already covered as Paris Attacks 2015.
+lastUpdated: "2026-02-26"
+editorialNote: "Already covered as Paris Attacks 2015."
+---
 
 ## Background
 The events leading to Bataclan Theatre Attack 2015 were shaped by complex social, political, and criminal factors in Paris, France. [^1]
@@ -30,7 +29,6 @@ This event had significant impact on law enforcement practices, public policy, a
 | Date | Event |
 |------|-------|
 | 2015-11-13 | Event occurred |
-
 
 [^1]: Historical records and journalistic accounts.
 [^2]: Law enforcement investigation reports.
@@ -62,6 +60,3 @@ This event had significant impact on law enforcement practices, public policy, a
 
 ### 다음 단계
 이 글의 내용을 적용하려면, (1) 지금 당장 바꿀 수 있는 작은 습관 1개를 고르고 (2) 7일 동안 관측한 뒤 (3) 관측치를 기준으로 규칙을 조정해 보시면 됩니다.
-
-
-## References

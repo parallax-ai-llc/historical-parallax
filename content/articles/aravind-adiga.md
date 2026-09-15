@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aravind_Adiga"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — author."
 ---
-
-## Summary
-
-Placeholder — author.
 
 ## Career Timeline
 

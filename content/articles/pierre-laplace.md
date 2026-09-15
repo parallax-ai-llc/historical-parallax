@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Pierre_Laplace"
 lastUpdated: "2026-02-26"
+editorialNote: "See earlier Laplace entry."
 ---
-
-## Summary
-
-See earlier Laplace entry.
 
 ## Career Timeline
 

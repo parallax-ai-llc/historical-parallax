@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jack_Welch_dup2"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1935 | See Jack Welch |
-
-
 
 [^1]: Wikipedia, "Jack Welch dup2" - https://en.wikipedia.org/wiki/Jack_Welch_dup2
 
@@ -64,6 +59,3 @@ Duplicate.
 
 - **General Electric (GE):** Conglomerate where Welch served as Chairman/CEO.
 - **GE leadership era:** Often referenced in case studies on conglomerates, corporate governance, and executive systems.
-
-
-## References

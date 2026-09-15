@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Henry_Sy_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1924 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Henry Sy duplicate" - https://en.wikipedia.org/wiki/Henry_Sy_duplicate
 
@@ -57,6 +52,3 @@ confuse a placeholder entry with the canonical subject.
 
 [^2]: Wikipedia, "Henry Sy" - https://en.wikipedia.org/wiki/Henry_Sy
 [^3]: SM Investments Corporation (company overview) - https://www.sminvestments.com/
-
-
-## References

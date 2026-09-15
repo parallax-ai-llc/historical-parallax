@@ -1,5 +1,6 @@
 ---
-id: "dong-zhuo"
+id: "dong-zhou"
+aliases: ["dong-zhuo"]
 name: "Dong Zhuo"
 birth: "0138-01-01"
 death: "0192-05-22"

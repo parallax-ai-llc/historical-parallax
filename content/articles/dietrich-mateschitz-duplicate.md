@@ -9,20 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Dietrich_Mateschitz_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1944 | See Dietrich Mateschitz |
-
-
 
 [^1]: Wikipedia, "Dietrich Mateschitz" - https://en.wikipedia.org/wiki/Dietrich_Mateschitz
 
@@ -58,6 +52,3 @@ This file appears to be a placeholder/duplicate entry for Dietrich Mateschitz (1
 - Dietrich Mateschitz (canonical article)
 - Red Bull GmbH
 - Sports marketing and sponsorship models
-
-
-## References

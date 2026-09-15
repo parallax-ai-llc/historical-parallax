@@ -1,5 +1,6 @@
 ---
-id: "saigo-takamori"
+id: "saig-takamori"
+aliases: ["saigo-takamori"]
 name: "Saigō Takamori"
 birth: "1828-01-23"
 death: "1877-09-24"

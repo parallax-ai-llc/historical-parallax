@@ -1,5 +1,6 @@
 ---
-id: "fujiwara-no-kinto"
+id: "fujiwara-no-kint"
+aliases: ["fujiwara-no-kinto"]
 name: "Fujiwara no Kintō"
 birth: "966-01-01"
 death: "1041-01-01"

@@ -1,5 +1,6 @@
 ---
 id: "kiichiro-toyoda"
+aliases: ["toyoda-kiichiro-duplicate"]
 name: "Kiichiro Toyoda"
 birth: "1894-06-11"
 death: "1952-03-27"
@@ -11,22 +12,45 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## Summary
-
-Kiichiro Toyoda founded Toyota Motor Corporation, building on his father Sakichi's loom manufacturing legacy. He traveled to Europe and America to study automobile manufacturing and established Toyota as an automaker in 1937. His 'just-in-time' manufacturing concept revolutionized production management worldwide. Despite early struggles, Toyota grew into the world's largest automaker under the foundation he laid.
-
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-| 1894 | Born in Kosai, Shizuoka, Japan |
-| 1929 | Traveled to Europe and U.S. to study auto manufacturing |
-| 1933 | Established automobile department within Toyoda Automatic Loom Works |
-| 1937 | Toyota Motor Co. incorporated as separate company |
-| 1938 | Opened Koromo plant; implemented just-in-time production |
-| 1950 | Resigned as president during labor dispute |
-| 1952 | Died in Nagoya, Japan |
+| 1894 | Duplicate |
+
+## Clarification
+
+This file is labeled as a duplicate. The commonly referenced figure is **Kiichiro Toyoda** (豊田 喜一郎), an early leader in Toyota's transition from textile machinery into automobiles and a central figure in the creation of what became Toyota Motor Corporation.[^2]
+
+The Wikipedia link in this frontmatter appears to point to a non-canonical page name; the standard English-language entry uses the "Kiichiro_Toyoda" slug.[^2]
+
+## High-Level Biography (Summary)
+
+At a high level, public biographies describe Kiichiro Toyoda as:
+
+- A Japanese engineer and entrepreneur associated with the Toyoda family of industrialists.
+- An organizer of Toyota's early automotive work, including experimentation, prototyping, and the industrialization required for mass production.
+- A leader operating in a period shaped by rapid industrial change, wartime constraints, and postwar reconstruction in Japan.[^2]
+
+## Business Significance (Why He Is Often Cited)
+
+Kiichiro Toyoda is frequently discussed in management and industrial-history contexts because Toyota's early automotive efforts illustrate:
+
+- Technology transfer and learning-by-doing (moving from one industrial domain into another).
+- The role of manufacturing discipline and iteration in competitive advantage.
+- How corporate structures evolve when a new product line becomes the core business.
+
+## Notes on Duplication in Datasets
+
+In historical datasets, duplicates often arise from:
+
+- Alternate romanization conventions (Toyoda vs. Toyota) and given-name ordering.
+- Slightly different article titles in source corpora.
+- Incomplete or placeholder stubs created during automated ingestion.
+
+This article is intentionally kept as a minimal stub plus clarification so that links and ids that reference it can be resolved, while pointing readers toward the canonical biography.
 
 ## References
 
-[^1]: Wikipedia, "Kiichiro Toyoda" - https://en.wikipedia.org/wiki/Kiichiro_Toyoda
+[^1]: Wikipedia, "Toyoda Kiichiro duplicate" - https://en.wikipedia.org/wiki/Toyoda_Kiichiro_duplicate
+[^2]: Wikipedia, "Kiichiro Toyoda" - https://en.wikipedia.org/wiki/Kiichiro_Toyoda

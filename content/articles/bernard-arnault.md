@@ -1,5 +1,6 @@
 ---
 id: "bernard-arnault"
+aliases: ["bernard-arnault-dup2","bernard-arnault-dup3","bernard-arnault-duplicate"]
 name: "Bernard Arnault"
 birth: "1949-03-05"
 nationality: "France"

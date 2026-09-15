@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Shiv_Nadar_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1945 | See Shiv Nadar |
-
-
 
 [^1]: Wikipedia, "Shiv Nadar duplicate" - https://en.wikipedia.org/wiki/Shiv_Nadar_duplicate
 
@@ -49,6 +44,3 @@ If you need to validate whether this is truly a duplicate:
 - Confirm whether the external reference resolves and what it contains (redirect, disambiguation, or a full article).
 - Check whether the same birth date and occupation appear in the primary entry.
 - Look for at least one independent source that explicitly uses the "duplicate" label (unlikely) versus sources that clearly describe a separate person.
-
-
-## References

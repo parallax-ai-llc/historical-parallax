@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/01/President_Lee_Jae-my
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Hae-jin_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1967 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Lee Hae-jin dup" - https://en.wikipedia.org/wiki/Lee_Hae-jin_dup
 
@@ -62,6 +57,3 @@ This page appears to be a duplicate placeholder (“dup”). If you are consolid
 
 [^2]: Wikipedia (canonical entry), "Lee Hae-jin" - https://en.wikipedia.org/wiki/Lee_Hae-jin
 [^3]: Naver (company overview), Wikipedia - https://en.wikipedia.org/wiki/Naver
-
-
-## References

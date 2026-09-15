@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Li_Shufu_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1963 | See Li Shufu |
-
-
 
 [^1]: Wikipedia, "Li Shufu duplicate" - https://en.wikipedia.org/wiki/Li_Shufu_duplicate
 
@@ -50,6 +45,3 @@ When reconciling duplicates, the following checks typically reduce future duplic
 ## See Also
 
 - Li Shufu (canonical article, if present in `content/articles/`)
-
-
-## References

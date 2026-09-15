@@ -9,19 +9,13 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Official_portrait_of
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kunio_Hatoyama"
 lastUpdated: "2026-02-26"
+editorialNote: "See separate corrupt politicians entry."
 ---
-
-## Summary
-
-See separate corrupt politicians entry.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-
-
-
 
 [^1]: Wikipedia, "Kunio Hatoyama" - https://en.wikipedia.org/wiki/Kunio_Hatoyama
 
@@ -56,6 +50,3 @@ See separate corrupt politicians entry.
 ## Further Reading
 
 - Wikipedia entry for quick orientation and outbound citations: https://en.wikipedia.org/wiki/Kunio_Hatoyama
-
-
-## References

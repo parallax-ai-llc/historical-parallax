@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/85/2026_Teodoro_Obiang_
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Teodoro_Obiang"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

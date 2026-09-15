@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Musa_al-Khwarizmi"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate of Al-Khwarizmi."
 ---
-
-## Summary
-
-Duplicate of Al-Khwarizmi.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ Duplicate of Al-Khwarizmi.
 |------|-------|
 | 780 | Born |
 | 850 | Died |
-
-
 
 [^1]: Wikipedia, "Musa al-Khwarizmi" - https://en.wikipedia.org/wiki/Musa_al-Khwarizmi
 
@@ -52,6 +47,3 @@ This section adds high-level factual context to the article on **musa al khwariz
 ### Related topics
 - Comparable events or figures in the same region or time period.
 - Institutions, laws, or movements that shaped the topic or were shaped by it.
-
-
-## References

@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Indra_Nooyi_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1955 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Indra Nooyi duplicate" - https://en.wikipedia.org/wiki/Indra_Nooyi_duplicate
 
@@ -56,6 +51,3 @@ Duplicate.
 
 [^2]: Wikipedia, "Indra Nooyi" - https://en.wikipedia.org/wiki/Indra_Nooyi
 [^3]: PepsiCo, Leadership/Company information (Nooyi era) - https://www.pepsico.com/
-
-
-## References

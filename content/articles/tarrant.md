@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tarrant"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
@@ -41,8 +38,6 @@ Duplicate consolidated.
   - Documented events leading to notoriety
   - Legal status (charges, conviction, sentencing), where applicable
 
-
-
 [^1]: Wikipedia, "Tarrant" - https://en.wikipedia.org/wiki/Tarrant
 
 ## Further Reading (General)
@@ -51,6 +46,3 @@ Duplicate consolidated.
   - Court records and sentencing remarks (where public)
   - Government inquiries or official reviews (where applicable)
   - Reputable long-form journalism and fact-checked timelines
-
-
-## References

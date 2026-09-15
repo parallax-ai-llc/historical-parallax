@@ -1,5 +1,6 @@
 ---
-id: "yu-hyeongwon"
+id: "ryu-hyung-won"
+aliases: ["yu-hyeongwon"]
 name: "Yu Hyeongwon"
 birth: "1622-02-21"
 death: "1673"

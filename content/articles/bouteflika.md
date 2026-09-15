@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bouteflika"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 High-level notes:
 - Abdelaziz Bouteflika was a longtime figure in Algeria’s post-independence political establishment and served as president from 1999 to 2019.

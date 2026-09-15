@@ -1,5 +1,6 @@
 ---
-id: "jebe-noyan"
+id: "chepe-noyan"
+aliases: ["jebe-noyan"]
 name: "Jebe Noyan"
 birth: "1170-01-01"
 death: "1224-12-31"

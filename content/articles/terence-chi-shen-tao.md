@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Terence_Tao%2C_PCAST
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Terence_Chi-Shen_Tao"
 lastUpdated: "2026-02-26"
+editorialNote: "See earlier entry."
 ---
-
-## Summary
-
-See earlier entry.
 
 ## Career Timeline
 

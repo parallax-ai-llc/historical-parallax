@@ -1,5 +1,6 @@
 ---
 id: "carlos-slim"
+aliases: ["carlos-slim-dup2","carlos-slim-duplicate"]
 name: "Carlos Slim"
 birth: "1940-01-28"
 death: "Unknown"

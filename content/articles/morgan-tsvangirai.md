@@ -1,8 +1,4 @@
 ---
-lastUpdated: "2026-02-26"
----
-
----
 id: "morgan-tsvangirai"
 name: "Morgan Tsvangirai"
 birth: "1952-03-10"

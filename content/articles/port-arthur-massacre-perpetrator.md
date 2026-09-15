@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered as Martin Bryant."
 ---
-
-## Summary
-Already covered as Martin Bryant.
 
 ## Career Timeline
 | Year | Event |

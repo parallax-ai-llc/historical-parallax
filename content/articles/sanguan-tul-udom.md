@@ -1,5 +1,6 @@
 ---
-id: "sanguan-tularak"
+id: "sanguan-tul-udom"
+aliases: ["sanguan-tularak"]
 name: "Sanguan Tularak"
 birth: "1902-06-18"
 death: "1995-05-15"

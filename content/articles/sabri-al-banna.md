@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/en/f/f9/Abu_Nidal.gif"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sabri_al-Banna"
 lastUpdated: "2026-02-26"
+editorialNote: "See Abu Nidal."
 ---
 
 ## Summary
-
-See Abu Nidal.
 
 Sabri al-Banna is more widely known by his nom de guerre **Abu Nidal**, a Palestinian militant leader associated with the group commonly called the Abu Nidal Organization (ANO).
 

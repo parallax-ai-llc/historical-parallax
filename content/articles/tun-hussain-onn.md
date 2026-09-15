@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tun_Hussain_Onn"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — political figure."
 ---
-
-## Summary
-
-Placeholder — political figure.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1922 | Born in Malaysia |
-
-
 
 [^1]: Wikipedia, "Tun Hussain Onn" - https://en.wikipedia.org/wiki/Tun_Hussain_Onn
 
@@ -71,6 +66,3 @@ His public legacy is often framed around moderation, institutional governance, a
 ## References (Expanded)
 
 [^2]: Official Malaysian government and archival biographies (see Wikipedia references for leads and citations).
-
-
-## References

@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Tetsu_Hirosige"
 lastUpdated: "2026-02-26"
+editorialNote: "Not primarily a scientist; removing."
 ---
 
 ## Summary
-
-Not primarily a scientist; removing.
 
 ### Expanded summary (context)
 

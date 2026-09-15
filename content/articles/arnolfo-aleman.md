@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Roma_-_Basilica_di_S
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Arnolfo_Aleman"
 lastUpdated: "2026-02-26"
+editorialNote: "See Arnaldo Aleman."
 ---
 
 ## Summary
-
-See Arnaldo Aleman.
 
 Arnolfo (often rendered **Arnaldo**) Alemán Lacayo is a Nicaraguan politician who served as **Mayor of Managua** and later as **President of Nicaragua (1997–2002)**. He became one of the most prominent figures in the Liberal Constitutionalist Party (PLC) era, and his post-presidency was marked by major corruption proceedings that resulted in a conviction.
 

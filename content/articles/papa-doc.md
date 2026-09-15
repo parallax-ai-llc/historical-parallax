@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fran%C3%A7ois_Duvali
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Papa_Doc"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

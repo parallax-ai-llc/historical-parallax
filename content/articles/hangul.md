@@ -1,5 +1,6 @@
 ---
-id: "king-sejong-the-great"
+id: "hangul"
+aliases: ["king-sejong-the-great"]
 name: "King Sejong the Great"
 birth: "1397-05-15"
 death: "1450-03-30"

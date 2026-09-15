@@ -1,5 +1,6 @@
 ---
-id: "goh-keng-swee"
+id: "keng-swee-goh"
+aliases: ["goh-keng-swee"]
 name: "Goh Keng Swee"
 birth: "1918-10-06"
 death: "2010-05-14"

@@ -1,5 +1,6 @@
 ---
-id: "seo-hui"
+id: "seo-geong"
+aliases: ["seo-hui"]
 name: "Seo Hui"
 birth: "942"
 death: "998-08-08"

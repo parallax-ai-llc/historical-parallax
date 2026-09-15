@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hitler_portrait_crop
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hitler"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 High-level overview (factual):
 - Led the Nazi Party (NSDAP) and became Chancellor of Germany in 1933.
@@ -38,7 +37,6 @@ High-level overview (factual):
 | 1941 | Invasion of the Soviet Union (Operation Barbarossa); war expands further in Europe. |
 | 1942–1944 | Nazi authorities implement industrialized mass murder of Jews and other groups (Holocaust). |
 | 1945 | Suicide in Berlin; Nazi Germany surrenders shortly after. |
-
 
 ## Key Context
 

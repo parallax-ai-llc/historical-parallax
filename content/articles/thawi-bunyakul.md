@@ -1,5 +1,6 @@
 ---
-id: "thawi-bunyaket"
+id: "thawi-bunyakul"
+aliases: ["thawi-bunyaket"]
 name: "Thawi Bunyaket"
 birth: "1904-11-10"
 death: "1971-11-03"

@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/James_Dyson_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1947 | See James Dyson |
-
-
 
 [^1]: Wikipedia, "James Dyson duplicate" - https://en.wikipedia.org/wiki/James_Dyson_duplicate
 
@@ -61,6 +56,3 @@ If/when this repository is cleaned up, a typical resolution is:
 
 [^2]: Wikipedia, "James Dyson" - https://en.wikipedia.org/wiki/James_Dyson
 [^3]: Dyson (company overview) - https://en.wikipedia.org/wiki/Dyson_(company)
-
-
-## References

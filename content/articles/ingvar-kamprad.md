@@ -1,5 +1,6 @@
 ---
 id: "ingvar-kamprad"
+aliases: ["ikea-kamprad-duplicate"]
 name: "Ingvar Kamprad"
 birth: "1926-03-30"
 death: "2018-01-27"

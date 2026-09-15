@@ -1,5 +1,6 @@
 ---
-id: "kim-nae-sung"
+id: "gim-nae-sul"
+aliases: ["kim-nae-sung"]
 name: "Kim Nae-sung"
 birth: "1909-05-29"
 death: "1957-02-19"

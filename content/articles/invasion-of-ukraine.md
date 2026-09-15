@@ -1,4 +1,3 @@
-```markdown
 ---
 id: "invasion-of-ukraine"
 name: "Invasion of Ukraine"
@@ -62,4 +61,3 @@ The invasion killed an estimated 50,000–100,000 soldiers on each side and over
 | Source | Link |
 |--------|------|
 | Wikipedia | https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine |
-```

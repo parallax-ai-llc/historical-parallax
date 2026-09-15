@@ -1,5 +1,6 @@
 ---
 id: "lei-jun"
+aliases: ["lei-jun-dup2","lei-jun-dup3","lei-jun-duplicate"]
 name: "Lei Jun"
 birth: "1969-12-16"
 death: null

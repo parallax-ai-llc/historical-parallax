@@ -1,5 +1,6 @@
 ---
-id: "natsume-soseki"
+id: "natsume-sseki"
+aliases: ["natsume-soseki"]
 name: "Natsume Sōseki"
 birth: "1867-02-09"
 death: "1916-12-09"

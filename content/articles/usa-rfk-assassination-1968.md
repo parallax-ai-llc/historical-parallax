@@ -1,5 +1,6 @@
 ---
-id: "rfk-assassination-1968"
+id: "usa-rfk-assassination-1968"
+aliases: ["rfk-assassination-1968"]
 name: "Robert F. Kennedy Assassination (1968)"
 date: "1968-06-05"
 location: "Los Angeles, California, United States"

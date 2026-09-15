@@ -1,5 +1,6 @@
 ---
-id: "natsagdorj"
+id: "natsagdorji"
+aliases: ["natsagdorj"]
 name: "Dashdorjiin Natsagdorj"
 birth: "1906-11-17"
 death: "1937-07-13"

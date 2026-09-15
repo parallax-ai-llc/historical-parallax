@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Azim_Premji_dup2"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1945 | See Azim Premji |
-
-
 
 [^1]: Wikipedia, "Azim Premji dup2" - https://en.wikipedia.org/wiki/Azim_Premji_dup2
 
@@ -61,6 +56,3 @@ This page exists as a *duplicate placeholder* in the dataset. The canonical biog
 
 [^2]: Wikipedia, "Azim Premji" - https://en.wikipedia.org/wiki/Azim_Premji
 [^3]: Azim Premji Foundation - https://azimpremjifoundation.org/
-
-
-## References

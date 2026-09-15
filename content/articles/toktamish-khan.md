@@ -1,5 +1,6 @@
 ---
-id: "tokhtamysh-khan"
+id: "toktamish-khan"
+aliases: ["tokhtamysh-khan"]
 name: "Tokhtamysh Khan"
 birth: "1342-01-01"
 death: "1406-01-01"

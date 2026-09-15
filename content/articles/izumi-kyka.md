@@ -1,5 +1,6 @@
 ---
-id: "izumi-kyoka"
+id: "izumi-kyka"
+aliases: ["izumi-kyoka"]
 name: "Izumi Kyōka"
 birth: "1873-11-04"
 death: "1939-09-07"

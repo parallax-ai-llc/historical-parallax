@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Already covered."
 ---
-
-## Summary
-Already covered.
 
 ## Early Life
 Breivik was born on 1979-02-13 in Norway. Details of early life shaped the path that would lead to a criminal career. [^1]

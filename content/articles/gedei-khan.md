@@ -1,5 +1,6 @@
 ---
-id: "ogedei-khan"
+id: "gedei-khan"
+aliases: ["ogedei-khan"]
 name: "Ögedei Khan"
 birth: "1186-11-07"
 death: "1241-12-11"

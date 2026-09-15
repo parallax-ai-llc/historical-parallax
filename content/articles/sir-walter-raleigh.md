@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Walter_Ralegh_by
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sir_Walter_Raleigh"
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered."
 ---
 
 ## Summary
-
-Already covered.
 
 Sir Walter Raleigh (c. 1552–1618) was an English courtier, soldier, writer, and promoter of overseas expansion during the reign of Elizabeth I. He became one of the best-known figures associated with early English attempts at colonization in North America, especially the Roanoke ventures of the 1580s, and later pursued exploration and privateering in the Atlantic world.
 

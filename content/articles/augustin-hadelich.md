@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Augustin_Hadelich.jp
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Augustin_Hadelich"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — musician."
 ---
 
 ## Summary
-
-Placeholder — musician.
 
 Augustin Hadelich is a German-American classical violinist known for an international solo career with major orchestras and conductors. He was born in Italy to German parents and later became a U.S. citizen, building a reputation for a warm, focused tone and a technically polished approach across core violin repertoire.
 

@@ -1,5 +1,6 @@
 ---
-id: "nguyen-cao-ky"
+id: "nguyen-van-ky"
+aliases: ["nguyen-cao-ky"]
 name: "Nguyễn Cao Kỳ"
 birth: "1930-09-08"
 death: "2011-07-23"

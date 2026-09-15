@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mukesh_Ambani_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
 
 ## Summary
-
-Duplicate.
 
 This article appears to be a placeholder/duplicate entry referencing the Indian business executive **Mukesh Ambani**. The canonical biography and sources are typically found under the primary entry for "Mukesh Ambani" (without the "duplicate" suffix).
 

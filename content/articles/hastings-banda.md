@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Dr_HK_Banda%2C_first
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Hastings_Banda"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

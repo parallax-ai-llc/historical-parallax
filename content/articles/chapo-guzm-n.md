@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Booking_photo_of_Joa
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chapo_Guzm%C3%A1n"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
@@ -27,8 +24,6 @@ Duplicate consolidated.
 | 2016 | Recaptured by Mexican authorities.[^1] |
 | 2017 | Extradited to the United States for prosecution.[^1] |
 | 2019 | Convicted in U.S. federal court and sentenced to a lengthy term of imprisonment.[^1] |
-
-
 
 [^1]: Wikipedia, "Chapo Guzmán" - https://en.wikipedia.org/wiki/Chapo_Guzm%C3%A1n
 
@@ -99,6 +94,3 @@ This article is intentionally high-level and relies on broadly cited public summ
 
 - This page keeps dates at a high level and avoids repeating detailed allegations that require primary-source verification.
 - For precise charge counts, trial venue, and sentencing terms, consult court records and reputable reporting alongside the reference link.
-
-
-## References

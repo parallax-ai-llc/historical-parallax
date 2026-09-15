@@ -1,5 +1,6 @@
 ---
 id: "richard-branson"
+aliases: ["richard-branson-duplicate"]
 name: "Richard Branson"
 birth: "1950-07-18"
 nationality: "England"

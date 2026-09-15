@@ -1,5 +1,6 @@
 ---
-id: "lin-rong-san"
+id: "rousheng-lin-lin-rouseng"
+aliases: ["lin-rong-san"]
 name: "Lin Rong-San (林榮三)"
 birth: "1939-05-27"
 death: "2015-11-28"

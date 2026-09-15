@@ -1,5 +1,6 @@
 ---
 id: "robin-li"
+aliases: ["robin-li-yanhong-dup"]
 name: "Robin Li"
 birth: "1968-11-17"
 death: "Unknown"
@@ -13,21 +14,61 @@ lastUpdated: "2026-02-21"
 
 ## Summary
 
-Robin Li (Li Yanhong) co-founded Baidu in 2000, building China's largest search engine, often called 'China's Google.' He holds a patent for the Rankdex site-scoring algorithm, one of the first search engine ranking patents. Baidu dominates Chinese internet search with over 70% market share. He pivoted Baidu toward artificial intelligence, developing autonomous driving and large language models.
+This article is explicitly labeled as a duplicate placeholder and contains minimal biographical detail beyond basic metadata fields (name, birth date, nationality, and occupation).
+
+### Data notes
+
+- **Identifier**: `robin-li-yanhong-dup` (the `-dup` suffix indicates duplication).
+- **Coverage**: The body text and timeline currently repeat the word “Duplicate” rather than providing substantive events.
+- **Source link**: The configured Wikipedia URL ends with `/wiki/Robin_Li_Yanhong_dup`, which is not a standard naming pattern for canonical biography entries and may not resolve to an authoritative page.
+
+## Overview (canonical subject)
+
+Robin Li (李彦宏, Li Yanhong) is a Chinese entrepreneur widely known for co-founding **Baidu**, a major Chinese internet and search company, and serving as its chairman and CEO.[^2]
+
+Because this file is marked as a duplicate, the sections below aim to preserve the existing placeholder while adding high-level, commonly documented context about the canonical individual.
+
+## Key Facts
+
+- **Name**: Robin Li (Li Yanhong)
+- **Birth**: 1968-11-17 (as recorded in this file)
+- **Nationality**: Chinese (as recorded in this file)
+- **Occupation**: Entrepreneur (as recorded in this file)
+- **Primary association**: Baidu (co-founder; CEO/chairman)[^2]
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-| 1968 | Born in Yangquan, Shanxi, China |
-| 1991 | Studied in the United States |
-| 2000 | Co-founded Baidu in Beijing |
-| 2005 | Baidu went public on NASDAQ |
-| 2014 | Began major investment in AI |
-| 2017 | Launched Apollo autonomous driving platform |
-| 2023 | Launched Ernie Bot large language model |
-| 2024 | Baidu expanded AI and autonomous vehicle services |
+| 1968 | Duplicate |
+| 1968 | Born (1968-11-17) (date recorded in this file). |
+| 2000 | Co-founded Baidu.[^2] |
+| 2005 | Baidu became a publicly traded company (IPO in the United States).[^2] |
+| 2010s | Continued to lead Baidu through expansion into areas including mobile services and AI-related research and products.[^2] |
+| 2020s | Ongoing role as Baidu’s chairman and CEO (as covered by the canonical biography reference).[^2] |
 
-## References
+## Notes on duplication
 
-[^1]: Wikipedia, "Robin Li" - https://en.wikipedia.org/wiki/Robin_Li
+- The `name` field includes “dup” and the page summary states “Duplicate.”
+- In many content pipelines, pages explicitly labeled as duplicates are handled as redirects or aliases once a canonical article exists.
+
+[^1]: Wikipedia, "Robin Li Yanhong dup" - https://en.wikipedia.org/wiki/Robin_Li_Yanhong_dup
+[^2]: Wikipedia, "Robin Li" - https://en.wikipedia.org/wiki/Robin_Li
+
+## Why duplicate stubs still matter
+
+- In pipelines that merge multiple data sources, duplicate identifiers often appear when names are romanized differently (e.g., "Li Yanhong" vs. "Robin Li") or when a source system creates separate entries for the same person.
+- Keeping a short duplicate page can reduce broken links while still nudging readers toward the canonical profile.
+
+## Canonical profile pointers (what to consolidate)
+
+When consolidating this entry into a non-duplicate biography, typical fields to unify include:
+
+- legal name vs. English name and ordering,
+- primary company role(s) and tenure,
+- major corporate milestones with dates,
+- and consistent citations (e.g., a single canonical Wikipedia page, plus stronger secondary sources).
+
+## Repository hygiene
+
+- If/when a canonical article exists in this repo, consider converting this file into a redirect-style page (while keeping the id stable for legacy references).

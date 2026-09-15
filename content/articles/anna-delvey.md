@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered as Anna Sorokin."
 ---
-
-## Summary
-Already covered as Anna Sorokin.
 
 ## Early Life
 Anna Delvey was born on 1991-01-23 in Russia / Germany / US. Details of early life shaped the path that would lead to a criminal career. [^1]
@@ -37,7 +35,6 @@ Anna Delvey's criminal career came to an end through law enforcement action or o
 | 1991 | Born |
 | ? | Career ended |
 
-
 [^1]: Encyclopedia of Criminal History.
 [^2]: International Criminal Records.
 [^3]: Court and law enforcement records.
@@ -53,6 +50,3 @@ Anna Delvey's criminal career came to an end through law enforcement action or o
 
 ## Cultural Impact
 The case became a widely discussed example of social engineering and status-based fraud, and it was adapted into dramatized media.
-
-
-## References

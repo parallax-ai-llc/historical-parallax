@@ -1,5 +1,6 @@
 ---
-id: "asakura-kageakira"
+id: "asakura-nokizane"
+aliases: ["asakura-kageakira"]
 name: "Asakura Kageakira"
 birth: "1529-01-01"
 death: "1574-05-04"

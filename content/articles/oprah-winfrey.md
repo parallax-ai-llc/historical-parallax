@@ -1,5 +1,6 @@
 ---
 id: "oprah-winfrey"
+aliases: ["oprah-dup2","oprah-duplicate","oprah-dup3","oprah-winfrey-duplicate"]
 name: "Oprah Winfrey"
 birth: "1954-01-29"
 death: "Unknown"
@@ -11,23 +12,55 @@ socialLinks:
 lastUpdated: "2026-02-21"
 ---
 
-## Summary
-
-Oprah Winfrey built a media empire from her groundbreaking talk show, becoming the first African American woman billionaire. The Oprah Winfrey Show ran for 25 years and was the highest-rated daytime talk show in history. She founded Harpo Productions, O Magazine, and the OWN television network. Her influence on American culture, publishing, and philanthropy has been immeasurable.
-
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
-| 1954 | Born in Kosciusko, Mississippi |
-| 1976 | Began career in television news in Baltimore |
-| 1986 | The Oprah Winfrey Show went national |
-| 1988 | Founded Harpo Productions |
-| 1996 | Launched Oprah's Book Club |
-| 2003 | Became first African American woman billionaire |
-| 2011 | Launched OWN: Oprah Winfrey Network |
-| 2013 | Received Presidential Medal of Freedom |
+| 1954 | Duplicate |
 
-## References
+[^1]: Wikipedia, "Oprah dup2" - https://en.wikipedia.org/wiki/Oprah_dup2
 
-[^1]: Wikipedia, "Oprah Winfrey" - https://en.wikipedia.org/wiki/Oprah_Winfrey
+## Notes on Data Quality (Duplicate Placeholder)
+
+This article appears to be a **duplicate/placeholder record** rather than a complete biographical entry:
+
+- The title and slug (`oprah-dup2`) suggest an intentionally duplicated entity.
+- The summary and timeline both state "Duplicate" without additional detail.
+- The linked Wikipedia URL may not correspond to a real biography page; it could be an artifact created during dataset generation.
+
+Because of this, the content below focuses on **how to verify and safely disambiguate** the intended subject without adding unverified biographical claims.
+
+## Disambiguation
+
+- This entry is **not sufficient** to identify the person as any well-known "Oprah" by itself.
+- The best-known public figure with the single name "Oprah" is **Oprah Winfrey** (American talk show host, media executive, and philanthropist), but this file does **not** provide evidence that it refers to her.
+
+## What Should Be Verified Before Expanding Further
+
+To turn this placeholder into a proper article, confirm the target identity and replace the duplicate marker with sourced facts:
+
+1. **Canonical name**: confirm full legal name and commonly used name.
+2. **Biography basics**: birth date/place, (if applicable) death date/place.
+3. **Primary occupations**: ensure the occupation list matches reliable sources.
+4. **Notability basis**: what the person is known for (career highlights, organizations, works).
+5. **Source links**: replace any non-existent or placeholder URLs with real references.
+
+## Suggested Structure for a Real Biography (Once Identified)
+
+When the subject is verified, expand using a consistent high-level structure:
+
+- **Early life and education** (brief, factual)
+- **Career**
+  - key roles and organizations
+  - notable projects or milestones
+- **Public impact**
+  - awards, recognition, measurable influence (with citations)
+- **See also**
+  - related people, organizations, movements
+- **References**
+  - primary encyclopedia entry + 1–3 reputable secondary sources
+
+## See Also
+
+- Dataset hygiene: deduplication and entity resolution
+- Disambiguation pages and naming conventions in biographical datasets

@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Christchurch_Mosque_Attacks"
 lastUpdated: "2026-02-26"
+editorialNote: "See Christchurch Mosque Shootings."
 ---
-
-## Summary
-
-See Christchurch Mosque Shootings.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 2019 | 51 killed |
-
-
 
 [^1]: Wikipedia, "Christchurch Mosque Attacks" - https://en.wikipedia.org/wiki/Christchurch_Mosque_Attacks
 
@@ -60,6 +55,3 @@ See Christchurch Mosque Shootings.
 ## Additional Reading
 
 - Wikipedia also maintains the related article title **"Christchurch mosque shootings"**, which is often used as the primary page for the incident.[^1]
-
-
-## References

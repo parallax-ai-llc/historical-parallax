@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Booking_photo_of_Joa
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Archivaldo_Guzm%C3%A1n_Loera"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Joaquín Archivaldo Guzmán Loera (often known by the nickname “El Chapo”) is a Mexican drug trafficker who became one of the most prominent leaders associated with the Sinaloa Cartel. He is widely reported to have been involved in large-scale drug trafficking operations and became a high-profile target of Mexican and U.S. law enforcement.
 

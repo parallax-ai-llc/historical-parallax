@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Howard_Hughes_Medical_Institute"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate — see Howard Hughes."
 ---
 
 ## Summary
-
-Duplicate — see Howard Hughes.
 
 This entry exists because **Howard Hughes Medical Institute (HHMI)** is a separate legal organization created by Howard Hughes and frequently referenced in biographies and institutional histories. The institute is best known as a major **philanthropic funder of biomedical research** and science education.
 

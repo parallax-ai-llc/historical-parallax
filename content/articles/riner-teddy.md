@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Riner_Teddy"
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered."
 ---
 
 ## Summary
-
-Already covered.
 
 Teddy Riner (Teddy Pierre-Marie Riner) is a French heavyweight judoka from Pointe-à-Pitre, Guadeloupe. He is widely regarded as one of the most dominant athletes in modern judo, with multiple Olympic and world titles in the +100 kg division.
 

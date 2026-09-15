@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Garry_Kasparov"
 lastUpdated: "2026-02-26"
+editorialNote: "Already in database."
 ---
-
-## Summary
-
-Already in database.
 
 ## Career Timeline
 

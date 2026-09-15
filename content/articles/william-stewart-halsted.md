@@ -9,11 +9,8 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/William_Stewart_Halsted"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate of William Halsted entry."
 ---
-
-## Summary
-
-Duplicate of William Halsted entry.
 
 ## Career Timeline
 

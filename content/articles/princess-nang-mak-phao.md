@@ -1,5 +1,6 @@
 ---
-id: "queen-nang-phao"
+id: "princess-nang-mak-phao"
+aliases: ["queen-nang-phao"]
 name: "Queen Nang Phao of Champasak"
 birth: "c. 1630"
 death: "1713-11-00"

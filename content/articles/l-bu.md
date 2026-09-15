@@ -1,5 +1,6 @@
 ---
-id: "lu-bu"
+id: "l-bu"
+aliases: ["lu-bu"]
 name: "Lü Bu"
 birth: "0156-01-01"
 death: "0199-02-07"

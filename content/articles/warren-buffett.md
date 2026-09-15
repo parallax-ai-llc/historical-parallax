@@ -1,4 +1,5 @@
 ---
+aliases: ["warren-buffett-dup2","warren-buffett-dup99","warren-buffett-duplicate"]
 name: "Warren Buffett"
 birth: "1930-08-30"
 death: null

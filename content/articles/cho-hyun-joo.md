@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Seo_Hyun-woo_%EC%84%
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Cho_Hyun-joo"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder for Korean coverage."
 ---
-
-## Summary
-
-Placeholder for Korean coverage.
 
 ## Career Timeline
 

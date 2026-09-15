@@ -1,5 +1,6 @@
 ---
-id: "cai-hesen"
+id: "tsai-ho-sheng"
+aliases: ["cai-hesen"]
 name: "Cai Hesen"
 birth: "1895-03-30"
 death: "1931-08-04"

@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Chung_Yong-jin_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1968 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Chung Yong-jin dup" - https://en.wikipedia.org/wiki/Chung_Yong-jin_dup
 
@@ -58,6 +53,3 @@ If this entry is kept (instead of merged), it should be expanded with:
 ## Additional References
 
 [^2]: Wikipedia, "Chung Yong-jin" - https://en.wikipedia.org/wiki/Chung_Yong-jin
-
-
-## References

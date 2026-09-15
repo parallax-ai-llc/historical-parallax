@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bob_Hope"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — entertainer."
 ---
-
-## Summary
-
-Placeholder — entertainer.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1903 | Born in London |
-
-
 
 [^1]: Wikipedia, "Bob Hope" - https://en.wikipedia.org/wiki/Bob_Hope
 
@@ -70,6 +65,3 @@ Placeholder — entertainer.
 - United Service Organizations (USO)
 - Bing Crosby
 - Dorothy Lamour
-
-
-## References

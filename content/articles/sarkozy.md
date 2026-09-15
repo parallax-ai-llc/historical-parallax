@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nicolas_Sarkozy_in_2
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sarkozy"
 lastUpdated: "2026-02-26"
+editorialNote: "See Nicolas Sarkozy."
 ---
-
-## Summary
-
-See Nicolas Sarkozy.
 
 ## Career Timeline
 

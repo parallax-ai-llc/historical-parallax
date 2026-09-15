@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Already covered as Carlos the Jackal."
 ---
-
-## Summary
-Already covered as Carlos the Jackal.
 
 ## Early Life
 Ilich Ramirez Sanchez was born on 1949-10-12 in Venezuela. Details of early life shaped the path that would lead to a criminal career. [^1]

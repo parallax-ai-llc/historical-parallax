@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Keleti_%C3%81gnes_20
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Agnes_Keleti"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder — athlete."
 ---
-
-## Summary
-
-Placeholder — athlete.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1921 | Born in Hungary |
-
-
 
 [^1]: Wikipedia, "Agnes Keleti" - https://en.wikipedia.org/wiki/Agnes_Keleti
 
@@ -64,6 +59,3 @@ Placeholder — athlete.
 
 [^2]: International Olympic Committee (IOC), athlete profile / Olympic results (see IOC database)
 [^3]: Olympic Games historical results summaries for 1952 Helsinki and 1956 Melbourne (gymnastics events)
-
-
-## References

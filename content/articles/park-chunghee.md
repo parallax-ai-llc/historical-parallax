@@ -1,5 +1,6 @@
 ---
-id: "park-chung-hee"
+id: "park-chunghee"
+aliases: ["park-chung-hee"]
 name: "Park Chung-hee"
 birth: "1917-11-14"
 nationality: "South Korea"

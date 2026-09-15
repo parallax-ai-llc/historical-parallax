@@ -9,19 +9,14 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Park_Chung_Hee_%28%E
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lee_Kun-hee_II"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate — see Lee Kun-hee."
 ---
-
-## Summary
-
-Duplicate — see Lee Kun-hee.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1942 | See Lee Kun-hee entry |
-
-
 
 [^1]: Wikipedia, "Lee Kun-hee II" - https://en.wikipedia.org/wiki/Lee_Kun-hee_II
 
@@ -60,6 +55,3 @@ Some datasets include an entry titled "Lee Kun-hee II". In practice, the biograp
 ## References (additional)
 
 - The canonical, widely-used biography for the 1942–2020 Samsung chairman is typically under "Lee Kun-hee"; see the reference above for the dataset's naming.
-
-
-## References

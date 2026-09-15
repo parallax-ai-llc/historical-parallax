@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Alfred_Wegener_ca.19
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Alfred_Lothar_Wegener"
 lastUpdated: "2026-02-26"
+editorialNote: "See earlier entry."
 ---
-
-## Summary
-
-See earlier entry.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ See earlier entry.
 |------|-------|
 | 1880 | Born |
 | 1930 | Died |
-
-
 
 [^1]: Wikipedia, "Alfred Lothar Wegener" - https://en.wikipedia.org/wiki/Alfred_Lothar_Wegener
 
@@ -54,6 +49,3 @@ Wegener’s name is commonly associated with several concepts and terms across E
 - Plate tectonics
 - Paleomagnetism
 - Seafloor spreading
-
-
-## References

@@ -1,5 +1,6 @@
 ---
-id: "olof-palme-assassination-1986"
+id: "sweden-olof-palme-assassination-1986"
+aliases: ["olof-palme-assassination-1986"]
 name: "Olof Palme Assassination (1986)"
 date: "1986-02-28"
 location: "Stockholm, Sweden"

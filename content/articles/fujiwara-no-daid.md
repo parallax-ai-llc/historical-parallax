@@ -1,5 +1,6 @@
 ---
-id: "fujiwara-no-daido"
+id: "fujiwara-no-daid"
+aliases: ["fujiwara-no-daido"]
 name: "Fujiwara no Daidō"
 birth: null
 death: null

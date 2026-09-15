@@ -1,5 +1,6 @@
 ---
-id: "nurhaci"
+id: "nurgaci"
+aliases: ["nurhaci"]
 name: "Nurhaci"
 birth: "1559-02-21"
 death: "1626-09-30"

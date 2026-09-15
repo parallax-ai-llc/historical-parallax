@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Eddie_Lampert_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1962 | See Eddie Lampert |
-
-
 
 [^1]: Wikipedia, "Eddie Lampert duplicate" - https://en.wikipedia.org/wiki/Eddie_Lampert_duplicate
 
@@ -65,6 +60,3 @@ If you are cleaning or indexing this dataset:
 ## Additional References (Canonical)
 
 [^2]: Wikipedia, "Eddie Lampert" - https://en.wikipedia.org/wiki/Eddie_Lampert
-
-
-## References

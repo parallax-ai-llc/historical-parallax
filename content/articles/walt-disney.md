@@ -1,5 +1,6 @@
 ---
 id: "walt-disney"
+aliases: ["walt-disney-duplicate"]
 name: "Walt Disney"
 birth: "1901-12-05"
 death: "1966-12-15"

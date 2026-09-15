@@ -1,5 +1,6 @@
 ---
-id: "emperor-gojong-korea"
+id: "king-kojong"
+aliases: ["emperor-gojong-korea"]
 name: "Emperor Gojong"
 birth: "1852-09-08"
 death: "1919-01-21"

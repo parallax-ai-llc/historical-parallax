@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Sun_Zhengyi"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate — see Masayoshi Son."
 ---
-
-## Summary
-
-Duplicate — see Masayoshi Son.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1957 | See Masayoshi Son |
-
-
 
 [^1]: Wikipedia, "Sun Zhengyi" - https://en.wikipedia.org/wiki/Sun_Zhengyi
 
@@ -54,6 +49,3 @@ When building people/organization knowledge bases from heterogeneous sources (Wi
 ## Additional References
 
 [^2]: Wikipedia, "Masayoshi Son" - https://en.wikipedia.org/wiki/Masayoshi_Son
-
-
-## References

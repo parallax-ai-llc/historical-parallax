@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bout"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 This article refers to **Viktor Bout**, a Russian national widely described as an arms dealer who became internationally known due to his alleged role in trafficking weapons in the post–Cold War era and his later prosecution in the United States.
 

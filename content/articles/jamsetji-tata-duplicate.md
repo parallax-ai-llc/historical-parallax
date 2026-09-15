@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jamsetji_Tata_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate — see Jamsetji Tata."
 ---
-
-## Summary
-
-Duplicate — see Jamsetji Tata.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1839 | See Jamsetji Tata entry |
-
-
 
 [^1]: Wikipedia, "Jamsetji Tata duplicate" - https://en.wikipedia.org/wiki/Jamsetji_Tata_duplicate
 
@@ -61,6 +56,3 @@ While detailed dates and attributions belong in the canonical entry, Jamsetji Ta
 
 - This file is intentionally brief and may omit specifics to avoid conflicting with the main Jamsetji Tata article.
 - If this duplicate is surfaced in search or navigation, it should be treated as an alias/cross-reference rather than a standalone profile.
-
-
-## References

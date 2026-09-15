@@ -1,5 +1,6 @@
 ---
-id: "sayadaw-u-ottama"
+id: "sayadaw-u-otama"
+aliases: ["sayadaw-u-ottama"]
 name: "Sayadaw U Ottama"
 birth: "1879-12-28"
 death: "1939-09-09"

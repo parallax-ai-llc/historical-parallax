@@ -1,5 +1,6 @@
 ---
-id: "amir-machmud"
+id: "amir-mahmud"
+aliases: ["amir-machmud"]
 name: "Amir Machmud"
 birth: "1923-02-21"
 death: "1995-04-21"

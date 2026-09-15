@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bang_Si-hyuk_dup"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1972 | Duplicate |
-
-
 
 [^1]: Wikipedia, "Bang Si-hyuk dup" - https://en.wikipedia.org/wiki/Bang_Si-hyuk_dup
 
@@ -62,6 +57,3 @@ To expand the canonical entry (if present), the following sections are commonly 
 ## References (Additional)
 
 - Consider linking the canonical article (non-dup) here once identified.
-
-
-## References

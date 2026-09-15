@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Honda_Kotaro"
 lastUpdated: "2026-02-26"
+editorialNote: "Dup."
 ---
 
 ## Summary
-
-Dup.
 
 Honda Kotaro (本多 光太郎, 1870–1954) was a Japanese metallurgist known for influential work on magnetic materials and steel.
 

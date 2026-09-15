@@ -1,5 +1,6 @@
 ---
-id: "kamioka-ryutaro"
+id: "kamioka-tsutomu"
+aliases: ["kamioka-ryutaro"]
 name: "Kamioka Ryutaro"
 birth: "1942-03-20"
 death: "2023-05-19"

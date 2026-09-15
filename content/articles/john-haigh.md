@@ -9,15 +9,13 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/08/John_George_Haigh_%2
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-26"
+editorialNote: "Already covered as John George Haigh."
 ---
-## Summary
-Already covered as John George Haigh.
 
 ## Career Timeline
 | Year | Event |
 |------|-------|
 | 1909 | Born |
-
 
 [^1]: Encyclopedia of Criminal History; court and law enforcement records.
 
@@ -71,6 +69,3 @@ Haigh was convicted of murder and was executed in 1949. His case remains a notab
 ## Legacy
 
 The case is frequently referenced in true‑crime literature as an illustration of both criminal ingenuity and the limits of concealment when investigators pursue financial trails and corroborating testimony.
-
-
-## References

@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jorge_Rafael_V
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Jorge_Videla"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 
@@ -29,9 +26,6 @@ Duplicate consolidated.
 | 2000s | Re-arrested and retried after Argentina reopened major human-rights cases. |
 | 2010 | Sentenced to life imprisonment for crimes against humanity. |
 | 2013 | Died in prison. |
-
-
-
 
 [^1]: Wikipedia, "Jorge Videla" - https://en.wikipedia.org/wiki/Jorge_Videla
 
@@ -68,6 +62,3 @@ Duplicate consolidated.
 - National Reorganization Process
 - Trial of the Juntas
 - Enforced disappearance
-
-
-## References

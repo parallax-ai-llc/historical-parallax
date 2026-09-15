@@ -1,5 +1,6 @@
 ---
 id: "dhirubhai-ambani"
+aliases: ["dhirubhai-ambani-duplicate"]
 name: "Dhirubhai Ambani"
 birth: "1932-12-28"
 death: "2002-07-06"

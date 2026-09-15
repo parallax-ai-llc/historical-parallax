@@ -1,5 +1,6 @@
 ---
-id: "tran-hung-dao"
+id: "tran-tran-hung-dao"
+aliases: ["tran-hung-dao"]
 name: "Trần Hưng Đạo"
 birth: "1228-01-01"
 death: "1300-08-20"

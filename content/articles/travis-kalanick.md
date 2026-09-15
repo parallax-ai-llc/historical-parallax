@@ -1,5 +1,6 @@
 ---
 id: "travis-kalanick"
+aliases: ["travis-kalanick-dup2","travis-kalanick-duplicate"]
 name: "Travis Kalanick"
 birth: "1976-08-06"
 nationality: "United States"

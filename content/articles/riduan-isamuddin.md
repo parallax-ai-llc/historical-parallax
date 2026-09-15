@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Riduan_Isamuddin.jpg
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Riduan_Isamuddin"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated. See Hambali."
 ---
-
-## Summary
-
-Duplicate consolidated. See Hambali.
 
 ## Career Timeline
 

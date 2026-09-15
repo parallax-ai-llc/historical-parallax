@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Lance_Armstrong_%28T
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Lance_Armstrong"
 lastUpdated: "2026-02-26"
+editorialNote: "Already in database for doping."
 ---
-
-## Summary
-
-Already in database for doping.
 
 ## Career Timeline
 

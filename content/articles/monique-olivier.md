@@ -1,8 +1,4 @@
 ---
-lastUpdated: "2026-02-26"
----
-
----
 id: "monique-olivier"
 name: "Monique Olivier"
 birth: "1948-02-01"

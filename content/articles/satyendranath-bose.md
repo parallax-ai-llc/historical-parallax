@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/SatyenBose1925.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Satyendranath_Bose"
 lastUpdated: "2026-02-26"
+editorialNote: "Already added as Satyendra Nath Bose."
 ---
-
-## Summary
-
-Already added as Satyendra Nath Bose.
 
 ## Career Timeline
 
@@ -21,8 +18,6 @@ Already added as Satyendra Nath Bose.
 |------|-------|
 | 1894 | Born |
 | 1974 | Died |
-
-
 
 [^1]: Wikipedia, "Satyendranath Bose" - https://en.wikipedia.org/wiki/Satyendranath_Bose
 
@@ -50,6 +45,3 @@ Already added as Satyendra Nath Bose.
 
 - "Boson" is used as a broad particle category in physics, with many different bosons studied across subfields.
 - Bose–Einstein statistics is a standard concept in modern physics education, keeping Bose's name embedded in core curricula.
-
-
-## References

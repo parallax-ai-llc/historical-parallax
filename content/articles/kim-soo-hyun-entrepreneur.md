@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Kim_Soo-hyun_entrepreneur"
 lastUpdated: "2026-02-26"
+editorialNote: "Placeholder."
 ---
-
-## Summary
-
-Placeholder.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1965 | Born |
-
-
 
 [^1]: Wikipedia, "Kim Soo-hyun entrepreneur" - https://en.wikipedia.org/wiki/Kim_Soo-hyun_entrepreneur
 
@@ -57,6 +52,3 @@ Placeholder.
 - Major projects and industrial impact (products, sectors, export activity)
 - Public service or philanthropy (foundations, donations, committees)
 - Recognition and controversies (awards, legal disputes) with careful sourcing
-
-
-## References

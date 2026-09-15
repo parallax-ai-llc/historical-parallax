@@ -9,10 +9,8 @@ image: ""
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Already covered as Dawood Ibrahim."
 ---
-
-## Summary
-Already covered as Dawood Ibrahim.
 
 ## Early Life
 D Company leader was born on 1955-12-26 in India. Details of early life shaped the path that would lead to a criminal career. [^1]

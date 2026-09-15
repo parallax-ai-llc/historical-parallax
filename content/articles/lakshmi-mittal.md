@@ -1,5 +1,6 @@
 ---
 id: "lakshmi-mittal"
+aliases: ["lakshmi-mittal-duplicate"]
 name: "Lakshmi Mittal"
 birth: "1950-06-15"
 nationality: "India"

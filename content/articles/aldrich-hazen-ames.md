@@ -9,11 +9,10 @@ image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Aldrich_Ames_mugshot
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Aldrich_Hazen_Ames"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Aldrich Hazen Ames was a Central Intelligence Agency (CIA) officer who became one of the most damaging U.S. counterintelligence failures of the late Cold War. While assigned to sensitive roles that dealt directly with Soviet intelligence targets, he provided information to the KGB (and later to the SVR) that compromised multiple U.S. operations and human sources.
 
@@ -42,8 +41,6 @@ His case is commonly cited in discussions of counterintelligence tradecraft, ins
 - **Operational security**: Shows how the compromise of a small set of identifiers can cascade across multiple cases.
 - **Institutional lessons**: Commonly used as a cautionary example for continuous evaluation, audits, and anomaly detection.
 
-
-
 [^1]: Wikipedia, "Aldrich Hazen Ames" - https://en.wikipedia.org/wiki/Aldrich_Hazen_Ames
 
 ## Additional Context
@@ -55,6 +52,3 @@ His case is commonly cited in discussions of counterintelligence tradecraft, ins
 
 - U.S. Department of Justice (press materials and case summaries, where available)
 - CIA public histories and declassified materials discussing Cold War counterintelligence (where available)
-
-
-## References

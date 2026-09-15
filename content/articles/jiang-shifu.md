@@ -1,5 +1,6 @@
 ---
-id: "liu-shifu"
+id: "jiang-shifu"
+aliases: ["liu-shifu"]
 name: "Liu Shifu"
 birth: "1884-06-27"
 death: "1915-03-27"

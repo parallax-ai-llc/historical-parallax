@@ -9,7 +9,8 @@ outcome: "$70 million stolen from Central Bank vault"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/80/BCB.png"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Banco_Central_burglary_at_Fortaleza"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 The Banco Central burglary in Fortaleza, Brazil, on August 6, 2005, was one of the largest bank robberies in history. Thieves tunneled 78 meters from a rented building into the bank's vault, stealing approximately $70 million (R$164 million) in unregistered banknotes.

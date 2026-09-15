@@ -1,5 +1,6 @@
 ---
-id: "yoon-suk-yeol"
+id: "yun-suk-yeol"
+aliases: ["yoon-suk-yeol"]
 name: "Yoon Suk-yeol"
 birth: "1960-12-18"
 nationality: "South Korea"

@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Gopalasamudram_Ramachandran"
 lastUpdated: "2026-02-26"
+editorialNote: "Already added."
 ---
 
 ## Summary
-
-Already added.
 
 Gopalasamudram Narayana Ramachandran (G. N. Ramachandran) was an Indian biophysicist best known for pioneering work on the structure of proteins and polypeptides. He is widely associated with the **Ramachandran plot**, a foundational tool in structural biology used to visualize and validate the sterically allowed backbone conformations (φ/ψ dihedral angles) of amino-acid residues in protein structures.
 
@@ -30,7 +29,6 @@ Gopalasamudram Narayana Ramachandran (G. N. Ramachandran) was an Indian biophysi
 | 1952 | Moved to the University of Madras as professor and head of the Department of Physics. |
 | 1954 | Co-proposed a triple-helical model for collagen (the "Madras group" work with Gopinath Kartha). |
 | 1963 | Published the steric-constraint analysis underlying the Ramachandran plot in the Journal of Molecular Biology. |
-
 
 ## Key Contributions
 

@@ -1,5 +1,6 @@
 ---
-id: "wahid-hasyim"
+id: "wachid-hasyim"
+aliases: ["wahid-hasyim"]
 name: "Wahid Hasyim"
 birth: "1914-06-01"
 death: "1953-04-19"

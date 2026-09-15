@@ -9,11 +9,10 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Mohamed_Suharto"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
 
 ## Summary
-
-Duplicate consolidated.
 
 Mohamed Suharto is commonly referenced in English-language sources as **Suharto** (1921–2008), a central figure in modern Indonesian political history and the dominant leader of Indonesia’s “New Order” era.
 
@@ -42,8 +41,6 @@ Mohamed Suharto is commonly referenced in English-language sources as **Suharto*
 
 Suharto’s legacy is widely contested. Supporters often point to state-led development and long-run institutional continuity, while critics emphasize authoritarian rule, corruption allegations, and unresolved human-rights accountability.
 
-
-
 [^1]: Wikipedia, "Mohamed Suharto" - https://en.wikipedia.org/wiki/Mohamed_Suharto
 
 ## Key Facts
@@ -51,6 +48,3 @@ Suharto’s legacy is widely contested. Supporters often point to state-led deve
 - Served as Indonesia’s second president and was the defining figure of the New Order era.
 - His rule ended in 1998 amid mass protests during the Asian financial crisis.
 - The period is associated with both economic growth and significant political repression.
-
-
-## References

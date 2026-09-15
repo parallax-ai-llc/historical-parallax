@@ -9,7 +9,8 @@ outcome: "$81 million stolen from central bank"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/2013_Federal_Reserve_Bank_of_New_York_from_west.jpg"
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery"
-lastUpdated: "2026-02-26"---
+lastUpdated: "2026-02-26"
+---
 
 ## Summary
 On February 4, 2016, hackers stole $81 million from the Bangladesh Bank through the SWIFT banking network. The theft was attributed to the North Korean Lazarus Group. The hackers attempted to steal $951 million but were stopped by a spelling error in one of the transactions.

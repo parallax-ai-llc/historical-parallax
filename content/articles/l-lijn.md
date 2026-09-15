@@ -1,5 +1,6 @@
 ---
-id: "li-liejun"
+id: "l-lijn"
+aliases: ["li-liejun"]
 name: "Li Liejun"
 birth: "1882-02-23"
 death: "1946-02-20"

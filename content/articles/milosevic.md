@@ -9,10 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Stevan_Kragujevi%C4%
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Milosevic"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate consolidated."
 ---
-## Summary
-
-Duplicate consolidated.
 
 ## Career Timeline
 

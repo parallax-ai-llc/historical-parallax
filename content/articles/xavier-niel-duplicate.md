@@ -9,19 +9,14 @@ image: ""
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Xavier_Niel_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
 | Year | Event |
 |------|-------|
 | 1967 | See Xavier Niel |
-
-
 
 [^1]: Wikipedia, "Xavier Niel duplicate" - https://en.wikipedia.org/wiki/Xavier_Niel_duplicate
 
@@ -58,6 +53,3 @@ When consolidating duplicates, a common approach is:
 ## References (additional)
 
 [^2]: Wikipedia, "Xavier Niel" - https://en.wikipedia.org/wiki/Xavier_Niel
-
-
-## References

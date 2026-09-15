@@ -1,4 +1,3 @@
-```markdown
 ---
 id: "atomic-bombing-of-hiroshima"
 name: "Atomic Bombing of Hiroshima"
@@ -71,4 +70,3 @@ Internationally, the bombings prompted landmark arms control efforts, including 
 | Source | Link |
 |--------|------|
 | Wikipedia | https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki |
-```

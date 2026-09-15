@@ -1,5 +1,6 @@
 ---
-id: "king-seongdeok"
+id: "king-songdeok"
+aliases: ["king-seongdeok"]
 name: "King Seongdeok"
 birth: "691-01-01"
 death: "737-01-01"

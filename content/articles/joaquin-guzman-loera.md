@@ -9,10 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Booking_photo_of_Joa
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_%22El_Chapo%22_Guzm%C3%A1n"
 lastUpdated: "2026-02-21"
+editorialNote: "Already covered."
 ---
-
-## Summary
-Already covered.
 
 ## Early Life
 Joaquin Guzman Loera was born on 1957-04-04 in Mexico. Details of early life shaped the path that would lead to a criminal career. [^1]

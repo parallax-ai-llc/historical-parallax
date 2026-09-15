@@ -1,5 +1,6 @@
 ---
-id: "park-yung-gyu"
+id: "park-chung-hees-grandfather"
+aliases: ["park-yung-gyu"]
 name: "Park Yung-gyu"
 birth: "1840-01-01"
 death: "1914-12-31"

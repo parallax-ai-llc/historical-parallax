@@ -9,10 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Houston%2C_Texas_%28
 socialLinks:
   wikipedia: ""
 lastUpdated: "2026-02-21"
+editorialNote: "Already covered individually."
 ---
-
-## Summary
-Already covered individually.
 
 ## Early Life
 Enron scandal figures was born on 1942-01-01 in United States. Details of early life shaped the path that would lead to a criminal career. [^1]

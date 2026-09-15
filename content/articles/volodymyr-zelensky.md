@@ -1,4 +1,3 @@
-```markdown
 ---
 name: "Volodymyr Zelensky"
 birth: "1978-01-25"
@@ -49,4 +48,3 @@ Zelensky fundamentally altered the perception of Ukrainian national identity on 
 | Source | Link |
 |--------|------|
 | Wikipedia | https://en.wikipedia.org/wiki/Volodymyr_Zelensky |
-```

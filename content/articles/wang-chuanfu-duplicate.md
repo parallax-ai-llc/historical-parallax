@@ -9,11 +9,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/9/99/BYD_Company%2C_Ltd._
 socialLinks:
   wikipedia: "https://en.wikipedia.org/wiki/Wang_Chuanfu_duplicate"
 lastUpdated: "2026-02-26"
+editorialNote: "Duplicate."
 ---
-
-## Summary
-
-Duplicate.
 
 ## Career Timeline
 
