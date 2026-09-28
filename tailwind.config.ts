@@ -20,7 +20,6 @@ export default {
       fontFamily: {
         sans: ['"Google Sans Flex"', "system-ui", "sans-serif"],
         serif: ["var(--font-serif)", "Georgia", "serif"],
-        graygate: ["var(--font-graygate)", "Impact", "Arial Narrow", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",

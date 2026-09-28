@@ -30,12 +30,16 @@
   },
   "footer": {
     "poweredBy": "제공:",
-    "legal": "Legal",
+    "services": "서비스",
+    "wiki": "위키",
+    "documents": "문서",
     "terms": "이용약관",
     "privacy": "개인정보처리방침",
     "footerAriaLabel": "사이트 하단",
     "navAriaLabel": "하단 내비게이션",
-    "poweredByAriaLabel": "Parallax AI, LLC (새 탭에서 열림)"
+    "poweredByAriaLabel": "Parallax AI, LLC (새 탭에서 열림)",
+    "contact": "문의하기",
+    "status": "서비스 상태"
   },
   "article": {
     "editPage": "GitHub에서 이 페이지 편집",

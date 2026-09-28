@@ -30,12 +30,16 @@
   },
   "footer": {
     "poweredBy": "技术支持",
-    "legal": "法律",
+    "services": "服务",
+    "wiki": "百科",
+    "documents": "文档",
     "terms": "服务条款",
     "privacy": "隐私政策",
     "footerAriaLabel": "网站页脚",
     "navAriaLabel": "页脚导航",
-    "poweredByAriaLabel": "Parallax AI, LLC（在新标签页中打开）"
+    "poweredByAriaLabel": "Parallax AI, LLC（在新标签页中打开）",
+    "contact": "联系我们",
+    "status": "服务状态"
   },
   "article": {
     "editPage": "在 GitHub 上编辑此页面",
