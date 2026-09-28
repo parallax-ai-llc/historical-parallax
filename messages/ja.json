@@ -22,12 +22,16 @@
   },
   "footer": {
     "poweredBy": "提供",
-    "legal": "リーガル",
+    "services": "サービス",
+    "wiki": "ウィキ",
+    "documents": "ドキュメント",
     "terms": "利用規約",
     "privacy": "プライバシーポリシー",
     "footerAriaLabel": "サイトフッター",
     "navAriaLabel": "フッターナビゲーション",
-    "poweredByAriaLabel": "Parallax AI, LLC（新しいタブで開く）"
+    "poweredByAriaLabel": "Parallax AI, LLC（新しいタブで開く）",
+    "contact": "お問い合わせ",
+    "status": "サービス状況"
   },
   "article": {
     "editPage": "GitHubでこのページを編集する",

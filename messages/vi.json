@@ -23,12 +23,16 @@
   },
   "footer": {
     "poweredBy": "Vận hành bởi",
-    "legal": "Legal",
+    "services": "Dịch vụ",
+    "wiki": "Wiki",
+    "documents": "Tài liệu",
     "terms": "Điều khoản dịch vụ",
     "privacy": "Chính sách bảo mật",
     "footerAriaLabel": "Chân trang",
     "navAriaLabel": "Điều hướng chân trang",
-    "poweredByAriaLabel": "Parallax AI, LLC (mở trong tab mới)"
+    "poweredByAriaLabel": "Parallax AI, LLC (mở trong tab mới)",
+    "contact": "Liên hệ",
+    "status": "Trạng thái dịch vụ"
   },
   "search": {
     "title": "Tìm kiếm bài viết",

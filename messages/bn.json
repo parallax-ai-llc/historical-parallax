@@ -22,12 +22,16 @@
   },
   "footer": {
     "poweredBy": "দ্বারা পরিচালিত",
-    "legal": "লিগ্যাল",
+    "services": "সেবাসমূহ",
+    "wiki": "উইকি",
+    "documents": "ডকুমেন্টস",
     "terms": "সেবার শর্তাবলী",
     "privacy": "গোপনীয়তা নীতি",
     "footerAriaLabel": "সাইট ফুটার",
     "navAriaLabel": "ফুটার নেভিগেশন",
-    "poweredByAriaLabel": "Parallax AI, LLC (নতুন ট্যাবে খোলে)"
+    "poweredByAriaLabel": "Parallax AI, LLC (নতুন ট্যাবে খোলে)",
+    "contact": "যোগাযোগ",
+    "status": "সেবার অবস্থা"
   },
   "article": {
     "editPage": "GitHub-এ এই পেজটি সম্পাদনা করুন",

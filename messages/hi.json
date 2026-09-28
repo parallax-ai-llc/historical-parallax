@@ -30,12 +30,16 @@
   },
   "footer": {
     "poweredBy": "द्वारा संचालित",
-    "legal": "लीगल",
+    "services": "सेवाएँ",
+    "wiki": "विकी",
+    "documents": "दस्तावेज़",
     "terms": "सेवा की शर्तें",
     "privacy": "गोपनीयता नीति",
     "footerAriaLabel": "साइट फुटर",
     "navAriaLabel": "फुटर नेविगेशन",
-    "poweredByAriaLabel": "Parallax AI, LLC (नए टैब में खुलता है)"
+    "poweredByAriaLabel": "Parallax AI, LLC (नए टैब में खुलता है)",
+    "contact": "संपर्क करें",
+    "status": "सेवा स्थिति"
   },
   "article": {
     "editPage": "GitHub पर इस पेज को संपादित करें",

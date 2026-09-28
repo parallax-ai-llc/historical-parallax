@@ -22,12 +22,16 @@
   },
   "footer": {
     "poweredBy": "Работает на",
-    "legal": "Legal",
+    "services": "Сервисы",
+    "wiki": "Вики",
+    "documents": "Документы",
     "terms": "Условия использования",
     "privacy": "Политика конфиденциальности",
     "footerAriaLabel": "Нижний колонтитул сайта",
     "navAriaLabel": "Навигация нижнего колонтитула",
-    "poweredByAriaLabel": "Parallax AI, LLC (открывается в новой вкладке)"
+    "poweredByAriaLabel": "Parallax AI, LLC (открывается в новой вкладке)",
+    "contact": "Контакты",
+    "status": "Статус сервиса"
   },
   "article": {
     "editPage": "Редактировать эту страницу на GitHub",

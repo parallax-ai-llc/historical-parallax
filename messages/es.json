@@ -30,12 +30,16 @@
   },
   "footer": {
     "poweredBy": "Desarrollado por",
-    "legal": "Legal",
+    "services": "Servicios",
+    "wiki": "Wiki",
+    "documents": "Documentos",
     "terms": "Términos de Servicio",
     "privacy": "Política de Privacidad",
     "footerAriaLabel": "Pie de página del sitio",
     "navAriaLabel": "Navegación del pie de página",
-    "poweredByAriaLabel": "Parallax AI, LLC (se abre en una nueva pestaña)"
+    "poweredByAriaLabel": "Parallax AI, LLC (se abre en una nueva pestaña)",
+    "contact": "Contacto",
+    "status": "Estado del servicio"
   },
   "article": {
     "editPage": "Editar esta página en GitHub",

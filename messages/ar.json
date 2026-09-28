@@ -30,12 +30,16 @@
   },
   "footer": {
     "poweredBy": "مدعوم من",
-    "legal": "Legal",
+    "services": "الخدمات",
+    "wiki": "ويكي",
+    "documents": "المستندات",
     "terms": "شروط الخدمة",
     "privacy": "سياسة الخصوصية",
     "footerAriaLabel": "تذييل الموقع",
     "navAriaLabel": "تنقل التذييل",
-    "poweredByAriaLabel": "Parallax AI, LLC (يفتح في تبويب جديد)"
+    "poweredByAriaLabel": "Parallax AI, LLC (يفتح في تبويب جديد)",
+    "contact": "اتصل بنا",
+    "status": "حالة الخدمة"
   },
   "article": {
     "editPage": "تعديل هذه الصفحة على GitHub",
