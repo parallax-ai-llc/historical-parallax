@@ -53,7 +53,7 @@ export function HomeClient({ recentArticles, totalCount }: HomeClientProps) {
         <ThemeToggle />
       </header>
 
-      <main className="flex min-h-screen flex-1 flex-col items-center justify-center px-4 md:min-h-0">
+      <main className="flex min-h-[90vh] flex-1 flex-col items-center justify-center px-4">
         <div className="w-full max-w-xl space-y-8 text-center">
           <div>
             <h1 className="font-serif text-4xl font-bold tracking-tight md:text-5xl leading-[1.2] min-h-[1.2em] text-primary">
@@ -61,6 +61,9 @@ export function HomeClient({ recentArticles, totalCount }: HomeClientProps) {
             </h1>
             <p className="text-muted-foreground text-sm md:text-base italic leading-relaxed">
               &ldquo;{t("common.tagline")}&rdquo;
+            </p>
+            <p className="mt-1 text-muted-foreground text-xs md:text-sm leading-relaxed">
+              {t("common.manifesto")}
             </p>
             {totalCount > 0 && (
               <p className="mt-2 text-xs text-muted-foreground/60">
