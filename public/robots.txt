@@ -160,6 +160,11 @@ Disallow: /
 User-Agent: PerplexityBot
 Disallow: /
 
+# Parallel Web Systems search crawler. Was ~98% of origin requests
+# (HEAD+GET on every /a/ article, ~4 req/s) in 2026-10.
+User-Agent: ShapBot
+Disallow: /
+
 User-Agent: Applebot-Extended
 Disallow: /
 

@@ -8,6 +8,12 @@ import { MapTimeline } from "@/components/map-ui/map-timeline";
 export const revalidate = 3600;
 export const dynamicParams = true;
 
+// Required for ISR on a dynamic segment (see app/a/[id]/page.tsx): render each
+// map on its first visit, then serve it from the cache.
+export function generateStaticParams() {
+  return [];
+}
+
 interface MapPageProps {
   params: Promise<{ mapId: string }>;
 }

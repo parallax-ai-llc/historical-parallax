@@ -9,6 +9,15 @@ const GITHUB_REPO = "https://github.com/parallax-ai-llc/historical-parallax";
 export const revalidate = 86400;
 export const dynamicParams = true;
 
+// Required for ISR on a dynamic segment: without generateStaticParams (even an
+// empty one) Next renders the route on every request and sends
+// `Cache-Control: private, no-store`, so revalidate above never applied and every
+// crawler hit ran a serverless function. Empty = render each article on its first
+// visit, then serve it from the cache.
+export function generateStaticParams() {
+  return [];
+}
+
 interface ArticlePageProps {
   params: Promise<{ id: string }>;
 }
