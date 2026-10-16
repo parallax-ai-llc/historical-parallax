@@ -55,3 +55,6 @@ mass_gen.js
 next-env.d.ts
 
 .vercel
+
+# claude code (local settings)
+/.claude/
