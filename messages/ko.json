@@ -229,5 +229,11 @@
   "language": {
     "select": "언어 선택",
     "current": "언어"
+  },
+  "appBanner": {
+    "title": "Parallax 앱",
+    "description": "앱에서 더 편하게 읽어보세요",
+    "install": "설치",
+    "dismiss": "닫기"
   }
 }

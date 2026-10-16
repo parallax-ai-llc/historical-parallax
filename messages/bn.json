@@ -221,5 +221,11 @@
   "language": {
     "select": "ভাষা নির্বাচন করুন",
     "current": "ভাষা"
+  },
+  "appBanner": {
+    "title": "Parallax অ্যাপ",
+    "description": "অ্যাপে আরও আরামে পড়ুন",
+    "install": "ইনস্টল করুন",
+    "dismiss": "বন্ধ করুন"
   }
 }

@@ -44,5 +44,11 @@
   },
   "maps": {
     "viewMaps": "Tingnan ang mga Mapa ng Pangyayari"
+  },
+  "appBanner": {
+    "title": "Parallax App",
+    "description": "Mas komportableng magbasa sa app",
+    "install": "I-install",
+    "dismiss": "Isara"
   }
 }

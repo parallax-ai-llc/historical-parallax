@@ -221,5 +221,11 @@
   "language": {
     "select": "Выбрать язык",
     "current": "Язык"
+  },
+  "appBanner": {
+    "title": "Приложение Parallax",
+    "description": "Читайте удобнее в приложении",
+    "install": "Установить",
+    "dismiss": "Закрыть"
   }
 }

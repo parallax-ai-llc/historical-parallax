@@ -221,5 +221,11 @@
   "language": {
     "select": "言語を選択",
     "current": "言語"
+  },
+  "appBanner": {
+    "title": "Parallax アプリ",
+    "description": "アプリでもっと快適に読めます",
+    "install": "インストール",
+    "dismiss": "閉じる"
   }
 }

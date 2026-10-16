@@ -229,5 +229,11 @@
   "language": {
     "select": "اختر اللغة",
     "current": "اللغة"
+  },
+  "appBanner": {
+    "title": "تطبيق Parallax",
+    "description": "اقرأ براحة أكبر في التطبيق",
+    "install": "تثبيت",
+    "dismiss": "إغلاق"
   }
 }

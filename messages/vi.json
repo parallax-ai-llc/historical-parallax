@@ -44,5 +44,11 @@
   },
   "maps": {
     "viewMaps": "Xem Bản đồ Sự kiện"
+  },
+  "appBanner": {
+    "title": "Ứng dụng Parallax",
+    "description": "Đọc thuận tiện hơn trong ứng dụng",
+    "install": "Cài đặt",
+    "dismiss": "Đóng"
   }
 }
